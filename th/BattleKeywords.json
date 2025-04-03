@@ -137,20 +137,20 @@
     },
     {
       "id": "Disarming",
-      "name": "Defense Power Down",
-      "desc": "Defense skills lose final Power by the effect’s Count for one turn."
+      "name": "ลดพลังป้องกัน",
+      "desc": "สกิลป้องกันจะถูกลดผลรวมแต้มตามจำนวนดีบัพ เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "ResultReduction",
-      "name": "Power Down",
-      "desc": "All skills lose final Power by the effect’s Count for one turn.",
-      "summary": "Skill Final Power -{0}"
+      "name": "ลดพลัง",
+      "desc": "สกิลทั้งหมดถูกลดผลรวมแต้มตามจำนวนดีบัพ เป็นเวลา 1 เทิร์น",
+      "summary": "ผลรวมแต้มสกิล -{0}"
     },
     {
       "id": "AttackDmgDown",
-      "name": "Damage Down",
-      "desc": "Deal less damage with skills based on the effect’s Count for one turn. (Max 10)",
-      "summary": "-{0}0% Damage Dealt"
+      "name": "ลดความเสียหาย",
+      "desc": "ลดความเสียหายที่ทำได้ตามจำนวนดีบัพ 1ขั้นต่อ 10% เป็นเวลา 1 เทิร์น (สูงสุด 10)",
+      "summary": "-{0}0% ความเสียหายที่ทำ"
     },
     {
       "id": "DefenseDown",
