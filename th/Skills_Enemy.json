@@ -14,7 +14,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Keep Down",
+          "name": "ตัดทอน",
           "desc": "[OnSucceedAttack] Inflict 2 Bind; Heal 5% of Max HP"
         }
       ]
@@ -24,7 +24,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sneaky Attack",
+          "name": "แอบจู่โจม",
           "desc": "[OnSucceedAttack] Gain 1 Attack Power Up next turn"
         }
       ]
@@ -34,7 +34,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wild Swipe"
+          "name": "ปาดหน้า"
         }
       ]
     },
@@ -43,7 +43,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Open Wound",
+          "name": "แผลเปิด",
           "desc": "[OnSucceedAttack] Inflict 1 Attack Power Down next turn"
         }
       ]
@@ -53,7 +53,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spot Vulnerability",
+          "name": "เจอจุดรุกฆาต",
           "desc": "[OnSucceedAttack] Inflict 3 Fragile next turn"
         }
       ]
@@ -63,7 +63,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crier"
+          "name": "ร่ำไห้"
         }
       ]
     },
@@ -72,7 +72,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Onslaught Command",
+          "name": "คำสั่งจู่โจมตี",
           "desc": "[WhenUse] Apply 1 Attack Power Up to a random ally next turn"
         }
       ]
@@ -82,7 +82,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rampart Command",
+          "name": "คำสั่งป้องกัน",
           "desc": "[2xPostLine]\n[WhenUse] Give 2 Defense Power Up to 2 random allies next turn"
         }
       ]
@@ -92,7 +92,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mind Wave",
+          "name": "คลื่นพลังจิต",
           "desc": "[5xPostLine]\n[OnSucceedAttack] Target loses 20 SP"
         }
       ]
@@ -102,7 +102,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clumsy Chop",
+          "name": "ฟันชุ่ยๆ",
           "desc": "",
           "coinlist": [
             {}
@@ -115,7 +115,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clunky Stab",
+          "name": "แทงชุ่ยๆ",
           "desc": "",
           "coinlist": [
             {}
@@ -128,7 +128,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Weak Blow",
+          "name": "โจมตีอ่อนแอ่",
           "desc": "",
           "coinlist": [
             {}
@@ -141,7 +141,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hit",
+          "name": "ชก",
           "desc": "",
           "coinlist": [
             {}
@@ -154,7 +154,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heavy Strike",
+          "name": "จู่โจมรุนแรง",
           "desc": "",
           "coinlist": [
             {}
@@ -167,7 +167,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Block",
+          "name": "ปัดป้อง",
           "desc": ""
         }
       ]
@@ -177,7 +177,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweep",
+          "name": "กวาด",
           "desc": "",
           "coinlist": [
             {}
@@ -190,7 +190,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multi-block",
+          "name": "ปัดป้องหลายชั้น",
           "desc": ""
         }
       ]
@@ -213,7 +213,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quick Jabs",
+          "name": "รั่วหมัด",
           "desc": "",
           "coinlist": [
             {},
@@ -227,7 +227,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "แกว่ง",
           "desc": "",
           "coinlist": [
             {}
@@ -240,7 +240,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slice",
+          "name": "แกว่ง",
           "desc": "",
           "coinlist": [
             {}
@@ -253,7 +253,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweep",
+          "name": "กวาด",
           "desc": "",
           "keywords": [
             "Bleeding"
@@ -276,7 +276,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multi-block",
+          "name": "ปัดป้องหลายชั้น",
           "desc": ""
         }
       ]
@@ -299,7 +299,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quick Jabs",
+          "name": "รั่วหมัด",
           "desc": "",
           "coinlist": [
             {}
@@ -312,7 +312,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "แกว่ง",
           "desc": "",
           "keywords": [
             "Bleeding"
@@ -328,7 +328,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slice",
+          "name": "แกว่ง",
           "desc": "",
           "coinlist": [
             {
@@ -347,7 +347,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweep",
+          "name": "กวาด",
           "desc": "",
           "coinlist": [
             {
@@ -366,7 +366,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "ป้องกัน",
           "desc": ""
         }
       ]
@@ -389,7 +389,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quick Jabs",
+          "name": "รั่วหมัด",
           "desc": "",
           "coinlist": [
             {
@@ -422,7 +422,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "แกว่ง",
           "desc": "",
           "coinlist": [
             {}
@@ -435,7 +435,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slice",
+          "name": "แกว่ง",
           "desc": "",
           "coinlist": [
             {
@@ -454,7 +454,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweep",
+          "name": "กวาด",
           "desc": "",
           "coinlist": [
             {
@@ -473,7 +473,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multi-block",
+          "name": "ปัดป้องหลายชั้น",
           "desc": ""
         }
       ]
@@ -496,7 +496,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quick Jabs",
+          "name": "รั่วหมัด",
           "desc": "",
           "coinlist": [
             {
@@ -529,7 +529,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "แกว่ง",
           "desc": "",
           "coinlist": [
             {}
@@ -542,7 +542,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slice",
+          "name": "แกว่ง",
           "desc": "",
           "coinlist": [
             {
@@ -561,7 +561,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multi-block",
+          "name": "ปัดป้องหลายชั้น",
           "desc": ""
         }
       ]
@@ -571,7 +571,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crier",
+          "name": "ร่ำไห้",
           "desc": "",
           "coinlist": [
             {}
@@ -584,7 +584,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rampart Command",
+          "name": "คำสั่งป้องกัน",
           "desc": "[WhenUse] Apply 1 Protection to 2 random allies next turn",
           "coinlist": [
             {}
@@ -597,7 +597,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harden",
+          "name": "เกรงตัว",
           "desc": ""
         }
       ]
@@ -607,7 +607,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Onslaught Command",
+          "name": "คำสั่งจู่โจมตี",
           "desc": "",
           "coinlist": [
             {
@@ -626,7 +626,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crier",
+          "name": "ร่ำไห้",
           "desc": "",
           "coinlist": [
             {
@@ -652,7 +652,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Onslaught Command",
+          "name": "คำสั่งจู่โจมตี",
           "desc": "[WhenUse] Apply 1 Damage Up to 2 random allies next turn",
           "coinlist": [
             {
@@ -671,7 +671,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mind Wave",
+          "name": "คลื่นพลังจิต",
           "desc": "",
           "coinlist": [
             {
@@ -690,7 +690,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harden",
+          "name": "เกรงตัว",
           "desc": ""
         }
       ]
@@ -700,7 +700,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rampart Command",
+          "name": "คำสั่งป้องกัน",
           "desc": "[WhenUse] Apply 1 Protection to 2 random allies next turn",
           "coinlist": [
             {
@@ -719,7 +719,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "แกว่ง",
           "desc": "",
           "coinlist": [
             {}
@@ -732,7 +732,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sneaky Bash",
+          "name": "แอบพุ่งชน",
           "desc": "",
           "coinlist": [
             {
@@ -758,7 +758,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wee Wish",
+          "name": "เราขอ~",
           "desc": "[StartBattle] Every Coin of the skill in the 2nd slot lands Heads",
           "coinlist": [
             {}
@@ -771,7 +771,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pipe Down",
+          "name": "เงียบดิ",
           "desc": "",
           "coinlist": [
             {}
@@ -784,7 +784,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heavy Swing",
+          "name": "ฟันรุนแรง",
           "desc": "",
           "coinlist": [
             {
@@ -811,7 +811,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wee Wish",
+          "name": "เราขอ~",
           "desc": "[StartBattle] Every Coin of the skill in the 2nd slot lands Heads",
           "coinlist": [
             {}
@@ -824,7 +824,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carve",
+          "name": "สลัก",
           "desc": "",
           "coinlist": [
             {}
@@ -837,7 +837,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cunning Stab",
+          "name": "เหลี่ยมแทง",
           "desc": "",
           "coinlist": [
             {
@@ -856,7 +856,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wee Wish",
+          "name": "เราขอ~",
           "desc": "[StartBattle] Every Coin of the skill in the 2nd slot lands Heads",
           "coinlist": [
             {}
@@ -869,7 +869,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Block",
+          "name": "ปัดป้อง",
           "desc": "",
           "coinlist": [
             {}
@@ -882,7 +882,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Throat Slit",
+          "name": "เฉือนลำคอ",
           "desc": "",
           "coinlist": [
             {
@@ -901,7 +901,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shank",
+          "name": "เฉือน",
           "desc": "[BeforeAttack] If target has less than 50% HP, use Coin 1 and 2 an additional time",
           "coinlist": [
             {
@@ -927,7 +927,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mutilate",
+          "name": "ฆ่าไม่เลี้ยง",
           "desc": "[EnemyKill] Use this skill 1 more time",
           "coinlist": [
             {
@@ -960,7 +960,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I’ll Show You…!",
+          "name": "จะให้แกได้เห็น...!",
           "desc": "[StartBattle] Gain 1 Attack Power Up",
           "coinlist": [
             {}
@@ -973,7 +973,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Glinting Wish",
+          "name": "คำขอแวววับ",
           "desc": "[StartBattle] All Coins land Heads this turn",
           "coinlist": [
             {}
@@ -986,7 +986,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Buzz Off!",
+          "name": "ไปไหนก็ไป!",
           "desc": "",
           "coinlist": [
             {}
@@ -999,7 +999,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Intruder Alert!",
+          "name": "ระวังผู้บุกรุก!",
           "desc": "",
           "coinlist": [
             {},
@@ -1019,7 +1019,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Freeze!",
+          "name": "หยุด อย่าขยับ!",
           "desc": "",
           "coinlist": [
             {
@@ -1038,7 +1038,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hold It Right There!",
+          "name": "ช้าก่อน!",
           "desc": "",
           "coinlist": [
             {
@@ -1064,7 +1064,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This’ll Hurt!",
+          "name": "แกช้ำแน่!",
           "desc": "[WinDuel] Skill Power +1",
           "coinlist": [
             {}
@@ -1103,7 +1103,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Interloper Spotted",
+          "name": "พบเจอผู้บุกรุก",
           "desc": "",
           "coinlist": [
             {},
@@ -1124,7 +1124,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wary Move",
+          "name": "ระวังก้าว",
           "desc": "",
           "coinlist": [
             {},
@@ -1145,7 +1145,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wide Arrest",
+          "name": "เข้าจับกุม",
           "desc": "[WinDuel] Skill Power +2",
           "coinlist": [
             {},
@@ -1166,7 +1166,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Not a Chance",
+          "name": "ปล่อยไว้ไม่ได้",
           "desc": "",
           "coinlist": [
             {}
@@ -1179,7 +1179,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bailemos~",
+          "name": "ไบเลโมส~",
           "desc": "",
           "coinlist": [
             {
@@ -1212,7 +1212,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Danza de Paz",
+          "name": "ดันซ่า เดอ ปาซ",
           "desc": "[WhenUse] Apply 1 Defense Power Up to all allies next turn",
           "coinlist": [
             {}
@@ -1225,7 +1225,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Duelo de Baile",
+          "name": "ดูเอโล เดอ ไบเล",
           "desc": "[WinDuel] Target loses 5 SP",
           "coinlist": [
             {},
@@ -1246,7 +1246,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Puñales Joviales",
+          "name": "ปุญาเลส โจวิอาเลส",
           "desc": "If target’s SP is below 0, Skill Power +1",
           "coinlist": [
             {}
@@ -1259,7 +1259,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "¡Olé!",
+          "name": "¡โอเล่!",
           "desc": "[OnSucceedEvade] Target loses 5 SP",
           "coinlist": [
             {}
@@ -1272,7 +1272,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Danza de Emoción",
+          "name": "ดันซ่า เดอ อีโมเซียน",
           "desc": "[WhenUse] Gain 1 Attack Power Up next turn",
           "coinlist": [
             {}
@@ -1285,7 +1285,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pasos Pasionales",
+          "name": "ปาโสซ ปาสิโอนาเลส",
           "desc": "[WhenUse] Heal 5 SP",
           "coinlist": [
             {
@@ -1325,7 +1325,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "¿Eso es todo?",
+          "name": "¿เอโซ เอส โทโด?",
           "desc": "[WinDuel] Deal 10 SP damage",
           "coinlist": [
             {
@@ -1344,7 +1344,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "¡Bruscamente!",
+          "name": "¡บรุซคาเมนเต้!",
           "desc": "",
           "coinlist": [
             {},
@@ -1364,7 +1364,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rápidamente~",
+          "name": "ราปิดาเมนเต้~",
           "desc": "",
           "coinlist": [
             {},
@@ -1384,7 +1384,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pañata Party~!",
+          "name": "ปิญญาตา ปาร์ตี้~!",
           "desc": "[WhenUse] If target’s SP is below 0, crit chance increases in proportion to target’s SP",
           "coinlist": [
             {
@@ -1403,7 +1403,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "¡Excelente!",
+          "name": "¡เอกเซเลนเต้!",
           "desc": "[OnSucceedEvade] Lower user’s Stagger Threshold by 5; Deal 5 SP damage",
           "coinlist": [
             {}
@@ -1416,7 +1416,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I’ll Tear Ya Apart",
+          "name": "ฉันจะฉีกร่างแก",
           "desc": "If target’s SP is lower than user’s, Skill Power +1",
           "coinlist": [
             {
@@ -1442,7 +1442,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gruesome Welcome",
+          "name": "ต้อนรับด้วยหมัด",
           "desc": "",
           "coinlist": [
             {
@@ -1461,7 +1461,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Insult Barrage",
+          "name": "ถาโถมคำด่า",
           "desc": "[WinDuel] Heal 10 SP for a random ally",
           "coinlist": [
             {},
@@ -1481,7 +1481,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ey!",
+          "name": "เฮ้ย!",
           "desc": "[WinDuel] Target loses 15 SP",
           "coinlist": [
             {
@@ -1500,7 +1500,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "What’re Ya Lookin’ At?",
+          "name": "มองค*ยอะไร?",
           "desc": "",
           "coinlist": [
             {}
@@ -1513,7 +1513,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I’ll Crack Ya Skull",
+          "name": "เดียวต่อยหัวแตก",
           "desc": "If target’s SP is lower than user’s, Skill Power +1",
           "coinlist": [
             {
@@ -1532,7 +1532,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Raid",
+          "name": "บุก",
           "desc": "",
           "coinlist": [
             {
@@ -2471,7 +2471,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "ป้องกัน",
           "desc": "",
           "coinlist": [
             {}
@@ -2529,7 +2529,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "ป้องกัน",
           "desc": "",
           "coinlist": [
             {}
@@ -2587,7 +2587,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "ป้องกัน",
           "desc": "",
           "coinlist": [
             {}
@@ -2657,7 +2657,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "ป้องกัน",
           "desc": "",
           "coinlist": [
             {}
