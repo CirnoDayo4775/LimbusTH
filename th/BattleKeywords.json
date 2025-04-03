@@ -2,94 +2,94 @@
   "dataList": [
     {
       "id": "AreaAtk",
-      "name": "AoE Attack",
-      "desc": "Targets 2 or more foes."
+      "name": "การโจมตีวงกว้าง",
+      "desc": "เล็งศัตรู 2 ตัวหรือมากกว่า"
     },
     {
       "id": "Enhancement",
-      "name": "Attack Power Up",
-      "desc": "Attack skills gain final Power by the effect’s Count for one turn."
+      "name": "เสริมพลังโจมตี",
+      "desc": "สกิลโจมตีได้รับผลรวมแต้มมากขึ้นตามจำนวนบัพในเทิร์นนั้น เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "Agility",
-      "name": "Haste",
-      "desc": "Speed increases by the effect’s Count for one turn."
+      "name": "ว่องไว",
+      "desc": "ความเร็วเพิ่มขึ้นตามจำนวนบัพในเทิร์นนั้น เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "Endurance",
-      "name": "Defense Power Up",
-      "desc": "Defense skills gain final Power by the effect’s Count for one turn."
+      "name": "เสริมพลังป้องกัน",
+      "desc": "สกิลป้องกันได้รับผลรวมแต้มมากขึ้นตามจำนวนบัพในเทิร์นนั้น เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "Reduction",
-      "name": "Attack Power Down",
-      "desc": "Attack skills lose final Power by the effect’s Count for one turn."
+      "name": "ลดพลังโจมตี",
+      "desc": "สกิลโจมตีเสียผลรวมแต้มเท่ากับดีบัพในเทิร์นนั้น เป็นเวลา 1 เทิร๋น"
     },
     {
       "id": "Binding",
-      "name": "Bind",
-      "desc": "Speed decreases by the effect’s Count for one turn."
+      "name": "พันธนา",
+      "desc": "ความเร็วลดลงตามจำนวนดีบัพในเทิร์นนั้น เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "Vulnerable",
-      "name": "Fragile",
-      "desc": "Take more damage from skills based on the effect’s Count for one turn. (Max 10)",
-      "summary": "+{0}0% Damage Taken"
+      "name": "เปราะบาง",
+      "desc": "ได้รับความเสียหายมากขึ้นต่อจำนวนดีบัพ 1 ขั้นต่อ10% ในเทิร์นนั้น เป็นเวลา 1 เทิร์น  (สูงสุด 10)",
+      "summary": "+{0}0% ได้รับดาเมจมากขึ้น"
     },
     {
       "id": "Taunt",
-      "name": "Taunt",
+      "name": "ยั่วยุ",
       "desc": ""
     },
     {
       "id": "Stun",
-      "name": "Stun",
+      "name": "นิ่งส์เลย",
       "desc": ""
     },
     {
       "id": "ElectricShock",
-      "name": "Shock",
-      "desc": "Take more damage by the effect’s value for the turn"
+      "name": "ไฟดูด",
+      "desc": "ได้รับดาเมจเพิ่มเติมตามค่าดีบัพปัจจุบัน เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "Burn",
-      "name": "Burn",
+      "name": "เผาไหม้",
       "desc": "At the end of the turn, take fixed damage by the effect’s Count, then halve it."
     },
     {
       "id": "Bleeding",
-      "name": "Bleed",
+      "name": "เลือดไหล",
       "desc": "When attacking, take fixed damage equal to (Count)% of current HP, then halve it."
     },
     {
       "id": "Target",
-      "name": "Marked",
+      "name": "หมายหัว",
       "desc": "Targeted by the character with the Passive [Sharp Edge]."
     },
     {
       "id": "SelfHarm_LowMorale",
-      "name": "Compulsion",
+      "name": "ฝืน",
       "desc": "- Low Morale\n- Turn Start: Gain 2 Haste and 2 Fragile"
     },
     {
       "id": "SelfHarm_Panic",
-      "name": "Compulsion",
+      "name": "ฝืน",
       "desc": "- Panic\n- Turn Start: Lose 10 HP"
     },
     {
       "id": "Blame_LowMorale",
-      "name": "Outlash",
+      "name": "สติหลุด",
       "desc": "- Low Morale\n- Turn Start: Gain 2 Attack Power Up and 2 Fragile"
     },
     {
       "id": "Blame_Panic",
-      "name": "Outlash",
+      "name": "สติหลุด",
       "desc": "- Panic\n- Turn Start: A random ally loses 20 SP"
     },
     {
       "id": "Charge",
-      "name": "Charge",
-      "desc": "Resource used by certain skills for additional effects. Its Count can go up to 20. Count lowers by 1 at the end of each turn."
+      "name": "ชาร์จ",
+      "desc": "ทรัพยากรสำหรับบางสกิลที่ใช้เพื่อเอฟเฟคเพิ่มเติม จำนวนชาร์จสามารถเพิ่มถึง 20 ได้และจะลดลงทีละ 1 ในทุกๆเทิร์น"
     },
     {
       "id": "DamageOverTime",
