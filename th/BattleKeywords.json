@@ -1890,22 +1890,22 @@
     },
     {
       "id": "VengeanceBookSinclair",
-      "name": "Book of Vengeance [Sinclair]",
-      "desc": "- Max Stack: 30\n- Deal more damage equal to (Stack)% (max 30%)\n- Gain the following effects next turn based on Stack:\n· At 10+ Stack: gain 1 Blunt DMG Up\n· At 20+ Stack: Max Speed +1, gain 1 Power Up\n· At 30 Stack: gain 2 Blunt DMG Up",
+      "name": "หนังสือชำระแค้น [Sinclair]",
+      "desc": "- สแต็คสูงสุด: 30\n- ทำความเสียหายเพิ่มเติมเท่ากับ (สแต็ค)% (สูงสุด 30%)\n- ได้รับเอฟเฟคต่อไปนี้ตามจำนวนสแต็ค:\n· เมื่อมี 10+ สแต็ค: ได้รับ 1 เสริมความเสียหายทุบ\n· เมื่อมี 20+ สแต็ค: ความเร็วสูงสุด +1, ได้รับ 1 เสริมพลัง\n· เมื่อมี 30 สแต็ค: ได้รับ 2 เสริมความเสียหายทุบ",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VendettaMark",
-      "name": "Vendetta Mark",
-      "desc": "- Max Stack: 10\n- Consumed by certain Skills or Passives\n- Take +2% more damage from The Middle enemies for every Stack (max 20%)\n- Turn End: the unit with the highest Stack of this effect gains 1 Sibling Vengeance Mark next turn\n(Counted separately from Vengeance Mark; if more than a single unit has the highest Stack of this effect, this effect targets the one with a higher HP percentage)",
+      "name": "เครื่องหมายอาฆาต",
+      "desc": "- สแต็คสูงสุด: 10\n- จะถูกใช้โดยบางสกิลหรือสกิลติดตัว\n- ได้รับ +2% ความเสียหายเพิ่มเติมจาก The Middle (สูงสุด 20%)\n- จบเทิร์น: ยูนิตที่มีสแต็คดีบัพนี้สูงสุดได้รับ 1 เครื่องหมายอาฆาตของผองญาติ ในเทิร์นต่อไป\n(นับแยกจาก Vengeance Mark; หากยูนิตมากกว่า 1 ตัวมีสแต็คดีบัพนี้สูงสุด, เอฟเฟคจะทำงานกับยูนิตที่เปอร์เซ็นต์เลือดสูงกว่า)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RetaliationBookFamily",
-      "name": "Sibling Vengeance Mark",
-      "desc": "- Max Stack: 1\n- Expires at Turn End\n- Every Identity treats this unit as having their Vengeance Mark",
+      "name": "เครื่องหมายอาฆาตของผองญาติ",
+      "desc": "- สแต็คสูงสุด: 1\n- จะถูกลบตอนจบเทิร์น\n- ทุกตัวตนจะทำเหมือนว่ายูนิตนี้มี เครื่องหมายความแค้น",
       "summary": "",
       "undefined": "-"
     }
