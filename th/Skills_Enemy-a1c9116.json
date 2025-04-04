@@ -6,12 +6,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Unmannerly Attack\u200B</line-height>",
-          "desc": "[WhenUse] Gain 1 [Agility] next turn",
+          "desc": "[WhenUse] ได้รับ 1 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -25,22 +25,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tendon Slice\u200B</line-height>",
-          "desc": "[WhenUse] If this unit's Speed is faster than the target's, เหรียญ Power +1\n[WhenUse] If the target has 3+ [Laceration], Base Power +1",
+          "desc": "[WhenUse] If this unit's Speed is faster than the target's, แต้มเหรียญ +1\n[WhenUse] If the target has 3+ [Laceration], Base Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -54,19 +54,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Messy Attack\u200B</line-height>",
-          "desc": "[WhenUse] At 7+ Speed, เหรียญ Power +1\n[WhenUse] If the target has 4+ [Laceration], เหรียญ Power +1\n[WinDuel] Deal more damage basedบนClash count (+5% per Clash count, max 50%)\n[WinDuel] Inflict +3 [Laceration] Count",
+          "desc": "[WhenUse] เมื่อมี 7+ Speed, แต้มเหรียญ +1\n[WhenUse] If the target has 4+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ทำ  more ความเสียหาย basedบนClash count (+5% per Clash count, max 50%)\n[WinDuel] มอบ +3 [Laceration]Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             }
@@ -80,7 +80,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] Gain 3 Shield for every type of negative effectบนself (max 10)",
+          "desc": "[WhenUse] ได้รับ 3 Shield for every type of negative effectบนself (max 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -104,7 +104,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -118,22 +118,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>Leg Wound\u200B</line-height>",
-          "desc": "[WhenUse] เหรียญ Power +1 for every 3 [Laceration]บนtarget (max 2)",
+          "desc": "[WhenUse] แต้มเหรียญ +1 for every 3 [Laceration]บนtarget (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -147,19 +147,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>ปาดหน้า\u200B</line-height>",
-          "desc": "[WhenUse] เหรียญ Power +1 for every 3 [Laceration]บนtarget (max 2)",
+          "desc": "[WhenUse] แต้มเหรียญ +1 for every 3 [Laceration]บนtarget (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             }
@@ -172,13 +172,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Counter\u200B</line-height>",
-          "desc": "[BeforeHit] Gain 2 Shield for every type of negative effectบนself (max 10)",
+          "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
+          "desc": "[BeforeHit] ได้รับ 2 Shield for every type of negative effectบนself (max 10)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit has Shield, inflict 1 [Paralysis]บนtarget next turn"
+                  "desc": "[OnSucceedAttack] If this unit has Shield, มอบ 1 [Paralysis]บนtarget ในเทิร์นหน้า"
                 }
               ]
             }
@@ -192,22 +192,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>Extract Fuel\u200B</line-height>",
-          "desc": "If the target has 2+ [Laceration], เหรียญ Power +1",
+          "desc": "If the target has 2+ [Laceration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 HP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 HP"
                 }
               ]
             }
@@ -221,19 +221,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Sweep the Backstreets\u200B</line-height>",
-          "desc": "If the target has 2+ [Laceration], เหรียญ Power +1",
+          "desc": "If the target has 2+ [Laceration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Paralysis]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Paralysis]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             }
@@ -247,12 +247,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Trash Disposal\u200B</line-height>",
-          "desc": "If the target has 4+ [Laceration], เหรียญ Power +1",
+          "desc": "If the target has 4+ [Laceration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             },
@@ -262,10 +262,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 },
                 {
-                  "desc": "On Hit with this Coin, heal 30% of the HP damage dealt"
+                  "desc": "On Hit with this Coin, ฟื้นฟู 30% of the HP ความเสียหาย ทำ t"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Reuse this เหรียญ (3 times per Skill)"
@@ -282,7 +282,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>333..1973\u200B</line-height>",
-          "desc": "[StartBattle] Gain 4 [Persistent]",
+          "desc": "[StartBattle] ได้รับ 4 [Persistent]",
           "coinlist": [
             {
               "coindescs": [
@@ -290,7 +290,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold by 5"
+                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold ไป 5"
                 }
               ]
             },
@@ -300,7 +300,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 }
               ]
             }
@@ -314,7 +314,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>For the Family\u200B</line-height>",
-          "desc": "[StartBattle] Apply 1 [Protection] to 2 random allies",
+          "desc": "[StartBattle] มอบ 1 [Protection] to 2 random allies",
           "coinlist": [
             {
               "coindescs": [
@@ -333,15 +333,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Night in the Backstreets\u200B</line-height>",
-          "desc": "If the target has 2+ [Laceration], เหรียญ Power +1",
+          "desc": "If the target has 2+ [Laceration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 8 HP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 8 HP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             },
@@ -351,13 +351,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 8 HP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 8 HP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold by 8"
+                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold ไป 8"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once (reduce [Laceration] Count by 1)"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once (reduce [Laceration]Count ไป 1)"
                 }
               ]
             }
@@ -371,12 +371,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Sudden Strike\u200B</line-height>",
-          "desc": "[WhenUse] Gain 1 [Agility] next turn",
+          "desc": "[WhenUse] ได้รับ 1 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             }
@@ -390,22 +390,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>Muscle Slice\u200B</line-height>",
-          "desc": "[WhenUse] If this unit's Speed is faster than the target's, เหรียญ Power +1\n[WhenUse] If the target has 3+ [Laceration], Base Power +1",
+          "desc": "[WhenUse] If this unit's Speed is faster than the target's, แต้มเหรียญ +1\n[WhenUse] If the target has 3+ [Laceration], Base Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -419,19 +419,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Indiscriminate Attack\u200B</line-height>",
-          "desc": "[WhenUse] At 7+ Speed, เหรียญ Power +1\n[WhenUse] If the target has 4+ [Laceration], เหรียญ Power +1\n[WinDuel] Deal more damage basedบนClash count (+5% per Clash count, max 50%)\n[WinDuel] Inflict 5 [Laceration]",
+          "desc": "[WhenUse] เมื่อมี 7+ Speed, แต้มเหรียญ +1\n[WhenUse] If the target has 4+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ทำ  more ความเสียหาย basedบนClash count (+5% per Clash count, max 50%)\n[WinDuel] มอบ 5 [Laceration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -445,7 +445,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] Gain 3 Shield for every type of negative effectบนself (max 10)",
+          "desc": "[WhenUse] ได้รับ 3 Shield for every type of negative effectบนself (max 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -469,7 +469,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             }
@@ -483,22 +483,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>Muscle Wound\u200B</line-height>",
-          "desc": "[WhenUse] เหรียญ Power +1 for every 3 [Laceration]บนtarget (max 2)",
+          "desc": "[WhenUse] แต้มเหรียญ +1 for every 3 [Laceration]บนtarget (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -512,19 +512,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Swift Attack\u200B</line-height>",
-          "desc": "[WhenUse] เหรียญ Power +1 for every 3 [Laceration]บนtarget (max 2)",
+          "desc": "[WhenUse] แต้มเหรียญ +1 for every 3 [Laceration]บนtarget (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -537,13 +537,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Counter\u200B</line-height>",
-          "desc": "[BeforeHit] Gain 2 Shield for every type of negative effectบนself (max 10)",
+          "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
+          "desc": "[BeforeHit] ได้รับ 2 Shield for every type of negative effectบนself (max 10)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit has Shield, inflict 1 [Paralysis]บนtarget next turn"
+                  "desc": "[OnSucceedAttack] If this unit has Shield, มอบ 1 [Paralysis]บนtarget ในเทิร์นหน้า"
                 }
               ]
             }
@@ -557,12 +557,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Startling Strike\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 3+ [Burst], Clash Power +1",
+          "desc": "[WhenUse] If the target has 3+ [Burst], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 }
               ]
             }
@@ -581,7 +581,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                 }
               ]
             },
@@ -591,7 +591,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Reuse this เหรียญ (this unit's Speed / 4) times (max 2)"
@@ -608,22 +608,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>Feather Strike\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's gain เหรียญ Power basedบนSpeed difference (เหรียญ Power +1 for every 2 Speed difference; max 3)\n[WhenUse] If the target has 4+ [Burst], เหรียญ Power +1\n[WinDuel] Inflict +3 [Burst] Count",
+          "desc": "If this unit's Speed is faster than the target's ได้รับ แต้มเหรียญ basedบนSpeed difference (แต้มเหรียญ +1 for every 2 Speed difference; max 3)\n[WhenUse] If the target has 4+ [Burst], แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]"
+                  "desc": "[OnSucceedAttack] มอบ [BurstAgility]"
                 }
               ]
             },
@@ -633,10 +633,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "If the target has [BurstAgility], deal +50% more damage"
+                  "desc": "If the target has [BurstAgility], ทำ  +50% more ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [LegStrength]"
+                  "desc": "[OnSucceedAttack] ได้รับ 3 [LegStrength]"
                 }
               ]
             }
@@ -650,7 +650,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>The Windup\u200B</line-height>",
-          "desc": "[DuelCounter] \n[WinDuel] Gain 3 [Agility] next turn",
+          "desc": "[DuelCounter] \n[WinDuel] ได้รับ 3 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {}
           ]
@@ -663,12 +663,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Pursuit\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 3+ [Burst], Clash Power +1",
+          "desc": "[WhenUse] If the target has 3+ [Burst], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                 }
               ]
             }
@@ -687,7 +687,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 }
               ]
             },
@@ -697,7 +697,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Reuse this เหรียญ (this unit's Speed / 4) times (max 2)"
@@ -714,22 +714,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>Umbra Strike\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's gain เหรียญ Power basedบนSpeed difference (เหรียญ Power +1 for every 2 Speed difference; max 3)\n[WhenUse] If the target has 4+ [Burst], เหรียญ Power +1\n[WinDuel] Inflict +3 [Burst] Count",
+          "desc": "If this unit's Speed is faster than the target's ได้รับ แต้มเหรียญ basedบนSpeed difference (แต้มเหรียญ +1 for every 2 Speed difference; max 3)\n[WhenUse] If the target has 4+ [Burst], แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +3 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]"
+                  "desc": "[OnSucceedAttack] มอบ [BurstAgility]"
                 }
               ]
             },
@@ -739,10 +739,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "If the target has [BurstAgility], deal +50% more damage"
+                  "desc": "If the target has [BurstAgility], ทำ  +50% more ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [LegStrength]"
+                  "desc": "[OnSucceedAttack] ได้รับ 3 [LegStrength]"
                 }
               ]
             }
@@ -756,7 +756,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>The Windup\u200B</line-height>",
-          "desc": "[DuelCounter] \n[WinDuel] Gain 3 [Agility] next turn",
+          "desc": "[DuelCounter] \n[WinDuel] ได้รับ 3 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {}
           ]
@@ -774,7 +774,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -788,15 +788,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Right in the Dome\u200B</line-height>",
-          "desc": "[WhenUse] If the target has [MiddleFingerBook], inflict 2 additional [DefenseDown] with this Skill",
+          "desc": "[WhenUse] If the target has [MiddleFingerBook], มอบ 2 additional [DefenseDown] with this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [DefenseDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -810,25 +810,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>Gut Crush\u200B</line-height>",
-          "desc": "[WhenUse] If the target has [MiddleFingerBook], inflict 1 additional [AttackDown] with this Skill",
+          "desc": "[WhenUse] If the target has [MiddleFingerBook], มอบ 1 additional [AttackDown] with this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 [AttackDown] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [MiddleFingerBook], gain 1 [PlusCoinValueUp] next turn"
+                  "desc": "[OnSucceedAttack] If the target has [MiddleFingerBook], ได้รับ 1 [PlusCoinValueUp] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 [AttackDown] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [MiddleFingerBook], gain 1 [PlusCoinValueUp] next turn"
+                  "desc": "[OnSucceedAttack] If the target has [MiddleFingerBook], ได้รับ 1 [PlusCoinValueUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -842,26 +842,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>Vengeance awaits you all!\u200B</line-height>",
-          "desc": "Deal +10% more damage for every 2 [MiddleFingerBook]บนthe target (max 50%)\n[BeforeAttack] At 40% or less HP, gain Atk Weight +1\n[WhenUse] If the main target has [MiddleFingerBook], convert all Coinsบนthis Skill to [SuperCoin]s\n[WhenUse] เหรียญ Power +1 for every 3 enemy with [MiddleFingerBook] (max 2)\n[WhenUse] Clash Power +1 for every 2 [MiddleFingerBook]บนthe main target (max 5)\n[EndSkill] If this unit killed a target with [MiddleFingerBook], gain 1 [PlusCoinValueUp] next turn (2 times per turn)\n[EndSkill] Remove [MiddleFingerBook]บนall targets that were hit",
+          "desc": "ทำ +10% more ความเสียหาย for every 2 [MiddleFingerBook]บนthe target (max 50%)\n[BeforeAttack] เมื่อมี 40% or less HP, ได้รับ Atk Weight +1\n[WhenUse] If the main target has [MiddleFingerBook], convert all Coinsบนthis Skill to [SuperCoin]s\n[WhenUse] แต้มเหรียญ +1 for every 3 enemy with [MiddleFingerBook] (max 2)\n[WhenUse] แต้มปะทะ +1 for every 2 [MiddleFingerBook]บนthe main target (max 5)\n[EndSkill] If this unit killed a target with [MiddleFingerBook], ได้รับ 1 [PlusCoinValueUp] ในเทิร์นหน้า (2 times per turn)\n[EndSkill] Remove [MiddleFingerBook]บนall targets that were hit",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Reduction] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Reduction] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -875,25 +875,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>Seize ya Chance\u200B</line-height>",
-          "desc": "[BeforeHit] Gain 5 Shield for every [MiddleFingerBook]บนthe target (once per turn; max 50)\n[WhenUse] If the target has 5+ [MiddleFingerBook], Base Power +3; inflict 4 [DefenseDown]",
+          "desc": "[BeforeHit] ได้รับ 5 Shield for every [MiddleFingerBook]บนthe target (once per turn; max 50)\n[WhenUse] If the target has 5+ [MiddleFingerBook], Base Power +3; มอบ 4 [DefenseDown]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 20"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 20"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 15 fixed HP damage"
+                  "desc": "[OnSucceedAttack] ทำ  15 fixed HP ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 20"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 20"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 15 fixed HP damage"
+                  "desc": "[OnSucceedAttack] ทำ  15 fixed HP ความเสียหาย"
                 }
               ]
             }

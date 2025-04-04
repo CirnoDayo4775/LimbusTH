@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Gloomy Moan\u200B</line-height>",
+          "name": "<line-height=120%>เสียงครางหมองเศร้า\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Sinking]"
                 }
               ]
             }
@@ -24,20 +24,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Unrelenting Sinking\u200B</line-height>",
+          "name": "<line-height=120%>Unrelenting [Sinking]\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Sinking]"
                 }
               ]
             }
@@ -50,20 +50,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Sorrowful Recoil\u200B</line-height>",
+          "name": "<line-height=120%>สะท้อนความเศร้า\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +3 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                 }
               ]
             }
@@ -76,23 +76,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Sorrowful Torrent\u200B</line-height>",
+          "name": "<line-height=120%>กระแสน้ำโศกา\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 [Burst]"
                 }
               ]
             }
@@ -105,13 +105,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Cries Seeking Something\u200B</line-height>",
-          "desc": "Clash Power +2 for every surviving Old Umbrella\nDeal +25% damage for every Old Umbrella\nAt the end of the turn, all Old Umbrella expire\nAt the end of the turn, gain <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> equal to the number of <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> gained in the first turn",
+          "name": "<line-height=120%>ร้องเรียกหาบางสิ่ง\u200B</line-height>",
+          "desc": "แต้มปะทะ +2 for every surviving Old Umbrella\nทำ +25% ความเสียหาย for every Old Umbrella\nเมื่อมี the end of the turn, all Old Umbrella expire\nเมื่อมี the end of the turn, ได้รับ <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> equal to the number of <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> ได้รับed in the first turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
                 }
               ]
             }
@@ -124,8 +124,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Waiting\u200B</line-height>",
-          "desc": "[StartBattle] All enemies lose 20 SP",
+          "name": "<line-height=120%เฝ้าคอย\u200B</line-height>",
+          "desc": "[StartBattle] ศัตรูทุกตัว เสีย 20 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -144,7 +144,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Volatile Response\u200B</line-height>",
-          "desc": "[StartBattle] Gain <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Thorns</color></link></u>",
+          "desc": "[StartBattle] ได้รับ <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Thorns</color></link></u>",
           "coinlist": [
             {
               "coindescs": [
@@ -163,7 +163,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Volatile Reaction\u200B</line-height>",
-          "desc": "[StartBattle] Gain <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Thorns</color></link></u>",
+          "desc": "[StartBattle] ได้รับ <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Thorns</color></link></u>",
           "coinlist": [
             {
               "coindescs": [
@@ -182,12 +182,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Pleading Cries\u200B</line-height>",
-          "desc": "Clash Power +2 for every surviving Old Umbrella\nDeal +25% for every Old Umbrella",
+          "desc": "แต้มปะทะ +2 for every surviving Old Umbrella\nทำ +25% for every Old Umbrella",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Sinking]"
                 }
               ]
             }
@@ -200,8 +200,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Scattering Sorrow\u200B</line-height>",
-          "desc": "[EndSkill] Inflict +3 Rupture Count and +3 Sinking Count to all enemies",
+          "name": "<line-height=120%>ความโศกาที่ร่วงโรย\u200B</line-height>",
+          "desc": "[EndSkill] มอบ [Burst] +3 ขั้น และ [Sinking] +3 ขั้น แก่ศัตรูทั้งหมด",
           "coinlist": [
             {
               "coindescs": [
@@ -219,14 +219,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Electric Load\u200B</line-height>",
-          "desc": "[StartBattle] Gain 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nDeal +10% damage to targets with <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>",
+          "name": "<line-height=120%>บรรจุไฟฟ้า\u200B</line-height>",
+          "desc": "[StartBattle] ได้รับ 2 [SelfCharge]\n[DefeatDuel] เสีย 2 [SelfCharge]\nทำ +10% ความเสียหายแก่เป้าหมายที่มี <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -239,15 +239,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Electric Release\u200B</line-height>",
-          "desc": "[StartBattle] Gain 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nDeal +10% damage to targets with <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>",
+          "name": "<line-height=120%>ปล่อยไฟฟ้า\u200B</line-height>",
+          "desc": "[StartBattle] ได้รับ 2 [SelfCharge]\n[DefeatDuel] เสีย 2 [SelfCharge]\nทำ +10% ความเสียหายแก่เป้าหมายที่มี <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -260,23 +260,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Electric Discharge\u200B</line-height>",
-          "desc": "[StartBattle] Gain 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nDeal +10% damage to targets with <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>",
+          "name": "<line-height=120%>ปลดปล่อยประจุไฟ\u200B</line-height>",
+          "desc": "[StartBattle] ได้รับ 2 [SelfCharge]\n[DefeatDuel] เสีย 2 [SelfCharge]\nทำ +10% ความเสียหายแก่เป้าหมายที่มี <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Vulnerable] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 [Binding] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -289,20 +289,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>High-voltage Electric Discharge\u200B</line-height>",
-          "desc": "[WhenUse] At 5+ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>, deal +20% damageต่อทุกขั้นที่จ่ายไป of <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u> over 5\n[WhenUse] Clash Power +1 for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>\n[WhenUse]จ่าย all Self-charge",
+          "name": "<line-height=120%>ปลดปล่อยประจุไฟแรงดันสูง\u200B</line-height>",
+          "desc": "[WhenUse] เมื่อมี 5+ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>, ทำ  +20% ความเสียหายต่อทุกขั้นที่จ่ายไป of <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u> over 5\n[WhenUse] แต้มปะทะ +1 for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>\n[WhenUse]จ่าย all [SelfCharge]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Fragile next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Vulnerable] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -315,8 +315,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Coil Up\u200B</line-height>",
-          "desc": "If this Skill isบนa slot, head gains 50 Shield HP for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>.\nIf the head is broken, gain 25 Shield HP for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge instead.</color></link></u>\nSpend 1 Self-charge for every amount of Shield HP lost equal to the Shield HP gained for every Self-charge",
+          "name": "<line-height=120%>ขดตัว\u200B</line-height>",
+          "desc": "If this Skill isบนa slot, head ได้รับs 50 Shield HP for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>.\nIf the head is broken, ได้รับ 25 Shield HP for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-พุ่งเข้าใส่stead.</color></link></u>\nSpend 1 [SelfCharge] for every amount of Shield HP lost equal to the Shield HP ได้รับed for every [SelfCharge]",
           "coinlist": [
             {}
           ]
@@ -328,14 +328,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Wriggling Head\u200B</line-height>",
-          "desc": "Targets the enemy with the least HP\n[WhenUse]จ่าย 1 Self-charge\n[DefeatDuel] Lose 1 Self-charge",
+          "name": "<line-height=120%>หัวยั้วเยี้ย\u200B</line-height>",
+          "desc": "เล็งศัตรูที่มีHP น้อยที่สุด\n[WhenUse]จ่าย 1 [SelfCharge]\n[DefeatDuel] เสีย 1 [SelfCharge]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -348,15 +348,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Wriggling Tail\u200B</line-height>",
-          "desc": "Targets the enemy with the least HP\n[WhenUse]จ่าย 1 Self-charge\n[DefeatDuel] Lose 2 Self-charge",
+          "name": "<line-height=120%>หางยั้วเยี้ย\u200B</line-height>",
+          "desc": "เล็งศัตรูที่มีHP น้อยที่สุด\n[WhenUse]จ่าย 1 [SelfCharge]\n[DefeatDuel] เสีย 2 [SelfCharge]",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -369,13 +369,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Wanna Get Drunk?\u200B</line-height>",
+          "name": "<line-height=120%>อยากจะเมาป่าว?\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor and +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Vibration] และ [Vibration] +2 ขั้น"
                 }
               ]
             }
@@ -388,16 +388,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Let's Share the Drink!\u200B</line-height>",
+          "name": "<line-height=120%>มาแชร์เคริ่องกันหน่อยมา!\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 5% of Max HP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 5% ของ HP สูงสุด"
                 }
               ]
             }
@@ -410,23 +410,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>This is All I Got!\u200B</line-height>",
-          "desc": "Prioritizes enemies with <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>",
+          "name": "<line-height=120%>ฉันก็มีเท่านี้แหละ!\u200B</line-height>",
+          "desc": "ให้ความสำคัญเป็นหลัก แก่ศัตรูที่มี <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] by target's Tremor Count"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] เท่ากับขั้น [Vibration] ของเป้าหมาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack]จ่าย all of target's Tremor"
+                  "desc": "[OnSucceedAttack]จ่าย all of target's [Vibration]"
                 }
               ]
             }
@@ -439,13 +439,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>I'll Have This!\u200B</line-height>",
-          "desc": "If target has no <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, Clash Power +8 \n[WhenUse] If target has no <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, deal +150% damage",
+          "name": "<line-height=120%>อันนี้ฉันเอานะ!\u200B</line-height>",
+          "desc": "หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, แต้มปะทะ +8 \n[WhenUse] หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ  +150% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, deal 0 damage.\nFairy Gentleman will be Staggered next turn."
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ  0 ความเสียหาย.\nFairy Gentleman will be Staggered ในเทิร์นหน้า."
                 },
                 {
                   "desc": "[OnSucceedAttack] Remove all <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>."
@@ -461,8 +461,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>You Like This Brew?\u200B</line-height>",
-          "desc": "[WhenUse] Gain 3 Bind next turn",
+          "name": "<line-height=120%>ชอบสูตรนี้ไหมเหล่า?\u200B</line-height>",
+          "desc": "[WhenUse] ได้รับ 3 [Binding] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -481,15 +481,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Have a Swig!\u200B</line-height>",
-          "desc": "[StartBattle] Summon Fairy Wine next turn\n[DefeatDuel] Fairy Wine summoned at 70% HP",
+          "desc": "[StartBattle] Summon ไวน์สูตรภูต ในเทิร์นหน้า\n[DefeatDuel] ไวน์สูตรภูต summoned at 70% HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -502,8 +502,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Sweet Fairy Wine\u200B</line-height>",
-          "desc": "When killed by an Identity, apply 5 Tipsy to all Identities next turn",
+          "name": "<line-height=120%>Sweet ไวน์สูตรภูต\u200B</line-height>",
+          "desc": "When killed ไป an Identity, มอบ 5 [Tipsiness] to all Identities ในเทิร์นหน้า",
           "coinlist": [
             {}
           ]
@@ -515,13 +515,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Entangling Talisman\u200B</line-height>",
-          "desc": "[WhenUse] Inflict 3 [WrappedCurseTag]",
+          "name": "<line-height=120%>ผ้ายันต์พัวพัน\u200B</line-height>",
+          "desc": "[WhenUse] มอบ 3 [WrappedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture and +2 Rupture Count next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst] และ [Burst] +2 ขั้น ในเทิร์นหน้า"
                 }
               ]
             }
@@ -534,21 +534,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Cumulating Curse\u200B</line-height>",
-          "desc": "[WhenUse] Inflict Entangling Talisman equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangling Talisman</color></link></u>บนtarget",
+          "name": "<line-height=120%>พอกพูนคำสาป\u200B</line-height>",
+          "desc": "[WhenUse] มอบ ผ้ายันต์พัวพัน equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">ผ้ายันต์พัวพัน</color></link></u>บนtarget",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture and +2 Rupture Count next turn"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Burst] และ [Burst] +2 ขั้น ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture and +2 Rupture Count next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst] และ [Burst] +2 ขั้น ในเทิร์นหน้า"
                 }
               ]
             }
@@ -561,44 +561,44 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>So That No One Will Cry\u200B</line-height>",
-          "desc": "[EndBattle] Remove all [ReattachedCurseTag]\n[WhenUse] If at 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">[ReattachedCurseTag]</color></link></u>, -1 เหรียญ Power",
+          "name": "<line-height=120%>เพื่อมิให้ใครร่ำไห้\u200B</line-height>",
+          "desc": "[EndBattle] ลบ [ReattachedCurseTag] ทั้งหมด\n[WhenUse] If at 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">[ReattachedCurseTag]</color></link></u>, -1 เหรียญ Power",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Paralysis] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -611,8 +611,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Transferring Talisman\u200B</line-height>",
-          "desc": "[WhenUse] Remove all <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">[WrappedCurseTag]</color></link></u> from target.\nGain [ReattachedCurseTag] equal to number of Entangled Curse removed\n[StartBattle] All parts gain 3 Protection",
+          "name": "<line-height=120%>โอนถ่ายผ้ายันต์\u200B</line-height>",
+          "desc": "[WhenUse] Remove all <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">[WrappedCurseTag]</color></link></u> from target.\nได้รับ [ReattachedCurseTag] equal to number of มัดพัวพันd Curse removed\n[StartBattle] All parts ได้รับ 3 [Protection]",
           "coinlist": [
             {
               "coindescs": [
@@ -631,7 +631,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>แพร่พันธุ์คำสาป\u200B</line-height>",
-          "desc": "[WhenUse] Inflict Entangling Talisman equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangling Talisman</color></link></u>บนtarget",
+          "desc": "[WhenUse] มอบ ผ้ายันต์พัวพัน equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">ผ้ายันต์พัวพัน</color></link></u>บนtarget",
           "coinlist": [
             {
               "coindescs": [
@@ -655,13 +655,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 2+ [Laceration] Count, มอบ 5 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 2+ [Laceration] Count, มอบ 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Apply +4 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +4 ขั้น"
                 }
               ]
             }
@@ -674,13 +674,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Entangled Injury\u200B</line-height>",
+          "name": "<line-height=120%>มัดพัวพันd Injury\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             }
@@ -699,20 +699,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, heal 25 HP"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, ฟื้นฟู 25 HP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 2+ [Laceration] Count, มอบ 5 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, heal 25 HP"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, ฟื้นฟู 25 HP"
                 }
               ]
             }
@@ -726,15 +726,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Casting Shade\u200B</line-height>",
-          "desc": "[StartBattle] Spawn a Refracted Clover next turn.\n[DefeatDuel] The Refracted Clover spawns with 50% HP.",
+          "desc": "[StartBattle] Spawn a Refracted Clover ในเทิร์นหน้า.\n[DefeatDuel] The Refracted Clover spawns with 50% HP.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +5% damage for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>บนtarget"
+                  "desc": "[OnSucceedAttack] ทำ  +5% ความเสียหาย for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>บนtarget"
                 },
                 {
-                  "desc": "[OnSucceedAttack]จ่าย all of target's Bleed"
+                  "desc": "[OnSucceedAttack]จ่าย all of target's [Laceration]"
                 }
               ]
             }
@@ -748,15 +748,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Churning\u200B</line-height>",
-          "desc": "[StartBattle] All parts gain 3 Protection.",
+          "desc": "[StartBattle] All parts ได้รับ 3 [Protection].",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 1% of Max HP for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>บนtarget"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 1% ของ HP สูงสุด for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>บนtarget"
                 },
                 {
-                  "desc": "[OnSucceedAttack]จ่าย 1 Bleed Count from target"
+                  "desc": "[OnSucceedAttack]จ่าย 1 [Laceration] Count from target"
                 }
               ]
             }
@@ -769,13 +769,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Wanna Get Drunk?\u200B</line-height>",
+          "name": "<line-height=120%>อยากจะเมาป่าว?\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor and +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Vibration] และ [Vibration] +2 ขั้น"
                 }
               ]
             }
@@ -788,16 +788,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Let's Share the Drink!\u200B</line-height>",
+          "name": "<line-height=120%>มาแชร์เคริ่องกันหน่อยมา!\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 5% of Max HP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 5% ของ HP สูงสุด"
                 }
               ]
             }
@@ -810,23 +810,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>This is All I Got!\u200B</line-height>",
-          "desc": "Prioritizes enemies with <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>",
+          "name": "<line-height=120%>ฉันก็มีเท่านี้แหละ!\u200B</line-height>",
+          "desc": "ให้ความสำคัญเป็นหลัก แก่ศัตรูที่มี <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] by target's Tremor Count"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] เท่ากับขั้น [Vibration] ของเป้าหมาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack]จ่าย all of target's Tremor"
+                  "desc": "[OnSucceedAttack]จ่าย all of target's [Vibration]"
                 }
               ]
             }
@@ -839,13 +839,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>I'll Have This!\u200B</line-height>",
-          "desc": "If target has no <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, Clash Power +8 \n[WhenUse] If target has no <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, deal +150% damage",
+          "name": "<line-height=120%>อันนี้ฉันเอานะ!\u200B</line-height>",
+          "desc": "หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, แต้มปะทะ +8 \n[WhenUse] หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ  +150% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, deal 0 damage.\nFairy Gentleman will be Staggered next turn."
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ  0 ความเสียหาย.\nFairy Gentleman will be Staggered ในเทิร์นหน้า."
                 },
                 {
                   "desc": "[OnSucceedAttack] Remove all <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>."
@@ -861,8 +861,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>You Like This Brew?\u200B</line-height>",
-          "desc": "[WhenUse] Gain 3 Bind next turn",
+          "name": "<line-height=120%>ชอบสูตรนี้ไหมเหล่า?\u200B</line-height>",
+          "desc": "[WhenUse] ได้รับ 3 [Binding] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -881,15 +881,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Have a Swig!\u200B</line-height>",
-          "desc": "[StartBattle] Summon Fairy Wine next turn\n[DefeatDuel] Fairy Wine summoned at 50% HP",
+          "desc": "[StartBattle] Summon ไวน์สูตรภูต ในเทิร์นหน้า\n[DefeatDuel] ไวน์สูตรภูต summoned at 50% HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -902,8 +902,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Sweet Fairy Wine\u200B</line-height>",
-          "desc": "When killed by an Identity, apply 5 Tipsy to all Identities next turn",
+          "name": "<line-height=120%>Sweet ไวน์สูตรภูต\u200B</line-height>",
+          "desc": "When killed ไป an Identity, มอบ 5 [Tipsiness] to all Identities ในเทิร์นหน้า",
           "coinlist": [
             {}
           ]
@@ -921,13 +921,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Core, Body heals 15 HP"
+                  "desc": "[OnSucceedAttack] Core, Body ฟื้นฟู 15 HP"
                 }
               ]
             }
@@ -946,10 +946,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 }
               ]
             }
@@ -968,10 +968,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]"
                 }
               ]
             }
@@ -990,7 +990,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +5% damage per 5 Rupture Countบนtarget"
+                  "desc": "[OnSucceedAttack] ทำ  +5% ความเสียหาย per 5 [Burst] Countบนtarget"
                 }
               ]
             }
@@ -1004,7 +1004,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Uncovered Abyss\u200B</line-height>",
-          "desc": "Deal +100% damage to targets with 5+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>",
+          "desc": "ทำ +100% ความเสียหายแก่เป้าหมายที่มี 5+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>",
           "coinlist": [
             {
               "coindescs": [
@@ -1023,7 +1023,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Charmed Consciousness\u200B</line-height>",
-          "desc": "Attacking Faelantern deals 0 damage.",
+          "desc": "Attacking Faelantern ทำ s 0 ความเสียหาย.",
           "coinlist": [
             {
               "coindescs": [
@@ -1042,12 +1042,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dimensional Slice\u200B</line-height>",
-          "desc": "[WhenUse] Gain [Charge] +3 ขั้น\n[DefeatDuel]จ่าย [Charge] 2 ขั้น",
+          "desc": "[WhenUse] ได้รับ [Charge] +3 ขั้น\n[DefeatDuel]จ่าย [Charge] 2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Burst]"
                 }
               ]
             }
@@ -1061,19 +1061,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Consecutive Dimensional Slice\u200B</line-height>",
-          "desc": "[WhenUse] Gain [Charge] +3 ขั้น\n[DefeatDuel]จ่าย [Charge] 2 ขั้น",
+          "desc": "[WhenUse] ได้รับ [Charge] +3 ขั้น\n[DefeatDuel]จ่าย [Charge] 2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] มอบ 3 Dimensional Rift"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] มอบ 3 Dimensional Rift"
                 }
               ]
             }
@@ -1092,7 +1092,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Burst]"
                 }
               ]
             }
@@ -1106,25 +1106,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>Rip Space\u200B</line-height>",
-          "desc": "เมื่อมี [Charge] 10+ ขั้น,จ่าย [Charge] 10 ขั้น and gain Clash Power +5 and deal +100% damage\nAt 10-[Charge] Count,จ่าย 100 Core HP and deal +80% damage\nThis skill does not reduce the unit's HP to 0.",
+          "desc": "เมื่อมี  [Charge] 10+ ขั้น,จ่าย [Charge] 10 ขั้น และ ได้รับ แต้มปะทะ +5 และ ทำ  +100% ความเสียหาย\nเมื่อมี 10-[Charge] Count,จ่าย 100 Core HP และ ทำ  +80% ความเสียหาย\nThis skill does not reduce the unit's HP to 0.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain [Charge] +2 ขั้น"
+                  "desc": "[OnSucceedAttackHead] ได้รับ [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] มอบ 3 Dimensional Rift"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain [Charge] +2 ขั้น"
+                  "desc": "[OnSucceedAttackHead] ได้รับ [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] มอบ 3 Dimensional Rift"
                 }
               ]
             }
@@ -1138,19 +1138,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Prepared Retribution\u200B</line-height>",
-          "desc": "[WhenUse] Gain [Charge] +1 ขั้น",
+          "desc": "[WhenUse] ได้รับ [Charge] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                 }
               ]
             }
@@ -1164,12 +1164,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Vomit Byproducts\u200B</line-height>",
-          "desc": "[WhenUse] If target has Dimensional Rift, deal +10% damage\n[DefeatDuel]จ่าย [Charge] 2 ขั้น",
+          "desc": "[WhenUse] หากเป้าหมายมี Dimensional Rift, ทำ  +10% ความเสียหาย\n[DefeatDuel]จ่าย [Charge] 2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] มอบ 5 Dimensional Rift"
                 }
               ]
             }
@@ -1183,12 +1183,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>High-speed Rip Space\u200B</line-height>",
-          "desc": "Gain Clash Power equal to the number of Dimensional Rift effect with the highest stack\nDeal +10% damage for every Dimensional Rift effectบนself",
+          "desc": "ได้รับ แต้มปะทะ equal to the number of Dimensional Rift effect with the highest stack\nทำ +10% ความเสียหาย for every Dimensional Rift effectบนself",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Burst]"
                 }
               ]
             }
@@ -1202,12 +1202,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Opportunity Spotted\u200B</line-height>",
-          "desc": "[WhenUse] If target has Dimensional Rift, +20% Damage",
+          "desc": "[WhenUse] หากเป้าหมายมี Dimensional Rift, +20% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] มอบ 3 Dimensional Rift"
                 }
               ]
             }
@@ -1221,12 +1221,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Rift Attack\u200B</line-height>",
-          "desc": "[WhenUse] If target has Dimensional Rift, +10% Damage",
+          "desc": "[WhenUse] หากเป้าหมายมี Dimensional Rift, +10% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] มอบ 3 Dimensional Rift"
                 }
               ]
             }
@@ -1245,10 +1245,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [InterlockingTime]"
+                  "desc": "[OnSucceedAttack] มอบ 1 [InterlockingTime]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 [Paralysis]"
                 }
               ]
             }
@@ -1262,15 +1262,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>รักษาเวลา\u200B</line-height>",
-          "desc": "Skill Power +1 for every [Charge] 3 ขั้น\n[WhenUse] Gain [Charge] +4 ขั้น",
+          "desc": "แต้มสกิล +1 for every [Charge] 3 ขั้น\n[WhenUse] ได้รับ [Charge] +4 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 Borrowed Time next turn"
+                  "desc": "[OnSucceedAttack] ได้รับ 3 Borrowed Time ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1284,25 +1284,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>เร่งช่วงเวลา\u200B</line-height>",
-          "desc": "Skill Power +1 for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>\n[DefeatDuel]จ่าย [Charge] 3 ขั้น",
+          "desc": "แต้มสกิล +1 for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>\n[DefeatDuel]จ่าย [Charge] 3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [InterlockingTime]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [InterlockingTime]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +20% damage for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>"
+                  "desc": "[OnSucceedAttack] ทำ  +20% ความเสียหาย for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +4 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +4 ขั้น"
                 }
               ]
             }
@@ -1316,7 +1316,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Charged Defense\u200B</line-height>",
-          "desc": "[StartBattle] Gain [Charge] +1 ขั้น",
+          "desc": "[StartBattle] ได้รับ [Charge] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1335,12 +1335,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>6463\u200B</line-height>",
-          "desc": "Deal +10% more damage for every 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>",
+          "desc": "ทำ +10% more ความเสียหาย for every 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1354,12 +1354,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>6753\u200B</line-height>",
-          "desc": "Deal +10% more damage for every 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>",
+          "desc": "ทำ +10% more ความเสียหาย for every 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1373,22 +1373,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>853\u200B</line-height>",
-          "desc": "At 5+ [Breath], Clash Power +1",
+          "desc": "เมื่อมี 5+ [Breath], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 50% ของความเสียหายที่ทำไป"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +1% damage for every <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (Max 50%)"
+                  "desc": "[OnSucceedAttack] ทำ  +1% ความเสียหาย for every <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (Max 50%)"
                 }
               ]
             }
@@ -1402,7 +1402,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>5384\u200B</line-height>",
-          "desc": "[WhenUse] All parts gain 3 [Breath] and +3 [Breath] Count",
+          "desc": "[WhenUse] All parts ได้รับ 3 [Breath] และ +3 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1414,10 +1414,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +20% more damage per 3 [Breath] (Max 100%)"
+                  "desc": "[OnSucceedAttack] ทำ  +20% more ความเสียหาย per 3 [Breath] (Max 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [Breath] to all Parts"
+                  "desc": "[OnSucceedAttack] ได้รับ 4 [Breath] to all Parts"
                 }
               ]
             }
@@ -1431,15 +1431,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>6475384\u200B</line-height>",
-          "desc": "At 7+ [Breath], เหรียญ Power +1",
+          "desc": "เมื่อมี 7+ [Breath], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 5+ [Breath], เพิ่มขีดStagger by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] เมื่อมี 5+ [Breath], เพิ่มขีดStagger ไป 50% ของความเสียหายที่ทำไป"
                 },
                 {
-                  "desc": "[OnSucceedAttack] All Parts gain 8 [Breath] and +4 [Breath] Count"
+                  "desc": "[OnSucceedAttack] All Parts ได้รับ 8 [Breath] และ +4 [Breath] Count"
                 }
               ]
             }
@@ -1453,12 +1453,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>974569A\u200B</line-height>",
-          "desc": "At 10+ [Breath], Skill Power +2",
+          "desc": "เมื่อมี 10+ [Breath], แต้มสกิล +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +1% damage for every <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (Max 200%)"
+                  "desc": "[OnSucceedAttack] ทำ  +1% ความเสียหาย for every <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (Max 200%)"
                 }
               ]
             }
@@ -1472,7 +1472,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>To the Garden of Infinity\u200B</line-height>",
-          "desc": "[CantDuel]\n[WhenUse] Apply Crown of Thorns and eliminate all effectsบนself\nIf Core has less than 40% HP, Roses will spawn in Power-up States",
+          "desc": "[CantDuel]\n[WhenUse] มอบ Crown of Thorns และ eliminate all effectsบนself\nIf Core has less than 40% HP, Roses will spawn in Power-up States",
           "coinlist": [
             {}
           ]
@@ -1490,20 +1490,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn and 2 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Combustion] และ 2 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn and 2 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Combustion] และ 2 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1522,17 +1522,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed and 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration] และ 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal the Rose with the lowest HP percentages for 10 HP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู the Rose with the lowest HP percentages for 10 HP"
                 }
               ]
             }
@@ -1551,21 +1551,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze and 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] และ 1 [Binding] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply Crown of Thorns"
+                  "desc": "[OnSucceedAttack] มอบ Crown of Thorns"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Core heals 30 HP"
+                  "desc": "[OnSucceedAttack] Core ฟื้นฟู 30 HP"
                 }
               ]
             }
@@ -1579,12 +1579,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wall Of Separation\u200B</line-height>",
-          "desc": "Power +2 for each surviving Rose\nIf there are no surviving Roses, Self-apply 2 Fragile",
+          "desc": "Power +2 for each surviving Rose\nIf there are no surviving Roses, Self-apply 2 [Vulnerable]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Core heals 30 HP"
+                  "desc": "[OnSucceedAttack] Core ฟื้นฟู 30 HP"
                 }
               ]
             }
@@ -1598,7 +1598,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wishing for Eternity\u200B</line-height>",
-          "desc": "[StartBattle] Apply 1 Attack Power Up to 1 random Rose next turn\nIf attacked while Shielded, inflict 1 Sinkingบนthe attacker",
+          "desc": "[StartBattle] มอบ 1 [Enhancement] to 1 random Rose ในเทิร์นหน้า\nIf attacked while Shielded, มอบ 1 [Sinking]บนthe attacker",
           "coinlist": [
             {
               "coindescs": [
@@ -1617,7 +1617,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Here, With You\u200B</line-height>",
-          "desc": "[StartBattle] Apply 1 Defense Power Up to 1 random Rose next turn\nIf attacked while Shielded, inflict 1 Sinkingบนthe attacker",
+          "desc": "[StartBattle] มอบ 1 Defense Power Up to 1 random Rose ในเทิร์นหน้า\nIf attacked while Shielded, มอบ 1 [Sinking]บนthe attacker",
           "coinlist": [
             {
               "coindescs": [
@@ -1641,21 +1641,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Combustion]"
                 }
               ]
             }
@@ -1674,14 +1674,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Burn Count"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Burn Count"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] +2 ขั้น"
                 }
               ]
             }
@@ -1700,30 +1700,30 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Lower ขีด Stagger ของผู้ใช้ by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Lower ขีด Stagger ของผู้ใช้ ไป 50% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Lower ขีด Stagger ของผู้ใช้ by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Lower ขีด Stagger ของผู้ใช้ ไป 50% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Lower ขีด Stagger ของผู้ใช้ by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Lower ขีด Stagger ของผู้ใช้ ไป 50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -1742,21 +1742,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -1775,7 +1775,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 8 [Vibration]"
                 }
               ]
             }
@@ -1794,10 +1794,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ [Vibration] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackHead] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -1811,7 +1811,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Slumbering Sloth\u200B</line-height>",
-          "desc": "If attacked while Shielded, trigger Tremor Burstบนself and the attacker",
+          "desc": "If attacked while Shielded, เปิดใช้ [VibrationExplosion]บนself และ the attacker",
           "coinlist": [
             {
               "coindescs": [
@@ -1835,7 +1835,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Burst]"
                 }
               ]
             }
@@ -1854,7 +1854,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +4 ขั้น"
                 }
               ]
             }
@@ -1868,33 +1868,33 @@
         {
           "level": 1,
           "name": "<line-height=120%>Restless Gluttony\u200B</line-height>",
-          "desc": "[WhenUse] If target has Rupture, boost HP healing by +50%",
+          "desc": "[WhenUse] หากเป้าหมายมี [Burst], boost HP ฟื้นฟูing ไป +50%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by 25% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 25% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by 25% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 25% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by 25% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 25% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by 25% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 25% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -1913,7 +1913,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 6 [Sinking]"
                 }
               ]
             }
@@ -1932,14 +1932,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ขั้น"
                 }
               ]
             }
@@ -1953,7 +1953,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Embracing Gloom\u200B</line-height>",
-          "desc": "If attacked while Shielded, inflict +1 Sinking Countบนself and the attacker",
+          "desc": "If attacked while Shielded, มอบ [Sinking] +1 ขั้นบนself และ the attacker",
           "coinlist": [
             {
               "coindescs": [
@@ -1972,7 +1972,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Spouting Pride\u200B</line-height>",
-          "desc": "[WhenUse] Apply 3 Poise to all allies",
+          "desc": "[WhenUse] มอบ 3 Poise แก่พันธมิตรทุกคน",
           "coinlist": [
             {
               "coindescs": [
@@ -1991,19 +1991,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Erect Pride\u200B</line-height>",
-          "desc": "[WhenUse] All allies gain +2 Poise Count",
+          "desc": "[WhenUse] All allies ได้รับ +2 Poise Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                 }
               ]
             }
@@ -2017,7 +2017,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Touchy Pride\u200B</line-height>",
-          "desc": "At 5+ Poise, เหรียญ Power +3",
+          "desc": "เมื่อมี 5+ Poise, แต้มเหรียญ +3",
           "coinlist": [
             {
               "coindescs": [
@@ -2036,19 +2036,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Heaping Envy\u200B</line-height>",
-          "desc": "[WhenUse] Gain [Charge] +3 ขั้น\n[DefeatDuel]จ่าย [Charge] 3 ขั้น",
+          "desc": "[WhenUse] ได้รับ [Charge] +3 ขั้น\n[DefeatDuel]จ่าย [Charge] 3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +1 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +1 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +1 ขั้น"
                 }
               ]
             }
@@ -2062,7 +2062,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Spreading Envy\u200B</line-height>",
-          "desc": "[WhenUse]จ่าย 10[Charge] to gain +4 เหรียญ Power",
+          "desc": "[WhenUse]จ่าย 10[Charge] to ได้รับ +4 เหรียญ Power",
           "coinlist": [
             {
               "coindescs": [
@@ -2081,7 +2081,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dimensional Leap\u200B</line-height>",
-          "desc": "If this Dimensional Rift remains, deal +10% damage",
+          "desc": "If this Dimensional Rift remains, ทำ  +10% ความเสียหาย",
           "coinlist": [
             {}
           ]
@@ -2107,7 +2107,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dimensional Leap\u200B</line-height>",
-          "desc": "If this Dimensional Rift remains, gain 1 Speed",
+          "desc": "If this Dimensional Rift remains, ได้รับ 1 Speed",
           "coinlist": [
             {}
           ]
@@ -2120,7 +2120,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dimensional Leap\u200B</line-height>",
-          "desc": "If this Dimensional Rift remains, เหรียญ Power +1",
+          "desc": "If this Dimensional Rift remains, แต้มเหรียญ +1",
           "coinlist": [
             {}
           ]
@@ -2132,44 +2132,44 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>So That No One Will Cry\u200B</line-height>",
-          "desc": "[EndBattle] Remove all [ReattachedCurseTag]\n[WhenUse] If at 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">[ReattachedCurseTag]</color></link></u>, -1 เหรียญ Power",
+          "name": "<line-height=120%>เพื่อมิให้ใครร่ำไห้\u200B</line-height>",
+          "desc": "[EndBattle] ลบ [ReattachedCurseTag] ทั้งหมด\n[WhenUse] If at 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">[ReattachedCurseTag]</color></link></u>, -1 เหรียญ Power",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Paralysis] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }

@@ -12,10 +12,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 3 E.G.O resources of a random Affinity currently owned"
+                  "desc": "[EnemyKill] ได้รับ 3 E.G.O resources of a random Affinity currently owned"
                 }
               ]
             }
@@ -30,10 +30,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 3 E.G.O resources of a random Affinity currently owned; All allies heal 3 SP"
+                  "desc": "[EnemyKill] ได้รับ 3 E.G.O resources of a random Affinity currently owned; All allies ฟื้นฟู 3 SP"
                 }
               ]
             }
@@ -48,10 +48,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 6 [Sinking]"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 3 E.G.O resources of a random Affinity currently owned; All allies heal 3 SP"
+                  "desc": "[EnemyKill] ได้รับ 3 E.G.O resources of a random Affinity currently owned; All allies ฟื้นฟู 3 SP"
                 }
               ]
             }
@@ -71,10 +71,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] All allies gain +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O Resource Amp</color></link></u>."
+                  "desc": "[EndSkill] All allies ได้รับ +1 <sprite name=\"ได้รับSinStockAdder\"><color=#f8c200><u><link=\"ได้รับSinStockAdder\">E.G.O Resource Amp</color></link></u>."
                 }
               ]
             }
@@ -89,10 +89,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] All allies gain +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O Resource Amp</color></link></u>."
+                  "desc": "[EndSkill] All allies ได้รับ +1 <sprite name=\"ได้รับSinStockAdder\"><color=#f8c200><u><link=\"ได้รับSinStockAdder\">E.G.O Resource Amp</color></link></u>."
                 }
               ]
             }
@@ -107,10 +107,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 6 [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] All allies gain +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O Resource Amp</color></link></u>., apply 1 Haste next turn"
+                  "desc": "[EndSkill] All allies ได้รับ +1 <sprite name=\"ได้รับSinStockAdder\"><color=#f8c200><u><link=\"ได้รับSinStockAdder\">E.G.O Resource Amp</color></link></u>., มอบ 1 [Agility] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -125,15 +125,15 @@
           "level": 1,
           "name": "<line-height=120%>Blind Obsession\u200B</line-height>",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[BeforeAttack] Gain 4 Poise",
+          "desc": "[BeforeAttack] ได้รับ 4 Poise",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[CriticalOnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -143,15 +143,15 @@
           "level": 3,
           "name": "<line-height=120%>Blind Obsession\u200B</line-height>",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[BeforeAttack] Gain 4 Poise\n[EndSkill] Gain 2 Poise for every unit defeated by this Skill",
+          "desc": "[BeforeAttack] ได้รับ 4 Poise\n[EndSkill] ได้รับ 2 Poise for every unit defeated ไป this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[CriticalOnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -161,15 +161,15 @@
           "level": 4,
           "name": "<line-height=120%>Blind Obsession\u200B</line-height>",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[BeforeAttack] Gain 4 Poise\n[EndSkill] Gain 2 Poise for every unit defeated by this Skill",
+          "desc": "[BeforeAttack] ได้รับ 4 Poise\n[EndSkill] ได้รับ 2 Poise for every unit defeated ไป this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[CriticalOnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -184,12 +184,12 @@
           "level": 1,
           "name": "<line-height=120%>Blind Obsession\u200B</line-height>",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 4 Poise. Consume [Charge] 2 ขั้น to gain 1 Poise (Max 10)\n[EndSkill] Gain [Charge] +4 ขั้น for every unit defeated by this Skill",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ 4 Poise. Consume [Charge] 2 ขั้น to ได้รับ 1 Poise (Max 10)\n[EndSkill] ได้รับ [Charge] +4 ขั้น for every unit defeated ไป this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                 }
               ]
             }
@@ -199,12 +199,12 @@
           "level": 3,
           "name": "<line-height=120%>Blind Obsession\u200B</line-height>",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 4 Poise. Consume [Charge] 2 ขั้น to gain 1 Poise (Max 10)\n[EndSkill] Gain [Charge] +4 ขั้น for every unit defeated by this Skill",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ 4 Poise. Consume [Charge] 2 ขั้น to ได้รับ 1 Poise (Max 10)\n[EndSkill] ได้รับ [Charge] +4 ขั้น for every unit defeated ไป this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                 }
               ]
             }
@@ -214,15 +214,15 @@
           "level": 4,
           "name": "<line-height=120%>Blind Obsession\u200B</line-height>",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 4 Poise. Consume [Charge] 2 ขั้น to gain 1 Poise (Max 10)\n[EndSkill] Gain [Charge] +4 ขั้น for every unit defeated by this Skill",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ 4 Poise. Consume [Charge] 2 ขั้น to ได้รับ 1 Poise (Max 10)\n[EndSkill] ได้รับ [Charge] +4 ขั้น for every unit defeated ไป this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] At 10+ [Breath], gain +30% Critical Damage"
+                  "desc": "[CriticalOnSucceedAttack] เมื่อมี 10+ [Breath], ได้รับ +30% Critical ความเสียหาย"
                 }
               ]
             }
@@ -237,13 +237,13 @@
           "level": 1,
           "name": "<line-height=120%>Contempt, Awe\u200B</line-height>",
           "abName": "Spiral of Contempt",
-          "desc": "[BeforeAttack] Gain (highest Reson.) Atk Weight (max 2)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] (max 7)\n[EndSkill] For 2 turns, lose 10 SP at Turn End",
+          "desc": "[BeforeAttack] ได้รับ (highest Reson.) Atk Weight (max 2)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [GazePersonality] (max 7)\n[EndSkill] For 2 turns, เสีย 10 ค่าสติ at Turn End",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Evenly inflict 10 [Laceration] between all targets"
+                  "desc": "[EndSkill] Evenly มอบ 10 [Laceration]between all targets"
                 }
               ]
             }
@@ -253,13 +253,13 @@
           "level": 3,
           "name": "<line-height=120%>Contempt, Awe\u200B</line-height>",
           "abName": "Spiral of Contempt",
-          "desc": "[BeforeAttack] Gain (highest Reson.) Atk Weight (max <style=\"highlight\">4</style>)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] (max 7)\n[EndSkill] For 2 turns, lose 10 SP at Turn End",
+          "desc": "[BeforeAttack] ได้รับ (highest Reson.) Atk Weight (max <style=\"highlight\">4</style>)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [GazePersonality] (max 7)\n[EndSkill] For 2 turns, เสีย 10 ค่าสติ at Turn End",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Evenly inflict <style=\"highlight\">15</style> [Laceration] between all targets"
+                  "desc": "[EndSkill] Evenly มอบ <style=\"highlight\">15</style> [Laceration]between all targets"
                 }
               ]
             }
@@ -269,13 +269,13 @@
           "level": 4,
           "name": "<line-height=120%>Contempt, Awe\u200B</line-height>",
           "abName": "Spiral of Contempt",
-          "desc": "[BeforeAttack] Gain (highest Reson.) Atk Weight (max <style=\"highlight\">6</style>)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] <style=\"highlight\">this turn and next turn</style> (max 7)\n<style=\"highlight\">[EndSkill] If this Skill was part of a Lust Reson., gain 1 E.G.O resource in Affinities corresponding to each of this unit's Attack Skills</style>\n[EndSkill] For 2 turns, lose 10 SP at Turn End",
+          "desc": "[BeforeAttack] ได้รับ (highest Reson.) Atk Weight (max <style=\"highlight\">6</style>)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [GazePersonality] <style=\"highlight\">this turn และ ในเทิร์นหน้า</style> (max 7)\n<style=\"highlight\">[EndSkill] If this Skill was part of a Lust Reson., ได้รับ 1 E.G.O resource in Affinities corresponding to each of this unit's Attack Skills</style>\n[EndSkill] For 2 turns, เสีย 10 ค่าสติ at Turn End",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Evenly inflict 15 [Laceration] between all targets<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Evenly มอบ 15 [Laceration]between all targets<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -290,18 +290,18 @@
           "level": 1,
           "name": "<line-height=120%>Contempt, Awe\u200B</line-height>",
           "abName": "Spiral of Contempt",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 7 [GazePersonality]",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ 7 [GazePersonality]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Laceration], deal +(the sum of [Laceration] Potency and Countบนtarget)% more damage (max 20%)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ  +(the sum of [Laceration]Potency และ Countบนtarget)% more ความเสียหาย (max 20%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict (1 + (highest Reson. x 1.5)) [Laceration] (max 10, rounded down)"
+                  "desc": "[OnSucceedAttack] มอบ (1 + (highest Reson. x 1.5)) [Laceration](max 10, rounded down)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -311,18 +311,18 @@
           "level": 3,
           "name": "<line-height=120%>Contempt, Awe\u200B</line-height>",
           "abName": "Spiral of Contempt",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 7 [GazePersonality]",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ 7 [GazePersonality]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Laceration], deal +(the sum of [Laceration] Potency and Countบนtarget)% more damage (max <style=\"highlight\">40%</style>)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ  +(the sum of [Laceration]Potency และ Countบนtarget)% more ความเสียหาย (max <style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">(3 + (highest Reson. x 2))</style> [Laceration] (max <style=\"highlight\">15</style>, rounded down)"
+                  "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">(3 + (highest Reson. x 2))</style> [Laceration](max <style=\"highlight\">15</style>, rounded down)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">3</style> [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +<style=\"highlight\">3</style> [Laceration]Count"
                 }
               ]
             }
@@ -332,18 +332,18 @@
           "level": 4,
           "name": "<line-height=120%>Contempt, Awe\u200B</line-height>",
           "abName": "Spiral of Contempt",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] If this Skill was a part of a Lust Reson., gain 1 E.G.O resource in Affinities corresponding to each of this unit's Attack Skills</style>",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] If this Skill was a part of a Lust Reson., ได้รับ 1 E.G.O resource in Affinities corresponding to each of this unit's Attack Skills</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Laceration], deal +(the sum of [Laceration] Potency and Countบนtarget)% more damage (max <style=\"highlight\">60%</style>)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ  +(the sum of [Laceration]Potency และ Countบนtarget)% more ความเสียหาย (max <style=\"highlight\">60%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">(10 + (highest Reson. x 2.5))</style> [Laceration] (max <style=\"highlight\">25</style>, rounded down)"
+                  "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">(10 + (highest Reson. x 2.5))</style> [Laceration](max <style=\"highlight\">25</style>, rounded down)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">5</style> [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +<style=\"highlight\">5</style> [Laceration]Count"
                 }
               ]
             }
@@ -358,13 +358,13 @@
           "level": 1,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max 4)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max 4)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max 2)\n- At 5+ [Breath] Count, gain เหรียญ Power +(highest Reson. / 2) instead (max 2)\n[TargetKill] Gain 1 [HoldingBreath] next turn (2 times per turn)",
+          "desc": "[BeforeAttack] ได้รับ (highest Reson.) [Breath] (max 4)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(highest Reson.) instead (max 4)\n[BeforeAttack] ได้รับ (highest Reson. / 2) [Breath] Count (max 2)\n- เมื่อมี 5+ [Breath] Count, ได้รับ แต้มเหรียญ +(highest Reson. / 2) instead (max 2)\n[TargetKill] ได้รับ 1 [HoldingBreath] ในเทิร์นหน้า (2 times per turn)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [HoldingBreath] (once per turn)"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [HoldingBreath] (once per turn)"
                 }
               ]
             }
@@ -374,16 +374,16 @@
           "level": 3,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max <style=\"highlight\">6</style>)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max <style=\"highlight\">6</style>)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max 2)\n- At 5+ [Breath] Count, gain เหรียญ Power +(highest Reson. / 2) instead (max 2)\n[TargetKill] Gain <style=\"highlight\">2</style> [HoldingBreath] next turn (<style=\"highlight\">4</style> times per turn)",
+          "desc": "[BeforeAttack] ได้รับ (highest Reson.) [Breath] (max <style=\"highlight\">6</style>)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(highest Reson.) instead (max <style=\"highlight\">6</style>)\n[BeforeAttack] ได้รับ (highest Reson. / 2) [Breath] Count (max 2)\n- เมื่อมี 5+ [Breath] Count, ได้รับ แต้มเหรียญ +(highest Reson. / 2) instead (max 2)\n[TargetKill] ได้รับ <style=\"highlight\">2</style> [HoldingBreath] ในเทิร์นหน้า (<style=\"highlight\">4</style> times per turn)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">Deal +([Breath] Potency + Count)% more damageบนCritical Hit (max 20%)</style>"
+                  "desc": "<style=\"highlight\">ทำ +([Breath] Potency + Count)% more ความเสียหายบนCritical Hit (max 20%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [HoldingBreath] (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [HoldingBreath] (once per turn)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -393,16 +393,16 @@
           "level": 4,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max 6)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max 6)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max <style=\"highlight\">3</style>)\n- At 5+ [Breath] Count, gain เหรียญ Power +(highest Reson. / 2) instead (max <style=\"highlight\">3</style>)\n[TargetKill] Gain 2 [HoldingBreath] next turn (<style=\"highlight\">6</style> times per turn)",
+          "desc": "[BeforeAttack] ได้รับ (highest Reson.) [Breath] (max 6)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(highest Reson.) instead (max 6)\n[BeforeAttack] ได้รับ (highest Reson. / 2) [Breath] Count (max <style=\"highlight\">3</style>)\n- เมื่อมี 5+ [Breath] Count, ได้รับ แต้มเหรียญ +(highest Reson. / 2) instead (max <style=\"highlight\">3</style>)\n[TargetKill] ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า (<style=\"highlight\">6</style> times per turn)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Deal +([Breath] Potency + Count)% more damageบนCritical Hit (max <style=\"highlight\">40%</style>)"
+                  "desc": "ทำ +([Breath] Potency + Count)% more ความเสียหายบนCritical Hit (max <style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">4</style> [HoldingBreath] (once per turn)"
+                  "desc": "[OnSucceedAttack] ได้รับ <style=\"highlight\">4</style> [HoldingBreath] (once per turn)"
                 }
               ]
             }
@@ -417,13 +417,13 @@
           "level": 1,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, deal +30% more damage\n\n[BeforeAttack] At less than 15 [Breath], consume 10% HP to gain 5 [Breath] and +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n\n[EndSkill] If target is defeated, gain 2 [HoldingBreath] next turn. (once per turn) If the said target was an ally, activate the following as well:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies gain 2 [Breath] and +2 [Breath] Count",
+          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ  +30% more ความเสียหาย\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], consume 10% HP to ได้รับ 5 [Breath] และ +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n\n[EndSkill] If target is defeated, ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า. (once per turn) If the said target was an ally, activate the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ 2 [Breath] และ +2 [Breath] Count",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [HoldingBreath] (once per turn)"
+                  "desc": "[OnSucceedAttack] ได้รับ 4 [HoldingBreath] (once per turn)"
                 }
               ]
             }
@@ -433,16 +433,16 @@
           "level": 3,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, deal +30% more damage\n\n[BeforeAttack] At less than 15 [Breath], consume 10% HP to gain 5 [Breath] and +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n<style=\"highlight\">- Gain 1 [Breath] for every ally targeted by this Skill (max 2)</style>\n\n[EndSkill] If target is defeated, gain 2 [HoldingBreath] next turn. (once per turn) If the said target was an ally, activate the following as well:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies gain <style=\"highlight\">4</style> [Breath] and +2 [Breath] Count\n<style=\"highlight\">- Recover half of SP used by this Skill</style>",
+          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ  +30% more ความเสียหาย\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], consume 10% HP to ได้รับ 5 [Breath] และ +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n<style=\"highlight\">- ได้รับ 1 [Breath] for every ally targeted ไป this Skill (max 2)</style>\n\n[EndSkill] If target is defeated, ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า. (once per turn) If the said target was an ally, activate the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ <style=\"highlight\">4</style> [Breath] และ +2 [Breath] Count\n<style=\"highlight\">- Recover half of ค่าสติ used ไป this Skill</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">Deal +([Breath] Potency + Count)% more damageบนCritical Hit (max 20%)</style>"
+                  "desc": "<style=\"highlight\">ทำ +([Breath] Potency + Count)% more ความเสียหายบนCritical Hit (max 20%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [HoldingBreath] (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] ได้รับ 4 [HoldingBreath] (once per turn)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -452,16 +452,16 @@
           "level": 4,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, deal +30% more damage\n\n[BeforeAttack] At less than 15 [Breath], consume 10% HP to gain 5 [Breath] and +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n- Gain <style=\"highlight\">2</style> [Breath] for every ally targeted by this Skill (max <style=\"highlight\">4</style>)\n\n[EndSkill] If target is defeated, gain 3 [HoldingBreath] next turn. (once per turn) If the said target was an ally, activate the following as well:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies gain 4 [Breath] and +<style=\"highlight\">4</style> [Breath] Count\n<style=\"highlight\">- Recover SP used by this Skill and regain 1 of each E.G.O resources consumed</style>",
+          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ  +30% more ความเสียหาย\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], consume 10% HP to ได้รับ 5 [Breath] และ +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n- ได้รับ <style=\"highlight\">2</style> [Breath] for every ally targeted ไป this Skill (max <style=\"highlight\">4</style>)\n\n[EndSkill] If target is defeated, ได้รับ 3 [HoldingBreath] ในเทิร์นหน้า. (once per turn) If the said target was an ally, activate the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ 4 [Breath] และ +<style=\"highlight\">4</style> [Breath] Count\n<style=\"highlight\">- Recover ค่าสติ used ไป this Skill และ reได้รับ 1 of each E.G.O resources consumed</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Deal +([Breath] Potency + Count)% more damageบนCritical Hit (max <style=\"highlight\">40%</style>)"
+                  "desc": "ทำ +([Breath] Potency + Count)% more ความเสียหายบนCritical Hit (max <style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">7</style> [HoldingBreath] (once per turn)"
+                  "desc": "[OnSucceedAttack] ได้รับ <style=\"highlight\">7</style> [HoldingBreath] (once per turn)"
                 }
               ]
             }

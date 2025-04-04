@@ -7,12 +7,12 @@
           "level": 1,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "[EndSkill] Randomly inflict (6 + Gloom Reson.) [Sinking] between targets",
+          "desc": "[EndSkill] Randomly มอบ (6 + Gloom Reson.) [Sinking] between targets",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Sinking], มอบ 1 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -22,12 +22,12 @@
           "level": 3,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "[EndSkill] Randomly inflict (6 + Gloom Reson.) [Sinking] between targets",
+          "desc": "[EndSkill] Randomly มอบ (6 + Gloom Reson.) [Sinking] between targets",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Sinking], มอบ 2 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -37,12 +37,12 @@
           "level": 4,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "[EndSkill] Randomly inflict (6 + (<style=\"highlight\">Gloom Reson. x1.5</style>)) [Sinking] between targets",
+          "desc": "[EndSkill] Randomly มอบ (6 + (<style=\"highlight\">Gloom Reson. x1.5</style>)) [Sinking] between targets",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Sinking], มอบ 2 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -62,10 +62,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]. มอบ 2 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Sinking], มอบ 1 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -75,15 +75,15 @@
           "level": 3,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ (Gloom Reson.), Atk Weight +1",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] เมื่อมี 3+ (Gloom Reson.), Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]. มอบ 2 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Sinking], มอบ 1 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -93,15 +93,15 @@
           "level": 4,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ (Gloom Reson.), Atk Weight +1\n[BeforeAttack] At 5+ (Gloom Reson.), additional Atk Weight +1",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] เมื่อมี 3+ (Gloom Reson.), Atk Weight +1\n[BeforeAttack] เมื่อมี 5+ (Gloom Reson.), additional Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]. มอบ 2 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Sinking], มอบ 2 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -116,34 +116,34 @@
           "level": 1,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "Prioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "Prioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] ได้รับ 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] เสีย every [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "This เหรียญ deals damage only against the main target."
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target."
                 },
                 {
-                  "desc": "If the main target is an ally, deal +8% more damage for every [BoseProjektil] (max 56%)"
+                  "desc": "If the main target is an ally, ทำ  +8% more ความเสียหาย for every [BoseProjektil] (max 56%)"
                 },
                 {
-                  "desc": "[AllyKill] Apply 2 [Breath] to self and 2 random allies"
+                  "desc": "[AllyKill] มอบ 2 [Breath] to self และ 2 random allies"
                 },
                 {
-                  "desc": "[AllyKillFail] Gain 1 [Breath]"
+                  "desc": "[AllyKillFail] ได้รับ 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "This เหรียญ deals damage only against the sub-targets\n- If the first เหรียญ failed to kill the ally, 1 random sub-target takes damage"
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the sub-targets\n- If the first เหรียญ failed to kill the ally, 1 random sub-target ได้รับs ความเสียหาย"
                 },
                 {
-                  "desc": "+2% DamageบนCritical Hit for every [BoseProjektil] (max 14%)"
+                  "desc": "+2% ความเสียหายบนCritical Hit for every [BoseProjektil] (max 14%)"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             }
@@ -153,37 +153,37 @@
           "level": 3,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "Prioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]<style=\"highlight\"></style>",
+          "desc": "Prioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] ได้รับ 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] เสีย every [BoseProjektil]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "This เหรียญ deals damage only against the main target.<style=\"highlight\"></style>"
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target.<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "If the main target is an ally, deal <style=\"highlight\">+10%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">70%</style>)"
+                  "desc": "If the main target is an ally, ทำ  <style=\"highlight\">+10%</style> more ความเสียหาย for every [BoseProjektil] (max <style=\"highlight\">70%</style>)"
                 },
                 {
-                  "desc": "[AllyKill] Apply 3 [Breath] to self and 2 random allies<style=\"highlight\"></style>"
+                  "desc": "[AllyKill] มอบ 3 [Breath] to self และ 2 random allies<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 Affinity</style>"
                 },
                 {
-                  "desc": "[AllyKillFail] Gain <style=\"highlight\">3</style> [Breath]"
+                  "desc": "[AllyKillFail] ได้รับ <style=\"highlight\">3</style> [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "This เหรียญ deals damage only against the sub-targets\n- If the first เหรียญ failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>"
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the sub-targets\n- If the first เหรียญ failed to kill the ally, 1 random sub-target ได้รับs ความเสียหาย<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+5%</style> DamageบนCritical Hit for every [BoseProjektil] (max <style=\"highlight\">35%</style>)"
+                  "desc": "<style=\"highlight\">+5%</style> ความเสียหายบนCritical Hit for every [BoseProjektil] (max <style=\"highlight\">35%</style>)"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -193,37 +193,37 @@
           "level": 4,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "Prioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n<style=\"highlight\">- If the said Reson. was a Pride Reson., gain (highest Reson. x 2) [BoseProjektil] instead (max 7)</style>\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "Prioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (max 7)\n<style=\"highlight\">- If the said Reson. was a Pride Reson., ได้รับ (highest Reson. x 2) [BoseProjektil] instead (max 7)</style>\n[BeforeAttack] ได้รับ 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] เสีย every [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "This เหรียญ deals damage only against the main target.<style=\"highlight\"></style>"
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target.<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "If the main target is an ally, deal <style=\"highlight\">+15%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">105%</style>)"
+                  "desc": "If the main target is an ally, ทำ  <style=\"highlight\">+15%</style> more ความเสียหาย for every [BoseProjektil] (max <style=\"highlight\">105%</style>)"
                 },
                 {
-                  "desc": "[AllyKill] Apply 3 [Breath] to self and 2 random allies<style=\"highlight\"></style>"
+                  "desc": "[AllyKill] มอบ 3 [Breath] to self และ 2 random allies<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 and 2 Affinities</style>"
+                  "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 และ 2 Affinities</style>"
                 },
                 {
-                  "desc": "[AllyKillFail] Gain <style=\"highlight\">3</style> [Breath]"
+                  "desc": "[AllyKillFail] ได้รับ <style=\"highlight\">3</style> [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "This เหรียญ deals damage only against the sub-targets\n- If the first เหรียญ failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>"
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the sub-targets\n- If the first เหรียญ failed to kill the ally, 1 random sub-target ได้รับs ความเสียหาย<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+9%</style> DamageบนCritical Hit for every [BoseProjektil] (max <style=\"highlight\">63%</style>)"
+                  "desc": "<style=\"highlight\">+9%</style> ความเสียหายบนCritical Hit for every [BoseProjektil] (max <style=\"highlight\">63%</style>)"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] มอบ <style=\"highlight\">3</style> [Laceration]"
                 }
               ]
             }
@@ -238,43 +238,43 @@
           "level": 1,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Deal +2% more damage for every [BoseProjektil] (max 14%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] ทำ  +2% more ความเสียหาย for every [BoseProjektil] (max 14%)\n[BeforeAttack] ได้รับ 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] เสีย every [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "This เหรียญ deals damage only against the main target."
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target."
                 },
                 {
-                  "desc": "If the main target is an ally, deal +10% more damage for every [BoseProjektil] (max 70%)"
+                  "desc": "If the main target is an ally, ทำ  +10% more ความเสียหาย for every [BoseProjektil] (max 70%)"
                 },
                 {
-                  "desc": "If the main target is an ally, deal +2% more damage for every [Breath]บนself (max 50%)"
+                  "desc": "If the main target is an ally, ทำ  +2% more ความเสียหาย for every [Breath]บนself (max 50%)"
                 },
                 {
-                  "desc": "[AllyKill] Apply 2 [Breath] to self and 3 random allies"
+                  "desc": "[AllyKill] มอบ 2 [Breath] to self และ 3 random allies"
                 },
                 {
-                  "desc": "[AllyKill] The next เหรียญ deals +2% more damage for every [BoseProjektil] (max 14%)"
+                  "desc": "[AllyKill] The next เหรียญ ทำ s +2% more ความเสียหาย for every [BoseProjektil] (max 14%)"
                 },
                 {
-                  "desc": "[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 and 2 Affinities"
+                  "desc": "[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 และ 2 Affinities"
                 },
                 {
-                  "desc": "[AllyKillFail] Gain 1 [Breath]"
+                  "desc": "[AllyKillFail] ได้รับ 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "This เหรียญ deals damage only against the sub-targets\n- If the first เหรียญ failed to kill the ally, 1 random sub-target takes damage"
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the sub-targets\n- If the first เหรียญ failed to kill the ally, 1 random sub-target ได้รับs ความเสียหาย"
                 },
                 {
-                  "desc": "+2% DamageบนCritical Hit for every [BoseProjektil] (max 14%)"
+                  "desc": "+2% ความเสียหายบนCritical Hit for every [BoseProjektil] (max 14%)"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             }
@@ -284,43 +284,43 @@
           "level": 3,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Deal <style=\"highlight\">+3%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">21%</style>)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] ทำ  <style=\"highlight\">+3%</style> more ความเสียหาย for every [BoseProjektil] (max <style=\"highlight\">21%</style>)\n[BeforeAttack] ได้รับ 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] เสีย every [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "This เหรียญ deals damage only against the main target.<style=\"highlight\"></style>"
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target.<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "If the main target is an ally, deal <style=\"highlight\">+12%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">84%</style>)"
+                  "desc": "If the main target is an ally, ทำ  <style=\"highlight\">+12%</style> more ความเสียหาย for every [BoseProjektil] (max <style=\"highlight\">84%</style>)"
                 },
                 {
-                  "desc": "If the main target is an ally, deal +2% more damage for every [Breath]บนself (max 50%)<style=\"highlight\"></style>"
+                  "desc": "If the main target is an ally, ทำ  +2% more ความเสียหาย for every [Breath]บนself (max 50%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[AllyKill] Apply 3 [Breath] to self and <style=\"highlight\">3</style> random allies"
+                  "desc": "[AllyKill] มอบ 3 [Breath] to self และ <style=\"highlight\">3</style> random allies"
                 },
                 {
-                  "desc": "[AllyKill] The next เหรียญ deals <style=\"highlight\">+5%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">35%</style>)"
+                  "desc": "[AllyKill] The next เหรียญ ทำ s <style=\"highlight\">+5%</style> more ความเสียหาย for every [BoseProjektil] (max <style=\"highlight\">35%</style>)"
                 },
                 {
-                  "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1, 2, and 3 Affinities</style>"
+                  "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1, 2, และ 3 Affinities</style>"
                 },
                 {
-                  "desc": "[AllyKillFail] Gain <style=\"highlight\">2</style> [Breath]"
+                  "desc": "[AllyKillFail] ได้รับ <style=\"highlight\">2</style> [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "This เหรียญ deals damage only against the sub-targets\n- If the first เหรียญ failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>"
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the sub-targets\n- If the first เหรียญ failed to kill the ally, 1 random sub-target ได้รับs ความเสียหาย<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+3%</style> DamageบนCritical Hit for every [BoseProjektil] (max <style=\"highlight\">21%</style>)"
+                  "desc": "<style=\"highlight\">+3%</style> ความเสียหายบนCritical Hit for every [BoseProjektil] (max <style=\"highlight\">21%</style>)"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict <style=\"highlight\">4</style> [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] มอบ <style=\"highlight\">4</style> [Laceration]"
                 }
               ]
             }
@@ -330,46 +330,46 @@
           "level": 4,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n<style=\"highlight\">- If the said Reson. was a Pride Reson., gain (highest Reson. x 2) [BoseProjektil] instead (max 7)</style>\n[BeforeAttack] Deal <style=\"highlight\">+4%</style> more damage for every [BoseProjektil] (max 28%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (max 7)\n<style=\"highlight\">- If the said Reson. was a Pride Reson., ได้รับ (highest Reson. x 2) [BoseProjektil] instead (max 7)</style>\n[BeforeAttack] ทำ  <style=\"highlight\">+4%</style> more ความเสียหาย for every [BoseProjektil] (max 28%)\n[BeforeAttack] ได้รับ 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] เสีย every [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "This เหรียญ deals damage only against the main target.<style=\"highlight\"></style>"
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target.<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "If the main target is an ally, deal +15% more damage for every [BoseProjektil] (max 105%)<style=\"highlight\"></style>"
+                  "desc": "If the main target is an ally, ทำ  +15% more ความเสียหาย for every [BoseProjektil] (max 105%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "If the main target is an ally, deal +2% more damage for every [Breath]บนself (max 50%)<style=\"highlight\"></style>"
+                  "desc": "If the main target is an ally, ทำ  +2% more ความเสียหาย for every [Breath]บนself (max 50%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+30% DamageบนCritical Hit</style>"
+                  "desc": "<style=\"highlight\">+30% ความเสียหายบนCritical Hit</style>"
                 },
                 {
-                  "desc": "[AllyKill] Apply 3 [Breath] to self and <style=\"highlight\">4</style> random allies"
+                  "desc": "[AllyKill] มอบ 3 [Breath] to self และ <style=\"highlight\">4</style> random allies"
                 },
                 {
-                  "desc": "[AllyKill] The next เหรียญ deals <style=\"highlight\">+7%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">49%</style>)"
+                  "desc": "[AllyKill] The next เหรียญ ทำ s <style=\"highlight\">+7%</style> more ความเสียหาย for every [BoseProjektil] (max <style=\"highlight\">49%</style>)"
                 },
                 {
-                  "desc": "[AllyKill] +1 E.G.O resource for the killed ally's Skill 1, 2, and 3 Affinities<style=\"highlight\"></style>"
+                  "desc": "[AllyKill] +1 E.G.O resource for the killed ally's Skill 1, 2, และ 3 Affinities<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[AllyKillFail] Gain <style=\"highlight\">3</style> [Breath]"
+                  "desc": "[AllyKillFail] ได้รับ <style=\"highlight\">3</style> [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "This เหรียญ deals damage only against the sub-targets\n- If the first เหรียญ failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>"
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the sub-targets\n- If the first เหรียญ failed to kill the ally, 1 random sub-target ได้รับs ความเสียหาย<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+4% DamageบนCritical Hit for every [BoseProjektil] (max 28%)</style>"
+                  "desc": "<style=\"highlight\">+4% ความเสียหายบนCritical Hit for every [BoseProjektil] (max 28%)</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict <style=\"highlight\">5</style> [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] มอบ <style=\"highlight\">5</style> [Laceration]"
                 }
               ]
             }

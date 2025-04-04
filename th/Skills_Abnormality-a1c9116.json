@@ -6,13 +6,13 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>No More Tests\u200B</line-height>",
-                    "desc": "[WhenUse] Gain 3 [HitDamageUp] next turn\n[WhenUse] If the main target has 3+ [MiddleFingerBook], convert all Coinsบนthis Skill to [SuperCoin]s",
+                    "desc": "[WhenUse] ได้รับ 3 [HitDamageUp] ในเทิร์นหน้า\n[WhenUse] If the main target has 3+ [MiddleFingerBook], convert all Coinsบนthis Skill to [SuperCoin]s",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -31,21 +31,21 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] this turn and next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable] this turn และ ในเทิร์นหน้า"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] this turn and next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable] this turn และ ในเทิร์นหน้า"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict ([MiddleFingerBook]บนthe target x 3) Blunt bonus damage"
+                                    "desc": "[OnSucceedAttack] มอบ ([MiddleFingerBook]บนthe target x 3) Blunt bonus ความเสียหาย"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Remove all [MiddleFingerBook]บนthe target"
@@ -62,7 +62,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Enough games\u200B</line-height>",
-                    "desc": "[StartBattle] Heal all allies' SP by 10\n[EndBattle] If there are Panicked allies, recover them from Panic at the next Turn Start and reset their SP to 0\n[EndBattle] Apply 1 [HitResultUp] to all allies, including this unit",
+                    "desc": "[StartBattle] ฟื้นฟู all allies' ค่าสติ ไป 10\n[EndBattle] If there are Panicked allies, recover them from Panic at the ในเทิร์นหน้า Start และ reset their ค่าสติ to 0\n[EndBattle] มอบ 1 [HitResultUp] แก่พันธมิตรทุกคน, including this unit",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -80,8 +80,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>COMPLETE AND TOTAL EXTERMINATION!!!\u200B</line-height>",
-                    "desc": "Can Clash with this Skill regardless of Speed\nIf the main target has 5+ [MiddleFingerBook], Final Power +5\n[EndSkill] Remove [MiddleFingerBook] from all targets that were hit",
+                    "name": "<line-height=120%>COMPLETE และ TOTAL EXTERMINATION!!!\u200B</line-height>",
+                    "desc": "Can Clash with this Skill regardless of Speed\nIf the main target has 5+ [MiddleFingerBook], แต้มรวม +5\n[EndSkill] Remove [MiddleFingerBook] from all targets that were hit",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -89,7 +89,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict ([MiddleFingerBook]บนthe target x 10) Blunt bonus damage"
+                                    "desc": "[OnSucceedAttack] มอบ ([MiddleFingerBook]บนthe target x 10) Blunt bonus ความเสียหาย"
                                 }
                             ]
                         }
@@ -103,12 +103,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Startling Strike\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Burst], Clash Power +1",
+                    "desc": "[WhenUse] If the target has 5+ [Burst], แต้มปะทะ +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                                 }
                             ]
                         }
@@ -122,15 +122,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Perforating Kill\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Burst], Clash Power +1\n[WhenUse] Gain 3 [LegStrength]",
+                    "desc": "[WhenUse] If the target has 5+ [Burst], แต้มปะทะ +1\n[WhenUse] ได้รับ 3 [LegStrength]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has [BurstAgility], gain 1 [Agility] next turn"
+                                    "desc": "[OnSucceedAttack] If the target has [BurstAgility], ได้รับ 1 [Agility] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -144,22 +144,22 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Etching Strike\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Burst], เหรียญ Power +1",
+                    "desc": "[WhenUse] If the target has 5+ [Burst], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict [BurstAgility]"
+                                    "desc": "[OnSucceedAttack] มอบ [BurstAgility]"
                                 }
                             ]
                         }
@@ -173,7 +173,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Cursewrit Butcherblade - Blinkstep\u200B</line-height>",
-                    "desc": "Prioritizes targets with [BurstAgility]\nDeal +15% more damage for every 2 Speed difference between this unit and the target (max 60%)\n[WhenUse] เหรียญ Power +1 for every 5 [Burst]บนthe target (max 2)\n[WhenUse] Base Power +1 for every 2 [Burst] Countบนthe target (max 3)\n[EndSkill] At 10+ Speed, and if the target is defeated, Reuse this Skill against a random enemy (once per turn)",
+                    "desc": "Prioritizes targets with [BurstAgility]\nทำ +15% more ความเสียหาย for every 2 Speed difference between this unit และ the target (max 60%)\n[WhenUse] แต้มเหรียญ +1 for every 5 [Burst]บนthe target (max 2)\n[WhenUse] Base Power +1 for every 2 [Burst] Countบนthe target (max 3)\n[EndSkill] เมื่อมี 10+ Speed, และ if the target is defeated, Reuse this Skill aได้รับst a random enemy (once per turn)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -181,7 +181,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Burst] +3 ขั้น"
                                 }
                             ]
                         },
@@ -191,7 +191,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 5 [Burst]"
+                                    "desc": "[OnSucceedAttack] มอบ 5 [Burst]"
                                 }
                             ]
                         },
@@ -201,10 +201,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If the target has [BurstAgility], deal +50% more damage"
+                                    "desc": "If the target has [BurstAgility], ทำ  +50% more ความเสียหาย"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 5 [Burst]"
+                                    "desc": "[OnSucceedAttack] มอบ 5 [Burst]"
                                 }
                             ]
                         }
@@ -218,26 +218,26 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Cursewrit\u200B</line-height>",
-                    "desc": "[DuelCounter]\n[WhenUse] If the target has [BurstAgility], inflict +1 more [Burst] Count with this Skill",
+                    "desc": "[DuelCounter]\n[WhenUse] If the target has [BurstAgility], มอบ +1 more [Burst] Count with this Skill",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
                                 }
                             ]
                         }

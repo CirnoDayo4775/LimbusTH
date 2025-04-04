@@ -6,7 +6,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Let's Get Packing\u200B</line-height>",
-                    "desc": "If this unit has [AaCeSeBa], add 'Inflict 1 [Paralysis] next turn' to เหรียญ effects\nTargets the unit with the lowest Speed\n[EndBattle]จ่าย all [Charge] Count",
+                    "desc": "If this unit has [AaCeSeBa], add 'Inflict 1 [Paralysis] ในเทิร์นหน้า' to เหรียญ effects\nTargets the unit with the lowest Speed\n[EndBattle]จ่าย all [Charge] Count",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -14,7 +14,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 3 [Breath]."
+                                    "desc": "[OnSucceedAttack] ได้รับ 3 [Breath]."
                                 }
                             ]
                         },
@@ -24,10 +24,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Deal bonus damage equal to [Breath]บนself"
+                                    "desc": "[OnSucceedAttack] ทำ  bonus ความเสียหาย equal to [Breath]บนself"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 1 [Breath] and +3 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] และ +3 [Breath] Count"
                                 }
                             ]
                         },
@@ -37,16 +37,16 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Randomly select 1 of 4 effects ([Protection], [Enhancement], [Vulnerable], [Paralysis]). Inflict or apply 3 of the selected effect."
+                                    "desc": "[OnSucceedAttack] Randomly select 1 of 4 effects ([Protection], [Enhancement], [Vulnerable], [Paralysis]). มอบ or มอบ 3 of the selected effect."
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Target loses SP equal to [Charge] Countบนthis unit"
+                                    "desc": "[OnSucceedAttack] Target เสีย ค่าสติ equal to [Charge] Countบนthis unit"
                                 },
                                 {
-                                    "desc": "[EnemyKill] All enemies lose 10 Sp."
+                                    "desc": "[EnemyKill] ศัตรูทุกตัว เสีย 10 Sp."
                                 },
                                 {
-                                    "desc": "[EnemyKillFail] Gain 2 [Paralysis] next turn."
+                                    "desc": "[EnemyKillFail] ได้รับ 2 [Paralysis] ในเทิร์นหน้า."
                                 }
                             ]
                         }

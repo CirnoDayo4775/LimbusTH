@@ -11,14 +11,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal 2 SP damage"
+                                    "desc": "[OnSucceedAttackTail] ทำ  2 ความเสียหายค่าสติ"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal 2 SP damage"
+                                    "desc": "[OnSucceedAttackTail] ทำ  2 ความเสียหายค่าสติ"
                                 }
                             ]
                         }
@@ -32,12 +32,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Engrave Horror\u200B</line-height>",
-                    "desc": "[WinDuel] Deal 10 SP damage to target; this unit heals 10 HP",
+                    "desc": "[WinDuel] ทำ  10 ความเสียหายค่าสติ to target; this unit ฟื้นฟู 10 HP",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -51,25 +51,25 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Reap Horror\u200B</line-height>",
-                    "desc": "If target’s SP is below 20, heal 20% more HP from this attack",
+                    "desc": "If target’s ค่าสติ is below 20, ฟื้นฟู 20% more HP from this attack",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal 3 SP damage"
+                                    "desc": "[OnSucceedAttackTail] ทำ  3 ความเสียหายค่าสติ"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 30% of damage dealt"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ไป 30% ของความเสียหายที่ทำไป"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal 3 SP damage"
+                                    "desc": "[OnSucceedAttackTail] ทำ  3 ความเสียหายค่าสติ"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 30% of damage dealt"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ไป 30% ของความเสียหายที่ทำไป"
                                 }
                             ]
                         }
@@ -83,19 +83,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Paralyze Mind\u200B</line-height>",
-                    "desc": "If target's SP is below -15, deal +50% damage",
+                    "desc": "If target's ค่าสติ is below -15, ทำ  +50% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Paralysis] ในเทิร์นหน้า"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Paralysis] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -114,14 +114,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Sinking]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Sinking]"
                                 }
                             ]
                         }
@@ -135,15 +135,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-- ... -.-\u200B</line-height>",
-                    "desc": "[WinDuel] Inflict 1 Pallid Noise",
+                    "desc": "[WinDuel] มอบ 1 Pallid Noise",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Sinking]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict +3 Sinking Count"
+                                    "desc": "[OnSucceedAttackHead] มอบ [Sinking] +3 ขั้น"
                                 }
                             ]
                         }
@@ -162,17 +162,17 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 40% of damage dealt"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ไป 40% ของความเสียหายที่ทำไป"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, [AttackDmgUp], and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
+                                    "desc": "[OnSucceedAttack] Copy one of the buffs currently applied to the target. ได้รับ the copied buff ในเทิร์นหน้า.\n(Limited to: [Enhancement], [Agility], [AttackDmgUp], และ <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 40% of damage dealt"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ไป 40% ของความเสียหายที่ทำไป"
                                 }
                             ]
                         }
@@ -191,14 +191,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Sinking] +2 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Sinking] +2 ขั้น"
                                 }
                             ]
                         }
@@ -212,15 +212,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>..-. . --\u200B</line-height>",
-                    "desc": "[WinDuel] Inflict 1 Pallid Noise",
+                    "desc": "[WinDuel] มอบ 1 Pallid Noise",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Sinking] +2 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
+                                    "desc": "[OnSucceedAttackHead] มอบ 2 [Sinking]"
                                 }
                             ]
                         }
@@ -234,22 +234,22 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.-.. -\u200B</line-height>",
-                    "desc": "[WinDuel] Deal 1 SP damage to target for each surviving Pallidified ally (not counting this unit)",
+                    "desc": "[WinDuel] ทำ  1 ความเสียหายค่าสติ to target for each surviving Pallidified ally (not counting this unit)",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 40% of damage dealt"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ไป 40% ของความเสียหายที่ทำไป"
                                 },
                                 {
-                                    "desc": "Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, [AttackDmgUp], and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
+                                    "desc": "Copy one of the buffs currently applied to the target. ได้รับ the copied buff ในเทิร์นหน้า.\n(Limited to: [Enhancement], [Agility], [AttackDmgUp], และ <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 40% of damage dealt"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ไป 40% ของความเสียหายที่ทำไป"
                                 }
                             ]
                         }
@@ -263,25 +263,25 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-... .…\u200B</line-height>",
-                    "desc": "If the target has <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, the HP heal effect also applies to 1 other Pallidified ally with the lowest SP",
+                    "desc": "If the target has <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, the HP ฟื้นฟู effect also applies to 1 other Pallidified ally with the lowest SP",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 30% of damage dealt"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ไป 30% ของความเสียหายที่ทำไป"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Sinking"
+                                    "desc": "[OnSucceedAttackHead] มอบ 1 [Sinking]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 30% of damage dealt"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ไป 30% ของความเสียหายที่ทำไป"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Sinking"
+                                    "desc": "[OnSucceedAttackHead] มอบ 1 [Sinking]"
                                 }
                             ]
                         }
@@ -295,15 +295,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.--- .\u200B</line-height>",
-                    "desc": "If the target has <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, the HP heal effect also applies to 1 other Pallidified ally with the lowest SP",
+                    "desc": "If the target has <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, the HP ฟื้นฟู effect also applies to 1 other Pallidified ally with the lowest SP",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 50% of damage dealt"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ไป 50% ของความเสียหายที่ทำไป"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Pallid Noise"
+                                    "desc": "[OnSucceedAttack] มอบ 2 Pallid Noise"
                                 }
                             ]
                         }
@@ -317,19 +317,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-. .…\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Pallid Noise</link></u></color>, all other Pallidified allies heal 30 HP",
+                    "desc": "[WhenUse] If the target has <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Pallid Noise</link></u></color>, all other Pallidified allies ฟื้นฟู 30 HP",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, [AttackDmgUp], and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
+                                    "desc": "Copy one of the buffs currently applied to the target. ได้รับ the copied buff ในเทิร์นหน้า.\n(Limited to: [Enhancement], [Agility], [AttackDmgUp], และ <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 20 HPบนself"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 20 HPบนself"
                                 }
                             ]
                         }
@@ -348,14 +348,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Vibration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Vibration]"
                                 }
                             ]
                         }
@@ -369,12 +369,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-... .-\u200B</line-height>",
-                    "desc": "[WhenUse] Apply 1 Protection to 1 other random ally next turn. If the ally is a Pallidified ally, apply 1 additional Protection.",
+                    "desc": "[WhenUse] มอบ 1 [Protection] to 1 other random ally ในเทิร์นหน้า. If the ally is a Pallidified ally, มอบ 1 additional [Protection].",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +4 Tremor Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Vibration] +4 ขั้น"
                                 }
                             ]
                         }
@@ -393,20 +393,20 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                                    "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Reduce Tremor Count by 2"
+                                    "desc": "[OnSucceedAttack] Reduce [Vibration] Count ไป 2"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Pallid Noise"
+                                    "desc": "[OnSucceedAttack] มอบ 1 Pallid Noise"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 10 Rupture and +4 Rupture Count"
+                                    "desc": "[OnSucceedAttack] มอบ 10 [Burst] และ [Burst] +4 ขั้น"
                                 }
                             ]
                         }
@@ -420,7 +420,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.--. .\u200B</line-height>",
-                    "desc": "[StartBattle] Gain 1 Protection for every 2 Pallidified ally (not counting this unit)\nWhen attacked while this unit has Shield, inflict 1 Tremor to the attacker",
+                    "desc": "[StartBattle] ได้รับ 1 [Protection] for every 2 Pallidified ally (not counting this unit)\nWhen attacked while this unit has Shield, มอบ 1 [Vibration] to the attacker",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -444,7 +444,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down"
+                                    "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down"
                                 }
                             ]
                         }
@@ -458,15 +458,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.-.. .\u200B</line-height>",
-                    "desc": "[WhenUse] Apply 1 [AttackDmgUp] to 1 other random Pallidified ally next turn",
+                    "desc": "[WhenUse] มอบ 1 [AttackDmgUp] to 1 other random Pallidified ally ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Paralyze"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Paralysis]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+                                    "desc": "[OnSucceedAttackHead] มอบ 1 Pallid Noise"
                                 }
                             ]
                         }
@@ -480,22 +480,22 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.-.. .-\u200B</line-height>",
-                    "desc": "[WhenUse] Apply 1 [AttackDmgUp] to 1 random Pallidified ally next turn",
+                    "desc": "[WhenUse] มอบ 1 [AttackDmgUp] to 1 random Pallidified ally ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down"
+                                    "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Pallid Noise"
+                                    "desc": "[OnSucceedAttack] มอบ 1 Pallid Noise"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down"
+                                    "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down"
                                 }
                             ]
                         }
@@ -509,15 +509,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>--. . ...-\u200B</line-height>",
-                    "desc": "If the target has <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Pallid Noise</link></u></color>, deal 1 SP damage to target for every other surviving ally",
+                    "desc": "If the target has <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Pallid Noise</link></u></color>, ทำ  1 ความเสียหายค่าสติ to target for every other surviving ally",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                                    "desc": "[OnSucceedAttackHead] มอบ 3 [Laceration]"
                                 }
                             ]
                         }
@@ -536,17 +536,17 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Pallid Noise"
+                                    "desc": "[OnSucceedAttack] มอบ 1 Pallid Noise"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         }
@@ -560,19 +560,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.--. .... -\u200B</line-height>",
-                    "desc": "[WinDuel] Inflict 1 Pallid Noise",
+                    "desc": "[WinDuel] มอบ 1 Pallid Noise",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 Bleed next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 4 [Laceration] ในเทิร์นหน้า"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Vulnerable] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -586,7 +586,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-.- -\u200B</line-height>",
-                    "desc": "When attacked while this unit has Shield, inflict 1 Pallid Noise to the target\n[EndBattle] If this unit has Shield, gain 3 Poise next turn",
+                    "desc": "When attacked while this unit has Shield, มอบ 1 Pallid Noise to the target\n[EndBattle] If this unit has Shield, ได้รับ 3 Poise ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -610,10 +610,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 }
                             ]
                         }
@@ -632,20 +632,20 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Damage Down next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 2 ความเสียหาย Down ในเทิร์นหน้า"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 }
                             ]
                         }
@@ -659,25 +659,25 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-- .... -\u200B</line-height>",
-                    "desc": "[WhenUse] Gain 1 Protection for every surviving ally. (Max 3)",
+                    "desc": "[WhenUse] ได้รับ 1 [Protection] for every surviving ally. (Max 3)",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2 Protection"
+                                    "desc": "[OnSucceedAttack] ได้รับ 2 [Protection]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+                                    "desc": "[OnSucceedAttackHead] มอบ 1 Pallid Noise"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2 Protection next turn"
+                                    "desc": "[OnSucceedAttack] ได้รับ 2 [Protection] ในเทิร์นหน้า"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 4 Bleed next turn"
+                                    "desc": "[OnSucceedAttackHead] มอบ 4 [Laceration] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -691,7 +691,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-.- ..\u200B</line-height>",
-                    "desc": "[WhenUse] Gain 2 Protection\nWhen attacked while this unit has Shield, inflict 1 Pallid Noise to the target\n[EndBattle] Heal HP by x2 of the remaining Shield HP.",
+                    "desc": "[WhenUse] ได้รับ 2 [Protection]\nWhen attacked while this unit has Shield, มอบ 1 Pallid Noise to the target\n[EndBattle] ฟื้นฟู HP ไป x2 of the remaining Shield HP.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -715,7 +715,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
+                                    "desc": "[OnSucceedAttackHead] มอบ 1 [Paralysis] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -729,19 +729,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>We Remember!\u200B</line-height>",
-                    "desc": "[DefeatDuel] Gain 1 [AttackDmgUp] next turn",
+                    "desc": "[DefeatDuel] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Deal additional fixed damage equal to the number of the Middle allies killed during this wave"
+                                    "desc": "[OnSucceedAttack] ทำ  additional  ความเสียหายตรง equal to the number of the Middle allies killed during this wave"
                                 }
                             ]
                         }
@@ -760,14 +760,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Attack Power Down next turn"
+                                    "desc": "[OnSucceedAttackHead] มอบ 1 [Reduction] ในเทิร์นหน้า"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Paralysis] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -781,7 +781,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Ready to Write\u200B</line-height>",
-                    "desc": "[EndBattle] If this unit has Shield, gain 1 Attack Power Up next turn",
+                    "desc": "[EndBattle] If this unit has Shield, ได้รับ 1 [Enhancement] ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -800,16 +800,16 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Vengeance\u200B</line-height>",
-                    "desc": "[DefeatDuel] Gain 1 [AttackDmgUp] next turn",
+                    "desc": "[DefeatDuel] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Paralysis] ในเทิร์นหน้า"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackTail] เพิ่มขีดStagger by 8"
+                                    "desc": "[OnSucceedAttackTail] เพิ่มขีดStagger ไป 8"
                                 }
                             ]
                         }
@@ -828,13 +828,13 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 30"
+                                    "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 30"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Deal 20 fixed HP damage"
+                                    "desc": "[OnSucceedAttack] ทำ  20 fixed HP ความเสียหาย"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze next turn"
+                                    "desc": "[OnSucceedAttackHead] มอบ 3 [Paralysis] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -853,7 +853,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
+                                    "desc": "[OnSucceedAttackHead] มอบ 1 [Paralysis] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -867,19 +867,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Write Their Sins!\u200B</line-height>",
-                    "desc": "[DefeatDuel] Gain 1 [AttackDmgUp] next turn",
+                    "desc": "[DefeatDuel] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Damage Down next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 2 ความเสียหาย Down ในเทิร์นหน้า"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Deal additional fixed damage equal to the number of the Middle allies killed during this wave"
+                                    "desc": "[OnSucceedAttack] ทำ  additional  ความเสียหายตรง equal to the number of the Middle allies killed during this wave"
                                 }
                             ]
                         }
@@ -898,14 +898,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Plus เหรียญ Drop next turn"
+                                    "desc": "[OnSucceedAttackHead] มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Plus เหรียญ Drop next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -919,7 +919,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Ready to Write\u200B</line-height>",
-                    "desc": "If this unit's Shield is fully depleted, gain 1 Attack Power Up next turn",
+                    "desc": "If this unit's Shield is fully depleted, ได้รับ 1 [Enhancement] ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -938,16 +938,16 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Vengeance\u200B</line-height>",
-                    "desc": "[DefeatDuel] Gain 1 [AttackDmgUp] next turn",
+                    "desc": "[DefeatDuel] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Paralysis] ในเทิร์นหน้า"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackTail] เพิ่มขีดStagger by 8"
+                                    "desc": "[OnSucceedAttackTail] เพิ่มขีดStagger ไป 8"
                                 }
                             ]
                         }
@@ -966,13 +966,13 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 30"
+                                    "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 30"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Deal 20 fixed HP damage"
+                                    "desc": "[OnSucceedAttack] ทำ  20 fixed HP ความเสียหาย"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"
                                 }
                             ]
                         }

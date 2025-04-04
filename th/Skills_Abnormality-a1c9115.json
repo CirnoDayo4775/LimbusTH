@@ -6,7 +6,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Overthrow\u200B</line-height>",
-                    "desc": "[WhenUse] Gain +3 [Breath] Count",
+                    "desc": "[WhenUse] ได้รับ +3 [Breath] Count",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -14,13 +14,13 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this เหรียญ is Cracked, lose 10 Final Power"
+                                    "desc": "If this เหรียญ is Cracked, เสีย 10 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 3 [Breath] and +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ 3 [Breath] และ +1 [Breath] Count"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ +1 [Laceration]Count"
                                 }
                             ]
                         },
@@ -30,13 +30,13 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this เหรียญ is Cracked, lose 10 Final Power"
+                                    "desc": "If this เหรียญ is Cracked, เสีย 10 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2 [SlashDamageUp] next turn"
+                                    "desc": "[OnSucceedAttack] ได้รับ 2 [SlashDamageUp] ในเทิร์นหน้า"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [SlashResistDown]"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 2 [SlashResistDown]"
                                 }
                             ]
                         },
@@ -46,16 +46,16 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this เหรียญ is Cracked, lose 10 Final Power"
+                                    "desc": "If this เหรียญ is Cracked, เสีย 10 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Laceration]"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 5 [Laceration]"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Paralysis] next turn"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 2 [Paralysis] ในเทิร์นหน้า"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +3 [Laceration] Count"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ +3 [Laceration]Count"
                                 }
                             ]
                         }
@@ -69,7 +69,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-                    "desc": "[StartBattle] Gain 100 Shield\n[WhenUse] If the Shield isn't fully depleted, Clash Power +5",
+                    "desc": "[StartBattle] ได้รับ 100 Shield\n[WhenUse] If the Shield isn't fully depleted, แต้มปะทะ +5",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -77,10 +77,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this เหรียญ is Cracked, lose 20 Final Power"
+                                    "desc": "If this เหรียญ is Cracked, เสีย 20 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [SlashResistDown]"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 3 [SlashResistDown]"
                                 }
                             ]
                         },
@@ -90,13 +90,13 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this เหรียญ is Cracked, lose 20 Final Power"
+                                    "desc": "If this เหรียญ is Cracked, เสีย 20 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% DamageบนCritical Hit"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% ความเสียหายบนCritical Hit"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 10 [Laceration]and +2 [Laceration]Count"
                                 }
                             ]
                         },
@@ -106,10 +106,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this เหรียญ is Cracked, lose 20 Final Power"
+                                    "desc": "If this เหรียญ is Cracked, เสีย 20 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage."
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value ไป Atk Weight และ มอบ itเป็น ความเสียหายตรง."
                                 }
                             ]
                         }
@@ -123,7 +123,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-                    "desc": "[StartBattle] Gain 250 Shield\n[WhenUse] Gain +3 [Breath] Count\n[WhenUse] If the Shield isn't fully depleted, Clash Power +10",
+                    "desc": "[StartBattle] ได้รับ 250 Shield\n[WhenUse] ได้รับ +3 [Breath] Count\n[WhenUse] If the Shield isn't fully depleted, แต้มปะทะ +10",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -131,10 +131,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this เหรียญ is Cracked, lose 23 Final Power"
+                                    "desc": "If this เหรียญ is Cracked, เสีย 23 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [SlashResistDown]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [SlashResistDown]"
                                 }
                             ]
                         },
@@ -144,16 +144,16 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this เหรียญ is Cracked, lose 23 Final Power"
+                                    "desc": "If this เหรียญ is Cracked, เสีย 23 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% DamageบนCritical Hit"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% ความเสียหายบนCritical Hit"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Paralysis] next turn"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 5 [Paralysis] ในเทิร์นหน้า"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 10 [Laceration]and +2 [Laceration]Count"
                                 }
                             ]
                         },
@@ -163,10 +163,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this เหรียญ is Cracked, lose 23 Final Power"
+                                    "desc": "If this เหรียญ is Cracked, เสีย 23 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage."
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value ไป Atk Weight และ มอบ itเป็น ความเสียหายตรง."
                                 }
                             ]
                         }
@@ -180,7 +180,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-                    "desc": "[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] Heal HP equal to [Grudge] value",
+                    "desc": "[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] ฟื้นฟู HP equal to [Grudge] value",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -188,7 +188,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this เหรียญ is Cracked, lose 25 Final Power"
+                                    "desc": "If this เหรียญ is Cracked, เสีย 25 แต้มรวม"
                                 }
                             ]
                         },
@@ -198,7 +198,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this เหรียญ is Cracked, lose 25 Final Power"
+                                    "desc": "If this เหรียญ is Cracked, เสีย 25 แต้มรวม"
                                 }
                             ]
                         },
@@ -208,10 +208,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this เหรียญ is Cracked, lose 25 Final Power"
+                                    "desc": "If this เหรียญ is Cracked, เสีย 25 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Deal fixed damage equal to [Grudge] value."
+                                    "desc": "[OnSucceedAttack] ทำ   ความเสียหายตรง equal to [Grudge] value."
                                 }
                             ]
                         }

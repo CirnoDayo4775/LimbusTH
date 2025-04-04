@@ -6,25 +6,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>Crimson Strike\u200B</line-height>",
-          "desc": "[WhenUse] If target has 5+ negative effects, Clash Power +1\n[WhenUse] Base Power +1 for every 3 [Burst]บนtarget (max 2)",
+          "desc": "[WhenUse] หากเป้าหมายมี 5+ negative effects, แต้มปะทะ +1\n[WhenUse] Base Power +1 for every 3 [Burst]บนtarget (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [AttackUp] next turn"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [AttackUp] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [AttackUp] next turn"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [AttackUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -38,48 +38,48 @@
         {
           "level": 1,
           "name": "<line-height=120%>Crimson Phoenix\u200B</line-height>",
-          "desc": "[WhenUse] If target has 5+ negative effects, เหรียญ Power +1\n[WhenUse] เหรียญ Power +1 for every 6 [Burst]บนtarget (max 2)",
+          "desc": "[WhenUse] หากเป้าหมายมี 5+ negative effects, แต้มเหรียญ +1\n[WhenUse] แต้มเหรียญ +1 for every 6 [Burst]บนtarget (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [DefenseDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [AttackUp] next turn"
+                  "desc": "[OnSucceedAttack] ได้รับ 3 [AttackUp] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Breath] equal to [Burst]บนtarget (max 5)"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] equal to [Burst]บนtarget (max 5)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain [Breath] Count equal to [Burst] Countบนtarget (max 2)"
+                  "desc": "[OnSucceedAttackHead] ได้รับ [Breath] Count equal to [Burst] Countบนtarget (max 2)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal +50% more damage"
+                  "desc": "[CriticalOnSucceedAttack] ทำ  +50% more ความเสียหาย"
                 },
                 {
-                  "desc": "[CriticalEnemyTargetKillFail] Inflict +2 [Burst] Count"
+                  "desc": "[CriticalEnemyTargetKillFail] มอบ [Burst] +2 ขั้น"
                 },
                 {
-                  "desc": "[CriticalEnemyTargetKill] Gain 3 [AttackUp] next turn"
+                  "desc": "[CriticalEnemyTargetKill] ได้รับ 3 [AttackUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -93,21 +93,21 @@
         {
           "level": 1,
           "name": "<line-height=120%>Crimson Spring\u200B</line-height>",
-          "desc": "[StartBattle] Gain +1 Atk Weight for every 4 negative effectบนtarget (max 2)\n[WhenUse] If target has 5+ negative effects, Base Power +5\n[WhenUse] If the sum of the target's [Burst] and [Burst] Count is at 15+, เหรียญ Power +5\n[WinDuel] Inflict +2 [Burst] Count",
+          "desc": "[StartBattle] ได้รับ +1 Atk Weight for every 4 negative effectบนtarget (max 2)\n[WhenUse] หากเป้าหมายมี 5+ negative effects, Base Power +5\n[WhenUse] If the sum of the target's [Burst] และ [Burst] Count is at 15+, แต้มเหรียญ +5\n[WinDuel] มอบ [Burst] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 7 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 7 [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal +200% more damage"
+                  "desc": "[CriticalOnSucceedAttack] ทำ  +200% more ความเสียหาย"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[CriticalOnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 2 [Breath] and +1 [Breath] Count"
+                  "desc": "[CriticalOnSucceedAttack] ได้รับ 2 [Breath] และ +1 [Breath] Count"
                 }
               ]
             }
@@ -121,7 +121,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Adept Evasion\u200B</line-height>",
-          "desc": "[OnSucceedEvade] Gain 1 [Breath] next turn. (3 times per turn)"
+          "desc": "[OnSucceedEvade] ได้รับ 1 [Breath] ในเทิร์นหน้า. (3 times per turn)"
         }
       ]
     }

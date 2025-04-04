@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -30,14 +30,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -51,27 +51,27 @@
         {
           "level": 1,
           "name": "<line-height=120%>Collecting Blood\u200B</line-height>",
-          "desc": "If target has 10+ [Laceration], deal +20% damage",
+          "desc": "หากเป้าหมายมี 10+ [Laceration], ทำ  +20% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to heal"
+                  "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration]Potency from the target และ ฟื้นฟู ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration]Potency under 1)",
+                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to ฟื้นฟู"
                 }
               ]
             }
@@ -84,13 +84,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Counter\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
+          "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration]Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             }
@@ -109,7 +109,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             }
@@ -128,14 +128,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             }
@@ -149,27 +149,27 @@
         {
           "level": 1,
           "name": "<line-height=120%>Collecting Blood\u200B</line-height>",
-          "desc": "If target has 10+ [Laceration], deal +20% damage",
+          "desc": "หากเป้าหมายมี 10+ [Laceration], ทำ  +20% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to heal"
+                  "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration]Potency from the target และ ฟื้นฟู ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration]Potency under 1)",
+                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to ฟื้นฟู"
                 }
               ]
             }
@@ -182,13 +182,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Counter\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
+          "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration]Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             }
@@ -207,10 +207,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             }
@@ -229,10 +229,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             }
@@ -246,27 +246,27 @@
         {
           "level": 1,
           "name": "<line-height=120%>Collecting Blood\u200B</line-height>",
-          "desc": "If target has 10+ [Laceration], deal +20% damage",
+          "desc": "หากเป้าหมายมี 10+ [Laceration], ทำ  +20% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to heal"
+                  "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration]Potency from the target และ ฟื้นฟู ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration]Potency under 1)",
+                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to ฟื้นฟู"
                 }
               ]
             }
@@ -279,13 +279,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Counter\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
+          "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration]Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             }
@@ -299,15 +299,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Rip\u200B</line-height>",
-          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
+          "desc": "[WhenUse] ได้รับ [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             }
@@ -321,25 +321,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>Stab Down\u200B</line-height>",
-          "desc": "[WhenUse] Gain [Charge] +5 ขั้น",
+          "desc": "[WhenUse] ได้รับ [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             }
@@ -353,23 +353,23 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hardblood Weapon\u200B</line-height>",
-          "desc": "[WhenUse] Consume all [Charge] Countบนself and consume 2(15 - [Charge] Count consumed)% HP to gain เหรียญ Power +2",
+          "desc": "[WhenUse] Consume all [Charge] Countบนself และ consume 2(15 - [Charge] Count consumed)% HP to ได้รับ แต้มเหรียญ +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 6 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] มอบ 6 [DefenseDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to heal"
+                  "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration]Potency from the target และ ฟื้นฟู ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration]Potency under 1)",
+                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to ฟื้นฟู"
                 }
               ]
             }
@@ -383,7 +383,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration]Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -402,15 +402,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Thrust\u200B</line-height>",
-          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
+          "desc": "[WhenUse] ได้รับ [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -424,25 +424,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>Cleave\u200B</line-height>",
-          "desc": "[WhenUse] Gain [Charge] +5 ขั้น",
+          "desc": "[WhenUse] ได้รับ [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -456,23 +456,23 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hardblood Weapon\u200B</line-height>",
-          "desc": "[WhenUse] Consume all [Charge] Countบนself and consume 2(15 - [Charge] Count consumed)% HP to gain เหรียญ Power +2",
+          "desc": "[WhenUse] Consume all [Charge] Countบนself และ consume 2(15 - [Charge] Count consumed)% HP to ได้รับ แต้มเหรียญ +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 6 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Vulnerable]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to heal"
+                  "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration]Potency from the target และ ฟื้นฟู ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration]Potency under 1)",
+                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to ฟื้นฟู"
                 }
               ]
             }
@@ -485,8 +485,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Evade\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
+          "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration]Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -505,18 +505,18 @@
         {
           "level": 1,
           "name": "<line-height=120%>Spear Swing\u200B</line-height>",
-          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
+          "desc": "[WhenUse] ได้รับ [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             }
@@ -530,31 +530,31 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tear Up Wound\u200B</line-height>",
-          "desc": "[WhenUse] Gain [Charge] +5 ขั้น",
+          "desc": "[WhenUse] ได้รับ [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] ได้รับ [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             }
@@ -568,26 +568,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hardblood Weapon\u200B</line-height>",
-          "desc": "[WhenUse] Consume all [Charge] Countบนself and consume 2(15 - [Charge] Count consumed)% HP to gain เหรียญ Power +2",
+          "desc": "[WhenUse] Consume all [Charge] Countบนself และ consume 2(15 - [Charge] Count consumed)% HP to ได้รับ แต้มเหรียญ +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 6 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [AttackDown]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [AttackDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to heal"
+                  "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration]Potency from the target และ ฟื้นฟู ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration]Potency under 1)",
+                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to ฟื้นฟู"
                 }
               ]
             }
@@ -601,7 +601,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration]Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -620,12 +620,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Activate Prosthesis\u200B</line-height>",
-          "desc": "[WhenUse] At 10+ [Charge] Count, consume 5 [Charge] Count to gain 3 [AttackUp]",
+          "desc": "[WhenUse] เมื่อมี 10+ [Charge] Count, consume 5 [Charge] Count to ได้รับ 3 [AttackUp]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             }
@@ -639,22 +639,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>Harpoon Mark\u200B</line-height>",
-          "desc": "[StartBattle] At 5- [Charge] Count, gain 5 [Charge] Count, 3 [Laceration] Count, and 1 [Vulnerable]\n[WhenUse] At 10+ [Charge] Count, consume 5 [Charge] Count to gain 3 [AttackUp]",
+          "desc": "[StartBattle] เมื่อมี 5- [Charge] Count, ได้รับ 5 [Charge] Count, 3 [Laceration]Count, และ 1 [Vulnerable]\n[WhenUse] เมื่อมี 10+ [Charge] Count, consume 5 [Charge] Count to ได้รับ 3 [AttackUp]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -668,25 +668,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hardblood Harpoon\u200B</line-height>",
-          "desc": "[WhenUse] Consume 10% HPบนself to gain [Charge] +0 ขั้น",
+          "desc": "[WhenUse] Consume 10% HPบนself to ได้รับ [Charge] +0 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 6 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count."
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Paralysis]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Paralysis]"
                 }
               ]
             }
@@ -699,8 +699,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Counter\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
+          "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration]Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -719,15 +719,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Activate Prosthesis\u200B</line-height>",
-          "desc": "[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain เหรียญ Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% more damage\n[WhenUse] At 5- [Charge] Count, lose 10% HP and gain [Charge] +5 ขั้น",
+          "desc": "[WhenUse] เมื่อมี 10+ [Charge] Count, consume 3 [Charge] Count to ได้รับ แต้มเหรียญ +1\n[WhenUse] เมื่อมี 15+ [Charge] Count, consume 3 additional [Charge] Count to ทำ  +20% more ความเสียหาย\n[WhenUse] เมื่อมี 5- [Charge] Count, เสีย 10% HP และ ได้รับ [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -741,35 +741,35 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hardblood Reflux\u200B</line-height>",
-          "desc": "[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain เหรียญ Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% more damage\n[WhenUse] At 5- [Charge] Count, lose 10% HP and gain [Charge] +5 ขั้น",
+          "desc": "[WhenUse] เมื่อมี 10+ [Charge] Count, consume 3 [Charge] Count to ได้รับ แต้มเหรียญ +1\n[WhenUse] เมื่อมี 15+ [Charge] Count, consume 3 additional [Charge] Count to ทำ  +20% more ความเสียหาย\n[WhenUse] เมื่อมี 5- [Charge] Count, เสีย 10% HP และ ได้รับ [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Paralysis]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Paralysis]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             }
@@ -783,28 +783,28 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bioenergy Conversion Charge\u200B</line-height>",
-          "desc": "[WhenUse] Consume 10% HPบนself to gain [Charge] +5 ขั้น",
+          "desc": "[WhenUse] Consume 10% HPบนself to ได้รับ [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 6 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [AttackDown]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [AttackDown]"
                 }
               ]
             }
@@ -818,7 +818,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration]Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -837,22 +837,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hardblood Transfusion\u200B</line-height>",
-          "desc": "[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain เหรียญ Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% more damage\n[WhenUse] At 5- [Charge] Count, lose 10% HP and gain [Charge] +5 ขั้น",
+          "desc": "[WhenUse] เมื่อมี 10+ [Charge] Count, consume 3 [Charge] Count to ได้รับ แต้มเหรียญ +1\n[WhenUse] เมื่อมี 15+ [Charge] Count, consume 3 additional [Charge] Count to ทำ  +20% more ความเสียหาย\n[WhenUse] เมื่อมี 5- [Charge] Count, เสีย 10% HP และ ได้รับ [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             }
@@ -866,38 +866,38 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bioenergy Conversion Recharge\u200B</line-height>",
-          "desc": "[WhenUse] Consume 10% HPบนself to gain [Charge] +5 ขั้น",
+          "desc": "[WhenUse] Consume 10% HPบนself to ได้รับ [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 6 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [AttackDown]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [AttackDown]"
                 }
               ]
             }

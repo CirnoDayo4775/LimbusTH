@@ -6,29 +6,29 @@
         {
           "level": 1,
           "name": "<line-height=120%>Sky-clearing Cut\u200B</line-height>",
-          "desc": "[StartBattle] If the main target has 5+ [Laceration], Atk Weight +1\n[StartBattle] If this unit will use 4+ Attack Skills this turn, Final Power +5\n[WinDuel] All allies heal 15 SP\nIf the target has 7+ [Laceration], deal +30% more damage",
+          "desc": "[StartBattle] If the main target has 5+ [Laceration], Atk Weight +1\n[StartBattle] If this unit will use 4+ Attack Skills this turn, แต้มรวม +5\n[WinDuel] All allies ฟื้นฟู 15 SP\nIf the target has 7+ [Laceration], ทำ  +30% more ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If target has 7+ [Laceration], deal +50% damage"
+                  "desc": "หากเป้าหมายมี 7+ [Laceration], ทำ  +50% ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +10 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +10 [Laceration]Count"
                 }
               ]
             }
@@ -47,10 +47,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and +2 [Laceration]Count"
                 },
                 {
-                  "desc": "[EnemyKill] All allies heal 20 SP"
+                  "desc": "[EnemyKill] All allies ฟื้นฟู 20 SP"
                 }
               ]
             }

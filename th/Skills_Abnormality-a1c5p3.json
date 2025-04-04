@@ -6,19 +6,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>All Shall Scatter\u200B</line-height>",
-          "desc": "Prioritizes enemies with Marked",
+          "desc": "ให้ความสำคัญเป็นหลัก แก่ศัตรูที่มี Marked",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal SP damage by the number of lit Candles"
+                  "desc": "[OnSucceedAttack] ทำ  ความเสียหายค่าสติ ไป the number of lit Candles"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal SP damage by the number of lit Candles"
+                  "desc": "[OnSucceedAttack] ทำ  ความเสียหายค่าสติ ไป the number of lit Candles"
                 }
               ]
             }
@@ -32,25 +32,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>Longing...\u200B</line-height>",
-          "desc": "Prioritizes enemies with Marked",
+          "desc": "ให้ความสำคัญเป็นหลัก แก่ศัตรูที่มี Marked",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Wrath Fragility next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Wrath Fragility ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [Combustion], inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Combustion], มอบ 4 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Wrath Fragility next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Wrath Fragility ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [Combustion], inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Combustion], มอบ 4 [Combustion]"
                 }
               ]
             }
@@ -64,25 +64,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>9:2\u200B</line-height>",
-          "desc": "Snuffs out all Candles next turn.\nUpon hitting targets with [AaCePcBa], target loses additional 5% of its max HP.\n[DefeatDuel] Inflict 10 Burn. Inflict target with Marked next turn.\n[EndBattle] All Candles heal to max HP.",
+          "desc": "Snuffs out all Candles ในเทิร์นหน้า.\nUpon hitting targets with [AaCePcBa], target เสีย additional 5% of its max HP.\n[DefeatDuel] มอบ 10 [Combustion]. มอบ target with Marked ในเทิร์นหน้า.\n[EndBattle] All Candles ฟื้นฟู to max HP.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target's max HP decreases by 10%."
+                  "desc": "[OnSucceedAttack] Target's max HP decreases ไป 10%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Burn and +2 Burn Count"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Combustion] และ [Combustion] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target's max HP decreases by 10%."
+                  "desc": "[OnSucceedAttack] Target's max HP decreases ไป 10%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Burn and +2 Burn Count"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Combustion] และ [Combustion] +2 ขั้น"
                 }
               ]
             }
@@ -96,25 +96,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>6:5\u200B</line-height>",
-          "desc": "[CantDuel][CantChangeTarget]\nTake damage in the target's place. Get staggered next turn.\nInflict Markedบนa random enemy without [AaCePcBa].\n[EndBattle] All Candles heal to max HP",
+          "desc": "[CantDuel][CantChangeTarget]\nTake ความเสียหาย in the target's place. Get staggered ในเทิร์นหน้า.\nInflict Markedบนa random enemy without [AaCePcBa].\n[EndBattle] All Candles ฟื้นฟู to max HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] This unit's max HP decreases by 10%."
+                  "desc": "[OnSucceedAttack] This unit's max HP decreases ไป 10%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Burnบนself"
+                  "desc": "[OnSucceedAttack] มอบ 10 [Combustion]บนself"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] This unit's max HP decreases by 10%."
+                  "desc": "[OnSucceedAttack] This unit's max HP decreases ไป 10%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Burnบนself"
+                  "desc": "[OnSucceedAttack] มอบ 10 [Combustion]บนself"
                 }
               ]
             }
@@ -133,7 +133,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Wrath Fragility"
+                  "desc": "[OnSucceedAttack] มอบ 1 Wrath Fragility"
                 }
               ]
             }
@@ -146,13 +146,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>All Shall Burn\u200B</line-height>",
+          "name": "<line-height=120%>All Shall [Combustion]\u200B</line-height>",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Combustion], inflict 3 Burn."
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Combustion], มอบ 3 [Combustion]."
                 }
               ]
             }
@@ -171,7 +171,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Burn and +2 Burn Count"
+                  "desc": "[OnSucceedAttack] มอบ 6 [Combustion] และ [Combustion] +2 ขั้น"
                 }
               ]
             }
@@ -184,13 +184,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>So That It Will Burn\u200B</line-height>",
-          "desc": "[StartBattle] Gain 20 Shield\nSnuff out the lights next turn when out of Shield",
+          "name": "<line-height=120%>So That It Will [Combustion]\u200B</line-height>",
+          "desc": "[StartBattle] ได้รับ 20 Shield\nSnuff out the lights ในเทิร์นหน้า when out of Shield",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn and +1 Burn Count"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Combustion] และ [Combustion] +1 ขั้น"
                 }
               ]
             }
@@ -209,14 +209,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Poison"
+                  "desc": "[OnSucceedAttack] มอบ 3 Poison"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Poison"
+                  "desc": "[OnSucceedAttack] มอบ 3 Poison"
                 }
               ]
             }
@@ -235,20 +235,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Defense Level Down by [Poison]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ Defense Level Down ไป [Poison]บนtarget"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Larva"
+                  "desc": "[OnSucceedAttack] มอบ 1 Larva"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Defense Level Down by [Poison]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ Defense Level Down ไป [Poison]บนtarget"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Larva"
+                  "desc": "[OnSucceedAttack] มอบ 1 Larva"
                 }
               ]
             }
@@ -267,20 +267,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Poison], inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Poison], มอบ 1 [Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Larva"
+                  "desc": "[OnSucceedAttack] มอบ 2 Larva"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Poison], inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Poison], มอบ 1 [Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Larva"
+                  "desc": "[OnSucceedAttack] มอบ 2 Larva"
                 }
               ]
             }
@@ -294,25 +294,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>Devouring Fluid\u200B</line-height>",
-          "desc": "[StartBattle] Consume 2 Green Slime\n[WhenUse] Inflict 3 Larva",
+          "desc": "[StartBattle] Consume 2 Green Slime\n[WhenUse] มอบ 3 Larva",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Poison"
+                  "desc": "[OnSucceedAttack] มอบ 4 Poison"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Poison"
+                  "desc": "[OnSucceedAttack] มอบ 4 Poison"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -326,21 +326,21 @@
         {
           "level": 1,
           "name": "<line-height=120%>Effervescent Green Slime\u200B</line-height>",
-          "desc": "[StartBattle] Gain Atk Weight by [AaCePcBh]\n[StartBattle] Gain 10 [AaCePcBh]",
+          "desc": "[StartBattle] ได้รับ Atk Weight ไป [AaCePcBh]\n[StartBattle] ได้รับ 10 [AaCePcBh]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Poison"
+                  "desc": "[OnSucceedAttack] มอบ 10 Poison"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Lose 7 SP"
+                  "desc": "[OnSucceedAttack] เสีย 7 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Larva"
+                  "desc": "[OnSucceedAttack] มอบ 3 Larva"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze and 3 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 [Paralysis] และ 3 Defense Level Down ในเทิร์นหน้า"
                 }
               ]
             }
@@ -359,7 +359,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[TargetKill] Gain 3 [AaCePcBh]."
+                  "desc": "[TargetKill] ได้รับ 3 [AaCePcBh]."
                 }
               ]
             }
@@ -373,7 +373,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Overflowing Poison\u200B</line-height>",
-          "desc": "[OnSucceedEvade] Inflict 5 Poison",
+          "desc": "[OnSucceedEvade] มอบ 5 Poison",
           "coinlist": [
             {
               "coindescs": [
@@ -397,7 +397,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 }
               ]
             }
@@ -416,14 +416,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ขั้น"
                 }
               ]
             }
@@ -442,20 +442,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +2 ขั้น หากเป้าหมายมี [AaCePcBb]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +2 ขั้น หากเป้าหมายมี [AaCePcBb]"
                 }
               ]
             }
@@ -469,42 +469,42 @@
         {
           "level": 1,
           "name": "<line-height=120%>Blind Obsession\u200B</line-height>",
-          "desc": "[DefeatDuel] This unit's Fluorescence Part loses 34% of Max HP.\n[DefeatDuel] Gain 1 Blind Obsession",
+          "desc": "[DefeatDuel] This unit's Fluorescence Part เสีย 34% ของ HP สูงสุด.\n[DefeatDuel] ได้รับ 1 Blind Obsession",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttackHead] มอบ 4 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttackHead] มอบ 4 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttackHead] มอบ 4 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sinking Deluge"
+                  "desc": "[OnSucceedAttack] [Sinking] Deluge"
                 }
               ]
             }
@@ -523,17 +523,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking and +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Sinking] และ [Sinking] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain -2 SP Loss Efficiency next turn"
+                  "desc": "[OnSucceedAttackHead] ได้รับ -2 ค่าสติ Loss Efficiency ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking and +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Sinking] และ [Sinking] +2 ขั้น"
                 }
               ]
             }
@@ -547,7 +547,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wayward Blind Obsession\u200B</line-height>",
-          "desc": "[CantDuel][CantChangeTarget] Targets destroyed Flotsam\n[EndSkill] Fluorescence Part loses 34% of Max HP.\n[EndBattle] Gain 1 Blind Obsession.",
+          "desc": "[CantDuel][CantChangeTarget] Targets destroyed Flotsam\n[EndSkill] Fluorescence Part เสีย 34% ของ HP สูงสุด.\n[EndBattle] ได้รับ 1 Blind Obsession.",
           "coinlist": [
             {
               "coindescs": [
@@ -571,20 +571,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +2 ขั้น หากเป้าหมายมี [AaCePcBb]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +2 ขั้น หากเป้าหมายมี [AaCePcBb]"
                 }
               ]
             }
@@ -598,12 +598,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wriggle\u200B</line-height>",
-          "desc": "[StartBattle]จ่าย all Blind Obsession\n[StartBattle] Destroy all Flotsam and destroyed Flotsam",
+          "desc": "[StartBattle]จ่าย all Blind Obsession\n[StartBattle] Destroy all Flotsam และ destroyed Flotsam",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 }
               ]
             }
@@ -622,7 +622,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 4 [Laceration]"
                 }
               ]
             }
@@ -636,26 +636,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tear Up Wound\u200B</line-height>",
-          "desc": "[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration]บนtarget",
+          "desc": "[WinDuel] ฟื้นฟู 5 SP.\nทำ +5% ความเสียหาย per [Laceration]บนtarget",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             }
@@ -669,45 +669,45 @@
         {
           "level": 1,
           "name": "<line-height=120%>Protect the Town!\u200B</line-height>",
-          "desc": "[WhenUse] Gain 5 Poise",
+          "desc": "[WhenUse] ได้รับ 5 Poise",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                 }
               ]
             }
@@ -721,15 +721,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tangling Javelin\u200B</line-height>",
-          "desc": "[WhenUse] Gain 5 Poise and +2 Poise Count",
+          "desc": "[WhenUse] ได้รับ 5 Poise และ +2 Poise Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tangle"
+                  "desc": "[OnSucceedAttack] มอบ Tangle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -743,7 +743,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "When attacked while this unit has Shield, gain 1 Offense Level Up next turn",
+          "desc": "When attacked while this unit has Shield, ได้รับ 1 Offense Level Up ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -767,14 +767,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             }
@@ -788,33 +788,33 @@
         {
           "level": 1,
           "name": "<line-height=120%>Carve Wound\u200B</line-height>",
-          "desc": "[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration]บนtarget",
+          "desc": "[WinDuel] ฟื้นฟู 5 SP.\nทำ +5% ความเสียหาย per [Laceration]บนtarget",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             }
@@ -828,45 +828,45 @@
         {
           "level": 1,
           "name": "<line-height=120%>Protect the Town!\u200B</line-height>",
-          "desc": "[WhenUse] Gain 5 Poise",
+          "desc": "[WhenUse] ได้รับ 5 Poise",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                 }
               ]
             }
@@ -880,15 +880,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Capturing Javelin\u200B</line-height>",
-          "desc": "[WhenUse] Gain 5 Poise and +2 Poise Count",
+          "desc": "[WhenUse] ได้รับ 5 Poise และ +2 Poise Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Capture"
+                  "desc": "[OnSucceedAttack] มอบ Capture"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -901,8 +901,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Evade\u200B</line-height>",
-          "desc": "[OnSucceedEvade] Gain 1 Offense Level Up next turn (Max 3)",
+          "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
+          "desc": "[OnSucceedEvade] ได้รับ 1 Offense Level Up ในเทิร์นหน้า (Max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -921,12 +921,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Starting Hunt\u200B</line-height>",
-          "desc": "[StartBattle] Summon 4 allies next turn\n[WhenUse] Apply Prey Mark next turn",
+          "desc": "[StartBattle] Summon 4 allies ในเทิร์นหน้า\n[WhenUse] มอบ Prey Mark ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             }
@@ -945,7 +945,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             }
@@ -965,17 +965,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 3 Offense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             }
@@ -989,7 +989,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Deep Breath\u200B</line-height>",
-          "desc": "[StartBattle] Gain 10 Poise and +10 Poise Count.\nCritical Hits do not consume Poise Count with this Skill.\nTurn End: Gain [PlusCoinValueUp] next turn by the number of surviving other allies.",
+          "desc": "[StartBattle] ได้รับ 10 Poise และ +10 Poise Count.\nCritical Hits do not consume Poise Count with this Skill.\nTurn End: ได้รับ [PlusCoinValueUp] ในเทิร์นหน้า ไป the number of surviving other allies.",
           "coinlist": [
             {
               "coindescs": [
@@ -1005,13 +1005,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Counter\u200B</line-height>",
+          "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
           "desc": "Critical Hits do not consume Poise Count with this Skill.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -1025,29 +1025,29 @@
         {
           "level": 1,
           "name": "<line-height=120%>Stalk Prey\u200B</line-height>",
-          "desc": "+30% DamageบนCritical Hit",
+          "desc": "+30% ความเสียหายบนCritical Hit",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Raise target's first Stagger Threshold by 50% of damage dealt"
+                  "desc": "[CriticalOnSucceedAttack] Raise target's first Stagger Threshold ไป 50% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]"
                 }
               ]
             }
@@ -1061,15 +1061,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Cut Throat\u200B</line-height>",
-          "desc": "This Skill does not consume Poise Count upon Critical Hit.\nDeal +5% more damage for every [Laceration]บนtarget\n[WhenUse] Staggered at Turn End if this unit does not have Poiseบนself.",
+          "desc": "This Skill does not consume Poise Count upon Critical Hit.\nทำ +5% more ความเสียหาย for every [Laceration]บนtarget\n[WhenUse] Staggered at Turn End if this unit does not have Poiseบนself.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "+50% DamageบนCritical Hit"
+                  "desc": "+50% ความเสียหายบนCritical Hit"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Stagger target next turn"
+                  "desc": "[OnSucceedAttack] Stagger target ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1083,7 +1083,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Deep Breathing\u200B</line-height>",
-          "desc": "[StartBattle] Gain 3 Poise and +5 Poise Count.\nFor this turn, gain Final Power equal to Poise Potencyบนself.\nFor this turn, lose 1 Poise Count when attacked.",
+          "desc": "[StartBattle] ได้รับ 3 Poise และ +5 Poise Count.\nFor this turn, ได้รับ แต้มรวม equal to Poise Potencyบนself.\nFor this turn, เสีย 1 Poise Count when attacked.",
           "coinlist": [
             {
               "coindescs": [
@@ -1100,26 +1100,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>To Survive\u200B</line-height>",
-          "desc": "+30% DamageบนCritical Hit",
+          "desc": "+30% ความเสียหายบนCritical Hit",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู Core และ Part HP ไป 50% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู Core และ Part HP ไป 50% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู Core และ Part HP ไป 50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -1133,7 +1133,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Must... Protect\u200B</line-height>",
-          "desc": "[TurnStartBattle] Upon using this Skill, if this unit has more than 0 Assist Barrier, activate Assist Defense.\n[StartBattle] Gain 10% of max HP as Assist Barrier.",
+          "desc": "[TurnStartBattle] Upon using this Skill, if this unit has more than 0 Assist Barrier, activate Assist Defense.\n[StartBattle] ได้รับ 10% ของ HP สูงสุดเป็นAssist Barrier.",
           "coinlist": [
             {
               "coindescs": [
@@ -1150,22 +1150,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>Persistent Harpoon\u200B</line-height>",
-          "desc": "Final Power +1 when attacking the same target as Starbuck",
+          "desc": "Final Power +1 when attacking the same targetเป็นStarbuck",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู Core และ Part HP ไป 50% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tangle"
+                  "desc": "[OnSucceedAttack] มอบ Tangle"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู Core และ Part HP ไป 50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -1179,15 +1179,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Must Finish Hunt...\u200B</line-height>",
-          "desc": "Critical Hits do not consume Poise Count with this Skill.\nDeal +5% damage per [Laceration]บนtarget",
+          "desc": "Critical Hits do not consume Poise Count with this Skill.\nทำ +5% ความเสียหาย per [Laceration]บนtarget",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "+50% DamageบนCritical Hit"
+                  "desc": "+50% ความเสียหายบนCritical Hit"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Stagger target next turn"
+                  "desc": "[OnSucceedAttack] Stagger target ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1201,26 +1201,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>Impale\u200B</line-height>",
-          "desc": "[WhenUse] Gain +3 Poise Count",
+          "desc": "[WhenUse] ได้รับ +3 Poise Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             }
@@ -1234,19 +1234,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Piercing Thrust\u200B</line-height>",
-          "desc": "[WhenUse] Gain 5 Poise",
+          "desc": "[WhenUse] ได้รับ 5 Poise",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down ในเทิร์นหน้า"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Reuse this เหรียญ once (Max 3)"
@@ -1268,7 +1268,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             }
@@ -1282,15 +1282,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ambush\u200B</line-height>",
-          "desc": "Deal 50% more damage with Critical Hit\nDeal +5% more damage per [Laceration]บนtarget",
+          "desc": "ทำ 50% more ความเสียหาย with Critical Hit\nทำ +5% more ความเสียหาย per [Laceration]บนtarget",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Raise target's first Stagger Threshold by 50% of damage dealt"
+                  "desc": "[CriticalOnSucceedAttack] Raise target's first Stagger Threshold ไป 50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -1304,26 +1304,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>Fearful Sigh\u200B</line-height>",
-          "desc": "[WhenUse] Gain +6 Poise Count",
+          "desc": "[WhenUse] ได้รับ +6 Poise Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             }
@@ -1337,22 +1337,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>Determined Harpoon\u200B</line-height>",
-          "desc": "Final Power +2 when attacking the same target as Queequeg",
+          "desc": "Final Power +2 when attacking the same targetเป็นQueequeg",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Capture"
+                  "desc": "[OnSucceedAttack] มอบ Capture"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 5 Defense Level Down ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable] ในเทิร์นหน้า"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Reuse this เหรียญ once (Max 3)"
@@ -1369,15 +1369,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>To Escape...\u200B</line-height>",
-          "desc": "Deal 100% more damage with Critical Hit\nDeal +5% more damage per [Laceration]บนtarget",
+          "desc": "ทำ 100% more ความเสียหาย with Critical Hit\nทำ +5% more ความเสียหาย per [Laceration]บนtarget",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Raise target's first Stagger Threshold by 50% of damage dealt"
+                  "desc": "[CriticalOnSucceedAttack] Raise target's first Stagger Threshold ไป 50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -1391,7 +1391,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Obey My Orders\u200B</line-height>",
-          "desc": "[WhenUse] Heal 10 SP for self and 1 other ally with the least SP ",
+          "desc": "[WhenUse] ฟื้นฟู 10 ค่าสติ for self และ 1 other ally with the least ค่าสติ ",
           "coinlist": [
             {
               "coindescs": [
@@ -1408,7 +1408,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>To Me!\u200B</line-height>",
-          "desc": "[StartBattle] Order Queequeg to activate Assist Defense next turn. Order is canceled when this unit is Staggered.",
+          "desc": "[StartBattle] Order Queequeg to activate Assist Defense ในเทิร์นหน้า. Order is canceled when this unit is Staggered.",
           "coinlist": [
             {
               "coindescs": [
@@ -1425,7 +1425,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Track Them to the End!\u200B</line-height>",
-          "desc": "[StartBattle] Order Starbuck to activate Assist Attack next turn. Order is canceled when this unit is Staggered.\n[WhenUse] Apply 1 Prey Mark next turn",
+          "desc": "[StartBattle] Order Starbuck to activate Assist Attack ในเทิร์นหน้า. Order is canceled when this unit is Staggered.\n[WhenUse] มอบ 1 Prey Mark ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -1447,14 +1447,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             }
@@ -1468,26 +1468,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>Burning Harpoon\u200B</line-height>",
-          "desc": "Final Power +1 for every negative effectบนmain target (Max 5)\nDeal +5% damage per [Laceration]บนtarget",
+          "desc": "Final Power +1 for every negative effectบนmain target (Max 5)\nทำ +5% ความเสียหาย per [Laceration]บนtarget",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Burn by Bleedบนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] ไป [Laceration]บนtarget"
                 }
               ]
             }
@@ -1501,7 +1501,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Foolishness!\u200B</line-height>",
-          "desc": "[WhenUse] Heal 5 SP\n[OnSucceedEvade] Target loses 5 SP",
+          "desc": "[WhenUse] ฟื้นฟู 5 SP\n[OnSucceedEvade] Target เสีย 5 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1518,12 +1518,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Exhale!\u200B</line-height>",
-          "desc": "[WhenUse] Inflict 1 Prey Mark next turn\n[WinDuel] Gain 4 Poise",
+          "desc": "[WhenUse] มอบ 1 Prey Mark ในเทิร์นหน้า\n[WinDuel] ได้รับ 4 Poise",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply 4 Poise to 2 other allies.\nIf there are no other allies, gain 2 Poise Count instead."
+                  "desc": "[OnSucceedAttack] มอบ 4 Poise to 2 other allies.\nIf there are no other allies, ได้รับ 2 Poise Count instead."
                 }
               ]
             }
@@ -1537,35 +1537,35 @@
         {
           "level": 1,
           "name": "<line-height=120%>Be Fearless!\u200B</line-height>",
-          "desc": "[WhenUse] Heal 10 SPบนself. 1 other ally with the highest SP loses 10 SP",
+          "desc": "[WhenUse] ฟื้นฟู 10 SPบนself. 1 other ally with the highest ค่าสติ เสีย 10 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] to a random other ally ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] to a random other ally ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] to a random other ally ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1579,12 +1579,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tempering of Death\u200B</line-height>",
-          "desc": "[WhenUse] Apply Undefiable Command to 1 ally with the lowest SP\n[DefeatDuel] เพิ่มขีดStagger by 20 for 1 ally with the lowest SP",
+          "desc": "[WhenUse] มอบ Undefiable Command to 1 ally with the lowest SP\n[DefeatDuel] เพิ่มขีดStagger ไป 20 for 1 ally with the lowest SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Vulnerable]"
                 }
               ]
             }
@@ -1603,20 +1603,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 }
               ]
             }
@@ -1635,14 +1635,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 6 Offense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 }
               ]
             }
@@ -1656,7 +1656,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Undying Soul\u200B</line-height>",
-          "desc": "Re-use Evade upon Evade failure (Up to 2 times)\n[OnDefeatEvade] Lose 2 Pip's Ego",
+          "desc": "Re-use Evade upon Evade failure (Up to 2 times)\n[OnDefeatEvade] เสีย 2 Pip's Ego",
           "coinlist": [
             {}
           ]
@@ -1669,25 +1669,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>Murky Innocence\u200B</line-height>",
-          "desc": "[DefeatDuel] Gain 2 Defense Power Down. Lose 10 SPบนself",
+          "desc": "[DefeatDuel] ได้รับ 2 [Disarming]. เสีย 10 SPบนself",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Pallid Noise"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Pallid Noise"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1701,18 +1701,18 @@
         {
           "level": 1,
           "name": "<line-height=120%>Weight of Guilt\u200B</line-height>",
-          "desc": "Targets 3 units with the least Max HP\n[StartBattle] Gain Base Power +2 and Atk Weight +1 for every 5 Pip's Ego\n[WhenUse] Lose 3 Pip's Ego",
+          "desc": "Targets 3 units with the least Max HP\n[StartBattle] ได้รับ Base Power +2 และ Atk Weight +1 for every 5 Pip's Ego\n[WhenUse] เสีย 3 Pip's Ego",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Pallid Noise"
+                  "desc": "[OnSucceedAttack] มอบ 1 Pallid Noise"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 30 "
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 30 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Target loses 10 SP"
+                  "desc": "[OnSucceedAttackHead] Target เสีย 10 SP"
                 }
               ]
             }
@@ -1740,15 +1740,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Swathed Fear\u200B</line-height>",
-          "desc": "[WhenUse] Inflict 1 Prey Mark next turn",
+          "desc": "[WhenUse] มอบ 1 Prey Mark ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Pallid Noise"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed and +4 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration] และ [Laceration] +4 ขั้น"
                 }
               ]
             }
@@ -1762,15 +1762,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Punctured Weakness\u200B</line-height>",
-          "desc": "[WhenUse] Inflict 1 Prey Mark next turn",
+          "desc": "[WhenUse] มอบ 1 Prey Mark ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Pallid Noise"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 Offense Level Down ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1784,55 +1784,55 @@
         {
           "level": 1,
           "name": "<line-height=120%>Echoing Cry\u200B</line-height>",
-          "desc": "Deal +5% damage for every 1 Bleedบนtarget\nIf target does not have Prey Mark, เหรียญ Power +1\n[DefeatDuel] Lose 5 SP",
+          "desc": "ทำ +5% ความเสียหาย for every 1 [Laceration]บนtarget\nIf target does not have Prey Mark, แต้มเหรียญ +1\n[DefeatDuel] เสีย 5 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 SP damageบน3 random enemies"
+                  "desc": "[OnSucceedAttack] มอบ 3 ความเสียหายค่าสติบน3 random enemies"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 SP damageบน3 random enemies"
+                  "desc": "[OnSucceedAttack] มอบ 3 ความเสียหายค่าสติบน3 random enemies"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 SP damageบน3 random enemies"
+                  "desc": "[OnSucceedAttack] มอบ 3 ความเสียหายค่าสติบน3 random enemies"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 SP damageบน3 random enemies"
+                  "desc": "[OnSucceedAttack] มอบ 3 ความเสียหายค่าสติบน3 random enemies"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 SP damageบน3 random enemies"
+                  "desc": "[OnSucceedAttack] มอบ 3 ความเสียหายค่าสติบน3 random enemies"
                 },
                 {
                   "desc": "[OnSucceedAttack] Reuse the final เหรียญ once for every 10 Starbuck's Ego"
@@ -1849,29 +1849,29 @@
         {
           "level": 1,
           "name": "<line-height=120%>Clouded Path\u200B</line-height>",
-          "desc": "[WhenUse] Inflict 1 Prey Mark next turn",
+          "desc": "[WhenUse] มอบ 1 Prey Mark ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Damage Down"
+                  "desc": "[OnSucceedAttack] มอบ 2 ความเสียหาย Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Pallid Noise"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]"
                 }
               ]
             }
@@ -1885,12 +1885,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bleached Atonement\u200B</line-height>",
-          "desc": "[WhenUse] Lose 5 Queequeg's Ego\n[WinDuel] Gain 6 Defense Level Up\n[DefeatDuel] Lose 5 SP",
+          "desc": "[WhenUse] เสีย 5 Queequeg's Ego\n[WinDuel] ได้รับ 6 Defense Level Up\n[DefeatDuel] เสีย 5 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Pallid Noise"
+                  "desc": "[OnSucceedAttack] มอบ 2 Pallid Noise"
                 },
                 {
                   "desc": "[OnSucceedAttack] Stagger target"
@@ -1907,19 +1907,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Insidious Pallidification\u200B</line-height>",
-          "desc": "[StartBattle] Gain 10% of Max HP as Shield. For every Queequeg's Ego, gain additional 0.5% of Max HP as additional Shield.\nWhen attacked while Shielded, attacker loses 5 SP\nWhen attacked, use this Skill once for every 10 Queequeg's Ego",
+          "desc": "[StartBattle] ได้รับ 10% ของ HP สูงสุดเป็นShield. For every Queequeg's Ego, ได้รับ additional 0.5% ของ HP สูงสุดเป็นadditional Shield.\nWhen attacked while Shielded, attacker เสีย 5 SP\nWhen attacked, use this Skill once for every 10 Queequeg's Ego",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Laceration]"
                 }
               ]
             }
@@ -1938,7 +1938,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion] and 2 [Combustion] Countบนtarget"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Combustion] และ 2 [Combustion] Countบนtarget"
                 }
               ]
             }

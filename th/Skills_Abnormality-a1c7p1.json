@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Allez\u200B</line-height>",
-          "desc": "[WhenUse] Inflict [DuelDeclaration_Camille]\n[WhenUse] Gain 5 [Breath]\n[WinDuel] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] มอบ [DuelDeclaration_Camille]\n[WhenUse] ได้รับ 5 [Breath]\n[WinDuel] ได้รับ +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -25,25 +25,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>Coup Droit\u200B</line-height>",
-          "desc": "[WhenUse] Gain 2 [Breath]",
+          "desc": "[WhenUse] ได้รับ 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] เมื่อมี 7+ Speed, มอบ 3 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] ได้รับ 3 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] เมื่อมี 7+ Speed, มอบ 3 [Burst]"
                 }
               ]
             }
@@ -57,18 +57,18 @@
         {
           "level": 1,
           "name": "<line-height=120%>Fente\u200B</line-height>",
-          "desc": "[WhenUse] At 7+ [Breath], เหรียญ Power +2\n[WinDuel] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] เมื่อมี 7+ [Breath], แต้มเหรียญ +2\n[WinDuel] ได้รับ +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] ได้รับ 3 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] เมื่อมี 7+ Speed, มอบ 3 [Burst] Count"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] +50% DamageบนCritical Hit"
+                  "desc": "[CriticalOnSucceedAttack] +50% ความเสียหายบนCritical Hit"
                 }
               ]
             }
@@ -82,45 +82,45 @@
         {
           "level": 1,
           "name": "<line-height=120%>Salut\u200B</line-height>",
-          "desc": "[WhenUse] If this unit's Speed is faster than the target's, เหรียญ Power +1 (เหรียญ Power +1 for every 2 Speed difference; max 3)",
+          "desc": "[WhenUse] If this unit's Speed is faster than the target's, แต้มเหรียญ +1 (แต้มเหรียญ +1 for every 2 Speed difference; max 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +4 [Breath] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] and +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] เมื่อมี 7+ Speed, มอบ 3 [Burst] และ [Burst] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 5 [Breath]"
+                  "desc": "[OnSucceedAttack] ได้รับ 5 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] and +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] เมื่อมี 7+ Speed, มอบ 3 [Burst] และ [Burst] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 5 [Breath]"
+                  "desc": "[OnSucceedAttack] ได้รับ 5 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] and +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] เมื่อมี 7+ Speed, มอบ 3 [Burst] และ [Burst] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] +100% DamageบนCritical Hit"
+                  "desc": "[CriticalOnSucceedAttack] +100% ความเสียหายบนCritical Hit"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +5% damage for every [Burst]บนthe target (Max 50%)"
+                  "desc": "[OnSucceedAttack] ทำ  +5% ความเสียหาย for every [Burst]บนthe target (Max 50%)"
                 }
               ]
             }
@@ -134,12 +134,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Parry\u200B</line-height>",
-          "desc": "[WinDuel] Deal more damage basedบนnumber of Clashes (+10% more damage for every Clash, max 50%)\n[WinDuel] Gain 2 [Agility] next turn\n[DefeatDuel] Gain 2 [Binding] next turn",
+          "desc": "[WinDuel] ทำ  more ความเสียหาย basedบนnumber of Clashes (+10% more ความเสียหาย for every Clash, max 50%)\n[WinDuel] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 2 [Binding] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -153,7 +153,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Défensive\u200B</line-height>",
-          "desc": "[OnSucceedEvade] Gain 1 [Agility] next turn",
+          "desc": "[OnSucceedEvade] ได้รับ 1 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -172,12 +172,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Up All Pretty!\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], Clash Power +1\n[WhenUse] เหรียญ Power +1 for every 5 [Laceration]บนself (max 3)",
+          "desc": "[WhenUse] If the target has 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 for every 5 [Laceration]บนself (max 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Reuse เหรียญ ([BloodScissor] Stage - 1) times (max 2)"
@@ -194,19 +194,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Even Sharper\u200B</line-height>",
-          "desc": "[WhenUse] Consume up to 20 [BloodDinner]; gain 1 [BloodScissor] and heal 3 SP for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner] with this Skill, gain 30 [Laceration]\n[WhenUse] If the target has 6+ [Laceration], Clash Power +1\n[WhenUse] เหรียญ Power +1 for every 5 [Laceration]บนself (max 2)",
+          "desc": "[WhenUse] Consume up to 20 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner] with this Skill, ได้รับ 30 [Laceration]\n[WhenUse] If the target has 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 for every 5 [Laceration]บนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -220,26 +220,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>SNIP!!\u200B</line-height>",
-          "desc": "[WhenUse] Consume up to 30 [BloodDinner]; gain 1 [BloodScissor] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If the target has [LineCutting], Clash Power +5\nHeal 5 SPบนevery hit against [LineCutting]",
+          "desc": "[WhenUse] Consume up to 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n[WhenUse] If the target has [LineCutting], แต้มปะทะ +5\nHeal 5 SPบนevery hit aได้รับst [LineCutting]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count"
                 }
               ]
             }
@@ -253,7 +253,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Up Too!\u200B</line-height>",
-          "desc": "[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor] (max 2)\n[WhenUse] Consume up to 30 [BloodDinner]; gain 1 [BloodScissor] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 6+ [Laceration], Clash Power +2",
+          "desc": "[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor] (max 2)\n[WhenUse] Consume up to 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 6+ [Laceration], แต้มปะทะ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -261,10 +261,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [BloodScissorScars] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [BloodScissorScars] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttackHead] มอบ 5 [Laceration]and +2 [Laceration]Count"
                 }
               ]
             }
@@ -278,7 +278,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Now, It's Your Turn\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], เหรียญ Power +1",
+          "desc": "[WhenUse] If the target has 6+ [Laceration], แต้มเหรียญ +1",
           "coinlist": [
             {},
             {
@@ -287,10 +287,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [BloodScissorScars] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [BloodScissorScars] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [LineCutting] next turn"
+                  "desc": "[OnSucceedAttack] มอบ [LineCutting] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -304,7 +304,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Together!\u200B</line-height>",
-          "desc": "[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor]\n[WhenUse] Consume up to 100 [BloodDinner]; gain 1 [BloodScissor] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 6+ [Laceration], Clash Power +2\n[EndSkill] Consume 10 [BloodScissor]",
+          "desc": "[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor]\n[WhenUse] Consume up to 100 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 6+ [Laceration], แต้มปะทะ +2\n[EndSkill] Consume 10 [BloodScissor]",
           "coinlist": [
             {
               "coindescs": [
@@ -312,10 +312,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration] (max 10). The target loses 1 [Laceration] Count"
+                  "desc": "[WinDuelAttack] Activate the target's [Laceration](max 10). The target เสีย 1 [Laceration]Count"
                 }
               ]
             },
@@ -325,10 +325,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration] (max 10). The target loses 1 [Laceration] Count"
+                  "desc": "[WinDuelAttack] Activate the target's [Laceration](max 10). The target เสีย 1 [Laceration]Count"
                 }
               ]
             },
@@ -338,20 +338,20 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration] (max 10). The target loses 1 [Laceration] Count"
+                  "desc": "[WinDuelAttack] Activate the target's [Laceration](max 10). The target เสีย 1 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +40% more damage for every [BloodScissor] Stage (max 120%)"
+                  "desc": "[OnSucceedAttack] ทำ  +40% more ความเสียหาย for every [BloodScissor] Stage (max 120%)"
                 },
                 {
-                  "desc": "[EnemyKill] If this เหรียญ effect killed the target, heal by 50% of the damage dealt against the killed target."
+                  "desc": "[EnemyKill] If this เหรียญ effect killed the target, ฟื้นฟู ไป 50% of the ความเสียหาย ทำ t aได้รับst the killed target."
                 }
               ]
             }
@@ -365,12 +365,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>How Discourteous!\u200B</line-height>",
-          "desc": "[DuelCounter]\n[WhenUse] Clash Power +1 for every [BloodScissor] Stage (max 3)\n[WhenUse] เหรียญ Power +1 for every 5 [Laceration]บนself (max 3)",
+          "desc": "[DuelCounter]\n[WhenUse] แต้มปะทะ +1 for every [BloodScissor] Stage (max 3)\n[WhenUse] แต้มเหรียญ +1 for every 5 [Laceration]บนself (max 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration] and +4 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and +4 [Laceration]Count"
                 }
               ]
             }
@@ -392,10 +392,10 @@
                   "desc": "[OnSucceedAttack] If the target is at 30%- HP, kill the target"
                 },
                 {
-                  "desc": "[EnemyKill] Increase [BloodDinner] by 30% of the defeated enemy's max HP"
+                  "desc": "[EnemyKill] Increase [BloodDinner] ไป 30% of the defeated enemy's max HP"
                 },
                 {
-                  "desc": "[EnemyKill] gain 4 [Vulnerable] next turn"
+                  "desc": "[EnemyKill] ได้รับ 4 [Vulnerable] ในเทิร์นหน้า"
                 }
               ]
             }

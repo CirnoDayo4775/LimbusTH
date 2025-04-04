@@ -11,7 +11,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         }
@@ -25,32 +25,32 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Cleave\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 8+ [Laceration], deal +20% damage",
+                    "desc": "[WhenUse] If the target has 8+ [Laceration], ทำ  +20% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] At 6+ [Laceration], gain 1 [HardenedBlood]"
+                                    "desc": "[OnSucceedAttack] เมื่อมี 6+ [Laceration], ได้รับ 1 [HardenedBlood]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 8 [Laceration] and 1 [BloodScissor]"
+                                    "desc": "[OnSucceedAttack] ได้รับ 8 [Laceration]and 1 [BloodScissor]"
                                 }
                             ]
                         }
@@ -64,19 +64,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Powercleave\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 6+ [Laceration], Base Power +1\nDeal +5% more damage for every [HardenedBlood] (max 25%)\n[EndSkill] Consume all [HardenedBlood] and [BloodScissor]",
+                    "desc": "[WhenUse] If the target has 6+ [Laceration], Base Power +1\nทำ +5% more ความเสียหาย for every [HardenedBlood] (max 25%)\n[EndSkill] Consume all [HardenedBlood] และ [BloodScissor]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and +2 [Laceration]Count"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration]บนtarget)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนtarget)% HP (max 20%)"
                                 }
                             ]
                         }
@@ -89,13 +89,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Counter\u200B</line-height>",
+                    "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
                     "desc": "[WhenUse] Base Power +1 for every [HardenedBlood]บนself",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttackHead] มอบ 2 [Laceration]"
                                 }
                             ]
                         }
@@ -114,14 +114,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         }
@@ -135,15 +135,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Let's Dress Up\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 6+ [Laceration], deal +20% more damage",
+                    "desc": "[WhenUse] If the target has 6+ [Laceration], ทำ  +20% more ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 5+ [Laceration], gain 1 [HardenedBlood]"
+                                    "desc": "[OnSucceedAttack] If the target has 5+ [Laceration], ได้รับ 1 [HardenedBlood]"
                                 }
                             ]
                         }
@@ -157,19 +157,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>We've an Event for You!\u200B</line-height>",
-                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodScissor] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, gain 5 [Laceration] and 1 [HardenedBlood].\n[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1",
+                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, ได้รับ 5 [Laceration]and 1 [HardenedBlood].\n[WhenUse] If the target has 5+ [Laceration], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         }
@@ -183,7 +183,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Don't Rush Me\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1\n[WhenUse] Clash Power +1 for every [BloodScissor] (max 3)\nDeal +7% more damage for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]",
+                    "desc": "[WhenUse] If the target has 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 for every [BloodScissor] (max 3)\nทำ +7% more ความเสียหาย for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -191,7 +191,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 8 [Laceration]"
+                                    "desc": "[OnSucceedAttackHead] มอบ 8 [Laceration]"
                                 }
                             ]
                         },
@@ -199,10 +199,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Consume up to 5 [BloodScissor] and deal +(20 * consumed [BloodScissor])% more damage (max 100%)"
+                                    "desc": "[OnSucceedAttack] Consume up to 5 [BloodScissor] และ ทำ  +(20 * consumed [BloodScissor])% more ความเสียหาย (max 100%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] Potencyบนtarget)% HP (max 30%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration] Potencyบนtarget)% HP (max 30%)"
                                 }
                             ]
                         }
@@ -215,13 +215,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Counter\u200B</line-height>",
-                    "desc": "[WhenUse] At 1+ [BloodScissor], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], เหรียญ Power +1",
+                    "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
+                    "desc": "[WhenUse] เมื่อมี 1+ [BloodScissor], Base Power +1\n[WhenUse] เมื่อมี 3+ [HardenedBlood], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 }
                             ]
                         }
@@ -235,19 +235,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Please answer the survey.\u200B</line-height>",
-                    "desc": "[WhenUse] Gain 5 [Laceration] and +1 [Laceration] Count",
+                    "desc": "[WhenUse] ได้รับ 5 [Laceration]and +1 [Laceration]Count",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         }
@@ -261,15 +261,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Don't! Don't Cut Me Off!\u200B</line-height>",
-                    "desc": "[WhenUse] Gain 5 [Laceration] and +1 [Laceration] Count",
+                    "desc": "[WhenUse] ได้รับ 5 [Laceration]and +1 [Laceration]Count",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 5+ [Laceration], gain 1 [BloodyHand]"
+                                    "desc": "[OnSucceedAttack] If the target has 5+ [Laceration], ได้รับ 1 [BloodyHand]"
                                 }
                             ]
                         }
@@ -283,19 +283,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Faded Patience\u200B</line-height>",
-                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodyHand] for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1",
+                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; ได้รับ 1 [BloodyHand] for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 5+ [Laceration], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[EndSkill] If this unit failed to consume [BloodDinner] with this Skill, gain 10 [Laceration] and 1 [BloodyHand]."
+                                    "desc": "[EndSkill] If this unit failed to consume [BloodDinner] with this Skill, ได้รับ 10 [Laceration]and 1 [BloodyHand]."
                                 }
                             ]
                         }
@@ -309,32 +309,32 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Endless Atonement\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1\n[WhenUse] Clash Power +1 for every [HardenedBlood]บนself\n[DefeatDuel] Lose 2 [BloodyHand]",
+                    "desc": "[WhenUse] If the target has 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 for every [HardenedBlood]บนself\n[DefeatDuel] เสีย 2 [BloodyHand]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Consume all [BloodyHand] to inflict +3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] Consume all [BloodyHand] to มอบ +3 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Consume all [HardenedBlood]บนself to increase [BloodDinner] by (consumed [HardenedBlood] x 3) and gain 5 [Laceration]"
+                                    "desc": "[OnSucceedAttack] Consume all [HardenedBlood]บนself to increase [BloodDinner] ไป (consumed [HardenedBlood] x 3) และ ได้รับ 5 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration]บนtarget)% HP (max 30%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนtarget)% HP (max 30%)"
                                 }
                             ]
                         }
@@ -347,13 +347,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Counter\u200B</line-height>",
-                    "desc": "[WhenUse] At 1+ [BloodyHand], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], เหรียญ Power +1",
+                    "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
+                    "desc": "[WhenUse] เมื่อมี 1+ [BloodyHand], Base Power +1\n[WhenUse] เมื่อมี 3+ [HardenedBlood], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 }
                             ]
                         }
@@ -367,15 +367,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Welcome to the Festival of Wonders!\u200B</line-height>",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], Final Power +2",
+                    "desc": "[WhenUse] เมื่อมี 5+ [FestivalFever], แต้มรวม +2",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and +2 [Laceration]Count"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
+                                    "desc": "[OnSucceedAttackHead] มอบ 3 [Burst]"
                                 }
                             ]
                         }
@@ -389,12 +389,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Join the Joyful Parade!\u200B</line-height>",
-                    "desc": "[WhenUse] Final Power +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (max 3)\n[WhenUse] At less than 20 [BloodDinner], gain 20 [Laceration] and immediately trigger it once, then reduce [Laceration] Count by 1\n[EndSkill] Consume 20 [BloodDinner]",
+                    "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (max 3)\n[WhenUse] เมื่อมี less than 20 [BloodDinner], ได้รับ 20 [Laceration]and immediately trigger it once, then reduce [Laceration]Count ไป 1\n[EndSkill] Consume 20 [BloodDinner]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 1 [HardenedBlood] for every 6 [Laceration]บนthe target (max 2)"
+                                    "desc": "[OnSucceedAttack] ได้รับ 1 [HardenedBlood] for every 6 [Laceration]บนthe target (max 2)"
                                 }
                             ]
                         },
@@ -404,10 +404,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[WinDuelAttack] Inflict 4 [Laceration] and +3 [Laceration] Count"
+                                    "desc": "[WinDuelAttack] มอบ 4 [Laceration]and +3 [Laceration]Count"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2~3 [BloomingThorns]"
+                                    "desc": "[OnSucceedAttack] ได้รับ 2~3 [BloomingThorns]"
                                 }
                             ]
                         }
@@ -421,12 +421,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Blossom your Smiles of Joy!\u200B</line-height>",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], เหรียญ Power +1\n[WhenUse] If the target has 6+ [Laceration], Clash Power +1",
+                    "desc": "[WhenUse] เมื่อมี 5+ [FestivalFever], แต้มเหรียญ +1\n[WhenUse] If the target has 6+ [Laceration], แต้มปะทะ +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count"
                                 }
                             ]
                         },
@@ -434,7 +434,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[WinDuelAttack] Gain 2 [FestivalFever]"
+                                    "desc": "[WinDuelAttack] ได้รับ 2 [FestivalFever]"
                                 }
                             ]
                         }
@@ -448,15 +448,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Eternal Kingdom of Happiness, La Manchaland!\u200B</line-height>",
-                    "desc": "[WhenUse] At less than 40 [BloodDinner], gain 20 [Laceration] and +2 [Laceration] Count, immediately trigger it twice, then reduce [Laceration] Count by 2\n[EndSkill] Consume 40 [BloodDinner]\n[EndBattle] Consume all [HardenedBlood] and [FestivalFever]",
+                    "desc": "[WhenUse] เมื่อมี less than 40 [BloodDinner], ได้รับ 20 [Laceration]and +2 [Laceration]Count, immediately trigger it twice, then reduce [Laceration]Count ไป 2\n[EndSkill] Consume 40 [BloodDinner]\n[EndBattle] Consume all [HardenedBlood] และ [FestivalFever]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict [Laceration] and [Burst] equal to [HardenedBlood]บนself"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration]and [Burst] equal to [HardenedBlood]บนself"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([FestivalFever] x 4)% HP (max 40%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([FestivalFever] x 4)% HP (max 40%)"
                                 }
                             ]
                         },
@@ -466,7 +466,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 5 [BloomingThorns]"
+                                    "desc": "[OnSucceedAttack] ได้รับ 5 [BloomingThorns]"
                                 }
                             ]
                         }
@@ -479,8 +479,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Evade\u200B</line-height>",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], Final Power +2\n[StartBattle] Gain 3 [FestivalFever]\n[OnDefeatEvade] Lose 3 [FestivalFever]",
+                    "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
+                    "desc": "[WhenUse] เมื่อมี 5+ [FestivalFever], แต้มรวม +2\n[StartBattle] ได้รับ 3 [FestivalFever]\n[OnDefeatEvade] เสีย 3 [FestivalFever]",
                     "coinlist": [
                         {}
                     ]

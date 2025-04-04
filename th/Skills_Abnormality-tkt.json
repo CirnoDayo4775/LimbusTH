@@ -6,19 +6,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Are You Afraid?\u200B</line-height>",
-          "desc": "When in [TimeAcceleration] state, Clash Power +1\n[DefeatDuel] At 75%- HP, consume 50 [LimitedTime] and gain 1 [Protection] (once per turn)",
+          "desc": "When in [TimeAcceleration] state, แต้มปะทะ +1\n[DefeatDuel] เมื่อมี 75%- HP, consume 50 [LimitedTime] และ ได้รับ 1 [Protection] (once per turn)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             }
@@ -32,26 +32,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>Punishment For Time Killers\u200B</line-height>",
-          "desc": "When in [TimeAcceleration] state, Clash Power +2\n[WhenUse] At 500+ [LimitedTime], inflict +1 [Laceration] Count\n[WhenUse] At 300+ [LimitedTime], consume 25 [LimitedTime] and inflict +1 more [Laceration] Potency and Count with this Skill",
+          "desc": "When in [TimeAcceleration] state, แต้มปะทะ +2\n[WhenUse] เมื่อมี 500+ [LimitedTime], มอบ +1 [Laceration]Count\n[WhenUse] เมื่อมี 300+ [LimitedTime], consume 25 [LimitedTime] และ มอบ +1 more [Laceration]Potency และ Count with this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -65,33 +65,33 @@
         {
           "level": 1,
           "name": "<line-height=120%>Extraction\u200B</line-height>",
-          "desc": "When in [TimeAcceleration] state, เหรียญ Power +1\n[DefeatDuel] At 75%- HP, consume 50 [LimitedTime] and gain Clash Power +2 (once per turn)",
+          "desc": "When in [TimeAcceleration] state, แต้มเหรียญ +1\n[DefeatDuel] เมื่อมี 75%- HP, consume 50 [LimitedTime] และ ได้รับ แต้มปะทะ +2 (once per turn)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -105,19 +105,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>ฆ่าไม่เลี้ยง\u200B</line-height>",
-          "desc": "[DefeatDuel] At 75%- HP, consume 75 [LimitedTime] and gain Clash Power +2\n[BeforeAttack] When in [TimeAcceleration] state, gain +1 Atk Weight",
+          "desc": "[DefeatDuel] เมื่อมี 75%- HP, consume 75 [LimitedTime] และ ได้รับ แต้มปะทะ +2\n[BeforeAttack] When in [TimeAcceleration] state, ได้รับ +1 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 8 [Laceration]"
                 }
               ]
             }
@@ -131,7 +131,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Time to be Saved\u200B</line-height>",
-          "desc": "[CantDuel]\nInflict [TimeKillerWatch] against the target that used an Attack Skill against this unit\n[StartBattle] Consume 200 [LimitedTime] and gain [TimeAcceleration] next turn",
+          "desc": "[CantDuel]\nInflict [TimeKillerWatch] aได้รับst the target that used an Attack Skill aได้รับst this unit\n[StartBattle] Consume 200 [LimitedTime] และ ได้รับ [TimeAcceleration] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -149,7 +149,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Evade\u200B</line-height>",
+          "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
           "desc": "[WhenUse] Base Power +1 for every 100 [LimitedTime]บนself",
           "coinlist": [
             {
@@ -169,19 +169,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Are You Afraid?\u200B</line-height>",
-          "desc": "When in [TimeAcceleration] state, Clash Power +1\n[DefeatDuel] At 75%- HP, consume 50 [OwnTime] and gain 1 [Protection] (once per turn)",
+          "desc": "When in [TimeAcceleration] state, แต้มปะทะ +1\n[DefeatDuel] เมื่อมี 75%- HP, consume 50 [OwnTime] และ ได้รับ 1 [Protection] (once per turn)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             }
@@ -195,26 +195,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>Punishment For Time Killers\u200B</line-height>",
-          "desc": "When in [TimeAcceleration] state, Clash Power +2\n[WhenUse] At 500+ sum of [OwnTime] across all Parts, inflict +1 [Laceration] Count\n[WhenUse] At 300+ sum of [OwnTime], consume 25 [OwnTime] and inflict +1 more [Laceration] Potency and Count with this Skill",
+          "desc": "When in [TimeAcceleration] state, แต้มปะทะ +2\n[WhenUse] เมื่อมี 500+ sum of [OwnTime] across all Parts, มอบ +1 [Laceration]Count\n[WhenUse] เมื่อมี 300+ sum of [OwnTime], consume 25 [OwnTime] และ มอบ +1 more [Laceration]Potency และ Count with this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -228,33 +228,33 @@
         {
           "level": 1,
           "name": "<line-height=120%>Extraction\u200B</line-height>",
-          "desc": "When in [TimeAcceleration] state, เหรียญ Power +1\n[DefeatDuel] At 75%- HP, consume 50 [OwnTime] and gain Clash Power +2 (once per turn)",
+          "desc": "When in [TimeAcceleration] state, แต้มเหรียญ +1\n[DefeatDuel] เมื่อมี 75%- HP, consume 50 [OwnTime] และ ได้รับ แต้มปะทะ +2 (once per turn)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -268,19 +268,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>ฆ่าไม่เลี้ยง\u200B</line-height>",
-          "desc": "[DefeatDuel] At 75%- HP, consume 75 [OwnTime] and gain Clash Power +2\n[BeforeAttack] When in [TimeAcceleration] state, gain +1 Atk Weight\n[BeforeAttack] At 60%- HP, consume 10 [OwnTime] and gain +1 Atk Weight",
+          "desc": "[DefeatDuel] เมื่อมี 75%- HP, consume 75 [OwnTime] และ ได้รับ แต้มปะทะ +2\n[BeforeAttack] When in [TimeAcceleration] state, ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี 60%- HP, consume 10 [OwnTime] และ ได้รับ +1 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 8 [Laceration]"
                 }
               ]
             }
@@ -294,7 +294,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Time to be Saved\u200B</line-height>",
-          "desc": "[CantDuel]\nInflict [TimeKillerWatch] against the target that used an Attack Skill against this unit\n[StartBattle] Consume 200 [OwnTime] and gain [TimeAcceleration] next turn)",
+          "desc": "[CantDuel]\nInflict [TimeKillerWatch] aได้รับst the target that used an Attack Skill aได้รับst this unit\n[StartBattle] Consume 200 [OwnTime] และ ได้รับ [TimeAcceleration] ในเทิร์นหน้า)",
           "coinlist": [
             {
               "coindescs": [
@@ -312,7 +312,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Evade\u200B</line-height>",
+          "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
           "desc": "[WhenUse] Base Power +1 for every 100 sum of [OwnTime] across all Parts",
           "coinlist": [
             {
@@ -337,7 +337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Erase the target's time. Once this unit erases the target's time, all Parts recover [OwnTime] to their max values and gain 10 Haste and 10 Attack Power Up next turn."
+                  "desc": "[OnSucceedAttack] Erase the target's time. Once this unit erases the target's time, all Parts recover [OwnTime] to their max values และ ได้รับ 10 [Agility] และ 10 [Enhancement] ในเทิร์นหน้า."
                 }
               ]
             }
@@ -356,7 +356,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             }
@@ -370,26 +370,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tock\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 5+ [Laceration], Clash Power +1",
+          "desc": "[WhenUse] If the target has 5+ [Laceration], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -403,22 +403,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ticktick-Tock\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 5+ [Laceration], Clash Power +1",
+          "desc": "[WhenUse] If the target has 5+ [Laceration], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Combustion]"
                 }
               ]
             }
@@ -451,19 +451,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>My...\u200B</line-height>",
-          "desc": "[DefeatDuel] Gain 1 [Vulnerable]",
+          "desc": "[DefeatDuel] ได้รับ 1 [Vulnerable]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             }
@@ -477,33 +477,33 @@
         {
           "level": 1,
           "name": "<line-height=120%>Running Out of Time\u200B</line-height>",
-          "desc": "[DefeatDuel] Gain 1 [Vulnerable]",
+          "desc": "[DefeatDuel] ได้รับ 1 [Vulnerable]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }

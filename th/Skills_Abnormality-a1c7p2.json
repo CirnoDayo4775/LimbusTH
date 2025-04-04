@@ -6,12 +6,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Walk With Grace...\u200B</line-height>",
-          "desc": "Prioritize an unstaggered ally. If the target is an ally, gain Clash Power +10, and fix the damage to 0 at all times\nClash Power +1 for every 3 [Laceration]บนthe target (max 3)",
+          "desc": "Prioritize an unstaggered ally. If the target is an ally, ได้รับ แต้มปะทะ +10, และ fix the ความเสียหาย to 0 at all times\nแต้มปะทะ +1 for every 3 [Laceration]บนthe target (max 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]\n- If the target is an ally, replace this effect with 3 [AttackUp] until next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]\n- If the target is an ally, replace this effect with 3 [AttackUp] until ในเทิร์นหน้า"
                 }
               ]
             }
@@ -25,12 +25,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Move With Beauty...\u200B</line-height>",
-          "desc": "Prioritize an unstaggered ally. If the target is an ally, gain Clash Power +10, and fix the damage to 0 at all times\nClash Power +1 for every 3 [Laceration]บนthe target (max 3)",
+          "desc": "Prioritize an unstaggered ally. If the target is an ally, ได้รับ แต้มปะทะ +10, และ fix the ความเสียหาย to 0 at all times\nแต้มปะทะ +1 for every 3 [Laceration]บนthe target (max 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count\n- If the target is an ally, replace this effect with 3 [DefenseUp] until next turn"
+                  "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count\n- If the target is an ally, replace this effect with 3 [DefenseUp] until ในเทิร์นหน้า"
                 }
               ]
             }
@@ -44,12 +44,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Beckon the Audience Hither...\u200B</line-height>",
-          "desc": "[WhenUse] Final Power +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (max 4)\n[WhenUse] At less than 15 [BloodDinner], gain 15 [Laceration] and immediately trigger it once, then reduce [Laceration] Count by 1 (at less than 10% HP, activate only the part of this effect where this unit gains [Laceration] Potency and Count)\n[EndSkill] Consume 15 [BloodDinner]",
+          "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (max 4)\n[WhenUse] เมื่อมี less than 15 [BloodDinner], ได้รับ 15 [Laceration]and immediately trigger it once, then reduce [Laceration]Count ไป 1 (at less than 10% HP, activate only the part of this effect where this unit ได้รับs [Laceration]Potency และ Count)\n[EndSkill] Consume 15 [BloodDinner]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [AttackUp] and 1 [DefenseUp] for every 6 [Laceration]บนthe target (max 3 of each)"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [AttackUp] และ 1 [DefenseUp] for every 6 [Laceration]บนthe target (max 3 of each)"
                 }
               ]
             },
@@ -59,10 +59,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict +5 [Laceration] Count"
+                  "desc": "[WinDuelAttack] มอบ +5 [Laceration]Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [BloomingThorns]"
+                  "desc": "[OnSucceedAttack] ได้รับ 3 [BloomingThorns]"
                 }
               ]
             }
@@ -76,12 +76,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Parade of Wonders\u200B</line-height>",
-          "desc": "[CantIdentify]\nPrioritizes enemies for its main target, and prioritizes allies for its sub-targets. If the target is an ally, Clash Power +10 and always fix the damage to 0.\n[WhenUse] Clash Power +1 for every 20 [BloodDinner_Accumulation] by this unit (max 10)\n[WhenUse] At less than 25 [BloodDinner], gain 25 [Laceration], immediately trigger it once, then lose 1 [Laceration] Count (at less than 10% HP, activate only the part of this effect where this unit gains [Laceration] Potency and Count)\n[EndSkill] Consume 25 [BloodDinner]\n[EndBattle] Consume all [FestivalFever]",
+          "desc": "[CantIdentify]\nPrioritizes enemies for its main target, และ prioritizes allies for its sub-targets. If the target is an ally, แต้มปะทะ +10 และ always fix the ความเสียหาย to 0.\n[WhenUse] แต้มปะทะ +1 for every 20 [BloodDinner_Accumulation] ไป this unit (max 10)\n[WhenUse] เมื่อมี less than 25 [BloodDinner], ได้รับ 25 [Laceration], immediately trigger it once, then เสีย 1 [Laceration]Count (at less than 10% HP, activate only the part of this effect where this unit ได้รับs [Laceration]Potency และ Count)\n[EndSkill] Consume 25 [BloodDinner]\n[EndBattle] Consume all [FestivalFever]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [AttackUp] and [DefenseUp] until next turn basedบน[FestivalFever] (1 per 3 [FestivalFever], max 3 of each)"
+                  "desc": "[OnSucceedAttack] มอบ 1 [AttackUp] และ [DefenseUp] until ในเทิร์นหน้า basedบน[FestivalFever] (1 per 3 [FestivalFever], max 3 of each)"
                 }
               ]
             },
@@ -91,7 +91,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count\n- If the target is an ally, replace this effect with 5 [BloomingThorns]"
+                  "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count\n- If the target is an ally, replace this effect with 5 [BloomingThorns]"
                 }
               ]
             }
@@ -105,19 +105,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>The Parade Repeats for Eternity\u200B</line-height>",
-          "desc": "[WhenUse] Clash Power +1 for every 20 [BloodDinner_Accumulation] by this unit (max 10)\n[WhenUse] At less than 50 [BloodDinner], gain 25 [Laceration], +2 [Laceration] Count, immediately trigger it twice, then reduce [Laceration] Count by 2 (at less than 10% HP, activate only the part of this effect where this unit gains [Laceration] Potency and Count)\n[WhenUse] Consume half of [BloodDinner]\n[EndBattle] Consume all [IncompleteParade]\n[EndBattle] Gain 10 [FestivalFever]",
+          "desc": "[WhenUse] แต้มปะทะ +1 for every 20 [BloodDinner_Accumulation] ไป this unit (max 10)\n[WhenUse] เมื่อมี less than 50 [BloodDinner], ได้รับ 25 [Laceration], +2 [Laceration]Count, immediately trigger it twice, then reduce [Laceration]Count ไป 2 (at less than 10% HP, activate only the part of this effect where this unit ได้รับs [Laceration]Potency และ Count)\n[WhenUse] Consume half of [BloodDinner]\n[EndBattle] Consume all [IncompleteParade]\n[EndBattle] ได้รับ 10 [FestivalFever]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by 25% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 25% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by 25% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 25% ของความเสียหายที่ทำไป"
                 }
               ]
             },
@@ -127,13 +127,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 50% ของความเสียหายที่ทำไป"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration] and 5 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and 5 [Burst]"
                 },
                 {
-                  "desc": "[EndCoin] Gain 1 [BloomingThorns] for every 10 [BloodDinner] consumed by this Skill (max 10)"
+                  "desc": "[EndCoin] ได้รับ 1 [BloomingThorns] for every 10 [BloodDinner] consumed ไป this Skill (max 10)"
                 }
               ]
             }
@@ -147,19 +147,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>And that's all it does...\u200B</line-height>",
-          "desc": "[DuelCounter]\n[WhenUse] At 5+ [FestivalFever], Clash Power +3\n[StartBattle] Gain 5 [BloomingThorns]\n[DefeatDuel] Lose 5 [BloomingThorns]",
+          "desc": "[DuelCounter]\n[WhenUse] เมื่อมี 5+ [FestivalFever], แต้มปะทะ +3\n[StartBattle] ได้รับ 5 [BloomingThorns]\n[DefeatDuel] เสีย 5 [BloomingThorns]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             }
@@ -173,7 +173,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>The Finale\u200B</line-height>",
-          "desc": "[WhenUse] Consume half of [BloodDinner]\n[WinDuel] Deal +([BloodDinner] consumed by this Skill)% more damage (max 150%)\n[DefeatDuel] Deal -50% less damage, and the damage from this Skill does not Stagger the target\n[EndSkill] This unit's SP drops to -45",
+          "desc": "[WhenUse] Consume half of [BloodDinner]\n[WinDuel] ทำ  +([BloodDinner] consumed ไป this Skill)% more ความเสียหาย (max 150%)\n[DefeatDuel] ทำ  -50% less ความเสียหาย, และ the ความเสียหาย from this Skill does not Stagger the target\n[EndSkill] This unit's ค่าสติ drops to -45",
           "coinlist": [
             {
               "coindescs": [
@@ -181,10 +181,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 6 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +6 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +6 [Laceration]Count"
                 }
               ]
             },
@@ -194,10 +194,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict 6 [Burst]"
+                  "desc": "[WinDuelAttack] มอบ 6 [Burst]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict +6 [Burst] Count"
+                  "desc": "[WinDuelAttack] มอบ [Burst] +6 ขั้น"
                 }
               ]
             },
@@ -207,7 +207,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[EndCoin] Gain 1 [BloomingThorns] for every 10 [BloodDinner] consumed by this Skill (max 10)"
+                  "desc": "[EndCoin] ได้รับ 1 [BloomingThorns] for every 10 [BloodDinner] consumed ไป this Skill (max 10)"
                 }
               ]
             }
@@ -221,19 +221,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dragon of the Spring\u200B</line-height>",
-          "desc": "[WhenUse] Gain 2 [Agility] next turn",
+          "desc": "[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Vulnerable] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -247,19 +247,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Lotus in Autumn\u200B</line-height>",
-          "desc": "[WhenUse] Gain 2 [Agility] next turn",
+          "desc": "[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Vulnerable] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -273,7 +273,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Faint Trace\u200B</line-height>",
-          "desc": "[WhenUse] Gain 3 [Agility] next turn",
+          "desc": "[WhenUse] ได้รับ 3 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -285,7 +285,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [SlashTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [SlashTakeDamageUp]"
                 }
               ]
             }
@@ -299,7 +299,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Pallid Trace\u200B</line-height>",
-          "desc": "If user's Speed is faster than target's by 5+, Clash Power +5",
+          "desc": "If user's Speed is faster than target's ไป 5+, แต้มปะทะ +5",
           "coinlist": [
             {
               "coindescs": [
@@ -311,7 +311,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 100 Bonus Damage"
+                  "desc": "[OnSucceedAttack] ทำ  100 Bonus ความเสียหาย"
                 }
               ]
             }
@@ -325,19 +325,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Red Arwe\u200B</line-height>",
-          "desc": "[WhenUse] Gain 2 [Agility] next turn",
+          "desc": "[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 50 Bonus Damage"
+                  "desc": "[OnSucceedAttack] ทำ  50 Bonus ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 50 Bonus Damage"
+                  "desc": "[OnSucceedAttack] ทำ  50 Bonus ความเสียหาย"
                 }
               ]
             }
@@ -351,19 +351,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Blak Arwe\u200B</line-height>",
-          "desc": "[WhenUse] Gain 2 [Agility] next turn",
+          "desc": "[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [MentalCrack]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [MentalCrack]"
                 }
               ]
             }
@@ -377,7 +377,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Mirror of Water\u200B</line-height>",
-          "desc": "[CanDuelGuard]\n[WhenUse] Gain 3 [Protection]\n[WinDuel] Deal HP damage equal to the final Clash Power of this Skill",
+          "desc": "[CanDuelGuard]\n[WhenUse] ได้รับ 3 [Protection]\n[WinDuel] ทำ  HP ความเสียหาย equal to the final แต้มปะทะ of this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -396,7 +396,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Electron Accelerator Rail Activation\u200B</line-height>",
-          "desc": "[StartBattle] Gain 10 [Enhancement] and [Agility] next turn",
+          "desc": "[StartBattle] ได้รับ 10 [Enhancement] และ [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -415,7 +415,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Arwe\u200B</line-height>",
-          "desc": "[WhenUse] Gain 5 [PenetrateDamageUp]",
+          "desc": "[WhenUse] ได้รับ 5 [PenetrateDamageUp]",
           "coinlist": [
             {
               "coindescs": [

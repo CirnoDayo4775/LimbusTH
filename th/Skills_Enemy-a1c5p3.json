@@ -11,7 +11,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 4 Bleed"
+                                    "desc": "[OnSucceedAttackHead] มอบ 4 [Laceration]"
                                 }
                             ]
                         }
@@ -25,26 +25,26 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Tear Up Wound\u200B</line-height>",
-                    "desc": "[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration]บนtarget",
+                    "desc": "[WinDuel] ฟื้นฟู 5 SP.\nทำ +5% ความเสียหาย per [Laceration]บนtarget",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 }
                             ]
                         }
@@ -58,45 +58,45 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Protect the Town!\u200B</line-height>",
-                    "desc": "[WhenUse] Gain 5 Poise",
+                    "desc": "[WhenUse] ได้รับ 5 Poise",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                                 }
                             ]
                         }
@@ -110,12 +110,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Javelin\u200B</line-height>",
-                    "desc": "[WhenUse] Gain 5 Poise and +2 Poise Count",
+                    "desc": "[WhenUse] ได้รับ 5 Poise และ +2 Poise Count",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bind and 2 Damage Down next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Binding] และ 2 ความเสียหาย Down ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -129,7 +129,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-                    "desc": "When attacked while this unit has Shield, gain 1 Offense Level Up next turn",
+                    "desc": "When attacked while this unit has Shield, ได้รับ 1 Offense Level Up ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -153,14 +153,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict +2 Bleed Count"
+                                    "desc": "[OnSucceedAttackHead] มอบ [Laceration] +2 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttackHead] มอบ [Laceration] +1 ขั้น"
                                 }
                             ]
                         }
@@ -174,33 +174,33 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Carve Wound\u200B</line-height>",
-                    "desc": "[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration]บนtarget",
+                    "desc": "[WinDuel] ฟื้นฟู 5 SP.\nทำ +5% ความเสียหาย per [Laceration]บนtarget",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                                 }
                             ]
                         }
@@ -214,45 +214,45 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Protect the Town!\u200B</line-height>",
-                    "desc": "[WhenUse] Gain 5 Poise",
+                    "desc": "[WhenUse] ได้รับ 5 Poise",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
                                 }
                             ]
                         }
@@ -266,12 +266,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Javelin\u200B</line-height>",
-                    "desc": "[WhenUse] Gain 5 Poise and +2 Poise Count",
+                    "desc": "[WhenUse] ได้รับ 5 Poise และ +2 Poise Count",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bind and 2 Fragile next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Binding] และ 2 [Vulnerable] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -284,8 +284,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Evade\u200B</line-height>",
-                    "desc": "[OnSucceedEvade] Gain 1 Offense Level Up next turn (Max 3)",
+                    "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
+                    "desc": "[OnSucceedEvade] ได้รับ 1 Offense Level Up ในเทิร์นหน้า (Max 3)",
                     "coinlist": [
                         {
                             "coindescs": [

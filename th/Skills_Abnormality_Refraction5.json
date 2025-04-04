@@ -6,15 +6,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Rear Line Fire\u200B</line-height>",
-          "desc": "This Skill deals +10% damageบนCritical Hit\n[WhenUse] At 10+ [Breath], Base Power +1\n[WhenUse] Gain 2 [Breath]",
+          "desc": "This Skill ทำ s +10% ความเสียหายบนCritical Hit\n[WhenUse] เมื่อมี 10+ [Breath], Base Power +1\n[WhenUse] ได้รับ 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             }
@@ -28,15 +28,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Front Line Fire\u200B</line-height>",
-          "desc": "This Skill deals +10% damageบนCritical Hit\n[WhenUse] At 10+ [Breath], Base Power +1\n[WhenUse] Gain +3 [Breath] Count",
+          "desc": "This Skill ทำ s +10% ความเสียหายบนCritical Hit\n[WhenUse] เมื่อมี 10+ [Breath], Base Power +1\n[WhenUse] ได้รับ +3 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ขั้น"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[CriticalOnSucceedAttack] มอบ +3 [Laceration]Count"
                 }
               ]
             }
@@ -50,7 +50,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Punch Through\u200B</line-height>",
-          "desc": "[WhenUse] Gain 2 [Breath]\n[WhenUse] At 10+ [Breath], Base Power +1\n[WhenUse] เหรียญ Power +1 for every 5 [Breath] Countบนself (max 2)\n[WinDuel] This Attack Skill deals +50% more damageบนCritical Hit",
+          "desc": "[WhenUse] ได้รับ 2 [Breath]\n[WhenUse] เมื่อมี 10+ [Breath], Base Power +1\n[WhenUse] แต้มเหรียญ +1 for every 5 [Breath] Countบนself (max 2)\n[WinDuel] This Attack Skill ทำ s +50% more ความเสียหายบนCritical Hit",
           "coinlist": [
             {
               "coindescs": [
@@ -58,10 +58,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] Count"
                 },
                 {
-                  "desc": "This เหรียญ deals damage only against the main target."
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target."
                 }
               ]
             },
@@ -71,13 +71,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "This เหรียญ deals damage only against the sub-targets\n- If the first เหรียญ failed to kill the ally or if the target wasn't Staggered, 1 random sub-target takes damage"
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the sub-targets\n- If the first เหรียญ failed to kill the ally or if the target wasn't Staggered, 1 random sub-target ได้รับs ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             }
@@ -91,7 +91,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Reload, Fire\u200B</line-height>",
-          "desc": "This Skill deals +50% damageบนCritical Hit\n[WhenUse] เหรียญ Power +1 for every 5 [Breath] Countบนself (max 3)\n[WhenUse] Gain 3 [Breath]",
+          "desc": "This Skill ทำ s +50% ความเสียหายบนCritical Hit\n[WhenUse] แต้มเหรียญ +1 for every 5 [Breath] Countบนself (max 3)\n[WhenUse] ได้รับ 3 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -110,15 +110,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>See Through Defenses\u200B</line-height>",
-          "desc": "[DefeatDuel] Halve [Breath]บนself\n- Any [Breath] gained during this turn are halved as well\n- Gain 4 [Paralysis] next turn",
+          "desc": "[DefeatDuel] Halve [Breath]บนself\n- Any [Breath] ได้รับed during this turn are halvedเป็นwell\n- ได้รับ 4 [Paralysis] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             }
@@ -132,7 +132,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Designated Target Fire\u200B</line-height>",
-          "desc": "Attacks the target with [FellBulletMark]\nเหรียญ Power +1 for every 5 [Breath]บนself (max 2)\nBase Power +1 for every 3 [Breath] Countบนself (max 3)\n[WhenUse] If the main target does not have [FellBulletMark], gain 1 [Paralysis] and 3 [Vulnerable]\n[EndSkill] If the target is defeated, gain 10 [Breath] and lower every enemy's SP by 15",
+          "desc": "Attacks the target with [FellBulletMark]\nแต้มเหรียญ +1 for every 5 [Breath]บนself (max 2)\nBase Power +1 for every 3 [Breath] Countบนself (max 3)\n[WhenUse] If the main target does not have [FellBulletMark], ได้รับ 1 [Paralysis] และ 3 [Vulnerable]\n[EndSkill] If the target is defeated, ได้รับ 10 [Breath] และ lower every enemy's ค่าสติ ไป 15",
           "coinlist": [
             {
               "coindescs": [
@@ -140,13 +140,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "This เหรียญ deals damage only against the main target."
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target."
                 },
                 {
-                  "desc": "If the target has [FellBulletMark], deal +100% more damage"
+                  "desc": "If the target has [FellBulletMark], ทำ  +100% more ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [FellBulletMark], gain 10 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] If the target has [FellBulletMark], ได้รับ 10 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -156,10 +156,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "This เหรียญ deals damage only against the sub-targets\n- If the first เหรียญ failed to kill the target, 2 random sub-targets take damage"
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the sub-targets\n- If the first เหรียญ failed to kill the target, 2 random sub-targets ได้รับ ความเสียหาย"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Sinking] and 5 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 5 [Sinking] และ 5 [Laceration]"
                 }
               ]
             }
@@ -173,7 +173,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Target Readjustment Fire\u200B</line-height>",
-          "desc": "[CantIdentify]\n[CantChangeTarget]\nPrioritizes the target with [FellBulletMark]\nIf this unit failed to attack the Stigmatized target, cancel this Skill.\nเหรียญ Power +1 for every 5 [Breath]บนself (max 2)\nBase Power +1 for every 3 [Breath] Countบนself (max 3)\n[EndSkill] If the target is defeated, gain 10 [Breath] and lower every enemy's SP by 15",
+          "desc": "[CantIdentify]\n[CantChangeTarget]\nPrioritizes the target with [FellBulletMark]\nIf this unit failed to attack the Stigmatized target, cancel this Skill.\nแต้มเหรียญ +1 for every 5 [Breath]บนself (max 2)\nBase Power +1 for every 3 [Breath] Countบนself (max 3)\n[EndSkill] If the target is defeated, ได้รับ 10 [Breath] และ lower every enemy's ค่าสติ ไป 15",
           "coinlist": [
             {
               "coindescs": [
@@ -181,13 +181,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "This เหรียญ deals damage only against the main target"
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] If the target has [FellBulletMark], kill the target"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 10 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] ได้รับ 10 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -197,10 +197,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "This เหรียญ deals damage only against the sub-targets\n- If the first เหรียญ failed to kill the target, 1 random sub-target takes damage"
+                  "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the sub-targets\n- If the first เหรียญ failed to kill the target, 1 random sub-target ได้รับs ความเสียหาย"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Sinking] and 5 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 5 [Sinking] และ 5 [Laceration]"
                 }
               ]
             }
@@ -214,15 +214,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Maul\u200B</line-height>",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Breath] Potencyบนself (max 5)",
+          "desc": "[WhenUse] แต้มรวม +1 for every 4 [Breath] Potencyบนself (max 5)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath] Potency"
+                  "desc": "[OnSucceedAttack] ได้รับ 3 [Breath] Potency"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain +3 [Breath] Count"
+                  "desc": "[CriticalOnSucceedAttack] ได้รับ +3 [Breath] Count"
                 }
               ]
             }
@@ -236,25 +236,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>Devastate\u200B</line-height>",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Breath] Potencyบนself (max 5)",
+          "desc": "[WhenUse] แต้มรวม +1 for every 4 [Breath] Potencyบนself (max 5)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath] Potency"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath] Potency"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[CriticalOnSucceedAttack] ได้รับ +2 [Breath] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath] Potency"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath] Potency"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[CriticalOnSucceedAttack] ได้รับ +2 [Breath] Count"
                 }
               ]
             }
@@ -268,7 +268,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Labored Breathing\u200B</line-height>",
-          "desc": "[WhenUse] Final Power +1 for every 8 [Breath] Potencyบนself (max 5)\n[WhenUse] เหรียญ Power +1 for every 8 [Breath] Countบนself (max 5)\n[DefeatDuel] Halve [Breath] Potencyบนself\n[EndSkill] Halve [Breath] Potency and Countบนself",
+          "desc": "[WhenUse] แต้มรวม +1 for every 8 [Breath] Potencyบนself (max 5)\n[WhenUse] แต้มเหรียญ +1 for every 8 [Breath] Countบนself (max 5)\n[DefeatDuel] Halve [Breath] Potencyบนself\n[EndSkill] Halve [Breath] Potency และ Countบนself",
           "coinlist": [
             {},
             {},
@@ -278,7 +278,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Deal ([Breath] Potency)% more damageบนCritical Hit"
+                  "desc": "ทำ ([Breath] Potency)% more ความเสียหายบนCritical Hit"
                 }
               ]
             }
@@ -292,7 +292,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Prone\u200B</line-height>",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Breath] Potencyบนself (max 5)\n[WhenUse] Gain 4 [Breath] Potency\n- At 50%- HP, also gain +4 [Breath] Count",
+          "desc": "[WhenUse] แต้มรวม +1 for every 4 [Breath] Potencyบนself (max 5)\n[WhenUse] ได้รับ 4 [Breath] Potency\n- เมื่อมี 50%- HP, also ได้รับ +4 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -311,7 +311,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>That's... MINE!\u200B</line-height>",
-          "desc": "[CantChangeTarget]\n[WhenUse] Clash Power +1 for every 4 [Breath] Potencyบนself (max 3)\n[WhenUse] Clash Power +1 for every 4 [Breath] Countบนself (max 3)",
+          "desc": "[CantChangeTarget]\n[WhenUse] แต้มปะทะ +1 for every 4 [Breath] Potencyบนself (max 3)\n[WhenUse] แต้มปะทะ +1 for every 4 [Breath] Countบนself (max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -319,10 +319,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Siphons [Breath] Potency and [Breath] Count from the target (max 6 each)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Siphons [Breath] Potency และ [Breath] Count from the target (max 6 each)"
                 },
                 {
-                  "desc": "[DefeatDuelAttack] Siphons 1/3 of the [Breath] Potency and [Breath] Countบนthe target (max 2 each)"
+                  "desc": "[DefeatDuelAttack] Siphons 1/3 of the [Breath] Potency และ [Breath] Countบนthe target (max 2 each)"
                 }
               ]
             }
@@ -336,7 +336,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Share the Pain\u200B</line-height>",
-          "desc": "[WhenUse] Final Power +1 for every 8 [Breath] Potencyบนself (max 5)\n[WhenUse] เหรียญ Power +1 for every 8 [Breath] Countบนself (max 5)\n[DefeatDuel] Deal -75% less damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] Halve [Breath] Potency and Countบนself",
+          "desc": "[WhenUse] แต้มรวม +1 for every 8 [Breath] Potencyบนself (max 5)\n[WhenUse] แต้มเหรียญ +1 for every 8 [Breath] Countบนself (max 5)\n[DefeatDuel] ทำ  -75% less ความเสียหาย และ ความเสียหาย ทำ t ไป this Skill cannot Stagger the target\n[EndSkill] Halve [Breath] Potency และ Countบนself",
           "coinlist": [
             {
               "coindescs": [
@@ -344,7 +344,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[WinDuelAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -354,7 +354,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict 2 [Vulnerable]"
+                  "desc": "[WinDuelAttack] มอบ 2 [Vulnerable]"
                 }
               ]
             },
@@ -364,7 +364,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Deal +([Breath] Potency + [Breath] Count)% more damageบนCritical Hit"
+                  "desc": "ทำ +([Breath] Potency + [Breath] Count)% more ความเสียหายบนCritical Hit"
                 }
               ]
             }
@@ -378,7 +378,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Freed from the Life of Suffering\u200B</line-height>",
-          "desc": "[StartBattle] Gain 2 [Vulnerable]",
+          "desc": "[StartBattle] ได้รับ 2 [Vulnerable]",
           "coinlist": [
             {
               "coindescs": [
@@ -397,7 +397,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tenacious Wound\u200B</line-height>",
-          "desc": "If the target has 6+ [Laceration] Potency, +1 to [Laceration] Potency and Count inflicted by this Skill",
+          "desc": "If the target has 6+ [Laceration]Potency, +1 to [Laceration]Potency และ Count inflicted ไป this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -405,7 +405,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             },
@@ -415,7 +415,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 }
               ]
             }
@@ -429,19 +429,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wound\u200B</line-height>",
-          "desc": "If the target has 6+ [Laceration] Potency, +1 to [Laceration] Potency and Count inflicted by this Skill",
+          "desc": "If the target has 6+ [Laceration]Potency, +1 to [Laceration]Potency และ Count inflicted ไป this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 }
               ]
             }
@@ -455,7 +455,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Brambles that Constrict\u200B</line-height>",
-          "desc": "If the target has 6+ [Laceration] Potency, +1 to [Laceration] Potency inflicted by this Skill",
+          "desc": "If the target has 6+ [Laceration]Potency, +1 to [Laceration]Potency inflicted ไป this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -463,10 +463,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 2 [Laceration]"
                 }
               ]
             }
@@ -480,19 +480,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Polydipsic Petals\u200B</line-height>",
-          "desc": "Attacks the target with the highest sum of [Laceration] Potency + Count\n[WhenUse] If the target has 6+ [Laceration] Potency, Final Power +2",
+          "desc": "Attacks the target with the highest sum of [Laceration]Potency + Count\n[WhenUse] If the target has 6+ [Laceration]Potency, แต้มรวม +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [ScarletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [ScarletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once (reduce [Laceration] Count by 1)"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once (reduce [Laceration]Count ไป 1)"
                 }
               ]
             }
@@ -506,19 +506,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bursting Petals\u200B</line-height>",
-          "desc": "Attacks the target with the highest sum of [Laceration] Potency + Count\n[WhenUse] If the target has 6+ [Laceration] Potency, Final Power +2",
+          "desc": "Attacks the target with the highest sum of [Laceration]Potency + Count\n[WhenUse] If the target has 6+ [Laceration]Potency, แต้มรวม +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [ScarletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [ScarletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate all [Laceration]บนthe target (completely reduce [Laceration] Count)"
+                  "desc": "[OnSucceedAttack] Activate all [Laceration]บนthe target (completely reduce [Laceration]Count)"
                 }
               ]
             }
@@ -532,12 +532,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Storm of Spikes\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 6+ [Laceration] Potency, Final Power +2",
+          "desc": "[WhenUse] If the target has 6+ [Laceration]Potency, แต้มรวม +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once (reduce [Laceration] Count by 1)"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once (reduce [Laceration]Count ไป 1)"
                 }
               ]
             }
@@ -551,7 +551,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Polydipsic Thorn\u200B</line-height>",
-          "desc": "[StartBattle] Gain 3 [AttackDmgUp] and 2 [Vulnerable]",
+          "desc": "[StartBattle] ได้รับ 3 [AttackDmgUp] และ 2 [Vulnerable]",
           "coinlist": [
             {
               "coindescs": [
@@ -559,10 +559,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             },
@@ -572,10 +572,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             },
@@ -585,10 +585,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] มอบ +1 [Laceration]Count"
                 }
               ]
             }
@@ -602,7 +602,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Endless Spring of Blood\u200B</line-height>",
-          "desc": "[DuelCounter]\n[WhenUse] Targets that clash against this Skill do not lose [Laceration] Count while clashing",
+          "desc": "[DuelCounter]\n[WhenUse] Targets that clash aได้รับst this Skill do not เสีย [Laceration]Count while clashing",
           "coinlist": [
             {
               "coindescs": [
@@ -610,7 +610,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once, and immediately consume [BloodDinner] generated by the [Laceration] damage"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once, และ immediately consume [BloodDinner] generated ไป the [Laceration]damage"
                 }
               ]
             },
@@ -620,7 +620,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once, and immediately consume [BloodDinner] generated by the [Laceration] damage"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once, และ immediately consume [BloodDinner] generated ไป the [Laceration]damage"
                 }
               ]
             },
@@ -630,7 +630,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once, and immediately consume [BloodDinner] generated by the [Laceration] damage"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once, และ immediately consume [BloodDinner] generated ไป the [Laceration]damage"
                 }
               ]
             }
@@ -644,7 +644,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Nutrient Craving\u200B</line-height>",
-          "desc": "Activates at 100+ [BloodDinner]\n[EndBattle] Consume up to 100 [BloodDinner] to activate the following effects:\n- Heal the Core and the Body Parts' HP by [BloodDinner] consumed\n- Gain 1 [AttackUp] next turn for every 20 [BloodDinner] consumed",
+          "desc": "Activates at 100+ [BloodDinner]\n[EndBattle] Consume up to 100 [BloodDinner] to activate the following effects:\n- ฟื้นฟู the Core และ the Body Parts' HP ไป [BloodDinner] consumed\n- ได้รับ 1 [AttackUp] ในเทิร์นหน้า for every 20 [BloodDinner] consumed",
           "coinlist": [
             {
               "coindescs": [
@@ -663,7 +663,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Brambles that Yearn\u200B</line-height>",
-          "desc": "[WhenUse] Consume up to 100 [BloodDinner] to activate the following effects:\n- Heal the Core and the Body Parts' HP by [BloodDinner] consumed\n- This Skill gains Final Power +1 for every 20 [BloodDinner] consumed\n[DefeatDuel] Final Power -5\n[EndSkill] If this Skill consumed less than 30 [BloodDinner], gain 2 [Vulnerable] next turn",
+          "desc": "[WhenUse] Consume up to 100 [BloodDinner] to activate the following effects:\n- ฟื้นฟู the Core และ the Body Parts' HP ไป [BloodDinner] consumed\n- This Skill ได้รับs แต้มรวม +1 for every 20 [BloodDinner] consumed\n[DefeatDuel] แต้มรวม -5\n[EndSkill] If this Skill consumed less than 30 [BloodDinner], ได้รับ 2 [Vulnerable] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [

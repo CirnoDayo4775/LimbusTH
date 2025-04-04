@@ -12,10 +12,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP Percentages by 10% of Max HP."
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 allies with the lowest HP Percentages ไป 10% ของ HP สูงสุด."
                 }
               ]
             }
@@ -25,15 +25,15 @@
           "level": 3,
           "name": "<line-height=120%>Lantern\u200B</line-height>",
           "abName": "Faelantern",
-          "desc": "[BeforeAttack] At 50%- HP, Atk Weight +1",
+          "desc": "[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP by 12% of Max HP."
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 allies with the lowest HP ไป 12% ของ HP สูงสุด."
                 }
               ]
             }
@@ -43,15 +43,15 @@
           "level": 4,
           "name": "<line-height=120%>Lantern\u200B</line-height>",
           "abName": "Faelantern",
-          "desc": "[BeforeAttack] At 50%- HP, Atk Weight +2",
+          "desc": "[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP by 15% of Max HP."
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 allies with the lowest HP ไป 15% ของ HP สูงสุด."
                 }
               ]
             }
@@ -71,10 +71,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttackTail] มอบ [Burst] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู self ไป 30% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -84,18 +84,18 @@
           "level": 3,
           "name": "<line-height=120%>Lantern\u200B</line-height>",
           "abName": "Faelantern",
-          "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +1",
+          "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttackTail] มอบ [Burst] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 3 Defense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู self ไป 50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -105,18 +105,18 @@
           "level": 4,
           "name": "<line-height=120%>Lantern\u200B</line-height>",
           "abName": "Faelantern",
-          "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +2",
+          "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 5 Defense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู self ไป 50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -136,10 +136,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายไม่มี [Combustion], มอบ 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Combustion]"
                 }
               ]
             }
@@ -149,15 +149,15 @@
           "level": 3,
           "name": "<line-height=120%>9:2\u200B</line-height>",
           "abName": "Skin Prophet",
-          "desc": "[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1",
+          "desc": "[BeforeAttack] เมื่อมี 4+ (Lust Reson.), Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายไม่มี [Combustion], มอบ 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Combustion]"
                 }
               ]
             }
@@ -167,18 +167,18 @@
           "level": 4,
           "name": "<line-height=120%>9:2\u200B</line-height>",
           "abName": "Skin Prophet",
-          "desc": "[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson.), additional Atk Weight +1",
+          "desc": "[BeforeAttack] เมื่อมี 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] เมื่อมี 4+ (Highest Lust A-Reson.), additional Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายไม่มี [Combustion], มอบ 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 Attack Power Down and 1 Defense Power Down next turn"
+                  "desc": "[OnSucceedAttackTail] หากเป้าหมายมี 10+ [Combustion], มอบ 1 [Reduction] และ 1 [Disarming] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -198,10 +198,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายไม่มี [Combustion], มอบ 6 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Combustion]"
                 }
               ]
             }
@@ -211,18 +211,18 @@
           "level": 3,
           "name": "<line-height=120%>9:2\u200B</line-height>",
           "abName": "Skin Prophet",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] เมื่อมี 4+ (Lust Reson.), Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายไม่มี [Combustion], มอบ 6 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 Lust Fragility next turn"
+                  "desc": "[OnSucceedAttackTail] หากเป้าหมายมี 10+ [Combustion], มอบ 1 Lust Fragility ในเทิร์นหน้า"
                 }
               ]
             }
@@ -232,18 +232,18 @@
           "level": 4,
           "name": "<line-height=120%>9:2\u200B</line-height>",
           "abName": "Skin Prophet",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson), additional Atk Weight +1",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] เมื่อมี 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] เมื่อมี 4+ (Highest Lust A-Reson), additional Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายไม่มี [Combustion], มอบ 6 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 2 Lust Fragility next turn"
+                  "desc": "[OnSucceedAttackTail] หากเป้าหมายมี 10+ [Combustion], มอบ 2 Lust Fragility ในเทิร์นหน้า"
                 }
               ]
             }
@@ -258,21 +258,21 @@
           "level": 1,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "[BeforeAttack] At 4+ highest Reson., Atk Weight +1",
+          "desc": "[BeforeAttack] เมื่อมี 4+ highest Reson., Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Apply 10% of this unit's max HP as Shield to self and 1 other ally with the least current HP, and apply 2 [ShieldManagerCryingToad] as well"
+                  "desc": "[EndSkill] มอบ 10% of this unit's max HPเป็นShield to self และ 1 other ally with the least current HP, และ มอบ 2 [ShieldManagerCryingToad]เป็นwell"
                 },
                 {
-                  "desc": "- At 4+ highest Reson., apply it to 1 more ally"
+                  "desc": "- เมื่อมี 4+ highest Reson., มอบ it to 1 more ally"
                 },
                 {
                   "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
                 },
                 {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead."
+                  "desc": "- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead."
                 }
               ]
             }
@@ -282,18 +282,18 @@
           "level": 3,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<style=\"highlight\">[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)</style>",
+          "desc": "<style=\"highlight\">[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (max 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Apply <style=\"highlight\">14%</style> of this unit's max HP as Shield to self and <style=\"highlight\">(1 + (highest Reson. - 2))</style> allies with the least current HP, and apply 2 [ShieldManagerCryingToad] as well\n<style=\"highlight\">(max # of other allies that gain [ShieldManagerCryingToad]: 3)</style>"
+                  "desc": "[EndSkill] มอบ <style=\"highlight\">14%</style> of this unit's max HPเป็นShield to self และ <style=\"highlight\">(1 + (highest Reson. - 2))</style> allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad]เป็นwell\n<style=\"highlight\">(max # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)</style>"
                 },
                 {
                   "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
+                  "desc": "- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -303,18 +303,18 @@
           "level": 4,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (max 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Apply <style=\"highlight\">20%</style> of this unit's max HP as Shield to self and (1 + (highest Reson. - 2)) allies with the least current HP, and apply 2 [ShieldManagerCryingToad] as well\n(max # of other allies that gain [ShieldManagerCryingToad]: 3)"
+                  "desc": "[EndSkill] มอบ <style=\"highlight\">20%</style> of this unit's max HPเป็นShield to self และ (1 + (highest Reson. - 2)) allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad]เป็นwell\n(max # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)"
                 },
                 {
                   "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
+                  "desc": "- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -329,21 +329,21 @@
           "level": 1,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n[BeforeAttack] Gain +5 [Aggro] to this Skill Slot next turn",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] เมื่อมี 4+ highest Reson., Atk Weight +1\n[BeforeAttack] ได้รับ +5 [Aggro] to this Skill Slot ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] Gain (15 + 2.5(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max 25%)"
+                  "desc": "[EndSkill] ได้รับ (15 + 2.5(highest Reson.))% of this unit's max HPเป็นShield to self และ ได้รับ 2 [ShieldManagerCryingToad]. (max 25%)"
                 },
                 {
                   "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
                 },
                 {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'gain 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead."
+                  "desc": "- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'ได้รับ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead."
                 }
               ]
             }
@@ -353,21 +353,21 @@
           "level": 3,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "[CantIdentify]\nTargets Randomly\n<style=\"highlight\">[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)</style>\n[BeforeAttack] Gain <style=\"highlight\">+10 [Aggro]</style> to this Skill Slot next turn",
+          "desc": "[CantIdentify]\nTargets Randomly\n<style=\"highlight\">[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (max 2)</style>\n[BeforeAttack] ได้รับ <style=\"highlight\">+10 [Aggro]</style> to this Skill Slot ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Gain (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max <style=\"highlight\">30%</style>)"
+                  "desc": "[EndSkill] ได้รับ (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(highest Reson.))% of this unit's max HPเป็นShield to self และ ได้รับ 2 [ShieldManagerCryingToad]. (max <style=\"highlight\">30%</style>)"
                 },
                 {
                   "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
+                  "desc": "- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -377,24 +377,24 @@
           "level": 4,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)\n[BeforeAttack] Gain +10 [Aggro] to this Skill Slot next turn<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (max 2)\n[BeforeAttack] ได้รับ +10 [Aggro] to this Skill Slot ในเทิร์นหน้า<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking] and <style=\"highlight\">+3 [Sinking] Count</style>"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking] และ <style=\"highlight\">[Sinking] +3 ขั้น</style>"
                 },
                 {
-                  "desc": "[EndSkill] Gain (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max <style=\"highlight\">40%</style>)"
+                  "desc": "[EndSkill] ได้รับ (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(highest Reson.))% of this unit's max HPเป็นShield to self และ ได้รับ 2 [ShieldManagerCryingToad]. (max <style=\"highlight\">40%</style>)"
                 },
                 {
                   "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
+                  "desc": "- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">- At 4+ Gloom Reson., gain additional Shield equal to 10% of this unit's max HP</style>"
+                  "desc": "<style=\"highlight\">- เมื่อมี 4+ Gloom Reson., ได้รับ additional Shield equal to 10% of this unit's max HP</style>"
                 }
               ]
             }
@@ -409,22 +409,22 @@
           "level": 1,
           "name": "<line-height=120%>Hex Nail\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
+          "desc": "[EndSkill] หากเป้าหมายมี [Curse], immediately activate it twice และ reduce it ไป 2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every 3 negative effectบนtarget that aren't [Curse] or [NailPersonality] (max 2)"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบ 1 additional [Curse] for every 3 negative effectบนtarget that aren't [Curse] or [NailPersonality] (max 2)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [NailPersonality]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [NailPersonality]"
                 }
               ]
             }
@@ -434,25 +434,25 @@
           "level": 3,
           "name": "<line-height=120%>Hex Nail\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<style=\"highlight\">[BeforeAttack] At 4+ Envy Reson. including this Skill, Atk Weight +1</style>\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
+          "desc": "<style=\"highlight\">[BeforeAttack] เมื่อมี 4+ Envy Reson. including this Skill, Atk Weight +1</style>\n[EndSkill] หากเป้าหมายมี [Curse], immediately activate it twice และ reduce it ไป 2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every 3 negative effectบนtarget that aren't [Curse] or [NailPersonality] (max 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบ 1 additional [Curse] for every 3 negative effectบนtarget that aren't [Curse] or [NailPersonality] (max 2)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [NailPersonality]"
+                  "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">3</style> [NailPersonality]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict 2 [Binding] next turn (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] มอบ 2 [Binding] ในเทิร์นหน้า (once per turn)</style>"
                 }
               ]
             }
@@ -462,28 +462,28 @@
           "level": 4,
           "name": "<line-height=120%>Hex Nail\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<style=\"highlight\">[BeforeAttack] For every 3 Envy Reson. including this Skill, Atk Weight +1 (max 2)</style>\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
+          "desc": "<style=\"highlight\">[BeforeAttack] For every 3 Envy Reson. including this Skill, Atk Weight +1 (max 2)</style>\n[EndSkill] หากเป้าหมายมี [Curse], immediately activate it twice และ reduce it ไป 2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every <style=\"highlight\">2</style> negative effectบนtarget that aren't [Curse] or [NailPersonality] (max 2)"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบ 1 additional [Curse] for every <style=\"highlight\">2</style> negative effectบนtarget that aren't [Curse] or [NailPersonality] (max 2)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [NailPersonality]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ 3 [NailPersonality]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ [Curse], inflict 1 [ParryingResultDown] (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ [Curse], มอบ 1 [ParryingResultDown] (once per turn)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Binding] next turn (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 [Binding] ในเทิร์นหน้า (once per turn)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -498,22 +498,22 @@
           "level": 1,
           "name": "<line-height=120%>Hex Nail\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] หากเป้าหมายมี [Curse], immediately activate it twice และ reduce it ไป 2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackTail] มอบ 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Curse]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Curse]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [NailPersonality]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [NailPersonality]"
                 }
               ]
             }
@@ -523,25 +523,25 @@
           "level": 3,
           "name": "<line-height=120%>Hex Nail\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] หากเป้าหมายมี [Curse], immediately activate it twice และ reduce it ไป 2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict <style=\"highlight\">3</style> [Laceration]"
+                  "desc": "[OnSucceedAttackTail] มอบ <style=\"highlight\">3</style> [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Curse]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Curse]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [NailPersonality]"
+                  "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">3</style> [NailPersonality]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Inflict 2 [Binding] next turn (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] มอบ 2 [Binding] ในเทิร์นหน้า (once per turn)</style>"
                 }
               ]
             }
@@ -551,31 +551,31 @@
           "level": 4,
           "name": "<line-height=120%>Hex Nail\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] หากเป้าหมายมี [Curse], immediately activate it twice และ reduce it ไป 2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 3 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] มอบ 3 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Curse]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Curse]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [NailPersonality]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ 3 [NailPersonality]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ Envy Reson. including this Skill, inflict 1 [ParryingResultDown] (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ Envy Reson. including this Skill, มอบ 1 [ParryingResultDown] (once per turn)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 [Binding] next turn (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] มอบ 2 [Binding] ในเทิร์นหน้า (once per turn)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Inflict 2 [DefenseDown] next turn (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] มอบ 2 [DefenseDown] ในเทิร์นหน้า (once per turn)</style>"
                 }
               ]
             }

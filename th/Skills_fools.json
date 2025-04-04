@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Gimme Candy.\u200B</line-height>",
-          "desc": "Prioritizes targets with [CandyForCharon]\n[EndSkill] If the target does not have [CandyForCharon], inflict [CandyForCharon]",
+          "desc": "Prioritizes targets with [CandyForCharon]\n[EndSkill] If the target does not have [CandyForCharon], มอบ [CandyForCharon]",
           "coinlist": [
             {
               "coindescs": [
@@ -14,7 +14,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [CandyForCharon], the target becomes Staggered next turn."
+                  "desc": "[OnSucceedAttack] If the target has [CandyForCharon], the target becomes Staggered ในเทิร์นหน้า."
                 }
               ]
             }
@@ -73,7 +73,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>... Kkomi's angry.\u200B</line-height>",
-          "desc": "[BeforeAttack] Gain Atk Weight equal to number of enemies with [CandyForCharon]\n[WhenUse] Gain Clash Power equal to the number of enemies with [CandyForCharon]",
+          "desc": "[BeforeAttack] ได้รับ Atk Weight equal to number of enemies with [CandyForCharon]\n[WhenUse] ได้รับ แต้มปะทะ equal to the number of enemies with [CandyForCharon]",
           "coinlist": [
             {
               "coindescs": [
@@ -99,7 +99,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Vroom-Vroom\u200B</line-height>",
-          "desc": "[WhenUse] Gain Clash Power equal to the number of Identities with [CandyForCharon]\nDeal +10% more damage for every Identity with [CandyForCharon] (max 100%)",
+          "desc": "[WhenUse] ได้รับ แต้มปะทะ equal to the number of Identities with [CandyForCharon]\nทำ +10% more ความเสียหาย for every Identity with [CandyForCharon] (max 100%)",
           "coinlist": [
             {},
             {}
@@ -113,7 +113,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>You hit Kkomi.\u200B</line-height>",
-          "desc": "[WhenUse] Gain 2 [ParryingResultUp] and 2 [Agility] next turn",
+          "desc": "[WhenUse] ได้รับ 2 [ParryingResultUp] และ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [

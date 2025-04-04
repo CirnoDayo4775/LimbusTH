@@ -6,12 +6,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Leave This Place\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 4+ [Sinking], Clash Power +1",
+          "desc": "[WhenUse] If the target has 4+ [Sinking], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ขั้น"
                 }
               ]
             }
@@ -25,19 +25,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Don't Make That Face\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 3+ [Sinking] Count, Clash Power +1",
+          "desc": "[WhenUse] If the target has 3+ [Sinking] Count, แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Sinking]"
                 }
               ]
             }
@@ -51,36 +51,36 @@
         {
           "level": 1,
           "name": "<line-height=120%>Who Might You Be?\u200B</line-height>",
-          "desc": "Prioritizes [UninvitedGuest]\nIf the target has [UninvitedGuest], inflict +1 more [Sinking] Potency and Count with this Skill",
+          "desc": "Prioritizes [UninvitedGuest]\nIf the target has [UninvitedGuest], มอบ +1 more [Sinking] Potency และ Count with this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [UninvitedGuest], Inflict 2 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] If the target has [UninvitedGuest], มอบ 2 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -94,28 +94,28 @@
         {
           "level": 1,
           "name": "<line-height=120%>Interloper, Are You?\u200B</line-height>",
-          "desc": "Prioritizes [UninvitedGuest]\nIf the target has [UninvitedGuest], inflict +1 more [Sinking] Potency and Count with this Skill",
+          "desc": "Prioritizes [UninvitedGuest]\nIf the target has [UninvitedGuest], มอบ +1 more [Sinking] Potency และ Count with this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [UninvitedGuest], Inflict 2 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] If the target has [UninvitedGuest], มอบ 2 [Paralysis] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +2 ขั้น"
                 }
               ]
             }
@@ -129,15 +129,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Leave, Interloper\u200B</line-height>",
-          "desc": "Prioritizes [UninvitedGuest]\nGain Atk Weight equal to number of enemies with [UninvitedGuest]\n[WhenUse] Gain Clash Power equal to the number of enemies with [UninvitedGuest]",
+          "desc": "Prioritizes [UninvitedGuest]\nได้รับ Atk Weight equal to number of enemies with [UninvitedGuest]\n[WhenUse] ได้รับ แต้มปะทะ equal to the number of enemies with [UninvitedGuest]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ขั้น"
                 }
               ]
             },
@@ -163,7 +163,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ขั้น"
                 }
               ]
             }
@@ -182,7 +182,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Sinking]"
                 }
               ]
             }
@@ -214,7 +214,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Evade\u200B</line-height>",
+          "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -234,12 +234,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Horned Charge\u200B</line-height>",
-          "desc": "[WhenUse] Gain [Charge] +1 ขั้น",
+          "desc": "[WhenUse] ได้รับ [Charge] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [DefenseDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -252,20 +252,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Ram Charge\u200B</line-height>",
-          "desc": "[WhenUse] Gain [Charge] +1 ขั้น",
+          "name": "<line-height=120%>พุ่งชน Charge\u200B</line-height>",
+          "desc": "[WhenUse] ได้รับ [Charge] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [AttackDown] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [AttackDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -279,12 +279,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Lamb's Cry\u200B</line-height>",
-          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
+          "desc": "[WhenUse] ได้รับ [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -298,19 +298,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Lightning Manipulation\u200B</line-height>",
-          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
+          "desc": "[WhenUse] ได้รับ [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [AttackDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -324,26 +324,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
-          "desc": "[WhenUse] Atk Weight +1 for every 4 [Charge] Countบนself (max 5)\n[WhenUse] Clash Power +3 for every 5 [Charge] Countบนself (max 4)\n[WhenUse] Gain 1 [VioletDamageUp] for every 6 [Charge] Countบนself (max 3)\n[EndBattle] All [Charge] Countบนself expires. Loses [ConnectedPlug]",
+          "desc": "[WhenUse] Atk Weight +1 for every 4 [Charge] Countบนself (max 5)\n[WhenUse] แต้มปะทะ +3 for every 5 [Charge] Countบนself (max 4)\n[WhenUse] ได้รับ 1 [VioletDamageUp] for every 6 [Charge] Countบนself (max 3)\n[EndBattle] All [Charge] Countบนself expires. เสีย [ConnectedPlug]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 4 [DefenseDown] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 4 [AttackDown] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -357,7 +357,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
-          "desc": "[CantDuel]\n[WhenUse] Gain 10 [Protection]\n[WhenUse] Atk Weight +1 for every 4 [Charge] Countบนself (max 5)\n[WhenUse] Clash Power +3 for every 5 [Charge] Countบนself (max 4)\n[WhenUse] Gain 1 [VioletDamageUp] for every 6 [Charge] Countบนself (max 3)",
+          "desc": "[CantDuel]\n[WhenUse] ได้รับ 10 [Protection]\n[WhenUse] Atk Weight +1 for every 4 [Charge] Countบนself (max 5)\n[WhenUse] แต้มปะทะ +3 for every 5 [Charge] Countบนself (max 4)\n[WhenUse] ได้รับ 1 [VioletDamageUp] for every 6 [Charge] Countบนself (max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -376,19 +376,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Grounding Refusal\u200B</line-height>",
-          "desc": "Prioritizes targets with [AntiSheepGround]\nClash Power +1 for every [ConnectedPlug]\n[StartBattle] Gain 2(3 - [ConnectedPlug]) [Protection]\n[WhenUse] Gain [Charge] +1 ขั้น\n[DefeatDuel] If the target has [AntiSheepGround], gain 1 [ConnectedPlug]",
+          "desc": "Prioritizes targets with [AntiSheepGround]\nแต้มปะทะ +1 for every [ConnectedPlug]\n[StartBattle] ได้รับ 2(3 - [ConnectedPlug]) [Protection]\n[WhenUse] ได้รับ [Charge] +1 ขั้น\n[DefeatDuel] If the target has [AntiSheepGround], ได้รับ 1 [ConnectedPlug]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [DefenseDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -407,7 +407,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -421,19 +421,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Enveloping Resignation\u200B</line-height>",
-          "desc": "If the target has 6+ [Sinking], เหรียญ Power +1\n[WinDuel] Inflict +3 [Sinking] Count",
+          "desc": "If the target has 6+ [Sinking], แต้มเหรียญ +1\n[WinDuel] มอบ [Sinking] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 }
               ]
             }
@@ -447,26 +447,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>Strangling Despair\u200B</line-height>",
-          "desc": "เหรียญ Power +1 for every 6 [Sinking]บนtarget (max 2)\n[WinDuel] Inflict +3 [Sinking] Count\n[DefeatDuel] Reduce [Sinking] Count by 1",
+          "desc": "แต้มเหรียญ +1 for every 6 [Sinking]บนtarget (max 2)\n[WinDuel] มอบ [Sinking] +3 ขั้น\n[DefeatDuel] Reduce [Sinking] Count ไป 1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Sinking]"
                 }
               ]
             }
@@ -480,33 +480,33 @@
         {
           "level": 1,
           "name": "<line-height=120%>Chainbreaker\u200B</line-height>",
-          "desc": "If the target has [Binding], Clash Power +1\n[WinDuel] Inflict +4 [Sinking] Count\n[DefeatDuel] Reduce [Sinking] Potency by 2",
+          "desc": "If the target has [Binding], แต้มปะทะ +1\n[WinDuel] มอบ [Sinking] +4 ขั้น\n[DefeatDuel] Reduce [Sinking] Potency ไป 2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 }
               ]
             }
@@ -519,13 +519,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Chains of Binding\u200B</line-height>",
-          "desc": "เหรียญ Power + for every 6 [Sinking]บนtarget (max 2)\n[DefeatDuel] Reduce [Sinking] Count by 2\n[DefeatDuel] Apply [BandageOfTheBoundKing]",
+          "name": "<line-height=120%>Chains of [Binding]ing\u200B</line-height>",
+          "desc": "แต้มเหรียญ + for every 6 [Sinking]บนtarget (max 2)\n[DefeatDuel] Reduce [Sinking] Count ไป 2\n[DefeatDuel] มอบ [BandageOfTheBoundKing]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn\n[OnSucceedAttack] Inflict [Vibration] equal to [Sinking]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า\n[OnSucceedAttack] มอบ [Vibration] equal to [Sinking]บนtarget"
                 }
               ]
             },
@@ -546,7 +546,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Thou Wilt Sink\u200B</line-height>",
-          "desc": "If the target has [Binding], Clash Power +1\n[WinDuel] Inflict +2 [Sinking] Count\n[DefeatDuel] Reduce [Sinking] Potency by 4",
+          "desc": "If the target has [Binding], แต้มปะทะ +1\n[WinDuel] มอบ [Sinking] +2 ขั้น\n[DefeatDuel] Reduce [Sinking] Potency ไป 4",
           "coinlist": [
             {
               "coindescs": [
@@ -565,12 +565,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Present Thyself Before the King\u200B</line-height>",
-          "desc": "[CantDuel]\n[StartBattle] Gain 5 [Binding], 1 [ComeForwardToTheKing], and 2 [Enhancement] next turn.\n[WhenUse] Apply 300 Shield to targets with [BandageOfTheBoundKing]",
+          "desc": "[CantDuel]\n[StartBattle] ได้รับ 5 [Binding], 1 [ComeForwardToTheKing], และ 2 [Enhancement] ในเทิร์นหน้า.\n[WhenUse] มอบ 300 Shieldแก่เป้าหมายที่มี [BandageOfTheBoundKing]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit dealt damage to the target, inflict [Vibration] equal to [Sinking]บนtarget"
+                  "desc": "[OnSucceedAttack] If this unit ทำ t ความเสียหาย to the target, มอบ [Vibration] equal to [Sinking]บนtarget"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"

@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burnบนtarget to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนtarget to 1 Defense Level Down (Max 10)"
                 }
               ]
             }
@@ -22,15 +22,15 @@
           "level": 3,
           "name": "<line-height=120%>9:2\u200B</line-height>",
           "abName": "Skin Prophet",
-          "desc": "[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1",
+          "desc": "[BeforeAttack] เมื่อมี 4+ (Highest Lust A-Reson), Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burnบนtarget to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนtarget to 1 Defense Level Down (Max 10)"
                 }
               ]
             }
@@ -40,15 +40,15 @@
           "level": 4,
           "name": "<line-height=120%>9:2\u200B</line-height>",
           "abName": "Skin Prophet",
-          "desc": "[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1\nAt 6+ (Highest Lust A-Reson), additional Atk Weight +1",
+          "desc": "[BeforeAttack] เมื่อมี 4+ (Highest Lust A-Reson), Atk Weight +1\nเมื่อมี 6+ (Highest Lust A-Reson), additional Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burnบนtarget to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนtarget to 1 Defense Level Down (Max 10)"
                 }
               ]
             }
@@ -68,10 +68,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttackTail] มอบ 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burnบนtarget to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนtarget to 1 Defense Level Down (Max 10)"
                 }
               ]
             }
@@ -81,18 +81,18 @@
           "level": 3,
           "name": "<line-height=120%>9:2\u200B</line-height>",
           "abName": "Skin Prophet",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี 4+ (Highest Lust A-Reson), Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttackTail] มอบ 2 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burnบนtarget to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนtarget to 1 Defense Level Down (Max 10)"
                 }
               ]
             }
@@ -102,18 +102,18 @@
           "level": 4,
           "name": "<line-height=120%>9:2\u200B</line-height>",
           "abName": "Skin Prophet",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1\nAt 6+ (Highest Lust A-Reson), additional Atk Weight +1",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี 4+ (Highest Lust A-Reson), Atk Weight +1\nเมื่อมี 6+ (Highest Lust A-Reson), additional Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttackTail] มอบ 2 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burnบนtarget to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนtarget to 1 Defense Level Down (Max 10)"
                 }
               ]
             }
@@ -128,12 +128,12 @@
           "level": 1,
           "name": "<line-height=120%>Everlasting\u200B</line-height>",
           "abName": "Time Duck",
-          "desc": "If target's Speed is slower than this unit's, deal +(2.5 x (Speed difference))% more damage (max 25%)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max 5)\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "If target's Speed is slower than this unit's, ทำ  +(2.5 x (Speed difference))% more ความเสียหาย (max 25%)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป highest Reson. (max 5)\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration] and +5 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Vibration] และ [Vibration] +5 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]"
@@ -143,24 +143,24 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn"
+                  "desc": "[OnSucceedAttack] Reduce target's Max Speed ไป half ในเทิร์นหน้า"
                 }
               ]
             }
@@ -170,12 +170,12 @@
           "level": 3,
           "name": "<line-height=120%>Everlasting\u200B</line-height>",
           "abName": "Time Duck",
-          "desc": "If target's Speed is slower than this unit's, deal +(<style=\"highlight\">3.5</style> x (Speed difference))% more damage (max <style=\"highlight\">35%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max 5)\n<style=\"highlight\">- If the highest Reson. was a Sloth A-Reson., inflict [Vibration] Count by [Vibration] Potency inflicted (max 5)</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "If target's Speed is slower than this unit's, ทำ  +(<style=\"highlight\">3.5</style> x (Speed difference))% more ความเสียหาย (max <style=\"highlight\">35%</style>)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป highest Reson. (max 5)\n<style=\"highlight\">- If the highest Reson. was a Sloth A-Reson., มอบ [Vibration] Count ไป [Vibration] Potency inflicted (max 5)</style>\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration] and +5 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Vibration] และ [Vibration] +5 ขั้น<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>"
@@ -185,24 +185,24 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Reduce target's Max Speed ไป half ในเทิร์นหน้า<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -212,42 +212,42 @@
           "level": 4,
           "name": "<line-height=120%>Everlasting\u200B</line-height>",
           "abName": "Time Duck",
-          "desc": "If target's Speed is slower than this unit's, deal +(<style=\"highlight\">5</style> x (Speed difference))% more damage (max <style=\"highlight\">50%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by (<style=\"highlight\">2</style> x (highest Reson.)) (max <style=\"highlight\">10</style>)\n- If the highest Reson. was a Sloth A-Reson., inflict [Vibration] Count by [Vibration] Potency inflicted (max <style=\"highlight\">10</style>)\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "If target's Speed is slower than this unit's, ทำ  +(<style=\"highlight\">5</style> x (Speed difference))% more ความเสียหาย (max <style=\"highlight\">50%</style>)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป (<style=\"highlight\">2</style> x (highest Reson.)) (max <style=\"highlight\">10</style>)\n- If the highest Reson. was a Sloth A-Reson., มอบ [Vibration] Count ไป [Vibration] Potency inflicted (max <style=\"highlight\">10</style>)\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">10</style> [Vibration] and <style=\"highlight\">+10</style> [Vibration] Count"
+                  "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">10</style> [Vibration] และ <style=\"highlight\">+10</style> [Vibration] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Reduce target's Max Speed ไป half ในเทิร์นหน้า<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -262,24 +262,24 @@
           "level": 1,
           "name": "<line-height=120%>Everlasting\u200B</line-height>",
           "abName": "Time Duck",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, deal +(1.5 x (Speed difference))% more damage (max 12%)\n[BeforeAttack] At 3+ highest Reson., inflict 3 [Vibration] Potency",
+          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, ทำ  +(1.5 x (Speed difference))% more ความเสียหาย (max 12%)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ 3 [Vibration] Potency",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Vibration] และ [Vibration] +3 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn"
+                  "desc": "[OnSucceedAttack] Reduce target's Max Speed ไป half ในเทิร์นหน้า"
                 }
               ]
             }
@@ -289,24 +289,24 @@
           "level": 3,
           "name": "<line-height=120%>Everlasting\u200B</line-height>",
           "abName": "Time Duck",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, deal +(<style=\"highlight\">2</style> x (Speed difference))% more damage (max <style=\"highlight\">16%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max 4)\n<style=\"highlight\">- [BeforeAttack] If the highest Reson. was a Sloth A-Reson., inflict +2 [Vibration] Count</style>",
+          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, ทำ  +(<style=\"highlight\">2</style> x (Speed difference))% more ความเสียหาย (max <style=\"highlight\">16%</style>)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป highest Reson. (max 4)\n<style=\"highlight\">- [BeforeAttack] If the highest Reson. was a Sloth A-Reson., มอบ [Vibration] +2 ขั้น</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Vibration] และ [Vibration] +3 ขั้น<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Reduce target's Max Speed ไป half ในเทิร์นหน้า<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -316,27 +316,27 @@
           "level": 4,
           "name": "<line-height=120%>Everlasting\u200B</line-height>",
           "abName": "Time Duck",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, deal +(<style=\"highlight\">2.5</style> x (Speed difference))% more damage (max <style=\"highlight\">20%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max <style=\"highlight\">5</style>)\n- [BeforeAttack] If the highest Reson. was a Sloth A-Reson., <style=\"highlight\">inflict [Vibration] Count by [Vibration] Potency inflicted (max 5)</style>",
+          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, ทำ  +(<style=\"highlight\">2.5</style> x (Speed difference))% more ความเสียหาย (max <style=\"highlight\">20%</style>)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป highest Reson. (max <style=\"highlight\">5</style>)\n- [BeforeAttack] If the highest Reson. was a Sloth A-Reson., <style=\"highlight\">inflict [Vibration] Count ไป [Vibration] Potency inflicted (max 5)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">5</style> [Vibration] and <style=\"highlight\">+5</style> [Vibration] Count"
+                  "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">5</style> [Vibration] และ <style=\"highlight\">+5</style> [Vibration] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Reduce target's Max Speed ไป half ในเทิร์นหน้า<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -351,26 +351,26 @@
           "level": 1,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "เหรียญ Power +1 for every 7 [Burst]บนtarget (max 2)",
+          "desc": "แต้มเหรียญ +1 for every 7 [Burst]บนtarget (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Burst]"
                 }
               ]
             }
@@ -380,26 +380,26 @@
           "level": 3,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "<style=\"highlight\">If the sum of this unit and the target's Speed is 6 or greater, เหรียญ Power +1</style>\nเหรียญ Power +1 for every 7 [Burst]บนtarget (max 2)\n<style=\"highlight\">[BeforeAttack] Gain 2 [Agility] next turn\n[BeforeAttack] At 4+ Gluttony or Lust Reson., gain +1 Atk Weight</style>",
+          "desc": "<style=\"highlight\">If the sum of this unit และ the target's Speed is 6 or greater, แต้มเหรียญ +1</style>\nแต้มเหรียญ +1 for every 7 [Burst]บนtarget (max 2)\n<style=\"highlight\">[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[BeforeAttack] เมื่อมี 4+ Gluttony or Lust Reson., ได้รับ +1 Atk Weight</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                 }
               ]
             }
@@ -409,26 +409,26 @@
           "level": 4,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "If the sum of this unit and the target's Speed is 6 or greater, เหรียญ Power +1\nเหรียญ Power +1 for every 7 [Burst]บนtarget (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n<style=\"highlight\">- If the said Reson. was a Gluttony Reson., Atk Weight +1</style>",
+          "desc": "If the sum of this unit และ the target's Speed is 6 or greater, แต้มเหรียญ +1\nแต้มเหรียญ +1 for every 7 [Burst]บนtarget (max 2)\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[BeforeAttack] เมื่อมี 4+ highest Reson., Atk Weight +1\n<style=\"highlight\">- If the said Reson. was a Gluttony Reson., Atk Weight +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                 }
               ]
             }
@@ -443,26 +443,26 @@
           "level": 1,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "[CantIdentify]\nTargets randomly\nเหรียญ Power +1 for every 7 [Burst]บนtarget (max 2)",
+          "desc": "[CantIdentify]\nTargets randomly\nแต้มเหรียญ +1 for every 7 [Burst]บนtarget (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Snare]"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Snare]"
                 }
               ]
             }
@@ -472,29 +472,29 @@
           "level": 3,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">If the sum of this unit and the target's Speed is 6 or greater, เหรียญ Power +1</style>\nเหรียญ Power +1 for every 7 [Burst]บนtarget (max 2)\n<style=\"highlight\">[BeforeAttack] Gain 2 [Agility] next turn</style>",
+          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">If the sum of this unit และ the target's Speed is 6 or greater, แต้มเหรียญ +1</style>\nแต้มเหรียญ +1 for every 7 [Burst]บนtarget (max 2)\n<style=\"highlight\">[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Snare]"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Snare]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +2% more damage for every [Burst]บนtarget (max 30%)"
+                  "desc": "[OnSucceedAttack] ทำ  +2% more ความเสียหาย for every [Burst]บนtarget (max 30%)"
                 }
               ]
             }
@@ -504,29 +504,29 @@
           "level": 4,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the sum of this unit and the target's Speed is 6 or greater, เหรียญ Power +1\nเหรียญ Power +1 for every 7 [Burst]บนtarget (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n<style=\"highlight\">[EndSkill] If target is Staggered or defeated, gain 1 [ShamrockResultUp] next turn</style>",
+          "desc": "[CantIdentify]\nTargets randomly\nIf the sum of this unit และ the target's Speed is 6 or greater, แต้มเหรียญ +1\nแต้มเหรียญ +1 for every 7 [Burst]บนtarget (max 2)\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\n<style=\"highlight\">[EndSkill] If target is Staggered or defeated, ได้รับ 1 [ShamrockResultUp] ในเทิร์นหน้า</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Snare]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Snare]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +2% more damage for every [Burst]บนtarget (max 60%)"
+                  "desc": "[OnSucceedAttack] ทำ  +2% more ความเสียหาย for every [Burst]บนtarget (max 60%)"
                 }
               ]
             }
@@ -541,7 +541,7 @@
           "level": 1,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max 4)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] as well next turn",
+          "desc": "[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (max 4)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath]เป็นwell ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -563,19 +563,19 @@
           "level": 3,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max <style=\"highlight\">6</style>)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] as well next turn",
+          "desc": "[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (max <style=\"highlight\">6</style>)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath]เป็นwell ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain +1 [Breath] Count</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] ได้รับ +1 [Breath] Count</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">Deal +([Breath] Potency + [Breath] Count)% more damageบนCritical Hit (max 20%)</style>"
+                  "desc": "<style=\"highlight\">ทำ +([Breath] Potency + [Breath] Count)% more ความเสียหายบนCritical Hit (max 20%)</style>"
                 }
               ]
             }
@@ -585,19 +585,19 @@
           "level": 4,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max 6)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] as well next turn<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (max 6)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath]เป็นwell ในเทิร์นหน้า<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 [Breath] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +([Breath] Potency + [Breath] Count)% more damageบนCritical Hit (max <style=\"highlight\">40%</style>)"
+                  "desc": "ทำ +([Breath] Potency + [Breath] Count)% more ความเสียหายบนCritical Hit (max <style=\"highlight\">40%</style>)"
                 }
               ]
             }
@@ -612,7 +612,7 @@
           "level": 1,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] At less than 20 [Breath] Potency, gain up to 20 [Breath] Potency and consume ([Breath] Potency gained x 2)% HPบนself\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max 4)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] and 1 [IndigoDamageUp] as well next turn",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี less than 20 [Breath] Potency, ได้รับ up to 20 [Breath] Potency และ consume ([Breath] Potency ได้รับed x 2)% HPบนself\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (max 4)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath] และ 1 [IndigoDamageUp]เป็นwell ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -634,19 +634,19 @@
           "level": 3,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] At less than 20 [Breath] Potency, gain up to 20 [Breath] Potency and consume ([Breath] Potency gained x 2)% HPบนself\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max <style=\"highlight\">6</style>)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] and 1 [IndigoDamageUp] as well next turn",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี less than 20 [Breath] Potency, ได้รับ up to 20 [Breath] Potency และ consume ([Breath] Potency ได้รับed x 2)% HPบนself\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (max <style=\"highlight\">6</style>)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath] และ 1 [IndigoDamageUp]เป็นwell ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain +1 [Breath] Count</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] ได้รับ +1 [Breath] Count</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">Deal +([Breath] Potency + [Breath] Count)% more damageบนCritical Hit (max 20%)</style>"
+                  "desc": "<style=\"highlight\">ทำ +([Breath] Potency + [Breath] Count)% more ความเสียหายบนCritical Hit (max 20%)</style>"
                 }
               ]
             }
@@ -656,19 +656,19 @@
           "level": 4,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] At less than 20 [Breath] Potency, gain up to 20 [Breath] Potency and consume ([Breath] Potency gained x 2)% HPบนself\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max 6)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] and 1 [IndigoDamageUp] as well next turn<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี less than 20 [Breath] Potency, ได้รับ up to 20 [Breath] Potency และ consume ([Breath] Potency ได้รับed x 2)% HPบนself\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (max 6)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath] และ 1 [IndigoDamageUp]เป็นwell ในเทิร์นหน้า<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] ได้รับ +1 [Breath] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +([Breath] Potency + [Breath] Count)% more damageบนCritical Hit (max <style=\"highlight\">40%</style>)"
+                  "desc": "ทำ +([Breath] Potency + [Breath] Count)% more ความเสียหายบนCritical Hit (max <style=\"highlight\">40%</style>)"
                 }
               ]
             }

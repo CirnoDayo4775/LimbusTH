@@ -11,21 +11,21 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Blunt Damage +3"
+                                    "desc": "[OnSucceedAttack] Blunt ความเสียหาย +3"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Blunt Damage +3"
+                                    "desc": "[OnSucceedAttack] Blunt ความเสียหาย +3"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Paralysis]"
                                 }
                             ]
                         }
@@ -44,21 +44,21 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Blunt Damage +5"
+                                    "desc": "[OnSucceedAttack] Blunt ความเสียหาย +5"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Blunt Damage +5"
+                                    "desc": "[OnSucceedAttack] Blunt ความเสียหาย +5"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -78,7 +78,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Target loses 5 SP"
+                                    "desc": "[OnSucceedAttack] Target เสีย 5 SP"
                                 }
                             ]
                         }
@@ -92,7 +92,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Domineer\u200B</line-height>",
-                    "desc": "[StartBattle] Apply 1 Attack Power Up to all allies\n[StartBattle] Inflict 2 Attack Power Down to 2 enemies with the least SP",
+                    "desc": "[StartBattle] มอบ 1 [Enhancement] แก่พันธมิตรทุกคน\n[StartBattle] มอบ 2 [Reduction] to 2 enemies with the least SP",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -111,7 +111,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Make this Memorable\u200B</line-height>",
-                    "desc": "[StartBattle] Gain 2 Test of the Big Brother. Gain 5 Bind next turn.",
+                    "desc": "[StartBattle] ได้รับ 2 Test of the Big Brother. ได้รับ 5 [Binding] ในเทิร์นหน้า.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -130,22 +130,22 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Watch Your Back!\u200B</line-height>",
-                    "desc": "If target has less than 0 SP, เหรียญ Power +3",
+                    "desc": "หากเป้าหมายมี less than 0 SP, แต้มเหรียญ +3",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 10 SPบนself"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 10 SPบนself"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bind and 2 Attack Power Down next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Binding] และ 2 [Reduction] ในเทิร์นหน้า"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Target loses 20 SP"
+                                    "desc": "[OnSucceedAttack] Target เสีย 20 SP"
                                 }
                             ]
                         }
@@ -159,7 +159,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Assemble\u200B</line-height>",
-                    "desc": "[StartBattle] Summon 2 allies next turn",
+                    "desc": "[StartBattle] Summon 2 allies ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -178,7 +178,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Swear Vengeance\u200B</line-height>",
-                    "desc": "[StartBattle] Gain 2 Test of the Big Brother. Gain 5 Bind and 5 [AttackDmgUp] next turn.",
+                    "desc": "[StartBattle] ได้รับ 2 Test of the Big Brother. ได้รับ 5 [Binding] และ 5 [AttackDmgUp] ในเทิร์นหน้า.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -197,15 +197,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>MY HAIR COUPOOOOOOOOOOONS!!!\u200B</line-height>",
-                    "desc": "If the main target has less than 0 SP, Final Power +5",
+                    "desc": "If the main target has less than 0 SP, แต้มรวม +5",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 30"
+                                    "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 30"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า"
                                 }
                             ]
                         }

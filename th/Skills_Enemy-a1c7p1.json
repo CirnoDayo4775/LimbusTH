@@ -11,7 +11,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         }
@@ -25,32 +25,32 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Cleave\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 8+ [Laceration], deal +20% damage",
+                    "desc": "[WhenUse] If the target has 8+ [Laceration], ทำ  +20% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] At 6+ [Laceration], gain 1 [HardenedBlood]"
+                                    "desc": "[OnSucceedAttack] เมื่อมี 6+ [Laceration], ได้รับ 1 [HardenedBlood]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 8 [Laceration] and 1 [BloodScissor]"
+                                    "desc": "[OnSucceedAttack] ได้รับ 8 [Laceration]and 1 [BloodScissor]"
                                 }
                             ]
                         }
@@ -64,19 +64,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Powercleave\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 6+ [Laceration], Base Power +1\nDeal +5% more damage for every [HardenedBlood] (max 25%)\n[EndSkill] Consume all [HardenedBlood] and [BloodScissor]",
+                    "desc": "[WhenUse] If the target has 6+ [Laceration], Base Power +1\nทำ +5% more ความเสียหาย for every [HardenedBlood] (max 25%)\n[EndSkill] Consume all [HardenedBlood] และ [BloodScissor]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and +2 [Laceration]Count"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration]บนtarget)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนtarget)% HP (max 20%)"
                                 }
                             ]
                         }
@@ -89,13 +89,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Counter\u200B</line-height>",
+                    "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
                     "desc": "[WhenUse] Base Power +1 for every [HardenedBlood]บนself",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttackHead] มอบ 2 [Laceration]"
                                 }
                             ]
                         }
@@ -114,7 +114,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                                 }
                             ]
                         }
@@ -128,32 +128,32 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Chop\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 4+ [Laceration], deal +10% more damage",
+                    "desc": "[WhenUse] If the target has 4+ [Laceration], ทำ  +10% more ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] At 6+ [Laceration], gain 1 [HardenedBlood]"
+                                    "desc": "[OnSucceedAttack] เมื่อมี 6+ [Laceration], ได้รับ 1 [HardenedBlood]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 8 [Laceration] and 1 [BloodScissor]"
+                                    "desc": "[OnSucceedAttack] ได้รับ 8 [Laceration]and 1 [BloodScissor]"
                                 }
                             ]
                         }
@@ -167,19 +167,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Powerchop\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 6+ [Laceration] Count, Base Power +1\nDeal +5% more damage for every [HardenedBlood] (max 25%)\n[EndSkill] Consume all [HardenedBlood] and [BloodScissor]",
+                    "desc": "[WhenUse] If the target has 6+ [Laceration]Count, Base Power +1\nทำ +5% more ความเสียหาย for every [HardenedBlood] (max 25%)\n[EndSkill] Consume all [HardenedBlood] และ [BloodScissor]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and +2 [Laceration]Count"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration]บนtarget)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนtarget)% HP (max 20%)"
                                 }
                             ]
                         }
@@ -192,13 +192,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Counter\u200B</line-height>",
+                    "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
                     "desc": "[WhenUse] Base Power +1 for every [HardenedBlood]บนself",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttackHead] มอบ 2 [Laceration]"
                                 }
                             ]
                         }
@@ -217,14 +217,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         }
@@ -238,15 +238,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Let's Dress Up\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 6+ [Laceration], deal +20% damage",
+                    "desc": "[WhenUse] If the target has 6+ [Laceration], ทำ  +20% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 5+ [Laceration], gain 1 [HardenedBlood]"
+                                    "desc": "[OnSucceedAttack] If the target has 5+ [Laceration], ได้รับ 1 [HardenedBlood]"
                                 }
                             ]
                         }
@@ -260,19 +260,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>We've an Event for You!\u200B</line-height>",
-                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodScissor] for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, gain 5 [Laceration] and 1 [HardenedBlood].\n[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1",
+                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; ได้รับ 1 [BloodScissor] for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, ได้รับ 5 [Laceration]and 1 [HardenedBlood].\n[WhenUse] If the target has 5+ [Laceration], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         }
@@ -286,7 +286,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Don't Rush Me\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1\n[WhenUse] Clash Power +1 for every [BloodScissor] (max 3)\nDeal +7% more damage for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]",
+                    "desc": "[WhenUse] If the target has 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 for every [BloodScissor] (max 3)\nทำ +7% more ความเสียหาย for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -294,7 +294,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 8 [Laceration]"
+                                    "desc": "[OnSucceedAttackHead] มอบ 8 [Laceration]"
                                 }
                             ]
                         },
@@ -302,10 +302,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Consume up to 5 [BloodScissor] and deal +(20 * consumed [BloodScissor])% more damage (max 100%)"
+                                    "desc": "[OnSucceedAttack] Consume up to 5 [BloodScissor] และ ทำ  +(20 * consumed [BloodScissor])% more ความเสียหาย (max 100%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] Potencyบนtarget)% HP (max 30%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration] Potencyบนtarget)% HP (max 30%)"
                                 }
                             ]
                         }
@@ -318,13 +318,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Counter\u200B</line-height>",
-                    "desc": "[WhenUse] At 1+ [BloodScissor], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], เหรียญ Power +1",
+                    "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
+                    "desc": "[WhenUse] เมื่อมี 1+ [BloodScissor], Base Power +1\n[WhenUse] เมื่อมี 3+ [HardenedBlood], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 }
                             ]
                         }
@@ -343,14 +343,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
                                 }
                             ]
                         }
@@ -364,15 +364,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>I'll Have Some More\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 4+ [Laceration], deal +10% more damage",
+                    "desc": "[WhenUse] If the target has 4+ [Laceration], ทำ  +10% more ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 5+ [Laceration], gain 1 [HardenedBlood]"
+                                    "desc": "[OnSucceedAttack] If the target has 5+ [Laceration], ได้รับ 1 [HardenedBlood]"
                                 }
                             ]
                         }
@@ -386,19 +386,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>What Heavenly Taste!\u200B</line-height>",
-                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodScissor] for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, gain 5 [Laceration] and 1 [HardenedBlood].\n[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1",
+                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; ได้รับ 1 [BloodScissor] for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, ได้รับ 5 [Laceration]and 1 [HardenedBlood].\n[WhenUse] If the target has 5+ [Laceration], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                                 }
                             ]
                         }
@@ -412,7 +412,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>You Rat Bastard!\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1\n[WhenUse] Clash Power +1 for every [BloodScissor] (max 3)\nDeal +7% more damage for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]",
+                    "desc": "[WhenUse] If the target has 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 for every [BloodScissor] (max 3)\nทำ +7% more ความเสียหาย for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -420,7 +420,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 8 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 8 [Laceration]"
                                 }
                             ]
                         },
@@ -428,10 +428,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Consume up to 5 [BloodScissor] and deal +(20 * consumed [BloodScissor])% more damage (max 100%)"
+                                    "desc": "[OnSucceedAttack] Consume up to 5 [BloodScissor] และ ทำ  +(20 * consumed [BloodScissor])% more ความเสียหาย (max 100%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] Potencyบนtarget)% HP (max 30%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration] Potencyบนtarget)% HP (max 30%)"
                                 }
                             ]
                         }
@@ -444,13 +444,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Counter\u200B</line-height>",
-                    "desc": "[WhenUse] At 1+ [BloodScissor], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], เหรียญ Power +1",
+                    "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
+                    "desc": "[WhenUse] เมื่อมี 1+ [BloodScissor], Base Power +1\n[WhenUse] เมื่อมี 3+ [HardenedBlood], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 }
                             ]
                         }
@@ -463,16 +463,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Slam\u200B</line-height>",
-                    "desc": "If the target has 5+ [Burst], deal +10% more damage",
+                    "name": "<line-height=120%>ฟาด\u200B</line-height>",
+                    "desc": "If the target has 5+ [Burst], ทำ  +10% more ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Burst]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [DefenseDown]"
                                 }
                             ]
                         }
@@ -491,17 +491,17 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [TakeHpHealReduce]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [TakeHpHealReduce]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 5+ [Burst], inflict 1 [TakeHpHealReduce] as well"
+                                    "desc": "[OnSucceedAttack] If the target has 5+ [Burst], มอบ 1 [TakeHpHealReduce]เป็นwell"
                                 }
                             ]
                         }
@@ -520,20 +520,20 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                                    "desc": "[OnSucceedAttack] มอบ 4 [Burst]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If target has 10+ [Burst], deal +30% damage"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Burst], ทำ  +30% ความเสียหาย"
                                 }
                             ]
                         }
@@ -547,7 +547,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hemostasis\u200B</line-height>",
-                    "desc": "[WhenUse] If this unit has [Laceration], lose 2 [Laceration] (does not drop below 1)",
+                    "desc": "[WhenUse] If this unit has [Laceration], เสีย 2 [Laceration](does not drop below 1)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -565,16 +565,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Slam\u200B</line-height>",
-                    "desc": "If the target has 3+ [Burst] Count, deal +10% more damage",
+                    "name": "<line-height=120%>ฟาด\u200B</line-height>",
+                    "desc": "If the target has 3+ [Burst] Count, ทำ  +10% more ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [DefenseDown]"
                                 }
                             ]
                         }
@@ -593,17 +593,17 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [TakeHpHealReduce]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [TakeHpHealReduce]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 5+ [Burst], inflict 1 [TakeHpHealReduce] as well"
+                                    "desc": "[OnSucceedAttack] If the target has 5+ [Burst], มอบ 1 [TakeHpHealReduce]เป็นwell"
                                 }
                             ]
                         }
@@ -622,20 +622,20 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Burst]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If target has 10+ [Burst], deal +30% damage"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Burst], ทำ  +30% ความเสียหาย"
                                 }
                             ]
                         }
@@ -649,7 +649,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hemostasis\u200B</line-height>",
-                    "desc": "[WhenUse] If this unit has [Laceration], lose 2 [Laceration] (does not drop below 1)",
+                    "desc": "[WhenUse] If this unit has [Laceration], เสีย 2 [Laceration](does not drop below 1)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -668,22 +668,22 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Plain Villainy\u200B</line-height>",
-                    "desc": "[WhenUse] Gain 2 [Breath]",
+                    "desc": "[WhenUse] ได้รับ 2 [Breath]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Paralysis]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Paralysis]"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Deal +20% more damage"
+                                    "desc": "[CriticalOnSucceedAttack] ทำ  +20% more ความเสียหาย"
                                 }
                             ]
                         }
@@ -697,22 +697,22 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Bullying\u200B</line-height>",
-                    "desc": "[WhenUse] Gain 2 [Breath]",
+                    "desc": "[WhenUse] ได้รับ 2 [Breath]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [DefenseDown]"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] If the target has [TrulyWeak], deal +30% more damage"
+                                    "desc": "[CriticalOnSucceedAttack] If the target has [TrulyWeak], ทำ  +30% more ความเสียหาย"
                                 }
                             ]
                         }
@@ -731,7 +731,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                                 }
                             ]
                         }
@@ -745,19 +745,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>\\u200B</line-height>"Krrr...\"",
-                    "desc": "If the target has 5+ [Laceration], deal +10% more damage",
+                    "desc": "If the target has 5+ [Laceration], ทำ  +10% more ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 }
                             ]
                         }
@@ -771,26 +771,26 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Listen, you sod. It's— \\u200B</line-height>"Grrrr.\"",
-                    "desc": "If the target has 5+ [Laceration], เหรียญ Power +1",
+                    "desc": "If the target has 5+ [Laceration], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 }
                             ]
                         }
@@ -804,7 +804,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>...\u200B</line-height>",
-                    "desc": "[WhenUse] Gain 1 [Protection]",
+                    "desc": "[WhenUse] ได้รับ 1 [Protection]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -823,7 +823,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Oi, can we stop now?\u200B</line-height>",
-                    "desc": "[WhenUse] Gain 1 [Enhancement] next turn",
+                    "desc": "[WhenUse] ได้รับ 1 [Enhancement] ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [

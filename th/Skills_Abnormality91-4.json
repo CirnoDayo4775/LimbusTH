@@ -11,21 +11,21 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
                                 }
                             ]
                         }
@@ -44,7 +44,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +4 Rupture Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Burst] +4 ขั้น"
                                 }
                             ]
                         }
@@ -63,14 +63,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Burst] +5 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Burst] +5 ขั้น"
                                 }
                             ]
                         }
@@ -84,15 +84,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Shell Attack!!!\u200B</line-height>",
-                    "desc": "[CantIdentify] \nDeal +20% damage per 5 Rupture Countบนtarget",
+                    "desc": "[CantIdentify] \nทำ +20% ความเสียหาย per 5 [Burst] Countบนtarget",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                                    "desc": "[OnSucceedAttack] มอบ 5 [Burst]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Burst] +5 ขั้น"
                                 }
                             ]
                         }
@@ -106,12 +106,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Crab Rave\u200B</line-height>",
-                    "desc": "[CantIdentify] Damage +20% per 5 Rupture CountบนTarget\n[EndSkill] Summon 3 Crabs if there are less than 5 other Crabsบนfield at the end of the turn (Max 5)",
+                    "desc": "[CantIdentify] ความเสียหาย +20% per 5 [Burst] CountบนTarget\n[EndSkill] Summon 3 Crabs if there are less than 5 other Crabsบนfield at the end of the turn (Max 5)",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                                    "desc": "[OnSucceedAttack] มอบ 5 [Burst]"
                                 }
                             ]
                         }
@@ -125,7 +125,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Foam Armor\u200B</line-height>",
-                    "desc": "[StartBattle] When attacked while this unit has Shield HP, deal 7 damage back to the attacker, and inflict 1 Rupture",
+                    "desc": "[StartBattle] When attacked while this unit has Shield HP, ทำ  7 ความเสียหาย back to the attacker, และ มอบ 1 [Burst]",
                     "coinlist": [
                         {}
                     ]
@@ -138,7 +138,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Foam Armor\u200B</line-height>",
-                    "desc": "[StartBattle] When attacked while this unit has Shield HP, deal 7 damage back to the attacker, and inflict 1 Rupture",
+                    "desc": "[StartBattle] When attacked while this unit has Shield HP, ทำ  7 ความเสียหาย back to the attacker, และ มอบ 1 [Burst]",
                     "coinlist": [
                         {}
                     ]
