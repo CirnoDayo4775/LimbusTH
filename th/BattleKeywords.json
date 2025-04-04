@@ -154,63 +154,63 @@
     },
     {
       "id": "DefenseDown",
-      "name": "Defense Level Down",
-      "desc": "Defense Level decreases based on the effect's Potency for one turn.",
-      "summary": "Defense Level -{0}"
+      "name": "ลดเลเวลป้องกัน",
+      "desc": "เลเวลป้องกันจะถูกลดตามจำนวนดีบัพ เป็นเวลา 1 เทิร์น",
+      "summary": "เลเวลป้องกัน -{0}"
     },
     {
       "id": "Paralysis",
-      "name": "Paralyze",
-      "desc": "Fix the Power of Coins to 0 for one turn, with one Coin per the effect’s Count."
+      "name": "อัมพาต",
+      "desc": "ทำให้แต้มเหรียญกลายเป็น 0 โดย จำนวนดีบัพ 1 ขั้นจะเท่ากับหนึ่งเหรียญ เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "PlusCoinValueDown",
-      "name": "Plus Coin Drop",
-      "desc": "Reduce the power of Plus Coins by the effect’s Count."
+      "name": "ลดแต้มเหรียญบวก",
+      "desc": "ลดพลังของเหรียญบวกตามจำนวนดีบัพโดยส่งผลกับทุกเหรียญในสกิล"
     },
     {
       "id": "MinusCoinValueDown",
-      "name": "Minus Coin Drop",
-      "desc": "Reduce the power of Minus Coins by the effect’s Count."
+      "name": "ลดแต้มเหรียญลบ",
+      "desc": "เพิ่มค่าลบของเหรียญลบตามจำนวนดีบัพโดยส่งผลกับทุกเหรียญในสกิล"
     },
     {
       "id": "TimesCoinValueDown",
-      "name": "Multiply Coin Drop",
-      "desc": "Reduce the power of Multiply Coins by the effect’s Count."
+      "name": "ลดแต้มเหรียญคูณ",
+      "desc": "ลดค่าคูณของเหรียญตามจำนวนดีบัพโดยส่งผลกับทุกเหรียญในสกิล"
     },
     {
       "id": "MoonLight",
-      "name": "Moonlight",
-      "desc": "Resource used by certain skills for additional effects."
+      "name": "แสงจันทร์",
+      "desc": "ทรัพยากรสำหรับบางสกิลเพื่อเอฟเฟคเพิ่มเติม"
     },
     {
       "id": "Anger",
-      "name": "Rage",
-      "desc": "Spent by certain skills. Required for the use of certain skills."
+      "name": "คลั่ง",
+      "desc": "ถูกใช้โดยบางสกิล จำเป็นเพื่อใช้บางสกิล"
     },
     {
       "id": "Inactible",
-      "name": "Immobilize",
-      "desc": "Does not act for the turn."
+      "name": "ขยับไม่ได้",
+      "desc": "ไม่สามารถทำอะไรได้ในเทิร์นนั้น"
     },
     {
       "id": "Combustion",
-      "name": "Burn",
-      "desc": "At the end of the turn, take fixed damage by the effect’s Potency.\nThen, reduce its Count by 1."
+      "name": "เผาไหม้",
+      "desc": "เมื่อจบเทิร์น ได้รับดาเมจคงที่ตามค่าความแรงของเอฟเฟค\nจากนั้นลลดจำนวนครั้งลง 1"
     },
     {
       "id": "Laceration",
-      "name": "Bleed",
-      "desc": "When tossing an attack Coin, take fixed damage by the effect’s Potency.\nThen, reduce its Count by 1."
+      "name": "เลือดไหล",
+      "desc": "เมื่อทอยเหรียญ ได้รับดาเมจคงที่ตามค่าความแรงของเอฟเฟค\nจากนั้นลดจำนวนครั้งลง 1"
     },
     {
       "id": "Vibration",
-      "name": "Tremor",
-      "desc": "When attacked by skills that trigger Tremor Burst, raise the Stagger Threshold by the effect’s Potency.\nAt the end of the turn, reduce the Count by 1."
+      "name": "สะเทือน",
+      "desc": "เมื่อโจมตีโดยสกิลที่เปิดใช้  สั่นสะเทือน, เพิ่มค่าขีดสแต็คเกอร์ตามค่าความแรงของเอฟเฟค\nเมื่อจบเทิร์นลดจำนวนครั้งลง 1"
     },
     {
       "id": "Burst",
-      "name": "Rupture",
+      "name": "ฉีกขาด",
       "desc": "When hit by an attack, take fixed damage by the effect’s Potency.\nThen, reduce its Count by 1."
     },
     {
