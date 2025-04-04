@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "On clash win, raise opponent’s Stagger Threshold"
+          "desc": "[WinDuel], เพิ่มขีด Stagger ของเป้าหมาย"
         }
       ]
     },
@@ -16,7 +16,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Evade\u200B</line-height>",
-          "desc": "On clash win, lower user’s Stagger Threshold"
+          "desc": "[WinDuel], ลดขีด Stagger ของผู้ใช้"
         }
       ]
     },
@@ -26,7 +26,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Counter\u200B</line-height>",
-          "desc": "Launched against an unopposed attack"
+          "desc": "จะใช้เมื่อถูกโจมตีฝ่ายเดียวจากอีกฝ่าย"
         }
       ]
     },
@@ -42,7 +42,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 [Sinking]"
                 }
               ]
             }
@@ -57,7 +57,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 [Sinking]"
                 }
               ]
             }
@@ -72,7 +72,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 }
               ]
             }
@@ -93,7 +93,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +1 ชั้น"
                 }
               ]
             }
@@ -109,7 +109,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking; Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]; มอบ [Sinking] +1 ชั้น"
                 }
               ]
             }
@@ -125,7 +125,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking; Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]; มอบ [Sinking] +1 ชั้น"
                 }
               ]
             }
@@ -147,7 +147,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target’s SP is below 0, inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] If target’s SP is below 0, มอบ 1 Fragile next turn"
                 }
               ]
             }
@@ -162,21 +162,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target’s SP is below 0, inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] If target’s SP is below 0, มอบ 1 Fragile next turn"
                 }
               ]
             }
@@ -209,7 +209,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             }
@@ -224,7 +224,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Rupture"
                 }
               ]
             }
@@ -260,7 +260,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Pierce Fragility next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Pierce Fragility next turn"
                 }
               ]
             }
@@ -291,10 +291,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Pierce Fragility next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Pierce Fragility next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 }
               ]
             }
@@ -308,7 +308,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Riposte\u200B</line-height>",
-          "desc": "[WinDuel] Inflict 3 Paralyze next turn",
+          "desc": "[WinDuel] มอบ 3 Paralyze next turn",
           "keywords": [
             "Paralysis"
           ],
@@ -332,7 +332,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Riposte\u200B</line-height>",
-          "desc": "[WinDuel] Inflict 3 Paralyze next turn",
+          "desc": "[WinDuel] มอบ 3 Paralyze next turn",
           "keywords": [
             "Paralysis"
           ],
@@ -347,7 +347,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Fragile next turn"
                 }
               ]
             }
@@ -356,7 +356,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Riposte\u200B</line-height>",
-          "desc": "[WinDuel] Inflict 3 Paralyze next turn\n[WinDuel] Inflict 1 Rupture Count",
+          "desc": "[WinDuel] มอบ 3 Paralyze next turn\n[WinDuel] มอบ 1 Rupture Count",
           "keywords": [
             "Paralysis"
           ],
@@ -371,10 +371,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Fragile next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 }
               ]
             }
@@ -572,7 +572,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Paralyze"
                 }
               ]
             }
@@ -587,7 +587,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] มอบ 1 Paralyze"
                 }
               ]
             }
@@ -608,7 +608,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Offense Level Down next turn"
                 }
               ]
             }
@@ -624,7 +624,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 Offense Level Down next turn"
                 }
               ]
             }
@@ -644,14 +644,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Attack Power Down next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Attack Power Down next turn"
                 }
               ]
             }
@@ -731,7 +731,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to inflict 4 Bind next turn"
+                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to มอบ 4 Bind next turn"
                 }
               ]
             }
@@ -746,7 +746,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to inflict 4 Bind next turn"
+                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to มอบ 4 Bind next turn"
                 }
               ]
             }
@@ -767,7 +767,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to inflict 4 Bind next turn"
+                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to มอบ 4 Bind next turn"
                 }
               ]
             }
@@ -788,7 +788,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Charge Count to inflict 2 Attack Power Down and 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Spend 5 Charge Count to มอบ 2 Attack Power Down and 3 Paralyze next turn"
                 }
               ]
             }
@@ -804,7 +804,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Charge Count to inflict 2 Attack Power Down and 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Spend 5 Charge Count to มอบ 2 Attack Power Down and 3 Paralyze next turn"
                 }
               ]
             }
@@ -836,7 +836,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             }
@@ -850,7 +850,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 }
               ]
             }
@@ -864,7 +864,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 }
               ]
             }
@@ -976,7 +976,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 5 Rupture"
                 }
               ]
             }
@@ -1045,7 +1045,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             }
@@ -1074,21 +1074,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed count"
+                  "desc": "[OnSucceedAttack] มอบ +2 Bleed count"
                 }
               ]
             }
@@ -1120,7 +1120,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             }
@@ -1134,7 +1134,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
@@ -1151,7 +1151,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Gain +4 Charge Count"
@@ -1175,7 +1175,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Fragile"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Fragile"
                 }
               ]
             }
@@ -1203,7 +1203,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Fragile"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Fragile"
                 }
               ]
             }
@@ -1231,7 +1231,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Fragile"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Fragile"
                 }
               ]
             }
@@ -1272,7 +1272,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 5 Rupture"
                 }
               ]
             }
@@ -1577,7 +1577,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Rupture"
                 }
               ]
             }
@@ -1591,7 +1591,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 }
               ]
             }
@@ -1610,7 +1610,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Defense Level Down"
                 }
               ]
             }
@@ -1624,7 +1624,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down"
                 }
               ]
             }
@@ -1638,12 +1638,12 @@
         {
           "level": 3,
           "name": "<line-height=120%>Swash\u200B</line-height>",
-          "desc": "[WinDuel] This skill inflicts 2 additional Slash Fragility",
+          "desc": "[WinDuel] This skill มอบs 2 additional Slash Fragility",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Slash Fragility next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 Slash Fragility next turn"
                 }
               ]
             },
@@ -1670,7 +1670,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Slash Fragility"
+                  "desc": "[OnSucceedAttack] มอบ 1 Slash Fragility"
                 }
               ]
             }
@@ -1689,7 +1689,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Paralyze"
                 }
               ]
             }
@@ -1703,7 +1703,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] มอบ 3 Paralyze"
                 }
               ]
             }
@@ -1717,7 +1717,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] มอบ 3 Paralyze"
                 }
               ]
             }
@@ -1736,14 +1736,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] มอบ +1 Bleed Count"
                 }
               ]
             }
@@ -1757,17 +1757,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Damage Down"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Damage Down"
                 }
               ]
             }
@@ -1781,17 +1781,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count "
+                  "desc": "[OnSucceedAttack] มอบ +3 Bleed Count "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Damage Down"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Damage Down"
                 }
               ]
             }
@@ -1810,17 +1810,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ +3 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 5 Offense Level Down"
                 }
               ]
             }
@@ -1834,17 +1834,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ +3 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 5 Offense Level Down"
                 }
               ]
             }
@@ -1876,14 +1876,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 }
               ]
             }
@@ -1897,14 +1897,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 1 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 1 Tremor"
                 }
               ]
             }
@@ -1959,7 +1959,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] มอบ +2 Tremor Count"
                 }
               ]
             }
@@ -1973,28 +1973,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 Tremor Count"
                 }
               ]
             }
@@ -2026,14 +2026,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Burn"
                 }
               ]
             }
@@ -2047,14 +2047,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             }
@@ -2068,14 +2068,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Burn"
                 }
               ]
             }
@@ -2094,14 +2094,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Burn"
                 }
               ]
             }
@@ -2115,17 +2115,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 2 Burn on 2 random enemies"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             }
@@ -2139,17 +2139,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 3 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 3 Burn on 2 random enemies"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             }
@@ -2168,7 +2168,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 Burn"
                 }
               ]
             },
@@ -2182,10 +2182,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Burn Count"
+                  "desc": "[OnSucceedAttack] มอบ +3 Burn Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 3 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 3 Burn on 2 random enemies"
                 }
               ]
             }
@@ -2199,7 +2199,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 Burn"
                 }
               ]
             },
@@ -2213,10 +2213,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Burn Count"
+                  "desc": "[OnSucceedAttack] มอบ +3 Burn Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 3 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 3 Burn on 2 random enemies"
                 }
               ]
             }
@@ -2295,21 +2295,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 }
               ]
             }
@@ -2323,24 +2323,24 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to inflict 2 Slash Fragility"
+                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to มอบ 2 Slash Fragility"
                 }
               ]
             }
@@ -2354,24 +2354,24 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to inflict 2 Slash Fragility"
+                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to มอบ 2 Slash Fragility"
                 }
               ]
             }
@@ -2390,28 +2390,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
                 }
               ]
             }
@@ -2425,28 +2425,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to inflict 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
                 }
               ]
             }
@@ -2486,7 +2486,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 [Sinking]"
                 }
               ]
             }
@@ -2500,7 +2500,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 }
               ]
             }
@@ -2519,14 +2519,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Rupture"
                 }
               ]
             }
@@ -2540,14 +2540,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 }
               ]
             }
@@ -2561,14 +2561,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 }
               ]
             }
@@ -2588,7 +2588,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Attack Power Down"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Attack Power Down"
                 }
               ]
             }
@@ -2603,13 +2603,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Attack Power Down"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Attack Power Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 }
               ]
             }
@@ -2642,7 +2642,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             }
@@ -2657,7 +2657,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             }
@@ -2672,7 +2672,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 3 Bleed"
                 }
               ]
             }
@@ -2692,14 +2692,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             }
@@ -2714,14 +2714,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             }
@@ -2736,14 +2736,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             }
@@ -2757,26 +2757,26 @@
         {
           "level": 3,
           "name": "<line-height=120%>Cloudburst\u200B</line-height>",
-          "desc": "[StartBattle] This skill inflicts 1 additional Bleed and Paralyze",
+          "desc": "[StartBattle] This skill มอบs 1 additional Bleed and Paralyze",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Paralyze"
+                  "desc": "[OnSucceedAttack] มอบ 5 Paralyze"
                 }
               ]
             }
@@ -2808,7 +2808,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             }
@@ -2822,7 +2822,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 4 Bleed"
                 }
               ]
             }
@@ -2993,7 +2993,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 Tremor"
                 }
               ]
             }
@@ -3007,7 +3007,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 3 Tremor"
                 }
               ]
             }
@@ -3054,7 +3054,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Tremor"
                 }
               ]
             }
@@ -3302,21 +3302,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             },
@@ -3331,21 +3331,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             },
@@ -3365,35 +3365,35 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 2 Fragile"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 2 Fragile"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 2 Fragile"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 2 Fragile"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 Rupture"
                 }
               ]
             }
@@ -3433,7 +3433,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] มอบ +1 Tremor Count"
                 }
               ]
             }
@@ -3447,7 +3447,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Tremor Count"
                 }
               ]
             }
@@ -3461,7 +3461,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Slide\u200B</line-height>",
-          "desc": "[WinDuel] Inflict 1 Defense Power Down",
+          "desc": "[WinDuel] มอบ 1 Defense Power Down",
           "coinlist": [
             {}
           ]
@@ -3469,7 +3469,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Slide\u200B</line-height>",
-          "desc": "[WinDuel] Inflict 3 Defense Power Down",
+          "desc": "[WinDuel] มอบ 3 Defense Power Down",
           "coinlist": [
             {}
           ]
@@ -3477,12 +3477,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Slide\u200B</line-height>",
-          "desc": "[WinDuel] Inflict 3 Defense Power Down",
+          "desc": "[WinDuel] มอบ 3 Defense Power Down",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 3 Tremor"
                 }
               ]
             }
@@ -3501,7 +3501,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst; Inflict 1 Blunt Fragility"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst; มอบ 1 Blunt Fragility"
                 }
               ]
             }
@@ -3533,14 +3533,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 [Sinking]"
                 }
               ]
             }
@@ -3554,7 +3554,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
@@ -3564,7 +3564,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
@@ -3581,7 +3581,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain +2 Charge Count"
@@ -3591,7 +3591,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain +2 Charge Count"
@@ -3613,7 +3613,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +3 ชั้น"
                 }
               ]
             }
@@ -3627,7 +3627,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +3 ชั้น"
                 }
               ]
             }
@@ -3641,7 +3641,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ชั้น"
                 }
               ]
             }
@@ -3660,40 +3660,40 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 40% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีด Stagger by 40% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีด Stagger by 30% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีด Stagger by 20% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีด Stagger by 10% of damage dealt"
                 }
               ]
             }
@@ -3707,40 +3707,40 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 40% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีด Stagger by 40% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีด Stagger by 30% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีด Stagger by 20% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีด Stagger by 10% of damage dealt"
                 }
               ]
             }
@@ -4001,7 +4001,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Paralyze"
                 }
               ]
             }
@@ -4015,7 +4015,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] มอบ 3 Paralyze"
                 }
               ]
             }
@@ -4029,7 +4029,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] มอบ 3 Paralyze"
                 }
               ]
             }
@@ -4048,21 +4048,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Attack Power Down"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Attack Power Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 4 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 4 Tremor"
                 }
               ]
             }
@@ -4076,21 +4076,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Attack Power Down"
+                  "desc": "[OnSucceedAttack] มอบ 1 Attack Power Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 8 Tremor; Inflict +2 Tremor Count"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 8 Tremor; มอบ +2 Tremor Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 8 Tremor; Inflict +2 Tremor Count"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 8 Tremor; มอบ +2 Tremor Count"
                 }
               ]
             }
@@ -4116,21 +4116,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 4 Rupture; Inflict +2 Rupture Count"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 4 Rupture; มอบ +2 Rupture Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 4 Rupture; Inflict +2 Rupture Count"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 4 Rupture; มอบ +2 Rupture Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 5 Fragile"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 5 Fragile"
                 }
               ]
             }
@@ -4151,21 +4151,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 4 Rupture; Inflict +2 Rupture Count"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 4 Rupture; มอบ +2 Rupture Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 4 Rupture; Inflict +2 Rupture Count"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 4 Rupture; มอบ +2 Rupture Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] Inflict 5 Fragile"
+                  "desc": "Spend 1 Ammo\n[OnSucceedAttack] มอบ 5 Fragile"
                 }
               ]
             }
@@ -4205,7 +4205,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             }
@@ -4219,7 +4219,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             }
@@ -4238,14 +4238,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             }
@@ -4259,14 +4259,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             }
@@ -4280,17 +4280,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] มอบ +1 Bleed Count"
                 }
               ]
             }
@@ -4326,21 +4326,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Bleed"
                 }
               ]
             },
@@ -4429,7 +4429,7 @@
                   "desc": "[OnSucceedAttackHead] Gain 1 Poise"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             },
@@ -4439,7 +4439,7 @@
                   "desc": "[OnSucceedAttackHead] Gain 2 Poise"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             }
@@ -4456,7 +4456,7 @@
                   "desc": "[OnSucceedAttack] Gain 2 Poise"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             },
@@ -4466,7 +4466,7 @@
                   "desc": "[OnSucceedAttack] Gain 3 Poise"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 3 Bleed"
                 }
               ]
             }
@@ -4483,7 +4483,7 @@
                   "desc": "[OnSucceedAttack] Gain 2 Poise"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             },
@@ -4493,7 +4493,7 @@
                   "desc": "[OnSucceedAttack] Gain 3 Poise"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 3 Bleed"
                 }
               ]
             }
@@ -4512,7 +4512,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 10 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] มอบ 10 Bleed"
                 }
               ]
             }
@@ -4526,7 +4526,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 10 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] มอบ 10 Bleed"
                 }
               ]
             }
@@ -4566,7 +4566,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 10 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] มอบ 10 Bleed"
                 }
               ]
             }
@@ -4580,7 +4580,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 10 Bleed"
+                  "desc": "[CriticalOnSucceedAttack] มอบ 10 Bleed"
                 }
               ]
             }
@@ -4599,7 +4599,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Paralyze"
                 }
               ]
             }
@@ -4613,7 +4613,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 Paralyze"
                 }
               ]
             }
@@ -4627,7 +4627,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 Paralyze"
                 }
               ]
             }
@@ -4647,7 +4647,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Power Down"
+                  "desc": "[OnSucceedAttack] มอบ 2 Defense Power Down"
                 }
               ]
             }
@@ -4662,7 +4662,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Defense Power Down"
+                  "desc": "[OnSucceedAttack] มอบ 4 Defense Power Down"
                 }
               ]
             }
@@ -4677,7 +4677,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Defense Power Down"
+                  "desc": "[OnSucceedAttack] มอบ 4 Defense Power Down"
                 }
               ]
             }
@@ -4696,17 +4696,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Defense Power Down"
+                  "desc": "[OnSucceedAttackHead] มอบ 4 Defense Power Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 4 Defense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 Paralyze"
                 }
               ]
             }
@@ -4720,17 +4720,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Defense Power Down"
+                  "desc": "[OnSucceedAttackHead] มอบ 4 Defense Power Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 4 Defense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 Paralyze"
                 }
               ]
             }
@@ -4762,7 +4762,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Rupture"
                 }
               ]
             }
@@ -4776,7 +4776,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 }
               ]
             }
@@ -4830,21 +4830,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             }
@@ -5015,10 +5015,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Paralyze"
+                  "desc": "[OnSucceedAttack] มอบ 5 Paralyze"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 3 Bleed"
                 }
               ]
             }
@@ -5032,10 +5032,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Paralyze"
+                  "desc": "[OnSucceedAttack] มอบ 5 Paralyze"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 3 Bleed"
                 }
               ]
             }
@@ -5075,7 +5075,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Tremor"
                 }
               ]
             }
@@ -5089,7 +5089,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor"
                 }
               ]
             }
@@ -5103,7 +5103,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor"
                 }
               ]
             }
@@ -5123,10 +5123,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Damage Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Damage Down next turn"
                 }
               ]
             }
@@ -5141,10 +5141,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 6 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Damage Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Damage Down next turn"
                 }
               ]
             }
@@ -5153,16 +5153,16 @@
         {
           "level": 4,
           "name": "<line-height=120%>Suppress\u200B</line-height>",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\n[DefeatDuel] Inflict 6 Tremor",
+          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\n[DefeatDuel] มอบ 6 Tremor",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 6 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Damage Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Damage Down next turn"
                 }
               ]
             }
@@ -5184,7 +5184,7 @@
                   "desc": "[OnSucceedAttack] Trigger Tremor Burst"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Blunt Fragility"
+                  "desc": "[OnSucceedAttack] มอบ 2 Blunt Fragility"
                 }
               ]
             }
@@ -5204,7 +5204,7 @@
                   "desc": "[OnSucceedAttack] If target has 5+ Tremor upon [VibrationExplosion], gain 2 Protection next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Blunt Fragility"
+                  "desc": "[OnSucceedAttack] มอบ 2 Blunt Fragility"
                 }
               ]
             }
@@ -5244,7 +5244,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 [Sinking]"
                 }
               ]
             },
@@ -5259,7 +5259,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttackHead] มอบ 4 [Sinking]"
                 }
               ]
             },
@@ -5269,12 +5269,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Baile y Rola\u200B</line-height>",
-          "desc": "If target has 4+ [Sinking], Coin Power +1",
+          "desc": "If target has 4+ [[Sinking]], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 }
               ]
             },
@@ -5301,14 +5301,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 }
               ]
             }
@@ -5332,17 +5332,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +1 ชั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 }
               ]
             }
@@ -5351,7 +5351,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Danza de Pasión\u200B</line-height>",
-          "desc": "If target has 6+ [Sinking], Coin Power +2",
+          "desc": "If target has 6+ [[Sinking]], Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -5366,17 +5366,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 }
               ]
             }
@@ -5395,7 +5395,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Lower user’s Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackHead] ลดขีด Stagger ของผู้ใช้ by 50% of damage dealt"
                 }
               ]
             }
@@ -5409,7 +5409,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ by 50% of damage dealt"
                 }
               ]
             }
@@ -5450,7 +5450,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Rupture"
                 }
               ]
             },
@@ -5466,7 +5466,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 }
               ]
             },
@@ -5482,14 +5482,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             }
@@ -5563,7 +5563,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Rupture Count"
                 }
               ]
             }
@@ -5693,7 +5693,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Raise first Stagger Threshold by 20% of damage dealt"
+                  "desc": "[CriticalOnSucceedAttack] เพิ่มfirstขีด Stagger by 20% of damage dealt"
                 }
               ]
             }
@@ -5708,7 +5708,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Raise first Stagger Threshold by 20% of damage dealt"
+                  "desc": "[CriticalOnSucceedAttack] เพิ่มfirstขีด Stagger by 20% of damage dealt"
                 }
               ]
             }
@@ -5771,7 +5771,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Order\u200B</line-height>",
-          "desc": "If target has 5+ [Sinking], Coin Power +2",
+          "desc": "If target has 5+ [[Sinking]], Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -5842,10 +5842,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down"
+                  "desc": "[OnSucceedAttack] มอบ 2 Attack Power Down"
                 }
               ]
             }
@@ -5859,13 +5859,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down"
+                  "desc": "[OnSucceedAttack] มอบ 2 Attack Power Down"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttackHead] มอบ 4 [Sinking]"
                 }
               ]
             }
@@ -5897,7 +5897,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Rupture"
                 }
               ]
             }
@@ -5911,7 +5911,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 4 Rupture"
                 }
               ]
             }
@@ -5930,7 +5930,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Rupture Count"
+                  "desc": "[OnSucceedAttackHead] มอบ +1 Rupture Count"
                 }
               ]
             }
@@ -5944,10 +5944,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Rupture Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Pierce Fragility"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Pierce Fragility"
                 }
               ]
             }
@@ -5961,13 +5961,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Rupture Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Pierce Fragility"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Pierce Fragility"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Rupture"
                 }
               ]
             }
@@ -6028,14 +6028,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Burn"
                 }
               ]
             }
@@ -6049,14 +6049,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             }
@@ -6070,20 +6070,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Burn"
                 }
               ]
             }
@@ -6104,7 +6104,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 3 Burn"
                 }
               ]
             }
@@ -6118,21 +6118,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 3 Burn"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has 6+ [Combustion], gain 1 Attack Power Up next turn"
@@ -6149,21 +6149,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 3 Burn"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has 6+ [Combustion], gain 1 Attack Power Up next turn"
@@ -6185,28 +6185,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 3 Burn"
                 }
               ]
             }
@@ -6220,28 +6220,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 3 Burn"
                 }
               ]
             }
@@ -6323,7 +6323,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 5 Rupture"
                 }
               ]
             }
@@ -6337,7 +6337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 5 Rupture"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Heal by 50% of damage dealt"
@@ -6354,7 +6354,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 5 Rupture"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal by 50% of damage dealt"
@@ -6494,14 +6494,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user’s Stagger Threshold by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ by 30% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user’s Stagger Threshold by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ by 30% of damage dealt"
                 }
               ]
             }
@@ -6515,14 +6515,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user’s Stagger Threshold by 60% of damage dealt"
+                  "desc": "[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ by 60% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user’s Stagger Threshold by 60% of damage dealt"
+                  "desc": "[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ by 60% of damage dealt"
                 }
               ]
             }
@@ -6536,14 +6536,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user’s Stagger Threshold by 60% of damage dealt"
+                  "desc": "[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ by 60% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user’s Stagger Threshold by 60% of damage dealt"
+                  "desc": "[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ by 60% of damage dealt"
                 }
               ]
             }
@@ -6562,15 +6562,15 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Nails",
-                  "summary": "[OnSucceedAttack] Inflict 3 Nails"
+                  "desc": "[OnSucceedAttack] มอบ 3 Nails",
+                  "summary": "[OnSucceedAttack] มอบ 3 Nails"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 Bind next turn"
                 }
               ]
             }
@@ -6584,18 +6584,18 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Nails",
-                  "summary": "[OnSucceedAttack] Inflict 3 Nails"
+                  "desc": "[OnSucceedAttack] มอบ 3 Nails",
+                  "summary": "[OnSucceedAttack] มอบ 3 Nails"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 Bind next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Nails, inflict 2 Bind and 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ Nails, มอบ 2 Bind and 1 Attack Power Down next turn"
                 }
               ]
             }
@@ -6609,17 +6609,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Nails"
+                  "desc": "[OnSucceedAttack] มอบ 3 Nails"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 Bind next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Nails, inflict 2 Bind and 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ Nails, มอบ 2 Bind and 2 Attack Power Down next turn"
                 }
               ]
             }
@@ -6638,7 +6638,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Nails next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Nails next turn"
                 }
               ]
             },
@@ -6659,7 +6659,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Nails next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Nails next turn"
                 }
               ]
             },
@@ -6698,14 +6698,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Bleed"
                 }
               ]
             }
@@ -6719,14 +6719,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             }
@@ -6740,20 +6740,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Nails, inflict 1 Nails"
+                  "desc": "[OnSucceedAttack] If target has Nails, มอบ 1 Nails"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Nails, inflict 1 Nails"
+                  "desc": "[OnSucceedAttack] If target has Nails, มอบ 1 Nails"
                 }
               ]
             }
@@ -6772,15 +6772,15 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Nails next turn",
-                  "summary": "[OnSucceedAttack] Inflict 1 Nails next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Nails next turn",
+                  "summary": "[OnSucceedAttack] มอบ 1 Nails next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Paralyze next turn"
                 }
               ]
             }
@@ -6794,15 +6794,15 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Nails next turn",
-                  "summary": "[OnSucceedAttack] Inflict 1 Nails next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Nails next turn",
+                  "summary": "[OnSucceedAttack] มอบ 1 Nails next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Paralyze next turn"
                 }
               ]
             }
@@ -6823,14 +6823,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             }
@@ -6846,14 +6846,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             }
@@ -6880,7 +6880,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Nails"
+                  "desc": "[OnSucceedAttack] มอบ 1 Nails"
                 }
               ]
             }
@@ -6899,14 +6899,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Nails"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Nails"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             }
@@ -6920,14 +6920,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Nails"
+                  "desc": "[OnSucceedAttack] มอบ 1 Nails"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             }
@@ -6947,14 +6947,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Nails"
+                  "desc": "[OnSucceedAttack] มอบ 3 Nails"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict Gaze next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ Gaze next turn"
                 }
               ]
             }
@@ -6969,17 +6969,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Nails"
+                  "desc": "[OnSucceedAttack] มอบ 3 Nails"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Paralyze next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gaze next turn"
+                  "desc": "[OnSucceedAttack] มอบ Gaze next turn"
                 }
               ]
             }
@@ -6993,24 +6993,24 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Nails"
+                  "desc": "[OnSucceedAttack] มอบ 2 Nails"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Nails"
+                  "desc": "[OnSucceedAttack] มอบ 3 Nails"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Paralyze next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gaze next turn"
+                  "desc": "[OnSucceedAttack] มอบ Gaze next turn"
                 }
               ]
             }
@@ -7029,14 +7029,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Nails"
+                  "desc": "[OnSucceedAttack] มอบ 2 Nails"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Nails"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Nails"
                 }
               ]
             },
@@ -7057,14 +7057,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Nails"
+                  "desc": "[OnSucceedAttack] มอบ 2 Nails"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Nails"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Nails"
                 }
               ]
             },
@@ -7103,14 +7103,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackTail] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Bleed"
                 }
               ]
             }
@@ -7124,17 +7124,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Nails next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Nails next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackTail] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             }
@@ -7148,20 +7148,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Nails next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Nails next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackTail] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Nails"
+                  "desc": "[OnSucceedAttack] มอบ 1 Nails"
                 }
               ]
             }
@@ -7180,7 +7180,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Plus Coin Drop next turn"
                 }
               ]
             }
@@ -7194,7 +7194,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Plus Coin Drop next turn"
                 }
               ]
             }
@@ -7269,7 +7269,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Paralyze next turn"
                 }
               ]
             }
@@ -7283,7 +7283,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Paralyze next turn"
                 }
               ]
             }
@@ -7297,10 +7297,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Paralyze next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 }
               ]
             }
@@ -7319,20 +7319,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Rupture Count"
+                  "desc": "[OnSucceedAttackHead] มอบ +1 Rupture Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Defense Level Down next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Rupture Count"
+                  "desc": "[OnSucceedAttackHead] มอบ +1 Rupture Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Defense Level Down next turn"
                 }
               ]
             }
@@ -7346,20 +7346,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Rupture Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Rupture Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down next turn"
                 }
               ]
             }
@@ -7373,20 +7373,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Rupture Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 Rupture Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down next turn"
                 }
               ]
             }
@@ -7405,7 +7405,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Offense Level Down next turn"
                 }
               ]
             },
@@ -7416,7 +7416,7 @@
                   "desc": "[OnSucceedAttack] Deal bonus Slash damage by 15% of damage dealt"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Weakness Analyzed next turn"
+                  "desc": "[OnSucceedAttack] มอบ Weakness Analyzed next turn"
                 }
               ]
             }
@@ -7430,7 +7430,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Offense Level Down next turn"
                 }
               ]
             },
@@ -7441,7 +7441,7 @@
                   "desc": "[OnSucceedAttack] Deal bonus Slash damage by 15% of damage dealt"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Weakness Analyzed next turn"
+                  "desc": "[OnSucceedAttack] มอบ Weakness Analyzed next turn"
                 }
               ]
             }
@@ -7474,7 +7474,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             }
@@ -7489,7 +7489,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             }
@@ -7508,14 +7508,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict 1 more"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Combustion]; if target already has [Combustion], มอบ 1 more"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Combustion] Count"
                 }
               ]
             }
@@ -7529,14 +7529,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict 1 more"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Combustion]; if target already has [Combustion], มอบ 1 more"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count; at 30+ SP, inflict 1 more; at 45+ SP, inflict 2 more"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Combustion] Count; at 30+ SP, มอบ 1 more; at 45+ SP, มอบ 2 more"
                 }
               ]
             }
@@ -7550,14 +7550,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict 1 more"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Combustion]; if target already has [Combustion], มอบ 1 more"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count; at 30+ SP, inflict 1 more; at 45+ SP, inflict 2 more"
+                  "desc": "[OnSucceedAttack] มอบ +1 [Combustion] Count; at 30+ SP, มอบ 1 more; at 45+ SP, มอบ 2 more"
                 }
               ]
             }
@@ -7576,7 +7576,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Combustion]; if target already has [Combustion], มอบ +1 [Combustion] Count"
                 }
               ]
             },
@@ -7586,7 +7586,7 @@
                   "desc": "[OnSucceedAttackHead] Heal 6 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, raise Stagger Threshold by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, เพิ่มขีด Stagger by 30% of damage dealt"
                 }
               ]
             }
@@ -7600,7 +7600,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Combustion]; if target already has [Combustion], มอบ +1 [Combustion] Count"
                 }
               ]
             },
@@ -7610,7 +7610,7 @@
                   "desc": "[OnSucceedAttackHead] Heal 6 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, raise Stagger Threshold by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, เพิ่มขีด Stagger by 30% of damage dealt"
                 }
               ]
             }
@@ -7642,7 +7642,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] มอบ +1 Bleed Count"
                 }
               ]
             },
@@ -7663,7 +7663,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Bleed Count"
                 }
               ]
             },
@@ -7684,7 +7684,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Bleed Count"
                 }
               ]
             },
@@ -7710,21 +7710,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bind next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed or Paralyze, inflict 1 HP Healing Down next turn"
+                  "desc": "[OnSucceedAttack] If target has Bleed or Paralyze, มอบ 1 HP Healing Down next turn"
                 }
               ]
             }
@@ -7738,21 +7738,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bind next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed or Paralyze, inflict 3 HP Healing Down next turn"
+                  "desc": "[OnSucceedAttack] If target has Bleed or Paralyze, มอบ 3 HP Healing Down next turn"
                 }
               ]
             }
@@ -7766,21 +7766,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bind next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed or Paralyze, inflict 4 HP Healing Down next turn"
+                  "desc": "[OnSucceedAttack] If target has Bleed or Paralyze, มอบ 4 HP Healing Down next turn"
                 }
               ]
             }
@@ -7846,14 +7846,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Paralyze"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Bleed"
                 }
               ]
             }
@@ -7867,14 +7867,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze; if target has [Laceration], inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Paralyze; if target has [Laceration], มอบ 1 Paralyze next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             }
@@ -7888,14 +7888,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze; if target has [Laceration], inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Paralyze; if target has [Laceration], มอบ 1 Paralyze next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             }
@@ -7914,7 +7914,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count; Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ +1 Bleed Count; มอบ 1 Bind next turn"
                 }
               ]
             }
@@ -7928,7 +7928,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count; Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ +2 Bleed Count; มอบ 2 Bind next turn"
                 }
               ]
             }
@@ -7942,7 +7942,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count; Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ +2 Bleed Count; มอบ 2 Bind next turn"
                 }
               ]
             }
@@ -7961,21 +7961,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] มอบ 1 Paralyze"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] มอบ 1 Paralyze"
                 }
               ]
             },
@@ -7996,21 +7996,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bleed"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] มอบ 1 Paralyze"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] มอบ 1 Paralyze"
                 }
               ]
             },
@@ -8050,7 +8050,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttackTail] มอบ 2 Burn"
                 }
               ]
             }
@@ -8068,7 +8068,7 @@
                   "desc": "[OnSucceedAttackTail] Gain 1 Fanatic next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 2 Burn"
                 }
               ]
             }
@@ -8086,7 +8086,7 @@
                   "desc": "[OnSucceedAttackTail] Gain 1 Fanatic next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 3 Burn"
                 }
               ]
             }
@@ -8106,21 +8106,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackTail] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackTail] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             }
@@ -8135,30 +8135,30 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttackTail] มอบ 2 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Burn"
+                  "desc": "[OnSucceedAttackTail] มอบ 2 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttackTail] มอบ +1 Burn Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] มอบ 2 Bleed"
                 }
               ]
             }
@@ -8178,14 +8178,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีด Stagger by 50% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Bleed, inflict 5 Burn"
+                  "desc": "[OnSucceedAttack] If target has 5+ Bleed, มอบ 5 Burn"
                 },
                 {
                   "desc": "[EnemyKill] Gain 1 Blunt Power Up next turn"
@@ -8203,14 +8203,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีด Stagger by 50% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Bleed, inflict 7 Burn"
+                  "desc": "[OnSucceedAttack] If target has 5+ Bleed, มอบ 7 Burn"
                 },
                 {
                   "desc": "[EnemyKill] Gain 1 Blunt Power Up next turn"
@@ -8245,17 +8245,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Nails"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Nails"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 }
               ]
             }
@@ -8269,17 +8269,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Nails"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Nails"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 1 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 1 Tremor"
                 }
               ]
             }
@@ -8293,17 +8293,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Nails"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Nails"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 1 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor"
                 }
               ]
             }
@@ -8375,30 +8375,30 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Nails"
+                  "desc": "[OnSucceedAttack] มอบ 1 Nails"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Nails"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Nails"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Tremor Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target has 5+ Nails, inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttackHead] If target has 5+ Nails, มอบ 1 Attack Power Down next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] If target has 5+ Nails, inflict 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] If target has 5+ Nails, มอบ 2 Paralyze next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Tremor Count"
                 }
               ]
             }
@@ -8412,30 +8412,30 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Nails"
+                  "desc": "[OnSucceedAttack] มอบ 2 Nails"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Nails"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Nails"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Tremor Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target has 5+ Nails, inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttackHead] If target has 5+ Nails, มอบ 1 Attack Power Down next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] If target has 5+ Nails, inflict 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] If target has 5+ Nails, มอบ 2 Paralyze next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Tremor Count"
                 }
               ]
             }
@@ -8467,7 +8467,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain +4 Charge Count"
@@ -8477,7 +8477,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] มอบ +1 Tremor Count"
                 }
               ]
             }
@@ -8491,7 +8491,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain +4 Charge Count"
@@ -8501,7 +8501,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Tremor Count"
                 }
               ]
             }
@@ -8515,7 +8515,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain +4 Charge Count"
@@ -8525,7 +8525,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Tremor Count"
                 }
               ]
             }
@@ -8544,15 +8544,15 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Tremor Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor\nAt 3+ Charge Count, reuse this Coin if it lands Heads (Up to 2 times)\nIf the Coin is reused twice, inflict Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst.\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor\nAt 3+ Charge Count, reuse this Coin if it lands Heads (Up to 2 times)\nIf the Coin is reused twice, มอบ Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
+                  "summary": "[OnSucceedAttack] Trigger Tremor Burst.\nReuse Coin if conditions are met; มอบ +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
                 }
               ]
             }
@@ -8566,15 +8566,15 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Tremor Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor\nAt 3+ Charge Count, reuse this Coin if it lands Heads (Up to 2 times)\nInflict 2 more Tremor each time the Coin is reused\nIf the Coin is reused twice, inflict Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst.\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor\nAt 3+ Charge Count, reuse this Coin if it lands Heads (Up to 2 times)\nมอบ 2 more Tremor each time the Coin is reused\nIf the Coin is reused twice, มอบ Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
+                  "summary": "[OnSucceedAttack] Trigger Tremor Burst.\nReuse Coin if conditions are met; มอบ +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
                 }
               ]
             }
@@ -8588,15 +8588,15 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Tremor Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor\nAt 3+ Charge Count, reuse this Coin if it lands Heads (Up to 2 times)\nInflict 2 more Tremor each time the Coin is reused\nIf the Coin is reused twice, inflict Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst\nReuse Coin if conditions are met; Inflict +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor\nAt 3+ Charge Count, reuse this Coin if it lands Heads (Up to 2 times)\nมอบ 2 more Tremor each time the Coin is reused\nIf the Coin is reused twice, มอบ Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
+                  "summary": "[OnSucceedAttack] Trigger Tremor Burst\nReuse Coin if conditions are met; มอบ +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
                 }
               ]
             }
@@ -8615,14 +8615,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 Tremor Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger Tremor Burst.\nAfter Tremor Burst, reduce Tremor Count by 1"
@@ -8667,7 +8667,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor"
                 }
               ]
             }
@@ -8681,10 +8681,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor"
                 }
               ]
             }
@@ -8698,10 +8698,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor"
                 }
               ]
             }
@@ -8720,14 +8720,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 3 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], มอบ 1 Attack Power Down next turn"
                 }
               ]
             }
@@ -8741,17 +8741,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 3 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], มอบ 1 Attack Power Down next turn"
                 }
               ]
             }
@@ -8765,17 +8765,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 3 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], มอบ 1 Attack Power Down next turn"
                 }
               ]
             }
@@ -8797,7 +8797,7 @@
                   "desc": "[OnSucceedAttackHead] Gain +1 Charge Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 1 Tremor"
                 }
               ]
             },
@@ -8807,7 +8807,7 @@
                   "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor"
                 }
               ]
             },
@@ -8817,15 +8817,15 @@
                   "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 3 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], reduce Tremor Count by 3, then spend all Charge Count to further raise Stagger Threshold by (Charge Count x 5)% (Max 50%)",
-                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce Tremor Count by 3; Spend Charge Count to further raise Stagger Threshold"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], reduce Tremor Count by 3, then spend all Charge Count to further เพิ่มขีด Stagger by (Charge Count x 5)% (Max 50%)",
+                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce Tremor Count by 3; Spend Charge Count to further เพิ่มขีด Stagger"
                 }
               ]
             }
@@ -8842,7 +8842,7 @@
                   "desc": "[OnSucceedAttackHead] Gain +1 Charge Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 1 Tremor"
                 }
               ]
             },
@@ -8852,7 +8852,7 @@
                   "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor"
                 }
               ]
             },
@@ -8862,15 +8862,15 @@
                   "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 3 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], reduce Tremor Count by 3, then spend all Charge Count to further raise Stagger Threshold by (Charge Count x 5)% (Max 50%)",
-                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce Tremor Count by 3; Spend Charge Count to further raise Stagger Threshold"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], reduce Tremor Count by 3, then spend all Charge Count to further เพิ่มขีด Stagger by (Charge Count x 5)% (Max 50%)",
+                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce Tremor Count by 3; Spend Charge Count to further เพิ่มขีด Stagger"
                 }
               ]
             }
@@ -8903,7 +8903,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 }
               ]
             }
@@ -8918,7 +8918,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 }
               ]
             }
@@ -8933,10 +8933,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, มอบ 3 Rupture"
                 }
               ]
             }
@@ -8955,10 +8955,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 Tremor Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Rupture Count"
                 }
               ]
             }
@@ -8972,10 +8972,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 Tremor Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Rupture Count"
                 }
               ]
             }
@@ -8989,10 +8989,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 Tremor Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 Rupture Count"
                 }
               ]
             }
@@ -9011,14 +9011,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 2;\nSpend up to 4 Charge Count to inflict Rupture Count equal to Charge Count spent"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 2;\nSpend up to 4 Charge Count to มอบ Rupture Count equal to Charge Count spent"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target is Staggered, deal +10% damage"
@@ -9028,7 +9028,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target is Staggered, deal +10% damage"
@@ -9045,33 +9045,33 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 2;\nSpend up to 4 Charge Count to inflict Rupture Count equal to Charge Count spent"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 2;\nSpend up to 4 Charge Count to มอบ Rupture Count equal to Charge Count spent"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target is Staggered, deal +10% damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, มอบ 3 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target is Staggered, deal +10% damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] If target has 5+ Tremor Count, มอบ 3 Rupture"
                 }
               ]
             }
@@ -9098,17 +9098,17 @@
         {
           "level": 1,
           "name": "<line-height=120%>ฟาดด้วยร่ม\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +1 [Sinking] ชั้น",
+          "desc": "[WhenUse] ได้รับ +1 [[Sinking]] ชั้น",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 1 [[Sinking]]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ +1 [Sinking] ชั้น"
+                  "desc": "[OnSucceedAttackTail] มอบ +1 [[Sinking]] ชั้น"
                 }
               ]
             }
@@ -9117,17 +9117,17 @@
         {
           "level": 2,
           "name": "<line-height=120%>ฟาดด้วยร่ม\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +1 [Sinking] ชั้น",
+          "desc": "[WhenUse] ได้รับ +1 [[Sinking]] ชั้น",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [[Sinking]]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ +2 [Sinking] ชั้น"
+                  "desc": "[OnSucceedAttackTail] มอบ +2 [[Sinking]] ชั้น"
                 }
               ]
             }
@@ -9136,17 +9136,17 @@
         {
           "level": 4,
           "name": "<line-height=120%>ฟาดด้วยร่ม\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +1 [Sinking] ชั้น\n[DefeatDuel] ได้รับ 3 [Sinking]",
+          "desc": "[WhenUse] ได้รับ +1 [[Sinking]] ชั้น\n[DefeatDuel] ได้รับ 3 [[Sinking]]",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [[Sinking]]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ +2 [Sinking] ชั้น"
+                  "desc": "[OnSucceedAttackTail] มอบ +2 [[Sinking]] ชั้น"
                 }
               ]
             }
@@ -9209,7 +9209,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "ใช้ 5 Sinking เพื่อทำความเสียหาย +20%"
+                  "desc": "ใช้ 5 [Sinking] เพื่อทำความเสียหาย +20%"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] เปิดใช้ สั่นสะเทือน"
@@ -9241,7 +9241,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "ใช้ 5 [Sinking] เพื่อทำความเสียหาย +20%"
+                  "desc": "ใช้ 5 [[Sinking]] เพื่อทำความเสียหาย +20%"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] เปิดใช้ สั่นสะเทือน"
@@ -9258,7 +9258,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>กางร่ม!\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 6 [Sinking] และ +3 [Sinking] ชั้น",
+          "desc": "[WhenUse] ได้รับ 6 [[Sinking]] และ +3 [[Sinking]] ชั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -9288,7 +9288,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เตือนแล้วนะเห้ย!\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 3 [Sinking]",
+          "desc": "[WhenUse] ได้รับ 3 [[Sinking]]",
           "coinlist": [
             {
               "coindescs": [
@@ -9300,7 +9300,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 5 [[Sinking]]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 5 [Burst]"
@@ -9312,7 +9312,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>เตือนแล้วนะเห้ย!\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 5 [Sinking]",
+          "desc": "[WhenUse] ได้รับ 5 [[Sinking]]",
           "coinlist": [
             {
               "coindescs": [
@@ -9324,7 +9324,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 5 [[Sinking]]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 5 [Burst]"
@@ -9347,14 +9347,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Sinking Count next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +1 ชั้น next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Sinking Count next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +1 ชั้น next turn"
                 }
               ]
             }
@@ -9369,14 +9369,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count next turn"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count next turn"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น next turn"
                 }
               ]
             }
@@ -9391,14 +9391,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count next turn"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count next turn"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +2 ชั้น next turn"
                 }
               ]
             }
@@ -9417,21 +9417,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 [Sinking] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 [Sinking] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 [Sinking] next turn"
                 }
               ]
             }
@@ -9445,21 +9445,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking] next turn"
                 }
               ]
             }
@@ -9468,26 +9468,26 @@
         {
           "level": 4,
           "name": "<line-height=120%>Moment's Floral Breeze\u200B</line-height>",
-          "desc": "[StartBattle] Spend 6 Tremor Count to turn this into an AoE skill with 3 Atk Weight\nIf main target has 6+ Sinking Count, Coin Power +1",
+          "desc": "[StartBattle] Spend 6 Tremor Count to turn this into an AoE skill with 3 Atk Weight\nIf main target has 6+ [Sinking] Count, Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking next turn"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking] next turn"
                 }
               ]
             }
@@ -9506,21 +9506,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], cause Sinking Deluge"
+                  "desc": "[OnSucceedAttack] If target has 6+ [[Sinking]], cause [Sinking] Deluge"
                 },
                 {
                   "desc": "[OnSucceedAttack] If user has 10+ Tremor Count, deal 30% of damage dealt as bonus damage"
@@ -9537,21 +9537,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], cause Sinking Deluge"
+                  "desc": "[OnSucceedAttack] If target has 6+ [[Sinking]], cause [Sinking] Deluge"
                 },
                 {
                   "desc": "[OnSucceedAttack] If user has 10+ Tremor Count, deal 40% of damage dealt as bonus damage"
@@ -9568,7 +9568,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Scattering Aroma\u200B</line-height>",
-          "desc": "[OnSucceedEvade] Inflict 1 Sinking",
+          "desc": "[OnSucceedEvade] มอบ 1 [Sinking]",
           "coinlist": [
             {}
           ]
@@ -9586,7 +9586,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] มอบ +1 Tremor Count"
                 }
               ]
             }
@@ -9600,10 +9600,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Tremor Count"
                 }
               ]
             }
@@ -9612,15 +9612,15 @@
         {
           "level": 4,
           "name": "<line-height=120%>It's Heavy...!\u200B</line-height>",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\n[DefeatDuel] Inflict 2 Tremor and 2 Rupture",
+          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\n[DefeatDuel] มอบ 2 Tremor and 2 Rupture",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Tremor Count"
                 }
               ]
             }
@@ -9639,14 +9639,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Tremor"
                 }
               ]
             }
@@ -9660,14 +9660,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 1 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor"
                 }
               ]
             }
@@ -9676,19 +9676,19 @@
         {
           "level": 4,
           "name": "<line-height=120%>It's Churning...!\u200B</line-height>",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\n[DefeatDuel] Inflict 3 Tremor and 3 Rupture",
+          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\n[DefeatDuel] มอบ 3 Tremor and 3 Rupture",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 1 Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor"
                 }
               ]
             }
@@ -9707,7 +9707,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAfter triggering Tremor Burst, reduce Tremor Count by 4. Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAfter triggering Tremor Burst, reduce Tremor Count by 4. มอบ 5 Rupture"
                 }
               ]
             }
@@ -9716,12 +9716,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Corrosive Splash\u200B</line-height>",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\n[DefeatDuel] Inflict 5 Tremor and 5 Rupture",
+          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\n[DefeatDuel] มอบ 5 Tremor and 5 Rupture",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAfter triggering Tremor Burst, reduce Tremor Count by 4. Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAfter triggering Tremor Burst, reduce Tremor Count by 4. มอบ 5 Rupture"
                 }
               ]
             }
@@ -9790,14 +9790,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture\nIf target has 10+ [Burst], heal by 20% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture\nIf target has 10+ [Burst], heal by 20% of damage dealt"
                 }
               ]
             }
@@ -9811,14 +9811,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt"
                 }
               ]
             }
@@ -9832,14 +9832,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt"
                 }
               ]
             }
@@ -9858,14 +9858,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 4 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Rupture Count by the amount of K Corp Ampule; Deal +5% damage per K Corp Ampule"
+                  "desc": "[OnSucceedAttack] มอบ Rupture Count by the amount of K Corp Ampule; Deal +5% damage per K Corp Ampule"
                 }
               ]
             }
@@ -9879,14 +9879,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 4 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Rupture Count by the amount of K Corp Ampule; Deal +5% damage per K Corp Ampule"
+                  "desc": "[OnSucceedAttack] มอบ Rupture Count by the amount of K Corp Ampule; Deal +5% damage per K Corp Ampule"
                 }
               ]
             }
@@ -9926,7 +9926,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 }
               ]
             }
@@ -9940,7 +9940,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] If target has 5+ [Burst], gain 1 Talisman"
@@ -9957,7 +9957,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 2 Rupture"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has 5+ [Burst], gain 1 Talisman"
@@ -10087,7 +10087,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Talisman], inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] If target has [Talisman], มอบ +1 [Burst] Count"
                 }
               ]
             }
@@ -10108,7 +10108,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Talisman], inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] If target has [Talisman], มอบ +3 [Burst] Count"
                 }
               ]
             }
@@ -10140,14 +10140,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             }
@@ -10161,14 +10161,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             }
@@ -10182,14 +10182,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             }
@@ -10208,21 +10208,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn Count"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 2 Burn Count"
                 }
               ]
             }
@@ -10236,21 +10236,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn Count"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 2 Burn Count"
                 }
               ]
             }
@@ -10264,21 +10264,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn Count"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 2 Burn Count"
                 }
               ]
             }
@@ -10297,21 +10297,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Burn Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 Burn Count"
                 }
               ]
             },
@@ -10332,21 +10332,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Burn Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 Burn Count"
                 }
               ]
             },
@@ -10372,7 +10372,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Burn Count"
                 }
               ]
             }
@@ -10445,14 +10445,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] มอบ +1 Bleed Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Bleed Count"
                 }
               ]
             }
@@ -10461,7 +10461,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Demolish\u200B</line-height>",
-          "desc": "At 7+ Speed, inflict +1 Bleed Count with this skill",
+          "desc": "At 7+ Speed, มอบ +1 Bleed Count with this skill",
           "coinlist": [
             {
               "coindescs": [
@@ -10473,14 +10473,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] มอบ +1 Bleed Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Bleed Count"
                 }
               ]
             }
@@ -10489,7 +10489,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Demolish\u200B</line-height>",
-          "desc": "At 7+ Speed, inflict +1 Bleed Count with this Skill\n[WhenUse] Gain +4 Charge Count",
+          "desc": "At 7+ Speed, มอบ +1 Bleed Count with this Skill\n[WhenUse] Gain +4 Charge Count",
           "coinlist": [
             {
               "coindescs": [
@@ -10501,14 +10501,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Bleed Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Bleed Count"
                 }
               ]
             }
@@ -10527,26 +10527,26 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count; Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Spend 2 Charge Count; มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count; Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Spend 3 Charge Count; มอบ +1 Bleed Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count; Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Spend 2 Charge Count; มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count; Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Spend 3 Charge Count; มอบ +1 Bleed Count"
                 }
               ]
             },
@@ -10561,26 +10561,26 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count; Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Spend 2 Charge Count; มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count; Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Spend 3 Charge Count; มอบ +1 Bleed Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count; Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Spend 2 Charge Count; มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count; Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Spend 3 Charge Count; มอบ +1 Bleed Count"
                 }
               ]
             },
@@ -10734,7 +10734,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[CriticalOnSucceedAttack] มอบ 1 Fragile next turn"
                 }
               ]
             }
@@ -10750,7 +10750,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[CriticalOnSucceedAttack] มอบ 1 Fragile next turn"
                 }
               ]
             }
@@ -10803,7 +10803,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[WinDuelAttackHead] มอบ 1 Bind next turn"
                 }
               ]
             }
@@ -10818,7 +10818,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[WinDuelAttackHead] มอบ 1 Bind next turn"
                 }
               ]
             }
@@ -10833,7 +10833,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] Inflict 1 Bind next turn"
+                  "desc": "[WinDuelAttack] มอบ 1 Bind next turn"
                 }
               ]
             }
@@ -10853,7 +10853,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Bind next turn"
                 }
               ]
             }
@@ -10868,7 +10868,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Bind next turn"
                 }
               ]
             }
@@ -10883,7 +10883,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Bind next turn"
                 }
               ]
             }
@@ -10902,7 +10902,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DuelDeclaration_DonQuixote]"
+                  "desc": "[OnSucceedAttack] มอบ [DuelDeclaration_DonQuixote]"
                 }
               ]
             },
@@ -10917,7 +10917,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DuelDeclaration_DonQuixote]"
+                  "desc": "[OnSucceedAttack] มอบ [DuelDeclaration_DonQuixote]"
                 }
               ]
             },
@@ -10964,14 +10964,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             }
@@ -10985,14 +10985,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 }
               ]
             }
@@ -11006,20 +11006,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             }
@@ -11038,7 +11038,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 Rupture Count"
                 }
               ]
             }
@@ -11047,15 +11047,15 @@
         {
           "level": 2,
           "name": "<line-height=120%>The Wrap-up\u200B</line-height>",
-          "desc": "[WinDuel] Inflict +1 Rupture Count",
+          "desc": "[WinDuel] มอบ +1 Rupture Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 1 Defense Level Down next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 Rupture Count"
                 }
               ]
             }
@@ -11064,15 +11064,15 @@
         {
           "level": 4,
           "name": "<line-height=120%>The Wrap-up\u200B</line-height>",
-          "desc": "[WinDuel] Inflict +1 Rupture Count",
+          "desc": "[WinDuel] มอบ +1 Rupture Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] มอบ 3 Defense Level Down next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +2 Rupture Count"
                 }
               ]
             }
@@ -11091,31 +11091,31 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +3 Rupture Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict +2 Rupture Count against the enemy with the lowest Rupture Count"
+                  "desc": "[EnemyKill] มอบ +2 Rupture Count against the enemy with the lowest Rupture Count"
                 }
               ]
             }
@@ -11129,31 +11129,31 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] มอบ +3 Rupture Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Rupture"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict +2 Rupture Count against the enemy with the lowest Rupture Count"
+                  "desc": "[EnemyKill] มอบ +2 Rupture Count against the enemy with the lowest Rupture Count"
                 }
               ]
             }
@@ -11198,7 +11198,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 Rupture"
                 }
               ]
             }
@@ -11219,7 +11219,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 Rupture"
                 }
               ]
             }
@@ -11240,7 +11240,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 Rupture"
                 }
               ]
             }
@@ -11259,7 +11259,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] มอบ 3 Rupture"
                 }
               ]
             },
@@ -11267,7 +11267,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, inflict Weakness Analyzed next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, มอบ Weakness Analyzed next turn"
                 }
               ]
             }
@@ -11276,12 +11276,12 @@
         {
           "level": 2,
           "name": "<line-height=120%>Dissect Target\u200B</line-height>",
-          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, Coin Power +1\n[WinDuel] Inflict +3 Rupture Count",
+          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, Coin Power +1\n[WinDuel] มอบ +3 Rupture Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 Rupture"
                 }
               ]
             },
@@ -11289,7 +11289,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, inflict Weakness Analyzed next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, มอบ Weakness Analyzed next turn"
                 }
               ]
             }
@@ -11298,12 +11298,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Dissect Target\u200B</line-height>",
-          "desc": "Coin Power +1 for every 6 Rupture on target (Max 2)\n[WinDuel] Inflict +3 Rupture Count",
+          "desc": "Coin Power +1 for every 6 Rupture on target (Max 2)\n[WinDuel] มอบ +3 Rupture Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 Rupture"
                 }
               ]
             },
@@ -11311,7 +11311,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, inflict Weakness Analyzed next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, มอบ Weakness Analyzed next turn"
                 }
               ]
             }
@@ -11337,7 +11337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 Rupture"
                 }
               ]
             },
@@ -11353,7 +11353,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Profiling\u200B</line-height>",
-          "desc": "[WhenUse] Deal +10% damage for every 3 Rupture on target (Max 50%)\n[WinDuel] Inflict +2 Rupture Count",
+          "desc": "[WhenUse] Deal +10% damage for every 3 Rupture on target (Max 50%)\n[WinDuel] มอบ +2 Rupture Count",
           "coinlist": [
             {
               "coindescs": [
@@ -11365,7 +11365,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] มอบ 3 Rupture"
                 }
               ]
             },
