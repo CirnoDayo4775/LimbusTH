@@ -2,210 +2,210 @@
   "dataList": [
     {
       "id": "AreaAtk",
-      "name": "<line-height=120%>การโจมตีวงกว้าง\u200B</line-height>",
+      "name": "การโจมตีวงกว้าง",
       "desc": "เล็งศัตรู 2 ตัวหรือมากกว่า"
     },
     {
       "id": "Enhancement",
-      "name": "<line-height=120%>เสริมพลังโจมตี\u200B</line-height>",
+      "name": "เสริมพลังโจมตี",
       "desc": "สกิลโจมตีได้รับผลรวมแต้มมากขึ้นตามจำนวนบัพในเทิร์นนั้น เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "Agility",
-      "name": "<line-height=120%>ว่องไว\u200B</line-height>",
+      "name": "ว่องไว",
       "desc": "ความเร็วเพิ่มขึ้นตามจำนวนบัพในเทิร์นนั้น เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "Endurance",
-      "name": "<line-height=120%>เสริมพลังป้องกัน\u200B</line-height>",
+      "name": "เสริมพลังป้องกัน",
       "desc": "สกิลป้องกันได้รับผลรวมแต้มมากขึ้นตามจำนวนบัพในเทิร์นนั้น เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "Reduction",
-      "name": "<line-height=120%>ลดพลังโจมตี\u200B</line-height>",
+      "name": "ลดพลังโจมตี",
       "desc": "สกิลโจมตีเสียผลรวมแต้มเท่ากับดีบัพในเทิร์นนั้น เป็นเวลา 1 เทิร๋น"
     },
     {
       "id": "Binding",
-      "name": "<line-height=120%>พันธนา\u200B</line-height>",
+      "name": "พันธนา",
       "desc": "ความเร็วลดลงตามจำนวนดีบัพในเทิร์นนั้น เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "Vulnerable",
-      "name": "<line-height=120%>เปราะบาง\u200B</line-height>",
+      "name": "เปราะบาง",
       "desc": "ได้รับความเสียหายมากขึ้นต่อจำนวนดีบัพ 1 ขั้นต่อ10% ในเทิร์นนั้น เป็นเวลา 1 เทิร์น  (สูงสุด 10)",
       "summary": "+{0}0% ได้รับดาเมจมากขึ้น"
     },
     {
       "id": "Taunt",
-      "name": "<line-height=120%>ยั่วยุ\u200B</line-height>",
+      "name": "ยั่วยุ",
       "desc": ""
     },
     {
       "id": "Stun",
-      "name": "<line-height=120%>นิ่งส์เลย\u200B</line-height>",
+      "name": "นิ่งส์เลย",
       "desc": ""
     },
     {
       "id": "ElectricShock",
-      "name": "<line-height=120%>ไฟดูด\u200B</line-height>",
+      "name": "ไฟดูด",
       "desc": "ได้รับดาเมจเพิ่มเติมตามค่าดีบัพปัจจุบัน เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "Burn",
-      "name": "<line-height=120%>เผาไหม้\u200B</line-height>",
+      "name": "เผาไหม้",
       "desc": "At the end of the turn, take fixed damage by the effect’s Count, then halve it."
     },
     {
       "id": "Bleeding",
-      "name": "<line-height=120%>เลือดไหล\u200B</line-height>",
+      "name": "เลือดไหล",
       "desc": "When attacking, take fixed damage equal to (Count)% of current HP, then halve it."
     },
     {
       "id": "Target",
-      "name": "<line-height=120%>หมายหัว\u200B</line-height>",
+      "name": "หมายหัว",
       "desc": "Targeted by the character with the Passive [Sharp Edge]."
     },
     {
       "id": "SelfHarm_LowMorale",
-      "name": "<line-height=120%>ฝืน\u200B</line-height>",
+      "name": "ฝืน",
       "desc": "- Low Morale\n- Turn Start: Gain 2 Haste and 2 Fragile"
     },
     {
       "id": "SelfHarm_Panic",
-      "name": "<line-height=120%>ฝืน\u200B</line-height>",
+      "name": "ฝืน",
       "desc": "- Panic\n- Turn Start: Lose 10 HP"
     },
     {
       "id": "Blame_LowMorale",
-      "name": "<line-height=120%>สติหลุด\u200B</line-height>",
+      "name": "สติหลุด",
       "desc": "- Low Morale\n- Turn Start: Gain 2 Attack Power Up and 2 Fragile"
     },
     {
       "id": "Blame_Panic",
-      "name": "<line-height=120%>สติหลุด\u200B</line-height>",
+      "name": "สติหลุด",
       "desc": "- Panic\n- Turn Start: A random ally loses 20 SP"
     },
     {
       "id": "Charge",
-      "name": "<line-height=120%>ชาร์จ\u200B</line-height>",
+      "name": "ชาร์จ",
       "desc": "ทรัพยากรสำหรับบางสกิลที่ใช้เพื่อเอฟเฟคเพิ่มเติม จำนวนชาร์จสามารถเพิ่มถึง 20 ได้และจะลดลงทีละ 1 ในทุกๆเทิร์น"
     },
     {
       "id": "DamageOverTime",
-      "name": "<line-height=120%>Ongoing Damage\u200B</line-height>",
+      "name": "Ongoing Damage",
       "desc": "At the start of the turn, take fixed damage by the effect’s Count."
     },
     {
       "id": "ResultEnhancement",
-      "name": "<line-height=120%>เสริมแกร่ง\u200B</line-height>",
+      "name": "เสริมแกร่ง",
       "desc": "ได้รับผลรวมแต้มเพิ่มตามจำนวนบัพในเทิร์นนั้น เป็นเวลา 1 เทิร์น",
       "summary": "ผลรวมแต้ม +{0}"
     },
     {
       "id": "Protection",
-      "name": "<line-height=120%>ปกป้อง\u200B</line-height>",
+      "name": "ปกป้อง",
       "desc": "ได้รับความเสียหายน้อยลงตามจำนวนบัพ 1ขั้นต่อ 10% ในเทิร์นนั้นเป็นเวลา 1 เทิร์น (สูงสุด 10)",
       "summary": "-{0}0% ความเสียหายที่ได้รับ"
     },
     {
       "id": "AttackDmgUp",
-      "name": "<line-height=120%>เสริมความเสียหาย\u200B</line-height>",
+      "name": "เสริมความเสียหาย",
       "desc": "ทำความเสียหายมากขึ้นตามจำนวนบัพ 1ขั้นต่อ 10% ในเทิร์นนั้นเป็นเวลา 1 เทิร์น (สูงสุด 10)",
       "summary": "+{0}0% ความเสียหาย"
     },
     {
       "id": "DefenseUp",
-      "name": "<line-height=120%>เสริมเลเวลป้องกัน\u200B</line-height>",
+      "name": "เสริมเลเวลป้องกัน",
       "desc": "เลเวลป้องกันเพิ่มขึ้นตามจำนวนดีบัพ เป็นเวลา 1 เทิร์น",
       "summary": "เลเวลป้องกัน +{0}"
     },
     {
       "id": "PlusCoinValueUp",
-      "name": "<line-height=120%>เสริมแต้มเหรียญบวก\u200B</line-height>",
+      "name": "เสริมแต้มเหรียญบวก",
       "desc": "เพิ่มแต้มเหรียญบวกตามจำนวนบัพ เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "MinusCoinValueUp",
-      "name": "<line-height=120%>เสริมแต้มเหรียญลบ\u200B</line-height>",
+      "name": "เสริมแต้มเหรียญลบ",
       "desc": "ลดการหักแต้มของเหรียญลบตามจำนวนบัพ เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "TimesCoinValueUp",
-      "name": "<line-height=120%>เสริมการคูณเหรียญ\u200B</line-height>",
+      "name": "เสริมการคูณเหรียญ",
       "desc": "เพิ่มการคูณของแต้มเหรียญตามจำนวนบัพ เป็นเวลา 1 เทิร์น (ทำไรอ่ะพี่?)"
     },
     {
       "id": "Disarming",
-      "name": "<line-height=120%>ลดพลังป้องกัน\u200B</line-height>",
+      "name": "ลดพลังป้องกัน",
       "desc": "สกิลป้องกันจะถูกลดผลรวมแต้มตามจำนวนดีบัพ เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "ResultReduction",
-      "name": "<line-height=120%>ลดพลัง\u200B</line-height>",
+      "name": "ลดพลัง",
       "desc": "สกิลทั้งหมดถูกลดผลรวมแต้มตามจำนวนดีบัพ เป็นเวลา 1 เทิร์น",
       "summary": "ผลรวมแต้มสกิล -{0}"
     },
     {
       "id": "AttackDmgDown",
-      "name": "<line-height=120%>ลดความเสียหาย\u200B</line-height>",
+      "name": "ลดความเสียหาย",
       "desc": "ลดความเสียหายที่ทำได้ตามจำนวนดีบัพ 1ขั้นต่อ 10% เป็นเวลา 1 เทิร์น (สูงสุด 10)",
       "summary": "-{0}0% ความเสียหายที่ทำ"
     },
     {
       "id": "DefenseDown",
-      "name": "<line-height=120%>ลดเลเวลป้องกัน\u200B</line-height>",
+      "name": "ลดเลเวลป้องกัน",
       "desc": "เลเวลป้องกันจะถูกลดตามจำนวนดีบัพ เป็นเวลา 1 เทิร์น",
       "summary": "เลเวลป้องกัน -{0}"
     },
     {
       "id": "Paralysis",
-      "name": "<line-height=120%>อัมพาต\u200B</line-height>",
+      "name": "อัมพาต",
       "desc": "ทำให้แต้มเหรียญกลายเป็น 0 โดย จำนวนดีบัพ 1 ขั้นจะเท่ากับหนึ่งเหรียญ เป็นเวลา 1 เทิร์น"
     },
     {
       "id": "PlusCoinValueDown",
-      "name": "<line-height=120%>ลดแต้มเหรียญบวก\u200B</line-height>",
+      "name": "ลดแต้มเหรียญบวก",
       "desc": "ลดพลังของเหรียญบวกตามจำนวนดีบัพโดยส่งผลกับทุกเหรียญในสกิล"
     },
     {
       "id": "MinusCoinValueDown",
-      "name": "<line-height=120%>ลดแต้มเหรียญลบ\u200B</line-height>",
+      "name": "ลดแต้มเหรียญลบ",
       "desc": "เพิ่มค่าลบของเหรียญลบตามจำนวนดีบัพโดยส่งผลกับทุกเหรียญในสกิล"
     },
     {
       "id": "TimesCoinValueDown",
-      "name": "<line-height=120%>ลดแต้มเหรียญคูณ\u200B</line-height>",
+      "name": "ลดแต้มเหรียญคูณ",
       "desc": "ลดค่าคูณของเหรียญตามจำนวนดีบัพโดยส่งผลกับทุกเหรียญในสกิล"
     },
     {
       "id": "MoonLight",
-      "name": "<line-height=120%>แสงจันทร์\u200B</line-height>",
+      "name": "แสงจันทร์",
       "desc": "ทรัพยากรสำหรับบางสกิลเพื่อเอฟเฟคเพิ่มเติม"
     },
     {
       "id": "Anger",
-      "name": "<line-height=120%>คลั่ง\u200B</line-height>",
+      "name": "คลั่ง",
       "desc": "ถูกใช้โดยบางสกิล จำเป็นเพื่อใช้บางสกิล"
     },
     {
       "id": "Inactible",
-      "name": "<line-height=120%>ขยับไม่ได้\u200B</line-height>",
+      "name": "ขยับไม่ได้",
       "desc": "ไม่สามารถทำอะไรได้ในเทิร์นนั้น"
     },
     {
       "id": "Combustion",
-      "name": "<line-height=120%>เผาไหม้\u200B</line-height>",
+      "name": "เผาไหม้",
       "desc": "เมื่อจบเทิร์น ได้รับดาเมจคงที่ตามค่าความแรงของเอฟเฟค\nจากนั้นลลดจำนวนครั้งลง 1"
     },
     {
       "id": "Laceration",
-      "name": "<line-height=120%>เลือดไหล\u200B</line-height>",
+      "name": "เลือดไหล",
       "desc": "เมื่อทอยเหรียญ ได้รับดาเมจคงที่ตามค่าความแรงของเอฟเฟค\nจากนั้นลดจำนวนครั้งลง 1"
     },
     {
       "id": "Vibration",
-      "name": "<line-height=120%>สะเทือน\u200B</line-height>",
+      "name": "สะเทือน",
       "desc": "เมื่อโจมตีโดยสกิลที่เปิดใช้  สั่นสะเทือน, เพิ่มค่าขีดสแต็คเกอร์ตามค่าความแรงของเอฟเฟค\nเมื่อจบเทิร์นลดจำนวนครั้งลง 1"
     },
     {
@@ -280,1617 +280,1617 @@
     },
     {
       "id": "AttackUp",
-      "name": "<line-height=120%>Offense Level Up\u200B</line-height>",
+      "name": "Offense Level Up",
       "desc": "Offense level increases based on the effect's Potency for one turn."
     },
     {
       "id": "AttackDown",
-      "name": "<line-height=120%>Offense Level Down \u200B</line-height>",
+      "name": "Offense Level Down ",
       "desc": "Offense level decreases based on the effect's Potency for one turn."
     },
     {
       "id": "Liu_Meursault_Guard_Buff",
-      "name": "<line-height=120%>Great Mountain\u200B</line-height>",
+      "name": "Great Mountain",
       "desc": "When attacked, inflict +1 Burn Count on the attacker."
     },
     {
       "id": "SlashResistUp",
-      "name": "<line-height=120%>Slash Resist Up\u200B</line-height>",
+      "name": "Slash Resist Up",
       "desc": "Decrease Slash Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "PenetrateResistUp",
-      "name": "<line-height=120%>Pierce Resist Up\u200B</line-height>",
+      "name": "Pierce Resist Up",
       "desc": "Decrease Pierce Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "HitResistUp",
-      "name": "<line-height=120%>Blunt Resist Up\u200B</line-height>",
+      "name": "Blunt Resist Up",
       "desc": "Decrease Blunt Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "SlashDamageUp",
-      "name": "<line-height=120%>Slash DMG Up\u200B</line-height>",
+      "name": "Slash DMG Up",
       "desc": "Deal more damage with Slash skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "PenetrateDamageUp",
-      "name": "<line-height=120%>Pierce DMG Up\u200B</line-height>",
+      "name": "Pierce DMG Up",
       "desc": "Deal more damage with Pierce skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "HitDamageUp",
-      "name": "<line-height=120%>Blunt DMG Up\u200B</line-height>",
+      "name": "Blunt DMG Up",
       "desc": "Deal more damage with Blunt skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "SlashResistDown",
-      "name": "<line-height=120%>Slash Resist Down\u200B</line-height>",
+      "name": "Slash Resist Down",
       "desc": "Increase Slash Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "PenetrateResistDown",
-      "name": "<line-height=120%>Pierce Resist Down\u200B</line-height>",
+      "name": "Pierce Resist Down",
       "desc": "Increase Pierce Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "HitResistDown",
-      "name": "<line-height=120%>Blunt Resist Down\u200B</line-height>",
+      "name": "Blunt Resist Down",
       "desc": "Increase Blunt Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "SlashDamageDown",
-      "name": "<line-height=120%>Slash DMG Down\u200B</line-height>",
+      "name": "Slash DMG Down",
       "desc": "Deal less damage with Slash skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "PenetrateDamageDown",
-      "name": "<line-height=120%>Pierce DMG Down\u200B</line-height>",
+      "name": "Pierce DMG Down",
       "desc": "Deal less damage with Pierce skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "HitDamageDown",
-      "name": "<line-height=120%>Blunt DMG Down\u200B</line-height>",
+      "name": "Blunt DMG Down",
       "desc": "Deal less damage with Blunt skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "CrimsonResistDown",
-      "name": "<line-height=120%>Wrath Resist Down\u200B</line-height>",
+      "name": "Wrath Resist Down",
       "desc": "Increase Wrath Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "ScarletResistDown",
-      "name": "<line-height=120%>Lust Resist Down\u200B</line-height>",
+      "name": "Lust Resist Down",
       "desc": "Increase Lust Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "AmberResistDown",
-      "name": "<line-height=120%>Sloth Resist Down\u200B</line-height>",
+      "name": "Sloth Resist Down",
       "desc": "Increase Sloth Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "ShamrockResistDown",
-      "name": "<line-height=120%>Gluttony Resist Down\u200B</line-height>",
+      "name": "Gluttony Resist Down",
       "desc": "Increase Gluttony Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "AzureResistDown",
-      "name": "<line-height=120%>Gloom Resist Down\u200B</line-height>",
+      "name": "Gloom Resist Down",
       "desc": "Increase Gloom Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "IndigoResistDown",
-      "name": "<line-height=120%>Pride Resist Down\u200B</line-height>",
+      "name": "Pride Resist Down",
       "desc": "Increase Pride Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "VioletResistDown",
-      "name": "<line-height=120%>Envy Resist Down\u200B</line-height>",
+      "name": "Envy Resist Down",
       "desc": "Increase Envy Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "CrimsonResistUp",
-      "name": "<line-height=120%>Wrath Resist Up\u200B</line-height>",
+      "name": "Wrath Resist Up",
       "desc": "Reduce Wrath Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "ScarletResistUp",
-      "name": "<line-height=120%>Lust Resist Up\u200B</line-height>",
+      "name": "Lust Resist Up",
       "desc": "Reduce Lust Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "AmberResistUp",
-      "name": "<line-height=120%>Sloth Resist Up\u200B</line-height>",
+      "name": "Sloth Resist Up",
       "desc": "Decrease Sloth Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "ShamrockResistUp",
-      "name": "<line-height=120%>Gluttony Resist Up\u200B</line-height>",
+      "name": "Gluttony Resist Up",
       "desc": "Decrease Gluttony Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "AzureResistUp",
-      "name": "<line-height=120%>Gloom Resist Up\u200B</line-height>",
+      "name": "Gloom Resist Up",
       "desc": "Decrease Gloom Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "IndigoResistUp",
-      "name": "<line-height=120%>Pride Resist Up\u200B</line-height>",
+      "name": "Pride Resist Up",
       "desc": "Decrease Pride Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "VioletResistUp",
-      "name": "<line-height=120%>Envy Resist Up\u200B</line-height>",
+      "name": "Envy Resist Up",
       "desc": "Decrease Envy Resistance based on Stack.\n(0.1 per Stack)"
     },
     {
       "id": "CrimsonDamageDown",
-      "name": "<line-height=120%>Wrath DMG Down\u200B</line-height>",
+      "name": "Wrath DMG Down",
       "desc": "Deal less damage with Wrath skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "ScarletDamageDown",
-      "name": "<line-height=120%>Lust DMG Down\u200B</line-height>",
+      "name": "Lust DMG Down",
       "desc": "Deal less damage with Lust skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "AmberDamageDown",
-      "name": "<line-height=120%>Sloth DMG Down\u200B</line-height>",
+      "name": "Sloth DMG Down",
       "desc": "Deal less damage with Sloth skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "ShamrockDamageDown",
-      "name": "<line-height=120%>Gluttony DMG Down\u200B</line-height>",
+      "name": "Gluttony DMG Down",
       "desc": "Deal less damage with Gluttony skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "AzureDamageDown",
-      "name": "<line-height=120%>Gloom DMG Down\u200B</line-height>",
+      "name": "Gloom DMG Down",
       "desc": "Deal less damage with Gloom skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "IndigoDamageDown",
-      "name": "<line-height=120%>Pride DMG Down\u200B</line-height>",
+      "name": "Pride DMG Down",
       "desc": "Deal less damage with Pride skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "VioletDamageDown",
-      "name": "<line-height=120%>Envy DMG Down\u200B</line-height>",
+      "name": "Envy DMG Down",
       "desc": "Deal less damage with Envy skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "CrimsonDamageUp",
-      "name": "<line-height=120%>Wrath DMG Up\u200B</line-height>",
+      "name": "Wrath DMG Up",
       "desc": "Deal more damage with Wrath skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "ScarletDamageUp",
-      "name": "<line-height=120%>Lust DMG Up\u200B</line-height>",
+      "name": "Lust DMG Up",
       "desc": "Deal more damage with Lust skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "AmberDamageUp",
-      "name": "<line-height=120%>Sloth DMG Up\u200B</line-height>",
+      "name": "Sloth DMG Up",
       "desc": "Deal more damage with Sloth skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "ShamrockDamageUp",
-      "name": "<line-height=120%>Gluttony DMG Up\u200B</line-height>",
+      "name": "Gluttony DMG Up",
       "desc": "Deal more damage with Gluttony skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "AzureDamageUp",
-      "name": "<line-height=120%>Gloom DMG Up\u200B</line-height>",
+      "name": "Gloom DMG Up",
       "desc": "Deal more damage with Gloom skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "IndigoDamageUp",
-      "name": "<line-height=120%>Pride DMG Up\u200B</line-height>",
+      "name": "Pride DMG Up",
       "desc": "Deal more damage with Pride skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "VioletDamageUp",
-      "name": "<line-height=120%>Envy DMG Up\u200B</line-height>",
+      "name": "Envy DMG Up",
       "desc": "Deal more damage with Envy skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "Curse",
-      "name": "<line-height=120%>Curse\u200B</line-height>",
+      "name": "Curse",
       "desc": "Turn End: Next turn, randomly gain one of the following, then reduce this effect’s Count by 1.\n1 Attack Power Down/1 Defense Power Down/2 Offense Level Down/2 Defense Level Down."
     },
     {
       "id": "AttackDmgUp_Weak",
-      "name": "<line-height=120%>Weak-resist DMG Boost\u200B</line-height>",
+      "name": "Weak-resist DMG Boost",
       "desc": "Boost the damage of attacks against Weak resistances by a % based on Count.\n(10% per Count)"
     },
     {
       "id": "Bullet",
-      "name": "<line-height=120%>Ammo\u200B</line-height>",
+      "name": "Ammo",
       "desc": "Spent by certain skills.\nSome attacks cancel if lacking Ammo."
     },
     {
       "id": "Meursault_Last_Remodeling",
-      "name": "<line-height=120%>Final Augment\u200B</line-height>",
+      "name": "Final Augment",
       "desc": "At the start of the turn, gain 3 Attack Power Up, Defense Power Up, and Haste; die after 3 turns."
     },
     {
       "id": "Choice_90103301",
-      "name": "<line-height=120%>Struggle\u200B</line-height>",
+      "name": "Struggle",
       "desc": "Speed +1 for this battle.",
       "summary": "SPD +1"
     },
     {
       "id": "Choice_90103402",
-      "name": "<line-height=120%>Relief\u200B</line-height>",
+      "name": "Relief",
       "desc": "Speed +2 for this battle.",
       "summary": "SPD +2"
     },
     {
       "id": "Choice_901001",
-      "name": "<line-height=120%>Spreading Flame\u200B</line-height>",
+      "name": "Spreading Flame",
       "desc": "Combat Start: Allies without Wrath Affinity Attack Skill take 5 Wrath damage"
     },
     {
       "id": "Choice_901007",
-      "name": "<line-height=120%>Gentle Sendoff\u200B</line-height>",
+      "name": "Gentle Sendoff",
       "desc": "Turn Start: Heal 10 HP and SP. (Up to 3 turns)",
       "summary": "HP & SP +10"
     },
     {
       "id": "Choice_901009",
-      "name": "<line-height=120%>Photopia\u200B</line-height>",
+      "name": "Photopia",
       "desc": "Combat Start: Skill Final Power -1.",
       "summary": "Skill Final Power -1"
     },
     {
       "id": "Choice_901010",
-      "name": "<line-height=120%>Emptied\u200B</line-height>",
+      "name": "Emptied",
       "desc": "Combat Start: Allies without Lust Affinity Attack Skill are Staggered."
     },
     {
       "id": "Choice_901019",
-      "name": "<line-height=120%>Contamination\u200B</line-height>",
+      "name": "Contamination",
       "desc": "Combat Start: Speed -2.",
       "summary": "SPD -2"
     },
     {
       "id": "Aggressive",
-      "name": "<line-height=120%>Instincts\u200B</line-height>",
+      "name": "Instincts",
       "desc": "At the end of the turn, if the Count is at 4+, change to an “aggressive” state."
     },
     {
       "id": "Cromer_Target",
-      "name": "<line-height=120%>Gaze of the One Who Grips\u200B</line-height>",
+      "name": "Gaze of the One Who Grips",
       "desc": "Staggered for one turn. Take +100% damage from Kromer."
     },
     {
       "id": "Poison",
-      "name": "<line-height=120%>Poison\u200B</line-height>",
+      "name": "Poison",
       "desc": "At the end of the turn, take fixed damage by the Count, then halve the Count."
     },
     {
       "id": "Desire",
-      "name": "<line-height=120%>Urge\u200B</line-height>",
+      "name": "Urge",
       "desc": "At the end of the turn, if at 5+ stacks, take 30 SP damage, gain 2 Fragile and 10 Bind, and remove this effect."
     },
     {
       "id": "Assemble",
-      "name": "<line-height=120%>Fanatic\u200B</line-height>",
+      "name": "Fanatic",
       "desc": "Raise Skill Final Power by the effect’s Count against units with Nails for the turn. (Applies to clashes as well)"
     },
     {
       "id": "Nail",
-      "name": "<line-height=120%>N Corp’s Nails\u200B</line-height>",
+      "name": "N Corp’s Nails",
       "desc": "At the start of the turn, gain 1 Bleed and increase the Bleed Count by this effect’s Count.\nAt the end of the turn, reduce the Count by 1."
     },
     {
       "id": "BeingGolden",
-      "name": "<line-height=120%>Golden Sheen\u200B</line-height>",
+      "name": "Golden Sheen",
       "desc": "At the start of the turn, heal 10 HP per Count."
     },
     {
       "id": "SlashTakeDamageDown",
-      "name": "<line-height=120%>Slash Protection\u200B</line-height>",
+      "name": "Slash Protection",
       "desc": "Take less damage from Slash skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "PenetrateTakeDamageDown",
-      "name": "<line-height=120%>Pierce Protection\u200B</line-height>",
+      "name": "Pierce Protection",
       "desc": "Take less damage from Pierce skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "HitTakeDamageDown",
-      "name": "<line-height=120%>Blunt Protection\u200B</line-height>",
+      "name": "Blunt Protection",
       "desc": "Take less damage from Blunt skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "CrimsonTakeDamageDown",
-      "name": "<line-height=120%>Wrath Protection\u200B</line-height>",
+      "name": "Wrath Protection",
       "desc": "Take less damage from Wrath skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "ScarletTakeDamageDown",
-      "name": "<line-height=120%>Lust Protection\u200B</line-height>",
+      "name": "Lust Protection",
       "desc": "Take less damage from Lust skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "AmberTakeDamageDown",
-      "name": "<line-height=120%>Sloth Protection\u200B</line-height>",
+      "name": "Sloth Protection",
       "desc": "Take less damage from Sloth skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "ShamrockTakeDamageDown",
-      "name": "<line-height=120%>Gluttony Protection\u200B</line-height>",
+      "name": "Gluttony Protection",
       "desc": "Take less damage from Gluttony skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "AzureTakeDamageDown",
-      "name": "<line-height=120%>Gloom Protection\u200B</line-height>",
+      "name": "Gloom Protection",
       "desc": "Take less damage from Gloom skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "IndigoTakeDamageDown",
-      "name": "<line-height=120%>Pride Protection\u200B</line-height>",
+      "name": "Pride Protection",
       "desc": "Take less damage from Pride skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "VioletTakeDamageDown",
-      "name": "<line-height=120%>Envy Protection\u200B</line-height>",
+      "name": "Envy Protection",
       "desc": "Take less damage from Envy skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "SlashTakeDamageUp",
-      "name": "<line-height=120%>Slash Fragility\u200B</line-height>",
+      "name": "Slash Fragility",
       "desc": "Take more damage from Slash skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "PenetrateTakeDamageUp",
-      "name": "<line-height=120%>Pierce Fragility\u200B</line-height>",
+      "name": "Pierce Fragility",
       "desc": "Take more damage from Pierce skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "HitTakeDamageUp",
-      "name": "<line-height=120%>Blunt Fragility\u200B</line-height>",
+      "name": "Blunt Fragility",
       "desc": "Take more damage from Blunt skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "CrimsonTakeDamageUp",
-      "name": "<line-height=120%>Wrath Fragility\u200B</line-height>",
+      "name": "Wrath Fragility",
       "desc": "Take more damage from Wrath skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "ScarletTakeDamageUp",
-      "name": "<line-height=120%>Lust Fragility\u200B</line-height>",
+      "name": "Lust Fragility",
       "desc": "Take more damage from Lust skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "AmberTakeDamageUp",
-      "name": "<line-height=120%>Sloth Fragility\u200B</line-height>",
+      "name": "Sloth Fragility",
       "desc": "Take more damage from Sloth skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "ShamrockTakeDamageUp",
-      "name": "<line-height=120%>Gluttony Fragility\u200B</line-height>",
+      "name": "Gluttony Fragility",
       "desc": "Take more damage from Gluttony skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "AzureTakeDamageUp",
-      "name": "<line-height=120%>Gloom Fragility\u200B</line-height>",
+      "name": "Gloom Fragility",
       "desc": "Take more damage from Gloom skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "IndigoTakeDamageUp",
-      "name": "<line-height=120%>Pride Fragility\u200B</line-height>",
+      "name": "Pride Fragility",
       "desc": "Take more damage from Pride skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "VioletTakeDamageUp",
-      "name": "<line-height=120%>Envy Fragility\u200B</line-height>",
+      "name": "Envy Fragility",
       "desc": "Take more damage from Envy skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "NailPersonality",
-      "name": "<line-height=120%>Nails\u200B</line-height>",
+      "name": "Nails",
       "desc": "Unique Bleed\nTurn Start: Gain 1 Bleed and increase the Bleed Count by this effect’s Count.\nTurn End: Halve the Count. (Rounded down)"
     },
     {
       "id": "AssemblePersonality",
-      "name": "<line-height=120%>Fanatic\u200B</line-height>",
+      "name": "Fanatic",
       "desc": "Raise Skill Final Power by the effect’s Count against units with Nails for the turn. (Applies to clashes as well)"
     },
     {
       "id": "MarkOfHeresy",
-      "name": "<line-height=120%>Gaze\u200B</line-height>",
+      "name": "Gaze",
       "desc": "Take +20% damage from Pierce and Blunt skills for one turn.\nThe ally that defeats the marked unit heals 10 SP; if the ally is an 'N Corp. Fanatic', also apply 1 Fanatic next turn."
     },
     {
       "id": "HitResultUp",
-      "name": "<line-height=120%>Blunt Power Up\u200B</line-height>",
+      "name": "Blunt Power Up",
       "desc": "Blunt skills gain final Power by the effect’s Count for one turn."
     },
     {
       "id": "WeaknessAnalysis",
-      "name": "<line-height=120%>Weakness Analyzed\u200B</line-height>",
+      "name": "Weakness Analyzed",
       "desc": "A random “Endure” or “Normal” attack type resistance is weakened [+0.2 to damage multiplier] for one turn."
     },
     {
       "id": "Cycle",
-      "name": "<line-height=120%>Karma\u200B</line-height>",
+      "name": "Karma",
       "desc": "Take +1% damage per Count. At the end of the turn, if at 108+ Count, the unit dies."
     },
     {
       "id": "Duress",
-      "name": "<line-height=120%>Captivity\u200B</line-height>",
+      "name": "Captivity",
       "desc": "Become Staggered for 3 turns.\nTurn Start: If Kqe-1j-23 is Staggered, remove this status."
     },
     {
       "id": "ShamrockResultUp",
-      "name": "<line-height=120%>Gluttony Power Up\u200B</line-height>",
+      "name": "Gluttony Power Up",
       "desc": "Gluttony Skills gain final Power by the effect’s Count for one turn."
     },
     {
       "id": "VioletResultUp",
-      "name": "<line-height=120%>Envy Power Up\u200B</line-height>",
+      "name": "Envy Power Up",
       "desc": "Envy skills gain final Power by the effect’s Count for one turn."
     },
     {
       "id": "CyclingKarma",
-      "name": "<line-height=120%>Cyclical Karma\u200B</line-height>",
+      "name": "Cyclical Karma",
       "desc": "All units transfer their Karma to their targets after a successful attack.\nKarma is not transferred to My Form Empties as long as its allies are alive.",
       "summary": "Karma transferred on Clash win"
     },
     {
       "id": "Cromer_Ecstasy",
-      "name": "<line-height=120%>Ecstatic\u200B</line-height>",
+      "name": "Ecstatic",
       "desc": "All the Maw’s physical resistances change to ‘Fatal’."
     },
     {
       "id": "Cromer_Madness",
-      "name": "<line-height=120%>Purity\u200B</line-height>",
+      "name": "Purity",
       "desc": "All parts gain 3 Bind and 3 Damage Up, and their phys. resistances change to ‘Fatal’."
     },
     {
       "id": "TakeHpHealReduce",
-      "name": "<line-height=120%>HP Healing Down\u200B</line-height>",
+      "name": "HP Healing Down",
       "desc": "HP healed by Passives, Skill effects, or Coin effects decreases proportionally to the value of this effect. (Max 5)"
     },
     {
       "id": "AttackLevelAdder",
-      "name": "<line-height=120%>Offense level+\u200B</line-height>",
+      "name": "Offense level+",
       "desc": "Offense Level increases by the effect’s Count for one turn."
     },
     {
       "id": "Thirst",
-      "name": "<line-height=120%>Appetite\u200B</line-height>",
+      "name": "Appetite",
       "desc": "Increases the healing provided by the Passive [Rustle Up].\nSpent when the Passive activates."
     },
     {
       "id": "GainSinStockAdder",
-      "name": "<line-height=120%>E.G.O Resource Amp\u200B</line-height>",
+      "name": "E.G.O Resource Amp",
       "desc": "Increases the amount of E.G.O resources earned from skills by the effect’s Count for one turn."
     },
     {
       "id": "Enrage",
-      "name": "<line-height=120%>Frenzy\u200B</line-height>",
+      "name": "Frenzy",
       "desc": "Gain 3 Attack Power Up and 3 Fragile for one turn, and change behavior. Does not gain Aggression when attacked."
     },
     {
       "id": "DimensionRift",
-      "name": "<line-height=120%>Dimensional Rift\u200B</line-height>",
+      "name": "Dimensional Rift",
       "desc": "At the end of the turn, gain Rupture Count by this effect’s amount. Then, remove this effect."
     },
     {
       "id": "ShardOfUmbrella",
-      "name": "<line-height=120%>Umbrella Splinters\u200B</line-height>",
+      "name": "Umbrella Splinters",
       "desc": "Gain 5 Rupture per Count at turn end",
       "summary": "Gain 5 Rupture per Count at turn end"
     },
     {
       "id": "WrappedCurseTag",
-      "name": "<line-height=120%>Entangled Curse Talisman\u200B</line-height>",
+      "name": "Entangled Curse Talisman",
       "desc": "Deal +1% damage per Count\nAt 9+ Count, gain 2 Attack Power Down at turn start",
       "summary": "Deal +1% damage per Count; at 9+ Count, gain 2 Attack Power Down at turn start"
     },
     {
       "id": "ReattachedCurseTag",
-      "name": "<line-height=120%>Reattached Curse Talisman\u200B</line-height>",
+      "name": "Reattached Curse Talisman",
       "desc": "At 9+, gain 5 Bind at the start of the turn.\nAt 12+, gain 5 Attack Power Down at the start of the turn.",
       "summary": "At 9+, gain 5 Bind at the start of the turn.\nAt 12+, gain 5 Attack Power Down at the start of the turn."
     },
     {
       "id": "ElectricStorage",
-      "name": "<line-height=120%>Capacitor\u200B</line-height>",
+      "name": "Capacitor",
       "desc": "It seems to be storing electricity in its body.",
       "summary": "표시용"
     },
     {
       "id": "SelfCharge",
-      "name": "<line-height=120%>Self-charge\u200B</line-height>",
+      "name": "Self-charge",
       "desc": "Electric currents seem to flow around its body.\nAfter the unit faces death, as long as it has Self-charge, its HP is fixed at 1 until it is fully consumed. (Max 20)",
       "summary": "표시용"
     },
     {
       "id": "Exalted",
-      "name": "<line-height=120%>Morale Boost\u200B</line-height>",
+      "name": "Morale Boost",
       "desc": "Gain Damage Up by the the effect's Count every turn (Max 5)\nCannot gain the status while Tipsy",
       "summary": "Gain Damage Up by the effect's Count every turn; Cannot gain the status while Tipsy"
     },
     {
       "id": "Tipsiness",
-      "name": "<line-height=120%>Tipsy\u200B</line-height>",
+      "name": "Tipsy",
       "desc": "Lose Clash Power by the effect's Count (Max 5)",
       "summary": "Lose Clash Power by the effect's Count"
     },
     {
       "id": "Predation",
-      "name": "<line-height=120%>Predation\u200B</line-height>",
+      "name": "Predation",
       "desc": "It seems to be preparing a powerful move.",
       "summary": "표시용"
     },
     {
       "id": "ATL_EndureCombustion",
-      "name": "<line-height=120%>Burn Resistance\u200B</line-height>",
+      "name": "Burn Resistance",
       "desc": "When taking damage from Burn, reduce the damage by 10% per Count (Max 10)",
       "summary": "When taking damage from Burn, take 10% less damage per Count"
     },
     {
       "id": "Resonate",
-      "name": "<line-height=120%>Resonant\u200B</line-height>",
+      "name": "Resonant",
       "desc": "When triggering Tremor Burst or raising Stagger Threshold, deal 3% fixed damage per Count and further raise stagger threshold by 3% per Count",
       "summary": "When triggering Tremor Burst or raising Stagger Thresholds, deal damage and raise Stagger Threshold further"
     },
     {
       "id": "VibrationAssimilation",
-      "name": "<line-height=120%>Tremor Sync\u200B</line-height>",
+      "name": "Tremor Sync",
       "desc": "In a clash, the opponent has -1 Clash Power for every 5 Tremor they have",
       "summary": "In a clash, the opponent has -1 Clash Power for every 5 Tremor they have"
     },
     {
       "id": "CollapseAmpoule",
-      "name": "<line-height=120%>Decay Ampule\u200B</line-height>",
+      "name": "Decay Ampule",
       "desc": "Take damage by 2% of Max HP per Count",
       "summary": "Take damage by 2% of Max HP per Count"
     },
     {
       "id": "InterlockingTime",
-      "name": "<line-height=120%>Interlocking Time\u200B</line-height>",
+      "name": "Interlocking Time",
       "desc": "Reduce final damage by 30% and store it. At 3 Count, take fixed damage by 1.5 times the accumulated damage, and gain 3 Bind next turn.",
       "summary": "Reduce final damage by 30% and store it. At 3 Count, take fixed damage by 1.5 times the accumulated damage, and gain 3 Bind next turn."
     },
     {
       "id": "TimeRental",
-      "name": "<line-height=120%>Borrowed Time of the Fathoms\u200B</line-height>",
+      "name": "Borrowed Time of the Fathoms",
       "desc": "At the end of the turn, gain 3 Haste and 2 Damage Up; If only 1 Count remains, gain 4 Bind and 1 Attack Power Down next turn",
       "summary": "At the end of the turn, gain 3 Haste and 2 Damage Up; If only 1 Count remains, gain 4 Bind and 1 Attack Power Down next turn"
     },
     {
       "id": "ATL_EndureLaceration",
-      "name": "<line-height=120%>Bleed Resistance\u200B</line-height>",
+      "name": "Bleed Resistance",
       "desc": "When taking damage from Bleed, reduce the damage by 10% per Count (Max 10)",
       "summary": "When taking damage from Bleed, take 10% less damage per Count"
     },
     {
       "id": "Bull_Sadness",
-      "name": "<line-height=120%>Unresolved Sorrow\u200B</line-height>",
+      "name": "Unresolved Sorrow",
       "desc": "At the start of the turn, gain Attack Power Down by the Count.\nAt the end of the turn, if this effect is at 3+ Count, changes to Expanding Sorrow",
       "summary": ""
     },
     {
       "id": "Bull_BuzzingEmotion",
-      "name": "<line-height=120%>Wavering Emotions\u200B</line-height>",
+      "name": "Wavering Emotions",
       "desc": "Turn Start: Randomly gain Attack Power Down, Paralyze, or Bind by this effect's Count, then remove this effect",
       "summary": "Turn Start: Randomly gain Attack Power Down, Paralyze, or Bind by this effect's Count, then remove this effect"
     },
     {
       "id": "Scared",
-      "name": "<line-height=120%>Fear\u200B</line-height>",
+      "name": "Fear",
       "desc": "Turn End: At -20 SP or lower, gain 1 Protection next turn.",
       "summary": "Turn End: At -20 SP or lower, gain 1 Protection next turn."
     },
     {
       "id": "Stressed",
-      "name": "<line-height=120%>Stressed\u200B</line-height>",
+      "name": "Stressed",
       "desc": "Turn End: At -25 SP or lower, gain 1 Defense Power Up next turn",
       "summary": "Turn End: At -25 SP or lower, gain 1 Defense Power Up next turn"
     },
     {
       "id": "Nervous",
-      "name": "<line-height=120%>Nervous\u200B</line-height>",
+      "name": "Nervous",
       "desc": "Turn End: At -15 SP or lower, gain 5 Defense Level Up next turn",
       "summary": "Turn End: At -15 SP or lower, gain 5 Defense Level Up next turn"
     },
     {
       "id": "ATL_Agility",
-      "name": "<line-height=120%>Faster!\u200B</line-height>",
+      "name": "Faster!",
       "desc": "Gain 2 Haste",
       "summary": "표시용"
     },
     {
       "id": "ATL_Breath",
-      "name": "<line-height=120%>Aim True!\u200B</line-height>",
+      "name": "Aim True!",
       "desc": "Gain 3 Poise",
       "summary": "표시용"
     },
     {
       "id": "ATL_Target",
-      "name": "<line-height=120%>Get 'Em!\u200B</line-height>",
+      "name": "Get 'Em!",
       "desc": "Simultaneously attacks one unit.",
       "summary": "표시용"
     },
     {
       "id": "Bull_FadedHeat",
-      "name": "<line-height=120%>Momentary Cool\u200B</line-height>",
+      "name": "Momentary Cool",
       "desc": "Core and body lose 50% Max HP"
     },
     {
       "id": "Bull_Fever",
-      "name": "<line-height=120%>Fever\u200B</line-height>",
+      "name": "Fever",
       "desc": "Deal +10% damage per Count\nReduced by 1 at turn end",
       "summary": ""
     },
     {
       "id": "Bull_ReinforcedSadness",
-      "name": "<line-height=120%>Expanding Sorrow\u200B</line-height>",
+      "name": "Expanding Sorrow",
       "desc": "Changes behavior.",
       "summary": "Changes behavior."
     },
     {
       "id": "Crazy_LowMorale",
-      "name": "<line-height=120%>Maddened\u200B</line-height>",
+      "name": "Maddened",
       "desc": "- Low Morale\n- When at low morale for the first time, targets units indiscriminately",
       "undefined": "-"
     },
     {
       "id": "Crazy_Panic",
-      "name": "<line-height=120%>Maddened\u200B</line-height>",
+      "name": "Maddened",
       "desc": "- Panic\n- Targets indiscriminately; Clash Power +1, and gain 2 Damage Up",
       "undefined": "-"
     },
     {
       "id": "Suicide_LowMorale",
-      "name": "<line-height=120%>Suicidal\u200B</line-height>",
+      "name": "Suicidal",
       "desc": "- Low Morale\n- When at low morale for the first time, become unable to act",
       "undefined": "-"
     },
     {
       "id": "Suicide_Panic",
-      "name": "<line-height=120%>Suicidal\u200B</line-height>",
+      "name": "Suicidal",
       "desc": "- Panic\n- Cannot act for 3 turns. Unit dies at turn start; all its allies lose 10 SP",
       "undefined": "-"
     },
     {
       "id": "Prowl_LowMorale",
-      "name": "<line-height=120%>Wandering\u200B</line-height>",
+      "name": "Wandering",
       "desc": "- Low Morale\n- Turn End: Deal 2 SP damage to allies",
       "undefined": "-"
     },
     {
       "id": "Prowl_Panic",
-      "name": "<line-height=120%>Wandering\u200B</line-height>",
+      "name": "Wandering",
       "desc": "- Panic\n- Turn End: Deal 5 SP damage to allies. Flees from battle after 3 turns have passed",
       "undefined": "-"
     },
     {
       "id": "Blue_LowMorale",
-      "name": "<line-height=120%>Dejection\u200B</line-height>",
+      "name": "Dejection",
       "desc": "- Low Morale\n- In a clash, if any Coin lands tails, Clash Power -1 for the clash",
       "undefined": "-"
     },
     {
       "id": "Blue_Panic",
-      "name": "<line-height=120%>Dejection\u200B</line-height>",
+      "name": "Dejection",
       "desc": "- Panic\n- In a clash, if any Coin lands tails, Clash Power -3 for the clash",
       "undefined": "-"
     },
     {
       "id": "DongbaekGrow",
-      "name": "<line-height=120%>Growing\u200B</line-height>",
+      "name": "Growing",
       "desc": "At the end of the turn, add +1 Count, and gain Max HP proportional to the Count. (Max 3)",
       "summary": "At the end of the turn, add +1 Count, and gain Max HP proportional to the Count. (Max 3)"
     },
     {
       "id": "DongbaekFlorescence",
-      "name": "<line-height=120%>Blooming\u200B</line-height>",
+      "name": "Blooming",
       "desc": "Turn End: At 5+ Count, take Sloth damage by (Count)% of Max HP, and become Fully Bloomed\nAt less than 5 Count, lose (Count * 5) SP, then reduce Count by 1",
       "summary": ""
     },
     {
       "id": "DongbaekFullBloom",
-      "name": "<line-height=120%>Fully Bloomed\u200B</line-height>",
+      "name": "Fully Bloomed",
       "desc": "Cannot act\nAt the end of the turn, lose 20 SP; if SP reaches -45, fully heal SP, then gain 'Dazzled Mind' next turn.\nIf this effect isn't removed for 2 turns, remove it at the end of the turn.",
       "summary": ""
     },
     {
       "id": "DongbaekFascination",
-      "name": "<line-height=120%>Dazzled Mind\u200B</line-height>",
+      "name": "Dazzled Mind",
       "desc": "Targets allies for attacks\nWhen staggered, remove this effect next turn.\nIf this effect isn't removed for 2 turns, lose 30 SP and remove it at the end of the turn.",
       "summary": ""
     },
     {
       "id": "DongbaekShowdown",
-      "name": "<line-height=120%>Dueling\u200B</line-height>",
+      "name": "Dueling",
       "desc": "Turn Start: Units without this status go into a 'Fully Bloomed' status\nIf Yi Sang has this effect, Dongbaek gains 1 Attack Power Up",
       "summary": ""
     },
     {
       "id": "DongbaekScatterPetal",
-      "name": "<line-height=120%>Scattering Petals\u200B</line-height>",
+      "name": "Scattering Petals",
       "desc": "Turn End: At 6+ Count, become staggered",
       "summary": ""
     },
     {
       "id": "Thorn",
-      "name": "<line-height=120%>Thorns\u200B</line-height>",
+      "name": "Thorns",
       "desc": "When hit, return 50% of the damage taken to the attacker",
       "summary": "Deal 50% of damage taken to attacker"
     },
     {
       "id": "Fragile_Mind_LowMorale",
-      "name": "<line-height=120%>Perilous Heart\u200B</line-height>",
+      "name": "Perilous Heart",
       "desc": "Turn Start: Gain 2 Attack Power Up and 3 Bind",
       "summary": "Turn Start: Gain 2 Attack Power Up and 3 Bind"
     },
     {
       "id": "Fragile_Mind_Panic",
-      "name": "<line-height=120%>Faltering Heart\u200B</line-height>",
+      "name": "Faltering Heart",
       "desc": "In panic, become staggered.",
       "summary": "In panic, become staggered."
     },
     {
       "id": "ErodingMind",
-      "name": "<line-height=120%>Corroding Heart\u200B</line-height>",
+      "name": "Corroding Heart",
       "desc": "Turn Start: Gain 2 Attack Power Down, 2 Fragile, and 5 Bind",
       "summary": "Turn Start: Gain 2 Attack Power Down, 2 Fragile, and 5 Bind"
     },
     {
       "id": "CrimsonResultUp",
-      "name": "<line-height=120%>Wrath Power Up\u200B</line-height>",
+      "name": "Wrath Power Up",
       "desc": "Wrath skills gain final Power by the effect’s Count for one turn."
     },
     {
       "id": "EmittedCurrent",
-      "name": "<line-height=120%>Spark Discharge\u200B</line-height>",
+      "name": "Spark Discharge",
       "desc": "When hit, the attacker gains +1 Charge Count; when hit with a Gloom attack, gain +1 Rupture Count, then reduce Count by 1"
     },
     {
       "id": "DistortedDongrangRadiantVanity",
-      "name": "<line-height=120%>Radiant Vanity\u200B</line-height>",
+      "name": "Radiant Vanity",
       "desc": "At the start of the turn, Dongrang gains 1 Protection and 1 Attack Power Up."
     },
     {
       "id": "DistortedDongrangEmptyMark",
-      "name": "<line-height=120%>Empty Mark\u200B</line-height>",
+      "name": "Empty Mark",
       "desc": "Targeted by Dongrang. Gain 2 Bind every turn, and take +50% damage from Dongrang."
     },
     {
       "id": "DistortedDongrangEarnestAchievement",
-      "name": "<line-height=120%>Earnest Accomplishment\u200B</line-height>",
+      "name": "Earnest Accomplishment",
       "desc": "If this unit is defeated or its HP is brought to 1, the attacker gains buffs."
     },
     {
       "id": "DistortedDongrangEmptyHonor",
-      "name": "<line-height=120%>Empty Honor\u200B</line-height>",
+      "name": "Empty Honor",
       "desc": "If Dongrang defeats this unit, he loses HP, gains 1 Emptiness, and is weakened next turn."
     },
     {
       "id": "DistortedDongrangMomentaryGlory",
-      "name": "<line-height=120%>Momentary Glory\u200B</line-height>",
+      "name": "Momentary Glory",
       "desc": "At 3+ Count, Dongrang becomes more powerful."
     },
     {
       "id": "DistortedDongrangEmptiness",
-      "name": "<line-height=120%>Emptiness\u200B</line-height>",
+      "name": "Emptiness",
       "desc": "At 4+ Count, Dongrang becomes staggered."
     },
     {
       "id": "DistortedDongrangFruition",
-      "name": "<line-height=120%>Borne Fruition\u200B</line-height>",
+      "name": "Borne Fruition",
       "desc": "The unit that defeated this unit heals HP, and gains 1 Haste and 1 Attack Power Up next turn"
     },
     {
       "id": "EgoAwakenDongrangRadiantDesire",
-      "name": "<line-height=120%>Radiant Desire\u200B</line-height>",
+      "name": "Radiant Desire",
       "desc": "Turn Start: Dongrang gains 1 Damage Up and 1 Protection."
     },
     {
       "id": "EgoAwakenDongrangSeed",
-      "name": "<line-height=120%>Seeds\u200B</line-height>",
+      "name": "Seeds",
       "desc": "Turn End: At 5+ Count, gain Nutrient Drain for 2 turns; at less than 5 Count, reduce Count by 1"
     },
     {
       "id": "EgoAwakenDongrangTree",
-      "name": "<line-height=120%>Nutrient Drain\u200B</line-height>",
+      "name": "Nutrient Drain",
       "desc": "Turn End: Dongrang heals 10 HP"
     },
     {
       "id": "EgoAwakenDongrangOverHeal",
-      "name": "<line-height=120%>Overheal\u200B</line-height>",
+      "name": "Overheal",
       "desc": "Count rises by the amount of HP Dongrang caused to heal; at 50+ Count, take Gluttony damage by the effect's Count, gain 5 Fragile, and remove the effect."
     },
     {
       "id": "SinkingSurge",
-      "name": "<line-height=120%>Sinking Deluge\u200B</line-height>",
+      "name": "Sinking Deluge",
       "desc": "Deal SP damage by (Sinking Count * Sinking Potency), then remove Sinking\nIf target's SP is -45 or lower, the excess SP damage is dealt as Gloom-affinity HP damage\n(Units with no Sanity take all of it as Gloom HP damage)"
     },
     {
       "id": "AmberResultUp",
-      "name": "<line-height=120%>Sloth Power Up\u200B</line-height>",
+      "name": "Sloth Power Up",
       "desc": "Sloth skills gain final Power by the effect’s Count for one turn.",
       "summary": "Sloth Skill Final Power +{0}"
     },
     {
       "id": "Blue",
-      "name": "<line-height=120%>Tears\u200B</line-height>",
+      "name": "Tears",
       "desc": "Turn End: Lose 5 SP\nTails Coins inflict 2 Sinking"
     },
     {
       "id": "EgoAwakenDongrangTreeDisplay",
-      "name": "<line-height=120%>Nutrient Drain\u200B</line-height>",
+      "name": "Nutrient Drain",
       "desc": "Turn End: Dongrang heals 10 HP"
     },
     {
       "id": "DongbaekFullBloomDisplay",
-      "name": "<line-height=120%>Fully Bloomed\u200B</line-height>",
+      "name": "Fully Bloomed",
       "desc": "Cannot act\nAt the end of the turn, lose 20 SP; if SP reaches -45, fully heal SP, then gain 'Dazzled Mind' next turn.\nIf this effect isn't removed for 2 turns, remove it at the end of the turn.",
       "summary": ""
     },
     {
       "id": "TakeHpHealIncrease",
-      "name": "<line-height=120%>HP Healing Boost\u200B</line-height>",
+      "name": "HP Healing Boost",
       "desc": "HP healed by Passives, Skill effects, or Coin effects increases proportionally to the value of this effect. (Max 5)"
     },
     {
       "id": "SkillPowerUp",
-      "name": "<line-height=120%>Base Power Up\u200B</line-height>",
+      "name": "Base Power Up",
       "desc": "Raise the Base Power of Skills by the effect's Count."
     },
     {
       "id": "MaxHpMultiplier",
-      "name": "<line-height=120%>Max HP Up\u200B</line-height>",
+      "name": "Max HP Up",
       "desc": "Raise the Max HP by 10% per Count."
     },
     {
       "id": "KCorpSerum",
-      "name": "<line-height=120%>K Corp Ampule\u200B</line-height>",
+      "name": "K Corp Ampule",
       "desc": "Turn Start: At less than 4 Count, heal by (Count * 5)% of Max HP\nAt 4+ Count, the unit dies",
       "summary": ""
     },
     {
       "id": "Talisman",
-      "name": "<line-height=120%>Talisman\u200B</line-height>",
+      "name": "Talisman",
       "desc": "On hit, inflict Rupture by the Count; When hit, gain Rupture by the Count.\nTurn End: At 6+ Count, remove all Talisman and take fixed damage by its Count.",
       "summary": "Inflict Rupture with attacks and gain Rupture when hit"
     },
     {
       "id": "Choice_90104001",
-      "name": "<line-height=120%>Understanding\u200B</line-height>",
+      "name": "Understanding",
       "desc": "At the start of the battle, gain 2 E.G.O resources for every Affinity.",
       "summary": "Gain +2 E.G.O resource for all Affinities"
     },
     {
       "id": "Choice_9010400101",
-      "name": "<line-height=120%>Determined\u200B</line-height>",
+      "name": "Determined",
       "desc": "All Ally Units gain +2 Skill Final Power for this battle",
       "summary": "Skill Final Power +2"
     },
     {
       "id": "Choice_90104002",
-      "name": "<line-height=120%>Longing\u200B</line-height>",
+      "name": "Longing",
       "desc": "All Ally Units gain +1 Skill Power for this battle",
       "summary": "Skill Power +1"
     },
     {
       "id": "MentalSystemResultIncrease_Typo",
-      "name": "<line-height=120%>SP Heal Efficiency\u200B</line-height>",
+      "name": "SP Heal Efficiency",
       "desc": "Amount of SP healed due to the Identity's 'Base factors increasing Sanity(SP)'"
     },
     {
       "id": "MentalSystemResultDecrease_Typo",
-      "name": "<line-height=120%>SP Loss Efficiency\u200B</line-height>",
+      "name": "SP Loss Efficiency",
       "desc": "Amount of SP lost due to the Identity's 'Base factors decreasing Sanity(SP)'"
     },
     {
       "id": "DuelDeclaration",
-      "name": "<line-height=120%>Declared Duel\u200B</line-height>",
+      "name": "Declared Duel",
       "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when another unit inflicts Declared Duel on the same target."
     },
     {
       "id": "Aggro",
-      "name": "<line-height=120%>Aggro\u200B</line-height>",
+      "name": "Aggro",
       "desc": "In focused encounters, slots with higher Aggro values are more likely to be targeted by enemies."
     },
     {
       "id": "BurstVulnerable",
-      "name": "<line-height=120%>Rupture Fragility\u200B</line-height>",
+      "name": "Rupture Fragility",
       "desc": "Take +1 damage per Count from Rupture effects for one turn."
     },
     {
       "id": "EmergencyFeed",
-      "name": "<line-height=120%>Emergency Nutrient Supply\u200B</line-height>",
+      "name": "Emergency Nutrient Supply",
       "desc": "At the end of the turn, if this unit has healed 15% of Max HP or more, the body is restored next turn."
     },
     {
       "id": "Bullet_Crab",
-      "name": "<line-height=120%>Molted Shell Shot\u200B</line-height>",
+      "name": "Molted Shell Shot",
       "desc": "Resource used by certain skills for additional effects."
     },
     {
       "id": "SinkingVulnerable",
-      "name": "<line-height=120%>Sinking Fragility\u200B</line-height>",
+      "name": "Sinking Fragility",
       "desc": "Take +1 damage per Count from Sinking effects for one turn."
     },
     {
       "id": "BurstProtection",
-      "name": "<line-height=120%>Rupture Protection\u200B</line-height>",
+      "name": "Rupture Protection",
       "desc": "Take -1 damage per Count from Rupture effects for one turn."
     },
     {
       "id": "PseudoLastBoss_KingCrap",
-      "name": "<line-height=120%>Crab Rage\u200B</line-height>",
+      "name": "Crab Rage",
       "desc": "At the start of the turn, apply Attack Power Up to all other allied crabs, and gain 2 Protection if its Shell isn't broken.\n-5 SP to target when using a skill.\nAt 50%- HP, every part gains 2 Attack Power Up and 2 Fragile."
     },
     {
       "id": "ChargeForceField",
-      "name": "<line-height=120%>Charge Barrier\u200B</line-height>",
+      "name": "Charge Barrier",
       "desc": "- Gain (Charge Barrier # x 3) Shield.\n- Lose 1 Charge Barrier after losing (Charge Barrier # x 3) Shield.\n- (If the unit is a W Corp. employee, ALL Charge Barrier effects activate at (Charge Barrier # x 5) instead of at (Charge Barrier # x 3))\n- Turn End: Gain a Charge Count for each Charge Barrier #, and Charge Barrier and Shield gained from Charge Barrier expire completely next turn"
     },
     {
       "id": "SlashResultUp",
-      "name": "<line-height=120%>Slash Power Up\u200B</line-height>",
+      "name": "Slash Power Up",
       "desc": "Slash skills gain final Power by the effect’s Count for one turn."
     },
     {
       "id": "Discard",
-      "name": "<line-height=120%>Discard\u200B</line-height>",
+      "name": "Discard",
       "desc": "- Delete Skills that fit the condition and are selectable during the Chaining Phase from the Dashboard. (Defensive & E.G.O Skills do not count. Does not delete the Skill from the upcoming Skills list)\n- Discarded Skills will not activate Skill effects or Coin effects other than effects from Discard, and will not give E.G.O resources."
     },
     {
       "id": "KnowledgeExplored",
-      "name": "<line-height=120%>Insight\u200B</line-height>",
+      "name": "Insight",
       "desc": "The rank of the last Skill Discarded by the unit with this effect (Base Value: 1)"
     },
     {
       "id": "Unjust_Enrichment",
-      "name": "<line-height=120%>Unjust Enrichment\u200B</line-height>",
+      "name": "Unjust Enrichment",
       "desc": "- Gained on Heads Hit against target with Bleed (Max 4)\n- When 'Bullets are Pricey' Passive activates, consume all Unjust Enrichment stack to deal bonus damage"
     },
     {
       "id": "Resentment",
-      "name": "<line-height=120%>Resentment\u200B</line-height>",
+      "name": "Resentment",
       "desc": "If the enemy with the <sprite name=\"RetaliationBook\"><color=#e30000><link=\"RetaliationBook\">Vengeance Mark</color></link></u> is hit by an attack, this effect expires at Attack End.\nExpires at the end of the turn",
       "undefined": "-"
     },
     {
       "id": "RetaliationBook",
-      "name": "<line-height=120%>Vengeance Mark\u200B</line-height>",
+      "name": "Vengeance Mark",
       "desc": "Applied to the unit that dealt the most damage to an ally (Max 1)",
       "undefined": "-"
     },
     {
       "id": "PenetrateResultUp",
-      "name": "<line-height=120%>Pierce Power Up\u200B</line-height>",
+      "name": "Pierce Power Up",
       "desc": "Pierce skills gain final Power by the effect’s Count for one turn."
     },
     {
       "id": "DuelDeclaration_DonQuixote",
-      "name": "<line-height=120%>Declared Duel - Don Quixote\u200B</line-height>",
+      "name": "Declared Duel - Don Quixote",
       "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when other unit inflicts Declared Duel on the same target."
     },
     {
       "id": "DuelDeclaration_Outis",
-      "name": "<line-height=120%>Declared Duel - Outis\u200B</line-height>",
+      "name": "Declared Duel - Outis",
       "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when other unit inflicts Declared Duel on the same target."
     },
     {
       "id": "DuelDeclaration_Sinclair",
-      "name": "<line-height=120%>Declared Duel - Sinclair\u200B</line-height>",
+      "name": "Declared Duel - Sinclair",
       "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when another unit inflicts Declared Duel on the same target."
     },
     {
       "id": "VibrationExplosion",
-      "name": "<line-height=120%>Tremor Burst\u200B</line-height>",
+      "name": "Tremor Burst",
       "desc": "Raise target's Stagger Threshold by Tremor Potency on target"
     },
     {
       "id": "OneOnOneDuel",
-      "name": "<line-height=120%>Single Combat\u200B</line-height>",
+      "name": "Single Combat",
       "desc": "Established when the attacked Slot is targeted by a single unit, and only by that single unit. This condition is established only between the attacking unit and the attacked Slot. (Does not apply to reused Skills)"
     },
     {
       "id": "BulletFreischutz",
-      "name": "<line-height=120%>사용하지 않음\u200B</line-height>",
+      "name": "사용하지 않음",
       "desc": "사용하지 않음"
     },
     {
       "id": "FreischutzShotCount",
-      "name": "<line-height=120%>Magic Bullet\u200B</line-height>",
+      "name": "Magic Bullet",
       "desc": "- Max: 7\n- Value changes depending on certain Skill effects.\n- [Lobotomy E.G.O::Magic Bullet Outis Only]\n· The higher the value, the higher the Base Power and Coin Power of Skill 3"
     },
     {
       "id": "DarkFlame",
-      "name": "<line-height=120%>Dark Flame\u200B</line-height>",
+      "name": "Dark Flame",
       "desc": "- Unique Burn\n- Max Value: 7\n- Target loses Defense Level equal to the value of this effect\n- Turn End: Deal (Value x Burn on target) Pride Affinity damage, then expires"
     },
     {
       "id": "CtrlTeamCaptain",
-      "name": "<line-height=120%>Control Team Captain\u200B</line-height>",
+      "name": "Control Team Captain",
       "desc": "- Skill Slot +1\n- Modify Skill pool: Gain 1 use of Skill 3, but lose 1 use of Skill 1\n- When this unit defeats an enemy with a Skill, 2 allies(including this unit) with the least SP heal 25 SP. Gain +2 E.G.O resource to the Affinity of the Skill that defeated the enemy; gain +1 E.G.O resource to rest of the Affinities"
     },
     {
       "id": "HeatedGasHarpoon",
-      "name": "<line-height=120%>Heated Gas Harpoon\u200B</line-height>",
+      "name": "Heated Gas Harpoon",
       "desc": "For 1 turn, inflict 1 Burn with Heads Hit"
     },
     {
       "id": "OverHeatedGasHarpoon",
-      "name": "<line-height=120%>Overheated Gas Harpoon\u200B</line-height>",
+      "name": "Overheated Gas Harpoon",
       "desc": "For 1 turn, inflict 1 Burn On Hit"
     },
     {
       "id": "CoverAttack",
-      "name": "<line-height=120%>Assist Attack\u200B</line-height>",
+      "name": "Assist Attack",
       "desc": "- If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with its Skill 1 against the same enemy Unit A attacked with its Skill. Activates at Unit A's Attack End.\n- The Skill used as an Assist Attack does not affect Unit B's upcoming Skills list."
     },
     {
       "id": "ReCompulsion",
-      "name": "<line-height=120%>Reverse Compulsion\u200B</line-height>",
+      "name": "Reverse Compulsion",
       "desc": "Heal 15 SP at every Turn Start"
     },
     {
       "id": "IndigoResultUp",
-      "name": "<line-height=120%>Pride Power Up\u200B</line-height>",
+      "name": "Pride Power Up",
       "desc": "Pride Skills gain final Power by the effect’s Count for one turn."
     },
     {
       "id": "BladeResultUpTier1",
-      "name": "<line-height=120%>Sword of the Homeland - Rending\u200B</line-height>",
+      "name": "Sword of the Homeland - Rending",
       "desc": "Skill 1 gains Final Power by the effect’s Count for this turn."
     },
     {
       "id": "BladeResultUpTier2",
-      "name": "<line-height=120%>Sword of the Homeland - Penetrating\u200B</line-height>",
+      "name": "Sword of the Homeland - Penetrating",
       "desc": "Skill 2 gains Final Power by the effect’s Count for this turn."
     },
     {
       "id": "SwordPlayOfTheHomeland",
-      "name": "<line-height=120%>Swordplay of the Homeland\u200B</line-height>",
+      "name": "Swordplay of the Homeland",
       "desc": "- When at 5+ Poise, upon Skill use, Skill 1 and Skill 2 gain Coin Power +(3/# of Coins, minimum 1) and deal +(30/# of Coins)% damage on Critical Hit\n- When at 7+ Poise, upon Skill use, Skill 3 deals +(30/# of Coins)% more damage and deals +(50/# of Coins)% damage on Critical Hit"
     },
     {
       "id": "SwordPlayOfTheMemorial",
-      "name": "<line-height=120%>Remembrance\u200B</line-height>",
+      "name": "Remembrance",
       "desc": "- When at 5+ Poise, upon Skill use, Skill 1 and Skill 2 gain Coin Power +(3/# of Coins, minimum 1) and deal +(30/# of Coins)% damage on Critical Hit\n- When at 7+ Poise, upon Skill use, Skill 3 deals +(30/# of Coins)% more damage and deals +(50/# of Coins)% damage on Critical Hit"
     },
     {
       "id": "RedApricotBlossom",
-      "name": "<line-height=120%>Red Plum Blossom\u200B</line-height>",
+      "name": "Red Plum Blossom",
       "desc": "- Unique Bleed\n- Max value: 10\n- +10% chance for this unit to be Critically Hit if this unit is the main target\n- When struck by a Critical Hit, gain Bleed equal to the half of the value and take +(value x 3)% damage on Critical Hit\n- Reduce value by 1 when hit",
       "summary": "Higher chance to be Critically Hit; take more damage upon Critical Hit"
     },
     {
       "id": "VibrationCollapse",
-      "name": "<line-height=120%>Tremor - Decay\u200B</line-height>",
+      "name": "Tremor - Decay",
       "desc": "Lose 1 Defense Level for every 4 Tremor Potency on self\nWhen Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\nTurn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raises or reduces Tremor Potency/Count)"
     },
     {
       "id": "EchoOfMansion",
-      "name": "<line-height=120%>Echoes of the Manor\u200B</line-height>",
+      "name": "Echoes of the Manor",
       "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Units with SP: Change Panic Type to Echoes of the Manor. When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit next turn\n- Units without SP: -10% chance to flip Heads\n- Reduced by 1 at Turn End\nThis effect is not cumulative; inflicting it will replace the current value with the inflicted value.\n※ Apply the \"Units without SP\" conditional to certain enemies that have SP but can't change their Panic Types."
     },
     {
       "id": "Switch_Vibration",
-      "name": "<line-height=120%>Amplitude Conversion\u200B</line-height>",
+      "name": "Amplitude Conversion",
       "desc": "Converts Tremor or already converted Tremor on target to a different type of Tremor.\nPotency and Count values do not change over the conversion."
     },
     {
       "id": "AzureResultUp",
-      "name": "<line-height=120%>Gloom Power Up\u200B</line-height>",
+      "name": "Gloom Power Up",
       "desc": "Gloom Skills gain final Power by the effect’s Count for one turn."
     },
     {
       "id": "VibrationCrack",
-      "name": "<line-height=120%>Tremor - Fracture\u200B</line-height>",
+      "name": "Tremor - Fracture",
       "desc": "- When Staggered, and when the sum of Tremor Potency and Count adds up to 20 or higher, raise Stagger Level by 1\n- Cannot exceed maximum Stagger Level with this effect\n\nWhen hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\nTurn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raises or reduces Tremor Potency/Count)"
     },
     {
       "id": "ForwardToTheKing",
-      "name": "<line-height=120%>Before the King\u200B</line-height>",
+      "name": "Before the King",
       "desc": "When this unit's attack with 1 Atk Weight hits, inflict 50% of the resulting Coin value On Hit as (Affinity/Attack Type of the Attack Skill used to hit) damage against 2 other attackable enemies with the least HP.",
       "summary": ""
     },
     {
       "id": "ForwardToTheBoundKing",
-      "name": "<line-height=120%>Before the King in Binds\u200B</line-height>",
+      "name": "Before the King in Binds",
       "desc": "When this unit's attack with 1 Atk Weight hits, inflict 100% of the resulting Coin value On Hit as (Affinity/Attack Type of the Attack Skill used to hit) damage against 2 other attackable enemies with the least HP",
       "summary": ""
     },
     {
       "id": "MarkOfButler",
-      "name": "<line-height=120%>B.M.\u200B</line-height>",
+      "name": "B.M.",
       "desc": "Enhances Edgar Family Chief Butler Ryōshū Skills against targets with this effect.\nTurn End: reduce the Count by 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "PreparedMeat",
-      "name": "<line-height=120%>Prepared Meat\u200B</line-height>",
+      "name": "Prepared Meat",
       "desc": "If conditions are met, Fairy Queen kills this unit at Turn End"
     },
     {
       "id": "Hunger",
-      "name": "<line-height=120%>Hunger\u200B</line-height>",
+      "name": "Hunger",
       "desc": "Turn End: gain 1 if this unit failed to defeat an ally with Prepared Meat.\nAt 75%- HP, gain 2. At 50%- HP, gain 3.\nTurn Start: lose 1 if this unit defeated an ally with Prepared Meat.\nAt 0 value, gain (# of allies defeated x 3)Attack Power Down and Defense Power Down.",
       "summary": ""
     },
     {
       "id": "UnstableFeeling",
-      "name": "<line-height=120%>Volatile Passion\u200B</line-height>",
+      "name": "Volatile Passion",
       "desc": "- On Hit, inflict 1 Burn\n- If the main target has Burn, Final Power +1\n- When hit, if this unit had a Defense Skill chained at Combat Start, inflict Burn against the attacker for the turn\n- Turn End: lose (# of turns spent in Volatile E.G.O state x 5) SP. (Max SP loss : 40)",
       "summary": ""
     },
     {
       "id": "VibrationEcho",
-      "name": "<line-height=120%>Tremor - Reverb\u200B</line-height>",
+      "name": "Tremor - Reverb",
       "desc": "- On Tremor Burst, take Sloth damage equal to Tremor Potency on self.\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency.\n- Turn End: reduce the Count by 1.\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": ""
     },
     {
       "id": "ShieldManagerCryingToad",
-      "name": "<line-height=120%>Blubberbubble\u200B</line-height>",
+      "name": "Blubberbubble",
       "desc": "- This effect counts as a 'Shield Management' effect.\n- Turn End: Reduce Count by 1\n- This unit does not lose Shield at Turn End as long as it has the Blubberbubble effect (unless depleted by damage or effect)\n- If the Shield affected by Blubberbubble breaks due to taking damage, inflict 4 Sinking Potency/Count against the attacker. (How much of that '4' value is Potency or Count is randomly determined)\n- This unit can stack their Shield value by using this effect. However, as long as Blubberbubble is in effect, the Shield value cannot exceed 60% of this unit's Max HP.",
       "summary": ""
     },
     {
       "id": "VibrationContinue",
-      "name": "<line-height=120%>Tremor - Everlasting\u200B</line-height>",
+      "name": "Tremor - Everlasting",
       "desc": "- When hit by Skills or Coin effects that trigger Tremor Burst, (Tremor Potency on self)% chance to trigger an additional Tremor Burst. (max 50%)\n- When hit by Skills or Coin effects that trigger Tremor Burst, (Tremor Count on self)% chance to trigger an additional Tremor Burst. (max 50%)\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": ""
     },
     {
       "id": "TimeSuspend",
-      "name": "<line-height=120%>Time Moratorium\u200B</line-height>",
+      "name": "Time Moratorium",
       "desc": "- Does not take any damage as long as this effect is active; store all damage received instead\n- Combat End: If there is only 1 Count left of this effect, the effect triggers Tremor Burst after dealing (100 + (Stack x 15)% of stored damage as Sloth damage\n- Turn End: gain 1 Stack and lose 1 Count\n- The Time Moratorium will immediately expire after triggering the Tremor Burst and the Sloth damage effect if another instance of Time Moratorium is inflicted on a unit with Time Moratorium.",
       "summary": ""
     },
     {
       "id": "TimeRentalTwoPersonality",
-      "name": "<line-height=120%>Borrowed Time\u200B</line-height>",
+      "name": "Borrowed Time",
       "desc": "Turn End at 2+ Count:\n- Gain (Borrowed Time Count - 1) Haste, Clash Power Up, and Fragile next turn\n- If this unit is set to gain more Bind than Haste next turn, the Borrowed Time effect expires at the next Turn Start, and this unit gets Staggered\n\nTurn End: At 1 Count, gain 2(Borrowed Time Stack - 1) Bind next turn\nTurn End: Gain 1 Stack, lose 1 Count",
       "summary": ""
     },
     {
       "id": "VibrationChainPersonality",
-      "name": "<line-height=120%>Tremor - Chain\u200B</line-height>",
+      "name": "Tremor - Chain",
       "desc": "- Lose 1 Clash Power for every 10 Tremor Potency on self (max 3)\n- When Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": ""
     },
     {
       "id": "GazePersonality",
-      "name": "<line-height=120%>Gaze of Contempt\u200B</line-height>",
+      "name": "Gaze of Contempt",
       "desc": "- Max Value: 7\n- Deal +7% more damage for every Gaze of Contempt\n- Turn End: this effect expires\n- Turn End: At 7 Gaze of Contempt value, convert it to Contempt of the Gaze next turn instead of expiring\n\n[Contempt of the Gaze]\n- Gain 7 Protection\n- Gain 7 Damage Down\n- One of this unit's Slots gains +20 Aggro\n- Cannot gain Gaze of Contempt as long as Contempt of the Gaze is active\n- Turn End: this effect expires",
       "summary": ""
     },
     {
       "id": "ContemptPersonality",
-      "name": "<line-height=120%>Contempt of the Gaze\u200B</line-height>",
+      "name": "Contempt of the Gaze",
       "desc": "- Gain 7 Protection\n- Gain 7 Damage Down\n- One of this unit's Skill Slots gains +20 Aggro\n- Cannot gain Gaze of Contempt as long as Contempt of the Gaze is active\n- Turn End: this effect expires",
       "summary": ""
     },
     {
       "id": "KnowledgeTraining",
-      "name": "<line-height=120%>Erudition\u200B</line-height>",
+      "name": "Erudition",
       "desc": "- Max Value: 6\n- When Discarding a Skill, gain (Erudition x 1.5)% of this unit's max HP as Shield (once per turn)\n- If this unit Discards a Skill at 2+ Insight, gain 1 Clash Power (once per turn)\n- Reduced by 1 when taking HP damage after getting hit by an enemy's Attack Skill\n- Expires when Staggered",
       "summary": ""
     },
     {
       "id": "BoseProjektil",
-      "name": "<line-height=120%>Torn Memory\u200B</line-height>",
+      "name": "Torn Memory",
       "desc": "- Max Value : 7\n- Used for certain Skills",
       "summary": ""
     },
     {
       "id": "ChargeLoad",
-      "name": "<line-height=120%>Load\u200B</line-height>",
+      "name": "Load",
       "desc": "- Max Value : 6\n- Attack Skills that consumed Charge Count deal +2.5% more damage for every value on self (max 15%)\n- If the affected unit is a W Corp. employee., deal +5% more damage for every value instead (max 30%)\n- Turn End: this effect expires",
       "summary": ""
     },
     {
       "id": "PhotoElectricity",
-      "name": "<line-height=120%>Photoelectricity\u200B</line-height>",
+      "name": "Photoelectricity",
       "desc": "Max Value: 3\nWhen this unit is hit, the Attacker gains Charge Count equal to the value (once per Skill)\n- If the Attacker has 5- Charge Count, they gain +3 additional Charge Count\nTurn End: this effect expires",
       "summary": ""
     },
     {
       "id": "Coffin",
-      "name": "<line-height=120%>Coffin\u200B</line-height>",
+      "name": "Coffin",
       "desc": "- Max Value: 10\n- At Turn End:\n  - Gain 2 Damage Up next turn for every 3 Value (max 6)\n  - Raise minimum Speed by 1 next turn for every 4 Value (max 2)\n  - Gain 1 Clash Power Up next turn for every 5 Value (max 2)",
       "summary": ""
     },
     {
       "id": "WildHunt",
-      "name": "<line-height=120%>Wild Hunt\u200B</line-height>",
+      "name": "Wild Hunt",
       "desc": "- In the same turn this unit gained Wild Hunt for the first time, always have 1 remaining HP; \"revive\"(heal 50% HP and reset SP to 0) this unit at Turn End.\n- On death, gain 1 E.G.O resource for the least-owned E.G.O resource\n- If this unit is killed by an attack, inflict 3 Sinking against the last attacker\n- Dies at the end of the same turn this unit was revived in",
       "summary": ""
     },
     {
       "id": "NightPathfinding",
-      "name": "<line-height=120%>Dullahan\u200B</line-height>",
+      "name": "Dullahan",
       "desc": "- Max Value: 3\n- Gain 3 Offense Level\n- Lose 3 Defense Level\n- Raise Min & Max Speed values by 1\n- Turn End: Gain 1 Dullahan next turn (At -25 SP or less, however, completely lose Dullahan)\n- Turn End: If this unit has Dullahan, lose (15 - (Coffin/2)) SP. (min 10)",
       "summary": ""
     },
     {
       "id": "WanderingFootsteps",
-      "name": "<line-height=120%>Impending Ruin\u200B</line-height>",
+      "name": "Impending Ruin",
       "desc": "- Units with SP: change their Panic Type to \"\"Ruin\"\".\n(Ruin: When this unit enters Low Morale state, gain 3 Sinking at every Turn End and lose 1 Clash Power. When this unit Panics, gain 5 Sinking and 3 Sinking Count at every Turn End and lose 2 Clash Power)\n- Units without SP: -10% chance to flip Heads\n- Reduced by 1 at Turn End\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value.\n※ Apply the \"\"Units without SP\"\" conditional to certain enemies that have SP but can't change their Panic Types.",
       "summary": ""
     },
     {
       "id": "WanderingFootsteps_Main",
-      "name": "<line-height=120%>Impending Ruin\u200B</line-height>",
+      "name": "Impending Ruin",
       "desc": "- Targets with SP: Change their Panic Type to 'Ruin'\n- Reduced by 1 at Turn End",
       "summary": ""
     },
     {
       "id": "WanderingFootsteps_Sub",
-      "name": "<line-height=120%>Impending Ruin\u200B</line-height>",
+      "name": "Impending Ruin",
       "desc": "- -10% chance to flip Heads\n- Reduced by 1 at Turn End",
       "summary": ""
     },
     {
       "id": "WanderingFootsteps_LowMorale",
-      "name": "<line-height=120%>Ruin\u200B</line-height>",
+      "name": "Ruin",
       "desc": "- Low Morale\n- Clash Power -1 on self. Gain 3 Sinking at every Turn End",
       "summary": "Clash Power -1 on self. Gain 3 Sinking at every Turn End",
       "undefined": "-"
     },
     {
       "id": "WanderingFootsteps_Panic",
-      "name": "<line-height=120%>Ruin\u200B</line-height>",
+      "name": "Ruin",
       "desc": "- Panic\n- Clash Power -2 on self. Gain 5 Sinking and +3 Sinking Count at every Turn End",
       "summary": "Clash Power -2 on self. Gain 5 Sinking and +3 Sinking Count at every Turn End",
       "undefined": "-"
     },
     {
       "id": "UninvitedGuestPersonality",
-      "name": "<line-height=120%>The Uninvited\u200B</line-height>",
+      "name": "The Uninvited",
       "desc": "- Max Value: 2\n- Upon death, the last attacker heals 3 SP; then, a random ally without this effect gains 2 Stacks of this effect.\n- Take +0.5% more damage for every Sinking on self (max 10%; for Focused Encounters, count Sinking on each Part separately)\n- Turn End: reduced by 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DevyatDimensionalSack",
-      "name": "<line-height=120%>Courier Trunk - Rodion\u200B</line-height>",
+      "name": "Courier Trunk - Rodion",
       "desc": "- Base Value: 0\n- Turn Start: gain 3 Stack\n- Stack does not expire upon Retreat; it is stored instead\n- At 10+ Stack: raise Min & Max Speed values by 1\n- At 20+ Stack: Gain 1 Clash Power Up and 1 Slash Damage Up\n- At 30+ Stack:\n· On Skill Use, take (Stack/3)% HP damage and (Stack/3) SP damage\n· On Turn End, take (Stack/2)% HP damage and (Stack/2) SP damage (applies before Retreat)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Retreat",
-      "name": "<line-height=120%>Strategic R&R Mode\u200B</line-height>",
+      "name": "Strategic R&R Mode",
       "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DefensiveStance",
-      "name": "<line-height=120%>Defensive Stance\u200B</line-height>",
+      "name": "Defensive Stance",
       "desc": "- Max Value: 2\n- This effect does not compound in potency; stacking it only extends its duration.\n- Reduced by 1 at Turn End\n- When a unit gains this effect, gain the following effects next turn:\n  · Fix this unit's Speed to its minimum value\n  · Gain 5 Defense Level Up\n  · Each of this unit's Slots gain +(10 / this unit's # of Slots) Aggro\n  · When chaining Skills, this unit can draw enemies' attack toward this unit regardless of Speed (Focused Encounters only)\n  · Upon Clash Win, trigger Tremor Burst\n  · Cannot be Staggered by damage",
       "summary": ""
     },
     {
       "id": "CanDuelGuard",
-      "name": "<line-height=120%>Clashable Guard\u200B</line-height>",
+      "name": "Clashable Guard",
       "desc": "- On Clash Win: raise the target's Stagger Threshold by this unit's final Clash Power.\n- On Clash Lose: when hit, reduce the attacker's final Skill Power by this unit's Final Power.\n- On Clash Lose: does not gain Final Power from the following sources: Resonance and the Level disparity against the Attack Skill",
       "summary": ""
     },
     {
       "id": "SuperCoin",
-      "name": "<line-height=120%>Unbreakable Coin\u200B</line-height>",
+      "name": "Unbreakable Coin",
       "desc": "- This coin does not break upon Clash Lose.\n- If an Attack Skill has this Coin, attack with this Coin after getting hit.\n- Upon Clash Lose, fix the Coin Power of the unbroken Coin to 1",
       "summary": ""
     },
     {
       "id": "BloodScissorPersonalityFirst",
-      "name": "<line-height=120%>Blood-tinged Scissorblades\u200B</line-height>",
+      "name": "Blood-tinged Scissorblades",
       "desc": "- Max Value: 10\n- Stage 1 Blood-tinged Scissorblades\n- At 10+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades II.\n- At 20+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- Blood-tinged Scissorblades does not drop below 1.\n- At Blood-tinged Scissorblades II, gain 1 Offense Level Up and 1 Defense Level Down based on the Stack\n- At Blood-tinged Scissorblades III, gain 1 Offense Level Up based on the Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodScissorPersonalitySecond",
-      "name": "<line-height=120%>Blood-tinged Scissorblades II\u200B</line-height>",
+      "name": "Blood-tinged Scissorblades II",
       "desc": "- Max Value: 20\n- Stage 2 Blood-tinged Scissorblades\n- Turn Start: gain 1 Offense Level Up and 1 Defense Level Down for every 5 Stack\n- At 10+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades II.\n- At 20+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- Blood-tinged Scissorblades does not drop below 1.\n- At Blood-tinged Scissorblades II, gain 1 Offense Level Up and 1 Defense Level Down based on the Stack\n- At Blood-tinged Scissorblades III, gain 1 Offense Level Up based on the Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodScissorPersonalityThird",
-      "name": "<line-height=120%>Blood-tinged Scissorblades III\u200B</line-height>",
+      "name": "Blood-tinged Scissorblades III",
       "desc": "- Max Value: 30\n- Stage 3 Blood-tinged Scissorblades\n- Turn Start: gain 1 Offense Level Up for every 5 Stack\n- At 10+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades II.\n- At 20+ Blood-tinged Scissorblades, converts to Blood-tinged Scissorblades III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- Blood-tinged Scissorblades does not drop below 1.\n- At Blood-tinged Scissorblades II, gain 1 Offense Level Up and 1 Defense Level Down based on the Stack\n- At Blood-tinged Scissorblades III, gain 1 Offense Level Up based on the Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "LineCuttingPersonality",
-      "name": "<line-height=120%>Sewing Target\u200B</line-height>",
+      "name": "Sewing Target",
       "desc": "- Max Value: 1\n- Take +0.5% more damage for every Bleed on self (max 10%)\n- Turn End: reduced by 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Snare",
-      "name": "<line-height=120%>Lasso\u200B</line-height>",
+      "name": "Lasso",
       "desc": "- Max Value: 3\n- Turn End: gain Rupture Potency equal to this unit's current Speed value (max 5), and gain 1 Bind next turn\n- Turn End: reduced by 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHandGregFirst",
-      "name": "<line-height=120%>Bloodied Hand\u200B</line-height>",
+      "name": "Bloodied Hand",
       "desc": "- Max Value: 10\n- Stage 1 Bloodied Hand\n- At 10+ Bloodied Hand, converts to Bloodied Hand II.\n- At 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- At Bloodied Hand II, gain 1 Offense Level Up based on the Stack\n- At Bloodied Hand III, gain 1 Offense Level Up based on the Stack, and additionally inflict 1 Rupture and 1 Bleed On Hit with Base Skills",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHandGregSecond",
-      "name": "<line-height=120%>Bloodied Hand II\u200B</line-height>",
+      "name": "Bloodied Hand II",
       "desc": "- Max Value: 20\n- Stage 2 Bloodied Hand\n- Turn Start: gain 1 Offense Level Up for every 10 Stack\n- At 10+ Bloodied Hand, converts to Bloodied Hand II.\n- At 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- At Bloodied Hand II, gain 1 Offense Level Up based on the Stack\n- At Bloodied Hand III, gain 1 Offense Level Up based on the Stack, and additionally inflict 1 Rupture and 1 Bleed On Hit with Base Skills",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHandGregThird",
-      "name": "<line-height=120%>Bloodied Hand III\u200B</line-height>",
+      "name": "Bloodied Hand III",
       "desc": "- Max Value: 30\n- Stage 3 Bloodied Hand\n- Turn Start: gain 1 Offense Level Up for every 10 Stack\n- On Hit with Base Skills: additionally inflict 1 Rupture and 1 Bleed\n- At 10+ Bloodied Hand, converts to Bloodied Hand II.\n- At 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage when the Stack drops below the requirements.\n- At Bloodied Hand II, gain 1 Offense Level Up based on the Stack\n- At Bloodied Hand III, gain 1 Offense Level Up based on the Stack, and additionally inflict 1 Rupture and 1 Bleed On Hit with Base Skills",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WornHeartGreg",
-      "name": "<line-height=120%>Ailing Heart\u200B</line-height>",
+      "name": "Ailing Heart",
       "desc": "- Max Value: 10\n- Turn End: gain 1 Stack\n- Turn Start: gain 1 Defense Level Up for every 3 Stack\n- At 50%- HP, gain 1 Defense Level for every 3 Stack\n- At 40%- HP, On Hit with Base Skills, heal (Stack x 5)% of damage dealt On Hit as HP (min 1; rounded down; heal up to 30 HP per Skill)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloomingThornsRodionFirst",
-      "name": "<line-height=120%>Blooming Thorn\u200B</line-height>",
+      "name": "Blooming Thorn",
       "desc": "- Max Value: 10\n- Stage 1 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture Potency with this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloomingThornsRodionSecond",
-      "name": "<line-height=120%>Blooming Thorn II\u200B</line-height>",
+      "name": "Blooming Thorn II",
       "desc": "- Max Value: 20\n- Stage 2 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture with this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloomingThornsRodionThird",
-      "name": "<line-height=120%>Blooming Thorn III\u200B</line-height>",
+      "name": "Blooming Thorn III",
       "desc": "- Max Value: 30\n- Stage 3 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture with this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FestivalFeverRodion",
-      "name": "<line-height=120%>Festive Fever\u200B</line-height>",
+      "name": "Festive Fever",
       "desc": "- Max Value: 10\n- Expires at Turn End\n- Against targets with Bleed: deal +1.5% more damage for every Stack\n- Skills that consume or gain Bloodfeast deal +3% more damage for every Stack instead",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VibrationSpring",
-      "name": "<line-height=120%>Tremor - Clockwinding\u200B</line-height>",
+      "name": "Tremor - Clockwinding",
       "desc": "- Max Speed + 2\n- Consume Tremor Count on self to inflict 1 more of Tremor Potency or Count when inflicting them with this unit's Skill or Coin effects\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DevyatDimensionalSackSinclair",
-      "name": "<line-height=120%>Courier Trunk - Sinclair\u200B</line-height>",
+      "name": "Courier Trunk - Sinclair",
       "desc": "- Base Value: 0\n- Turn Start: gain 3 Stack\n- Stack does not expire upon Retreat; it is stored instead\n- At 10+ Stack: raise Min & Max Speed values by 1\n- At 20+ Stack: Gain 1 Clash Power Up and 1 Blunt Damage Up\n- At 30+ Stack:\n· On Skill Use, take (Stack/3)% HP damage and (Stack/3) SP damage\n· On Turn End, take (Stack/2)% HP damage and (Stack/2) SP damage (applies before Retreat)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Zazen",
-      "name": "<line-height=120%>Dhyāna\u200B</line-height>",
+      "name": "Dhyāna",
       "desc": "- Max Stack: 108\n- Deal +1% more damage for every Stack",
       "summary": "Deal more damage"
     },
     {
       "id": "SwirlingBloodPersonality",
-      "name": "<line-height=120%>Shimmering【Bloodfiend】\u200B</line-height>",
+      "name": "Shimmering【Bloodfiend】",
       "desc": "- Max Stack: 50\n- As long as this effect exists, all Bleed damage taken by the Shield HP is converted to Bloodfeast.\n- Gain Shield HP equal to the Stack at the moment of its application\n- Expires at Turn End",
       "summary": ""
     },
     {
       "id": "BloodArmorPersonalityFirst",
-      "name": "<line-height=120%>Hardblood\u200B</line-height>",
+      "name": "Hardblood",
       "desc": "- Max Stack: 10\n- Stage 1 Hardblood\n- At 10+ Hardblood, converts to Hardblood II.\n- At 20+ Hardblood, converts to Hardblood III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Hardblood does not drop below 1.\n- Raise Min & Max Speed values by 1 for every 10 Hardblood\n- At Hardblood II, gain 1 Offense Level Up based on the Stack\n- At Hardblood III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
       "summary": ""
     },
     {
       "id": "BloodArmorPersonalitySecond",
-      "name": "<line-height=120%>Hardblood II\u200B</line-height>",
+      "name": "Hardblood II",
       "desc": "- Max Stack: 20\n- Stage 2 Hardblood\n- Turn Start: gain 1 Offense Level Up for every 5 Stack\n- Raise Min & Max Speed values by 1\n- At 10+ Hardblood, converts to Hardblood II.\n- At 20+ Hardblood, converts to Hardblood III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Hardblood does not drop below 1.\n- At Hardblood II, gain 1 Offense Level Up based on the Stack\n- At Hardblood III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
       "summary": ""
     },
     {
       "id": "BloodArmorPersonalityThird",
-      "name": "<line-height=120%>Hardblood III\u200B</line-height>",
+      "name": "Hardblood III",
       "desc": "- Max Stack: 30\n- Stage 3 Hardblood\n- Turn Start: gain 1 Offense Level Up and 1 Defense Level Up for every 5 Stack\n- Raise Min & Max Speed values by 2\n- At 10+ Hardblood, converts to Hardblood II.\n- At 20+ Hardblood, converts to Hardblood III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Hardblood does not drop below 1.\n- At Hardblood II, gain 1 Offense Level Up based on the Stack\n- At Hardblood III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
       "summary": ""
     },
     {
       "id": "SadLamanchaland",
-      "name": "<line-height=120%>Responsibility\u200B</line-height>",
+      "name": "Responsibility",
       "desc": "- Max Value: 1\n- Clash Power +1\n- Deal +20% more damage\n- Take +20% more damage",
       "summary": ""
     },
     {
       "id": "FreishutzOutisEgoBullet_1st",
-      "name": "<line-height=120%>The First Magic Bullet\u200B</line-height>",
+      "name": "The First Magic Bullet",
       "desc": "- Deals +20% more damage\n- Raise the target's Stagger Threshold by damage dealt (max 30)"
     },
     {
       "id": "FreishutzOutisEgoBullet_2nd",
-      "name": "<line-height=120%>The Second Magic Bullet\u200B</line-height>",
+      "name": "The Second Magic Bullet",
       "desc": "- Deal +10% more damage\n- Deal damage to targets other than the main target (max targets: 4); the main target takes 0 damage\n- On Hit, inflict 3 Paralyze"
     },
     {
       "id": "FreishutzOutisEgoBullet_3rd",
-      "name": "<line-height=120%>The Third Magic Bullet\u200B</line-height>",
+      "name": "The Third Magic Bullet",
       "desc": "- Deal +20% more damage\n- Before Attack: gain +2 Atk Weight\n- On Hit, inflict 2 Attack Power Down and 10 Burn"
     },
     {
       "id": "FreishutzOutisEgoBullet_4th",
-      "name": "<line-height=120%>The Fourth Magic Bullet\u200B</line-height>",
+      "name": "The Fourth Magic Bullet",
       "desc": "- Deal +30% more damage\n- Before Attack: gain +3 Atk Weight\n- On Hit, raise the target's Stagger Threshold by damage dealt (max 20); then, inflict 3 Fragility next turn"
     },
     {
       "id": "FreishutzOutisEgoBullet_5th",
-      "name": "<line-height=120%>The Fifth Magic Bullet\u200B</line-height>",
+      "name": "The Fifth Magic Bullet",
       "desc": "- Deal +30% more damage\n- Before Attack: gain +4 Atk Weight\n- On Hit, inflict 10 Burn; then, inflict 4 Offense Level down and 4 Defense Level Down next turn"
     },
     {
       "id": "FreishutzOutisEgoBullet_6th",
-      "name": "<line-height=120%>The Sixth Magic Bullet\u200B</line-height>",
+      "name": "The Sixth Magic Bullet",
       "desc": "- Before Attack: gain +6 Atk Weight\n- On Hit, raise the target's Stagger Threshold by damage dealt (max 30)\n- Reuse the Coin for every 7 Burn on the main target (2 times max)\n- Plus Coin Skill Base Power -16\n- Minus Coin Skill Base Power -22\n - Plus Coin Power -8\n - Minus Coin Power -12"
     },
     {
       "id": "FreishutzOutisEgoBullet_7th",
-      "name": "<line-height=120%>The Seventh Magic Bullet\u200B</line-height>",
+      "name": "The Seventh Magic Bullet",
       "desc": "- Deal +200% more damage\n- Deal +2.5% more damage for every 1% missing HP on target (max 200%)\n- Before Attack: for this attack, if the Pierce Damage Res. on target or on self are less than 2.0, change them to Fatal(x2.0)\n- After Attack: kills this unit"
     },
     {
       "id": "FreishutzOutisEgoBulletCnt",
-      "name": "<line-height=120%>Marksman's Bullet\u200B</line-height>",
+      "name": "Marksman's Bullet",
       "desc": "Uses a different Ammo depending on Marksman's Bullet"
     },
     {
       "id": "CoveringFire",
-      "name": "<line-height=120%>Target Spotted\u200B</line-height>",
+      "name": "Target Spotted",
       "desc": "If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with its Skill 2 against the same enemy Unit A attacked with its Skill. Activates at Unit A's Attack End.\n- The Skill used due to this effect does not affect Unit B's upcoming Skills list."
     },
     {
       "id": "FullReload",
-      "name": "<line-height=120%>Reload\u200B</line-height>",
+      "name": "Reload",
       "desc": "Lose all currently owned Ammo, and reload it back to full"
     },
     {
       "id": "Bullet_LogicAtelier",
-      "name": "<line-height=120%>Ammo - Atelier Logic\u200B</line-height>",
+      "name": "Ammo - Atelier Logic",
       "desc": "Unique Ammo\nAtelier Logic Workshop Special Ammo\n- This Ammo's count cannot be gained or lost due to external effects"
     },
     {
       "id": "Retreat_FullStop",
-      "name": "<line-height=120%>Overwatch Assignment\u200B</line-height>",
+      "name": "Overwatch Assignment",
       "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)"
     },
     {
       "id": "LogicAtelierAM",
-      "name": "<line-height=120%>Concentration【Sniper】\u200B</line-height>",
+      "name": "Concentration【Sniper】",
       "desc": "- Max Stack: 4\n- Turn End: gain 1 Stack"
     },
     {
       "id": "MeleeCover",
-      "name": "<line-height=120%>Melee Support\u200B</line-height>",
+      "name": "Melee Support",
       "desc": "- If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with the 'Melee Support' Skill against the same enemy that attacked Unit A. Activates at Unit A's Skill End.\n- The Skill used due to the 'Melee Support' effect does not affect Unit B's upcoming Skills list."
     },
     {
       "id": "RequestedTarget",
-      "name": "<line-height=120%>Requested Target\u200B</line-height>",
+      "name": "Requested Target",
       "desc": "+0.2 Resistance to Attack Types with 1.5 or less Resistance. If the target with this effect is defeated, gain 1 E.G.O resource for all Affinities, and the unit that defeated the target heals 10 SP"
     },
     {
       "id": "GlowingLantern",
-      "name": "<line-height=120%>Fairy Lure\u200B</line-height>",
+      "name": "Fairy Lure",
       "desc": "- Max Stack: 5\n- Turn Start: leftmost Slot on the Dashboard gains +10 Aggro\n- Take +50% more damage\n- When hit, inflict 1 Rupture against the Attacker (3 times per target's Skill)\n· At less than 50% HP, inflict 1 additional Rupture\n· If the target has 15+ Rupture, this effect does not inflict Rupture\n- Reduced by 1 at Turn End"
     },
     {
       "id": "HoldingBreath",
-      "name": "<line-height=120%>Deep Inhale\u200B</line-height>",
+      "name": "Deep Inhale",
       "desc": "- Max Stack: 20\n- On Crit, at 15+ Poise Potency and 5+ Poise Count, consume (Poise Potency on self / 5) Poise Potency to deal +(Poise Potency consumed x 4)% more Damage on Critical Hit and lose 1 Stack",
       "summary": "Deal more Damage on Critical Hit"
     },
     {
       "id": "NebulizerInhale",
-      "name": "<line-height=120%>Nebulizer β\u200B</line-height>",
+      "name": "Nebulizer β",
       "desc": "- Max Stack: 5\n- This effect persists throughout the Encounter\n- When activating Pride A-Reson.: on Combat Start, apply 3 Poise and +3 Poise Count on self and (Stack) allies (prioritizes allies that gain or use Poise or Poise Count; among them, prioritize allies with the least Poise Potency)",
       "summary": "Gain Poise and Poise Count"
     },
     {
       "id": "Hohenheim_LowMorale",
-      "name": "<line-height=120%>Anguish\u200B</line-height>",
+      "name": "Anguish",
       "desc": "Turn Start: gain 1 Fragile and 2 SP Heal Efficiency Down"
     },
     {
       "id": "Hohenheim_Panic",
-      "name": "<line-height=120%>Anguish\u200B</line-height>",
+      "name": "Anguish",
       "desc": "Turn Start: gain 2 Fragile and 3 SP Heal Efficiency Down"
     },
     {
       "id": "BlackCloud",
-      "name": "<line-height=120%>Dark Cloud\u200B</line-height>",
+      "name": "Dark Cloud",
       "desc": "Max Stack: 1\nConverts all of this unit's Base Attack Skill Coins used this turn to [Unbreakable Coins], prevents damage from Staggering this unit until Skill End, and inflict +1 more of Bleed effects\nOn Clash Lose: gain Final Power +3\nTurn End: this effect expires"
     },
     {
       "id": "BlackCloudBlade",
-      "name": "<line-height=120%>Dark Cloud Blade\u200B</line-height>",
+      "name": "Dark Cloud Blade",
       "desc": "Max Stack: 1\nGain 1 Slash Power\nInflict 1 Bleed On Hit with Slash Skills"
     },
     {
       "id": "EngageToBattle",
-      "name": "<line-height=120%>Battle Ready\u200B</line-height>",
+      "name": "Battle Ready",
       "desc": "Max Value: 1\nBleed Potency and Count inflicted with this unit's Skill or Coin effects: +1\nGain 1 Slash Power Up and 3 Slash DMG Up for the duration of this Encounter"
     },
     {
       "id": "CloudWall",
-      "name": "<line-height=120%>Cumulus Wall\u200B</line-height>",
+      "name": "Cumulus Wall",
       "desc": "Max Stack: 1\nDefense Skill Final Power +1\nThis effect expires at Turn End or after attack of the following: 'Rules of the Backstreets'"
     },
     {
       "id": "ScarletResultUp",
-      "name": "<line-height=120%>Lust Power Up\u200B</line-height>",
+      "name": "Lust Power Up",
       "desc": "Lust Skills gain Final Power by the effect’s Count for one turn."
     },
     {
       "id": "NebulizerExhale",
-      "name": "<line-height=120%>Nebulizer α\u200B</line-height>",
+      "name": "Nebulizer α",
       "desc": "- Max Stack: 5\n- This effect persists throughout the Encounter\n- Combat Start: on all allies, including this unit, apply 1 Poise Potency and +1 Poise Count"
     },
     {
       "id": "ReleaseBreath",
-      "name": "<line-height=120%>Shallow Exhale\u200B</line-height>",
+      "name": "Shallow Exhale",
       "desc": "- Max Value: 1\n- At 20+ Poise Potency, gain +1 Count as well whenever this unit gains Poise Potency with Skill and Coin effects\n- Expires at Turn End"
     },
     {
       "id": "FirePunchFuel",
-      "name": "<line-height=120%>District 12 Fuel\u200B</line-height>",
+      "name": "District 12 Fuel",
       "desc": "Max Stack: 100\nConsumed by certain Skills.\nAt 50- Stack, become Overheated Fuel",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FirePunchFuelOverheated",
-      "name": "<line-height=120%>Overheated Fuel\u200B</line-height>",
+      "name": "Overheated Fuel",
       "desc": "Max Stack: 100\nConsuming District 12 Fuel in Overheated Fuel State consumes Overheated Fuel instead\nConsuming Overheated Fuel counts as consuming District 12 Fuel\nAt over 50 Stack, become District 12 Fuel",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DianxueDonQuixote",
-      "name": "<line-height=120%>Nerve Strike - Don Quixote\u200B</line-height>",
+      "name": "Nerve Strike - Don Quixote",
       "desc": "- Max Stack: 3\n- The unit that inflicted this Nerve Strike gains the following effects based on target's(or targeted Part's) Nerve Strike Stack\n· 1x Stack: Gain Clash Power +1\n· 2x Stack: Gain Base Power +1\n· 3x Stack: Gain Clash Power +1 and Base Power +1\n- Expires if the unit that inflicted it inflicts this effect against a different target(or a different Part)\n- Replaced when another unit inflicts Nerve Strike",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VengeanceBookSinclair",
-      "name": "<line-height=120%>หนังสือชำระแค้น [Sinclair]\u200B</line-height>",
+      "name": "หนังสือชำระแค้น [Sinclair]",
       "desc": "- สแต็คสูงสุด: 30\n- ทำความเสียหายเพิ่มเติมเท่ากับ (สแต็ค)% (สูงสุด 30%)\n- ได้รับเอฟเฟคต่อไปนี้ตามจำนวนสแต็ค:\n· เมื่อมี 10+ สแต็ค: ได้รับ 1 เสริมความเสียหายทุบ\n· เมื่อมี 20+ สแต็ค: ความเร็วสูงสุด +1, ได้รับ 1 เสริมพลัง\n· เมื่อมี 30 สแต็ค: ได้รับ 2 เสริมความเสียหายทุบ",
       "summary": "",
       "undefined": "-"

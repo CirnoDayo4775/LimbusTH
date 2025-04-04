@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Allez\u200B</line-height>",
+          "name": "Allez",
           "desc": "[WhenUse] Inflict [DuelDeclaration_Camille]\n[WhenUse] Gain 5 [Breath]\n[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -24,7 +24,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Coup Droit\u200B</line-height>",
+          "name": "Coup Droit",
           "desc": "[WhenUse] Gain 2 [Breath]",
           "coinlist": [
             {
@@ -56,7 +56,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Fente\u200B</line-height>",
+          "name": "Fente",
           "desc": "[WhenUse] At 7+ [Breath], Coin Power +2\n[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -81,7 +81,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Salut\u200B</line-height>",
+          "name": "Salut",
           "desc": "[WhenUse] If this unit's Speed is faster than the target's, Coin Power +1 (Coin Power +1 for every 2 Speed difference; max 3)",
           "coinlist": [
             {
@@ -133,7 +133,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Parry\u200B</line-height>",
+          "name": "Parry",
           "desc": "[WinDuel] Deal more damage based on number of Clashes (+10% more damage for every Clash, max 50%)\n[WinDuel] Gain 2 [Agility] next turn\n[DefeatDuel] Gain 2 [Binding] next turn",
           "coinlist": [
             {
@@ -152,7 +152,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Défensive\u200B</line-height>",
+          "name": "Défensive",
           "desc": "[OnSucceedEvade] Gain 1 [Agility] next turn",
           "coinlist": [
             {
@@ -171,7 +171,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>I'll Cut You Up All Pretty!\u200B</line-height>",
+          "name": "I'll Cut You Up All Pretty!",
           "desc": "[WhenUse] If the target has 6+ [Laceration], Clash Power +1\n[WhenUse] Coin Power +1 for every 5 [Laceration] on self (max 3)",
           "coinlist": [
             {
@@ -193,7 +193,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Even Sharper\u200B</line-height>",
+          "name": "Even Sharper",
           "desc": "[WhenUse] Consume up to 20 [BloodDinner]; gain 1 [BloodScissor] and heal 3 SP for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner] with this Skill, gain 30 [Laceration]\n[WhenUse] If the target has 6+ [Laceration], Clash Power +1\n[WhenUse] Coin Power +1 for every 5 [Laceration] on self (max 2)",
           "coinlist": [
             {
@@ -219,7 +219,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>SNIP!!\u200B</line-height>",
+          "name": "SNIP!!",
           "desc": "[WhenUse] Consume up to 30 [BloodDinner]; gain 1 [BloodScissor] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If the target has [LineCutting], Clash Power +5\nHeal 5 SP on every hit against [LineCutting]",
           "coinlist": [
             {
@@ -252,7 +252,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>I'll Cut You Up Too!\u200B</line-height>",
+          "name": "I'll Cut You Up Too!",
           "desc": "[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor] (max 2)\n[WhenUse] Consume up to 30 [BloodDinner]; gain 1 [BloodScissor] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 6+ [Laceration], Clash Power +2",
           "coinlist": [
             {
@@ -277,7 +277,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Now, It's Your Turn\u200B</line-height>",
+          "name": "Now, It's Your Turn",
           "desc": "[WhenUse] If the target has 6+ [Laceration], Coin Power +1",
           "coinlist": [
             {},
@@ -303,7 +303,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>I'll Cut You Together!\u200B</line-height>",
+          "name": "I'll Cut You Together!",
           "desc": "[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor]\n[WhenUse] Consume up to 100 [BloodDinner]; gain 1 [BloodScissor] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 6+ [Laceration], Clash Power +2\n[EndSkill] Consume 10 [BloodScissor]",
           "coinlist": [
             {
@@ -364,7 +364,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>How Discourteous!\u200B</line-height>",
+          "name": "How Discourteous!",
           "desc": "[DuelCounter]\n[WhenUse] Clash Power +1 for every [BloodScissor] Stage (max 3)\n[WhenUse] Coin Power +1 for every 5 [Laceration] on self (max 3)",
           "coinlist": [
             {
@@ -383,7 +383,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>I Don't Need Ugly Things!!\u200B</line-height>",
+          "name": "I Don't Need Ugly Things!!",
           "desc": "[CantChangeTarget]\nPrioritizes targets with the least HP percentage",
           "coinlist": [
             {
