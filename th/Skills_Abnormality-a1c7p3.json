@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This Unforgivable Sin...",
+          "name": "<line-height=120%>This Unforgivable Sin...\u200B</line-height>",
           "desc": "[WhenUse] Gain 20 [Laceration] and +1 [Laceration] Count",
           "coinlist": [
             {
@@ -24,7 +24,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Deserved Penance...",
+          "name": "<line-height=120%>The Deserved Penance...\u200B</line-height>",
           "desc": "[WhenUse] Gain 20 [Laceration] and +1 [Laceration] Count",
           "coinlist": [
             {
@@ -50,7 +50,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Did you think about blood today?",
+          "name": "<line-height=120%>Did you think about blood today?\u200B</line-height>",
           "desc": "[WhenUse] Gain 10 [Laceration]\n[WhenUse] Consume up to 30 [BloodDinner]: heal the Core and the Part of the ally with the least HP by ([BloodDinner] consumed x 2). (excludes self; rounded down)",
           "coinlist": [
             {
@@ -76,7 +76,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Are you still thinking about blood?",
+          "name": "<line-height=120%>Are you still thinking about blood?\u200B</line-height>",
           "desc": "[WhenUse] Gain 10 [Laceration]\n[WhenUse] Consume up to 20 [BloodDinner]: heal self and the ally(the Core and the Part) with the least HP by ([BloodDinner] consumed x 2).\n- If there are no remaining allies, double the healing on self",
           "coinlist": [
             {
@@ -111,7 +111,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "More, more blood...!",
+          "name": "<line-height=120%>More, more blood...!\u200B</line-height>",
           "desc": "[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodyHand] for every 10 [BloodDinner] consumed\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] Gain 3 [BloodyHand]",
           "coinlist": [
             {
@@ -130,7 +130,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "How Bountiful...",
+          "name": "<line-height=120%>How Bountiful...\u200B</line-height>",
           "desc": "[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume up to 30 [BloodDinner]: gain Coin Power +1 for every 10 [BloodDinner] consumed (effect expires after the first Coin attack)\n[DefeatDuel] Gain 1 [Vulnerable] next turn",
           "coinlist": [
             {
@@ -172,7 +172,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sacrifice for the Family",
+          "name": "<line-height=120%>Sacrifice for the Family\u200B</line-height>",
           "desc": "[StartBattle] At 50%+ HP, activate [Laceration] on self (max 3 times; reduce Bleed Count every time it is activated; cannot be Staggered from this damage)\n[StartBattle] All allies heal 5 SP (including self)",
           "coinlist": [
             {
@@ -191,7 +191,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blood...",
+          "name": "<line-height=120%>Blood...\u200B</line-height>",
           "desc": "[WhenUse] If the target has 6+ [Laceration], deal +20% more damage",
           "coinlist": [
             {
@@ -217,7 +217,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Expression of Love",
+          "name": "<line-height=120%>Expression of Love\u200B</line-height>",
           "desc": "Prioritizes targets with the least number of negative effects\n[WhenUse] If the target does not have any negative effects, use 'Rough Expression of Love' next turn\n\n[WhenUse] If the target has more negative effects than [FaintMemory] on self, use 'A Sad Embrace' next turn",
           "coinlist": [
             {
@@ -242,7 +242,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clawing",
+          "name": "<line-height=120%>Clawing\u200B</line-height>",
           "desc": "Prioritizes targets with the least number of negative effects\n[WinDuel] Inflict 3 [AffectionTeddy] next turn\n[DefeatDuel] Inflict 1 [AffectionTeddy] next turn",
           "coinlist": [
             {
@@ -264,7 +264,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Violent Clawing",
+          "name": "<line-height=120%>Violent Clawing\u200B</line-height>",
           "desc": "Prioritizes targets with the least number of negative effects\n[WinDuel] Inflict 3 [AffectionTeddy] next turn\n[DefeatDuel] Inflict 1 [AffectionTeddy] next turn",
           "coinlist": [
             {
@@ -290,7 +290,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Timid Expression of Love",
+          "name": "<line-height=120%>Timid Expression of Love\u200B</line-height>",
           "desc": "[DuelCounter]\n[WhenUse] Inflict 2 [Disarming] next turn\n[WhenUse] Inflict 1 [Curse]",
           "coinlist": [
             {
@@ -315,7 +315,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rough Expression of Love",
+          "name": "<line-height=120%>Rough Expression of Love\u200B</line-height>",
           "desc": "[CantChangeTarget]\nTargets the target this unit Clashed with 'Expression of Love' last turn",
           "coinlist": [
             {
@@ -343,7 +343,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "A Sad Embrace",
+          "name": "<line-height=120%>A Sad Embrace\u200B</line-height>",
           "desc": "[CantChangeTarget]\nTargets the target this unit Clashed with 'Expression of Love' last turn\nFix the damage dealt against that target to 0\n[StartBattle] Gain 2 [Vulnerable] until next turn\n[EndBattle] Enter Staggered state",
           "coinlist": [
             {
@@ -365,7 +365,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "And Old, Nostalgic Embrace",
+          "name": "<line-height=120%>And Old, Nostalgic Embrace\u200B</line-height>",
           "desc": "[DefeatDuel] Deal only half damage against the enemy with this Skill",
           "coinlist": [
             {
@@ -397,7 +397,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pin Down",
+          "name": "<line-height=120%>Pin Down\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -416,7 +416,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Impaled Desire",
+          "name": "<line-height=120%>Impaled Desire\u200B</line-height>",
           "desc": "[WhenUse] If the target has 4+ [Laceration], Coin Power +1",
           "coinlist": [
             {
@@ -442,7 +442,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Repressed Desire",
+          "name": "<line-height=120%>Repressed Desire\u200B</line-height>",
           "desc": "[WhenUse] If the target has 4+ [Laceration], Base Power +2",
           "coinlist": [
             {
@@ -472,7 +472,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "ป้องกัน",
+          "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
           "desc": "[WhenUse] Shield HP +10 for every 4 [Laceration] on the target (max 30)",
           "coinlist": [
             {
@@ -491,7 +491,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Grinding",
+          "name": "<line-height=120%>Grinding\u200B</line-height>",
           "desc": "[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -520,7 +520,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crush",
+          "name": "<line-height=120%>Crush\u200B</line-height>",
           "desc": "[WhenUse] Gain 5 [Breath]",
           "coinlist": [
             {},
@@ -550,7 +550,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Prideful Crush",
+          "name": "<line-height=120%>Prideful Crush\u200B</line-height>",
           "desc": "[WhenUse] At 5+ [Breath], Coin Power +2",
           "coinlist": [
             {
@@ -572,7 +572,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "<line-height=120%>Counter\u200B</line-height>",
           "desc": "[WhenUse] At 6+ [Breath], Coin Power +2",
           "coinlist": [
             {
@@ -591,7 +591,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Topple",
+          "name": "<line-height=120%>Topple\u200B</line-height>",
           "desc": "[WhenUse] Consume 10 [BloodDinner]: gain 1 [BloodArmor]\n[WhenUse] Coin Power +1 for every 10 [BloodArmor] (max 2)\n[WhenUse] Coin Power +1 for every 15 [Laceration] on self (max 3)",
           "coinlist": [
             {
@@ -617,7 +617,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%><size=40>ชก</size></line-height>",
+          "name": "<line-height=120%><line-height=120%><size=40>ชก</size></line-height>\u200B</line-height>",
           "desc": "[WhenUse] Consume up to 20 [BloodDinner]: gain 1 [BloodArmor] for every 10 [BloodDinner] consumed\n[WhenUse] Coin Power +1 for every 10 [BloodArmor] (max 2)\n[WhenUse] Coin Power +1 for every 15 [Laceration] on self (max 3)",
           "coinlist": [
             {
@@ -643,7 +643,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sanguine Joy",
+          "name": "<line-height=120%>Sanguine Joy\u200B</line-height>",
           "desc": "[WhenUse] Consume 4 [BloodArmor] to heal 10 SP\n[WhenUse] Consume 10 [BloodDinner] to gain 1 [BloodArmor] and heal 10 SP\n- If this unit failed to consume [BloodDinner], gain 3 [Laceration].",
           "coinlist": [
             {
@@ -665,7 +665,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ecstasy of Blood",
+          "name": "<line-height=120%>Ecstasy of Blood\u200B</line-height>",
           "desc": "Can Clash with this Skill regardless of Speed\n[StartBattle] If there are enemies with [Laceration], activate [Laceration] on all enemies. All enemies lose 2 [Laceration] Count\n[WhenUse] If this effect did not activate at Combat Start, gain 30 [Laceration].\n[WinDuel] Consume up to 40 [BloodDinner]: for every 10 [BloodDinner] consumed, gain 1 [BloodArmor] and deal +25% more damage (max 100%)\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration], and activate [Laceration] immediately. Lose 2 [Laceration] Count\n[EndSkill] Ends this turn",
           "coinlist": [
             {
@@ -704,7 +704,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 4 - Sundering",
+          "name": "<line-height=120%>Don Quixote Hardblood Arts 4 - Sundering\u200B</line-height>",
           "desc": "[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WinDuel] With this Skill, deal +20% more damage with every Stage of [BloodArmor] (max 60%)\n[DefeatDuel] Consume 4 [BloodArmor] to gain 20 Shield HP",
           "coinlist": [
             {
@@ -730,7 +730,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 11 - Impaling",
+          "name": "<line-height=120%>Don Quixote Hardblood Arts 11 - Impaling\u200B</line-height>",
           "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] on the target (max 3)\n[WinDuel] With this Skill, deal +20% more damage with every Stage of [BloodArmor] (max 60%)\n[DefeatDuel] Consume 4 [BloodArmor] to gain 20 Shield HP",
           "coinlist": [
             {
@@ -763,7 +763,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%><size=40>ศิลป์ผลึกโลหิตแห่งดอนกิโฮเต้ บทที่2 - ผลึกโลหิต</size></line-height>",
+          "name": "<line-height=120%><line-height=120%><size=40>ศิลป์ผลึกโลหิตแห่งดอนกิโฮเต้ บทที่2 - ผลึกโลหิต</size></line-height>\u200B</line-height>",
           "desc": "Can Clash with this Skill regardless of Speed\n[StartBattle] Consume 200 [BloodDinner], gain 500 Shield HP, 5 [BloodArmor], and 1 [SwirlingBlood]\n- If this unit doesn't have enough [BloodDinner], gain 50 [Laceration], and activate [Laceration] immediately. Lose 2 [Laceration] Count. Gain 500 Shield HP and 1 [SwirlingBlood] (this damage does not reduce this unit's HP to 1)\n[WinDuel] Gain 200 Shield HP\n[DefeatDuel] Gain 3 [Vulnerable] as long as the Shield gained due to this Skill is active\n[DefeatDuel] Deal -50% less damage, and the damage from this Skill does not Stagger the target\n[EndSkill] Ends this turn",
           "coinlist": [
             {
@@ -806,7 +806,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Variant Don Quixote Style: Sancho Arts 4 - Track",
+          "name": "<line-height=120%>Variant Don Quixote Style: Sancho Arts 4 - Track\u200B</line-height>",
           "desc": "Prioritizes targets with the most [Laceration]\n[BeforeAttack] If the target is the one with the most [Laceration], gain Atk Weight +2 and Clash Power +3\n[WhenUse] Consume up to 30 [BloodDinner]: gain 1 [BloodArmor] and Coin Power +1 for every 15 [BloodDinner] consumed (max 2)\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration], and activate [Laceration] immediately. Lose 2 [Laceration] Count\n[EndSkill] Increase [BloodDinner] equal to the damage this Skill dealt",
           "coinlist": [
             {
@@ -832,7 +832,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Variant Don Quixote Style: Sancho Arts 3 - Ambush",
+          "name": "<line-height=120%>Variant Don Quixote Style: Sancho Arts 3 - Ambush\u200B</line-height>",
           "desc": "Prioritizes targets with the most [Laceration]\n[BeforeAttack] If the target is the one with the most [Laceration], gain Atk Weight +2 and Clash Power +3\n[WhenUse] Consume up to 50 [BloodDinner]: gain 1 [BloodArmor] and Base Power +1 for every 10 [BloodDinner] consumed (max 5)\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration], and activate [Laceration] immediately. Lose 1 [Laceration] Count\n[EndSkill] Increase [BloodDinner] equal to the damage this Skill dealt",
           "coinlist": [
             {
@@ -865,7 +865,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Variant Don Quixote Style: Sancho Arts 2 - La Sangre",
+          "name": "<line-height=120%>Variant Don Quixote Style: Sancho Arts 2 - La Sangre\u200B</line-height>",
           "desc": "Can Clash with this Skill regardless of Speed\n[WhenUse] Consume 50 [BloodDinner] to inflict 1 [Paralysis] against the target and self\n[WhenUse] Consume 100 [BloodDinner] to gain Clash Power +5\n- If there isn't enough [BloodDinner], consume 100 HP from this unit to gain Clash Power +5\n[EndSkill] Ends this turn",
           "coinlist": [
             {
@@ -890,7 +890,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "La Aventura Ha Terminado",
+          "name": "<line-height=120%>La Aventura Ha Terminado\u200B</line-height>",
           "desc": "[WhenUse] Consume (45 - current SP) [BloodDinner] to heal up to 45 SP\n- If there isn't enough [BloodDinner], consume up to (45 - current SP) HP to heal up to 45 SP (this damage does not lower this unit's HP below 1)\n- Gain Shield HP equal to the remaining [BloodDinner] (max 100)\n[WinDuel] Inflict 10 [Laceration]\n[DefeatDuel] Consume 100 [BloodDinner]\n[EndSkill] Increase [BloodDinner] equal to the damage dealt",
           "coinlist": [
             {
@@ -918,7 +918,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Keeehhhhnnhhh",
+          "name": "<line-height=120%>Keeehhhhnnhhh\u200B</line-height>",
           "desc": "[WhenUse] Gain 3 [DefenseUp]\n[DefeatDuel] Gain 3 [DefenseUp]",
           "coinlist": [
             {
@@ -944,7 +944,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Knnhgh nhhnnh",
+          "name": "<line-height=120%>Knnhgh nhhnnh\u200B</line-height>",
           "desc": "[WinDuel] Inflict 1 [Binding] next turn\n[WhenUse] Base Power +1 for every 4 [DefenseUp] on self (max 2)\n[WhenUse] Gain 3 [DefenseUp]",
           "coinlist": [
             {
@@ -977,7 +977,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Knngghh",
+          "name": "<line-height=120%>Knngghh\u200B</line-height>",
           "desc": "[StartBattle] Apply 3 [DefenseUp] to 1 ally, including this unit, with the least HP percentage\n[WhenUse] Base Power +1 for every 5 [DefenseUp] on self (max 4)",
           "coinlist": [
             {},
@@ -998,7 +998,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Knnh",
+          "name": "<line-height=120%>Knnh\u200B</line-height>",
           "desc": "[StartBattle] Gain 2 x ([DefenseUp] on self) Shield HP (max 20, 2 times per turn)",
           "coinlist": [
             {
@@ -1017,7 +1017,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spiked Whip",
+          "name": "<line-height=120%>Spiked Whip\u200B</line-height>",
           "desc": "[WhenUse] If the target has 6+ [Burst], Clash Power +1",
           "coinlist": [
             {
@@ -1036,7 +1036,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Whip Crack",
+          "name": "<line-height=120%>Whip Crack\u200B</line-height>",
           "desc": "[WhenUse] If the target has 6+ [Burst], Coin Power +1\n[WinDuel] Inflict +2 [Burst] Count",
           "coinlist": [
             {
@@ -1062,7 +1062,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Strangling Crown of Thorns",
+          "name": "<line-height=120%>Strangling Crown of Thorns\u200B</line-height>",
           "desc": "Prioritizes targets with the lowest SP\n[WhenUse] If the target has 0- SP, Clash Power +3\n[WhenUse] Coin Power +1 for every 4 [Burst] on the target (max 3)",
           "coinlist": [
             {
@@ -1081,7 +1081,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Withdraw Whip",
+          "name": "<line-height=120%>Withdraw Whip\u200B</line-height>",
           "desc": "Prioritizes targets with [ThornNoose]\nIf the target does not have [ThornNoose], deal -50% less damage",
           "coinlist": [
             {
@@ -1124,7 +1124,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Barbed Lasso",
+          "name": "<line-height=120%>Barbed Lasso\u200B</line-height>",
           "desc": "[WhenUse] If this unit's Speed is faster than the target's, Clash Power +5\n[WhenUse] Coin Power +1 for every 4 [Burst] on the target (max 2)\n[WhenUse] Gain Base Power by the number of targets with [ThornNoose]",
           "coinlist": [
             {},
@@ -1155,7 +1155,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Whip Wreath",
+          "name": "<line-height=120%>Whip Wreath\u200B</line-height>",
           "desc": "[StartBattle] Gain (number of enemies with [ThornNoose])% of HP as Shield",
           "coinlist": [
             {
@@ -1174,7 +1174,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Snaring Lasso",
+          "name": "<line-height=120%>Snaring Lasso\u200B</line-height>",
           "desc": "[StartBattle] If there are 3- enemies with [ThornNoose], inflict 1 [ThornNoose]",
           "coinlist": [
             {
@@ -1196,7 +1196,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thorns",
+          "name": "<line-height=120%>Thorns\u200B</line-height>",
           "desc": "[CantChangeTarget]\nPrioritizes targets with Barbed Lasso",
           "coinlist": [
             {
@@ -1215,7 +1215,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gracefully...",
+          "name": "<line-height=120%>Gracefully...\u200B</line-height>",
           "desc": "[WhenUse] If the target has 6+ [Laceration], Coin Power +1",
           "coinlist": [
             {
@@ -1241,7 +1241,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Infinite Parade",
+          "name": "<line-height=120%>The Infinite Parade\u200B</line-height>",
           "desc": "[CantDuel]\nIf the target used a Defense Skill, deal -100% less damage\n[WhenUse] Generate 1 Gondola next turn",
           "coinlist": [
             {
@@ -1258,7 +1258,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Eternal Festival",
+          "name": "<line-height=120%>The Eternal Festival\u200B</line-height>",
           "desc": "[CantDuel]\nIf the target used a Defense Skill, deal -100% less damage\n[WhenUse] Generate 4 Gondola next turn",
           "coinlist": [
             {
@@ -1290,7 +1290,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "LETMEOUT!!!LETMEOUT!!!",
+          "name": "<line-height=120%>LETMEOUT!!!LETMEOUT!!!\u200B</line-height>",
           "desc": "Uses a self-detonating Skill next turn.",
           "coinlist": [
             {
@@ -1307,7 +1307,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "IT'S ABOUT TO BLOW!!!!!",
+          "name": "<line-height=120%>IT'S ABOUT TO BLOW!!!!!\u200B</line-height>",
           "desc": "[CantDuel]\n[StartBattle] Gain 3 Fragile",
           "coinlist": [
             {
@@ -1326,7 +1326,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Fanfare!",
+          "name": "<line-height=120%>The Fanfare!\u200B</line-height>",
           "desc": "[CantDuel]",
           "coinlist": [
             {
@@ -1345,7 +1345,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Burning Thirst",
+          "name": "<line-height=120%>Burning Thirst\u200B</line-height>",
           "desc": "[WhenUse] Base Power +1 for every 5 [Laceration] on the target (max 3)\n[WhenUse] Consume up to 30 [BloodDinner]: gain 1 [RegainedStrength] for every 10 [BloodDinner] consumed\n[DefeatDuel] Lose 3 SP",
           "coinlist": [
             {
@@ -1371,7 +1371,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Be Impaled",
+          "name": "<line-height=120%>Be Impaled\u200B</line-height>",
           "desc": "[WhenUse] Consume up to 40 [BloodDinner]: gain 1 [RegainedStrength] and heal 3 SP for every 10 [BloodDinner] consumed\n\n[DefeatDuel] Lose 3 SP\n[DefeatDuel] Consume 3 [RegainedStrength]. Gain 3 [DefenseDown] next turn",
           "coinlist": [
             {
@@ -1397,7 +1397,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 2 - Stake",
+          "name": "<line-height=120%>Don Quixote Hardblood Arts 2 - Stake\u200B</line-height>",
           "desc": "Attacks the target with the most [Laceration]\n[WhenUse] Coin Power +1 for every 5 [Laceration] on the target (max 2)",
           "coinlist": [
             {
@@ -1436,7 +1436,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hardblood Wedge",
+          "name": "<line-height=120%>Hardblood Wedge\u200B</line-height>",
           "desc": "[StartBattle] Gain Atk Weight +1 for every 3 [RegainedStrength] on self (max 2)\n[EndSkill] Consume 3 [RegainedStrength]",
           "coinlist": [
             {
@@ -1487,7 +1487,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Desire for Blood",
+          "name": "<line-height=120%>Desire for Blood\u200B</line-height>",
           "desc": "[WhenUse] Consume up to 40 [BloodDinner]: gain 1 [RegainedStrength] for every 10 [BloodDinner] consumed",
           "coinlist": [
             {
@@ -1539,7 +1539,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Moment of Bloodfeast",
+          "name": "<line-height=120%>Moment of Bloodfeast\u200B</line-height>",
           "desc": "[CantIdentify]\n[WhenUse] Consume up to 300 [BloodDinner]: gain 1 [RegainedStrength] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If this unit consumed [BloodDinner], heal 30 SP",
           "coinlist": [
             {
@@ -1558,7 +1558,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 4 - Sundering",
+          "name": "<line-height=120%>Don Quixote Hardblood Arts 4 - Sundering\u200B</line-height>",
           "desc": "Cannot be Staggered until he uses this Skill.\n[WhenUse] Consume up to 100 [BloodDinner]: gain 1 [RegainedStrength] and heal 15 SP for every 10 [BloodDinner] consumed\n[WhenUse] Clash Power +1 for every [BloodDinner_Accumulation] by this unit (max 15)\n[DefeatDuel] Deal -50% less damage, and the damage from this Skill does not Stagger the target.\n[EndSkill] For this turn and next turn, gain [AttackDown] and [DefenseDown] equal to the Clash Power gained with this Skill. (max 15)",
           "coinlist": [
             {
@@ -1583,7 +1583,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 14: Mantle",
+          "name": "<line-height=120%>Don Quixote Hardblood Arts 14: Mantle\u200B</line-height>",
           "desc": "[DuelGuard]\n[WinDuel] Inflict 4 [Laceration] and [Burst]\n[DefeatDuel] Consume 2 [RegainedStrength]",
           "coinlist": [
             {
@@ -1602,7 +1602,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Frail, So Frail",
+          "name": "<line-height=120%>Frail, So Frail\u200B</line-height>",
           "desc": "[DuelCounter]\nBase Power +1 for every 10 [RegainedStrength]\nCoin Power +1 for every 5 [Laceration] on the target (max 2)\n[DefeatDuel] Lose 3 SP",
           "coinlist": [
             {
@@ -1628,7 +1628,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bloody-Merry-Go-Round",
+          "name": "<line-height=120%>Bloody-Merry-Go-Round\u200B</line-height>",
           "desc": "[CantDuel]\n[WhenUse] Generate Coagulated Dream next turn",
           "coinlist": [
             {
@@ -1668,7 +1668,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Be Impaled",
+          "name": "<line-height=120%>Be Impaled\u200B</line-height>",
           "desc": "[DefeatDuel] Lose 3 SP",
           "coinlist": [
             {
@@ -1698,7 +1698,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ascendant Don Quixote Hardblood Arts - The Sphere",
+          "name": "<line-height=120%>Ascendant Don Quixote Hardblood Arts - The Sphere\u200B</line-height>",
           "desc": "Cannot be Staggered until he uses this Skill.\nDeal more damage equal to [BloodDinner_Common_Accumulation]. (max 300%)\n[WhenUse] Heal 30 SP\n[WhenUse] Clash Power +1 for every 10 [RegainedStrength]\n[EndSkill] Consume all [RegainedStrength]. Gain 5 [Vulnerable] this turn and next turn. Gain 2 [Binding] next turn.",
           "coinlist": [
             {
@@ -1724,7 +1724,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ksssh",
+          "name": "<line-height=120%>Ksssh\u200B</line-height>",
           "desc": "[WhenUse] Inflict [DuelDeclaration_Camille]\n[WhenUse] Gain 5 [Breath]\n[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -1743,7 +1743,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hnnnhhhhhh",
+          "name": "<line-height=120%>Hnnnhhhhhh\u200B</line-height>",
           "desc": "[WhenUse] Gain 2 [Breath]",
           "coinlist": [
             {
@@ -1775,7 +1775,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kihh",
+          "name": "<line-height=120%>Kihh\u200B</line-height>",
           "desc": "[WhenUse] At 7+ [Breath], Coin Power +2\n[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
@@ -1800,7 +1800,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ksssh",
+          "name": "<line-height=120%>Ksssh\u200B</line-height>",
           "desc": "[WhenUse] If this unit's Speed is faster than the target's, Coin Power +1 (Coin Power +1 for every 2 Speed difference; max 3)",
           "coinlist": [
             {
@@ -1852,7 +1852,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Knnh",
+          "name": "<line-height=120%>Knnh\u200B</line-height>",
           "desc": "[WinDuel] Deal more damage based on number of Clashes (+10% more damage for every Clash, max 50%)\n[WinDuel] Gain 2 [Agility] next turn\n[DefeatDuel] Gain 2 [Binding] next turn",
           "coinlist": [
             {
@@ -1871,7 +1871,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Knhhh",
+          "name": "<line-height=120%>Knhhh\u200B</line-height>",
           "desc": "[OnSucceedEvade] Gain 1 [Agility] next turn",
           "coinlist": [
             {
@@ -1890,7 +1890,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ascendant Don Quixote Hardblood Arts - La Sangre",
+          "name": "<line-height=120%>Ascendant Don Quixote Hardblood Arts - La Sangre\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1907,7 +1907,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shining Memories of the Adventure",
+          "name": "<line-height=120%>Shining Memories of the Adventure\u200B</line-height>",
           "desc": "[StartBattle] Apply 1 [ParryingResultUp] and 1 [AttackDmgUp] to a random Sinner\n[StartBattle] Inflict 1 [Vulnerable] against both Don Quixote and his Coagulated Dream",
           "coinlist": [
             {
