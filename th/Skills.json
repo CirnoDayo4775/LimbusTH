@@ -9097,18 +9097,18 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Umbrella Thwack",
-          "desc": "[WhenUse] Gain +1 Sinking Count",
+          "name": "ฟาดด้วยร่ม",
+          "desc": "[เมื่อใช้] ได้รับ +1 จำนวนครั้งจมดิ่ง",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[เมื่อโจมตีสำเร็จ] มอบ 1 จมดิ่ง"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +1 Sinking Count"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] มอบ +1 จำนวนครั้งจมดิ่ง"
                 }
               ]
             }
@@ -9116,18 +9116,18 @@
         },
         {
           "level": 2,
-          "name": "Umbrella Thwack",
-          "desc": "[WhenUse] Gain +1 Sinking Count",
+          "name": "ฟาดด้วยร่ม",
+          "desc": "[เมื่อใช้] ได้รับ +1 จำนวนครั้งจมดิ่ง",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[เมื่อโจมตีสำเร็จ] มอบ 2 จมดิ่ง"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +2 Sinking Count"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] มอบ +2 จำนวนครั้งจมดิ่ง"
                 }
               ]
             }
@@ -9135,18 +9135,18 @@
         },
         {
           "level": 4,
-          "name": "Umbrella Thwack",
-          "desc": "[WhenUse] Gain +1 Sinking Count\n[DefeatDuel] Gain 3 Sinking",
+          "name": "ฟาดด้วยร่ม",
+          "desc": "[เมื่อใช้] ได้รับ +1 จำนวนครั้งจมดิ่ง\n[แพ้การปะทะ] ได้รับ 3 จมดิ่ง",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[เมื่อโจมตีสำเร็จ] มอบ 2 จมดิ่ง"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +2 Sinking Count"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] มอบ +2 จำนวนครั้งจมดิ่ง"
                 }
               ]
             }
@@ -9159,28 +9159,28 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Puddle Stomp",
-          "desc": "[WhenUse] When below -15 SP, Final Power +2",
+          "name": "ทุบให้แหลก",
+          "desc": "[เมื่อใช้] เมื่อค่าสติตํ่ากว่า -15 ผลรวมพลัง +2",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Rupture"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] มอบ 2 ฉีกขาด"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Rupture"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] มอบ 2 ฉีกขาด"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger Tremor Burst"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] เปิดใช้ สั่นสะเทือน"
                 }
               ]
             }
@@ -9188,31 +9188,31 @@
         },
         {
           "level": 2,
-          "name": "Puddle Stomp",
-          "desc": "[WhenUse] When below -15 SP, Final Power +2",
+          "name": "ทุบให้แหลก",
+          "desc": "[เมื่อใช้] เมื่อค่าสติตํ่ากว่า -15, ผลรวมแต้ม +2",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 3 Rupture"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] มอบ 3 ฉีกขาด"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 3 Rupture"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] มอบ 3 ฉีกขาด"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 5 Sinking to deal +20% damage"
+                  "desc": "ใช้ 5 จมดิ่ง เพื่อทำความเสียหาย +20%"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger Tremor Burst"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] เปิดใช้ สั่นสะเทือน"
                 }
               ]
             }
@@ -9220,31 +9220,31 @@
         },
         {
           "level": 4,
-          "name": "Puddle Stomp",
-          "desc": "[WhenUse] When below -15 SP, Final Power +3\n[WhenUse] When below -25 SP, Final Power +2",
+          "name": "ทุบให้แหลก",
+          "desc": "[เมื่อใช้] ค่าสติตํ่ากว่า -15, ผลรวมแต้ม +3\n[เมื่อใช้] ค่าสติตํ่ากว่า -25, ผลรวมแต้ม +2",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 3 Rupture"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] มอบ 3 ฉีกขาด"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 3 Rupture"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] มอบ 3 ฉีกขาด"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 5 Sinking to deal +20% damage"
+                  "desc": "ใช้ 5 จมดิ่ง เพื่อทำความเสียหาย +20%"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger Tremor Burst"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] เปิดใช้ สั่นสะเทือน"
                 }
               ]
             }
@@ -9257,13 +9257,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spread Out!",
-          "desc": "[WhenUse] Gain 6 Sinking and +3 Sinking Count",
+          "name": "กางร่ม!",
+          "desc": "[เมื่อใช้] ได้รับ 6 จมดิ่ง และ +3 จำนวนครั้งจมดิ่ง",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 1 Paralyze next turn"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] มอบ 1 อัมพาต ในเทิร์นต่อไป"
                 }
               ]
             },
@@ -9271,10 +9271,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[เมื่อโจมตีสำเร็จ] มอบ 5 ฉีกขาด"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 1 Fragile next turn"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] มอบ 1 เปราะบาง ในเทิร์นต่อไป"
                 }
               ]
             }
@@ -9287,23 +9287,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Warning",
-          "desc": "[WhenUse] Gain 3 Sinking",
+          "name": "เตือนแล้วนะเห้ย!",
+          "desc": "[เมื่อใช้] ได้รับ 3 จมดิ่ง",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Gain 1 Paralyze next turn"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] ได้รับ 1 อัมพาต ในเทิร์นต่อไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[เมื่อโจมตีสำเร็จ] มอบ 5 จมดิ่ง"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[เมื่อโจมตีสำเร็จ] มอบ 5 ฉีกขาด"
                 }
               ]
             }
@@ -9311,23 +9311,23 @@
         },
         {
           "level": 4,
-          "name": "Warning",
-          "desc": "[WhenUse] Gain 5 Sinking",
+          "name": "เตือนแล้วนะเห้ย!",
+          "desc": "[เมื่อใช้] ได้รับ 5 จมดิ่ง",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Gain 1 Paralyze next turn"
+                  "desc": "[เมื่อโจมตีสำเร็จทอยก้อย] ได้รับ 1 อัมพาต ในเทิร์นต่อไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[เมื่อโจมตีสำเร็จ] มอบ 5 จมดิ่ง"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[เมื่อโจมตีสำเร็จ] มอบ 5 ฉีกขาด"
                 }
               ]
             }

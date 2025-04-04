@@ -2,39 +2,39 @@
   "dataList": [
     {
       "id": "OnSucceedAttack",
-      "name": "[On Hit]"
+      "name": "[เมื่อโจมตี]"
     },
     {
       "id": "WhenUse",
-      "name": "[On Use]"
+      "name": "[เมื่อใช้]"
     },
     {
       "id": "WinDuel",
-      "name": "[Clash Win]"
+      "name": "[ชนะการปะทะ]"
     },
     {
       "id": "BeforeAttack",
-      "name": "[Before Attack]"
+      "name": "[ก่อนโจมตี]"
     },
     {
       "id": "Wide",
-      "name": "[AoE]"
+      "name": "[โจมตีวงกว้าง]"
     },
     {
       "id": "nxPostLine",
-      "name": "[{n} in Front]"
+      "name": "[{n} ข้างหน้า]"
     },
     {
       "id": "nxCenterLine",
-      "name": "[{n} in Middle]"
+      "name": "[{n} ตรงกลาง]"
     },
     {
       "id": "nxBackLine",
-      "name": "[{n} in Back]"
+      "name": "[{n} ข้างหลัง]"
     },
     {
       "id": "CantIdentify",
-      "name": "[Indiscriminate]"
+      "name": "[คาดเดาไม่ได้]"
     },
     {
       "id": "CRIMSON",
@@ -74,167 +74,167 @@
     },
     {
       "id": "EndSkill",
-      "name": "[After Attack]"
+      "name": "[หลังโจมตี]"
     },
     {
       "id": "StartBattle",
-      "name": "[Combat Start]"
+      "name": "[เริ่มการต่อสู้]"
     },
     {
       "id": "DefeatDuel",
-      "name": "[Clash Lose]"
+      "name": "[แพ้การปะทะ]"
     },
     {
       "id": "OnSucceedAttackHead",
-      "name": "[Heads Hit]"
+      "name": "[ทอยหัว]"
     },
     {
       "id": "OnSucceedAttackTail",
-      "name": "[Tails Hit]"
+      "name": "[ทอยก้อย]"
     },
     {
       "id": "OnSucceedEvade",
-      "name": "[On Evade]"
+      "name": "[เมื่อหลบ]"
     },
     {
       "id": "AlwaysUse",
-      "name": "[Constant]"
+      "name": "[ใช้งานเสมอ]"
     },
     {
       "id": "CantDuel",
-      "name": "[Unclashable]"
+      "name": "[ไม่สามารถปะทะได้]"
     },
     {
       "id": "EnemyKill",
-      "name": "[On Kill]"
+      "name": "[เมื่อฆ่า]"
     },
     {
       "id": "EnemyKillFail",
-      "name": "[Failed Kill]"
+      "name": "[เมื่อฆ่าไม่ได้]"
     },
     {
       "id": "ReUse",
-      "name": "[On Reuse]"
+      "name": "[เมื่อใช้อีกครั้ง]"
     },
     {
       "id": "ReUseOnSucceedAttackHead",
-      "name": "[Reuse - Heads Hit]"
+      "name": "[ใช้อีกครั้ง - ทอยหัว]"
     },
     {
       "id": "CriticalOnSucceedAttack",
-      "name": "[On Crit]"
+      "name": "[เมื่อโจมตีคริติคอล]"
     },
     {
       "id": "StartDuel",
-      "name": "[Clash Start]"
+      "name": "[เมื่อเริ่มการปะทะ]"
     },
     {
       "id": "EndBattle",
-      "name": "[Turn End]"
+      "name": "[จบเทิร์น]"
     },
     {
       "id": "OnDefeatEvade",
-      "name": "[Failed Evade]"
+      "name": "[เมื่อหลบพลาด]"
     },
     {
       "id": "EndSkillHead",
-      "name": "[Heads Attack End]"
+      "name": "[เมื่อการโจมตีทอยหัวจบลง]"
     },
     {
       "id": "EndSkillTail",
-      "name": "[Tails Attack End]"
+      "name": "[เมื่อการโจมตีทอยก้อยจบลง]"
     },
     {
       "id": "WinDuelAttackHead",
-      "name": "[Heads Hit after Clash Win]"
+      "name": "[ทอยหัวเมื่อชนะการปะทะ]"
     },
     {
       "id": "WinDuelAttack",
-      "name": "[Hit after Clash Win]"
+      "name": "[เมื่อโจมตีหลังจากชนะการปะทะ]"
     },
     {
       "id": "CriticalActivated",
-      "name": "[On Crit]"
+      "name": "[เมื่อติดคริติคอล]"
     },
     {
       "id": "CriticalEndSkill",
-      "name": "[Crit Attack End]"
+      "name": "[เมื่อการโจมตีคริติคอลจบลง]"
     },
     {
       "id": "CantChangeTarget",
-      "name": "[Target Fixed]"
+      "name": "[เป้าหมายกำหนดไว้]"
     },
     {
       "id": "TurnStartBattle",
-      "name": "[Turn Start]"
+      "name": "[เมื่อเริ่มเทิร์น]"
     },
     {
       "id": "EndSkillAll",
-      "name": "[Skill End]"
+      "name": "[เมื่อสกิลจบลง]"
     },
     {
       "id": "WhenUse_Force",
-      "name": "<color=#26cfff>[On Use]</color>"
+      "name": "<color=#26cfff>[เมื่อใช้]</color>"
     },
     {
       "id": "StartBattle_Force",
-      "name": "<color=#93f13e>[Combat Start]</color>"
+      "name": "<color=#93f13e>[เมื่อเริ่มการต่อสู้]</color>"
     },
     {
       "id": "TargetKill",
-      "name": "[On Target Kill]"
+      "name": "[เมื่อฆ่าเป้าหมายได้]"
     },
     {
       "id": "CriticalTargetKill",
-      "name": "[On Crit Kill]"
+      "name": "[เมื่อการโจมตีคริติคอลฆ่าได้]"
     },
     {
       "id": "BeforeUse",
-      "name": "[Before Use]"
+      "name": "[ก่อนใช้]"
     },
     {
       "id": "DuelCounter",
-      "name": "[Clashable Counter]"
+      "name": "[การโจมตีสวนแบบปะทะได้]"
     },
     {
       "id": "CantBreak",
-      "name": "[Unbreakable Coin]"
+      "name": "[เหรียญที่ทำลายไม่ได้]"
     },
     {
       "id": "DuelGuard",
-      "name": "[Clashable Guard]"
+      "name": "[การป้องกันแบบปะทะได้]"
     },
     {
       "id": "WhenUseEvade",
-      "name": "[On Evade Use]"
+      "name": "[เมื่อใช้หลบ]"
     },
     {
       "id": "EndCoin",
-      "name": "[After Current Coin Attack]"
+      "name": "[หลังจากเหรียญโจมตีนี้]"
     },
     {
       "id": "CriticalEnemyTargetKillFail",
-      "name": "[On Crit Kill Fail Against Enemy]"
+      "name": "[เมื่อการโจมตีคริติคอลฆ่าศัตรูไม่ได้]"
     },
     {
       "id": "CriticalEnemyTargetKill",
-      "name": "[On Crit Kill Against Enemy]"
+      "name": "[เมื่อการโจมตีคริติคอลแล้วฆ่าศัตรูได้]"
     },
     {
       "id": "DefeatDuelAttack",
-      "name": "[Hit after Clash Lose]"
+      "name": "[เมื่อโจมตีหลังจากแพ้การปะทะ]"
     },
     {
       "id": "TargetKillFail",
-      "name": "[On Target Kill Fail]"
+      "name": "[เมื่อฆ่าเป้าหมายพลาด]"
     },
     {
       "id": "AllyKill",
-      "name": "[On Ally Kill]"
+      "name": "[เมื่อฆ่าพันธมิตร]"
     },
     {
       "id": "AllyKillFail",
-      "name": "[On Ally Kill Fail]"
+      "name": "[เมื่อฆ่าพันธมิตรพลาด]"
     },
     {
       "id": "TabExplain",
@@ -242,19 +242,19 @@
     },
     {
       "id": "UnBrokenCoinOnSucceedAttack",
-      "name": "[On Hit without Cracking]"
+      "name": "[เมื่อโจมตีโดยเหรียญไม่แตกร้าว]"
     },
     {
       "id": "BeforeHit",
-      "name": "[Before Getting Hit]"
+      "name": "[ก่อนถูกโจมตี]"
     },
     {
       "id": "OnDirectAttack",
-      "name": "[On Unopposed Attack]"
+      "name": "[เมื่อโจมตีฝ่ายเดียว]"
     },
     {
       "id": "ReUseOnSucceedAttack",
-      "name": "[Reuse - On Hit]"
+      "name": "[ใช้อีกครั้ง - เมื่อโจมตี]"
     }
   ]
 }
