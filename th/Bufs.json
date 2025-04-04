@@ -30,32 +30,32 @@
     },
     {
       "id": "Binding",
-      "name": "<line-height=120%>Bind\u200B</line-height>",
-      "desc": "Speed -{0} for this turn.",
-      "summary": "SPD -{0}",
+      "name": "<line-height=120%>พันธนา\u200B</line-height>",
+      "desc": "ความเร็ว -{0} ในเทิร์นนี้",
+      "summary": "ความเร็ว -{0}",
       "undefined": "-"
     },
     {
       "id": "Vulnerable",
-      "name": "<line-height=120%>Fragile\u200B</line-height>",
-      "desc": "Take +{0}0% damage this turn. (Max 100%)",
-      "summary": "+{0}0% Damage Taken",
+      "name": "<line-height=120%>เปราะบาง\u200B</line-height>",
+      "desc": "ได้รับ +{0}0% ความเสียหาย (Max 100%)",
+      "summary": "+{0}0% ความเสียหายที่ได้รับ",
       "undefined": "-"
     },
     {
       "id": "Taunt",
-      "name": "<line-height=120%>Taunt\u200B</line-height>",
+      "name": "<line-height=120%>ยั่วยุ\u200B</line-height>",
       "desc": "",
       "undefined": "-"
     },
     {
       "id": "ElectricShock",
-      "name": "<line-height=120%>Shock\u200B</line-height>",
-      "desc": "Take {0} more damage this turn."
+      "name": "<line-height=120%>ไฟดูด\u200B</line-height>",
+      "desc": "ได้รับ {0} ดาเมจเพิ่มเติม ในเทิร์นนี้"
     },
     {
       "id": "Target",
-      "name": "<line-height=120%>Marked\u200B</line-height>",
+      "name": "<line-height=120%>หมายหัว\u200B</line-height>",
       "desc": "Targeted by the character with the Passive [Sharp Edge].",
       "undefined": "-"
     },
@@ -85,16 +85,16 @@
     },
     {
       "id": "EgoErode",
-      "name": "<line-height=120%>E.G.O Corrosion\u200B</line-height>",
-      "desc": "Won’t listen to orders and will only use Corrosion Skills.",
-      "summary": "Out of control; uses Corrosion Skills",
+      "name": "<line-height=120%>E.G.O กัดกร่อน\u200B</line-height>",
+      "desc": "จะไม่ฟังคำสั่งใดๆทั้งสิ้น และ จะใช้สกิลเวอร์ชั่นกัดกร่อนเท่านั้น",
+      "summary": "หลุดจากการควบคุม ใช้สกิลแบบกัดกร่อน",
       "undefined": "-"
     },
     {
       "id": "Charge",
-      "name": "<line-height=120%>Charge\u200B</line-height>",
-      "desc": "Resource used by certain skills for additional effects. Its Count can go up to 20. Count lowers by 1 at the end of each turn.\n\n<color=#1aece7>Total Count consumed: {2}</color>",
-      "summary": "Specific Skill Resource",
+      "name": "<line-height=120%>ชาร์จ\u200B</line-height>",
+      "desc": "ทรัพยากรสำหรับบางสกิลที่ใช้เพื่อเอฟเฟคเพิ่มเติม จำนวนชาร์จสามารถเพิ่มถึง 20 ได้และจะลดลงทีละ 1 ในทุกๆเทิร์น\n\n<color=#1aece7>จำนวนชั้นที่ใช้ไปทั้งหมด: {2}</color>",
+      "summary": "ทรัพยากรของสกิลเฉพาะทาง",
       "undefined": "-"
     },
     {
@@ -105,15 +105,15 @@
     },
     {
       "id": "ResultEnhancement",
-      "name": "<line-height=120%>Power Up\u200B</line-height>",
-      "desc": "Skill Final Power +{0} for this turn.",
-      "summary": "Skill Final Power +{0}"
+      "name": "<line-height=120%>เสริมพลัง\u200B</line-height>",
+      "desc": "แต้มรวมสกิล +{0} ในเทิร์นนี้",
+      "summary": "แต้มสกิล +{0}"
     },
     {
       "id": "Protection",
-      "name": "<line-height=120%>Protection\u200B</line-height>",
-      "desc": "Take -{0}0% damage this turn. (Max 100%)",
-      "summary": "-{0}0% Damage Taken"
+      "name": "<line-height=120%>ปกป้อง\u200B</line-height>",
+      "desc": "ได้รับ -{0}0% ความเสียหายในเทิร์นนี้ (Max 100%)",
+      "summary": "-{0}0% ความเสียหายที่ได้รับ"
     },
     {
       "id": "AttackDmgUp",
