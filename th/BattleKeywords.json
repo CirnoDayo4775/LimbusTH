@@ -210,73 +210,73 @@
     },
     {
       "id": "Burst",
-      "name": "<line-height=120%>ฉีกขาด\u200B</line-height>",
-      "desc": "When hit by an attack, take fixed damage by the effect’s Potency.\nThen, reduce its Count by 1."
+      "name": "ฉีกขาด",
+      "desc": "เมื่อถูกโจมตี ได้รับค่าความเสียหายคงที่ตามค่าความแรงของเอฟเฟค\nจากนั้นลดจำนวนครั้งลง 1"
     },
     {
       "id": "Sinking",
-      "name": "<line-height=120%>Sinking\u200B</line-height>",
-      "desc": "When hit by an attack, take fixed SP damage by the effect’s Potency.\n(Units with no Sanity take Gloom damage instead.)\nThen, reduce its Count by 1."
+      "name": "จมดิ่ง",
+      "desc": "เมื่อถูกโจมตี รับความเสียหายทางค่าสติตามค่าความแรงของเอฟเฟค\n(หากยูนิตไม่มีค่าสติรับดาเมจเศร้าหมองแทน)\nจากนั้นลดจำนวนครั้งลง 1"
     },
     {
       "id": "Breath",
-      "name": "<line-height=120%>Poise\u200B</line-height>",
-      "desc": "On hit, gain a Potency-based chance to deal critical damage, reducing the Count by 1 if successful.\nAt the end of the turn, reduce the Count by 1."
+      "name": "ปราณ",
+      "desc": "เมื่อโจมตี ได้รับโอกาสโจมตีคริติคอลตามค่าความแรงของเอฟเฟค (1 ความแรงต่อ 5%), ลดจำนวนครั้งลง 1 ต่อการโจมตีคริติคอลที่สำเร็จ\nเมื่อจบเทิร์น ลดจำนวนครั้งลง 1"
     },
     {
       "id": "BloodPocket",
-      "name": "<line-height=120%>Blood Sac\u200B</line-height>",
-      "desc": "Use a powerful attack after the Count reaches a certain amount."
+      "name": "ถุงเลือด",
+      "desc": "ใช้ท่าโจมตีที่รุนแรงหากมีจำนวนเอฟเฟคถึงจุดหนึ่ง"
     },
     {
       "id": "WaterPocket",
-      "name": "<line-height=120%>Fluid Sac\u200B</line-height>",
-      "desc": "Heals HP based on the Count."
+      "name": "ถุงของเหลว",
+      "desc": "รักษาพลังชีวิตตามจำนวนเอฟเฟค"
     },
     {
       "id": "DogThunder",
-      "name": "<line-height=120%>Lightning\u200B</line-height>",
-      "desc": "Powers up after the Count reaches a certain amount."
+      "name": "สายฟ้า",
+      "desc": "เสริมแกร่งหลังจากจำนวนเอฟเฟคถึงจุดหนี่ง"
     },
     {
       "id": "Run_Panic",
-      "name": "<line-height=120%>Oppression\u200B</line-height>",
-      "desc": "Cannot act for one turn. When hit, flees battle after the attacker’s skill has finished."
+      "name": "ถูกบังคับ",
+      "desc": "ไม่สามารถทำอะไรได้หนึ่งเทิร์น เมื่อถูกโจมตี หนีออกจากการต่อสู้เมื่อสกิลของผู้โจมตีสิ้นสุดแล้ว"
     },
     {
       "id": "Operation",
-      "name": "<line-height=120%>Surgery\u200B</line-height>",
-      "desc": "Die when Count reaches 5.\nReduce Max HP by 20% (per Count).\nDeal 20% (per Count) more damage.\nAt the start of the turn, gain Haste by the effect’s Count."
+      "name": "ผ่าตัด",
+      "desc": "ตายเมื่อจำนวนถึง 5\nลดพลังชีวิตสูงสุด 20% (ต่อจำนวนสแต็ค).\nทำความเสียหายมากขึ้น 20% (ต่อจำนวนสแต็ค) \nเมื่อเริ่มเทิร์น ได้รับบัพ ว่องไว ตามจำนวนเอฟเฟค"
     },
     {
       "id": "Emergency_Operation",
-      "name": "<line-height=120%>Makeshift Surgery\u200B</line-height>",
-      "desc": "Boost Max HP by 25% and skill Power by 1 per this effect’s Count.\nEach turn, increase this effect’s Count by 1.\nDie when Count reaches 5."
+      "name": "ผ่าตัดชั่วคราว",
+      "desc": "เพิ่มพลังชีวิตสูงสุด 25% และผลรวมแต้ม 1 ต่อจำนวนเอฟเฟค\nทุกๆเทิร์น เพิ่มค่าของเอฟเฟคนี้ขึ้น 1\nตายเมื่อเอฟเฟคนี้มีค่าถึง 5"
     },
     {
       "id": "BabayagaTimeLimit",
-      "name": "<line-height=120%>Baba Yaga’s Coming!\u200B</line-height>",
+      "name": "บาบ้ายาก้ากำลังมา!",
       "desc": ""
     },
     {
       "id": "PinkRibbon",
-      "name": "<line-height=120%>Pink Ribbons\u200B</line-height>",
-      "desc": "At the end of the turn, if at 5+ Potency, remove this effect and apply ‘Desirous’ next turn."
+      "name": "โบว์สีชมพู",
+      "desc": "เมื่อจบเทิร์น หากมีค่าเอฟเฟคจำนวน 5+ ลบเอฟเฟคนี้ออกและมอบ ‘ความปราถนา’ ให้ในเทิร์นต่อไป"
     },
     {
       "id": "Greedy",
-      "name": "<line-height=120%>Desirous\u200B</line-height>",
-      "desc": "At the start of the turn, gain 10 Bind.\nAll phys. resistances change to ‘Fatal’.\nAttack Skill Power +2.\nDefense Skill Power -2."
+      "name": "ความปราถนา",
+      "desc": "เมื่อเริ่มเทิร์น ได้รับ 10 พันธนา\nความทนทานทางกายภาพทัั้งหมดเปลี่ยนเป็น ‘ถึงตาย’.\nแต้มพลังโจมตี +2.\nแต้มพลังป้องกัน -2."
     },
     {
       "id": "PinkRibbon_Ishmael",
-      "name": "<line-height=120%>Pink Ribbons\u200B</line-height>",
-      "desc": "Count increases by 1 whenever the affected unit tosses an attack skill Coin.\nAt the end of the turn, inflict Bind by the effect’s Count, then remove the effect."
+      "name": "โบว์สีชมพู",
+      "desc": "จำนวนเอฟเฟคเพิ่มขึ้น 1 เมื่อใดก็ตามที่ยูนิตทอยเหรียญสกิลโจมตี\nเมื่อจบเทิร์น มอบ พันธนา ให้ตามค่าเอฟเฟค จากนั้นลบเอฟเฟคออก"
     },
     {
       "id": "Muckworm",
-      "name": "<line-height=120%>Maggots\u200B</line-height>",
-      "desc": "Turn End: Take Gluttony damage by the Count, then lower it by 1; Bleed Count +1."
+      "name": "ตัวอ่อน",
+      "desc": "จบเทิร์น: ได้รับความเสียหาย ตะกละ ตามค่าเอฟเฟค, จากนั้นลดค่าเอฟเฟคลงหนึ่ง 1; จำนวนครั้งเลือดไหล +1."
     },
     {
       "id": "AttackUp",
@@ -1897,15 +1897,15 @@
     },
     {
       "id": "VendettaMark",
-      "name": "<line-height=120%>เครื่องหมายอาฆาต\u200B</line-height>",
-      "desc": "- สแต็คสูงสุด: 10\n- จะถูกใช้โดยบางสกิลหรือสกิลติดตัว\n- ได้รับ +2% ความเสียหายเพิ่มเติมจาก The Middle (สูงสุด 20%)\n- จบเทิร์น: ยูนิตที่มีสแต็คดีบัพนี้สูงสุดได้รับ 1 เครื่องหมายอาฆาตของผองญาติ ในเทิร์นต่อไป\n(นับแยกจาก Vengeance Mark; หากยูนิตมากกว่า 1 ตัวมีสแต็คดีบัพนี้สูงสุด, เอฟเฟคจะทำงานกับยูนิตที่เปอร์เซ็นต์เลือดสูงกว่า)",
+      "name": "ฝากรอยอาฆาต",
+      "desc": "- สแต็คสูงสุด: 10\n- จะถูกใช้โดยบางสกิลหรือสกิลติดตัว\n- ได้รับ +2% ความเสียหายเพิ่มเติมจาก The Middle (สูงสุด 20%)\n- จบเทิร์น: ยูนิตที่มีสแต็คดีบัพนี้สูงสุดได้รับ 1 เครื่องหมายอาฆาตของผองญาติ ในเทิร์นต่อไป\n(นับแยกจาก ฝากรอยแค้น; หากยูนิตมากกว่า 1 ตัวมีสแต็คดีบัพนี้สูงสุด, เอฟเฟคจะทำงานกับยูนิตที่เปอร์เซ็นต์เลือดสูงกว่า)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RetaliationBookFamily",
-      "name": "<line-height=120%>เครื่องหมายอาฆาตของผองญาติ\u200B</line-height>",
-      "desc": "- สแต็คสูงสุด: 1\n- จะถูกลบตอนจบเทิร์น\n- ทุกตัวตนจะทำเหมือนว่ายูนิตนี้มี เครื่องหมายความแค้น",
+      "name": "เครื่องหมายอาฆาตของผองญาติ",
+      "desc": "- สแต็คสูงสุด: 1\n- จะถูกลบตอนจบเทิร์น\n- ทุกตัวตนจะทำเหมือนว่ายูนิตนี้มี ฝากรอยแค้น",
       "summary": "",
       "undefined": "-"
     }
