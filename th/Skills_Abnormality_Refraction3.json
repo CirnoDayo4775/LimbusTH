@@ -172,7 +172,7 @@
                   "desc": "[OnSucceedAttack] Inflict 5 [Laceration] and +4 [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to [Laceration] on target"
+                  "desc": "[OnSucceedAttack] Heal HP equal to [Laceration]บนtarget"
                 }
               ]
             },
@@ -182,7 +182,7 @@
                   "desc": "[OnSucceedAttack] Inflict 5 [Laceration] and +4 [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to [Laceration] on target"
+                  "desc": "[OnSucceedAttack] Heal HP equal to [Laceration]บนtarget"
                 }
               ]
             }
@@ -234,7 +234,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Spark\u200B</line-height>",
-          "desc": "[WinDuel] Inflict [Combustion] equal to [Combustion] on target.\n[WhenUse] Inflict +2 [Combustion] Count.",
+          "desc": "[WinDuel] Inflict [Combustion] equal to [Combustion]บนtarget.\n[WhenUse] Inflict +2 [Combustion] Count.",
           "coinlist": [
             {
               "coindescs": [
@@ -320,7 +320,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 10% of damage dealt"
                 },
                 {
                   "desc": "[EndSkill] Inflict 10 [Combustion] against targets that have been Staggered by this Attack."
@@ -399,7 +399,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>It Shall Be Insidious\u200B</line-height>",
-          "desc": "[WinDuel] Double the [Vulnerable] and [Binding] inflicted by Coin effects.",
+          "desc": "[WinDuel] Double the [Vulnerable] and [Binding] inflicted by เหรียญ effects.",
           "coinlist": [
             {
               "coindescs": [
@@ -513,7 +513,7 @@
                   "desc": "[OnSucceedAttack] Deal 10 SP damage"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Raise Stagger Threshold by 20"
+                  "desc": "[OnSucceedAttackHead] เพิ่มขีดStagger by 20"
                 }
               ]
             }
@@ -545,7 +545,7 @@
                   "desc": "[OnSucceedAttack] Deal 15 SP damage"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Raise Stagger Threshold by 30"
+                  "desc": "[OnSucceedAttackHead] เพิ่มขีดStagger by 30"
                 }
               ]
             }
@@ -578,7 +578,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>6:5\u200B</line-height>",
-          "desc": "[CantDuel][CantChangeTarget]\nTake damage in the target's place. Get staggered next turn.\nInflict Marked on a random enemy without [AaCePcBa].\n[EndBattle] All Candles heal to Max HP",
+          "desc": "[CantDuel][CantChangeTarget]\nTake damage in the target's place. Get staggered next turn.\nInflict Markedบนa random enemy without [AaCePcBa].\n[EndBattle] All Candles heal to Max HP",
           "coinlist": [
             {
               "coindescs": [
@@ -586,7 +586,7 @@
                   "desc": "[OnSucceedAttack] This unit's max HP decreases by 5%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Burn on self"
+                  "desc": "[OnSucceedAttack] Inflict 10 Burnบนself"
                 }
               ]
             },
@@ -596,7 +596,7 @@
                   "desc": "[OnSucceedAttack] This unit's max HP decreases by 5%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Burn on self"
+                  "desc": "[OnSucceedAttack] Inflict 10 Burnบนself"
                 }
               ]
             }
@@ -615,10 +615,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion] and +2 [Combustion] Count on target"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion] and +2 [Combustion] Countบนtarget"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 20 HP on self"
+                  "desc": "[OnSucceedAttack] Heal 20 HPบนself"
                 }
               ]
             }

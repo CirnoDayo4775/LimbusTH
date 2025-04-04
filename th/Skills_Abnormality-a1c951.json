@@ -6,12 +6,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Be The Joy\u200B</line-height>",
-                    "desc": "[WhenUse] Gain +2 [Charge] Count",
+                    "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [Binding] on target next turn"
+                                    "desc": "[OnSucceedAttack] Inflict 3 [Binding]บนtarget next turn"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Gain 2 [Breath]"
@@ -28,7 +28,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Be The Comfort\u200B</line-height>",
-                    "desc": "[WhenUse] Gain +2 [Charge] Count",
+                    "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -43,7 +43,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Gain [Breath] equal to [Breath] on self"
+                                    "desc": "[CriticalOnSucceedAttack] Gain [Breath] equal to [Breath]บนself"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Gain +3 [Breath] Count"
@@ -85,7 +85,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Let's Get Packing\u200B</line-height>",
-                    "desc": "If this unit has [AaCeSeBa], add 'Inflict 1 [Paralysis] next turn' to Coin effects\nTargets the unit with the lowest Speed\n[EndBattle] Spend all [Charge] Count",
+                    "desc": "If this unit has [AaCeSeBa], add 'Inflict 1 [Paralysis] next turn' to เหรียญ effects\nTargets the unit with the lowest Speed\n[EndBattle]จ่าย all [Charge] Count",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -97,7 +97,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Deal bonus damage equal to [Breath] on self"
+                                    "desc": "[OnSucceedAttack] Deal bonus damage equal to [Breath]บนself"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Gain 1 [Breath] and +3 [Breath] Count"
@@ -110,7 +110,7 @@
                                     "desc": "[OnSucceedAttack] Randomly select 1 of 4 effects ([Protection], [Enhancement], [Vulnerable], [Paralysis]). Inflict or apply 3 of the selected effect."
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Target loses SP equal to [Charge] Count on this unit"
+                                    "desc": "[OnSucceedAttack] Target loses SP equal to [Charge] Countบนthis unit"
                                 },
                                 {
                                     "desc": "[EnemyKill] All enemies lose 10 Sp."

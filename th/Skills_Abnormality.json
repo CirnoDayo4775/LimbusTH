@@ -1432,7 +1432,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10; Inflict 5 Bind next turn"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 10; Inflict 5 Bind next turn"
                 }
               ]
             }
@@ -1671,7 +1671,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal damage by 3x Nails on target, then remove the Nails"
+                  "desc": "[OnSucceedAttack] Deal damage by 3x Nailsบนtarget, then remove the Nails"
                 }
               ]
             }
@@ -2505,7 +2505,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Khghgh!\u200B</line-height>",
-          "desc": "If user took no damage last turn, Coin Power +3",
+          "desc": "If user took no damage last turn, เหรียญ Power +3",
           "coinlist": [
             {
               "coindescs": [
@@ -2524,7 +2524,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Kawkbaawk!\u200B</line-height>",
-          "desc": "If user took no damage last turn, Coin Power +3",
+          "desc": "If user took no damage last turn, เหรียญ Power +3",
           "coinlist": [
             {},
             {
@@ -2560,7 +2560,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Khgh\u200B</line-height>",
-          "desc": "Targets the unit with the most HP",
+          "desc": "เล็งเป้าหมายที่มีHP เยอะที่สุด",
           "coinlist": [
             {
               "coindescs": [
@@ -2579,7 +2579,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Khgaawahk\u200B</line-height>",
-          "desc": "Targets the unit with the most HP",
+          "desc": "เล็งเป้าหมายที่มีHP เยอะที่สุด",
           "coinlist": [
             {},
             {
@@ -2850,7 +2850,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 20% of damage dealt"
                 }
               ]
             },
@@ -2860,7 +2860,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 20% of damage dealt"
                 }
               ]
             },
@@ -2870,7 +2870,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 20% of damage dealt"
                 }
               ]
             }
@@ -2892,7 +2892,7 @@
                   "desc": "[OnSucceedAttack] Target loses 15 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 50% of damage dealt"
                 }
               ]
             }
@@ -3151,7 +3151,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>High-voltage Electric Discharge\u200B</line-height>",
-          "desc": "At 11+ Self-charge, deal +10% Damage for each Count of Self-charge over 10\nSpend all Self-charge",
+          "desc": "At 11+ Self-charge, deal +10% Damageต่อทุกขั้นที่จ่ายไป of Self-charge over 10\nSpend all Self-charge",
           "coinlist": [
             {
               "coindescs": [
@@ -3180,7 +3180,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Coil Up\u200B</line-height>",
-          "desc": "If this skill is on a slot, gain shield by the head's current HP",
+          "desc": "If this skill isบนa slot, gain shield by the head's current HP",
           "coinlist": [
             {}
           ]
@@ -3193,7 +3193,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wriggling Head\u200B</line-height>",
-          "desc": "Targets the enemy with the least HP\n[WhenUse] Spend 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge",
+          "desc": "Targets the enemy with the least HP\n[WhenUse]จ่าย 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge",
           "coinlist": [
             {},
             {
@@ -3213,7 +3213,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wriggling Tail\u200B</line-height>",
-          "desc": "Targets the enemy with the least HP\n[WhenUse] Spend 2 Self-charge\n[DefeatDuel] Lose 3 Self-charge",
+          "desc": "Targets the enemy with the least HP\n[WhenUse]จ่าย 2 Self-charge\n[DefeatDuel] Lose 3 Self-charge",
           "coinlist": [
             {},
             {},
@@ -3369,7 +3369,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Entangling Talisman\u200B</line-height>",
-          "desc": "[WhenUse] Inflict 2 Entangled Curse Talisman",
+          "desc": "[WhenUse] Inflict 2 [WrappedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
@@ -3388,12 +3388,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Cumulating Curse\u200B</line-height>",
-          "desc": "[WhenUse] Inflict 1 Entangled Curse Talisman",
+          "desc": "[WhenUse] Inflict 1 [WrappedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Entangled Curse Talisman by target's Entangled Curse Talisman"
+                  "desc": "[OnSucceedAttack] Inflict [WrappedCurseTag] by target's [WrappedCurseTag]"
                 }
               ]
             },
@@ -3421,7 +3421,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>So That No One Will Cry\u200B</line-height>",
-          "desc": "[EndBattle] Remove all Reattached Curse Talisman",
+          "desc": "[EndBattle] Remove all [ReattachedCurseTag]",
           "coinlist": [
             {},
             {},
@@ -3447,7 +3447,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Transferring Talisman\u200B</line-height>",
-          "desc": "[WhenUse] Remove all Entangled Curse Talisman from target; Gain the same amount of Reattached Curse Talisman",
+          "desc": "[WhenUse] Remove all [WrappedCurseTag] from target; Gain the same amount of [ReattachedCurseTag]",
           "coinlist": [
             {}
           ]
@@ -3459,8 +3459,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Proliferating Curse\u200B</line-height>",
-          "desc": "[WhenUse] Inflict Entangled Curse Talisman by target's Entangled Curse Talisman",
+          "name": "<line-height=120%>แพร่พันธุ์คำสาป\u200B</line-height>",
+          "desc": "[WhenUse] Inflict [WrappedCurseTag] by target's [WrappedCurseTag]",
           "coinlist": [
             {}
           ]
@@ -3536,7 +3536,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Morale Boost, deal +10% damage for each Count"
+                  "desc": "[OnSucceedAttack] If target has Morale Boost, deal +10% damageต่อทุกขั้นที่จ่ายไป"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has Tipsy, deal 0 damage, and user loses 50 HP"
@@ -3561,7 +3561,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Morale Boost, deal +100% damage for each Count"
+                  "desc": "[OnSucceedAttack] If target has Morale Boost, deal +100% damageต่อทุกขั้นที่จ่ายไป"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has Tipsy, deal 0 damage, and user loses 50 HP"
@@ -3732,7 +3732,7 @@
                   "desc": "[OnSucceedAttack] Inflict +3 Rupture Count."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 50% of damage dealt"
                 }
               ]
             }
@@ -5050,7 +5050,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Predation\u200B</line-height>",
-          "desc": "If the target has 5+ [Laceration], Coin Power +1",
+          "desc": "If the target has 5+ [Laceration], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -5069,7 +5069,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Starved Fluttering\u200B</line-height>",
-          "desc": "At 3+ [Hunger], Coin Power +1\nIf the target has 5+ [Laceration], Coin Power +1",
+          "desc": "At 3+ [Hunger], เหรียญ Power +1\nIf the target has 5+ [Laceration], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -5102,12 +5102,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ravening Hunger\u200B</line-height>",
-          "desc": "[CantIdentify]\nPrioritizes targets with [PreparedMeat]\nIf the target has 5 +[Laceration], Coin Power +1\nIf the target has [PreparedMeat], Coin Power +10\nCoin Power -5 for every broken Arm Part\n[TargetKill] All Parts gain 2 [Enhancement] for the Encounter (stackable)",
+          "desc": "[CantIdentify]\nPrioritizes targets with [PreparedMeat]\nIf the target has 5 +[Laceration], เหรียญ Power +1\nIf the target has [PreparedMeat], เหรียญ Power +10\nเหรียญ Power -5 for every broken Arm Part\n[TargetKill] All Parts gain 2 [Enhancement] for the Encounter (stackable)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Reuse Coin once (3 times per Skill)"
+                  "desc": "[OnSucceedAttackHead] Reuse เหรียญ once (3 times per Skill)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Core heals 10 HP"
@@ -5174,7 +5174,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Gluttony\u200B</line-height>",
-          "desc": "If the target has 5+ [Laceration], Coin Power +1",
+          "desc": "If the target has 5+ [Laceration], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -5196,7 +5196,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tiny Wingbeat\u200B</line-height>",
-          "desc": "If the target has 5+ [Laceration], Coin Power +1",
+          "desc": "If the target has 5+ [Laceration], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [

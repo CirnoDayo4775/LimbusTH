@@ -145,7 +145,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Law and Order\u200B</line-height>",
-          "desc": "At 5+ Defense Level Up, Coin Power +1\n[WinDuel] Heal 2 HP",
+          "desc": "At 5+ Defense Level Up, เหรียญ Power +1\n[WinDuel] Heal 2 HP",
           "coinlist": [
             {},
             {
@@ -160,7 +160,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Law and Order\u200B</line-height>",
-          "desc": "At 5+ Defense Level Up, Coin Power +1\n[WinDuel] Heal 4 HP",
+          "desc": "At 5+ Defense Level Up, เหรียญ Power +1\n[WinDuel] Heal 4 HP",
           "coinlist": [
             {},
             {
@@ -282,7 +282,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Metallic Ringing\u200B</line-height>",
-          "desc": "[StartBattle] Spend 5 Tremor Count and gain +1 Atk Weight for this Skill\n[WhenUse] Gain +4 Tremor Count",
+          "desc": "[StartBattle]จ่าย 5 Tremor Count and gain +1 Atk Weight for this Skill\n[WhenUse] Gain +4 Tremor Count",
           "coinlist": [
             {
               "coindescs": [
@@ -301,7 +301,7 @@
                   "desc": "[OnSucceedAttack] Inflict 5 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 Plus เหรียญ Drop next turn"
                 }
               ]
             }
@@ -310,7 +310,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Metallic Ringing\u200B</line-height>",
-          "desc": "[StartBattle] Spend 5 Tremor Count and gain +1 Atk Weight for this Skill\n[WhenUse] Gain +4 Tremor Count",
+          "desc": "[StartBattle]จ่าย 5 Tremor Count and gain +1 Atk Weight for this Skill\n[WhenUse] Gain +4 Tremor Count",
           "coinlist": [
             {
               "coindescs": [
@@ -329,7 +329,7 @@
                   "desc": "[OnSucceedAttack] Inflict 5 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 Plus เหรียญ Drop next turn"
                 }
               ]
             }
@@ -343,7 +343,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Unleashed Violence\u200B</line-height>",
-          "desc": "[StartBattle] Spend 5 Tremor Count and gain +1 Atk Weight for this Skill (Max +2)\n[DefeatDuel] Lose 20 SP\nDeal 3% more Damage for every type of negative effect on target (Max 15%)\n[EnemyKill] Gain +2 Tremor Count",
+          "desc": "[StartBattle]จ่าย 5 Tremor Count and gain +1 Atk Weight for this Skill (Max +2)\n[DefeatDuel] Lose 20 SP\nDeal 3% more Damage for every type of negative effectบนtarget (Max 15%)\n[EnemyKill] Gain +2 Tremor Count",
           "coinlist": [
             {
               "coindescs": [
@@ -371,7 +371,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Unleashed Violence\u200B</line-height>",
-          "desc": "[StartBattle] Spend 5 Tremor Count and gain +1 Atk Weight for this Skill (Max +2)\n[DefeatDuel] Lose 20 SP\nDeal 6% more Damage for every type of negative effect on target (Max 30%)\n[EnemyKill] Gain +2 Tremor Count",
+          "desc": "[StartBattle]จ่าย 5 Tremor Count and gain +1 Atk Weight for this Skill (Max +2)\n[DefeatDuel] Lose 20 SP\nDeal 6% more Damage for every type of negative effectบนtarget (Max 30%)\n[EnemyKill] Gain +2 Tremor Count",
           "coinlist": [
             {
               "coindescs": [
@@ -463,7 +463,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Moonlit Blade Dance\u200B</line-height>",
-          "desc": "<style=\"highlight\">At 5+ [Breath], Coin Power +1</style>\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "<style=\"highlight\">At 5+ [Breath], เหรียญ Power +1</style>\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {},
             {
@@ -519,7 +519,7 @@
                   "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
                 },
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "+30% DamageบนCritical Hit"
                 }
               ]
             },
@@ -538,7 +538,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Acupuncture\u200B</line-height>",
-          "desc": "<style=\"highlight\">At 7+ [Breath], Coin Power +1\n</style>[WhenUse] Gain +2 [Breath] Count",
+          "desc": "<style=\"highlight\">At 7+ [Breath], เหรียญ Power +1\n</style>[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -546,7 +546,7 @@
                   "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
                 },
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "+30% DamageบนCritical Hit"
                 }
               ]
             },
@@ -570,7 +570,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Red Plum Blossoms Scatter\u200B</line-height>",
-          "desc": "Deal +3% damage for every [RedApricotBlossom] on target\n[WinDuel] Consume half the [Breath] Count on self, then gain [Breath] equal to the [Breath] Count consumed. (Max 10)",
+          "desc": "Deal +3% damage for every [RedApricotBlossom]บนtarget\n[WinDuel] Consume half the [Breath] Countบนself, then gain [Breath] equal to the [Breath] Count consumed. (Max 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -591,7 +591,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Red Plum Blossoms Scatter\u200B</line-height>",
-          "desc": "Deal +3% more damage for every [RedApricotBlossom] on target\n<style=\"highlight\">Coin Power +1 for every 7 [Breath] on self (Max 3)</style>\n[WinDuel] Consume half the [Breath] Count on self, then gain [Breath] equal to the [Breath] Count consumed. (Max 10)\n<style=\"highlight\">This Skill does not consume [RedApricotBlossom] On Crit</style>",
+          "desc": "Deal +3% more damage for every [RedApricotBlossom]บนtarget\n<style=\"highlight\">เหรียญ Power +1 for every 7 [Breath]บนself (Max 3)</style>\n[WinDuel] Consume half the [Breath] Countบนself, then gain [Breath] equal to the [Breath] Count consumed. (Max 10)\n<style=\"highlight\">This Skill does not consume [RedApricotBlossom]บนCrit</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -623,7 +623,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Redirect\u200B</line-height>",
-          "desc": "[WhenUse] For every 4 [Breath] on self, gain Final Power +1 (Max 3)",
+          "desc": "[WhenUse] For every 4 [Breath]บนself, gain Final Power +1 (Max 3)",
           "coinlist": [
             {}
           ]
@@ -631,7 +631,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Redirect\u200B</line-height>",
-          "desc": "[WhenUse] For every 4 [Breath] on self, gain Final Power +1 (Max 5)",
+          "desc": "[WhenUse] For every 4 [Breath]บนself, gain Final Power +1 (Max 5)",
           "coinlist": [
             {}
           ]
@@ -674,7 +674,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Confiscation\u200B</line-height>",
-          "desc": "[WhenUse] If target has 6+ [Sinking], Coin Power +1",
+          "desc": "[WhenUse] If target has 6+ [Sinking], เหรียญ Power +1",
           "coinlist": [
             {},
             {
@@ -724,7 +724,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Interloper Reception\u200B</line-height>",
-          "desc": "[WhenUse] If target has 5+ [Sinking], Clash Power +1\n[WhenUse] If target has 3+ [Sinking] Count, Coin Power +1",
+          "desc": "[WhenUse] If target has 5+ [Sinking], Clash Power +1\n[WhenUse] If target has 3+ [Sinking] Count, เหรียญ Power +1",
           "coinlist": [
             {},
             {
@@ -770,7 +770,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Reception Arts 4: Heartseal\u200B</line-height>",
-          "desc": "[WhenUse] If target has 5+ [Sinking] Count, Coin Power +2",
+          "desc": "[WhenUse] If target has 5+ [Sinking] Count, เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -801,7 +801,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hunting Plans\u200B</line-height>",
-          "desc": "[WhenUse] If target has 10+ [Sinking], Coin Power +3",
+          "desc": "[WhenUse] If target has 10+ [Sinking], เหรียญ Power +3",
           "coinlist": [
             {}
           ]
@@ -809,7 +809,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Hunting Plans\u200B</line-height>",
-          "desc": "[WhenUse] If target has 10+ [Sinking], Coin Power +7",
+          "desc": "[WhenUse] If target has 10+ [Sinking], เหรียญ Power +7",
           "coinlist": [
             {}
           ]
@@ -822,13 +822,13 @@
         {
           "level": 1,
           "name": "<line-height=120%>40Y-3 Activation\u200B</line-height>",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1",
+          "desc": "[WhenUse] Consume 5 [Charge] Count to gain เหรียญ Power +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -837,7 +837,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>40Y-3 Activation\u200B</line-height>",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Consume 5 [Charge] Count to gain เหรียญ Power +1<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -852,13 +852,13 @@
         {
           "level": 4,
           "name": "<line-height=120%>40Y-3 Activation\u200B</line-height>",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power <style=\"highlight\">+2</style>",
+          "desc": "[WhenUse] Consume 5 [Charge] Count to gain เหรียญ Power <style=\"highlight\">+2</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +3 ขั้น<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -872,14 +872,14 @@
         {
           "level": 1,
           "name": "<line-height=120%>Charge Countercurrent\u200B</line-height>",
-          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1",
+          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain เหรียญ Power +1",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "At 3+ Reson. including this Skill, consume all [Charge] Count on self and deal +([Charge])% more damage for every [Charge] Count consumed by this Skill (max 60%)"
+                  "desc": "At 3+ Reson. including this Skill, consume all [Charge] Countบนself and deal +([Charge])% more damage for every [Charge] Count consumed by this Skill (max 60%)"
                 }
               ]
             }
@@ -888,14 +888,14 @@
         {
           "level": 2,
           "name": "<line-height=120%>Charge Countercurrent\u200B</line-height>",
-          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain เหรียญ Power +1<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "At 3+ Reson. including this Skill, consume all [Charge] Count on self and deal +<style=\"highlight\">([Charge] + 3)</style>% more damage for every [Charge] Count consumed by this Skill (max <style=\"highlight\">120%</style>)"
+                  "desc": "At 3+ Reson. including this Skill, consume all [Charge] Countบนself and deal +<style=\"highlight\">([Charge] + 3)</style>% more damage for every [Charge] Count consumed by this Skill (max <style=\"highlight\">120%</style>)"
                 }
               ]
             }
@@ -904,14 +904,14 @@
         {
           "level": 4,
           "name": "<line-height=120%>Charge Countercurrent\u200B</line-height>",
-          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power <style=\"highlight\">+2</style>",
+          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain เหรียญ Power <style=\"highlight\">+2</style>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "At 3+ Reson. including this Skill, consume all [Charge] Count on self and deal +<style=\"highlight\">([Charge] + 4)</style>% more damage for every [Charge] Count consumed by this Skill (max <style=\"highlight\">180%</style>)"
+                  "desc": "At 3+ Reson. including this Skill, consume all [Charge] Countบนself and deal +<style=\"highlight\">([Charge] + 4)</style>% more damage for every [Charge] Count consumed by this Skill (max <style=\"highlight\">180%</style>)"
                 }
               ]
             }
@@ -925,7 +925,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>40Y-3 Charge\u200B</line-height>",
-          "desc": "At 2+ [Charge], Coin Power +2",
+          "desc": "At 2+ [Charge], เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -954,7 +954,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>40Y-3 Charge\u200B</line-height>",
-          "desc": "<style=\"highlight\">Coin Power +1 for every [Charge] (max 4)</style>",
+          "desc": "<style=\"highlight\">เหรียญ Power +1 for every [Charge] (max 4)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -991,7 +991,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Charge\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 [Charge] Count (2 times per turn)",
+          "desc": "[WhenUse] Gain [Charge] +2 ขั้น (2 times per turn)",
           "coinlist": [
             {}
           ]
@@ -1039,7 +1039,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Ignition\u200B</line-height>",
-          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on target), Coin Power +1",
+          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count\n[WhenUse] At 10+ ([Combustion]บนself + [Combustion]บนtarget), เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1069,7 +1069,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Ignition\u200B</line-height>",
-          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count\n[WhenUse] Coin Power +1 for every 10 ([Combustion] on self + [Combustion] on target) (max 2)",
+          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count\n[WhenUse] เหรียญ Power +1 for every 10 ([Combustion]บนself + [Combustion]บนtarget) (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1135,7 +1135,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>E.G.O - A.B.S Activation\u200B</line-height>",
-          "desc": "[WhenUse] Deal +10% more damage for every 10 [Combustion] on self (max 20%)\n[WhenUse] Gain +4 [Combustion] Count\n[WhenUse] At 4+ ([Combustion] on self + [Combustion] on target), Coin Power +1",
+          "desc": "[WhenUse] Deal +10% more damage for every 10 [Combustion]บนself (max 20%)\n[WhenUse] Gain +4 [Combustion] Count\n[WhenUse] At 4+ ([Combustion]บนself + [Combustion]บนtarget), เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1166,7 +1166,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>E.G.O - A.B.S Activation\u200B</line-height>",
-          "desc": "[WhenUse] Deal +10% more damage for every 10 [Combustion] on self (max 20%)\n[WhenUse] Gain +4 [Combustion] Count\n[WhenUse] Coin Power +1 for every 4 ([Combustion] on self + [Combustion] on target) (max 2)",
+          "desc": "[WhenUse] Deal +10% more damage for every 10 [Combustion]บนself (max 20%)\n[WhenUse] Gain +4 [Combustion] Count\n[WhenUse] เหรียญ Power +1 for every 4 ([Combustion]บนself + [Combustion]บนtarget) (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1191,7 +1191,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 15+ [Combustion], inflict +2 [Combustion] Count on target"
+                  "desc": "[OnSucceedAttack] If target has 15+ [Combustion], inflict +2 [Combustion] Countบนtarget"
                 }
               ]
             }
@@ -1205,7 +1205,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Drawn by Flame\u200B</line-height>",
-          "desc": "[StartBattle] Gain 7 [Combustion] and +1 [Combustion] Count\n[BeforeUse] At 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] Deal +7.5% more damage for every 5 [Combustion] on self (max 30%)\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on target), Base Power +1\n[WhenUse] If this unit is missing 30%+ HP, Coin Power +1",
+          "desc": "[StartBattle] Gain 7 [Combustion] and +1 [Combustion] Count\n[BeforeUse] At 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] Deal +7.5% more damage for every 5 [Combustion]บนself (max 30%)\n[WhenUse] At 10+ ([Combustion]บนself + [Combustion]บนtarget), Base Power +1\n[WhenUse] If this unit is missing 30%+ HP, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1227,7 +1227,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Drawn by Flame\u200B</line-height>",
-          "desc": "[StartBattle] Gain 7 [Combustion] and +1 [Combustion] Count\n[BeforeUse] At 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] Deal +12.5% more damage for every 5 [Combustion] on self (max 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion] on self + [Combustion] on target) (max 2)\n[WhenUse] If this unit is missing 30%+ HP, Coin Power +1 (max 2)",
+          "desc": "[StartBattle] Gain 7 [Combustion] and +1 [Combustion] Count\n[BeforeUse] At 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] Deal +12.5% more damage for every 5 [Combustion]บนself (max 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion]บนself + [Combustion]บนtarget) (max 2)\n[WhenUse] If this unit is missing 30%+ HP, เหรียญ Power +1 (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1262,7 +1262,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Resonating by raising A.B.S Attunement.\u200B</line-height>",
-          "desc": "[WhenUse] At 10+ [Combustion], Coin Power +3\n[WhenUse] Lose 5 [Combustion] (once per turn)\n[OnSucceedEvade] Lose 5 [Combustion] (once per turn)",
+          "desc": "[WhenUse] At 10+ [Combustion], เหรียญ Power +3\n[WhenUse] Lose 5 [Combustion] (once per turn)\n[OnSucceedEvade] Lose 5 [Combustion] (once per turn)",
           "coinlist": [
             {}
           ]
@@ -1275,7 +1275,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>A.B.S Max Attunement 【Degraded Corrosion】\u200B</line-height>",
-          "desc": "After using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] Deal +7.5% more damage for every 5 [Combustion] on self (max 30%)\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on target), Base Power +1\n[WhenUse] Coin Power +1 for every 30% missing HP on self (max 2)\n[BeforeAttack] Atk Weight +1 for every 20% missing HP on self (max 2)",
+          "desc": "After using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] Deal +7.5% more damage for every 5 [Combustion]บนself (max 30%)\n[WhenUse] At 10+ ([Combustion]บนself + [Combustion]บนtarget), Base Power +1\n[WhenUse] เหรียญ Power +1 for every 30% missing HPบนself (max 2)\n[BeforeAttack] Atk Weight +1 for every 20% missing HPบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1303,7 +1303,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +10% more damage for every 20% missing HP on self (max 30%)"
+                  "desc": "[OnSucceedAttack] Deal +10% more damage for every 20% missing HPบนself (max 30%)"
                 }
               ]
             }
@@ -1312,7 +1312,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>A.B.S Max Attunement 【Degraded Corrosion】\u200B</line-height>",
-          "desc": "After using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] Deal +12.5% more damage for every 5 [Combustion] on self (max 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion] on self + [Combustion] on target) (max 2)\n[WhenUse] Coin Power +1 for every 30% missing HP on self (max 3)\n[BeforeAttack] Atk Weight +1 for every 20% missing HP on self (max 4)",
+          "desc": "After using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] Deal +12.5% more damage for every 5 [Combustion]บนself (max 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion]บนself + [Combustion]บนtarget) (max 2)\n[WhenUse] เหรียญ Power +1 for every 30% missing HPบนself (max 3)\n[BeforeAttack] Atk Weight +1 for every 20% missing HPบนself (max 4)",
           "coinlist": [
             {
               "coindescs": [
@@ -1340,7 +1340,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +10% more damage for every 20% missing HP on self (max 30%)"
+                  "desc": "[OnSucceedAttack] Deal +10% more damage for every 20% missing HPบนself (max 30%)"
                 }
               ]
             }

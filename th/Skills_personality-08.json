@@ -98,7 +98,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Explosive Blast\u200B</line-height>",
-          "desc": "At 5+ Tremor Count, Coin Power +1",
+          "desc": "At 5+ Tremor Count, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -125,7 +125,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Explosive Blast\u200B</line-height>",
-          "desc": "At 5+ Tremor Count, Coin Power +1",
+          "desc": "At 5+ Tremor Count, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -157,7 +157,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Risky Judgement\u200B</line-height>",
-          "desc": "At 5+ Tremor Count, Coin Power +1\nIf target has 6+ Sinking, deal +20% damage",
+          "desc": "At 5+ Tremor Count, เหรียญ Power +1\nIf target has 6+ Sinking, deal +20% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -172,7 +172,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Sinking"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Tremor Count to inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack]จ่าย 5 Tremor Count to inflict 1 Fragile next turn"
                 }
               ]
             },
@@ -182,7 +182,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Sinking"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Tremor Count to inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack]จ่าย 5 Tremor Count to inflict 2 Fragile next turn"
                 }
               ]
             }
@@ -191,7 +191,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Risky Judgement\u200B</line-height>",
-          "desc": "Coin Power +1 for every 5 Tremor Count on self (Max 2)\nIf target has 6+ Sinking, deal +40% damage",
+          "desc": "เหรียญ Power +1 for every 5 Tremor Countบนself (Max 2)\nIf target has 6+ Sinking, deal +40% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -206,7 +206,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Sinking"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Tremor Count to inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack]จ่าย 5 Tremor Count to inflict 1 Fragile next turn"
                 }
               ]
             },
@@ -216,7 +216,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Sinking"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Tremor Count to inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack]จ่าย 5 Tremor Count to inflict 2 Fragile next turn"
                 }
               ]
             }
@@ -279,7 +279,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>To Me!\u200B</line-height>",
-          "desc": "<style=\"highlight\">[StartBattle] Apply 2 Defense Level Up to 2 allies adjacent to this unit on the Dashboard</style>\n[WhenUse] Next turn, the leftmost Skill Slot of 1 other ally with the highest Max HP gains +(highest Reson.) [Aggro] (Once per turn)\n- At 4+ highest A-Reson., apply 1 Protection to the ally next turn when they gain Aggro (Once per turn)",
+          "desc": "<style=\"highlight\">[StartBattle] Apply 2 Defense Level Up to 2 allies adjacent to this unitบนthe Dashboard</style>\n[WhenUse] Next turn, the leftmost Skill Slot of 1 other ally with the highest Max HP gains +(highest Reson.) [Aggro] (Once per turn)\n- At 4+ highest A-Reson., apply 1 Protection to the ally next turn when they gain Aggro (Once per turn)",
           "coinlist": [
             {},
             {
@@ -299,7 +299,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Pursue Them to the End!\u200B</line-height>",
-          "desc": "[WhenUse] Every Reson. of the highest Reson. adds 10% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.",
+          "desc": "[WhenUse] Every Reson. of the highest Reson. adds 10% chance that this unit orders the allyบนits immediate right(on the Dashboard) to use [CoverAttack] this turn.",
           "coinlist": [
             {},
             {
@@ -321,7 +321,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Pursue Them to the End!\u200B</line-height>",
-          "desc": "[WhenUse] Every Reson. of the highest Reson. adds 15% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- At 4+ highest A-Reson., apply 1 Damage Up to the ally\n- At 4+ Pride A-Reson., apply 1 additional Pride Power Up",
+          "desc": "[WhenUse] Every Reson. of the highest Reson. adds 15% chance that this unit orders the allyบนits immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- At 4+ highest A-Reson., apply 1 [AttackDmgUp] to the ally\n- At 4+ Pride A-Reson., apply 1 additional Pride Power Up",
           "coinlist": [
             {},
             {
@@ -343,7 +343,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Pursue Them to the End!\u200B</line-height>",
-          "desc": "[StartBattle] Apply 3 Offense Level Up to 2 allies adjacent to this unit on the Dashboard\n[WhenUse] Every Reson. of the highest Reson. adds 20% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- At 4+ highest A-Reson., apply 2 Damage Up to the ally\n- At 4+ Pride A-Reson., apply 2 additional Pride Power Up",
+          "desc": "[StartBattle] Apply 3 Offense Level Up to 2 allies adjacent to this unitบนthe Dashboard\n[WhenUse] Every Reson. of the highest Reson. adds 20% chance that this unit orders the allyบนits immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- At 4+ highest A-Reson., apply 2 [AttackDmgUp] to the ally\n- At 4+ Pride A-Reson., apply 2 additional Pride Power Up",
           "coinlist": [
             {},
             {
@@ -370,7 +370,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Harpoon of Obsession\u200B</line-height>",
-          "desc": "Deal more damage based on target's missing HP (+0.2% damage per 1% missing HP, max +20%)\n[EndSkill] If target is Staggered or defeated, (1+(highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and +4 Poise Count. (2 times max. Max # of allies that can be healed: 4)",
+          "desc": "Deal more damage basedบนtarget's missing HP (+0.2% damage per 1% missing HP, max +20%)\n[EndSkill] If target is Staggered or defeated, (1+(highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and +4 Poise Count. (2 times max. Max # of allies that can be healed: 4)",
           "coinlist": [
             {},
             {
@@ -399,7 +399,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Harpoon of Obsession\u200B</line-height>",
-          "desc": "Deal more damage based on target's missing HP (+0.3% damage per 1% missing HP, max +30%)\nCoin Power +1 for every 5 [Laceration] on target (Max 2)\n[EndSkill] If target is Staggered or defeated, (1+(highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and gain +4 Poise Count. (4 times max. Max # of allies that can be healed: 4)",
+          "desc": "Deal more damage basedบนtarget's missing HP (+0.3% damage per 1% missing HP, max +30%)\nเหรียญ Power +1 for every 5 [Laceration]บนtarget (Max 2)\n[EndSkill] If target is Staggered or defeated, (1+(highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and gain +4 Poise Count. (4 times max. Max # of allies that can be healed: 4)",
           "coinlist": [
             {},
             {
@@ -433,7 +433,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Do Not Fear\u200B</line-height>",
-          "desc": "[WhenUse] Heal 3 SP for 2 allies adjacent to this unit on the Dashboard (2 times max)",
+          "desc": "[WhenUse] Heal 3 SP for 2 allies adjacent to this unitบนthe Dashboard (2 times max)",
           "coinlist": [
             {
               "coindescs": [
@@ -447,7 +447,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Do Not Fear\u200B</line-height>",
-          "desc": "[WhenUse] Heal 5 SP for 2 allies adjacent to this unit on the Dashboard (2 times max)",
+          "desc": "[WhenUse] Heal 5 SP for 2 allies adjacent to this unitบนthe Dashboard (2 times max)",
           "coinlist": [
             {}
           ]
@@ -502,7 +502,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Sweeping Redirection\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "If this unit's Speed is faster than the target's, เหรียญ Power +1\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -579,7 +579,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Housekeeping\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 2 [Breath]",
+          "desc": "If this unit's Speed is faster than the target's, เหรียญ Power +1\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -610,7 +610,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "<line-height=120%>Restraining Technique\u200B</line-height>",
+          "name": "<line-height=120%>ยับยั้งing Technique\u200B</line-height>",
           "desc": "[WhenUse] Gain 6 [Breath]",
           "coinlist": [
             {
@@ -644,8 +644,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Restraining Technique\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's, Coin Power +1\n[WhenUse] Gain 6 [Breath]",
+          "name": "<line-height=120%>ยับยั้งing Technique\u200B</line-height>",
+          "desc": "If this unit's Speed is faster than the target's, เหรียญ Power +1\n[WhenUse] Gain 6 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -711,7 +711,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Zwei Knight's Greatsword Form\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every 4 [Vibration] Count on self (max 2)",
+          "desc": "[WhenUse] Gain +2 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every 4 [Vibration] Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -738,7 +738,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Zwei Knight's Greatsword Form\u200B</line-height>",
-          "desc": "[WhenUse] Gain +<style=\"highlight\">3</style> [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every <style=\"highlight\">3</style> [Vibration] Count on self (max 2)\n<style=\"highlight\">[WhenUse] At 4+ [DefenseUp], Base Power +1</style>",
+          "desc": "[WhenUse] Gain +<style=\"highlight\">3</style> [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every <style=\"highlight\">3</style> [Vibration] Countบนself (max 2)\n<style=\"highlight\">[WhenUse] At 4+ [DefenseUp], Base Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -765,7 +765,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Zwei Knight's Greatsword Form\u200B</line-height>",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every <style=\"highlight\">2</style> [Vibration] Count on self (max <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">Base Power +1 for every 4 [DefenseUp] (max 2)</style>",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every <style=\"highlight\">2</style> [Vibration] Countบนself (max <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">Base Power +1 for every 4 [DefenseUp] (max 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -797,7 +797,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Can't Let You Through.\u200B</line-height>",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Count on self (max 3)\n[WinDuel] Gain +3 [Vibration] Count",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Countบนself (max 3)\n[WinDuel] Gain +3 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -816,7 +816,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Vibration] equal to (([Vibration] Count on self)/2) (max 2)"
+                  "desc": "[OnSucceedAttack] Inflict [Vibration] equal to (([Vibration] Countบนself)/2) (max 2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] At 10+ [DefenseUp], inflict 1 [Reduction]"
@@ -828,7 +828,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Can't Let You Through.\u200B</line-height>",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Count on self (max <style=\"highlight\">4</style>)\n<style=\"highlight\">[WhenUse] At 5+ [DefenseUp], Coin Power +1</style>\n[WinDuel] Gain +3 [Vibration] Count",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Countบนself (max <style=\"highlight\">4</style>)\n<style=\"highlight\">[WhenUse] At 5+ [DefenseUp], เหรียญ Power +1</style>\n[WinDuel] Gain +3 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -847,7 +847,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Vibration] equal to (([Vibration] Count on self)/2) (max <style=\"highlight\">3</style>)"
+                  "desc": "[OnSucceedAttack] Inflict [Vibration] equal to (([Vibration] Countบนself)/2) (max <style=\"highlight\">3</style>)"
                 },
                 {
                   "desc": "[OnSucceedAttack] At 10+ [DefenseUp], inflict 1 [Reduction]"
@@ -859,7 +859,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Can't Let You Through.\u200B</line-height>",
-          "desc": "[WhenUse] Gain +<style=\"highlight\">5</style> [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Count on self (max <style=\"highlight\">5</style>)\n[WhenUse] At <style=\"highlight\">4</style>+ [DefenseUp], Coin Power +1\n[WinDuel] Gain +3 [Vibration] Count",
+          "desc": "[WhenUse] Gain +<style=\"highlight\">5</style> [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Countบนself (max <style=\"highlight\">5</style>)\n[WhenUse] At <style=\"highlight\">4</style>+ [DefenseUp], เหรียญ Power +1\n[WinDuel] Gain +3 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -878,7 +878,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Vibration] equal to (([Vibration] Count on self)/2) (max <style=\"highlight\">4</style>)"
+                  "desc": "[OnSucceedAttack] Inflict [Vibration] equal to (([Vibration] Countบนself)/2) (max <style=\"highlight\">4</style>)"
                 },
                 {
                   "desc": "[OnSucceedAttack] At <style=\"highlight\">8</style>+ [DefenseUp], inflict 1 [Reduction]"
@@ -895,7 +895,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Ward\u200B</line-height>",
-          "desc": "[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Count on self (max 3)\n[WhenUse] If this unit is in [DefensiveStance], deal +50% more damage\n[WhenUse] Coin Power +1 for every 4 [DefenseUp] on self (max 2)\n[WhenUse] Gain +8 [Aggro] to this Skill Slot next turn\n[WinDuel] Gain +3 [Vibration] Count",
+          "desc": "[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Countบนself (max 3)\n[WhenUse] If this unit is in [DefensiveStance], deal +50% more damage\n[WhenUse] เหรียญ Power +1 for every 4 [DefenseUp]บนself (max 2)\n[WhenUse] Gain +8 [Aggro] to this Skill Slot next turn\n[WinDuel] Gain +3 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -914,7 +914,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume all [Vibration] Count on self, and inflict the value of the Count consumed as [Vibration] on target. (max 10)\n- Deal +(excess [Vibration] x 1.5)% more damage (max 30%)"
+                  "desc": "[OnSucceedAttack] Consume all [Vibration] Countบนself, and inflict the value of the Count consumed as [Vibration]บนtarget. (max 10)\n- Deal +(excess [Vibration] x 1.5)% more damage (max 30%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
@@ -929,7 +929,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Ward\u200B</line-height>",
-          "desc": "[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Count on self (max <style=\"highlight\">5</style>)\n[WhenUse] If this unit is in [DefensiveStance], deal +<style=\"highlight\">70</style>% more damage\n[WhenUse] Coin Power +1 for every 4 [DefenseUp] on self (max <style=\"highlight\">4</style>)\n[WhenUse] Gain +<style=\"highlight\">10</style> [Aggro] to this Skill Slot next turn\n[WinDuel] Gain +3 [Vibration] Count",
+          "desc": "[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Countบนself (max <style=\"highlight\">5</style>)\n[WhenUse] If this unit is in [DefensiveStance], deal +<style=\"highlight\">70</style>% more damage\n[WhenUse] เหรียญ Power +1 for every 4 [DefenseUp]บนself (max <style=\"highlight\">4</style>)\n[WhenUse] Gain +<style=\"highlight\">10</style> [Aggro] to this Skill Slot next turn\n[WinDuel] Gain +3 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -948,7 +948,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume all [Vibration] Count on self, and inflict the value of the Count consumed as [Vibration] on target. (max <style=\"highlight\">20</style>)\n- Deal +(excess [Vibration] x <style=\"highlight\">5</style>)% more damage (max <style=\"highlight\">50</style>%)"
+                  "desc": "[OnSucceedAttack] Consume all [Vibration] Countบนself, and inflict the value of the Count consumed as [Vibration]บนtarget. (max <style=\"highlight\">20</style>)\n- Deal +(excess [Vibration] x <style=\"highlight\">5</style>)% more damage (max <style=\"highlight\">50</style>%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
@@ -1025,7 +1025,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Clean Up\u200B</line-height>",
-          "desc": "<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>",
+          "desc": "<style=\"highlight\">If target has 6+ [Laceration], เหรียญ Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1049,7 +1049,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Clean Up\u200B</line-height>",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)\nDeal +10% more damage for every type of negative effect on target (max 30%)</style>",
+          "desc": "<style=\"highlight\">เหรียญ Power +1 for every 6 [Laceration]บนtarget (max 2)\nDeal +10% more damage for every type of negative effectบนtarget (max 30%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1078,7 +1078,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Sharpened Blade\u200B</line-height>",
-          "desc": "[StartBattle] On 2 other allied Kurokumo Clan Identities with the fastest Speed: apply 1 [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan allies, including this unit, apply 2 [AttackDmgUp] to 5 allies instead",
+          "desc": "[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: apply 1 [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan allies, including this unit, apply 2 [AttackDmgUp] to 5 allies instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1099,7 +1099,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Sharpened Blade\u200B</line-height>",
-          "desc": "<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>\n[StartBattle] On 2 other allied Kurokumo Clan Identities with the fastest Speed: apply <style=\"highlight\">2</style> [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan units, including this unit, apply <style=\"highlight\">3</style> [AttackDmgUp] to 5 allies instead",
+          "desc": "<style=\"highlight\">If target has 6+ [Laceration], เหรียญ Power +1</style>\n[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: apply <style=\"highlight\">2</style> [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan units, including this unit, apply <style=\"highlight\">3</style> [AttackDmgUp] to 5 allies instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1126,7 +1126,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Sharpened Blade\u200B</line-height>",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)\nDeal +10% more damage for every type of negative effect on target (max 50%)</style>\n[StartBattle] On 2 other allied Kurokumo Clan Identities with the fastest Speed: apply 2 [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan units, including this unit, apply 4 [AttackDmgUp] to 5 allies instead",
+          "desc": "<style=\"highlight\">เหรียญ Power +1 for every 6 [Laceration]บนtarget (max 2)\nDeal +10% more damage for every type of negative effectบนtarget (max 50%)</style>\n[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: apply 2 [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan units, including this unit, apply 4 [AttackDmgUp] to 5 allies instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1161,7 +1161,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Ink Over\u200B</line-height>",
-          "desc": "If target has 6+ [Laceration], Coin Power +1",
+          "desc": "If target has 6+ [Laceration], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1180,7 +1180,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target 3 times; then, reduce their [Laceration] Count by 3"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนtarget 3 times; then, reduce their [Laceration] Count by 3"
                 }
               ]
             }
@@ -1189,7 +1189,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Ink Over\u200B</line-height>",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)\n[EnemyKill] Gain 2 [SlashResultUp] next turn (once per turn)</style>",
+          "desc": "<style=\"highlight\">เหรียญ Power +1 for every 6 [Laceration]บนtarget (max 2)\n[EnemyKill] Gain 2 [SlashResultUp] next turn (once per turn)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1208,10 +1208,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">Deal +10% more damage for every type of negative effect on target (max 100%)</style>"
+                  "desc": "<style=\"highlight\">Deal +10% more damage for every type of negative effectบนtarget (max 100%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target 3 times; then, reduce their [Laceration] Count by 3<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนtarget 3 times; then, reduce their [Laceration] Count by 3<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1239,7 +1239,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Scattering Slash\u200B</line-height>",
-          "desc": "[StartBattle] Gain 1 [Protection] (once per turn)\n<style=\"highlight\">[StartBattle] On (2 + highest Reson.) allied Kurokumo Clan Identities, including this unit, with the fastest Speed: apply 2 [Endurance] (once per turn)</style>",
+          "desc": "[StartBattle] Gain 1 [Protection] (once per turn)\n<style=\"highlight\">[StartBattle]บน(2 + highest Reson.) allied Kurokumo Clan Identities, including this unit, with the fastest Speed: apply 2 [Endurance] (once per turn)</style>",
           "coinlist": [
             {
               "coindescs": [

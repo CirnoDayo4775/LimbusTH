@@ -29,7 +29,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Fierce Assault\u200B</line-height>",
-          "desc": "At 10+ Tremor Count, Coin Power +1",
+          "desc": "At 10+ Tremor Count, เหรียญ Power +1",
           "coinlist": [
             {},
             {
@@ -58,7 +58,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Fierce Assault\u200B</line-height>",
-          "desc": "At 10+ Tremor Count, Coin Power +1",
+          "desc": "At 10+ Tremor Count, เหรียญ Power +1",
           "coinlist": [
             {},
             {
@@ -144,7 +144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gain 6 Tremor and trigger Tremor Burst on self\nDeal Blunt damage equal to Tremor Burst damage"
+                  "desc": "[OnSucceedAttack] At 10+ Tremor Count,จ่าย all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gain 6 Tremor and trigger Tremor Burstบนself\nDeal Blunt damage equal to Tremor Burst damage"
                 }
               ]
             }
@@ -153,12 +153,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Gamble\u200B</line-height>",
-          "desc": "Coin Power +1 for every 10 Tremor Count on self (Max 2)",
+          "desc": "เหรียญ Power +1 for every 10 Tremor Countบนself (Max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gain 10 Tremor and trigger Tremor Burst on self\nDeal Blunt damage equal to Tremor Burst damage"
+                  "desc": "[OnSucceedAttack] At 10+ Tremor Count,จ่าย all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gain 10 Tremor and trigger Tremor Burstบนself\nDeal Blunt damage equal to Tremor Burst damage"
                 }
               ]
             }
@@ -233,7 +233,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Remise\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "If this unit's Speed is faster than the target's by 2 or more, เหรียญ Power +1\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -281,7 +281,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Engagement\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Gain +2 [Breath] Count",
+          "desc": "If this unit's Speed is faster than the target's by 2 or more, เหรียญ Power +1\n[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -303,7 +303,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Engagement\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's, Coin Power +1 for every 2 Speed difference (Max 2)\n[WinDuel] Gain +2 [Breath] Count",
+          "desc": "If this unit's Speed is faster than the target's, เหรียญ Power +1 for every 2 Speed difference (Max 2)\n[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -330,7 +330,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Contre Attaque\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Consume 10 [Breath] Count. Gain [Breath] equal to [Breath] Count consumed.\n[WinDuel] If this unit conducted a [OneOnOneDuel] with the target Slot's Attack Skill, inflict 1 [Vulnerable] On Hit (Twice per turn)",
+          "desc": "If this unit's Speed is faster than the target's by 2 or more, เหรียญ Power +1\n[WinDuel] Consume 10 [Breath] Count. Gain [Breath] equal to [Breath] Count consumed.\n[WinDuel] If this unit conducted a [OneOnOneDuel] with the target Slot's Attack Skill, inflict 1 [Vulnerable]บนHit (Twice per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -343,7 +343,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "+30% DamageบนCritical Hit"
                 }
               ]
             }
@@ -352,7 +352,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Contre Attaque\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's, Coin Power +1 for every 2 Speed difference (Max 3)\n[WinDuel] Consume 10 [Breath] Count. Gain [Breath] equal to [Breath] Count consumed. Against targets with [DuelDeclaration_Sinclair], gain [Breath] equal to ([Breath] Count consumed x 2) instead\n[WinDuel] If this unit conducted a [OneOnOneDuel] with the target Slot's Attack Skill, inflict 1 [Vulnerable] On Hit (Twice per turn)",
+          "desc": "If this unit's Speed is faster than the target's, เหรียญ Power +1 for every 2 Speed difference (Max 3)\n[WinDuel] Consume 10 [Breath] Count. Gain [Breath] equal to [Breath] Count consumed. Against targets with [DuelDeclaration_Sinclair], gain [Breath] equal to ([Breath] Count consumed x 2) instead\n[WinDuel] If this unit conducted a [OneOnOneDuel] with the target Slot's Attack Skill, inflict 1 [Vulnerable]บนHit (Twice per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -365,7 +365,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "+50% DamageบนCritical Hit"
                 }
               ]
             }
@@ -420,7 +420,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin (once per Skill)",
+                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse เหรียญ (once per Skill)",
                   "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin"
                 }
               ]
@@ -438,7 +438,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin (once per Skill)",
+                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse เหรียญ (once per Skill)",
                   "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin"
                 }
               ]
@@ -456,7 +456,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin (once per Skill)",
+                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse เหรียญ (once per Skill)",
                   "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse this Coin"
                 }
               ]
@@ -560,7 +560,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Stigmatize\u200B</line-height>",
-          "desc": "If target has 10+ [Combustion], Coin Power +1\nWhen in a Volatile E.G.O State, activate Blazing Strike instead\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 10 SP",
+          "desc": "If target has 10+ [Combustion], เหรียญ Power +1\nWhen in a Volatile E.G.O State, activate Blazing Strike instead\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 10 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -581,7 +581,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Stigmatize\u200B</line-height>",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 7 [Combustion] on target (max 2)</style>\nWhen in a Volatile E.G.O state, activate Blazing Strike instead\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 10 SP",
+          "desc": "<style=\"highlight\">เหรียญ Power +1 for every 7 [Combustion]บนtarget (max 2)</style>\nWhen in a Volatile E.G.O state, activate Blazing Strike instead\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 10 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -607,7 +607,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Rue\u200B</line-height>",
-          "desc": "When in a Volatile E.G.O state, Base Power +1 for every 2 [Combustion] on target (max 10)",
+          "desc": "When in a Volatile E.G.O state, Base Power +1 for every 2 [Combustion]บนtarget (max 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -621,7 +621,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Rue\u200B</line-height>",
-          "desc": "When in a Volatile E.G.O state, Base Power +1 for every 2 [Combustion] on target (max <style=\"highlight\">20</style>)",
+          "desc": "When in a Volatile E.G.O state, Base Power +1 for every 2 [Combustion]บนtarget (max <style=\"highlight\">20</style>)",
           "coinlist": [
             {
               "coindescs": [
@@ -640,17 +640,17 @@
         {
           "level": 3,
           "name": "<line-height=120%>Blazing Strike\u200B</line-height>",
-          "desc": "Coin Power +1 for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +5% more damage for every Wrath Reson. (max 30%)\n[EndSkill] Lose 15 SP",
+          "desc": "เหรียญ Power +1 for every 4 (sum of [Combustion] Potencyบนall enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +5% more damage for every Wrath Reson. (max 30%)\n[EndSkill] Lose 15 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2.5% more damage for every 1 [Combustion] on target (max 100%)",
-                  "summary": "Deal more damage based on [Combustion] on target"
+                  "desc": "Deal +2.5% more damage for every 1 [Combustion]บนtarget (max 100%)",
+                  "summary": "Deal more damage basedบน[Combustion]บนtarget"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has 10+ [Combustion], inflict 2 [Combustion] against (# of highest Reson.) random enemies",
-                  "summary": "[OnSucceedAttack] Inflict [Combustion] based on Reson."
+                  "summary": "[OnSucceedAttack] Inflict [Combustion] basedบนReson."
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
@@ -666,17 +666,17 @@
         {
           "level": 4,
           "name": "<line-height=120%>Blazing Strike\u200B</line-height>",
-          "desc": "Coin Power +<style=\"highlight\">2</style> for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +<style=\"highlight\">10</style>% more damage for every Wrath Reson. (max <style=\"highlight\">60</style>%)\n<style=\"highlight\">If at 4+ highest Wrath A-Reson., deal +20% more damage for every Wrath Reson. instead (max 120%)</style>\n[EndSkill] Lose 15 SP",
+          "desc": "เหรียญ Power +<style=\"highlight\">2</style> for every 4 (sum of [Combustion] Potencyบนall enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +<style=\"highlight\">10</style>% more damage for every Wrath Reson. (max <style=\"highlight\">60</style>%)\n<style=\"highlight\">If at 4+ highest Wrath A-Reson., deal +20% more damage for every Wrath Reson. instead (max 120%)</style>\n[EndSkill] Lose 15 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal +<style=\"highlight\">4</style>% more damage for every 1 [Combustion] on target (max <style=\"highlight\">120</style>%)",
-                  "summary": "Deal more damage based on [Combustion] on target"
+                  "desc": "Deal +<style=\"highlight\">4</style>% more damage for every 1 [Combustion]บนtarget (max <style=\"highlight\">120</style>%)",
+                  "summary": "Deal more damage basedบน[Combustion]บนtarget"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has 10+ [Combustion], inflict 2 [Combustion] against (# of highest Reson.) random enemies\n<style=\"highlight\">- If the above Reson. was a Wrath Reson., inflict +1 [Combustion] Count as well</style>",
-                  "summary": "[OnSucceedAttack] Inflict [Combustion] based on Reson."
+                  "summary": "[OnSucceedAttack] Inflict [Combustion] basedบนReson."
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
@@ -771,7 +771,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] On 1 other ally with [DefenseUp], apply (([DefenseUp] on the ally)/3) [AttackUp] next turn (once per turn, max 3)"
+                  "desc": "[OnSucceedAttack]บน1 other ally with [DefenseUp], apply (([DefenseUp]บนthe ally)/3) [AttackUp] next turn (once per turn, max 3)"
                 }
               ]
             }
@@ -780,19 +780,19 @@
         {
           "level": 2,
           "name": "<line-height=120%>Combat Preparation\u200B</line-height>",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Count on self (max 3)\n[WhenUse] At 4+ [DefenseUp], Coin Power +1</style>\n[WinDuel] Gain +<style=\"highlight\">3</style> [Vibration] Count",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Countบนself (max 3)\n[WhenUse] At 4+ [DefenseUp], เหรียญ Power +1</style>\n[WinDuel] Gain +<style=\"highlight\">3</style> [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] On 1 other ally with the lowest HP percentage, apply 2 Defense Level Up next turn"
+                  "desc": "[WinDuelAttack]บน1 other ally with the lowest HP percentage, apply 2 Defense Level Up next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] On 1 other ally with [DefenseUp], apply (([DefenseUp] on the ally)/<style=\"highlight\">2</style>) [AttackUp] next turn (once per turn, max 3)"
+                  "desc": "[OnSucceedAttack]บน1 other ally with [DefenseUp], apply (([DefenseUp]บนthe ally)/<style=\"highlight\">2</style>) [AttackUp] next turn (once per turn, max 3)"
                 }
               ]
             }
@@ -801,19 +801,19 @@
         {
           "level": 4,
           "name": "<line-height=120%>Combat Preparation\u200B</line-height>",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Count on self (max 3)\n[WhenUse] At 4+ [DefenseUp], Coin Power +1\n[WinDuel] Gain +3 [Vibration] Count<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Countบนself (max 3)\n[WhenUse] At 4+ [DefenseUp], เหรียญ Power +1\n[WinDuel] Gain +3 [Vibration] Count<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] On <style=\"highlight\">2 other allies</style> with the lowest HP percentage, apply 2 Defense Level Up next turn"
+                  "desc": "[WinDuelAttack]บน<style=\"highlight\">2 other allies</style> with the lowest HP percentage, apply 2 Defense Level Up next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] On <style=\"highlight\">2 other allies</style> with [DefenseUp], apply (([DefenseUp] on the ally)/2) [AttackUp] next turn (once per turn, max 3)"
+                  "desc": "[OnSucceedAttack]บน<style=\"highlight\">2 other allies</style> with [DefenseUp], apply (([DefenseUp]บนthe ally)/2) [AttackUp] next turn (once per turn, max 3)"
                 }
               ]
             }
@@ -827,12 +827,12 @@
         {
           "level": 3,
           "name": "<line-height=120%>Fence\u200B</line-height>",
-          "desc": "[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Count on self (max 2)\n[WhenUse] Coin Power +1 for every 3 [DefenseUp] on self (max 2)",
+          "desc": "[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Countบนself (max 2)\n[WhenUse] เหรียญ Power +1 for every 3 [DefenseUp]บนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] On 1 other ally with the lowest HP percentage, apply 3 [DefenseUp] next turn"
+                  "desc": "[OnSucceedAttack]บน1 other ally with the lowest HP percentage, apply 3 [DefenseUp] next turn"
                 }
               ]
             },
@@ -846,7 +846,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume up to 8 [Vibration] Count on self, and inflict the same amount of [Vibration] Count on target"
+                  "desc": "[OnSucceedAttack] Consume up to 8 [Vibration] Countบนself, and inflict the same amount of [Vibration] Countบนtarget"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
@@ -858,12 +858,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Fence\u200B</line-height>",
-          "desc": "[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Count on self (max <style=\"highlight\">4</style>)\n[WhenUse] Coin Power +1 for every 3 [DefenseUp] on self (max <style=\"highlight\">3</style>)",
+          "desc": "[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Countบนself (max <style=\"highlight\">4</style>)\n[WhenUse] เหรียญ Power +1 for every 3 [DefenseUp]บนself (max <style=\"highlight\">3</style>)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] On 1 other ally with the lowest HP percentage, apply <style=\"highlight\">4</style> [DefenseUp] next turn"
+                  "desc": "[OnSucceedAttack]บน1 other ally with the lowest HP percentage, apply <style=\"highlight\">4</style> [DefenseUp] next turn"
                 }
               ]
             },
@@ -877,7 +877,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume up to 8 [Vibration] Count on self, and inflict the same amount of [Vibration] Count on target"
+                  "desc": "[OnSucceedAttack] Consume up to 8 [Vibration] Countบนself, and inflict the same amount of [Vibration] Countบนtarget"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
@@ -927,7 +927,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Courier Trunk - Decay Hammer\u200B</line-height>",
-          "desc": "[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with this Skill's On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)",
+          "desc": "[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with this Skill'sบนHit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)",
           "coinlist": [
             {
               "coindescs": [
@@ -948,7 +948,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Courier Trunk - Decay Hammer\u200B</line-height>",
-          "desc": "At 10+ [DevyatDimensionalSackSinclair], or if target has 6+ [Burst], Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)",
+          "desc": "At 10+ [DevyatDimensionalSackSinclair], or if target has 6+ [Burst], เหรียญ Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with itsบนHit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)",
           "coinlist": [
             {
               "coindescs": [
@@ -969,7 +969,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Courier Trunk - Decay Hammer\u200B</line-height>",
-          "desc": "Coin Power +1 for every 10 [DevyatDimensionalSackSinclair] on self or for every 6 [Burst] on target (max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)",
+          "desc": "เหรียญ Power +1 for every 10 [DevyatDimensionalSackSinclair]บนself or for every 6 [Burst]บนtarget (max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with itsบนHit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)",
           "coinlist": [
             {
               "coindescs": [
@@ -995,7 +995,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Courier Trunk - Demolition Gadget\u200B</line-height>",
-          "desc": "[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count with this Skill's On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)",
+          "desc": "[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count with this Skill'sบนHit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)",
           "coinlist": [
             {
               "coindescs": [
@@ -1023,7 +1023,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Courier Trunk - Demolition Gadget\u200B</line-height>",
-          "desc": "At 10+ [DevyatDimensionalSackSinclair], or if target has 6+ [Burst], Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with its On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)\n[WhenUse] At 20- [DevyatDimensionalSackSinclair], gain 1 [Agility] next turn (once per turn)",
+          "desc": "At 10+ [DevyatDimensionalSackSinclair], or if target has 6+ [Burst], เหรียญ Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with itsบนHit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)\n[WhenUse] At 20- [DevyatDimensionalSackSinclair], gain 1 [Agility] next turn (once per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1051,7 +1051,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Courier Trunk - Demolition Gadget\u200B</line-height>",
-          "desc": "Coin Power +1 for every 10 [DevyatDimensionalSackSinclair] on self or for every 6 [Burst] on target (max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with its On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)\n[WhenUse] At 30- [DevyatDimensionalSackSinclair], gain 1 [Agility] next turn (once per turn)",
+          "desc": "เหรียญ Power +1 for every 10 [DevyatDimensionalSackSinclair]บนself or for every 6 [Burst]บนtarget (max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with itsบนHit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)\n[WhenUse] At 30- [DevyatDimensionalSackSinclair], gain 1 [Agility] next turn (once per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1084,7 +1084,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Poludnitsa... I trust you!\u200B</line-height>",
-          "desc": "At 10+ [DevyatDimensionalSackSinclair], or if target has 6+ [Burst], Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with its On Hit effects; instead, the final Coin gains +2 Coin Power\n[WhenUse] If target has 15+ [Burst], deal +3% more damage for every [DevyatDimensionalSackSinclair] (max 90%)",
+          "desc": "At 10+ [DevyatDimensionalSackSinclair], or if target has 6+ [Burst], เหรียญ Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with itsบนHit effects; instead, the final เหรียญ gains +2 เหรียญ Power\n[WhenUse] If target has 15+ [Burst], deal +3% more damage for every [DevyatDimensionalSackSinclair] (max 90%)",
           "coinlist": [
             {
               "coindescs": [
@@ -1103,7 +1103,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this Skill failed to increase the final Coin Power, gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] If this Skill failed to increase the final เหรียญ Power, gain 1 [Agility] next turn"
                 }
               ]
             }
@@ -1112,7 +1112,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Poludnitsa... I trust you!\u200B</line-height>",
-          "desc": "Coin Power +1 for every 10 [DevyatDimensionalSackSinclair] on self or for every 6 [Burst] on target (max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with its On Hit effects; instead, the final Coin gains +4 Coin Power\n[WhenUse] If target has 15+ [Burst], deal +4% more damage for every [DevyatDimensionalSackSinclair] (max 120%)",
+          "desc": "เหรียญ Power +1 for every 10 [DevyatDimensionalSackSinclair]บนself or for every 6 [Burst]บนtarget (max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with itsบนHit effects; instead, the final เหรียญ gains +4 เหรียญ Power\n[WhenUse] If target has 15+ [Burst], deal +4% more damage for every [DevyatDimensionalSackSinclair] (max 120%)",
           "coinlist": [
             {
               "coindescs": [
@@ -1131,7 +1131,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this Skill's effect to raise its final Coin Power did not activate, gain 2 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] If this Skill's effect to raise its final เหรียญ Power did not activate, gain 2 [Agility] next turn"
                 }
               ]
             }
@@ -1211,7 +1211,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Is it You?!\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 [Aggro] to this Skill Slot next turn\n[WhenUse] Heal 5 SP on self",
+          "desc": "[WhenUse] Gain +2 [Aggro] to this Skill Slot next turn\n[WhenUse] Heal 5 SPบนself",
           "coinlist": [
             {
               "coindescs": [
@@ -1232,7 +1232,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Is it You?!\u200B</line-height>",
-          "desc": "<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain +<style=\"highlight\">3</style> [Aggro] to this Skill Slot next turn\n[WhenUse] Heal 5 SP on self",
+          "desc": "<style=\"highlight\">If target has 6+ [Laceration], เหรียญ Power +1</style>\n[WhenUse] Gain +<style=\"highlight\">3</style> [Aggro] to this Skill Slot next turn\n[WhenUse] Heal 5 SPบนself",
           "coinlist": [
             {
               "coindescs": [
@@ -1253,7 +1253,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Is it You?!\u200B</line-height>",
-          "desc": "If target has 6+ [Laceration], Coin Power +1\n[WhenUse] Gain +<style=\"highlight\">5</style> [Aggro] to this Skill Slot next turn\n[WhenUse] Heal 5 SP on self\n<style=\"highlight\">- At max SP, gain Clash Power +1 instead</style>",
+          "desc": "If target has 6+ [Laceration], เหรียญ Power +1\n[WhenUse] Gain +<style=\"highlight\">5</style> [Aggro] to this Skill Slot next turn\n[WhenUse] Heal 5 SPบนself\n<style=\"highlight\">- At max SP, gain Clash Power +1 instead</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1301,7 +1301,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Payback with Interest\u200B</line-height>",
-          "desc": "<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] This Skill Slot gains <style=\"highlight\">3</style> [Aggro] next turn\n[StartBattle] This Skill gains (highest Reson. / <style=\"highlight\">2</style>) Offense Level (max <style=\"highlight\">3</style>, rounded down)",
+          "desc": "<style=\"highlight\">If target has 6+ [Laceration], เหรียญ Power +1</style>\n[WhenUse] This Skill Slot gains <style=\"highlight\">3</style> [Aggro] next turn\n[StartBattle] This Skill gains (highest Reson. / <style=\"highlight\">2</style>) Offense Level (max <style=\"highlight\">3</style>, rounded down)",
           "coinlist": [
             {},
             {
@@ -1323,7 +1323,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Payback with Interest\u200B</line-height>",
-          "desc": "If target has 6+ [Laceration], Coin Power +1\n[WhenUse] This Skill Slot gains <style=\"highlight\">5</style> [Aggro] next turn\n[StartBattle] This Skill gains (highest Reson. / 2) Offense Level (max 3, rounded down)\n<style=\"highlight\">- If the said Reson. includes an A-Reson., double the Offense Level gained from the above effect</style>",
+          "desc": "If target has 6+ [Laceration], เหรียญ Power +1\n[WhenUse] This Skill Slot gains <style=\"highlight\">5</style> [Aggro] next turn\n[StartBattle] This Skill gains (highest Reson. / 2) Offense Level (max 3, rounded down)\n<style=\"highlight\">- If the said Reson. includes an A-Reson., double the Offense Level gained from the above effect</style>",
           "coinlist": [
             {},
             {
@@ -1350,7 +1350,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Write 'em all down\u200B</line-height>",
-          "desc": "Deal +1% more damage for every 2 [VengeanceBookSinclair] (max 15%)\nIf target has 6+ [Laceration], Coin Power +1\n[StartBattle] This Skill gains (highest Reson. / 2) Offense Level (max 3, rounded down)",
+          "desc": "Deal +1% more damage for every 2 [VengeanceBookSinclair] (max 15%)\nIf target has 6+ [Laceration], เหรียญ Power +1\n[StartBattle] This Skill gains (highest Reson. / 2) Offense Level (max 3, rounded down)",
           "coinlist": [
             {},
             {
@@ -1375,7 +1375,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Write 'em all down\u200B</line-height>",
-          "desc": "Deal +1% more damage for every <style=\"highlight\">1</style> [VengeanceBookSinclair] (max <style=\"highlight\">30%</style>)\n<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[StartBattle] This Skill gains (highest Reson. / 2) Offense Level (max 3, rounded down)\n<style=\"highlight\">- If the said Reson. includes an A-Reson., double the Offense Level gained from the above effect</style>",
+          "desc": "Deal +1% more damage for every <style=\"highlight\">1</style> [VengeanceBookSinclair] (max <style=\"highlight\">30%</style>)\n<style=\"highlight\">เหรียญ Power +1 for every 6 [Laceration]บนtarget (max 2)</style>\n[StartBattle] This Skill gains (highest Reson. / 2) Offense Level (max 3, rounded down)\n<style=\"highlight\">- If the said Reson. includes an A-Reson., double the Offense Level gained from the above effect</style>",
           "coinlist": [
             {},
             {
@@ -1426,7 +1426,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Warmup in the East\u200B</line-height>",
-          "desc": "<style=\"highlight\">[StartBattle] Skill behavior changes based on the sum of Envy A-Reson.:\n- At 4+ sum of A-Reson., use 'Payback with Interest' as Counter\n- At 6+ sum of A-Reson., use 'Write 'em all down' as Counter\n(Activates from the leftmost Skill Slot. Activates 2 times per turn)</style>\n[StartBattle] Gain <style=\"highlight\">30%</style> of missing HP as Shield (once per turn)",
+          "desc": "<style=\"highlight\">[StartBattle] Skill behavior changes basedบนthe sum of Envy A-Reson.:\n- At 4+ sum of A-Reson., use 'Payback with Interest' as Counter\n- At 6+ sum of A-Reson., use 'Write 'em all down' as Counter\n(Activates from the leftmost Skill Slot. Activates 2 times per turn)</style>\n[StartBattle] Gain <style=\"highlight\">30%</style> of missing HP as Shield (once per turn)",
           "coinlist": [
             {
               "coindescs": [

@@ -130,12 +130,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Watch Your Back!\u200B</line-height>",
-                    "desc": "If target has less than 0 SP, Coin Power +3",
+                    "desc": "If target has less than 0 SP, เหรียญ Power +3",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 10 SP on self"
+                                    "desc": "[OnSucceedAttack] Heal 10 SPบนself"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Inflict 2 Bind and 2 Attack Power Down next turn"
@@ -178,7 +178,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Swear Vengeance\u200B</line-height>",
-                    "desc": "[StartBattle] Gain 2 Test of the Big Brother. Gain 5 Bind and 5 Damage Up next turn.",
+                    "desc": "[StartBattle] Gain 2 Test of the Big Brother. Gain 5 Bind and 5 [AttackDmgUp] next turn.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -202,7 +202,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30"
+                                    "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 30"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"

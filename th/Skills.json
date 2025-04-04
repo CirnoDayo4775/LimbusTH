@@ -93,7 +93,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +1 ชั้น"
+                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +1 ขั้น"
                 }
               ]
             }
@@ -109,7 +109,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]; มอบ [Sinking] +1 ชั้น"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]; มอบ [Sinking] +1 ขั้น"
                 }
               ]
             }
@@ -125,7 +125,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]; มอบ [Sinking] +1 ชั้น"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]; มอบ [Sinking] +1 ขั้น"
                 }
               ]
             }
@@ -500,7 +500,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "+50% DamageบนCritical Hit"
                 }
               ]
             }
@@ -523,7 +523,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+70% Damage on Critical Hit"
+                  "desc": "+70% DamageบนCritical Hit"
                 }
               ]
             }
@@ -552,7 +552,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+70% Damage on Critical Hit"
+                  "desc": "+70% DamageบนCritical Hit"
                 }
               ]
             }
@@ -683,7 +683,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +1 ขั้น"
                 }
               ]
             }
@@ -697,7 +697,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -706,12 +706,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Energy Cycle\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -731,7 +731,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to มอบ 4 Bind next turn"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 3 ขั้น to มอบ 4 Bind next turn"
                 }
               ]
             }
@@ -746,7 +746,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to มอบ 4 Bind next turn"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 3 ขั้น to มอบ 4 Bind next turn"
                 }
               ]
             }
@@ -755,19 +755,19 @@
         {
           "level": 4,
           "name": "<line-height=120%>Leap\u200B</line-height>",
-          "desc": "[WhenUse] Gain +3 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +3 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to มอบ 4 Bind next turn"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 3 ขั้น to มอบ 4 Bind next turn"
                 }
               ]
             }
@@ -788,7 +788,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Charge Count to มอบ 2 Attack Power Down and 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 5 ขั้น to มอบ 2 Attack Power Down and 3 Paralyze next turn"
                 }
               ]
             }
@@ -797,14 +797,14 @@
         {
           "level": 4,
           "name": "<line-height=120%>Overcharge\u200B</line-height>",
-          "desc": "At 5+ Charge Count, Clash Power +2",
+          "desc": "เมื่อมี [Charge] 5+ ขั้น, Clash Power +2",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Charge Count to มอบ 2 Attack Power Down and 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 5 ขั้น to มอบ 2 Attack Power Down and 3 Paralyze next turn"
                 }
               ]
             }
@@ -970,7 +970,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Opportunistic Slash\u200B</line-height>",
-          "desc": "If user took no damage last turn, Coin Power +3",
+          "desc": "If user took no damage last turn, เหรียญ Power +3",
           "coinlist": [
             {},
             {
@@ -1059,7 +1059,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>For Justice!\u200B</line-height>",
-          "desc": "At 10+ Speed, Coin Power +2",
+          "desc": "At 10+ Speed, เหรียญ Power +2",
           "coinlist": [
             {},
             {},
@@ -1069,7 +1069,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>For Justice!\u200B</line-height>",
-          "desc": "At 10+ Speed, Coin Power +2",
+          "desc": "At 10+ Speed, เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1137,7 +1137,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -1146,7 +1146,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Rip\u200B</line-height>",
-          "desc": "At 5+ Charge Count, Coin Power +2",
+          "desc": "เมื่อมี [Charge] 5+ ขั้น, เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1154,7 +1154,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +4 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain [Charge] +4 ขั้น"
                 }
               ]
             }
@@ -1189,14 +1189,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +4 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +4 ขั้น"
                 }
               ]
             },
@@ -1212,19 +1212,19 @@
         {
           "level": 4,
           "name": "<line-height=120%>Leap\u200B</line-height>",
-          "desc": "At 7+ Charge Count, Coin Power +1",
+          "desc": "เมื่อมี [Charge] 7+ ขั้น, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +4 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +4 ขั้น"
                 }
               ]
             },
@@ -1245,7 +1245,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Rip Space\u200B</line-height>",
-          "desc": "[WhenUse] Spend 10 Charge Count to gain +4 Coin Power\nAt less than 10 Charge Count, lose 20% HP",
+          "desc": "[WhenUse]จ่าย [Charge] 10 ขั้น to gain +4 เหรียญ Power\nAt less than [Charge] 10 ขั้น, lose 20% HP",
           "coinlist": [
             {
               "coindescs": [
@@ -2118,7 +2118,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 2 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 2 Burnบน2 random enemies"
                 }
               ]
             },
@@ -2142,7 +2142,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 3 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 3 Burnบน2 random enemies"
                 }
               ]
             },
@@ -2185,7 +2185,7 @@
                   "desc": "[OnSucceedAttack] มอบ +3 Burn Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 3 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 3 Burnบน2 random enemies"
                 }
               ]
             }
@@ -2194,7 +2194,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Perfected Death Fist\u200B</line-height>",
-          "desc": "If target has 5+ Burn, Coin Power +1",
+          "desc": "If target has 5+ Burn, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -2216,7 +2216,7 @@
                   "desc": "[OnSucceedAttack] มอบ +3 Burn Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 3 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], มอบ 3 Burnบน2 random enemies"
                 }
               ]
             }
@@ -2262,7 +2262,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +3 ขั้น"
                 }
               ]
             }
@@ -2271,12 +2271,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Rip\u200B</line-height>",
-          "desc": "[WhenUse] Gain 2 Slash Protection\nGain +3 Charge Count",
+          "desc": "[WhenUse] Gain 2 Slash Protection\nGain [Charge] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +3 ขั้น"
                 }
               ]
             }
@@ -2340,7 +2340,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to มอบ 2 Slash Fragility"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 3 ขั้น to มอบ 2 Slash Fragility"
                 }
               ]
             }
@@ -2349,7 +2349,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Energy Cycle\u200B</line-height>",
-          "desc": "If at 5+ Charge Count, Coin Power +1",
+          "desc": "If เมื่อมี [Charge] 5+ ขั้น, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -2371,7 +2371,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count to มอบ 2 Slash Fragility"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 3 ขั้น to มอบ 2 Slash Fragility"
                 }
               ]
             }
@@ -2390,28 +2390,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ 2 Defense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ 2 Defense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ 2 Defense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ 2 Defense Level Down"
                 }
               ]
             }
@@ -2420,33 +2420,33 @@
         {
           "level": 4,
           "name": "<line-height=120%>Energy Current\u200B</line-height>",
-          "desc": "If at 5+ Charge Count, Coin Power +1",
+          "desc": "If เมื่อมี [Charge] 5+ ขั้น, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ 2 Defense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ 2 Defense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ 2 Defense Level Down"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to มอบ 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ 2 Defense Level Down"
                 }
               ]
             }
@@ -2468,7 +2468,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[StartBattle] Gain +2 Charge Count",
+          "desc": "[StartBattle] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {}
           ]
@@ -2535,7 +2535,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Dual Strike\u200B</line-height>",
-          "desc": "If user took no damage last turn, Coin Power +1",
+          "desc": "If user took no damage last turn, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -2556,7 +2556,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Dual Strike\u200B</line-height>",
-          "desc": "If user took no damage last turn, Coin Power +1",
+          "desc": "If user took no damage last turn, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -2582,7 +2582,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Whirlwind\u200B</line-height>",
-          "desc": "If user took no damage last turn, Coin Power +2",
+          "desc": "If user took no damage last turn, เหรียญ Power +2",
           "coinlist": [
             {},
             {
@@ -2597,7 +2597,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Whirlwind\u200B</line-height>",
-          "desc": "If user took no damage last turn, Coin Power +2",
+          "desc": "If user took no damage last turn, เหรียญ Power +2",
           "coinlist": [
             {},
             {
@@ -2708,7 +2708,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Cloud Cutter\u200B</line-height>",
-          "desc": "[BeforeAttack] If target has less than 4 Bleed Count, use Coin 1 and 2 an additional time",
+          "desc": "[BeforeAttack] If target has less than 4 Bleed Count, use เหรียญ 1 and 2 an additional time",
           "keywords": [],
           "coinlist": [
             {
@@ -2730,7 +2730,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Cloud Cutter\u200B</line-height>",
-          "desc": "[BeforeAttack] If target has less than 4 Bleed Count, use Coin 1 and 2 an additional time",
+          "desc": "[BeforeAttack] If target has less than 4 Bleed Count, use เหรียญ 1 and 2 an additional time",
           "keywords": [],
           "coinlist": [
             {
@@ -2877,7 +2877,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target is below 25% HP, use this Coin an additional time if target survives\nHeads: +50% Damage for this Coin"
+                  "desc": "[OnSucceedAttackHead] If target is below 25% HP, use this เหรียญ an additional time if target survives\nHeads: +50% Damage for this Coin"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttackHead] +50% Damage for this Coin"
@@ -2908,7 +2908,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target is below 25% HP, use this Coin an additional time if target survives\nHeads: +50% Damage for this Coin"
+                  "desc": "[OnSucceedAttackHead] If target is below 25% HP, use this เหรียญ an additional time if target survives\nHeads: +50% Damage for this Coin"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttackHead] +50% Damage for this Coin"
@@ -2975,7 +2975,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Evade\u200B</line-height>",
-          "desc": "If target has 5+ [Laceration], Coin Power +2\n[OnSucceedEvade] Heal 3 SP",
+          "desc": "If target has 5+ [Laceration], เหรียญ Power +2\n[OnSucceedEvade] Heal 3 SP",
           "coinlist": [
             {}
           ]
@@ -3035,7 +3035,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>ฟาดกระบาล\u200B</line-height>",
-          "desc": "[WhenUse] Gain 1 Attack Power Up and Damage Up next turn",
+          "desc": "[WhenUse] Gain 1 Attack Power Up and [AttackDmgUp] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -3049,7 +3049,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ฟาดกระบาล\u200B</line-height>",
-          "desc": "[WhenUse] Gain 1 Attack Power Up and Damage Up next turn",
+          "desc": "[WhenUse] Gain 1 Attack Power Up and [AttackDmgUp] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -3073,7 +3073,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +2 Power"
+                  "desc": "[OnSucceedAttackHead] Next เหรียญ has +2 Power"
                 }
               ]
             },
@@ -3252,7 +3252,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +1 ขั้น"
                 }
               ]
             }
@@ -3283,7 +3283,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +3 ขั้น"
                 }
               ]
             }
@@ -3326,7 +3326,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Concentrated Fire\u200B</line-height>",
-          "desc": "Coin Power +1 at 6+ Speed",
+          "desc": "เหรียญ Power +1 at 6+ Speed",
           "coinlist": [
             {
               "coindescs": [
@@ -3360,7 +3360,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Quick Suppression\u200B</line-height>",
-          "desc": "Coin Power +2 at 6+ Speed",
+          "desc": "เหรียญ Power +2 at 6+ Speed",
           "coinlist": [
             {
               "coindescs": [
@@ -3415,7 +3415,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Evade\u200B</line-height>",
-          "desc": "[WhenUse] Gain +1 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +1 ขั้น",
           "coinlist": [
             {}
           ]
@@ -3501,7 +3501,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst; มอบ 1 Blunt Fragility"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst; มอบ 1 [HitTakeDamageUp]"
                 }
               ]
             }
@@ -3557,7 +3557,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain [Charge] +2 ขั้น"
                 }
               ]
             },
@@ -3567,7 +3567,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -3576,7 +3576,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Mind Strike\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -3584,7 +3584,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 }
               ]
             },
@@ -3594,7 +3594,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -3613,7 +3613,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +3 ชั้น"
+                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +3 ขั้น"
                 }
               ]
             }
@@ -3622,12 +3622,12 @@
         {
           "level": 2,
           "name": "<line-height=120%>Flaying Surge\u200B</line-height>",
-          "desc": "[WhenUse] Gain +5 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +3 ชั้น"
+                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +3 ขั้น"
                 }
               ]
             }
@@ -3636,12 +3636,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flaying Surge\u200B</line-height>",
-          "desc": "[WhenUse] Gain +7 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +7 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ชั้น"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ขั้น"
                 }
               ]
             }
@@ -3655,7 +3655,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Mind Whip\u200B</line-height>",
-          "desc": "[StartBattle] Spend all Charge Count\nIf at less than 10 Charge Count at Combat Start, target a random unit for an unopposed attack",
+          "desc": "[StartBattle]จ่าย all[Charge] Count\nIf at less than [Charge] 10 ขั้น at Combat Start, target a random unit for an unopposed attack",
           "coinlist": [
             {
               "coindescs": [
@@ -3702,7 +3702,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Mind Whip\u200B</line-height>",
-          "desc": "[StartBattle] Spend 8 Charge Count\nIf at less than 8 Charge Count at Combat Start, target a random unit for an unopposed attack",
+          "desc": "[StartBattle]จ่าย [Charge] 8 ขั้น\nIf at less than [Charge] 8 ขั้น at Combat Start, target a random unit for an unopposed attack",
           "coinlist": [
             {
               "coindescs": [
@@ -3762,7 +3762,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Evade\u200B</line-height>",
-          "desc": "[OnSucceedEvade] Gain +1 Charge Count",
+          "desc": "[OnSucceedEvade] Gain [Charge] +1 ขั้น",
           "coinlist": [
             {}
           ]
@@ -3868,7 +3868,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Flashing Strike\u200B</line-height>",
-          "desc": "[WhenUse] At less than 50% HP, use Coin 1 and 2 an additional time",
+          "desc": "[WhenUse] At less than 50% HP, use เหรียญ 1 and 2 an additional time",
           "keywords": [],
           "coinlist": [
             {
@@ -3890,7 +3890,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flashing Strike\u200B</line-height>",
-          "desc": "[WhenUse] At less than 50% HP, use Coin 1 and 2 an additional time",
+          "desc": "[WhenUse] At less than 50% HP, use เหรียญ 1 and 2 an additional time",
           "keywords": [],
           "coinlist": [
             {
@@ -4139,7 +4139,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Suppress\u200B</line-height>",
-          "desc": "If target has 5+ Tremor Count, Coin Power +1",
+          "desc": "If target has 5+ Tremor Count, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -4402,7 +4402,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Sharp Edge\u200B</line-height>",
-          "desc": "At 4+ [Breath], Coin Power +2",
+          "desc": "At 4+ [Breath], เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -4475,7 +4475,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Scattering Slash\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 Poise Count\nAt 5+ [Breath], Coin Power +2",
+          "desc": "[WhenUse] Gain +2 Poise Count\nAt 5+ [Breath], เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -4622,7 +4622,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Bludgeon\u200B</line-height>",
-          "desc": "If the next skill on the Dashboard does Blunt DMG, this skill's Coin Power +2",
+          "desc": "If the next skillบนthe Dashboard does Blunt DMG, this skill's เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -4671,7 +4671,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Thrust\u200B</line-height>",
-          "desc": "If the next skill on the Dashboard does Blunt DMG, this skill's Coin Power +2",
+          "desc": "If the next skillบนthe Dashboard does Blunt DMG, this skill's เหรียญ Power +2",
           "coinlist": [
             {},
             {
@@ -4691,7 +4691,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Suppress\u200B</line-height>",
-          "desc": "If target took no damage from attacks this turn, Coin Power +2",
+          "desc": "If target took no damage from attacks this turn, เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -4715,7 +4715,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Suppress\u200B</line-height>",
-          "desc": "If target took no damage from attacks this turn, Coin Power +3",
+          "desc": "If target took no damage from attacks this turn, เหรียญ Power +3",
           "coinlist": [
             {
               "coindescs": [
@@ -4901,7 +4901,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Slice then Stab\u200B</line-height>",
-          "desc": "If at 3+ Poise Count, Coin Power +1",
+          "desc": "If at 3+ Poise Count, เหรียญ Power +1",
           "coinlist": [
             {},
             {
@@ -4977,7 +4977,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Slash Series\u200B</line-height>",
-          "desc": "[DefeatDuel] Gain 2 Attack Power Up next turn\n[WinDuel] Do not spend Poise Count with critical attacks landed with this skill",
+          "desc": "[DefeatDuel] Gain 2 Attack Power Up next turn\n[WinDuel] Do notจ่าย Poise Count with critical attacks landed with this skill",
           "coinlist": [
             {
               "coindescs": [
@@ -5049,7 +5049,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Newsprung Counter\u200B</line-height>",
-          "desc": "[WhenUse] Gain 1 Damage Up next turn",
+          "desc": "[WhenUse] Gain 1 [AttackDmgUp] next turn",
           "coinlist": [
             {}
           ]
@@ -5057,7 +5057,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Newsprung Counter\u200B</line-height>",
-          "desc": "[WhenUse] Gain 1 Damage Up next turn\n[WhenUse] Gain +3 Poise Count",
+          "desc": "[WhenUse] Gain 1 [AttackDmgUp] next turn\n[WhenUse] Gain +3 Poise Count",
           "coinlist": [
             {}
           ]
@@ -5184,7 +5184,7 @@
                   "desc": "[OnSucceedAttack] Trigger Tremor Burst"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 Blunt Fragility"
+                  "desc": "[OnSucceedAttack] มอบ 2 [HitTakeDamageUp]"
                 }
               ]
             }
@@ -5204,7 +5204,7 @@
                   "desc": "[OnSucceedAttack] If target has 5+ Tremor upon [VibrationExplosion], gain 2 Protection next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 Blunt Fragility"
+                  "desc": "[OnSucceedAttack] มอบ 2 [HitTakeDamageUp]"
                 }
               ]
             }
@@ -5269,7 +5269,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Baile y Rola\u200B</line-height>",
-          "desc": "If target has 4+ [[Sinking]], Coin Power +1",
+          "desc": "If target has 4+ [[Sinking]], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -5335,7 +5335,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +1 ชั้น"
+                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +1 ขั้น"
                 }
               ]
             },
@@ -5351,7 +5351,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Danza de Pasión\u200B</line-height>",
-          "desc": "If target has 6+ [[Sinking]], Coin Power +2",
+          "desc": "If target has 6+ [[Sinking]], เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -5369,7 +5369,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ขั้น"
                 }
               ]
             },
@@ -5618,7 +5618,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Draw of the Sword\u200B</line-height>",
-          "desc": "At 5+ [Breath], Coin Power +1",
+          "desc": "At 5+ [Breath], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -5730,7 +5730,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Evade\u200B</line-height>",
-          "desc": "At 6+ [Breath], Coin Power +3",
+          "desc": "At 6+ [Breath], เหรียญ Power +3",
           "coinlist": [
             {}
           ]
@@ -5771,7 +5771,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Order\u200B</line-height>",
-          "desc": "If target has 5+ [[Sinking]], Coin Power +2",
+          "desc": "If target has 5+ [[Sinking]], เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -5795,7 +5795,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Apply 1 Damage Up to the ally with the lowest Speed"
+                  "desc": "[OnSucceedAttackHead] Apply 1 [AttackDmgUp] to the ally with the lowest Speed"
                 }
               ]
             }
@@ -5809,7 +5809,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Apply 2 Damage Up to the ally with the lowest Speed"
+                  "desc": "[OnSucceedAttackHead] Apply 2 [AttackDmgUp] to the ally with the lowest Speed"
                 }
               ]
             }
@@ -5823,7 +5823,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply 2 Damage Up to the ally with the lowest Speed"
+                  "desc": "[OnSucceedAttack] Apply 2 [AttackDmgUp] to the ally with the lowest Speed"
                 }
               ]
             }
@@ -6065,7 +6065,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Single-point Stab\u200B</line-height>",
-          "desc": "If target has 6+ [Combustion], Coin Power +1",
+          "desc": "If target has 6+ [Combustion], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -6144,7 +6144,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Rush Down\u200B</line-height>",
-          "desc": "If target has 6+ [Combustion], Coin Power +1",
+          "desc": "If target has 6+ [Combustion], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -6298,7 +6298,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Hack\u200B</line-height>",
-          "desc": "[WinDuel] Damage +40%\nIf target has 5+ [Burst], Coin Power +1",
+          "desc": "[WinDuel] Damage +40%\nIf target has 5+ [Burst], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -6406,7 +6406,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Eviscerate\u200B</line-height>",
-          "desc": "If target has 5+ [Burst], Coin Power +1",
+          "desc": "If target has 5+ [Burst], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -6531,7 +6531,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>จ้วง\u200B</line-height>",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\nAt less than 50% HP, Coin Power +2",
+          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\nAt less than 50% HP, เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -7180,7 +7180,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Plus เหรียญ Drop next turn"
                 }
               ]
             }
@@ -7194,7 +7194,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ 2 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 Plus เหรียญ Drop next turn"
                 }
               ]
             }
@@ -7425,7 +7425,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Exploit the Gap\u200B</line-height>",
-          "desc": "In a clash, opponent has -2 Clash Power\nIf target has 7+ [Burst], Coin Power +2",
+          "desc": "In a clash, opponent has -2 Clash Power\nIf target has 7+ [Burst], เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -7545,7 +7545,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flowing Flame\u200B</line-height>",
-          "desc": "If target has 6+ [Combustion] Count, Coin Power +2",
+          "desc": "If target has 6+ [Combustion] Count, เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -7595,7 +7595,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Crimson Blaze Fist\u200B</line-height>",
-          "desc": "If target has 6+ [Combustion] Count, Coin Power +1",
+          "desc": "If target has 6+ [Combustion] Count, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -7799,21 +7799,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +10% damage"
+                  "desc": "[OnSucceedAttackHead] The final เหรียญ deals +10% damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +5% damage"
+                  "desc": "[OnSucceedAttackHead] The final เหรียญ deals +5% damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +5% damage"
+                  "desc": "[OnSucceedAttackHead] The final เหรียญ deals +5% damage"
                 }
               ]
             },
@@ -7937,7 +7937,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>You Fresh Enough?\u200B</line-height>",
-          "desc": "If user's Speed is faster than target's by 3+, Coin Power +3",
+          "desc": "If user's Speed is faster than target's by 3+, เหรียญ Power +3",
           "coinlist": [
             {
               "coindescs": [
@@ -7982,7 +7982,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal HP based on target’s [Laceration] (Max 20%)"
+                  "desc": "[OnSucceedAttack] Heal HP basedบนtarget’s [Laceration] (Max 20%)"
                 }
               ]
             }
@@ -7991,7 +7991,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Butcher Viand\u200B</line-height>",
-          "desc": "If target has 10+ Bleed Count, Coin Power +1",
+          "desc": "If target has 10+ Bleed Count, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -8017,7 +8017,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal HP based on target’s [Laceration] (Max 20%)"
+                  "desc": "[OnSucceedAttack] Heal HP basedบนtarget’s [Laceration] (Max 20%)"
                 }
               ]
             }
@@ -8461,7 +8461,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Rev Up\u200B</line-height>",
+          "name": "<line-height=120%>เร่งเครื่อง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -8470,7 +8470,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +4 ขั้น"
                 }
               ]
             },
@@ -8485,7 +8485,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Rev Up\u200B</line-height>",
+          "name": "<line-height=120%>เร่งเครื่อง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -8494,7 +8494,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +4 ขั้น"
                 }
               ]
             },
@@ -8509,8 +8509,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Rev Up\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 Charge Count",
+          "name": "<line-height=120%>เร่งเครื่อง\u200B</line-height>",
+          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -8518,7 +8518,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ 1 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +4 ขั้น"
                 }
               ]
             },
@@ -8538,7 +8538,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Vibration Compression\u200B</line-height>",
+          "name": "<line-height=120%>บีบอัดแรงสะเทือน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -8551,8 +8551,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 Tremor\nAt 3+ Charge Count, reuse this Coin if it lands Heads (Up to 2 times)\nIf the Coin is reused twice, มอบ Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst.\nReuse Coin if conditions are met; มอบ +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor\nเมื่อมี [Charge] 3+ ขั้น, reuse this เหรียญ if it lands Heads (Up to 2 times)\nIf the เหรียญ is reused twice, มอบ Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
+                  "summary": "[OnSucceedAttack] Trigger Tremor Burst.\nReuse เหรียญ if conditions are met; มอบ +2 Tremor if reused.\nIf the เหรียญ is reused twice, trigger Tremor Burst, then reduce Tremor Count"
                 }
               ]
             }
@@ -8560,7 +8560,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Vibration Compression\u200B</line-height>",
+          "name": "<line-height=120%>บีบอัดแรงสะเทือน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -8573,8 +8573,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 Tremor\nAt 3+ Charge Count, reuse this Coin if it lands Heads (Up to 2 times)\nมอบ 2 more Tremor each time the Coin is reused\nIf the Coin is reused twice, มอบ Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst.\nReuse Coin if conditions are met; มอบ +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor\nเมื่อมี [Charge] 3+ ขั้น, reuse this เหรียญ if it lands Heads (Up to 2 times)\nมอบ 2 more Tremor each time the เหรียญ is reused\nIf the เหรียญ is reused twice, มอบ Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
+                  "summary": "[OnSucceedAttack] Trigger Tremor Burst.\nReuse เหรียญ if conditions are met; มอบ +2 Tremor if reused.\nIf the เหรียญ is reused twice, trigger Tremor Burst, then reduce Tremor Count"
                 }
               ]
             }
@@ -8582,8 +8582,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Vibration Compression\u200B</line-height>",
-          "desc": "If target has 10+ Tremor Count, Coin Power +1",
+          "name": "<line-height=120%>บีบอัดแรงสะเทือน\u200B</line-height>",
+          "desc": "If target has 10+ Tremor Count, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -8595,8 +8595,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 Tremor\nAt 3+ Charge Count, reuse this Coin if it lands Heads (Up to 2 times)\nมอบ 2 more Tremor each time the Coin is reused\nIf the Coin is reused twice, มอบ Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst\nReuse Coin if conditions are met; มอบ +2 Tremor if reused.\nIf the Coin is reused twice, trigger Tremor Burst, then reduce Tremor Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 Tremor\nเมื่อมี [Charge] 3+ ขั้น, reuse this เหรียญ if it lands Heads (Up to 2 times)\nมอบ 2 more Tremor each time the เหรียญ is reused\nIf the เหรียญ is reused twice, มอบ Tremor, then trigger Tremor Burst\nAfter Tremor Burst, reduce Tremor Count by 1",
+                  "summary": "[OnSucceedAttack] Trigger Tremor Burst\nReuse เหรียญ if conditions are met; มอบ +2 Tremor if reused.\nIf the เหรียญ is reused twice, trigger Tremor Burst, then reduce Tremor Count"
                 }
               ]
             }
@@ -8610,7 +8610,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Let’s Rack Up Some Scores\u200B</line-height>",
-          "desc": "[WhenUse] Gain +6 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +6 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -8649,7 +8649,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Preheat\u200B</line-height>",
-          "desc": "[StartBattle] Gain +2 Charge Count",
+          "desc": "[StartBattle] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {}
           ]
@@ -8693,7 +8693,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Saddled Tasks\u200B</line-height>",
-          "desc": "If target has 5+ Tremor Count, Coin Power +2",
+          "desc": "If target has 5+ Tremor Count, เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -8794,7 +8794,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain [Charge] +1 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 Tremor"
@@ -8804,7 +8804,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 Tremor"
@@ -8814,7 +8814,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 3 Tremor"
@@ -8824,8 +8824,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], reduce Tremor Count by 3, then spend all Charge Count to further เพิ่มขีด Stagger by (Charge Count x 5)% (Max 50%)",
-                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce Tremor Count by 3; Spend Charge Count to further เพิ่มขีด Stagger"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], reduce Tremor Count by 3, thenจ่ายขั้น [Charge] ทั้งหมดto further เพิ่มขีด Stagger by (Charge Count x 5)% (Max 50%)",
+                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce Tremor Count by 3;จ่าย[Charge] Count to further เพิ่มขีด Stagger"
                 }
               ]
             }
@@ -8834,12 +8834,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Finishing Runup\u200B</line-height>",
-          "desc": "If target has 10+ Tremor Count, Coin Power +1",
+          "desc": "If target has 10+ Tremor Count, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain [Charge] +1 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 Tremor"
@@ -8849,7 +8849,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 Tremor"
@@ -8859,7 +8859,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 3 Tremor"
@@ -8869,8 +8869,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], reduce Tremor Count by 3, then spend all Charge Count to further เพิ่มขีด Stagger by (Charge Count x 5)% (Max 50%)",
-                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce Tremor Count by 3; Spend Charge Count to further เพิ่มขีด Stagger"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], reduce Tremor Count by 3, thenจ่ายขั้น [Charge] ทั้งหมดto further เพิ่มขีด Stagger by (Charge Count x 5)% (Max 50%)",
+                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce Tremor Count by 3;จ่าย[Charge] Count to further เพิ่มขีด Stagger"
                 }
               ]
             }
@@ -8896,7 +8896,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Rev Up\u200B</line-height>",
+          "name": "<line-height=120%>เร่งเครื่อง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {},
@@ -8911,8 +8911,8 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Rev Up\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 Charge Count",
+          "name": "<line-height=120%>เร่งเครื่อง\u200B</line-height>",
+          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {},
             {
@@ -8926,8 +8926,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Rev Up\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 Charge Count",
+          "name": "<line-height=120%>เร่งเครื่อง\u200B</line-height>",
+          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {},
             {
@@ -8967,7 +8967,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Grease Chains\u200B</line-height>",
-          "desc": "[WhenUse] Gain +3 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -8984,7 +8984,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Grease Chains\u200B</line-height>",
-          "desc": "[WhenUse] Gain +3 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -9011,7 +9011,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 2;\nSpend up to 4 Charge Count to มอบ Rupture Count equal to Charge Count spent"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 2;\nSpend up to [Charge] 4 ขั้น to มอบ Rupture Count equal to[Charge] Count spent"
                 }
               ]
             },
@@ -9040,12 +9040,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Let's Grind 'Em\u200B</line-height>",
-          "desc": "If target has 5+ Tremor Count, Coin Power +1",
+          "desc": "If target has 5+ Tremor Count, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 2;\nSpend up to 4 Charge Count to มอบ Rupture Count equal to Charge Count spent"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 2;\nSpend up to [Charge] 4 ขั้น to มอบ Rupture Count equal to[Charge] Count spent"
                 }
               ]
             },
@@ -9098,7 +9098,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ฟาดด้วยร่ม\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +1 [[Sinking]] ชั้น",
+          "desc": "[WhenUse] ได้รับ +1 [[Sinking]] ขั้น",
           "coinlist": [
             {},
             {},
@@ -9108,7 +9108,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [[Sinking]]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ +1 [[Sinking]] ชั้น"
+                  "desc": "[OnSucceedAttackTail] มอบ +1 [[Sinking]] ขั้น"
                 }
               ]
             }
@@ -9117,7 +9117,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>ฟาดด้วยร่ม\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +1 [[Sinking]] ชั้น",
+          "desc": "[WhenUse] ได้รับ +1 [[Sinking]] ขั้น",
           "coinlist": [
             {},
             {},
@@ -9127,7 +9127,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [[Sinking]]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ +2 [[Sinking]] ชั้น"
+                  "desc": "[OnSucceedAttackTail] มอบ +2 [[Sinking]] ขั้น"
                 }
               ]
             }
@@ -9136,7 +9136,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ฟาดด้วยร่ม\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +1 [[Sinking]] ชั้น\n[DefeatDuel] ได้รับ 3 [[Sinking]]",
+          "desc": "[WhenUse] ได้รับ +1 [[Sinking]] ขั้น\n[DefeatDuel] ได้รับ 3 [[Sinking]]",
           "coinlist": [
             {},
             {},
@@ -9146,7 +9146,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [[Sinking]]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ +2 [[Sinking]] ชั้น"
+                  "desc": "[OnSucceedAttackTail] มอบ +2 [[Sinking]] ขั้น"
                 }
               ]
             }
@@ -9258,7 +9258,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>กางร่ม!\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 6 [[Sinking]] และ +3 [[Sinking]] ชั้น",
+          "desc": "[WhenUse] ได้รับ 6 [[Sinking]] และ +3 [[Sinking]] ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -9347,14 +9347,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +1 ชั้น next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +1 ขั้น next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +1 ชั้น next turn"
+                  "desc": "[OnSucceedAttackHead] มอบ [Sinking] +1 ขั้น next turn"
                 }
               ]
             }
@@ -9369,14 +9369,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น next turn"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ขั้น next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น next turn"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ขั้น next turn"
                 }
               ]
             }
@@ -9391,14 +9391,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น next turn"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ขั้น next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] +2 ชั้น next turn"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +2 ขั้น next turn"
                 }
               ]
             }
@@ -9412,7 +9412,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Moment's Floral Breeze\u200B</line-height>",
-          "desc": "[StartBattle] Spend 6 Tremor Count to turn this into an AoE skill with 3 Atk Weight",
+          "desc": "[StartBattle]จ่าย 6 Tremor Count to turn this into an AoE skill with 3 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
@@ -9440,7 +9440,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Moment's Floral Breeze\u200B</line-height>",
-          "desc": "[StartBattle] Spend 6 Tremor Count to turn this into an AoE skill with 3 Atk Weight",
+          "desc": "[StartBattle]จ่าย 6 Tremor Count to turn this into an AoE skill with 3 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
@@ -9468,7 +9468,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Moment's Floral Breeze\u200B</line-height>",
-          "desc": "[StartBattle] Spend 6 Tremor Count to turn this into an AoE skill with 3 Atk Weight\nIf main target has 6+ [Sinking] Count, Coin Power +1",
+          "desc": "[StartBattle]จ่าย 6 Tremor Count to turn this into an AoE skill with 3 Atk Weight\nIf main target has 6+ [Sinking] Count, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -9506,14 +9506,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ขั้น"
                 }
               ]
             },
@@ -9537,14 +9537,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ชั้น"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] +1 ขั้น"
                 }
               ]
             },
@@ -9756,7 +9756,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Impede the Intruder\u200B</line-height>",
-          "desc": "If target has 5+ [Burst], Coin Power +1",
+          "desc": "If target has 5+ [Burst], เหรียญ Power +1",
           "coinlist": [
             {}
           ]
@@ -9764,7 +9764,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Impede the Intruder\u200B</line-height>",
-          "desc": "If target has 5+ [Burst], Coin Power +2",
+          "desc": "If target has 5+ [Burst], เหรียญ Power +2",
           "coinlist": [
             {}
           ]
@@ -9772,7 +9772,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Impede the Intruder\u200B</line-height>",
-          "desc": "If target has 5+ [Burst], Coin Power +3\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn",
+          "desc": "If target has 5+ [Burst], เหรียญ Power +3\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn",
           "coinlist": [
             {}
           ]
@@ -9853,7 +9853,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Excise Target\u200B</line-height>",
-          "desc": "At 80% or more HP, Coin Power +1",
+          "desc": "At 80% or more HP, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -9865,7 +9865,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Rupture Count by the amount of K Corp Ampule; Deal +5% damage per K Corp Ampule"
+                  "desc": "[OnSucceedAttack] มอบ Rupture Count byจำนวนof K Corp Ampule; Deal +5% damage per K Corp Ampule"
                 }
               ]
             }
@@ -9874,7 +9874,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Excise Target\u200B</line-height>",
-          "desc": "At 80% or more HP, Coin Power +2",
+          "desc": "At 80% or more HP, เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -9886,7 +9886,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Rupture Count by the amount of K Corp Ampule; Deal +5% damage per K Corp Ampule"
+                  "desc": "[OnSucceedAttack] มอบ Rupture Count byจำนวนof K Corp Ampule; Deal +5% damage per K Corp Ampule"
                 }
               ]
             }
@@ -10080,7 +10080,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Talisman on self; Give 5 Talisman"
+                  "desc": "[OnSucceedAttack]จ่าย 5 Talismanบนself; Give 5 Talisman"
                 }
               ]
             },
@@ -10101,7 +10101,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Talisman on self; Give 5 Talisman"
+                  "desc": "[OnSucceedAttack]จ่าย 5 Talismanบนself; Give 5 Talisman"
                 }
               ]
             },
@@ -10156,7 +10156,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Red Kick\u200B</line-height>",
-          "desc": "If target has 3+ [Combustion], Coin Power +1",
+          "desc": "If target has 3+ [Combustion], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -10177,7 +10177,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Red Kick\u200B</line-height>",
-          "desc": "Coin Power +1 for every 3 Burn on target (Max 2)",
+          "desc": "เหรียญ Power +1 for every 3 Burnบนtarget (Max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -10231,7 +10231,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Frontal Assault\u200B</line-height>",
-          "desc": "If target has 6+ [Combustion], Coin Power +1",
+          "desc": "If target has 6+ [Combustion], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -10259,7 +10259,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Frontal Assault\u200B</line-height>",
-          "desc": "Coin Power +1 for every 6 Burn on target (Max 2)",
+          "desc": "เหรียญ Power +1 for every 6 Burnบนtarget (Max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -10318,7 +10318,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] If target is Staggered or defeated, gain 1 Plus Coin Boost next turn"
+                  "desc": "[EndSkill] If target is Staggered or defeated, gain 1 Plus เหรียญ Boost next turn"
                 }
               ]
             }
@@ -10353,7 +10353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] If target is Staggered or defeated, gain 1 Plus Coin Boost next turn"
+                  "desc": "[EndSkill] If target is Staggered or defeated, gain 1 Plus เหรียญ Boost next turn"
                 }
               ]
             }
@@ -10386,12 +10386,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Weighty Bash\u200B</line-height>",
-          "desc": "At 10+ Charge Count, Final Power +1",
+          "desc": "เมื่อมี [Charge] 10+ ขั้น, Final Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -10400,12 +10400,12 @@
         {
           "level": 2,
           "name": "<line-height=120%>Weighty Bash\u200B</line-height>",
-          "desc": "At 10+ Charge Count, Final Power +1\nAt 7+ Speed, deal +25% Damage",
+          "desc": "เมื่อมี [Charge] 10+ ขั้น, Final Power +1\nAt 7+ Speed, deal +25% Damage",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -10414,12 +10414,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Weighty Bash\u200B</line-height>",
-          "desc": "At 10+ Charge Count, Final Power +2\nAt 7+ Speed, deal +25% Damage\n[WhenUse] Gain +2 Charge Count",
+          "desc": "เมื่อมี [Charge] 10+ ขั้น, Final Power +2\nAt 7+ Speed, deal +25% Damage\n[WhenUse] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -10438,7 +10438,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +4 ขั้น"
                 }
               ]
             },
@@ -10466,7 +10466,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +4 ขั้น"
                 }
               ]
             },
@@ -10489,12 +10489,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Demolish\u200B</line-height>",
-          "desc": "At 7+ Speed, มอบ +1 Bleed Count with this Skill\n[WhenUse] Gain +4 Charge Count",
+          "desc": "At 7+ Speed, มอบ +1 Bleed Count with this Skill\n[WhenUse] Gain [Charge] +4 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +4 ขั้น"
                 }
               ]
             },
@@ -10522,7 +10522,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Rhino Ram\u200B</line-height>",
-          "desc": "[WhenUse] At 10+ Charge Count, Coin Power +1",
+          "desc": "[WhenUse] เมื่อมี [Charge] 10+ ขั้น, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -10530,10 +10530,10 @@
                   "desc": "[OnSucceedAttack] มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count; มอบ +1 Bleed Count"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น; มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count; มอบ +1 Bleed Count"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 3 ขั้น; มอบ +1 Bleed Count"
                 }
               ]
             },
@@ -10543,10 +10543,10 @@
                   "desc": "[OnSucceedAttack] มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count; มอบ +1 Bleed Count"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น; มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count; มอบ +1 Bleed Count"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 3 ขั้น; มอบ +1 Bleed Count"
                 }
               ]
             },
@@ -10556,7 +10556,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Rhino Ram\u200B</line-height>",
-          "desc": "[WhenUse] At 10+ Charge Count, Coin Power +2",
+          "desc": "[WhenUse] เมื่อมี [Charge] 10+ ขั้น, เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -10564,10 +10564,10 @@
                   "desc": "[OnSucceedAttack] มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count; มอบ +1 Bleed Count"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น; มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count; มอบ +1 Bleed Count"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 3 ขั้น; มอบ +1 Bleed Count"
                 }
               ]
             },
@@ -10577,10 +10577,10 @@
                   "desc": "[OnSucceedAttack] มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count; มอบ +1 Bleed Count"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น; มอบ +1 Bleed Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 3 Charge Count; มอบ +1 Bleed Count"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 3 ขั้น; มอบ +1 Bleed Count"
                 }
               ]
             },
@@ -10595,7 +10595,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bioelectricity Induction\u200B</line-height>",
-          "desc": "[WhenUse] If attacked while shielded, gain +1 Charge Count (Max 10 per turn)",
+          "desc": "[WhenUse] If attacked while shielded, gain [Charge] +1 ขั้น (Max 10 per turn)",
           "coinlist": [
             {}
           ]
@@ -10603,7 +10603,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Bioelectricity Induction\u200B</line-height>",
-          "desc": "[WhenUse] If attacked while shielded, gain +2 Charge Count (Max 10 per turn)",
+          "desc": "[WhenUse] If attacked while shielded, gain [Charge] +2 ขั้น (Max 10 per turn)",
           "coinlist": [
             {}
           ]
@@ -10727,7 +10727,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Subdue Threat\u200B</line-height>",
-          "desc": "At 15+ shield, Coin Power +1",
+          "desc": "At 15+ shield, เหรียญ Power +1",
           "coinlist": [
             {},
             {},
@@ -10743,7 +10743,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Subdue Threat\u200B</line-height>",
-          "desc": "At 15+ Shield, Coin Power +2",
+          "desc": "At 15+ Shield, เหรียญ Power +2",
           "coinlist": [
             {},
             {},
@@ -10797,7 +10797,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Remise\u200B</line-height>",
-          "desc": "At 7+ Speed, Coin Power +1",
+          "desc": "At 7+ Speed, เหรียญ Power +1",
           "coinlist": [
             {},
             {
@@ -10812,7 +10812,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Remise\u200B</line-height>",
-          "desc": "At 7+ Speed, Coin Power +1\n[WinDuel] Gain 1 Haste next turn",
+          "desc": "At 7+ Speed, เหรียญ Power +1\n[WinDuel] Gain 1 Haste next turn",
           "coinlist": [
             {},
             {
@@ -10827,7 +10827,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Remise\u200B</line-height>",
-          "desc": "At 7+ Speed, Coin Power +2\n[WinDuel] Gain 1 Haste next turn",
+          "desc": "At 7+ Speed, เหรียญ Power +2\n[WinDuel] Gain 1 Haste next turn",
           "coinlist": [
             {},
             {
@@ -10877,7 +10877,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flèche\u200B</line-height>",
-          "desc": "[WhenUse] Gain 2 Haste next turn\n[WinDuel] Deal more damage based on Clash count (+5% per Clash count, Max 50%)",
+          "desc": "[WhenUse] Gain 2 Haste next turn\n[WinDuel] Deal more damage basedบนClash count (+5% per Clash count, Max 50%)",
           "coinlist": [
             {},
             {
@@ -10897,7 +10897,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Salut!\u200B</line-height>",
-          "desc": "At 10+ Speed, Coin Power +2\n[WinDuel] Deal more damage based on Clash count (+5% per Clash count, Max 50%)",
+          "desc": "At 10+ Speed, เหรียญ Power +2\n[WinDuel] Deal more damage basedบนClash count (+5% per Clash count, Max 50%)",
           "coinlist": [
             {
               "coindescs": [
@@ -10912,7 +10912,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Salut!\u200B</line-height>",
-          "desc": "At 10+ Speed, Coin Power +3\n[WinDuel] Deal more damage based on Clash count (+10% per Clash count, Max 100%)",
+          "desc": "At 10+ Speed, เหรียญ Power +3\n[WinDuel] Deal more damage basedบนClash count (+10% per Clash count, Max 100%)",
           "coinlist": [
             {
               "coindescs": [
@@ -11001,7 +11001,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Intuition\u200B</line-height>",
-          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, Coin Power +1",
+          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -11124,7 +11124,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Forensics\u200B</line-height>",
-          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, Coin Power +1",
+          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -11207,7 +11207,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Predictive Analysis\u200B</line-height>",
-          "desc": "If target has 3+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, Coin Power +1",
+          "desc": "If target has 3+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -11228,7 +11228,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Predictive Analysis\u200B</line-height>",
-          "desc": "Coin Power +1 for every 3 Rupture on target (Max 2)",
+          "desc": "เหรียญ Power +1 for every 3 Ruptureบนtarget (Max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -11276,7 +11276,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Dissect Target\u200B</line-height>",
-          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, Coin Power +1\n[WinDuel] มอบ +3 Rupture Count",
+          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, เหรียญ Power +1\n[WinDuel] มอบ +3 Rupture Count",
           "coinlist": [
             {
               "coindescs": [
@@ -11298,7 +11298,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Dissect Target\u200B</line-height>",
-          "desc": "Coin Power +1 for every 6 Rupture on target (Max 2)\n[WinDuel] มอบ +3 Rupture Count",
+          "desc": "เหรียญ Power +1 for every 6 Ruptureบนtarget (Max 2)\n[WinDuel] มอบ +3 Rupture Count",
           "coinlist": [
             {
               "coindescs": [
@@ -11325,7 +11325,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Profiling\u200B</line-height>",
-          "desc": "[WhenUse] Deal +10% damage for every 3 Rupture on target (Max 20%)",
+          "desc": "[WhenUse] Deal +10% damage for every 3 Ruptureบนtarget (Max 20%)",
           "coinlist": [
             {
               "coindescs": [
@@ -11353,7 +11353,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Profiling\u200B</line-height>",
-          "desc": "[WhenUse] Deal +10% damage for every 3 Rupture on target (Max 50%)\n[WinDuel] มอบ +2 Rupture Count",
+          "desc": "[WhenUse] Deal +10% damage for every 3 Ruptureบนtarget (Max 50%)\n[WinDuel] มอบ +2 Rupture Count",
           "coinlist": [
             {
               "coindescs": [

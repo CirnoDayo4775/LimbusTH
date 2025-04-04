@@ -36,7 +36,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Stay Calm\u200B</line-height>",
-          "desc": "If this Skill is Discarded, gain +4 Tremor Count\n[WhenUse] Gain +2 Tremor Count\nAt 5+ Tremor Count, gain Coin Power +1",
+          "desc": "If this Skill is Discarded, gain +4 Tremor Count\n[WhenUse] Gain +2 Tremor Count\nAt 5+ Tremor Count, gain เหรียญ Power +1",
           "coinlist": [
             {},
             {
@@ -109,7 +109,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Grinding the Molars\u200B</line-height>",
-          "desc": "[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] Spend 10 Tremor Count to gain Coin Power +1",
+          "desc": "[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse]จ่าย 10 Tremor Count to gain เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -137,7 +137,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Grinding the Molars\u200B</line-height>",
-          "desc": "[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] Spend 10 Tremor Count to gain Coin Power +2",
+          "desc": "[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse]จ่าย 10 Tremor Count to gain เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -191,12 +191,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dimensional Slit\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -205,12 +205,12 @@
         {
           "level": 2,
           "name": "<line-height=120%>Dimensional Slit\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
@@ -222,12 +222,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Dimensional Slit\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 Charge Count\nAt 10+ Charge Count, Coin Power +2",
+          "desc": "[WhenUse] Gain [Charge] +2 ขั้น\nเมื่อมี [Charge] 10+ ขั้น, เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 Rupture"
@@ -244,7 +244,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Energy Cycle\u200B</line-height>",
-          "desc": "[WhenUse] Gain +5 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -265,7 +265,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Energy Cycle\u200B</line-height>",
-          "desc": "[WhenUse] Gain +6 Charge Count\nAt 10+ Charge Count, Coin Power +1",
+          "desc": "[WhenUse] Gain [Charge] +6 ขั้น\nเมื่อมี [Charge] 10+ ขั้น, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -280,7 +280,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Charge Count, inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] เมื่อมี [Charge] 10+ ขั้น, inflict 3 Rupture"
                 }
               ]
             }
@@ -289,7 +289,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Energy Cycle\u200B</line-height>",
-          "desc": "[WhenUse] Gain +7 Charge Count\nAt 10+ Charge Count, Coin Power +1",
+          "desc": "[WhenUse] Gain [Charge] +7 ขั้น\nเมื่อมี [Charge] 10+ ขั้น, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -304,7 +304,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Charge Count, inflict 3 Rupture and +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] เมื่อมี [Charge] 10+ ขั้น, inflict 3 Rupture and +2 Rupture Count"
                 }
               ]
             }
@@ -318,7 +318,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Dimensional Rift\u200B</line-height>",
-          "desc": "[WhenUse] At less than 15 Charge Count, consume 10 Charge Count to gain +1 Coin Power\n[WhenUse] Consume 15 Charge Count to gain +2 Coin Power",
+          "desc": "[WhenUse] At less than [Charge] 15 ขั้น, consume [Charge] 10 ขั้น to gain +1 เหรียญ Power\n[WhenUse] Consume [Charge] 15 ขั้น to gain +2 เหรียญ Power",
           "coinlist": [
             {
               "coindescs": [
@@ -337,13 +337,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture for every 5 Charge Count consumed by the Skill (Max 6)"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture for every [Charge] 5 ขั้น consumed by the Skill (Max 6)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the Skill consumed 15 Charge Count upon use, inflict 2 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] If the Skill consumed [Charge] 15 ขั้น upon use, inflict 2 Dimensional Rift"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 3 Charge Barrier"
+                  "desc": "[EnemyKill] Gain 3[Charge] Barrier"
                 }
               ]
             }
@@ -352,7 +352,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Dimensional Rift\u200B</line-height>",
-          "desc": "[WhenUse] At less than 15 Charge Count, consume 10 Charge Count to gain +1 Coin Power\n[WhenUse] Consume 15 Charge Count to gain +2 Coin Power\n[BeforeAttack] If 15 Charge Count has been consumed, inflict +3 Rupture Count",
+          "desc": "[WhenUse] At less than [Charge] 15 ขั้น, consume [Charge] 10 ขั้น to gain +1 เหรียญ Power\n[WhenUse] Consume [Charge] 15 ขั้น to gain +2 เหรียญ Power\n[BeforeAttack] If [Charge] 15 ขั้น has been consumed, inflict +3 Rupture Count",
           "coinlist": [
             {
               "coindescs": [
@@ -371,13 +371,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture for every 5 Charge Count consumed by the Skill (Max 9)"
+                  "desc": "[OnSucceedAttack] Inflict 3 Rupture for every [Charge] 5 ขั้น consumed by the Skill (Max 9)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the Skill consumed 15 Charge Count upon use, inflict 2 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] If the Skill consumed [Charge] 15 ขั้น upon use, inflict 2 Dimensional Rift"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 5 Charge Barrier"
+                  "desc": "[EnemyKill] Gain 5[Charge] Barrier"
                 }
               ]
             }
@@ -391,7 +391,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hollow Dimension\u200B</line-height>",
-          "desc": "Base Power +1 per 5 Charge Count (Max 2)",
+          "desc": "Base Power +1 per [Charge] 5 ขั้น (Max 2)",
           "coinlist": [
             {}
           ]
@@ -399,7 +399,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Hollow Dimension\u200B</line-height>",
-          "desc": "Base Power +1 per 5 Charge Count (Max 2)\n[OnSucceedEvade] +1 Potency when applying Rupture for the first time with a Skill effect next turn (Max +3 per turn)",
+          "desc": "Base Power +1 per [Charge] 5 ขั้น (Max 2)\n[OnSucceedEvade] +1 Potency when applying Rupture for the first time with a Skill effect next turn (Max +3 per turn)",
           "coinlist": [
             {}
           ]
@@ -504,7 +504,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Bleed"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Reuse this Coin (1 time max)"
+                  "desc": "[CriticalOnSucceedAttack] Reuse this เหรียญ (1 time max)"
                 }
               ]
             }
@@ -528,7 +528,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Bleed"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Reuse this Coin (3 times max)"
+                  "desc": "[CriticalOnSucceedAttack] Reuse this เหรียญ (3 times max)"
                 }
               ]
             }
@@ -566,7 +566,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Ambush\u200B</line-height>",
-          "desc": "[WhenUse] Gain 5 Poise\nAt 7+ Poise, Coin Power +1",
+          "desc": "[WhenUse] Gain 5 Poise\nAt 7+ Poise, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -670,7 +670,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Expend Knowledge\u200B</line-height>",
-          "desc": "Gain ([KnowledgeExplored] x 3% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] If target has 5+ [Sinking], Coin Power +1",
+          "desc": "Gain ([KnowledgeExplored] x 3% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] If target has 5+ [Sinking], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -740,7 +740,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Seal Shut\u200B</line-height>",
-          "desc": "Gain ([KnowledgeExplored] x 6% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] If target has 5+ [Sinking], Coin Power +1\n[WhenUse] Gain +3 Aggro to this Skill Slot next turn",
+          "desc": "Gain ([KnowledgeExplored] x 6% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] If target has 5+ [Sinking], เหรียญ Power +1\n[WhenUse] Gain +3 Aggro to this Skill Slot next turn",
           "coinlist": [
             {},
             {
@@ -784,7 +784,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Grace of Knowledge\u200B</line-height>",
-          "desc": "Gain ([KnowledgeExplored] x 12% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Gain +10 Aggro to this Skill Slot next turn\n[WhenUse] At 50%- HP, Coin Power +1",
+          "desc": "Gain ([KnowledgeExplored] x 12% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Gain +10 Aggro to this Skill Slot next turn\n[WhenUse] At 50%- HP, เหรียญ Power +1",
           "coinlist": [
             {},
             {},
@@ -915,7 +915,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 20% chance to Reuse Coin once. +20% more chance to Reuse Coin for every type of negative effect on target"
+                  "desc": "[OnSucceedAttack] 20% chance to Reuse เหรียญ once. +20% more chance to Reuse เหรียญ for every type of negative effectบนtarget"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
@@ -935,7 +935,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 20% chance to Reuse Coin once. +20% more chance to Reuse Coin for every type of negative effect on target"
+                  "desc": "[OnSucceedAttack] 20% chance to Reuse เหรียญ once. +20% more chance to Reuse เหรียญ for every type of negative effectบนtarget"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
@@ -950,12 +950,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Sanguine Pointillism\u200B</line-height>",
-          "desc": "Clash Power +1 for every 3 [Laceration] on target (max 2)\nCoin Power +1 for every 3 [Laceration] Count on target (max 2)",
+          "desc": "Clash Power +1 for every 3 [Laceration]บนtarget (max 2)\nเหรียญ Power +1 for every 3 [Laceration] Countบนtarget (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to Reuse Coin for every type of negative effect on target (2 times max per Skill)"
+                  "desc": "[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to Reuse เหรียญ for every type of negative effectบนtarget (2 times max per Skill)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
@@ -1001,10 +1001,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +15% more damage for every type of negative effect on target (max 75%)"
+                  "desc": "Deal +15% more damage for every type of negative effectบนtarget (max 75%)"
                 },
                 {
-                  "desc": "[EndSkill] If target is Staggered or Defeated, inflict 2 Potency for 1 of the following effects on 1 enemy with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
+                  "desc": "[EndSkill] If target is Staggered or Defeated, inflict 2 Potency for 1 of the following effectsบน1 enemy with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
                 }
               ]
             }
@@ -1013,7 +1013,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Hematic Coloring\u200B</line-height>",
-          "desc": "Clash Power +1 for every 3 [Laceration] on target (max 2)\nCoin Power +1 for every 3 [Laceration] Count on target (max 2)",
+          "desc": "Clash Power +1 for every 3 [Laceration]บนtarget (max 2)\nเหรียญ Power +1 for every 3 [Laceration] Countบนtarget (max 2)",
           "coinlist": [
             {},
             {
@@ -1039,10 +1039,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +25% more damage for every type of negative effect on target (max 125%)"
+                  "desc": "Deal +25% more damage for every type of negative effectบนtarget (max 125%)"
                 },
                 {
-                  "desc": "[EndSkill] If target is Staggered or Defeated, inflict 2 Potency for 1 of the following effects on 2 enemies with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
+                  "desc": "[EndSkill] If target is Staggered or Defeated, inflict 2 Potency for 1 of the following effectsบน2 enemies with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
                 }
               ]
             }
@@ -1070,7 +1070,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Beat the Brush\u200B</line-height>",
-          "desc": "Base Power +1 for every 1 [Laceration] on target (Max 10)",
+          "desc": "Base Power +1 for every 1 [Laceration]บนtarget (Max 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -1116,7 +1116,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Celebration for the Departed\u200B</line-height>",
-          "desc": "If the sum of the target's [Sinking] and both [SinkingWhite] is 6 or higher, Coin Power +1\n[WinDuel] Inflict +2 [Sinking] Count",
+          "desc": "If the sum of the target's [Sinking] and both [SinkingWhite] is 6 or higher, เหรียญ Power +1\n[WinDuel] Inflict +2 [Sinking] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1143,7 +1143,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Celebration for the Departed\u200B</line-height>",
-          "desc": "<style=\"highlight\">At 10+ [BulletLament], Clash Power +1</style>\nIf the sum of the target's [Sinking] and both [SinkingWhite] is 6 or higher, Coin Power +1\n[WinDuel] Inflict +2 [Sinking] Count",
+          "desc": "<style=\"highlight\">At 10+ [BulletLament], Clash Power +1</style>\nIf the sum of the target's [Sinking] and both [SinkingWhite] is 6 or higher, เหรียญ Power +1\n[WinDuel] Inflict +2 [Sinking] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1202,7 +1202,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Solemn Lament for the Living\u200B</line-height>",
-          "desc": "If the sum of the target's [Sinking] and both [SinkingWhite] is 6 or higher, Coin Power +1\n[WinDuel] Inflict +1 [Sinking] Count\n[EndSkill] Gain (highest Reson.) of [BulletLament] (max 6)\n- If the said Reson. was an A-Reson., gain (highest Reson. x 2) of [BulletLament] (max 12)",
+          "desc": "If the sum of the target's [Sinking] and both [SinkingWhite] is 6 or higher, เหรียญ Power +1\n[WinDuel] Inflict +1 [Sinking] Count\n[EndSkill] Gain (highest Reson.) of [BulletLament] (max 6)\n- If the said Reson. was an A-Reson., gain (highest Reson. x 2) of [BulletLament] (max 12)",
           "coinlist": [
             {
               "coindescs": [
@@ -1229,7 +1229,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Solemn Lament for the Living\u200B</line-height>",
-          "desc": "At 10+ [BulletLament], Clash Power +1\n<style=\"highlight\">Coin Power +1 for every 6 value</style> of the sum of the target's [Sinking] and both [SinkingWhite] <style=\"highlight\">(max 2)</style>\n[WinDuel] Inflict +1 [Sinking] Count\n[EndSkill] Gain (highest Reson.) of [BulletLament] (max 6)\n- If the said Reson. was an A-Reson., gain (highest Reson. x 2) of [BulletLament] (max 12)\n- If the said Reson. was at 4+ A-Reson., [ReloadLament] instead",
+          "desc": "At 10+ [BulletLament], Clash Power +1\n<style=\"highlight\">เหรียญ Power +1 for every 6 value</style> of the sum of the target's [Sinking] and both [SinkingWhite] <style=\"highlight\">(max 2)</style>\n[WinDuel] Inflict +1 [Sinking] Count\n[EndSkill] Gain (highest Reson.) of [BulletLament] (max 6)\n- If the said Reson. was an A-Reson., gain (highest Reson. x 2) of [BulletLament] (max 12)\n- If the said Reson. was at 4+ A-Reson., [ReloadLament] instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1286,7 +1286,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Consume all of [BulletLament] on self"
+                  "desc": "Consume all of [BulletLament]บนself"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed"
@@ -1299,7 +1299,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gloom damage equal to \"All\" [SinkingWhite] on target\n- \"All\" = the sum of both The Living and The Departed on target"
+                  "desc": "[OnSucceedAttack] Inflict Gloom damage equal to \"All\" [SinkingWhite]บนtarget\n- \"All\" = the sum of both The Living and The Departedบนtarget"
                 }
               ]
             }
@@ -1308,7 +1308,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Goodbye Now, A Sorrow In You\u200B</line-height>",
-          "desc": "Base Power +1 for every <style=\"highlight\">5</style> value of [BulletLament] <style=\"highlight\">(max 4)</style>\nCoin Power +1 for every 6 value of the sum of the target's [Sinking] and both [SinkingWhite] (max 2)\n[WinDuel] Inflict +3 [Sinking] Count\n[EndSkill] [ReloadLament]",
+          "desc": "Base Power +1 for every <style=\"highlight\">5</style> value of [BulletLament] <style=\"highlight\">(max 4)</style>\nเหรียญ Power +1 for every 6 value of the sum of the target's [Sinking] and both [SinkingWhite] (max 2)\n[WinDuel] Inflict +3 [Sinking] Count\n[EndSkill] [ReloadLament]",
           "coinlist": [
             {
               "coindescs": [
@@ -1333,7 +1333,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Consume all of [BulletLament] on self"
+                  "desc": "Consume all of [BulletLament]บนself"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed"
@@ -1346,7 +1346,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gloom damage equal to \"All\" [SinkingWhite] on target\n- \"All\" = the sum of both The Living and The Departed on target"
+                  "desc": "[OnSucceedAttack] Inflict Gloom damage equal to \"All\" [SinkingWhite]บนtarget\n- \"All\" = the sum of both The Living and The Departedบนtarget"
                 }
               ]
             }
@@ -1374,7 +1374,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>FromTheCoffinAButterflyTakesFlight\u200B</line-height>",
-          "desc": "[StartBattle] [ReloadLament] (once per turn)\n[StartBattle] Gain Shield equal to (the sum of both [SinkingWhite] on the selected target)% HP. (max 20% per turn)",
+          "desc": "[StartBattle] [ReloadLament] (once per turn)\n[StartBattle] Gain Shield equal to (the sum of both [SinkingWhite]บนthe selected target)% HP. (max 20% per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1420,7 +1420,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Though it must be prefaced that E.G.O gears are standardized equipment,\u200B</line-height>",
-          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 2)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +1",
+          "desc": "[StartBattle]บนClash Lose, gain Final Power equal to the number of Skills targeting this unit (max 2)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1447,7 +1447,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Though it must be prefaced that E.G.O gears are standardized equipment,\u200B</line-height>",
-          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +2",
+          "desc": "[StartBattle]บนClash Lose, gain Final Power equal to the number of Skills targeting this unit (max 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1478,7 +1478,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,\u200B</line-height>",
+          "name": "<line-height=120%>when juxtaposed with E.G.O gear from L Corp., dependingบนthe degree of attunement to the Abnormality,\u200B</line-height>",
           "desc": "[WhenUse] Gain +2 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects",
           "coinlist": [
             {
@@ -1495,8 +1495,8 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,\u200B</line-height>",
-          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +1",
+          "name": "<line-height=120%>when juxtaposed with E.G.O gear from L Corp., dependingบนthe degree of attunement to the Abnormality,\u200B</line-height>",
+          "desc": "[StartBattle]บนClash Lose, gain Final Power equal to the number of Skills targeting this unit (max 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1512,7 +1512,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,\u200B</line-height>",
+          "name": "<line-height=120%>when juxtaposed with E.G.O gear from L Corp., dependingบนthe degree of attunement to the Abnormality,\u200B</line-height>",
           "desc": "[StartBattle] <style=\"highlight\">On Clash Lose, gain (# of Skills targeting this unit x 2) Final Power (max 6)</style>\n[WhenUse] Gain +4 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +2",
           "coinlist": [
             {
@@ -1535,7 +1535,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>the idiosyncrasies of the source may be utilized with greater flexibility\u200B</line-height>",
-          "desc": "Deal +0.5% more damage for every 1% missing HP on self\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 2)\n[WhenUse] Gain 2 [GlowingLantern] (once per turn)\n[WhenUse] Gain +6 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP",
+          "desc": "Deal +0.5% more damage for every 1% missing HPบนself\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 2)\n[WhenUse] Gain 2 [GlowingLantern] (once per turn)\n[WhenUse] Gain +6 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1566,7 +1566,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>the idiosyncrasies of the source may be utilized with greater flexibility\u200B</line-height>",
-          "desc": "Deal +0.8% more damage for every 1% missing HP on self\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 3)\n[WhenUse] Gain 3 [GlowingLantern] (once per turn)\n[WhenUse] Gain +8 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP",
+          "desc": "Deal +0.8% more damage for every 1% missing HPบนself\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 3)\n[WhenUse] Gain 3 [GlowingLantern] (once per turn)\n[WhenUse] Gain +8 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1635,7 +1635,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Flame Hew\u200B</line-height>",
-          "desc": "If target has 6+ [Combustion], Coin Power +1",
+          "desc": "If target has 6+ [Combustion], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1656,7 +1656,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Flame Hew\u200B</line-height>",
-          "desc": "If target has <style=\"highlight\">3</style>+ [Combustion], Coin Power +1",
+          "desc": "If target has <style=\"highlight\">3</style>+ [Combustion], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1677,7 +1677,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flame Hew\u200B</line-height>",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 3 [Combustion] on target (max 2)</style>\n<style=\"highlight\">Deal +10% more damage for every 10 [Combustion] on target (max 30%)</style>",
+          "desc": "<style=\"highlight\">เหรียญ Power +1 for every 3 [Combustion]บนtarget (max 2)</style>\n<style=\"highlight\">Deal +10% more damage for every 10 [Combustion]บนtarget (max 30%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1709,7 +1709,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Frontal Assault\u200B</line-height>",
-          "desc": "If target has 6+ [Combustion], Coin Power +1",
+          "desc": "If target has 6+ [Combustion], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1728,7 +1728,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Count on target"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Countบนtarget"
                 }
               ]
             }
@@ -1737,7 +1737,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Frontal Assault\u200B</line-height>",
-          "desc": "Coin Power +1 for every 6 [Combustion] on target (max 2)",
+          "desc": "เหรียญ Power +1 for every 6 [Combustion]บนtarget (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1756,10 +1756,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2.5% more damage for every [Combustion] on target (max 30%)"
+                  "desc": "Deal +2.5% more damage for every [Combustion]บนtarget (max 30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Count on target<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Countบนtarget<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1768,7 +1768,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Frontal Assault\u200B</line-height>",
-          "desc": "Coin Power +1 for every 6 [Combustion] on target (max 2)",
+          "desc": "เหรียญ Power +1 for every 6 [Combustion]บนtarget (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1787,10 +1787,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +<style=\"highlight\">5</style>% more damage for every [Combustion] on target (max <style=\"highlight\">60</style>%)"
+                  "desc": "Deal +<style=\"highlight\">5</style>% more damage for every [Combustion]บนtarget (max <style=\"highlight\">60</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Count on target<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Countบนtarget<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1804,7 +1804,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Flow of the Sword\u200B</line-height>",
-          "desc": "If target has 6+ [Combustion], Coin Power +1\nDeal +10% more damage for every 6 [Combustion] on target (max 30%)\n[EndSkill] Heal 10 SP for 1 other ally with the least SP\n- If this attack killed the target, or if target had 10+ [Combustion], heal 1 more ally",
+          "desc": "If target has 6+ [Combustion], เหรียญ Power +1\nDeal +10% more damage for every 6 [Combustion]บนtarget (max 30%)\n[EndSkill] Heal 10 SP for 1 other ally with the least SP\n- If this attack killed the target, or if target had 10+ [Combustion], heal 1 more ally",
           "coinlist": [
             {
               "coindescs": [
@@ -1830,10 +1830,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2% more damage for every [Combustion] on target (max 60%)"
+                  "desc": "Deal +2% more damage for every [Combustion]บนtarget (max 60%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Wrath Affinity damage equal to [Combustion] Potency on target. (max 30) Reduce Target's [Combustion] Count by 2"
+                  "desc": "[OnSucceedAttack] Inflict Wrath Affinity damage equal to [Combustion] Potencyบนtarget. (max 30) Reduce Target's [Combustion] Count by 2"
                 }
               ]
             }
@@ -1842,7 +1842,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flow of the Sword\u200B</line-height>",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Combustion] on target (max 2)</style>\nDeal +10% more damage for every 6 [Combustion] on target (max 30%)\n[EndSkill] Heal <style=\"highlight\">15</style> SP for 1 other ally with the least SP\n- If this attack killed the target, or if target had 10+ [Combustion], heal 1 more ally",
+          "desc": "<style=\"highlight\">เหรียญ Power +1 for every 6 [Combustion]บนtarget (max 2)</style>\nDeal +10% more damage for every 6 [Combustion]บนtarget (max 30%)\n[EndSkill] Heal <style=\"highlight\">15</style> SP for 1 other ally with the least SP\n- If this attack killed the target, or if target had 10+ [Combustion], heal 1 more ally",
           "coinlist": [
             {
               "coindescs": [
@@ -1868,10 +1868,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2% more damage for every [Combustion] on target (max 60%)"
+                  "desc": "Deal +2% more damage for every [Combustion]บนtarget (max 60%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Wrath Affinity damage equal to [Combustion] Potency on target. (max 30) Reduce Target's [Combustion] Count by 2"
+                  "desc": "[OnSucceedAttack] Inflict Wrath Affinity damage equal to [Combustion] Potencyบนtarget. (max 30) Reduce Target's [Combustion] Count by 2"
                 }
               ]
             }
@@ -1885,7 +1885,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Flame Counter\u200B</line-height>",
-          "desc": "[BeforeHit] Gain Shield equal to [Combustion] on target (max 10, once per turn)",
+          "desc": "[BeforeHit] Gain Shield equal to [Combustion]บนtarget (max 10, once per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1906,7 +1906,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flame Counter\u200B</line-height>",
-          "desc": "[BeforeHit] Gain Shield equal to [Combustion] on target (max 15, once per turn)\n[WhenUse] If target has 10+ [Combustion], deal +10% more damage",
+          "desc": "[BeforeHit] Gain Shield equal to [Combustion]บนtarget (max 15, once per turn)\n[WhenUse] If target has 10+ [Combustion], deal +10% more damage",
           "coinlist": [
             {
               "coindescs": [

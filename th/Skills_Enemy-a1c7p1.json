@@ -76,7 +76,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] Heal ([Laceration]บนtarget)% HP (max 20%)"
                                 }
                             ]
                         }
@@ -90,7 +90,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Counter\u200B</line-height>",
-                    "desc": "[WhenUse] Base Power +1 for every [HardenedBlood] on self",
+                    "desc": "[WhenUse] Base Power +1 for every [HardenedBlood]บนself",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -179,7 +179,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] Heal ([Laceration]บนtarget)% HP (max 20%)"
                                 }
                             ]
                         }
@@ -193,7 +193,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Counter\u200B</line-height>",
-                    "desc": "[WhenUse] Base Power +1 for every [HardenedBlood] on self",
+                    "desc": "[WhenUse] Base Power +1 for every [HardenedBlood]บนself",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -260,7 +260,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>We've an Event for You!\u200B</line-height>",
-                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodScissor] for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, gain 5 [Laceration] and 1 [HardenedBlood].\n[WhenUse] If the target has 5+ [Laceration], Coin Power +1",
+                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodScissor] for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, gain 5 [Laceration] and 1 [HardenedBlood].\n[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -286,7 +286,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Don't Rush Me\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every [BloodScissor] (max 3)\nDeal +7% more damage for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]",
+                    "desc": "[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1\n[WhenUse] Clash Power +1 for every [BloodScissor] (max 3)\nDeal +7% more damage for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -305,7 +305,7 @@
                                     "desc": "[OnSucceedAttack] Consume up to 5 [BloodScissor] and deal +(20 * consumed [BloodScissor])% more damage (max 100%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] Potency on target)% HP (max 30%)"
+                                    "desc": "[OnSucceedAttack] Heal ([Laceration] Potencyบนtarget)% HP (max 30%)"
                                 }
                             ]
                         }
@@ -319,7 +319,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Counter\u200B</line-height>",
-                    "desc": "[WhenUse] At 1+ [BloodScissor], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], Coin Power +1",
+                    "desc": "[WhenUse] At 1+ [BloodScissor], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], เหรียญ Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -386,7 +386,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>What Heavenly Taste!\u200B</line-height>",
-                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodScissor] for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, gain 5 [Laceration] and 1 [HardenedBlood].\n[WhenUse] If the target has 5+ [Laceration], Coin Power +1",
+                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodScissor] for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, gain 5 [Laceration] and 1 [HardenedBlood].\n[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -412,7 +412,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>You Rat Bastard!\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every [BloodScissor] (max 3)\nDeal +7% more damage for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]",
+                    "desc": "[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1\n[WhenUse] Clash Power +1 for every [BloodScissor] (max 3)\nDeal +7% more damage for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -431,7 +431,7 @@
                                     "desc": "[OnSucceedAttack] Consume up to 5 [BloodScissor] and deal +(20 * consumed [BloodScissor])% more damage (max 100%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] Potency on target)% HP (max 30%)"
+                                    "desc": "[OnSucceedAttack] Heal ([Laceration] Potencyบนtarget)% HP (max 30%)"
                                 }
                             ]
                         }
@@ -445,7 +445,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Counter\u200B</line-height>",
-                    "desc": "[WhenUse] At 1+ [BloodScissor], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], Coin Power +1",
+                    "desc": "[WhenUse] At 1+ [BloodScissor], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], เหรียญ Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -515,7 +515,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Wild Swinging\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 10+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit",
+                    "desc": "[WhenUse] If the target has 10+ [Burst] Count: this Skill does not consume target's [Burst] CountบนHit",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -617,7 +617,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Wild Swinging\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 10+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit",
+                    "desc": "[WhenUse] If the target has 10+ [Burst] Count: this Skill does not consume target's [Burst] CountบนHit",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -771,7 +771,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Listen, you sod. It's— \\u200B</line-height>"Grrrr.\"",
-                    "desc": "If the target has 5+ [Laceration], Coin Power +1",
+                    "desc": "If the target has 5+ [Laceration], เหรียญ Power +1",
                     "coinlist": [
                         {
                             "coindescs": [

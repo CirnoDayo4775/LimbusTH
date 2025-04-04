@@ -6,7 +6,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Slam\u200B</line-height>",
-                    "desc": "[WhenUse] If this unit has [HardenedBlood], and if this Skill's Coin effect inflicts [Burst], inflict +1 [Laceration] Count as well",
+                    "desc": "[WhenUse] If this unit has [HardenedBlood], and if this Skill's เหรียญ effect inflicts [Burst], inflict +1 [Laceration] Count as well",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -32,7 +32,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Aimless Wrath\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] If this unit has 3+ [HardenedBlood], and if this Skill's Coin effect inflicts [Burst], inflict 2 [Laceration] as well",
+                    "desc": "[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1\n[WhenUse] If this unit has 3+ [HardenedBlood], and if this Skill's เหรียญ effect inflicts [Burst], inflict 2 [Laceration] as well",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -68,7 +68,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Unbridled Smite\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1",
+                    "desc": "[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -133,7 +133,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Slam\u200B</line-height>",
-                    "desc": "[WhenUse] If this unit has [HardenedBlood], and if this Skill's Coin effect inflicts [Burst], inflict +1 [Laceration] Count as well",
+                    "desc": "[WhenUse] If this unit has [HardenedBlood], and if this Skill's เหรียญ effect inflicts [Burst], inflict +1 [Laceration] Count as well",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -159,7 +159,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Aimless Wrath\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] If this unit has 3+ [HardenedBlood], and if this Skill's Coin effect inflicts [Burst], inflict +1 [Laceration] Count as well",
+                    "desc": "[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1\n[WhenUse] If this unit has 3+ [HardenedBlood], and if this Skill's เหรียญ effect inflicts [Burst], inflict +1 [Laceration] Count as well",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -195,7 +195,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Unbridled Smite\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1",
+                    "desc": "[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -321,7 +321,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Strike\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 6+ [Laceration], Base Power +1\n[WhenUse] When inflicting [Laceration] with this Skill, inflict [Burst] equal to [HardenedBlood] on self as well\n[EndSkill] Consume all [HardenedBlood] and [BloodyHand]",
+                    "desc": "[WhenUse] If the target has 6+ [Laceration], Base Power +1\n[WhenUse] When inflicting [Laceration] with this Skill, inflict [Burst] equal to [HardenedBlood]บนself as well\n[EndSkill] Consume all [HardenedBlood] and [BloodyHand]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -336,7 +336,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] Heal ([Laceration]บนtarget)% HP (max 20%)"
                                 }
                             ]
                         }
@@ -350,7 +350,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Counter\u200B</line-height>",
-                    "desc": "[WhenUse] Base Power +1 for every [HardenedBlood] on self",
+                    "desc": "[WhenUse] Base Power +1 for every [HardenedBlood]บนself",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -430,7 +430,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Strike\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 6+ [Laceration], Base Power +1\n[WhenUse] When inflicting [Laceration] with this Skill, inflict [Burst] equal to [HardenedBlood] on self as well\n[EndSkill] Consume all [HardenedBlood] and [BloodyHand]",
+                    "desc": "[WhenUse] If the target has 6+ [Laceration], Base Power +1\n[WhenUse] When inflicting [Laceration] with this Skill, inflict [Burst] equal to [HardenedBlood]บนself as well\n[EndSkill] Consume all [HardenedBlood] and [BloodyHand]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -445,7 +445,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] Heal ([Laceration]บนtarget)% HP (max 20%)"
                                 }
                             ]
                         }
@@ -459,7 +459,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Counter\u200B</line-height>",
-                    "desc": "[WhenUse] Base Power +1 for every [HardenedBlood] on self",
+                    "desc": "[WhenUse] Base Power +1 for every [HardenedBlood]บนself",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -526,7 +526,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Faded Patience\u200B</line-height>",
-                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodyHand] for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 5+ [Laceration], Coin Power +1",
+                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodyHand] for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -552,7 +552,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Endless Atonement\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every [HardenedBlood] on self\n[DefeatDuel] Lose 2 [BloodyHand]",
+                    "desc": "[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1\n[WhenUse] Clash Power +1 for every [HardenedBlood]บนself\n[DefeatDuel] Lose 2 [BloodyHand]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -574,10 +574,10 @@
                                     "desc": "[OnSucceedAttack] Consume all [BloodyHand] to inflict +3 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Consume all [HardenedBlood] on self to increase [BloodDinner] by (consumed [HardenedBlood] x 3) and gain 5 [Laceration]"
+                                    "desc": "[OnSucceedAttack] Consume all [HardenedBlood]บนself to increase [BloodDinner] by (consumed [HardenedBlood] x 3) and gain 5 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 30%)"
+                                    "desc": "[OnSucceedAttack] Heal ([Laceration]บนtarget)% HP (max 30%)"
                                 }
                             ]
                         }
@@ -591,7 +591,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Counter\u200B</line-height>",
-                    "desc": "[WhenUse] At 1+ [BloodyHand], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], Coin Power +1",
+                    "desc": "[WhenUse] At 1+ [BloodyHand], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], เหรียญ Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -658,7 +658,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Faded Patience\u200B</line-height>",
-                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodyHand] for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 5+ [Laceration], Coin Power +1",
+                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodyHand] for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -684,7 +684,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Endless Atonement\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every [HardenedBlood] on self\n[DefeatDuel] Lose 2 [BloodyHand]",
+                    "desc": "[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1\n[WhenUse] Clash Power +1 for every [HardenedBlood]บนself\n[DefeatDuel] Lose 2 [BloodyHand]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -706,10 +706,10 @@
                                     "desc": "[OnSucceedAttack] Consume all [BloodyHand] to inflict +3 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Consume all [HardenedBlood] on self to increase [BloodDinner] by (consumed [HardenedBlood] x 3) and gain 5 [Laceration]"
+                                    "desc": "[OnSucceedAttack] Consume all [HardenedBlood]บนself to increase [BloodDinner] by (consumed [HardenedBlood] x 3) and gain 5 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 30%)"
+                                    "desc": "[OnSucceedAttack] Heal ([Laceration]บนtarget)% HP (max 30%)"
                                 }
                             ]
                         }
@@ -723,7 +723,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Counter\u200B</line-height>",
-                    "desc": "[WhenUse] At 1+ [BloodyHand], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], Coin Power +1",
+                    "desc": "[WhenUse] At 1+ [BloodyHand], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], เหรียญ Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -764,7 +764,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Carve\u200B</line-height>",
-                    "desc": "[WhenUse] Final Power +1 for every 5 [FestivalFever] on self or every 6 [Laceration] on the target (max 2)\n[WhenUse] Gain 15 [Laceration], immediately trigger it once, and reduce [Laceration] Count by 1",
+                    "desc": "[WhenUse] Final Power +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (max 2)\n[WhenUse] Gain 15 [Laceration], immediately trigger it once, and reduce [Laceration] Count by 1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -798,7 +798,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict [Laceration] and [Burst] equal to [HardenedBlood] on self"
+                                    "desc": "[OnSucceedAttack] Inflict [Laceration] and [Burst] equal to [HardenedBlood]บนself"
                                 }
                             ]
                         },
@@ -861,7 +861,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Wild Jag\u200B</line-height>",
-                    "desc": "[WhenUse] Final Power +1 for every 5 [FestivalFever] on self or every 6 [Laceration] on the target (max 2)\n[WhenUse] Gain 15 [Laceration], immediately trigger it once, and reduce [Laceration] Count by 1",
+                    "desc": "[WhenUse] Final Power +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (max 2)\n[WhenUse] Gain 15 [Laceration], immediately trigger it once, and reduce [Laceration] Count by 1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -895,7 +895,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict [Laceration] and [Burst] equal to [HardenedBlood] on self"
+                                    "desc": "[OnSucceedAttack] Inflict [Laceration] and [Burst] equal to [HardenedBlood]บนself"
                                 }
                             ]
                         },
@@ -958,12 +958,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Join the Joyful Parade!\u200B</line-height>",
-                    "desc": "[WhenUse] Final Power +1 for every 5 [FestivalFever] on self or every 6 [Laceration] on the target (max 3)\n[WhenUse] At less than 20 [BloodDinner], gain 20 [Laceration] and immediately trigger it once, then reduce [Laceration] Count by 1\n[EndSkill] Consume 20 [BloodDinner]",
+                    "desc": "[WhenUse] Final Power +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (max 3)\n[WhenUse] At less than 20 [BloodDinner], gain 20 [Laceration] and immediately trigger it once, then reduce [Laceration] Count by 1\n[EndSkill] Consume 20 [BloodDinner]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 1 [HardenedBlood] for every 6 [Laceration] on the target (max 2)"
+                                    "desc": "[OnSucceedAttack] Gain 1 [HardenedBlood] for every 6 [Laceration]บนthe target (max 2)"
                                 }
                             ]
                         },
@@ -990,7 +990,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Blossom your Smiles of Joy!\u200B</line-height>",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], Coin Power +1\n[WhenUse] If the target has 6+ [Laceration], Clash Power +1",
+                    "desc": "[WhenUse] At 5+ [FestivalFever], เหรียญ Power +1\n[WhenUse] If the target has 6+ [Laceration], Clash Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1022,7 +1022,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict [Laceration] and [Burst] equal to [HardenedBlood] on self"
+                                    "desc": "[OnSucceedAttack] Inflict [Laceration] and [Burst] equal to [HardenedBlood]บนself"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Heal ([FestivalFever] x 4)% HP (max 40%)"
@@ -1084,12 +1084,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Let's All Match Our Steps, Dance!\u200B</line-height>",
-                    "desc": "[WhenUse] Final Power +1 for every 5 [FestivalFever] on self or every 6 [Laceration] on the target (max 3)\n[WhenUse] At less than 20 [BloodDinner], gain 20 [Laceration] and immediately trigger it once, then reduce [Laceration] Count by 1\n[EndSkill] Consume 20 [BloodDinner]",
+                    "desc": "[WhenUse] Final Power +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (max 3)\n[WhenUse] At less than 20 [BloodDinner], gain 20 [Laceration] and immediately trigger it once, then reduce [Laceration] Count by 1\n[EndSkill] Consume 20 [BloodDinner]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 1 [HardenedBlood] for every 6 [Laceration] on the target (max 2)"
+                                    "desc": "[OnSucceedAttack] Gain 1 [HardenedBlood] for every 6 [Laceration]บนthe target (max 2)"
                                 }
                             ]
                         },
@@ -1116,7 +1116,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Lose Yourself in the Singing!\u200B</line-height>",
-                    "desc": "[WhenUse] At 5+ [FestivalFever], Coin Power +1\n[WhenUse] If the target has 6+ [Laceration], Clash Power +1",
+                    "desc": "[WhenUse] At 5+ [FestivalFever], เหรียญ Power +1\n[WhenUse] If the target has 6+ [Laceration], Clash Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1148,7 +1148,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict [Laceration] and [Burst] equal to [HardenedBlood] on self"
+                                    "desc": "[OnSucceedAttack] Inflict [Laceration] and [Burst] equal to [HardenedBlood]บนself"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Heal ([FestivalFever] x 4)% HP (max 40%)"

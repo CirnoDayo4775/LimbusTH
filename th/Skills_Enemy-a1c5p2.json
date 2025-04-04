@@ -165,7 +165,7 @@
                                     "desc": "[OnSucceedAttack] Heal by 40% of damage dealt"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, Damage Up, and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
+                                    "desc": "[OnSucceedAttack] Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, [AttackDmgUp], and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
                                 }
                             ]
                         },
@@ -242,7 +242,7 @@
                                     "desc": "[OnSucceedAttack] Heal by 40% of damage dealt"
                                 },
                                 {
-                                    "desc": "Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, Damage Up, and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
+                                    "desc": "Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, [AttackDmgUp], and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
                                 }
                             ]
                         },
@@ -322,14 +322,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, Damage Up, and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
+                                    "desc": "Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, [AttackDmgUp], and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 20 HP on self"
+                                    "desc": "[OnSucceedAttack] Heal 20 HPบนself"
                                 }
                             ]
                         }
@@ -458,7 +458,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.-.. .\u200B</line-height>",
-                    "desc": "[WhenUse] Apply 1 Damage Up to 1 other random Pallidified ally next turn",
+                    "desc": "[WhenUse] Apply 1 [AttackDmgUp] to 1 other random Pallidified ally next turn",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -480,7 +480,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.-.. .-\u200B</line-height>",
-                    "desc": "[WhenUse] Apply 1 Damage Up to 1 random Pallidified ally next turn",
+                    "desc": "[WhenUse] Apply 1 [AttackDmgUp] to 1 random Pallidified ally next turn",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -729,7 +729,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>We Remember!\u200B</line-height>",
-                    "desc": "[DefeatDuel] Gain 1 Damage Up next turn",
+                    "desc": "[DefeatDuel] Gain 1 [AttackDmgUp] next turn",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -800,7 +800,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Vengeance\u200B</line-height>",
-                    "desc": "[DefeatDuel] Gain 1 Damage Up next turn",
+                    "desc": "[DefeatDuel] Gain 1 [AttackDmgUp] next turn",
                     "coinlist": [
                         {},
                         {
@@ -809,7 +809,7 @@
                                     "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackTail] Raise Stagger Threshold by 8"
+                                    "desc": "[OnSucceedAttackTail] เพิ่มขีดStagger by 8"
                                 }
                             ]
                         }
@@ -828,7 +828,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30"
+                                    "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 30"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Deal 20 fixed HP damage"
@@ -867,7 +867,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Write Their Sins!\u200B</line-height>",
-                    "desc": "[DefeatDuel] Gain 1 Damage Up next turn",
+                    "desc": "[DefeatDuel] Gain 1 [AttackDmgUp] next turn",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -898,14 +898,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn"
+                                    "desc": "[OnSucceedAttackHead] Inflict 1 Plus เหรียญ Drop next turn"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Plus Coin Drop next turn"
+                                    "desc": "[OnSucceedAttack] Inflict 1 Plus เหรียญ Drop next turn"
                                 }
                             ]
                         }
@@ -938,7 +938,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Vengeance\u200B</line-height>",
-                    "desc": "[DefeatDuel] Gain 1 Damage Up next turn",
+                    "desc": "[DefeatDuel] Gain 1 [AttackDmgUp] next turn",
                     "coinlist": [
                         {},
                         {
@@ -947,7 +947,7 @@
                                     "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackTail] Raise Stagger Threshold by 8"
+                                    "desc": "[OnSucceedAttackTail] เพิ่มขีดStagger by 8"
                                 }
                             ]
                         }
@@ -966,7 +966,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30"
+                                    "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 30"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Deal 20 fixed HP damage"

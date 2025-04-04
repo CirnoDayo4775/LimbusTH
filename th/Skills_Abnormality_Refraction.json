@@ -174,7 +174,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Booting Town Tour\u200B</line-height>",
-                    "desc": "[WhenUse] Gain +4 Charge Count",
+                    "desc": "[WhenUse] Gain [Charge] +4 ขั้น",
                     "coinlist": [
                         {}
                     ]
@@ -193,7 +193,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn"
+                                    "desc": "[OnSucceedAttackHead] Inflict 1 Plus เหรียญ Drop next turn"
                                 }
                             ]
                         }
@@ -226,7 +226,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Processing Transfer Reg\u200B</line-height>",
-                    "desc": "[WhenUse] Spend all Charge Count",
+                    "desc": "[WhenUse]จ่าย all[Charge] Count",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -269,14 +269,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Spend 2 Charge to inflict 5 Burn"
+                                    "desc": "[OnSucceedAttack]จ่าย 2[Charge] to inflict 5 Burn"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Spend 2 Charge to inflict 5 Burn"
+                                    "desc": "[OnSucceedAttack]จ่าย 2[Charge] to inflict 5 Burn"
                                 }
                             ]
                         }
@@ -312,7 +312,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Processing Transfer Reg\u200B</line-height>",
-                    "desc": "[CantDuel]\n[CantChangeTarget]\nTargets unit with most HP\n[WhenUse] Spend all Charge",
+                    "desc": "[CantDuel]\n[CantChangeTarget]\nTargets unit with most HP\n[WhenUse]จ่าย all Charge",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -375,7 +375,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Forbid Entry\u200B</line-height>",
+                    "name": "<line-height=120%>ห้ามเข้าถึง\u200B</line-height>",
                     "desc": "[DefeatDuel] Heal 10 HP",
                     "coinlist": [
                         {
@@ -401,7 +401,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Suspicious Individuals\u200B</line-height>",
+                    "name": "<line-height=120%>บุคคลน่าสงสัย\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -420,7 +420,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Restrain\u200B</line-height>",
+                    "name": "<line-height=120%>ยับยั้ง\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {},
@@ -440,21 +440,21 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>No Trespassing\u200B</line-height>",
-                    "desc": "Targets the unit with the most HP",
+                    "name": "<line-height=120%>อย่าบุกรุก\u200B</line-height>",
+                    "desc": "เล็งเป้าหมายที่มีHP เยอะที่สุด",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "If Coin 1 lands Heads, +10% Damage"
+                                    "desc": "If เหรียญ 1 lands Heads, +10% Damage"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "If Coin 2 lands Heads, +10% Damage"
+                                    "desc": "If เหรียญ 2 lands Heads, +10% Damage"
                                 }
                             ]
                         },
@@ -526,7 +526,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Svāhā\u200B</line-height>",
-                    "desc": "[WhenUse] Give 3 Damage Up next turn",
+                    "desc": "[WhenUse] Give 3 [AttackDmgUp] next turn",
                     "coinlist": []
                 }
             ]
@@ -537,7 +537,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Prajñāpāramitā\u200B</line-height>",
-                    "desc": "[CantIdentify] Targets the unit with the most Karma\nDeal more damage based on target’s Karma (+2% per Count)\nIf target has no Karma, -50% Damage",
+                    "desc": "[CantIdentify] Targets the unit with the most Karma\nDeal more damage basedบนtarget’s Karma (+2% per Count)\nIf target has no Karma, -50% Damage",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -556,7 +556,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Dhyāna\u200B</line-height>",
-                    "desc": "[WinDuel] Halve negative status effects on this unit",
+                    "desc": "[WinDuel] Halve negative status effectsบนthis unit",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -675,7 +675,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Bodhi Svāhā\u200B</line-height>",
-                    "desc": "[WhenUse] Gain 10 Damage Up\nTargets Staggered enemies first",
+                    "desc": "[WhenUse] Gain 10 [AttackDmgUp]\nTargets Staggered enemies first",
                     "coinlist": []
                 }
             ]
@@ -749,7 +749,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn"
+                                    "desc": "[OnSucceedAttackHead] Inflict 1 Plus เหรียญ Drop next turn"
                                 }
                             ]
                         }
@@ -768,7 +768,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Plus Coin Drop next turn"
+                                    "desc": "[OnSucceedAttack] Inflict 2 Plus เหรียญ Drop next turn"
                                 }
                             ]
                         },

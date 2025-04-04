@@ -71,7 +71,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst.\nAmount of Stagger Threshold raised by Tremor Burst increases by 30% of Tremor on target.\nReduce Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst.\nAmount of Stagger Threshold raised by Tremor Burst increases by 30% of Tremorบนtarget.\nReduce Tremor Count by 1"
                 },
                 {
                   "desc": "[EndSkill] Gain 3 Bind and 1 Blunt Power Up next turn."
@@ -89,7 +89,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAmount of Stagger Threshold raised by Tremor Burst increases by 40% of Tremor on target.\nIf target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAmount of Stagger Threshold raised by Tremor Burst increases by 40% of Tremorบนtarget.\nIf target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce Tremor Count by 1"
                 },
                 {
                   "desc": "[EndSkill] Gain 3 Bind and 1 Blunt Power Up next turn."
@@ -107,7 +107,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAmount of Stagger Threshold raised by Tremor Burst increases by 50% of Tremor on target.\nIf target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAmount of Stagger Threshold raised by Tremor Burst increases by 50% of Tremorบนtarget.\nIf target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce Tremor Count by 1"
                 },
                 {
                   "desc": "[EndSkill] Gain 3 Bind and 1 Blunt Power Up next turn."
@@ -125,7 +125,7 @@
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[BeforeAttack] Gain +8 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max 3)",
+          "desc": "[BeforeAttack] Gain [Charge] +8 ขั้น\n[EndSkill] Apply [Charge] +8 ขั้น to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -140,7 +140,7 @@
           "level": 3,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[BeforeAttack] Gain +8 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max 4)\n- At 4+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies",
+          "desc": "[BeforeAttack] Gain [Charge] +8 ขั้น\n[EndSkill] Apply [Charge] +8 ขั้น to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max 4)\n- At 4+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies",
           "coinlist": [
             {
               "coindescs": [
@@ -155,7 +155,7 @@
           "level": 4,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[BeforeAttack] Gain +12 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max <style=\"highlight\">5</style>)\n- At 4+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies\n<style=\"highlight\">- At 6+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies</style>",
+          "desc": "[BeforeAttack] Gain [Charge] +2 ขั้น\n[EndSkill] Apply [Charge] +8 ขั้น to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max <style=\"highlight\">5</style>)\n- At 4+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies\n<style=\"highlight\">- At 6+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -175,7 +175,7 @@
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max 2)\n[BeforeAttack] If this unit has 10+ [Charge] Count, spend up to 20 [Charge] Count; deal +2% more damage for every [Charge] Count consumed (max 40%)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max 2)\n[BeforeAttack] If this unit has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; deal +2% more damage for every [Charge] Count consumed (max 40%)",
           "coinlist": [
             {
               "coindescs": [
@@ -193,7 +193,7 @@
           "level": 3,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max <style=\"highlight\">3</style>)\n[BeforeAttack] If this unit has 10+ [Charge] Count, spend up to 20 [Charge] Count; deal +<style=\"highlight\">2.5</style>% more damage for every [Charge] Count consumed (max <style=\"highlight\">50</style>%)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max <style=\"highlight\">3</style>)\n[BeforeAttack] If this unit has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; deal +<style=\"highlight\">2.5</style>% more damage for every [Charge] Count consumed (max <style=\"highlight\">50</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -211,7 +211,7 @@
           "level": 4,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max 3)\n<style=\"highlight\">[BeforeAttack] At 10+ [Charge] Count, apply the effects applied from 'On Hit' twice</style>\n[BeforeAttack] If this unit has 10+ [Charge] Count, spend up to 20 [Charge] Count; deal +<style=\"highlight\">3</style>% more damage for every [Charge] Count consumed (max <style=\"highlight\">60</style>%)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max 3)\n<style=\"highlight\">[BeforeAttack] At 10+ [Charge] Count, apply the effects applied from 'On Hit' twice</style>\n[BeforeAttack] If this unit has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; deal +<style=\"highlight\">3</style>% more damage for every [Charge] Count consumed (max <style=\"highlight\">60</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -269,7 +269,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate [Laceration] on target once (target loses 1 [Laceration] Count)"
+                  "desc": "[WinDuelAttack] Activate [Laceration]บนtarget once (target loses 1 [Laceration] Count)"
                 }
               ]
             }
@@ -279,7 +279,7 @@
           "level": 3,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "<style=\"highlight\">If target has 6+ [Laceration], เหรียญ Power +1</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
           "coinlist": [
             {
               "coindescs": [
@@ -287,7 +287,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ highest Reson., activate [Laceration]บนtarget once (target loses 1 [Laceration] Count)</style>"
                 }
               ]
             },
@@ -297,7 +297,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ highest Reson., activate [Laceration]บนtarget once (target loses 1 [Laceration] Count)</style>"
                 }
               ]
             },
@@ -330,7 +330,7 @@
           "level": 4,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "<style=\"highlight\">เหรียญ Power +1 for every 6 [Laceration]บนtarget (max 2)</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
           "coinlist": [
             {
               "coindescs": [
@@ -338,7 +338,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 4+ highest Reson., activate [Laceration]บนtarget once (target loses 1 [Laceration] Count)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -348,7 +348,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 4+ highest Reson., activate [Laceration]บนtarget once (target loses 1 [Laceration] Count)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -389,19 +389,19 @@
           "level": 1,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] Consume up to 10% of this unit's max HP and deal (HP consumed / 2) damage to all enemies and allies\n- At less than 50% of this unit's max HP, inflict and activate 5 [Laceration] on all allies once instead (lose 1 [Laceration] Count). Heal HP equal to the amount of [Laceration] damage dealt to allies",
+          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] Consume up to 10% of this unit's max HP and deal (HP consumed / 2) damage to all enemies and allies\n- At less than 50% of this unit's max HP, inflict and activate 5 [Laceration]บนall allies once instead (lose 1 [Laceration] Count). Heal HP equal toจำนวนof [Laceration] damage dealt to allies",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] on self and the target"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]บนself and the target"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] on self and the target"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]บนself and the target"
                 }
               ]
             },
@@ -427,7 +427,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate [Laceration] on target once (target loses 1 [Laceration] Count)"
+                  "desc": "[WinDuelAttack] Activate [Laceration]บนtarget once (target loses 1 [Laceration] Count)"
                 }
               ]
             }
@@ -437,19 +437,19 @@
           "level": 3,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">At 6+ (sum of [Laceration] on self and the target), Coin Power +1</style>\n[WhenUse] Consume up to 10% of this unit's max HP and deal (HP consumed / 2) damage to all enemies and allies\n- At less than 50% of this unit's max HP, inflict and activate 5 [Laceration] on all allies once instead (lose 1 [Laceration] Count). Heal HP equal to the amount of [Laceration] damage dealt to allies",
+          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">At 6+ (sum of [Laceration]บนself and the target), เหรียญ Power +1</style>\n[WhenUse] Consume up to 10% of this unit's max HP and deal (HP consumed / 2) damage to all enemies and allies\n- At less than 50% of this unit's max HP, inflict and activate 5 [Laceration]บนall allies once instead (lose 1 [Laceration] Count). Heal HP equal toจำนวนof [Laceration] damage dealt to allies",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration] on self and the target"
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration]บนself and the target"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration] on self and the target"
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration]บนself and the target"
                 }
               ]
             },
@@ -485,25 +485,25 @@
           "level": 4,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\nCoin Power +1 for every 6 (sum of [Laceration] on self and the target) <style=\"highlight\">(max 3)</style>\n[WhenUse] Consume up to 10% of this unit's max HP and deal (HP consumed / 2) damage to all enemies and allies\n- At less than 50% of this unit's max HP, inflict and activate 5 [Laceration] on all allies instead (lose 1 [Laceration] Count). Heal HP equal to the amount of [Laceration] damage dealt to allies",
+          "desc": "[CantIdentify]\nTargets randomly\nเหรียญ Power +1 for every 6 (sum of [Laceration]บนself and the target) <style=\"highlight\">(max 3)</style>\n[WhenUse] Consume up to 10% of this unit's max HP and deal (HP consumed / 2) damage to all enemies and allies\n- At less than 50% of this unit's max HP, inflict and activate 5 [Laceration]บนall allies instead (lose 1 [Laceration] Count). Heal HP equal toจำนวนof [Laceration] damage dealt to allies",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] on self and the target<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]บนself and the target<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration] on self and the target once (both lose 1 [Laceration] Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration]บนself and the target once (both lose 1 [Laceration] Count)</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] on self and the target<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]บนself and the target<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration] on self and the target once (both lose 1 [Laceration] Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration]บนself and the target once (both lose 1 [Laceration] Count)</style>"
                 }
               ]
             },

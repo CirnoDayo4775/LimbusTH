@@ -860,7 +860,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>High-voltage Electric Discharge\u200B</line-height>",
-          "desc": "At 11+ Self-charge, deal +10% Damage for each Count of Self-charge over 10\nSpend all Self-charge",
+          "desc": "At 11+ Self-charge, deal +10% Damageต่อทุกขั้นที่จ่ายไป of Self-charge over 10\nSpend all Self-charge",
           "coinlist": [
             {
               "coindescs": [
@@ -889,7 +889,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Coil Up\u200B</line-height>",
-          "desc": "If this skill is on a slot, gain Shield by the head's current HP",
+          "desc": "If this skill isบนa slot, gain Shield by the head's current HP",
           "coinlist": [
             {}
           ]
@@ -902,7 +902,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wriggling Head\u200B</line-height>",
-          "desc": "Targets the enemy with the least HP\n[WhenUse] Spend 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge",
+          "desc": "Targets the enemy with the least HP\n[WhenUse]จ่าย 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge",
           "coinlist": [
             {},
             {
@@ -922,7 +922,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wriggling Tail\u200B</line-height>",
-          "desc": "Targets the enemy with the least HP\n[WhenUse] Spend 2 Self-charge\n[DefeatDuel] Lose 3 Self-charge",
+          "desc": "Targets the enemy with the least HP\n[WhenUse]จ่าย 2 Self-charge\n[DefeatDuel] Lose 3 Self-charge",
           "coinlist": [
             {},
             {},
@@ -1091,7 +1091,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Entangling Talisman\u200B</line-height>",
-          "desc": "[WhenUse] Inflict 2 Entangled Curse Talisman",
+          "desc": "[WhenUse] Inflict 2 [WrappedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
@@ -1110,12 +1110,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Cumulating Curse\u200B</line-height>",
-          "desc": "[WhenUse] Inflict 1 Entangled Curse Talisman",
+          "desc": "[WhenUse] Inflict 1 [WrappedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Entangled Curse Talisman by target's Entangled Curse Talisman"
+                  "desc": "[OnSucceedAttack] Inflict [WrappedCurseTag] by target's [WrappedCurseTag]"
                 }
               ]
             },
@@ -1143,7 +1143,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>So That No One Will Cry\u200B</line-height>",
-          "desc": "[EndBattle] Remove all Reattached Curse Talisman",
+          "desc": "[EndBattle] Remove all [ReattachedCurseTag]",
           "coinlist": [
             {},
             {},
@@ -1169,7 +1169,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Transferring Talisman\u200B</line-height>",
-          "desc": "[WhenUse] Remove all Entangled Curse Talisman from target; Gain the same amount of Reattached Curse Talisman",
+          "desc": "[WhenUse] Remove all [WrappedCurseTag] from target; Gain the same amount of [ReattachedCurseTag]",
           "coinlist": [
             {}
           ]
@@ -1181,8 +1181,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Proliferating Curse\u200B</line-height>",
-          "desc": "[WhenUse] Inflict Entangled Curse Talisman by target's Entangled Curse Talisman",
+          "name": "<line-height=120%>แพร่พันธุ์คำสาป\u200B</line-height>",
+          "desc": "[WhenUse] Inflict [WrappedCurseTag] by target's [WrappedCurseTag]",
           "coinlist": [
             {}
           ]
@@ -1258,7 +1258,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Morale Boost, deal +10% damage for each Count"
+                  "desc": "[OnSucceedAttack] If target has Morale Boost, deal +10% damageต่อทุกขั้นที่จ่ายไป"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has Tipsy, deal 0 damage, and user loses 50 HP"
@@ -1283,7 +1283,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Morale Boost, deal +100% damage for each Count"
+                  "desc": "[OnSucceedAttack] If target has Morale Boost, deal +100% damageต่อทุกขั้นที่จ่ายไป"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has Tipsy, deal 0 damage, and user loses 50 HP"
@@ -1621,7 +1621,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 20% of damage dealt"
                 }
               ]
             },
@@ -1631,7 +1631,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 20% of damage dealt"
                 }
               ]
             },
@@ -1641,7 +1641,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 20% of damage dealt"
                 }
               ]
             }
@@ -1663,7 +1663,7 @@
                   "desc": "[OnSucceedAttack] Target loses 15 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 50% of damage dealt"
                 }
               ]
             }

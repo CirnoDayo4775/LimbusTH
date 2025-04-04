@@ -290,7 +290,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>High-voltage Electric Discharge\u200B</line-height>",
-          "desc": "[WhenUse] At 5+ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>, deal +20% damage for each Count of <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u> over 5\n[WhenUse] Clash Power +1 for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>\n[WhenUse] Spend all Self-charge",
+          "desc": "[WhenUse] At 5+ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>, deal +20% damageต่อทุกขั้นที่จ่ายไป of <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u> over 5\n[WhenUse] Clash Power +1 for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>\n[WhenUse]จ่าย all Self-charge",
           "coinlist": [
             {
               "coindescs": [
@@ -316,7 +316,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Coil Up\u200B</line-height>",
-          "desc": "If this Skill is on a slot, head gains 50 Shield HP for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>.\nIf the head is broken, gain 25 Shield HP for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge instead.</color></link></u>\nSpend 1 Self-charge for every amount of Shield HP lost equal to the Shield HP gained for every Self-charge",
+          "desc": "If this Skill isบนa slot, head gains 50 Shield HP for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>.\nIf the head is broken, gain 25 Shield HP for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge instead.</color></link></u>\nSpend 1 Self-charge for every amount of Shield HP lost equal to the Shield HP gained for every Self-charge",
           "coinlist": [
             {}
           ]
@@ -329,7 +329,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wriggling Head\u200B</line-height>",
-          "desc": "Targets the enemy with the least HP\n[WhenUse] Spend 1 Self-charge\n[DefeatDuel] Lose 1 Self-charge",
+          "desc": "Targets the enemy with the least HP\n[WhenUse]จ่าย 1 Self-charge\n[DefeatDuel] Lose 1 Self-charge",
           "coinlist": [
             {},
             {
@@ -349,7 +349,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wriggling Tail\u200B</line-height>",
-          "desc": "Targets the enemy with the least HP\n[WhenUse] Spend 1 Self-charge\n[DefeatDuel] Lose 2 Self-charge",
+          "desc": "Targets the enemy with the least HP\n[WhenUse]จ่าย 1 Self-charge\n[DefeatDuel] Lose 2 Self-charge",
           "coinlist": [
             {},
             {},
@@ -426,7 +426,7 @@
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] by target's Tremor Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend all of target's Tremor"
+                  "desc": "[OnSucceedAttack]จ่าย all of target's Tremor"
                 }
               ]
             }
@@ -516,7 +516,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Entangling Talisman\u200B</line-height>",
-          "desc": "[WhenUse] Inflict 3 Entangled Curse Talisman",
+          "desc": "[WhenUse] Inflict 3 [WrappedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
@@ -535,7 +535,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Cumulating Curse\u200B</line-height>",
-          "desc": "[WhenUse] Inflict Entangling Talisman equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangling Talisman</color></link></u> on target",
+          "desc": "[WhenUse] Inflict Entangling Talisman equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangling Talisman</color></link></u>บนtarget",
           "coinlist": [
             {},
             {
@@ -562,7 +562,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>So That No One Will Cry\u200B</line-height>",
-          "desc": "[EndBattle] Remove all Reattached Curse Talisman\n[WhenUse] If at 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">Reattached Curse Talisman</color></link></u>, -1 Coin Power",
+          "desc": "[EndBattle] Remove all [ReattachedCurseTag]\n[WhenUse] If at 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">[ReattachedCurseTag]</color></link></u>, -1 เหรียญ Power",
           "coinlist": [
             {
               "coindescs": [
@@ -612,7 +612,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Transferring Talisman\u200B</line-height>",
-          "desc": "[WhenUse] Remove all <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangled Curse Talisman</color></link></u> from target.\nGain Reattached Curse Talisman equal to number of Entangled Curse removed\n[StartBattle] All parts gain 3 Protection",
+          "desc": "[WhenUse] Remove all <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">[WrappedCurseTag]</color></link></u> from target.\nGain [ReattachedCurseTag] equal to number of Entangled Curse removed\n[StartBattle] All parts gain 3 Protection",
           "coinlist": [
             {
               "coindescs": [
@@ -630,8 +630,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Proliferating Curse\u200B</line-height>",
-          "desc": "[WhenUse] Inflict Entangling Talisman equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangling Talisman</color></link></u> on target",
+          "name": "<line-height=120%>แพร่พันธุ์คำสาป\u200B</line-height>",
+          "desc": "[WhenUse] Inflict Entangling Talisman equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangling Talisman</color></link></u>บนtarget",
           "coinlist": [
             {
               "coindescs": [
@@ -731,10 +731,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +5% damage for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> on target"
+                  "desc": "[OnSucceedAttack] Deal +5% damage for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>บนtarget"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend all of target's Bleed"
+                  "desc": "[OnSucceedAttack]จ่าย all of target's Bleed"
                 }
               ]
             }
@@ -753,10 +753,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 1% of Max HP for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> on target"
+                  "desc": "[OnSucceedAttack] Heal 1% of Max HP for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>บนtarget"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 1 Bleed Count from target"
+                  "desc": "[OnSucceedAttack]จ่าย 1 Bleed Count from target"
                 }
               ]
             }
@@ -826,7 +826,7 @@
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] by target's Tremor Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend all of target's Tremor"
+                  "desc": "[OnSucceedAttack]จ่าย all of target's Tremor"
                 }
               ]
             }
@@ -990,7 +990,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +5% damage per 5 Rupture Count on target"
+                  "desc": "[OnSucceedAttack] Deal +5% damage per 5 Rupture Countบนtarget"
                 }
               ]
             }
@@ -1042,7 +1042,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dimensional Slice\u200B</line-height>",
-          "desc": "[WhenUse] Gain +3 Charge Count\n[DefeatDuel] Spend 2 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +3 ขั้น\n[DefeatDuel]จ่าย [Charge] 2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1061,7 +1061,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Consecutive Dimensional Slice\u200B</line-height>",
-          "desc": "[WhenUse] Gain +3 Charge Count\n[DefeatDuel] Spend 2 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +3 ขั้น\n[DefeatDuel]จ่าย [Charge] 2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1087,7 +1087,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Discharge Byproducts\u200B</line-height>",
-          "desc": "[DefeatDuel] Spend 2 Charge Count",
+          "desc": "[DefeatDuel]จ่าย [Charge] 2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1106,12 +1106,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Rip Space\u200B</line-height>",
-          "desc": "At 10+ Charge Count, spend 10 Charge Count and gain Clash Power +5 and deal +100% damage\nAt 10- Charge Count, spend 100 Core HP and deal +80% damage\nThis skill does not reduce the unit's HP to 0.",
+          "desc": "เมื่อมี [Charge] 10+ ขั้น,จ่าย [Charge] 10 ขั้น and gain Clash Power +5 and deal +100% damage\nAt 10-[Charge] Count,จ่าย 100 Core HP and deal +80% damage\nThis skill does not reduce the unit's HP to 0.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 3 Dimensional Rift"
@@ -1121,7 +1121,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 3 Dimensional Rift"
@@ -1138,7 +1138,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Prepared Retribution\u200B</line-height>",
-          "desc": "[WhenUse] Gain +1 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1164,7 +1164,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Vomit Byproducts\u200B</line-height>",
-          "desc": "[WhenUse] If target has Dimensional Rift, deal +10% damage\n[DefeatDuel] Spend 2 Charge Count",
+          "desc": "[WhenUse] If target has Dimensional Rift, deal +10% damage\n[DefeatDuel]จ่าย [Charge] 2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1183,7 +1183,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>High-speed Rip Space\u200B</line-height>",
-          "desc": "Gain Clash Power equal to the number of Dimensional Rift effect with the highest stack\nDeal +10% damage for every Dimensional Rift effect on self",
+          "desc": "Gain Clash Power equal to the number of Dimensional Rift effect with the highest stack\nDeal +10% damage for every Dimensional Rift effectบนself",
           "coinlist": [
             {
               "coindescs": [
@@ -1239,13 +1239,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Interlocking Moment\u200B</line-height>",
-          "desc": "[DefeatDuel] Spend 2 Charge Count",
+          "name": "<line-height=120%>ผนึกโซ่ช่วงเวลา\u200B</line-height>",
+          "desc": "[DefeatDuel]จ่าย [Charge] 2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Interlocking Time"
+                  "desc": "[OnSucceedAttack] Inflict 1 [InterlockingTime]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
@@ -1261,8 +1261,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Siphon Time\u200B</line-height>",
-          "desc": "Skill Power +1 for every 3 Charge Count\n[WhenUse] Gain +4 Charge Count",
+          "name": "<line-height=120%>รักษาเวลา\u200B</line-height>",
+          "desc": "Skill Power +1 for every [Charge] 3 ขั้น\n[WhenUse] Gain [Charge] +4 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1283,13 +1283,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Accelerating Moment\u200B</line-height>",
-          "desc": "Skill Power +1 for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>\n[DefeatDuel] Spend 3 Charge Count",
+          "name": "<line-height=120%>เร่งช่วงเวลา\u200B</line-height>",
+          "desc": "Skill Power +1 for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>\n[DefeatDuel]จ่าย [Charge] 3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Interlocking Time"
+                  "desc": "[OnSucceedAttack] Inflict 2 [InterlockingTime]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
@@ -1302,7 +1302,7 @@
                   "desc": "[OnSucceedAttack] Deal +20% damage for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +4 ขั้น"
                 }
               ]
             }
@@ -1316,7 +1316,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Charged Defense\u200B</line-height>",
-          "desc": "[StartBattle] Gain +1 Charge Count",
+          "desc": "[StartBattle] Gain [Charge] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1385,7 +1385,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 50% of damage dealt"
                 },
                 {
                   "desc": "[OnSucceedAttack] Deal +1% damage for every <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (Max 50%)"
@@ -1407,7 +1407,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold equal to [Breath]"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger equal to [Breath]"
                 }
               ]
             },
@@ -1431,12 +1431,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>6475384\u200B</line-height>",
-          "desc": "At 7+ [Breath], Coin Power +1",
+          "desc": "At 7+ [Breath], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 5+ [Breath], raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] At 5+ [Breath], เพิ่มขีดStagger by 50% of damage dealt"
                 },
                 {
                   "desc": "[OnSucceedAttack] All Parts gain 8 [Breath] and +4 [Breath] Count"
@@ -1472,7 +1472,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>To the Garden of Infinity\u200B</line-height>",
-          "desc": "[CantDuel]\n[WhenUse] Apply Crown of Thorns and eliminate all effects on self\nIf Core has less than 40% HP, Roses will spawn in Power-up States",
+          "desc": "[CantDuel]\n[WhenUse] Apply Crown of Thorns and eliminate all effectsบนself\nIf Core has less than 40% HP, Roses will spawn in Power-up States",
           "coinlist": [
             {}
           ]
@@ -1598,7 +1598,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wishing for Eternity\u200B</line-height>",
-          "desc": "[StartBattle] Apply 1 Attack Power Up to 1 random Rose next turn\nIf attacked while Shielded, inflict 1 Sinking on the attacker",
+          "desc": "[StartBattle] Apply 1 Attack Power Up to 1 random Rose next turn\nIf attacked while Shielded, inflict 1 Sinkingบนthe attacker",
           "coinlist": [
             {
               "coindescs": [
@@ -1617,7 +1617,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Here, With You\u200B</line-height>",
-          "desc": "[StartBattle] Apply 1 Defense Power Up to 1 random Rose next turn\nIf attacked while Shielded, inflict 1 Sinking on the attacker",
+          "desc": "[StartBattle] Apply 1 Defense Power Up to 1 random Rose next turn\nIf attacked while Shielded, inflict 1 Sinkingบนthe attacker",
           "coinlist": [
             {
               "coindescs": [
@@ -1811,7 +1811,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Slumbering Sloth\u200B</line-height>",
-          "desc": "If attacked while Shielded, trigger Tremor Burst on self and the attacker",
+          "desc": "If attacked while Shielded, trigger Tremor Burstบนself and the attacker",
           "coinlist": [
             {
               "coindescs": [
@@ -1953,7 +1953,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Embracing Gloom\u200B</line-height>",
-          "desc": "If attacked while Shielded, inflict +1 Sinking Count on self and the attacker",
+          "desc": "If attacked while Shielded, inflict +1 Sinking Countบนself and the attacker",
           "coinlist": [
             {
               "coindescs": [
@@ -2017,7 +2017,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Touchy Pride\u200B</line-height>",
-          "desc": "At 5+ Poise, Coin Power +3",
+          "desc": "At 5+ Poise, เหรียญ Power +3",
           "coinlist": [
             {
               "coindescs": [
@@ -2036,19 +2036,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Heaping Envy\u200B</line-height>",
-          "desc": "[WhenUse] Gain +3 Charge Count\n[DefeatDuel] Spend 3 Charge Count",
+          "desc": "[WhenUse] Gain [Charge] +3 ขั้น\n[DefeatDuel]จ่าย [Charge] 3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +1 ขั้น"
                 }
               ]
             }
@@ -2062,7 +2062,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Spreading Envy\u200B</line-height>",
-          "desc": "[WhenUse] Spend 10 Charge to gain +4 Coin Power",
+          "desc": "[WhenUse]จ่าย 10[Charge] to gain +4 เหรียญ Power",
           "coinlist": [
             {
               "coindescs": [
@@ -2120,7 +2120,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dimensional Leap\u200B</line-height>",
-          "desc": "If this Dimensional Rift remains, Coin Power +1",
+          "desc": "If this Dimensional Rift remains, เหรียญ Power +1",
           "coinlist": [
             {}
           ]
@@ -2133,7 +2133,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>So That No One Will Cry\u200B</line-height>",
-          "desc": "[EndBattle] Remove all Reattached Curse Talisman\n[WhenUse] If at 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">Reattached Curse Talisman</color></link></u>, -1 Coin Power",
+          "desc": "[EndBattle] Remove all [ReattachedCurseTag]\n[WhenUse] If at 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">[ReattachedCurseTag]</color></link></u>, -1 เหรียญ Power",
           "coinlist": [
             {
               "coindescs": [

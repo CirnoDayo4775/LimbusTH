@@ -96,7 +96,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>6:5\u200B</line-height>",
-          "desc": "[CantDuel][CantChangeTarget]\nTake damage in the target's place. Get staggered next turn.\nInflict Marked on a random enemy without [AaCePcBa].\n[EndBattle] All Candles heal to max HP",
+          "desc": "[CantDuel][CantChangeTarget]\nTake damage in the target's place. Get staggered next turn.\nInflict Markedบนa random enemy without [AaCePcBa].\n[EndBattle] All Candles heal to max HP",
           "coinlist": [
             {
               "coindescs": [
@@ -104,7 +104,7 @@
                   "desc": "[OnSucceedAttack] This unit's max HP decreases by 10%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Burn on self"
+                  "desc": "[OnSucceedAttack] Inflict 10 Burnบนself"
                 }
               ]
             },
@@ -114,7 +114,7 @@
                   "desc": "[OnSucceedAttack] This unit's max HP decreases by 10%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Burn on self"
+                  "desc": "[OnSucceedAttack] Inflict 10 Burnบนself"
                 }
               ]
             }
@@ -235,7 +235,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Defense Level Down by [Poison] on target"
+                  "desc": "[OnSucceedAttack] Inflict Defense Level Down by [Poison]บนtarget"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 1 Larva"
@@ -245,7 +245,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Defense Level Down by [Poison] on target"
+                  "desc": "[OnSucceedAttack] Inflict Defense Level Down by [Poison]บนtarget"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 1 Larva"
@@ -598,7 +598,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wriggle\u200B</line-height>",
-          "desc": "[StartBattle] Spend all Blind Obsession\n[StartBattle] Destroy all Flotsam and destroyed Flotsam",
+          "desc": "[StartBattle]จ่าย all Blind Obsession\n[StartBattle] Destroy all Flotsam and destroyed Flotsam",
           "coinlist": [
             {
               "coindescs": [
@@ -636,7 +636,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tear Up Wound\u200B</line-height>",
-          "desc": "[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration] on target",
+          "desc": "[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration]บนtarget",
           "coinlist": [
             {
               "coindescs": [
@@ -788,7 +788,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Carve Wound\u200B</line-height>",
-          "desc": "[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration] on target",
+          "desc": "[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration]บนtarget",
           "coinlist": [
             {
               "coindescs": [
@@ -1025,7 +1025,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Stalk Prey\u200B</line-height>",
-          "desc": "+30% Damage on Critical Hit",
+          "desc": "+30% DamageบนCritical Hit",
           "coinlist": [
             {
               "coindescs": [
@@ -1061,12 +1061,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Cut Throat\u200B</line-height>",
-          "desc": "This Skill does not consume Poise Count upon Critical Hit.\nDeal +5% more damage for every [Laceration] on target\n[WhenUse] Staggered at Turn End if this unit does not have Poise on self.",
+          "desc": "This Skill does not consume Poise Count upon Critical Hit.\nDeal +5% more damage for every [Laceration]บนtarget\n[WhenUse] Staggered at Turn End if this unit does not have Poiseบนself.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "+50% DamageบนCritical Hit"
                 },
                 {
                   "desc": "[OnSucceedAttack] Stagger target next turn"
@@ -1083,7 +1083,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Deep Breathing\u200B</line-height>",
-          "desc": "[StartBattle] Gain 3 Poise and +5 Poise Count.\nFor this turn, gain Final Power equal to Poise Potency on self.\nFor this turn, lose 1 Poise Count when attacked.",
+          "desc": "[StartBattle] Gain 3 Poise and +5 Poise Count.\nFor this turn, gain Final Power equal to Poise Potencyบนself.\nFor this turn, lose 1 Poise Count when attacked.",
           "coinlist": [
             {
               "coindescs": [
@@ -1100,7 +1100,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>To Survive\u200B</line-height>",
-          "desc": "+30% Damage on Critical Hit",
+          "desc": "+30% DamageบนCritical Hit",
           "coinlist": [
             {
               "coindescs": [
@@ -1179,12 +1179,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Must Finish Hunt...\u200B</line-height>",
-          "desc": "Critical Hits do not consume Poise Count with this Skill.\nDeal +5% damage per [Laceration] on target",
+          "desc": "Critical Hits do not consume Poise Count with this Skill.\nDeal +5% damage per [Laceration]บนtarget",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "+50% DamageบนCritical Hit"
                 },
                 {
                   "desc": "[OnSucceedAttack] Stagger target next turn"
@@ -1249,7 +1249,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Reuse this Coin once (Max 3)"
+                  "desc": "[OnSucceedAttackHead] Reuse this เหรียญ once (Max 3)"
                 }
               ]
             }
@@ -1282,7 +1282,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ambush\u200B</line-height>",
-          "desc": "Deal 50% more damage with Critical Hit\nDeal +5% more damage per [Laceration] on target",
+          "desc": "Deal 50% more damage with Critical Hit\nDeal +5% more damage per [Laceration]บนtarget",
           "coinlist": [
             {
               "coindescs": [
@@ -1355,7 +1355,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Reuse this Coin once (Max 3)"
+                  "desc": "[OnSucceedAttackTail] Reuse this เหรียญ once (Max 3)"
                 }
               ]
             }
@@ -1369,7 +1369,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>To Escape...\u200B</line-height>",
-          "desc": "Deal 100% more damage with Critical Hit\nDeal +5% more damage per [Laceration] on target",
+          "desc": "Deal 100% more damage with Critical Hit\nDeal +5% more damage per [Laceration]บนtarget",
           "coinlist": [
             {
               "coindescs": [
@@ -1468,7 +1468,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Burning Harpoon\u200B</line-height>",
-          "desc": "Final Power +1 for every negative effect on main target (Max 5)\nDeal +5% damage per [Laceration] on target",
+          "desc": "Final Power +1 for every negative effectบนmain target (Max 5)\nDeal +5% damage per [Laceration]บนtarget",
           "coinlist": [
             {
               "coindescs": [
@@ -1487,7 +1487,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Burn by Bleed on target"
+                  "desc": "[OnSucceedAttack] Inflict Burn by Bleedบนtarget"
                 }
               ]
             }
@@ -1537,7 +1537,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Be Fearless!\u200B</line-height>",
-          "desc": "[WhenUse] Heal 10 SP on self. 1 other ally with the highest SP loses 10 SP",
+          "desc": "[WhenUse] Heal 10 SPบนself. 1 other ally with the highest SP loses 10 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1579,7 +1579,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tempering of Death\u200B</line-height>",
-          "desc": "[WhenUse] Apply Undefiable Command to 1 ally with the lowest SP\n[DefeatDuel] Raise Stagger Threshold by 20 for 1 ally with the lowest SP",
+          "desc": "[WhenUse] Apply Undefiable Command to 1 ally with the lowest SP\n[DefeatDuel] เพิ่มขีดStagger by 20 for 1 ally with the lowest SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1669,7 +1669,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Murky Innocence\u200B</line-height>",
-          "desc": "[DefeatDuel] Gain 2 Defense Power Down. Lose 10 SP on self",
+          "desc": "[DefeatDuel] Gain 2 Defense Power Down. Lose 10 SPบนself",
           "coinlist": [
             {
               "coindescs": [
@@ -1709,7 +1709,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Pallid Noise"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30 "
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 30 "
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Target loses 10 SP"
@@ -1784,7 +1784,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Echoing Cry\u200B</line-height>",
-          "desc": "Deal +5% damage for every 1 Bleed on target\nIf target does not have Prey Mark, Coin Power +1\n[DefeatDuel] Lose 5 SP",
+          "desc": "Deal +5% damage for every 1 Bleedบนtarget\nIf target does not have Prey Mark, เหรียญ Power +1\n[DefeatDuel] Lose 5 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1792,7 +1792,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Bleed"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies"
+                  "desc": "[OnSucceedAttack] Inflict 3 SP damageบน3 random enemies"
                 }
               ]
             },
@@ -1802,7 +1802,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Bleed"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies"
+                  "desc": "[OnSucceedAttack] Inflict 3 SP damageบน3 random enemies"
                 }
               ]
             },
@@ -1812,7 +1812,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Bleed"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies"
+                  "desc": "[OnSucceedAttack] Inflict 3 SP damageบน3 random enemies"
                 }
               ]
             },
@@ -1822,7 +1822,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Bleed"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies"
+                  "desc": "[OnSucceedAttack] Inflict 3 SP damageบน3 random enemies"
                 }
               ]
             },
@@ -1832,10 +1832,10 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Bleed"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies"
+                  "desc": "[OnSucceedAttack] Inflict 3 SP damageบน3 random enemies"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reuse the final Coin once for every 10 Starbuck's Ego"
+                  "desc": "[OnSucceedAttack] Reuse the final เหรียญ once for every 10 Starbuck's Ego"
                 }
               ]
             }
@@ -1938,7 +1938,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion] and 2 [Combustion] Count on target"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion] and 2 [Combustion] Countบนtarget"
                 }
               ]
             }

@@ -58,7 +58,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Erupting Wrath\u200B</line-height>",
-          "desc": "[WhenUse] Coin Power +1 for every 5 [Combustion] on target (max 3)\n[WinDuel] If the target has 9+ [Combustion], this Skill gains Atk Weight +1",
+          "desc": "[WhenUse] เหรียญ Power +1 for every 5 [Combustion]บนtarget (max 3)\n[WinDuel] If the target has 9+ [Combustion], this Skill gains Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
@@ -80,7 +80,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Counter\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 5+ [Combustion], Coin Power +2\n[WhenUse] If the target has 6+ [Combustion], reuse this Skill (2 times max)",
+          "desc": "[WhenUse] If the target has 5+ [Combustion], เหรียญ Power +2\n[WhenUse] If the target has 6+ [Combustion], reuse this Skill (2 times max)",
           "coinlist": [
             {
               "coindescs": [
@@ -197,14 +197,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If the target has 4+ [Laceration], the next Coin deals +20% more damage"
+                  "desc": "[OnSucceedAttackHead] If the target has 4+ [Laceration], the next เหรียญ deals +20% more damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 3+ negative effects, reuse this coin (1 time max)"
+                  "desc": "[OnSucceedAttack] If the target has 3+ negative effects, reuse this เหรียญ (1 time max)"
                 }
               ]
             }
@@ -218,7 +218,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bodysack\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration] on target (max 3)\n[WhenUse] Clash Power +1 for every negative effect on target (max 2)\n[DefeatDuel] Gain 20 [DefenseDown]\n[DefeatDuel] Gain 1 Fettered Woe",
+          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration]บนtarget (max 3)\n[WhenUse] Clash Power +1 for every negative effectบนtarget (max 2)\n[DefeatDuel] Gain 20 [DefenseDown]\n[DefeatDuel] Gain 1 Fettered Woe",
           "coinlist": [
             {
               "coindescs": [
@@ -226,7 +226,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] If the target has 8+ [Laceration], the last Coin deals +30% more damage"
+                  "desc": "[OnSucceedAttackHead] If the target has 8+ [Laceration], the last เหรียญ deals +30% more damage"
                 }
               ]
             },
@@ -236,7 +236,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] If the target has 8+ [Laceration], the last Coin deals +30% more damage"
+                  "desc": "[OnSucceedAttackHead] If the target has 8+ [Laceration], the last เหรียญ deals +30% more damage"
                 }
               ]
             },
@@ -246,7 +246,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] If the target has 8+ [Laceration], the last Coin deals +30% more damage"
+                  "desc": "[OnSucceedAttackHead] If the target has 8+ [Laceration], the last เหรียญ deals +30% more damage"
                 }
               ]
             },
@@ -267,7 +267,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Lunacy of the Frenzied Wolf\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration] on target (max 4)\n[WhenUse] Clash Power +1 for every negative effect on target (max 2)\n[DefeatDuel] If the target has [AaCfPcBg], raise this unit's Stagger Threshold by 100 next turn. If this unit does not have a Stagger threshold, create a new Stagger threshold at 0.",
+          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration]บนtarget (max 4)\n[WhenUse] Clash Power +1 for every negative effectบนtarget (max 2)\n[DefeatDuel] If the target has [AaCfPcBg], raise this unit's Stagger Threshold by 100 next turn. If this unit does not have a Stagger threshold, create a new Stagger threshold at 0.",
           "coinlist": [
             {
               "coindescs": [
@@ -293,7 +293,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If every Coin of this Skill hits, reuse this Coin (1 time max)"
+                  "desc": "[OnSucceedAttack] If every เหรียญ of this Skill hits, reuse this เหรียญ (1 time max)"
                 }
               ]
             }
@@ -448,7 +448,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 3+ negative effects, reuse this Coin (1 time max)"
+                  "desc": "[OnSucceedAttack] If the target has 3+ negative effects, reuse this เหรียญ (1 time max)"
                 }
               ]
             }
@@ -470,7 +470,7 @@
                   "desc": "[OnSucceedAttack] If the target does not have a Stagger Threshold, deal 200 HP damage."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 200"
+                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger by 200"
                 }
               ]
             }
@@ -541,7 +541,7 @@
                   "desc": "[OnSucceedAttack] Inflict 6 [DefenseDown] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit's Speed is faster than the target's by 3 or more, reuse this Coin (1 time max)"
+                  "desc": "[OnSucceedAttack] If this unit's Speed is faster than the target's by 3 or more, reuse this เหรียญ (1 time max)"
                 }
               ]
             }
@@ -590,7 +590,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 [DefenseDown] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 3+ negative effects, reuse this coin (1 time max)"
+                  "desc": "[OnSucceedAttack] If the target has 3+ negative effects, reuse this เหรียญ (1 time max)"
                 }
               ]
             }
@@ -676,7 +676,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Laceration] equal to [Sinking] on target"
+                  "desc": "[OnSucceedAttack] Inflict [Laceration] equal to [Sinking]บนtarget"
                 }
               ]
             }
@@ -695,14 +695,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +1 Power"
+                  "desc": "[OnSucceedAttackHead] Next เหรียญ has +1 Power"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +2 Power"
+                  "desc": "[OnSucceedAttackHead] Next เหรียญ has +2 Power"
                 }
               ]
             },
@@ -858,7 +858,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Laceration] equal to [Sinking] on target"
+                  "desc": "[OnSucceedAttack] Inflict [Laceration] equal to [Sinking]บนtarget"
                 }
               ]
             }
@@ -871,7 +871,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%><size=40>ตอบรับข้า\nวุธเธอริง ไฮตส์</size>\u200B</line-height>",
+          "name": "<line-height=120%>ตอบรับข้า วุธเธอริง ไฮตส์\u200B</line-height>",
           "desc": "[CantDuel]\n[WhenUse] Generate 1 Wild Hunt unit next turn",
           "coinlist": [
             {
@@ -891,7 +891,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ศพแกก็ต้องอยู่ในโลงนี่เหมือนกัน\u200B</line-height>",
-          "desc": "[CantDuel]\n[StartBattle] +100% to the amount of Stagger Threshold raised from [VibrationExplosion] and any other Stagger Threshold raising effects\n[WhenUse] Apply 3 [Enhancement] and 3 [AttackDmgUp] to all allies, including this unit next turn",
+          "desc": "[CantDuel]\n[StartBattle] +100% toจำนวนof Stagger Threshold raised from [VibrationExplosion] and any other Stagger Threshold raising effects\n[WhenUse] Apply 3 [Enhancement] and 3 [AttackDmgUp] to all allies, including this unit next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -937,7 +937,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +2 Power"
+                  "desc": "[OnSucceedAttackHead] Next เหรียญ has +2 Power"
                 }
               ]
             }
@@ -1301,7 +1301,7 @@
                   "desc": "[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit's Speed is faster than the target's by 3 or more, reuse this Coin (once)"
+                  "desc": "[OnSucceedAttack] If this unit's Speed is faster than the target's by 3 or more, reuse this เหรียญ (once)"
                 }
               ]
             }
@@ -1494,7 +1494,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ที่นี่...!\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's, Coin Power +1",
+          "desc": "If this unit's Speed is faster than the target's, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [

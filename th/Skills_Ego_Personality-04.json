@@ -130,10 +130,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[CriticalOnSucceedAttack] Gain [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -148,10 +148,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[CriticalOnSucceedAttack] Gain [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -166,10 +166,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain +2 Charge Count"
+                  "desc": "[CriticalOnSucceedAttack] Gain [Charge] +2 ขั้น"
                 }
               ]
             }
@@ -184,7 +184,7 @@
           "level": 1,
           "name": "<line-height=120%>Blind Obsession\u200B</line-height>",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 4 Poise. Consume 2 Charge Count to gain 1 Poise (Max 10)\n[EndSkill] Gain +4 Charge Count for every unit defeated by this Skill",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 4 Poise. Consume [Charge] 2 ขั้น to gain 1 Poise (Max 10)\n[EndSkill] Gain [Charge] +4 ขั้น for every unit defeated by this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -199,7 +199,7 @@
           "level": 3,
           "name": "<line-height=120%>Blind Obsession\u200B</line-height>",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 4 Poise. Consume 2 Charge Count to gain 1 Poise (Max 10)\n[EndSkill] Gain +4 Charge Count for every unit defeated by this Skill",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 4 Poise. Consume [Charge] 2 ขั้น to gain 1 Poise (Max 10)\n[EndSkill] Gain [Charge] +4 ขั้น for every unit defeated by this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -214,7 +214,7 @@
           "level": 4,
           "name": "<line-height=120%>Blind Obsession\u200B</line-height>",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 4 Poise. Consume 2 Charge Count to gain 1 Poise (Max 10)\n[EndSkill] Gain +4 Charge Count for every unit defeated by this Skill",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 4 Poise. Consume [Charge] 2 ขั้น to gain 1 Poise (Max 10)\n[EndSkill] Gain [Charge] +4 ขั้น for every unit defeated by this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -295,7 +295,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Laceration], deal +(the sum of [Laceration] Potency and Count on target)% more damage (max 20%)"
+                  "desc": "[OnSucceedAttack] If target has [Laceration], deal +(the sum of [Laceration] Potency and Countบนtarget)% more damage (max 20%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict (1 + (highest Reson. x 1.5)) [Laceration] (max 10, rounded down)"
@@ -316,7 +316,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Laceration], deal +(the sum of [Laceration] Potency and Count on target)% more damage (max <style=\"highlight\">40%</style>)"
+                  "desc": "[OnSucceedAttack] If target has [Laceration], deal +(the sum of [Laceration] Potency and Countบนtarget)% more damage (max <style=\"highlight\">40%</style>)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">(3 + (highest Reson. x 2))</style> [Laceration] (max <style=\"highlight\">15</style>, rounded down)"
@@ -337,7 +337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Laceration], deal +(the sum of [Laceration] Potency and Count on target)% more damage (max <style=\"highlight\">60%</style>)"
+                  "desc": "[OnSucceedAttack] If target has [Laceration], deal +(the sum of [Laceration] Potency and Countบนtarget)% more damage (max <style=\"highlight\">60%</style>)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">(10 + (highest Reson. x 2.5))</style> [Laceration] (max <style=\"highlight\">25</style>, rounded down)"
@@ -358,7 +358,7 @@
           "level": 1,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max 4)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max 4)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max 2)\n- At 5+ [Breath] Count, gain Coin Power +(highest Reson. / 2) instead (max 2)\n[TargetKill] Gain 1 [HoldingBreath] next turn (2 times per turn)",
+          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max 4)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max 4)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max 2)\n- At 5+ [Breath] Count, gain เหรียญ Power +(highest Reson. / 2) instead (max 2)\n[TargetKill] Gain 1 [HoldingBreath] next turn (2 times per turn)",
           "coinlist": [
             {},
             {
@@ -374,13 +374,13 @@
           "level": 3,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max <style=\"highlight\">6</style>)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max <style=\"highlight\">6</style>)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max 2)\n- At 5+ [Breath] Count, gain Coin Power +(highest Reson. / 2) instead (max 2)\n[TargetKill] Gain <style=\"highlight\">2</style> [HoldingBreath] next turn (<style=\"highlight\">4</style> times per turn)",
+          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max <style=\"highlight\">6</style>)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max <style=\"highlight\">6</style>)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max 2)\n- At 5+ [Breath] Count, gain เหรียญ Power +(highest Reson. / 2) instead (max 2)\n[TargetKill] Gain <style=\"highlight\">2</style> [HoldingBreath] next turn (<style=\"highlight\">4</style> times per turn)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">Deal +([Breath] Potency + Count)% more damage on Critical Hit (max 20%)</style>"
+                  "desc": "<style=\"highlight\">Deal +([Breath] Potency + Count)% more damageบนCritical Hit (max 20%)</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain 2 [HoldingBreath] (once per turn)<style=\"highlight\"></style>"
@@ -393,13 +393,13 @@
           "level": 4,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max 6)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max 6)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max <style=\"highlight\">3</style>)\n- At 5+ [Breath] Count, gain Coin Power +(highest Reson. / 2) instead (max <style=\"highlight\">3</style>)\n[TargetKill] Gain 2 [HoldingBreath] next turn (<style=\"highlight\">6</style> times per turn)",
+          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max 6)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max 6)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max <style=\"highlight\">3</style>)\n- At 5+ [Breath] Count, gain เหรียญ Power +(highest Reson. / 2) instead (max <style=\"highlight\">3</style>)\n[TargetKill] Gain 2 [HoldingBreath] next turn (<style=\"highlight\">6</style> times per turn)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Deal +([Breath] Potency + Count)% more damage on Critical Hit (max <style=\"highlight\">40%</style>)"
+                  "desc": "Deal +([Breath] Potency + Count)% more damageบนCritical Hit (max <style=\"highlight\">40%</style>)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain <style=\"highlight\">4</style> [HoldingBreath] (once per turn)"
@@ -439,7 +439,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">Deal +([Breath] Potency + Count)% more damage on Critical Hit (max 20%)</style>"
+                  "desc": "<style=\"highlight\">Deal +([Breath] Potency + Count)% more damageบนCritical Hit (max 20%)</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain 4 [HoldingBreath] (once per turn)<style=\"highlight\"></style>"
@@ -458,7 +458,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +([Breath] Potency + Count)% more damage on Critical Hit (max <style=\"highlight\">40%</style>)"
+                  "desc": "Deal +([Breath] Potency + Count)% more damageบนCritical Hit (max <style=\"highlight\">40%</style>)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain <style=\"highlight\">7</style> [HoldingBreath] (once per turn)"

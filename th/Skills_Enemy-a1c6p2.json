@@ -32,7 +32,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Rule Execution\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 5+ [Laceration], Coin Power +1",
+          "desc": "[WhenUse] If the target has 5+ [Laceration], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -141,7 +141,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Rule Fulfillment\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 4+ [Laceration] Count, Coin Power +1",
+          "desc": "[WhenUse] If the target has 4+ [Laceration] Count, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -258,7 +258,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Burst] equal to ([Laceration]/2) on target"
+                  "desc": "[OnSucceedAttack] Inflict [Burst] equal to ([Laceration]/2)บนtarget"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has [Laceration], heal 7 SP"
@@ -275,7 +275,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Violated Clause\u200B</line-height>",
-          "desc": "Coin Power +1 for every 3 [Laceration] on target (max 3)\n[WinDuel] If the target has 6+ [Laceration], deal +40% more damage",
+          "desc": "เหรียญ Power +1 for every 3 [Laceration]บนtarget (max 3)\n[WinDuel] If the target has 6+ [Laceration], deal +40% more damage",
           "coinlist": [
             {
               "coindescs": [
@@ -290,7 +290,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Burst] equal to [Laceration] on target"
+                  "desc": "[OnSucceedAttack] Inflict [Burst] equal to [Laceration]บนtarget"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has [Laceration], heal 10 SP"
@@ -387,7 +387,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Burst] equal to [Laceration] on target"
+                  "desc": "[OnSucceedAttack] Inflict [Burst] equal to [Laceration]บนtarget"
                 }
               ]
             }
@@ -520,7 +520,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Burst] equal to [Laceration] on target"
+                  "desc": "[OnSucceedAttack] Inflict [Burst] equal to [Laceration]บนtarget"
                 }
               ]
             }
@@ -595,7 +595,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Coloring\u200B</line-height>",
-          "desc": "[WinDuel] If the target has 5+ [Laceration], reuse this Skill on a random enemy After Attack (once)",
+          "desc": "[WinDuel] If the target has 5+ [Laceration], reuse this Skillบนa random enemy After Attack (once)",
           "coinlist": [
             {
               "coindescs": [
@@ -653,7 +653,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Burst] equal to [Laceration] on target"
+                  "desc": "[OnSucceedAttack] Inflict [Burst] equal to [Laceration]บนtarget"
                 }
               ]
             }
@@ -667,7 +667,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Pointillism\u200B</line-height>",
-          "desc": "Coin Power +1 for every 3 [Laceration] on target (max 4)\n[WinDuel] If the target has 6+ [Laceration], deal +40% more damage",
+          "desc": "เหรียญ Power +1 for every 3 [Laceration]บนtarget (max 4)\n[WinDuel] If the target has 6+ [Laceration], deal +40% more damage",
           "coinlist": [
             {
               "coindescs": [
@@ -679,14 +679,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Burst] Count equal to [Laceration] Count on target"
+                  "desc": "[OnSucceedAttack] Inflict [Burst] Count equal to [Laceration] Countบนtarget"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Burst] equal to [Laceration] on target"
+                  "desc": "[OnSucceedAttack] Inflict [Burst] equal to [Laceration]บนtarget"
                 }
               ]
             }
@@ -722,7 +722,7 @@
                   "desc": "[OnSucceedAttack] If the target has 5+ [Laceration], reuse this Skill (3 times max)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce [Laceration] Count on target by 1"
+                  "desc": "[OnSucceedAttack] Reduce [Laceration] Countบนtarget by 1"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflict 2 [DefenseDown]"
@@ -831,7 +831,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP on self"
+                  "desc": "[OnSucceedAttack] Heal 4 SPบนself"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown]"
@@ -841,7 +841,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP on self"
+                  "desc": "[OnSucceedAttack] Heal 4 SPบนself"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown]"
@@ -851,7 +851,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP on self"
+                  "desc": "[OnSucceedAttack] Heal 4 SPบนself"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown]"
@@ -868,7 +868,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Normal Attack 4\u200B</line-height>",
-          "desc": "Prioritizes targets with the most negative effects\n[WhenUse] Clash Power +1 for every 3 [DefenseDown] on target (max 3)",
+          "desc": "Prioritizes targets with the most negative effects\n[WhenUse] Clash Power +1 for every 3 [DefenseDown]บนtarget (max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -886,10 +886,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +20% more damage for every 2 [AttackDown] on target (max 100%)"
+                  "desc": "[OnSucceedAttack] Deal +20% more damage for every 2 [AttackDown]บนtarget (max 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] If the target has 3+ negative effects, reuse this coin (1 time max)"
+                  "desc": "[OnSucceedAttackHead] If the target has 3+ negative effects, reuse this เหรียญ (1 time max)"
                 }
               ]
             }
@@ -980,21 +980,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP on self"
+                  "desc": "[OnSucceedAttack] Heal 4 SPบนself"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP on self"
+                  "desc": "[OnSucceedAttack] Heal 4 SPบนself"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 SP on self"
+                  "desc": "[OnSucceedAttack] Heal 4 SPบนself"
                 }
               ]
             }
@@ -1008,7 +1008,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Get Crushed\u200B</line-height>",
-          "desc": "Prioritizes targets with the most negative effects\n[WinDuel] Coin Power +1 for every 3 [AttackDown] on target (max 3)",
+          "desc": "Prioritizes targets with the most negative effects\n[WinDuel] เหรียญ Power +1 for every 3 [AttackDown]บนtarget (max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -1026,10 +1026,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +30% more damage for every 2 [AttackDown] on target (max 120%)"
+                  "desc": "[OnSucceedAttack] Deal +30% more damage for every 2 [AttackDown]บนtarget (max 120%)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] If the target has 3+ negative effects, reuse this coin (1 time max)"
+                  "desc": "[OnSucceedAttackHead] If the target has 3+ negative effects, reuse this เหรียญ (1 time max)"
                 }
               ]
             }
@@ -1088,7 +1088,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ฟาดกระบาล\u200B</line-height>",
-          "desc": "[WinDuel] Gain 1 [Enhancement] and 1 Damage Up next turn",
+          "desc": "[WinDuel] Gain 1 [Enhancement] and 1 [AttackDmgUp] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -1110,7 +1110,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Laceration] equal to [Burst] on target"
+                  "desc": "[OnSucceedAttack] Inflict [Laceration] equal to [Burst]บนtarget"
                 }
               ]
             }
@@ -1129,14 +1129,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +1 Power"
+                  "desc": "[OnSucceedAttackHead] Next เหรียญ has +1 Power"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +2 Power"
+                  "desc": "[OnSucceedAttackHead] Next เหรียญ has +2 Power"
                 }
               ]
             },

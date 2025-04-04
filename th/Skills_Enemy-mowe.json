@@ -71,7 +71,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration] on target to heal"
+                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to heal"
                 }
               ]
             }
@@ -85,7 +85,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Counter\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -169,7 +169,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration] on target to heal"
+                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to heal"
                 }
               ]
             }
@@ -183,7 +183,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Counter\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -266,7 +266,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration] on target to heal"
+                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to heal"
                 }
               ]
             }
@@ -280,7 +280,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Counter\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -299,12 +299,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Rip\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 [Charge] Count",
+          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
@@ -321,12 +321,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Stab Down\u200B</line-height>",
-          "desc": "[WhenUse] Gain +5 [Charge] Count",
+          "desc": "[WhenUse] Gain [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
@@ -336,7 +336,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
@@ -353,7 +353,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hardblood Weapon\u200B</line-height>",
-          "desc": "[WhenUse] Consume all [Charge] Count on self and consume 2(15 - [Charge] Count consumed)% HP to gain Coin Power +2",
+          "desc": "[WhenUse] Consume all [Charge] Countบนself and consume 2(15 - [Charge] Count consumed)% HP to gain เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -369,7 +369,7 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration] on target to heal"
+                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to heal"
                 }
               ]
             }
@@ -383,7 +383,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -402,12 +402,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Thrust\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 [Charge] Count",
+          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
@@ -424,12 +424,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Cleave\u200B</line-height>",
-          "desc": "[WhenUse] Gain +5 [Charge] Count",
+          "desc": "[WhenUse] Gain [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
@@ -439,7 +439,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
@@ -456,7 +456,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hardblood Weapon\u200B</line-height>",
-          "desc": "[WhenUse] Consume all [Charge] Count on self and consume 2(15 - [Charge] Count consumed)% HP to gain Coin Power +2",
+          "desc": "[WhenUse] Consume all [Charge] Countบนself and consume 2(15 - [Charge] Count consumed)% HP to gain เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -472,7 +472,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration] on target to heal"
+                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to heal"
                 }
               ]
             }
@@ -486,7 +486,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Evade\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -505,12 +505,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Spear Swing\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 [Charge] Count",
+          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
@@ -530,12 +530,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tear Up Wound\u200B</line-height>",
-          "desc": "[WhenUse] Gain +5 [Charge] Count",
+          "desc": "[WhenUse] Gain [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
@@ -548,7 +548,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gain [Charge] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
@@ -568,7 +568,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hardblood Weapon\u200B</line-height>",
-          "desc": "[WhenUse] Consume all [Charge] Count on self and consume 2(15 - [Charge] Count consumed)% HP to gain Coin Power +2",
+          "desc": "[WhenUse] Consume all [Charge] Countบนself and consume 2(15 - [Charge] Count consumed)% HP to gain เหรียญ Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -587,7 +587,7 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)",
-                  "summary": "[OnSucceedAttack] Absorb [Laceration] on target to heal"
+                  "summary": "[OnSucceedAttack] Absorb [Laceration]บนtarget to heal"
                 }
               ]
             }
@@ -601,7 +601,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -668,7 +668,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hardblood Harpoon\u200B</line-height>",
-          "desc": "[WhenUse] Consume 10% HP on self to gain +10 [Charge] Count",
+          "desc": "[WhenUse] Consume 10% HPบนself to gain [Charge] +0 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -700,7 +700,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Counter\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -719,7 +719,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Activate Prosthesis\u200B</line-height>",
-          "desc": "[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain Coin Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% more damage\n[WhenUse] At 5- [Charge] Count, lose 10% HP and gain +5 [Charge] Count",
+          "desc": "[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain เหรียญ Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% more damage\n[WhenUse] At 5- [Charge] Count, lose 10% HP and gain [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -741,7 +741,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hardblood Reflux\u200B</line-height>",
-          "desc": "[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain Coin Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% more damage\n[WhenUse] At 5- [Charge] Count, lose 10% HP and gain +5 [Charge] Count",
+          "desc": "[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain เหรียญ Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% more damage\n[WhenUse] At 5- [Charge] Count, lose 10% HP and gain [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -783,7 +783,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bioenergy Conversion Charge\u200B</line-height>",
-          "desc": "[WhenUse] Consume 10% HP on self to gain +15 [Charge] Count",
+          "desc": "[WhenUse] Consume 10% HPบนself to gain [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -818,7 +818,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] Countบนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -837,7 +837,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hardblood Transfusion\u200B</line-height>",
-          "desc": "[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain Coin Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% more damage\n[WhenUse] At 5- [Charge] Count, lose 10% HP and gain +5 [Charge] Count",
+          "desc": "[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain เหรียญ Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% more damage\n[WhenUse] At 5- [Charge] Count, lose 10% HP and gain [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -866,7 +866,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bioenergy Conversion Recharge\u200B</line-height>",
-          "desc": "[WhenUse] Consume 10% HP on self to gain +15 [Charge] Count",
+          "desc": "[WhenUse] Consume 10% HPบนself to gain [Charge] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [

@@ -27,7 +27,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Checking the Book\u200B</line-height>",
-          "desc": "[WhenUse] Heal 5 SP on self",
+          "desc": "[WhenUse] Heal 5 SPบนself",
           "coinlist": [
             {
               "coindescs": [
@@ -48,7 +48,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Checking the Book\u200B</line-height>",
-          "desc": "[WhenUse] Heal 5 SP on self",
+          "desc": "[WhenUse] Heal 5 SPบนself",
           "coinlist": [
             {
               "coindescs": [
@@ -448,7 +448,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flashing Lure\u200B</line-height>",
-          "desc": "[WhenUse] Gain +4 [Aggro] to this Skill Slot next turn\n[WhenUse] If target has 6+ [Burst], Coin Power +1",
+          "desc": "[WhenUse] Gain +4 [Aggro] to this Skill Slot next turn\n[WhenUse] If target has 6+ [Burst], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -500,10 +500,10 @@
                   "desc": "[OnSucceedAttack] Heal 10 HP."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal additional HP based on [Burst] on target (1 HP healed per 1 [Burst]. Max 20)"
+                  "desc": "[OnSucceedAttack] Heal additional HP basedบน[Burst]บนtarget (1 HP healed per 1 [Burst]. Max 20)"
                 },
                 {
-                  "desc": "At 50%- HP, reuse Coin once"
+                  "desc": "At 50%- HP, reuse เหรียญ once"
                 }
               ]
             }
@@ -512,7 +512,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Whirlwind Om-Nom-Nom!\u200B</line-height>",
-          "desc": "[WhenUse] Gain +5 [Aggro] to this Skill Slot next turn\n[WhenUse] If target has 6+ [Burst], Coin Power +1",
+          "desc": "[WhenUse] Gain +5 [Aggro] to this Skill Slot next turn\n[WhenUse] If target has 6+ [Burst], เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -528,10 +528,10 @@
                   "desc": "[OnSucceedAttack] Heal 15 HP. Heal by +50% more HP when reusing Coin."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal additional HP based on [Burst] on target (2 HP healed per 1 [Burst]. Max 40)"
+                  "desc": "[OnSucceedAttack] Heal additional HP basedบน[Burst]บนtarget (2 HP healed per 1 [Burst]. Max 40)"
                 },
                 {
-                  "desc": "At 50%- HP, reuse Coin once"
+                  "desc": "At 50%- HP, reuse เหรียญ once"
                 }
               ]
             }
@@ -620,7 +620,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Draw of the Sword\u200B</line-height>",
-          "desc": "<style=\"highlight\">At 5+ [Breath] on self, Coin Power +1\n</style>[WhenUse] Gain +2 [Breath] Count",
+          "desc": "<style=\"highlight\">At 5+ [Breath]บนself, เหรียญ Power +1\n</style>[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -688,7 +688,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Blade Arc\u200B</line-height>",
-          "desc": "<style=\"highlight\">At 7+ [Breath] on self, Coin Power +1\n</style>[WhenUse] Gain +2 [Breath] Count",
+          "desc": "<style=\"highlight\">At 7+ [Breath]บนself, เหรียญ Power +1\n</style>[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -719,14 +719,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +10% damage"
+                  "desc": "[OnSucceedAttackHead] The final เหรียญ deals +10% damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +10% damage"
+                  "desc": "[OnSucceedAttackHead] The final เหรียญ deals +10% damage"
                 }
               ]
             },
@@ -746,19 +746,19 @@
         {
           "level": 4,
           "name": "<line-height=120%>Fare Thee Well!\u200B</line-height>",
-          "desc": "<style=\"highlight\">At 10+ [Breath] on self, Coin Power +1\n</style>[WhenUse] Gain 5 [Breath]",
+          "desc": "<style=\"highlight\">At 10+ [Breath]บนself, เหรียญ Power +1\n</style>[WhenUse] Gain 5 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +10% damage"
+                  "desc": "[OnSucceedAttackHead] The final เหรียญ deals +10% damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +10% damage"
+                  "desc": "[OnSucceedAttackHead] The final เหรียญ deals +10% damage"
                 }
               ]
             },
@@ -766,7 +766,7 @@
               "coindescs": [
                 {},
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "+30% DamageบนCritical Hit"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] To 2 allies either with no [Breath] or with the least [Breath] Count, apply +2 [Breath] Count.\n<style=\"highlight\">If the affected ally is from the Blade Lineage, apply 2 additional [Breath] Count</style>"
@@ -849,7 +849,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Let Us Prepare To Collect\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] Gain Clash Power +1 for every 6 [Vibration] on target (max 2)</style>\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn",
+          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] Gain Clash Power +1 for every 6 [Vibration]บนtarget (max 2)</style>\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -880,7 +880,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume up to 3 [Vibration] on target, and gain the same amount of [Vibration] Count on self"
+                  "desc": "[OnSucceedAttack] Consume up to 3 [Vibration]บนtarget, and gain the same amount of [Vibration] Countบนself"
                 }
               ]
             },
@@ -901,7 +901,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume up to 3 [Vibration] on target, and gain the same amount of [Vibration] Count on self"
+                  "desc": "[OnSucceedAttack] Consume up to 3 [Vibration]บนtarget, and gain the same amount of [Vibration] Countบนself"
                 }
               ]
             },
@@ -915,7 +915,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this Skill's Coin effects consumed [Vibration] on target, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this Skill's เหรียญ effects consumed [Vibration]บนtarget, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
                 }
               ]
             }
@@ -924,12 +924,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>T Corp. Accelerated Amputator\u200B</line-height>",
-          "desc": "[WhenUse] Gain +3 [Vibration] Count\n[WhenUse] <style=\"highlight\">Clash Power +1 for every 6 [Vibration] on target (max 2)</style>",
+          "desc": "[WhenUse] Gain +3 [Vibration] Count\n[WhenUse] <style=\"highlight\">Clash Power +1 for every 6 [Vibration]บนtarget (max 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume up to 3 [Vibration] on target, and gain <style=\"highlight\">double the amount consumed</style> as [Vibration] Count on self\n<style=\"highlight\">Inflict ([Vibration] consumed - 1) [Binding] next turn</style>"
+                  "desc": "[OnSucceedAttack] Consume up to 3 [Vibration]บนtarget, and gain <style=\"highlight\">doubleจำนวนconsumed</style> as [Vibration] Countบนself\n<style=\"highlight\">Inflict ([Vibration] consumed - 1) [Binding] next turn</style>"
                 }
               ]
             },
@@ -943,7 +943,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this Skill's Coin effects consumed [Vibration] on target, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If this Skill's เหรียญ effects consumed [Vibration]บนtarget, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -957,7 +957,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>I Command Thee, Halt!\u200B</line-height>",
-          "desc": "[WhenUse] If target has 6+ [Vibration], Clash Power +1\n[WhenUse] Consume 10 [Vibration] Count on self to gain Coin Power +2",
+          "desc": "[WhenUse] If target has 6+ [Vibration], Clash Power +1\n[WhenUse] Consume 10 [Vibration] Countบนself to gain เหรียญ Power +2",
           "coinlist": [
             {},
             {
@@ -971,7 +971,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 10+ [Vibration], consume 10 [Vibration] on target and inflict 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]"
+                  "desc": "[OnSucceedAttack] If target has 10+ [Vibration], consume 10 [Vibration]บนtarget and inflict 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target's Speed is slower than this unit's, trigger [Switch_Vibration] into [VibrationChainPersonality]"
@@ -983,7 +983,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>I Command Thee, Halt!\u200B</line-height>",
-          "desc": "[WhenUse] <style=\"highlight\">Clash Power +1 for every 6 [Vibration] on target (max 2)</style>\n<style=\"highlight\">[WhenUse] If target has [Binding], gain Clash Power +1</style>\n[WhenUse] Consume 10 [Vibration] Count on self to gain Coin Power +2",
+          "desc": "[WhenUse] <style=\"highlight\">Clash Power +1 for every 6 [Vibration]บนtarget (max 2)</style>\n<style=\"highlight\">[WhenUse] If target has [Binding], gain Clash Power +1</style>\n[WhenUse] Consume 10 [Vibration] Countบนself to gain เหรียญ Power +2",
           "coinlist": [
             {},
             {
@@ -1003,7 +1003,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 10+ [Vibration], consume 10 [Vibration] on target and inflict 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 10+ [Vibration], consume 10 [Vibration]บนtarget and inflict 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
@@ -1023,7 +1023,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I Shall Summon the Time\u200B</line-height>",
-          "desc": "[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, gain 4 [TimeRentalTwoPersonality] at Turn End (once per turn)\n[WhenUse] For this turn: when hit by an enemy, inflict 2 [Vibration] on target next turn (2 times per turn)",
+          "desc": "[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, gain 4 [TimeRentalTwoPersonality] at Turn End (once per turn)\n[WhenUse] For this turn: when hit by an enemy, inflict 2 [Vibration]บนtarget next turn (2 times per turn)",
           "coinlist": [
             {}
           ]
@@ -1031,7 +1031,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>I Shall Summon the Time\u200B</line-height>",
-          "desc": "[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, gain 4 [TimeRentalTwoPersonality] at Turn End (once per turn)\n[WhenUse] For this turn: when hit by an enemy, inflict <style=\"highlight\">3</style> [Vibration] on target next turn (<style=\"highlight\">6 times</style> per turn)",
+          "desc": "[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, gain 4 [TimeRentalTwoPersonality] at Turn End (once per turn)\n[WhenUse] For this turn: when hit by an enemy, inflict <style=\"highlight\">3</style> [Vibration]บนtarget next turn (<style=\"highlight\">6 times</style> per turn)",
           "coinlist": [
             {}
           ]
@@ -1059,7 +1059,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Enough is Enough\u200B</line-height>",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], เหรียญ Power +1</style>",
           "coinlist": [
             {},
             {
@@ -1074,7 +1074,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Enough is Enough\u200B</line-height>",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n[WhenUse] <style=\"highlight\">เหรียญ Power +1 for every 6 [Laceration]บนtarget (max 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1112,7 +1112,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2.5% more damage for every [Laceration] on target (max 25%)"
+                  "desc": "Deal +2.5% more damage for every [Laceration]บนtarget (max 25%)"
                 },
                 {
                   "desc": "Deal +5% more damage for every 100 [BloodDinner_Accumulation] by self (max 25%)"
@@ -1124,7 +1124,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Let All Blossom Free\u200B</line-height>",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[BeforeAttack] <style=\"highlight\">Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] on self (max 2)</style>",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], เหรียญ Power +1</style>\n[BeforeAttack] <style=\"highlight\">Atk Weight +1 for every 10 [BloodArmorPersonalityFirst]บนself (max 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1136,7 +1136,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2.5% more damage for every [Laceration] on target (max 25%)"
+                  "desc": "Deal +2.5% more damage for every [Laceration]บนtarget (max 25%)"
                 },
                 {
                   "desc": "Deal +<style=\"highlight\">10</style>% more damage for every 100 [BloodDinner_Accumulation] by self (max <style=\"highlight\">50</style>%)"
@@ -1148,7 +1148,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Let All Blossom Free\u200B</line-height>",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[BeforeAttack] Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] on self (max 2)",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n[WhenUse] เหรียญ Power +1 for every 6 [Laceration]บนtarget (max 2)</style>\n[BeforeAttack] Atk Weight +1 for every 10 [BloodArmorPersonalityFirst]บนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1160,7 +1160,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2.5% more damage for every [Laceration] on target (max 25%)"
+                  "desc": "Deal +2.5% more damage for every [Laceration]บนtarget (max 25%)"
                 },
                 {
                   "desc": "Deal +<style=\"highlight\">15</style>% more damage for every 100 [BloodDinner_Accumulation] by self (max <style=\"highlight\">75</style>%)"
@@ -1177,7 +1177,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>I Shall Impale\u200B</line-height>",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 10)\n[WhenUse] Clash Power +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[WhenUse] If target has 10+ [Laceration], Coin Power +1\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration] on target (max 50%)\n[WhenUse] Deal +10% more damage for every 100 [BloodDinner_Accumulation] by self (max 50%)\n[EndSkill] If target is defeated, increase [BloodDinner] by 30; gain 10 [BloodArmorPersonalityFirst] (once per turn)",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 10)\n[WhenUse] Clash Power +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[WhenUse] If target has 10+ [Laceration], เหรียญ Power +1\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration]บนtarget (max 50%)\n[WhenUse] Deal +10% more damage for every 100 [BloodDinner_Accumulation] by self (max 50%)\n[EndSkill] If target is defeated, increase [BloodDinner] by 30; gain 10 [BloodArmorPersonalityFirst] (once per turn)",
           "coinlist": [
             {},
             {},
@@ -1193,7 +1193,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>I Shall Impale\u200B</line-height>",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 10)\n[WhenUse] Clash Power +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 [Laceration] on target (max 2)</style>\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration] on target (max 50%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% more damage for every 100 [BloodDinner_Accumulation] by self (max <style=\"highlight\">100</style>%)\n[EndSkill] If target is defeated, increase [BloodDinner] by <style=\"highlight\">60</style>; gain 10 [BloodArmorPersonalityFirst] (once per turn)",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 10)\n[WhenUse] Clash Power +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[WhenUse] <style=\"highlight\">เหรียญ Power +1 for every 5 [Laceration]บนtarget (max 2)</style>\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration]บนtarget (max 50%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% more damage for every 100 [BloodDinner_Accumulation] by self (max <style=\"highlight\">100</style>%)\n[EndSkill] If target is defeated, increase [BloodDinner] by <style=\"highlight\">60</style>; gain 10 [BloodArmorPersonalityFirst] (once per turn)",
           "coinlist": [
             {},
             {},
@@ -1249,7 +1249,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Variant Sancho Hardblood Arts 6 - Whip\u200B</line-height>",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] Gain 20 [Laceration]\n[WhenUse] Inflict +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (max 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] Gain 20 [Laceration]\n[WhenUse] Inflict +1 more [Laceration]บนHit for every 10 [BloodArmorPersonalityFirst]. (max 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -1283,7 +1283,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Variant Sancho Hardblood Arts 6 - Whip\u200B</line-height>",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 20 [Laceration]\n[WhenUse] Inflict +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (max 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], เหรียญ Power +1</style>\n[WhenUse] Gain 20 [Laceration]\n[WhenUse] Inflict +1 more [Laceration]บนHit for every 10 [BloodArmorPersonalityFirst]. (max 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
           "coinlist": [
             {},
             {
@@ -1311,7 +1311,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Variant Sancho Hardblood Arts 6 - Whip\u200B</line-height>",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[WhenUse] Gain 20 [Laceration]\n[WhenUse] Inflict +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (max 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] <style=\"highlight\">เหรียญ Power +1 for every 6 [Laceration]บนtarget (max 2)</style>\n[WhenUse] Gain 20 [Laceration]\n[WhenUse] Inflict +1 more [Laceration]บนHit for every 10 [BloodArmorPersonalityFirst]. (max 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
           "coinlist": [
             {},
             {
@@ -1333,7 +1333,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration] on target once (target loses 1 [Laceration] Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration]บนtarget once (target loses 1 [Laceration] Count)</style>"
                 }
               ]
             }
@@ -1347,7 +1347,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Variant Sancho Hardblood Arts 8 - Split Apart\u200B</line-height>",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[BeforeAttack] At 10+ [BloodArmorPersonalityFirst], Atk Weight +1\n[EndSkill] If this Skill had an increased Atk Weight, consume 10 [BloodArmorPersonalityFirst]",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] If target has 6+ [Laceration], เหรียญ Power +1\n[BeforeAttack] At 10+ [BloodArmorPersonalityFirst], Atk Weight +1\n[EndSkill] If this Skill had an increased Atk Weight, consume 10 [BloodArmorPersonalityFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -1369,7 +1369,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Deal +2.5% more damage for every [Laceration] on target (max 25%)"
+                  "desc": "Deal +2.5% more damage for every [Laceration]บนtarget (max 25%)"
                 },
                 {
                   "desc": "Deal +5% more damage for every 100 [BloodDinner_Common_Accumulation] (max 25%)"
@@ -1381,7 +1381,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Variant Sancho Hardblood Arts 8 - Split Apart\u200B</line-height>",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[BeforeAttack] <style=\"highlight\">Gain Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (max 2)</style>\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] <style=\"highlight\">เหรียญ Power +1 for every 6 [Laceration]บนtarget (max 2)</style>\n[BeforeAttack] <style=\"highlight\">Gain Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (max 2)</style>\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained",
           "coinlist": [
             {
               "coindescs": [
@@ -1403,7 +1403,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Deal +2.5% more damage for every [Laceration] on target (max 25%)"
+                  "desc": "Deal +2.5% more damage for every [Laceration]บนtarget (max 25%)"
                 },
                 {
                   "desc": "Deal +<style=\"highlight\">10</style>% more damage for every 100 [BloodDinner_Common_Accumulation] (max <style=\"highlight\">50</style>%)"
@@ -1415,7 +1415,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Variant Sancho Hardblood Arts 8 - Split Apart\u200B</line-height>",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)\n[BeforeAttack] Gain Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained<style=\"highlight\"></style>",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] เหรียญ Power +1 for every 6 [Laceration]บนtarget (max 2)\n[BeforeAttack] Gain Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1437,7 +1437,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Deal +2.5% more damage for every [Laceration] on target (max 25%)"
+                  "desc": "Deal +2.5% more damage for every [Laceration]บนtarget (max 25%)"
                 },
                 {
                   "desc": "Deal +<style=\"highlight\">15</style>% more damage for every 100 [BloodDinner_Common_Accumulation] (max <style=\"highlight\">75</style>%)"
@@ -1454,7 +1454,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Ascendant Sancho Hardblood Arts - La Sangre\u200B</line-height>",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] Base Power +1 for every 10 [BloodArmorPersonalityFirst] on self (max 2)\n[WhenUse] If target has 10+ [Laceration], Coin Power +1\n[WhenUse] Deal +5% more damage for every [Laceration] on target (max 50%)\n[WhenUse] Deal +20% more damage for every 100 [BloodDinner_Common_Accumulation] (max 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every 10 [BloodArmorPersonalityFirst]\n[EndSkill] If target is defeated, increase [BloodDinner] by 50. Regain half of [BloodArmorPersonalityFirst] consumed by this Skill (once per turn)",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] Base Power +1 for every 10 [BloodArmorPersonalityFirst]บนself (max 2)\n[WhenUse] If target has 10+ [Laceration], เหรียญ Power +1\n[WhenUse] Deal +5% more damage for every [Laceration]บนtarget (max 50%)\n[WhenUse] Deal +20% more damage for every 100 [BloodDinner_Common_Accumulation] (max 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every 10 [BloodArmorPersonalityFirst]\n[EndSkill] If target is defeated, increase [BloodDinner] by 50. Regain half of [BloodArmorPersonalityFirst] consumed by this Skill (once per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1495,7 +1495,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Ascendant Sancho Hardblood Arts - La Sangre\u200B</line-height>",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] Base Power +1 for every 10 [BloodArmorPersonalityFirst] on self (max <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 [Laceration] on target (max 2)</style>\n[WhenUse] Deal +5% more damage for every [Laceration] on target (max 50%)\n[WhenUse] Deal +20% more damage for every 100 [BloodDinner_Common_Accumulation] (max 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every 10 [BloodArmorPersonalityFirst]\n[EndSkill] If target is defeated, increase [BloodDinner] by <style=\"highlight\">100</style>. Regain half of [BloodArmorPersonalityFirst] consumed by this Skill (once per turn)",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] Base Power +1 for every 10 [BloodArmorPersonalityFirst]บนself (max <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">เหรียญ Power +1 for every 5 [Laceration]บนtarget (max 2)</style>\n[WhenUse] Deal +5% more damage for every [Laceration]บนtarget (max 50%)\n[WhenUse] Deal +20% more damage for every 100 [BloodDinner_Common_Accumulation] (max 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every 10 [BloodArmorPersonalityFirst]\n[EndSkill] If target is defeated, increase [BloodDinner] by <style=\"highlight\">100</style>. Regain half of [BloodArmorPersonalityFirst] consumed by this Skill (once per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1541,7 +1541,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Variant Sancho Hardblood Arts 15 - Buildup to Finale\u200B</line-height>",
-          "desc": "[DuelCounter]\n[StartBattle] To (3 + (highest Reson. / 2)) allies with the least HP: apply (1 + ([BloodArmorPersonalityFirst] / 15)) [SwirlingBloodPersonality] for every 40 [BloodDinner_Common_Accumulation], then consume half of [BloodArmorPersonalityFirst] on self. (once per ally; rounded down)",
+          "desc": "[DuelCounter]\n[StartBattle] To (3 + (highest Reson. / 2)) allies with the least HP: apply (1 + ([BloodArmorPersonalityFirst] / 15)) [SwirlingBloodPersonality] for every 40 [BloodDinner_Common_Accumulation], then consume half of [BloodArmorPersonalityFirst]บนself. (once per ally; rounded down)",
           "coinlist": [
             {},
             {
@@ -1559,7 +1559,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Variant Sancho Hardblood Arts 15 - Buildup to Finale\u200B</line-height>",
-          "desc": "[DuelCounter]\n[StartBattle] To (3 + (highest Reson. / 2)) allies with the least HP: apply (1 + ([BloodArmorPersonalityFirst] / <style=\"highlight\">10</style>)) [SwirlingBloodPersonality] for every 40 [BloodDinner_Common_Accumulation], then consume half of [BloodArmorPersonalityFirst] on self. (once per ally; rounded down)",
+          "desc": "[DuelCounter]\n[StartBattle] To (3 + (highest Reson. / 2)) allies with the least HP: apply (1 + ([BloodArmorPersonalityFirst] / <style=\"highlight\">10</style>)) [SwirlingBloodPersonality] for every 40 [BloodDinner_Common_Accumulation], then consume half of [BloodArmorPersonalityFirst]บนself. (once per ally; rounded down)",
           "coinlist": [
             {},
             {
@@ -1582,7 +1582,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Fa Jin\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "If this unit's Speed is faster than the target's by 3 or more, เหรียญ Power +1\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1603,7 +1603,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Fa Jin\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's by <style=\"highlight\">2</style> or more, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "If this unit's Speed is faster than the target's by <style=\"highlight\">2</style> or more, เหรียญ Power +1\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1624,7 +1624,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Fa Jin\u200B</line-height>",
-          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)</style>\n[WhenUse] Gain +<style=\"highlight\">3</style> [Breath] Count",
+          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, gain เหรียญ Power basedบนSpeed difference (เหรียญ Power +1 for every 2 Speed difference; max 2)</style>\n[WhenUse] Gain +<style=\"highlight\">3</style> [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1653,7 +1653,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Virescent Flame Palm\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WinDuel] Gain 3 [Breath]",
+          "desc": "If this unit's Speed is faster than the target's by 3 or more, เหรียญ Power +1\n[WinDuel] Gain 3 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1675,7 +1675,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion] on target (max 2, once per turn)"
+                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion]บนtarget (max 2, once per turn)"
                 }
               ]
             }
@@ -1684,7 +1684,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Virescent Flame Palm\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's by <style=\"highlight\">2</style> or more, Coin Power +1\n[WinDuel] Gain 3 [Breath]",
+          "desc": "If this unit's Speed is faster than the target's by <style=\"highlight\">2</style> or more, เหรียญ Power +1\n[WinDuel] Gain 3 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1706,7 +1706,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion] on target (max <style=\"highlight\">3</style>, once per turn)"
+                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion]บนtarget (max <style=\"highlight\">3</style>, once per turn)"
                 }
               ]
             }
@@ -1715,7 +1715,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Virescent Flame Palm\u200B</line-height>",
-          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] Gain 3 [Breath]\n<style=\"highlight\">- Gain additional [Breath] Count equal to [DianxueDonQuixote] on target</style>",
+          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, gain เหรียญ Power basedบนSpeed difference (เหรียญ Power +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] Gain 3 [Breath]\n<style=\"highlight\">- Gain additional [Breath] Count equal to [DianxueDonQuixote]บนtarget</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1737,7 +1737,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion] on target (max <style=\"highlight\">5</style>, once per turn)\n<style=\"highlight\">- Inflict additional [DefenseDown] equal to [DianxueDonQuixote] on target</style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion]บนtarget (max <style=\"highlight\">5</style>, once per turn)\n<style=\"highlight\">- Inflict additional [DefenseDown] equal to [DianxueDonQuixote]บนtarget</style>"
                 }
               ]
             }
@@ -1751,7 +1751,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Prithee, let this be an enlightening bout\u200B</line-height>",
-          "desc": "Deal +10% more damage for every 1 [DianxueDonQuixote] on target (max 30%)\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Gain 5 [Breath]\n- If target has [DianxueDonQuixote], gain 3 additional [Breath]",
+          "desc": "Deal +10% more damage for every 1 [DianxueDonQuixote]บนtarget (max 30%)\nIf this unit's Speed is faster than the target's by 2 or more, เหรียญ Power +1\n[WinDuel] Gain 5 [Breath]\n- If target has [DianxueDonQuixote], gain 3 additional [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1777,7 +1777,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +([Breath] on self + [Combustion] on target)% more damage on Critical Hit (max 30%)"
+                  "desc": "Deal +([Breath]บนself + [Combustion]บนtarget)% more damageบนCritical Hit (max 30%)"
                 }
               ]
             }
@@ -1786,7 +1786,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Prithee, let this be an enlightening bout\u200B</line-height>",
-          "desc": "Deal <style=\"highlight\">+15%</style> more damage for every 1 [DianxueDonQuixote] on target (max <style=\"highlight\">45%</style>)\n<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] Gain 5 [Breath]\n- If target has [DianxueDonQuixote], gain 3 additional [Breath]",
+          "desc": "Deal <style=\"highlight\">+15%</style> more damage for every 1 [DianxueDonQuixote]บนtarget (max <style=\"highlight\">45%</style>)\n<style=\"highlight\">If this unit's Speed is faster than the target's, gain เหรียญ Power basedบนSpeed difference (เหรียญ Power +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] Gain 5 [Breath]\n- If target has [DianxueDonQuixote], gain 3 additional [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1812,7 +1812,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +([Breath] on self + [Combustion] on target)% more damage on Critical Hit (max <style=\"highlight\">50%</style>)"
+                  "desc": "Deal +([Breath]บนself + [Combustion]บนtarget)% more damageบนCritical Hit (max <style=\"highlight\">50%</style>)"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] If target has [DianxueDonQuixote], inflict 3 [DefenseDown]</style>"
@@ -1837,7 +1837,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Thou'rt in dire need of a lesson in table manners!\u200B</line-height>",
-          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, gain +1 Coin Power for every 2 Speed difference (max 2)</style>",
+          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, gain +1 เหรียญ Power for every 2 Speed difference (max 2)</style>",
           "coinlist": [
             {}
           ]

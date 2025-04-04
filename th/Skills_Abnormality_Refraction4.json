@@ -234,7 +234,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Horned Charge\u200B</line-height>",
-          "desc": "[WhenUse] Gain +1 [Charge] Count",
+          "desc": "[WhenUse] Gain [Charge] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -253,7 +253,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ram Charge\u200B</line-height>",
-          "desc": "[WhenUse] Gain +1 [Charge] Count",
+          "desc": "[WhenUse] Gain [Charge] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -279,7 +279,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Lamb's Cry\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 [Charge] Count",
+          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -298,7 +298,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Lightning Manipulation\u200B</line-height>",
-          "desc": "[WhenUse] Gain +2 [Charge] Count",
+          "desc": "[WhenUse] Gain [Charge] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -324,7 +324,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
-          "desc": "[WhenUse] Atk Weight +1 for every 4 [Charge] Count on self (max 5)\n[WhenUse] Clash Power +3 for every 5 [Charge] Count on self (max 4)\n[WhenUse] Gain 1 [VioletDamageUp] for every 6 [Charge] Count on self (max 3)\n[EndBattle] All [Charge] Count on self expires. Loses [ConnectedPlug]",
+          "desc": "[WhenUse] Atk Weight +1 for every 4 [Charge] Countบนself (max 5)\n[WhenUse] Clash Power +3 for every 5 [Charge] Countบนself (max 4)\n[WhenUse] Gain 1 [VioletDamageUp] for every 6 [Charge] Countบนself (max 3)\n[EndBattle] All [Charge] Countบนself expires. Loses [ConnectedPlug]",
           "coinlist": [
             {
               "coindescs": [
@@ -357,7 +357,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
-          "desc": "[CantDuel]\n[WhenUse] Gain 10 [Protection]\n[WhenUse] Atk Weight +1 for every 4 [Charge] Count on self (max 5)\n[WhenUse] Clash Power +3 for every 5 [Charge] Count on self (max 4)\n[WhenUse] Gain 1 [VioletDamageUp] for every 6 [Charge] Count on self (max 3)",
+          "desc": "[CantDuel]\n[WhenUse] Gain 10 [Protection]\n[WhenUse] Atk Weight +1 for every 4 [Charge] Countบนself (max 5)\n[WhenUse] Clash Power +3 for every 5 [Charge] Countบนself (max 4)\n[WhenUse] Gain 1 [VioletDamageUp] for every 6 [Charge] Countบนself (max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -376,7 +376,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Grounding Refusal\u200B</line-height>",
-          "desc": "Prioritizes targets with [AntiSheepGround]\nClash Power +1 for every [ConnectedPlug]\n[StartBattle] Gain 2(3 - [ConnectedPlug]) [Protection]\n[WhenUse] Gain +1 [Charge] Count\n[DefeatDuel] If the target has [AntiSheepGround], gain 1 [ConnectedPlug]",
+          "desc": "Prioritizes targets with [AntiSheepGround]\nClash Power +1 for every [ConnectedPlug]\n[StartBattle] Gain 2(3 - [ConnectedPlug]) [Protection]\n[WhenUse] Gain [Charge] +1 ขั้น\n[DefeatDuel] If the target has [AntiSheepGround], gain 1 [ConnectedPlug]",
           "coinlist": [
             {
               "coindescs": [
@@ -421,7 +421,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Enveloping Resignation\u200B</line-height>",
-          "desc": "If the target has 6+ [Sinking], Coin Power +1\n[WinDuel] Inflict +3 [Sinking] Count",
+          "desc": "If the target has 6+ [Sinking], เหรียญ Power +1\n[WinDuel] Inflict +3 [Sinking] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -447,7 +447,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Strangling Despair\u200B</line-height>",
-          "desc": "Coin Power +1 for every 6 [Sinking] on target (max 2)\n[WinDuel] Inflict +3 [Sinking] Count\n[DefeatDuel] Reduce [Sinking] Count by 1",
+          "desc": "เหรียญ Power +1 for every 6 [Sinking]บนtarget (max 2)\n[WinDuel] Inflict +3 [Sinking] Count\n[DefeatDuel] Reduce [Sinking] Count by 1",
           "coinlist": [
             {
               "coindescs": [
@@ -520,12 +520,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Chains of Binding\u200B</line-height>",
-          "desc": "Coin Power + for every 6 [Sinking] on target (max 2)\n[DefeatDuel] Reduce [Sinking] Count by 2\n[DefeatDuel] Apply [BandageOfTheBoundKing]",
+          "desc": "เหรียญ Power + for every 6 [Sinking]บนtarget (max 2)\n[DefeatDuel] Reduce [Sinking] Count by 2\n[DefeatDuel] Apply [BandageOfTheBoundKing]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn\n[OnSucceedAttack] Inflict [Vibration] equal to [Sinking] on target"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn\n[OnSucceedAttack] Inflict [Vibration] equal to [Sinking]บนtarget"
                 }
               ]
             },
@@ -570,7 +570,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit dealt damage to the target, inflict [Vibration] equal to [Sinking] on target"
+                  "desc": "[OnSucceedAttack] If this unit dealt damage to the target, inflict [Vibration] equal to [Sinking]บนtarget"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"

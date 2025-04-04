@@ -182,7 +182,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ravenous Devouring\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 5+ [Burst], inflict 2 [DefenseDown]\nGain +1 Base Power for every [TakeHpHealIncrease] value on self (max 3)",
+          "desc": "[WhenUse] If the target has 5+ [Burst], inflict 2 [DefenseDown]\nGain +1 Base Power for every [TakeHpHealIncrease] valueบนself (max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -234,7 +234,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Counter\u200B</line-height>",
-          "desc": "At less than 50% Core HP, Core and Part heal on Coin Hit",
+          "desc": "At less than 50% Core HP, Core and Part healบนเหรียญ Hit",
           "coinlist": [
             {
               "coindescs": [
@@ -308,7 +308,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Laceration] equal to [Burst] on target"
+                  "desc": "[OnSucceedAttack] Inflict [Laceration] equal to [Burst]บนtarget"
                 }
               ]
             }
@@ -327,14 +327,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +1 Power"
+                  "desc": "[OnSucceedAttackHead] Next เหรียญ has +1 Power"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +2 Power"
+                  "desc": "[OnSucceedAttackHead] Next เหรียญ has +2 Power"
                 }
               ]
             },
@@ -403,14 +403,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +1 Power"
+                  "desc": "[OnSucceedAttackHead] Next เหรียญ has +1 Power"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +2 Power"
+                  "desc": "[OnSucceedAttackHead] Next เหรียญ has +2 Power"
                 }
               ]
             },
@@ -513,7 +513,7 @@
                   "desc": "[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit's Speed is faster than the target's by 3 or more, reuse this Coin (once)"
+                  "desc": "[OnSucceedAttack] If this unit's Speed is faster than the target's by 3 or more, reuse this เหรียญ (once)"
                 }
               ]
             }
@@ -706,7 +706,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>This is My Place!\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's, Coin Power +1",
+          "desc": "If this unit's Speed is faster than the target's, เหรียญ Power +1",
           "coinlist": [
             {
               "coindescs": [

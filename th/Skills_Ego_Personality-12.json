@@ -7,7 +7,7 @@
           "level": 1,
           "name": "<line-height=120%>Garden of Thorns\u200B</line-height>",
           "abName": "Sign of Roses",
-          "desc": "[BeforeAttack] At 3+ highest Reson., Atk Weight +1\n[WhenUse] Apply 1 '(Corresponding Sin Affinity) Damage Up' and '1 (Corresponding Sin Affinity) Power Up' to (1 + # of highest Reson.) allies.\n- At 4+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) Damage Up'",
+          "desc": "[BeforeAttack] At 3+ highest Reson., Atk Weight +1\n[WhenUse] Apply 1 '(Corresponding Sin Affinity) [AttackDmgUp]' and '1 (Corresponding Sin Affinity) Power Up' to (1 + # of highest Reson.) allies.\n- At 4+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) [AttackDmgUp]'",
           "coinlist": [
             {
               "coindescs": [
@@ -22,7 +22,7 @@
           "level": 3,
           "name": "<line-height=120%>Garden of Thorns\u200B</line-height>",
           "abName": "Sign of Roses",
-          "desc": "[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (Max 2)\n[WhenUse] Apply 1 '(Corresponding Sin Affinity) Damage Up' and '1 (Corresponding Sin Affinity) Power Up' to (2 + # of highest Reson.) allies.\n- At 4+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) Damage Up'\n- At 5+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) Power Up'",
+          "desc": "[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (Max 2)\n[WhenUse] Apply 1 '(Corresponding Sin Affinity) [AttackDmgUp]' and '1 (Corresponding Sin Affinity) Power Up' to (2 + # of highest Reson.) allies.\n- At 4+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) [AttackDmgUp]'\n- At 5+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) Power Up'",
           "coinlist": [
             {
               "coindescs": [
@@ -37,7 +37,7 @@
           "level": 4,
           "name": "<line-height=120%>Garden of Thorns\u200B</line-height>",
           "abName": "Sign of Roses",
-          "desc": "[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (Max 3)\n[WhenUse] Apply 1 '(Corresponding Sin Affinity) Damage Up' and '1 (Corresponding Sin Affinity) Power Up' to (4 + # of highest Reson.) allies.\n- At 4+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) Damage Up'\n- At 5+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) Power Up'\n- At 6+ Corresponding A-Reson., apply the above effects next turn as well",
+          "desc": "[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (Max 3)\n[WhenUse] Apply 1 '(Corresponding Sin Affinity) [AttackDmgUp]' and '1 (Corresponding Sin Affinity) Power Up' to (4 + # of highest Reson.) allies.\n- At 4+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) [AttackDmgUp]'\n- At 5+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) Power Up'\n- At 6+ Corresponding A-Reson., apply the above effects next turn as well",
           "coinlist": [
             {
               "coindescs": [
@@ -116,7 +116,7 @@
           "level": 1,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "[EndSkill] Heal 10 SP to self and 2 other allies with the least SP\n- If target survives this attack, consume 5 [Sinking] Count on target, then heal additional SP(to self & affected allies) equal to [Sinking] Potency on target (Max SP heal: 20)\n- If target is defeated, inflict 3 [Sinking] on 2 random enemies (For Focused Encounters, random Parts)",
+          "desc": "[EndSkill] Heal 10 SP to self and 2 other allies with the least SP\n- If target survives this attack, consume 5 [Sinking] Countบนtarget, then heal additional SP(to self & affected allies) equal to [Sinking] Potencyบนtarget (Max SP heal: 20)\n- If target is defeated, inflict 3 [Sinking]บน2 random enemies (For Focused Encounters, random Parts)",
           "coinlist": [
             {
               "coindescs": [
@@ -129,7 +129,7 @@
           "level": 3,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "[EndSkill] Heal <style=\"highlight\">12</style> SP to self and 2 other allies with the least SP\n- If target survives this attack, consume 5 [Sinking] Count on target, then heal additional SP(to self & affected allies) equal to [Sinking] Potency on target (Max SP heal: 20)\n- If target is defeated, inflict 3 [Sinking] and <style=\"highlight\">1 [Curse]</style> on 2 random enemies (For Focused Encounters, random Parts)",
+          "desc": "[EndSkill] Heal <style=\"highlight\">12</style> SP to self and 2 other allies with the least SP\n- If target survives this attack, consume 5 [Sinking] Countบนtarget, then heal additional SP(to self & affected allies) equal to [Sinking] Potencyบนtarget (Max SP heal: 20)\n- If target is defeated, inflict 3 [Sinking] and <style=\"highlight\">1 [Curse]</style>บน2 random enemies (For Focused Encounters, random Parts)",
           "coinlist": [
             {
               "coindescs": [
@@ -142,7 +142,7 @@
           "level": 4,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "[EndSkill] Heal <style=\"highlight\">15</style> SP to self and 2 other allies with the least SP\n- If target survives this attack, consume <style=\"highlight\">3</style> [Sinking] Count on target, then heal additional SP(to self & affected allies) equal to [Sinking] Potency on target (Max SP heal: 20)\n- If target is defeated, inflict 3 [Sinking] and 1 [Curse] on <style=\"highlight\">3</style> random enemies (For Focused Encounters, random Parts)",
+          "desc": "[EndSkill] Heal <style=\"highlight\">15</style> SP to self and 2 other allies with the least SP\n- If target survives this attack, consume <style=\"highlight\">3</style> [Sinking] Countบนtarget, then heal additional SP(to self & affected allies) equal to [Sinking] Potencyบนtarget (Max SP heal: 20)\n- If target is defeated, inflict 3 [Sinking] and 1 [Curse]บน<style=\"highlight\">3</style> random enemies (For Focused Encounters, random Parts)",
           "coinlist": [
             {
               "coindescs": [
@@ -228,7 +228,7 @@
           "level": 1,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "When this Skill flips Coins, each Coin flips against a random enemy among its targets.\n- The first Coin always targets the main target.\n- All 'On Hit' effects and all damage dealt by each Coin are inflicted only against the random target the Coin selected.\nWhen inflicting [SinkingWhite] with this Skill effects: (Chance to flip Heads)% chance to inflict The Departed. If this unit did not inflict The Departed, inflict The Living instead. (calculates every [SinkingWhite] stack independently)",
+          "desc": "When this Skill flips Coins, each เหรียญ flips against a random enemy among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects and all damage dealt by each เหรียญ are inflicted only against the random target the เหรียญ selected.\nWhen inflicting [SinkingWhite] with this Skill effects: (Chance to flip Heads)% chance to inflict The Departed. If this unit did not inflict The Departed, inflict The Living instead. (calculates every [SinkingWhite] stack independently)",
           "coinlist": [
             {
               "coindescs": [
@@ -253,7 +253,7 @@
                   "desc": "[OnSucceedAttack] Lose 2~6 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 0+ SP, Reuse this Coin (5 times max per Skill)"
+                  "desc": "[OnSucceedAttack] At 0+ SP, Reuse this เหรียญ (5 times max per Skill)"
                 }
               ]
             }
@@ -263,7 +263,7 @@
           "level": 3,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "When this Skill flips Coins, each Coin flips against a random enemy among its targets.\n- The first Coin always targets the main target.\n- All 'On Hit' effects and all damage dealt by each Coin are inflicted only against the random target the Coin selected.\nWhen inflicting [SinkingWhite] with this Skill effects: (Chance to flip Heads)% chance to inflict The Departed. If this unit did not inflict The Departed, inflict The Living instead. (calculates every [SinkingWhite] stack independently)\n<style=\"highlight\">[EndSkill] Heal (# of Coin 3 hits x 2) SP</style>",
+          "desc": "When this Skill flips Coins, each เหรียญ flips against a random enemy among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects and all damage dealt by each เหรียญ are inflicted only against the random target the เหรียญ selected.\nWhen inflicting [SinkingWhite] with this Skill effects: (Chance to flip Heads)% chance to inflict The Departed. If this unit did not inflict The Departed, inflict The Living instead. (calculates every [SinkingWhite] stack independently)\n<style=\"highlight\">[EndSkill] Heal (# of เหรียญ 3 hits x 2) SP</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -288,7 +288,7 @@
                   "desc": "[OnSucceedAttack] Lose 2~6 SP<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 0+ SP, Reuse this Coin (5 times max per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 0+ SP, Reuse this เหรียญ (5 times max per Skill)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -298,7 +298,7 @@
           "level": 4,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "When this Skill flips Coins, each Coin flips against a random enemy among its targets.\n- The first Coin always targets the main target.\n- All 'On Hit' effects and all damage dealt by each Coin are inflicted only against the random target the Coin selected.\nWhen inflicting [SinkingWhite] with this Skill effects: (Chance to flip Heads)% chance to inflict The Departed. If this unit did not inflict The Departed, inflict The Living instead. (calculates every [SinkingWhite] stack independently)\n[EndSkill] Heal <style=\"highlight\">(# of Coin 3 hits x 3)</style> SP",
+          "desc": "When this Skill flips Coins, each เหรียญ flips against a random enemy among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects and all damage dealt by each เหรียญ are inflicted only against the random target the เหรียญ selected.\nWhen inflicting [SinkingWhite] with this Skill effects: (Chance to flip Heads)% chance to inflict The Departed. If this unit did not inflict The Departed, inflict The Living instead. (calculates every [SinkingWhite] stack independently)\n[EndSkill] Heal <style=\"highlight\">(# of เหรียญ 3 hits x 3)</style> SP",
           "coinlist": [
             {
               "coindescs": [
@@ -323,7 +323,7 @@
                   "desc": "[OnSucceedAttack] Lose 2~6 SP<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 0+ SP, Reuse this Coin (5 times max per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 0+ SP, Reuse this เหรียญ (5 times max per Skill)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -338,7 +338,7 @@
           "level": 1,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "[CantIdentify]\nTargets randomly\nIf target has less than 0 SP, deal more damage the further their SP value is from 0 (+1% more damage for every missing SP, max 45%)\nAgainst targets without SP: deal +1% more damage for every 2 [Sinking] on target (max 45%)",
+          "desc": "[CantIdentify]\nTargets randomly\nIf target has less than 0 SP, deal more damage the further their SP value is from 0 (+1% more damage for every missing SP, max 45%)\nAgainst targets without SP: deal +1% more damage for every 2 [Sinking]บนtarget (max 45%)",
           "coinlist": [
             {
               "coindescs": [
@@ -356,7 +356,7 @@
           "level": 3,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "[CantIdentify]\nTargets randomly\nIf target has less than 0 SP, deal more damage the further their SP value is from 0 (+1% more damage for every missing SP, max 45%)\nAgainst targets without SP: deal +1% more damage for every 2 [Sinking] on target (max 45%)\n<style=\"highlight\">[EnemyKill] Heal 5 SP</style>",
+          "desc": "[CantIdentify]\nTargets randomly\nIf target has less than 0 SP, deal more damage the further their SP value is from 0 (+1% more damage for every missing SP, max 45%)\nAgainst targets without SP: deal +1% more damage for every 2 [Sinking]บนtarget (max 45%)\n<style=\"highlight\">[EnemyKill] Heal 5 SP</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -377,7 +377,7 @@
           "level": 4,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "[CantIdentify]\nTargets randomly\nIf target has less than 0 SP, deal more damage the further their SP value is from 0 (+1% more damage for every missing SP, max 45%)\nAgainst targets without SP: deal +1% more damage for every 2 [Sinking] on target (max 45%)\n[EnemyKill] Heal 5 SP<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\nIf target has less than 0 SP, deal more damage the further their SP value is from 0 (+1% more damage for every missing SP, max 45%)\nAgainst targets without SP: deal +1% more damage for every 2 [Sinking]บนtarget (max 45%)\n[EnemyKill] Heal 5 SP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -391,7 +391,7 @@
                   "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If target has 50%- HP, inflict Gloom Damage equal to \"All\" [SinkingWhite] values on target\n- \"All\" = the sum of both The Living and The Departed on target</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] If target has 50%- HP, inflict Gloom Damage equal to \"All\" [SinkingWhite] valuesบนtarget\n- \"All\" = the sum of both The Living and The Departedบนtarget</style>"
                 }
               ]
             }
@@ -449,7 +449,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal (2 + highest Reson.)% of the missing HP on self (max 30% per Skill)"
+                  "desc": "[OnSucceedAttack] Heal (2 + highest Reson.)% of the missing HPบนself (max 30% per Skill)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 [Sinking]<style=\"highlight\"></style>"
@@ -480,7 +480,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal (<style=\"highlight\">3</style> + highest Reson.)% of the missing HP on self (max 30% per Skill)"
+                  "desc": "[OnSucceedAttack] Heal (<style=\"highlight\">3</style> + highest Reson.)% of the missing HPบนself (max 30% per Skill)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 [Sinking]<style=\"highlight\"></style>"
@@ -501,7 +501,7 @@
           "level": 1,
           "name": "<line-height=120%>Christmas Nightmare\u200B</line-height>",
           "abName": "Cozy Bed",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Heal 10 HP on self\n[EndSkill] At max HP, heal 10 SP at Turn End and gain 1 [Enhancement] next turn",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Heal 10 HPบนself\n[EndSkill] At max HP, heal 10 SP at Turn End and gain 1 [Enhancement] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -529,7 +529,7 @@
           "level": 3,
           "name": "<line-height=120%>Christmas Nightmare\u200B</line-height>",
           "abName": "Cozy Bed",
-          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">If target has less than 0 SP, deal +1% more damage for every SP value below 0 (max 45%)</style>\n[BeforeAttack] Heal 10 HP on self\n[EndSkill] At max HP, heal <style=\"highlight\">15</style> SP at Turn End and gain 1 [Enhancement] next turn",
+          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">If target has less than 0 SP, deal +1% more damage for every SP value below 0 (max 45%)</style>\n[BeforeAttack] Heal 10 HPบนself\n[EndSkill] At max HP, heal <style=\"highlight\">15</style> SP at Turn End and gain 1 [Enhancement] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -560,7 +560,7 @@
           "level": 4,
           "name": "<line-height=120%>Christmas Nightmare\u200B</line-height>",
           "abName": "Cozy Bed",
-          "desc": "[CantIdentify]\nTargets randomly\nIf target has less than 0 SP, deal +1% more damage for every SP value below 0 (max 45%)\n[BeforeAttack] Heal 10 HP on self\n[EndSkill] At max HP, heal <style=\"highlight\">20</style> SP at Turn End and gain 1 [Enhancement] next turn",
+          "desc": "[CantIdentify]\nTargets randomly\nIf target has less than 0 SP, deal +1% more damage for every SP value below 0 (max 45%)\n[BeforeAttack] Heal 10 HPบนself\n[EndSkill] At max HP, heal <style=\"highlight\">20</style> SP at Turn End and gain 1 [Enhancement] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -575,7 +575,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal (<style=\"highlight\">3</style> + highest Reson.)% of the missing HP on self (max 30% per Skill)"
+                  "desc": "[OnSucceedAttack] Heal (<style=\"highlight\">3</style> + highest Reson.)% of the missing HPบนself (max 30% per Skill)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 [Sinking]<style=\"highlight\"></style>"
