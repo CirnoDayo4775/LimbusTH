@@ -9098,17 +9098,17 @@
         {
           "level": 1,
           "name": "<line-height=120%>ฟาดด้วยร่ม\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +1 Sinking จำนวนครั้ง",
+          "desc": "[WhenUse] ได้รับ +1 [Sinking] จำนวนครั้ง",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ +1 Sinking จำนวนครั้ง"
+                  "desc": "[OnSucceedAttackTail] มอบ +1 [Sinking] จำนวนครั้ง"
                 }
               ]
             }
@@ -9117,17 +9117,17 @@
         {
           "level": 2,
           "name": "<line-height=120%>ฟาดด้วยร่ม\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +1 Sinking จำนวนครั้ง",
+          "desc": "[WhenUse] ได้รับ +1 [Sinking] จำนวนครั้ง",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ +2 Sinking จำนวนครั้ง"
+                  "desc": "[OnSucceedAttackTail] มอบ +2 [Sinking] จำนวนครั้ง"
                 }
               ]
             }
@@ -9136,17 +9136,17 @@
         {
           "level": 4,
           "name": "<line-height=120%>ฟาดด้วยร่ม\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +1 Sinking จำนวนครั้ง\n[DefeatDuel] ได้รับ 3 Sinking",
+          "desc": "[WhenUse] ได้รับ +1 [Sinking] จำนวนครั้ง\n[DefeatDuel] ได้รับ 3 [Sinking]",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 },
                 {
-                  "desc": "[เOnSucceedAttackTail] มอบ +2 Sinking จำนวนครั้ง"
+                  "desc": "[เOnSucceedAttackTail] มอบ +2 [Sinking] จำนวนครั้ง"
                 }
               ]
             }
@@ -9166,14 +9166,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ 2 Burst"
+                  "desc": "[OnSucceedAttackTail] มอบ 2 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ 2 Burst"
+                  "desc": "[OnSucceedAttackTail] มอบ 2 [Burst]"
                 }
               ]
             },
@@ -9195,14 +9195,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ 3 Burst"
+                  "desc": "[OnSucceedAttackTail] มอบ 3 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ 3 Burst"
+                  "desc": "[OnSucceedAttackTail] มอบ 3 [Burst]"
                 }
               ]
             },
@@ -9227,21 +9227,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ 3 Burst"
+                  "desc": "[OnSucceedAttackTail] มอบ 3 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ 3 Burst"
+                  "desc": "[OnSucceedAttackTail] มอบ 3 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "ใช้ 5 Sinking เพื่อทำความเสียหาย +20%"
+                  "desc": "ใช้ 5 [Sinking] เพื่อทำความเสียหาย +20%"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] เปิดใช้ สั่นสะเทือน"
@@ -9258,7 +9258,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>กางร่ม!\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 6 Sinking และ +3 Sinking จำนวนครั้ง",
+          "desc": "[WhenUse] ได้รับ 6 [Sinking] และ +3 [Sinking] จำนวนครั้ง",
           "coinlist": [
             {
               "coindescs": [
@@ -9271,7 +9271,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 Burst"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Burst]"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] มอบ 1 เปราะบาง ในเทิร์นต่อไป"
@@ -9288,7 +9288,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เตือนแล้วนะเห้ย!\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 3 Sinking",
+          "desc": "[WhenUse] ได้รับ 3 [Sinking]",
           "coinlist": [
             {
               "coindescs": [
@@ -9300,10 +9300,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 Burst"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Burst]"
                 }
               ]
             }
@@ -9312,7 +9312,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>เตือนแล้วนะเห้ย!\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 5 Sinking",
+          "desc": "[WhenUse] ได้รับ 5 [Sinking]",
           "coinlist": [
             {
               "coindescs": [
@@ -9324,10 +9324,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 Sinking"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 Burst"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Burst]"
                 }
               ]
             }
