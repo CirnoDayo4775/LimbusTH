@@ -140,7 +140,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Stagger target และ มอบ 10 [Vulnerable] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] Stagger เป้าหมาย และ มอบ 10 [Vulnerable] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -889,7 +889,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ขดตัว\u200B</line-height>",
-          "desc": "If this skill isบนa slot, ได้รับ Shield ไป the head's current HP",
+          "desc": "If this skill isบนa slot, ได้รับ โล่ ไป the head's current HP",
           "coinlist": [
             {}
           ]
@@ -1065,7 +1065,7 @@
         {
           "level": 1,
           "name": "<line-height=120%เฝ้าคอย\u200B</line-height>",
-          "desc": "[StartBattle] ศัตรูทุกตัว เสีย 20 SP",
+          "desc": "[StartBattle] ศัตรูทุกตัว เสีย 20 ค่าสติ",
           "coinlist": [
             {}
           ]
@@ -1448,7 +1448,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ1% ของ HP สูงสุด ต่อทุก [Laceration] ของเป้าหมาย\nลบขั้น [Laceration] ทั้งหมด"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ1% ของ HPสูงสุด ต่อทุก [Laceration] ของเป้าหมาย\nลบขั้น [Laceration] ทั้งหมด"
                 }
               ]
             }

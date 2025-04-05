@@ -6,7 +6,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Stoneshower\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Vibration], Base Power +1",
+                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Vibration], แต้มตั้งต้น +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -32,7 +32,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Gather Stones\u200B</line-height>",
-                    "desc": "[WinDuel] หากเป้าหมายมี [Vibration], Base Power +2",
+                    "desc": "[WinDuel] หากเป้าหมายมี [Vibration], แต้มตั้งต้น +2",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -54,7 +54,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Rising Sloth\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มเหรียญ +1 for every 3 [Vibration]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] This Skill ได้รับs Atk Weight +1 for every 5 [Vibration]บนthe target (สูงสุด 2)",
+                    "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Vibration]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] This Skill ได้รับs Atk Weight +1 ต่อทุกๆ 5 [Vibration]บนthe target (สูงสุด 2)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -62,7 +62,7 @@
                                     "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] อีกครั้ง for every [Vibration] Countบนthe target (สูงสุด 2); then, reduce target's [Vibration] Count ไป 2"
+                                    "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] อีกครั้ง ต่อทุกๆ [Vibration] Countบนthe target (สูงสุด 2); then, reduce target's [Vibration] Count ไป 2"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] มอบ [Vibration] +4 ขั้น"
@@ -79,7 +79,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-                    "desc": "Inflict 2 [Vibration] aได้รับst the Attacker when hitเป็นlongเป็นthere is remaining Shield HP\n[WhenUse] ได้รับ 3 [Protection]",
+                    "desc": "มอบ 2 [Vibration] aได้รับst the Attacker when hitเป็นlongเป็นthere is remaining โล่ HP\n[WhenUse] ได้รับ 3 [Protection]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -120,7 +120,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Torrent\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี [Sinking], Base Power +2",
+                    "desc": "[WhenUse] หากเป้าหมายมี [Sinking], แต้มตั้งต้น +2",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -142,7 +142,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Cascading Gloom\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มเหรียญ +1 for every 3 [Sinking]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] This Skill ได้รับs Atk Weight +1 for every 5 [Sinking]บนthe target (สูงสุด 2)",
+                    "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Sinking]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] This Skill ได้รับs Atk Weight +1 ต่อทุกๆ 5 [Sinking]บนthe target (สูงสุด 2)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -150,7 +150,7 @@
                                     "desc": "[OnSucceedAttack] มอบ 5 [Sinking] และ [Sinking] +4 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Next แต้มเหรียญ +1 for every 3 [Sinking]บนthe target (3 times max)"
+                                    "desc": "[OnSucceedAttack] Next แต้มเหรียญ +1 ต่อทุกๆ 3 [Sinking]บนthe target (3 times max)"
                                 }
                             ]
                         },
@@ -174,7 +174,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-                    "desc": "[OnSucceedEvade] Target เสีย 5 SP",
+                    "desc": "[OnSucceedEvade] เป้าหมายเสีย 5 ค่าสติ",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -193,7 +193,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>โค่นล้ม</line-height></size>\u200B</line-height>",
-                    "desc": "[WhenUse] Consume 20 [BloodDinner]: ได้รับ 1 [BloodArmor] for every 10 [BloodDinner] consumed\n[WhenUse] แต้มเหรียญ +1 for every 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 for every 15 [Laceration]บนself (สูงสุด 3)",
+                    "desc": "[WhenUse] Consume 20 [BloodDinner]: ได้รับ 1 [BloodArmor] ต่อทุกๆ 10 [BloodDinner] consumed\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration]บนself (สูงสุด 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -219,7 +219,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>ชก</size></line-height>\u200B</line-height>",
-                    "desc": "[WhenUse] Consume 20 [BloodDinner]: ได้รับ 1 [BloodArmor] for every 10 [BloodDinner] consumed\n[WhenUse] แต้มเหรียญ +1 for every 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 for every 15 [Laceration]บนself (สูงสุด 3)",
+                    "desc": "[WhenUse] Consume 20 [BloodDinner]: ได้รับ 1 [BloodArmor] ต่อทุกๆ 10 [BloodDinner] consumed\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration]บนself (สูงสุด 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -245,7 +245,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Don Quixote Hardblood Arts 4 - Sundering\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WinDuel] With this Skill, ทำ +20% more ความเสียหาย with every Stage of [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] Consume 4 [BloodArmor]",
+                    "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WinDuel] With this Skill, ทำ +20% ความเสียหายเพิ่มเติ่ม with every Stage of [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] Consume 4 [BloodArmor]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -271,7 +271,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Don Quixote Hardblood Arts 11 - Impaling\u200B</line-height>",
-                    "desc": "[WhenUse] For every 3 [Laceration]บนthe target, Base Power +1 (สูงสุด 3)\n[WinDuel] With this Skill, ทำ +20% more ความเสียหาย with every Stage of [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] Consume 4 [BloodArmor]",
+                    "desc": "[WhenUse] ต่อทุกๆ 3 [Laceration]บนthe target, แต้มตั้งต้น +1 (สูงสุด 3)\n[WinDuel] With this Skill, ทำ +20% ความเสียหายเพิ่มเติ่ม with every Stage of [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] Consume 4 [BloodArmor]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -290,7 +290,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target equal to its Count. Use up the target's [Laceration]Count down to 1"
+                                    "desc": "[OnSucceedAttack] เปิดใช้งาน [Laceration]บนthe target เท่ากับ its Count. Use up the target's [Laceration]Count down to 1"
                                 }
                             ]
                         }
@@ -304,7 +304,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Variant Don Quixote Style: Sancho Arts 4 - Track\u200B</line-height>",
-                    "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Laceration]\n[BeforeAttack] Atk Weight +1 for every 10 [BloodArmor]บนself (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 for every 5 [Laceration]บนthe target (สูงสุด 3)\n[WhenUse] Consume up to 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 for every 15 [BloodDinner] consumed (สูงสุด 2)\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration], และ activate [Laceration]immediately. เสีย 1 [Laceration]Count\n[EndSkill] Increase [BloodDinner] equal to the ความเสียหาย this Skill ทำ t",
+                    "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Laceration]\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor]บนself (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration]บนthe target (สูงสุด 3)\n[WhenUse] Consume up to 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] consumed (สูงสุด 2)\n- หาก ยูนิทนี้ failed to consume [BloodDinner], ได้รับ 10 [Laceration], และ เปิดใช้งาน [Laceration]immediately. เสีย 1 [Laceration]Count\n[EndSkill] Increase [BloodDinner] เท่ากับ the ความเสียหาย this Skill ทำ t",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -316,7 +316,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า\n- If this Skill consumed 30 [BloodDinner], มอบ 2 additional [Binding]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า\n- หาก this Skill consumed 30 [BloodDinner], มอบ 2 additional [Binding]"
                                 }
                             ]
                         }
@@ -330,7 +330,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ศาสตราดัดแปลงแห่งดอน กิโฮเต้: ศิลป์ซานโซที่ 3 - ซุ่มประจัน\u200B</line-height>",
-                    "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Laceration]\n[BeforeAttack] Atk Weight +1 for every 10 [BloodArmor]บนself (สูงสุด 2)\n[WhenUse] แต้มปะทะ +1 for every 5 [Laceration]บนthe target (สูงสุด 3)\n[WhenUse] Consume up to 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 for every 15 [BloodDinner] consumed (สูงสุด 2)\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration], และ activate [Laceration]immediately. เสีย 1 [Laceration]Count\n[EndSkill] Increase [BloodDinner] equal to the ความเสียหาย this Skill ทำ t",
+                    "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Laceration]\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor]บนself (สูงสุด 2)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration]บนthe target (สูงสุด 3)\n[WhenUse] Consume up to 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] consumed (สูงสุด 2)\n- หาก ยูนิทนี้ failed to consume [BloodDinner], ได้รับ 10 [Laceration], และ เปิดใช้งาน [Laceration]immediately. เสีย 1 [Laceration]Count\n[EndSkill] Increase [BloodDinner] เท่ากับ the ความเสียหาย this Skill ทำ t",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -349,7 +349,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า\n- If this Skill consumed 50 [BloodDinner], มอบ 2 additional [Paralysis]"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า\n- หาก this Skill consumed 50 [BloodDinner], มอบ 2 additional [Paralysis]"
                                 }
                             ]
                         }
@@ -363,7 +363,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>ศาสตราโลหิตแห่ง ดอน กิโฮเต้ ศาสตร์ที่ 2 - ผลึกโลหิต</size></line-height>\u200B</line-height>",
-                    "desc": "Can Clash with this Skill regardless of Speed\n[StartBattle] ได้รับ 1 [SwirlingBlood]\n[StartBattle] Consume 100 [BloodDinner]; ได้รับ 1 [BloodArmor] และ 20 Shield HP for every 10 [BloodDinner] consumed\n- If this unit doesn't have enough [BloodDinner], ได้รับ 50 [Laceration], และ activate it immediately. เสีย 2 [Laceration]Count. ได้รับ 200 Shield HP (this ความเสียหาย does not reduce this unit's HP to 0)\n[DefeatDuel]เป็นlongเป็นthe Shield HP from this Skill remains, ได้รับ 3 [Vulnerable]\n[DefeatDuel] This Skill ทำ s -50% less ความเสียหาย\n[EndSkill] End Combat Phase",
+                    "desc": "Can Clash with this Skill regardless of Speed\n[StartBattle] ได้รับ 1 [SwirlingBlood]\n[StartBattle] Consume 100 [BloodDinner]; ได้รับ 1 [BloodArmor] และ 20 โล่ HP ต่อทุกๆ 10 [BloodDinner] consumed\n- หาก ยูนิทนี้ doesn't have enough [BloodDinner], ได้รับ 50 [Laceration], และ เปิดใช้งาน it immediately. เสีย 2 [Laceration]Count. ได้รับ 200 โล่ HP (this ความเสียหาย does not reduce ยูนิทนี้'s HP to 0)\n[DefeatDuel]เป็นlongเป็นthe โล่ HP from this Skill remains, ได้รับ 3 [Vulnerable]\n[DefeatDuel] This Skill ทำ s -50% less ความเสียหาย\n[EndSkill] End Combat Phase",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -406,7 +406,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>ลา อเวนทูรา ฮา เทอร์มินาโด</size></line-height>\u200B</line-height>",
-                    "desc": "ทำ +10% more ความเสียหาย for every [Laceration]บนthe target (สูงสุด 200%)\nทำ +10% more ความเสียหาย for every 3 [BloodArmor] (สูงสุด 100%)\n[StartBattle] Consume (45 - current SP) [BloodDinner] และ ฟื้นฟู up to 45 SP\n- If there isn't enough [BloodDinner], ได้รับ 20 [Laceration]and ฟื้นฟู up to 45 SP\n- ได้รับ Shield HP equal to remaining [BloodDinner] (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[EndSkill] Increase [BloodDinner] ไป HP ความเสียหาย ทำ t aได้รับst the target\n[EndSkill] If the target is defeated, increase [BloodDinner] ไป the target's max HP",
+                    "desc": "ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration]บนthe target (สูงสุด 200%)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 3 [BloodArmor] (สูงสุด 100%)\n[StartBattle] Consume (45 - current SP) [BloodDinner] และ ฟื้นฟู up to 45 SP\n- หาก there isn't enough [BloodDinner], ได้รับ 20 [Laceration]and ฟื้นฟู up to 45 SP\n- ได้รับ โล่ HP เท่ากับ remaining [BloodDinner] (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[EndSkill] Increase [BloodDinner] ไป HP ความเสียหาย ทำ t aได้รับst the target\n[EndSkill] หาก the target is defeated, increase [BloodDinner] ไป the target's max HP",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -431,7 +431,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>ลา อเวนทูรา ฮา เทอร์มินาโด...</size></line-height>\u200B</line-height>",
-                    "desc": "ทำ +40% more ความเสียหาย for every 10 (sum of [Laceration]บนall targets]) (สูงสุด 200%)\nทำ +10% more ความเสียหาย for every cumulative [BloodDinner] this unit consumed (สูงสุด 100%)\n[StartBattle] Consume (45 - current SP) [BloodDinner] และ ฟื้นฟู up to 45 SP\n- If there isn't enough [BloodDinner], ได้รับ 20 [Laceration]and ฟื้นฟู up to 45 SP\n- ได้รับ Shield HP equal to remaining [BloodDinner] (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[EndSkill] Increase [BloodDinner] ไป HP ความเสียหาย ทำ t aได้รับst the target\n[EndSkill] If the target is defeated, increase [BloodDinner] ไป the target's max HP",
+                    "desc": "ทำ +40% ความเสียหายเพิ่มเติม ต่อทุกๆ 10 (sum of [Laceration]บนall targets]) (สูงสุด 200%)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ cumulative [BloodDinner] ยูนิทนี้ consumed (สูงสุด 100%)\n[StartBattle] Consume (45 - current SP) [BloodDinner] และ ฟื้นฟู up to 45 SP\n- หาก there isn't enough [BloodDinner], ได้รับ 20 [Laceration]and ฟื้นฟู up to 45 SP\n- ได้รับ โล่ HP เท่ากับ remaining [BloodDinner] (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[EndSkill] Increase [BloodDinner] ไป HP ความเสียหาย ทำ t aได้รับst the target\n[EndSkill] หาก the target is defeated, increase [BloodDinner] ไป the target's max HP",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -439,7 +439,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "Inflict 10 [Laceration]and [Laceration] +3 ขั้น"
+                                    "desc": "มอบ 10 [Laceration]and [Laceration] +3 ขั้น"
                                 }
                             ]
                         }
@@ -453,7 +453,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Compression\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มรวม +1 for every 5 [Breath] Potencyบนself (สูงสุด 3)",
+                    "desc": "[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 ปริมาณ [Breath]บนself (สูงสุด 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -475,7 +475,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Dismantle\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มรวม +1 for every 3 [Breath] Potencyบนself (สูงสุด 5)",
+                    "desc": "[WhenUse] แต้มรวม +1 ต่อทุกๆ 3 ปริมาณ [Breath]บนself (สูงสุด 5)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -500,7 +500,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Conduct Analysis\u200B</line-height>",
-                    "desc": "[WhenUse] เมื่อมี 10+ [Breath] Potency, consume [Breath] Potency to ได้รับ +2 แต้มรวม for every 3 [Breath] Potency consumed (สูงสุด 4)",
+                    "desc": "[WhenUse] เมื่อมี 10+ ปริมาณ [Breath], consume ปริมาณ [Breath] to ได้รับ +2 แต้มรวม ต่อทุกๆ 3 ปริมาณ [Breath] consumed (สูงสุด 4)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -528,7 +528,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Trigger Extinction Sequence\u200B</line-height>",
-                    "desc": "[WhenUse] Consume half of [Breath] Potency และ Countบนself\n- ได้รับ (sum of consumed [Breath] Potency และ Count / 2) แต้มรวม (สูงสุด 20)\n- ทำ +(sum of consumed [Breath] Potency และ Count x 2)% more ความเสียหาย (สูงสุด 50%)\n- +(sum of consumed [Breath] Potency และ Count x 4)% more ความเสียหายบนCritical Hit (สูงสุด 100%)\n[DefeatDuel] Reduce remaining [Breath] Count ไป half",
+                    "desc": "[WhenUse] Consume half of ปริมาณ [Breath] และ Countบนself\n- ได้รับ (sum of consumed ปริมาณ [Breath] และ Count / 2) แต้มรวม (สูงสุด 20)\n- ทำ +(sum of consumed ปริมาณ [Breath] และ Count x 2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n- +(sum of consumed ปริมาณ [Breath] และ Count x 4)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด 100%)\n[DefeatDuel] Reduce remaining [Breath] Count ไป half",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -556,7 +556,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Contemplation\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มรวม +1 for [Breath] Potencyบนself (สูงสุด 5)\n[WhenUse] ได้รับ 4 [Breath] Potency\n- If this unit has Shield, ได้รับ +2 [Breath] Countเป็นwell",
+                    "desc": "[WhenUse] แต้มรวม +1 for ปริมาณ [Breath]บนself (สูงสุด 5)\n[WhenUse] ได้รับ 4 ปริมาณ [Breath]\n- หากยูนิทนี้ยังมีโล่อยู่ ได้รับ [Breath] +2 ขั้นเป็นwell",
                     "coinlist": [
                         {}
                     ]

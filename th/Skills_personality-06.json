@@ -74,7 +74,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Cleanup Support\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ [Charge] +2 ขั้น\nแต้มปะทะ +1 when Shielded",
+          "desc": "[WhenUse] ได้รับ [Charge] +2 ขั้น\nแต้มปะทะ +1 when โล่ed",
           "coinlist": [
             {},
             {
@@ -89,7 +89,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Cleanup Support\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ [Charge] +3 ขั้น\nแต้มปะทะ +2 when Shielded",
+          "desc": "[WhenUse] ได้รับ [Charge] +3 ขั้น\nแต้มปะทะ +2 when โล่ed",
           "coinlist": [
             {
               "coindescs": [
@@ -110,7 +110,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Cleanup Support\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ [Charge] +3 ขั้น\nแต้มปะทะ +2 when Shielded",
+          "desc": "[WhenUse] ได้รับ [Charge] +3 ขั้น\nแต้มปะทะ +2 when โล่ed",
           "coinlist": [
             {
               "coindescs": [
@@ -122,7 +122,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี  [Charge] 5+ ขั้น, ได้รับ 1 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> for every [Charge] 5 ขั้น ในเทิร์นหน้า (สูงสุด 4)"
+                  "desc": "[OnSucceedAttack] เมื่อมี  [Charge] 5+ ขั้น, ได้รับ 1 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> ต่อทุกๆ [Charge] 5 ขั้น ในเทิร์นหน้า (สูงสุด 4)"
                 }
               ]
             }
@@ -278,7 +278,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, มอบ [Laceration] Count equal to their Speed difference (สูงสุด 2)"
+                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้ is faster than the target, มอบ [Laceration] Count เท่ากับ their Speed difference (สูงสุด 2)"
                 }
               ]
             }
@@ -306,7 +306,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, มอบ [Laceration] Count equal to their Speed difference (สูงสุด 3)"
+                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้ is faster than the target, มอบ [Laceration] Count เท่ากับ their Speed difference (สูงสุด 3)"
                 }
               ]
             }
@@ -334,7 +334,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, มอบ [Laceration] Count equal to their Speed difference (สูงสุด 4)"
+                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้ is faster than the target, มอบ [Laceration] Count เท่ากับ their Speed difference (สูงสุด 4)"
                 }
               ]
             }
@@ -348,7 +348,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>พุ่งชนpage\u200B</line-height>",
-          "desc": "เมื่อมี 8+ Speed, แต้มเหรียญ +1\nทำ more ความเสียหาย basedบนเป้าหมาย's missing HP (+0.3% ความเสียหาย ต่อทุกๆ 1% missing HP)",
+          "desc": "เมื่อมี 8+ Speed, แต้มเหรียญ +1\nทำ ความเสียหายเพิ่มเติ่ม basedบนเป้าหมาย's missing HP (+0.3% ความเสียหาย ต่อทุกๆ 1% missing HP)",
           "coinlist": [
             {
               "coindescs": [
@@ -377,7 +377,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>พุ่งชนpage\u200B</line-height>",
-          "desc": "เมื่อมี 6+ Speed, แต้มเหรียญ +1\nทำ more ความเสียหาย basedบนเป้าหมาย's missing HP (+0.5% ความเสียหาย ต่อทุกๆ 1% missing HP)",
+          "desc": "เมื่อมี 6+ Speed, แต้มเหรียญ +1\nทำ ความเสียหายเพิ่มเติ่ม basedบนเป้าหมาย's missing HP (+0.5% ความเสียหาย ต่อทุกๆ 1% missing HP)",
           "coinlist": [
             {
               "coindescs": [
@@ -432,7 +432,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Expend Knowledge\u200B</line-height>",
-          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots",
+          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of ยูนิทนี้'s Skill Slots",
           "coinlist": [
             {
               "coindescs": [
@@ -446,7 +446,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Expend Knowledge\u200B</line-height>",
-          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] เมื่อมี 3+ [KnowledgeExplored], แต้มปะทะ +1",
+          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of ยูนิทนี้'s Skill Slots\n[WhenUse] เมื่อมี 3+ [KnowledgeExplored], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -463,7 +463,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Expend Knowledge\u200B</line-height>",
-          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] แต้มปะทะ +([KnowledgeExplored] - 1)",
+          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of ยูนิทนี้'s Skill Slots\n[WhenUse] แต้มปะทะ +([KnowledgeExplored] - 1)",
           "coinlist": [
             {
               "coindescs": [
@@ -485,7 +485,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Unveil\u200B</line-height>",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots",
+          "desc": "[WhenUse] Randomly Discard 2 of ยูนิทนี้'s Skills in ascending order of ranks from all of its Skill Slots",
           "coinlist": [
             {},
             {},
@@ -501,7 +501,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Unveil\u200B</line-height>",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n[WhenUse] เมื่อมี 3+ [KnowledgeExplored], แต้มเหรียญ +1",
+          "desc": "[WhenUse] Randomly Discard 2 of ยูนิทนี้'s Skills in ascending order of ranks from all of its Skill Slots\n[WhenUse] เมื่อมี 3+ [KnowledgeExplored], แต้มเหรียญ +1",
           "coinlist": [
             {},
             {},
@@ -517,7 +517,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Unveil\u200B</line-height>",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n[WhenUse] แต้มเหรียญ +([KnowledgeExplored] - 1)",
+          "desc": "[WhenUse] Randomly Discard 2 of ยูนิทนี้'s Skills in ascending order of ranks from all of its Skill Slots\n[WhenUse] แต้มเหรียญ +([KnowledgeExplored] - 1)",
           "coinlist": [
             {},
             {},
@@ -538,7 +538,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Cyclical Knowledge\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 2+ [KnowledgeExplored], ได้รับ แต้มเหรียญ equal to [KnowledgeExplored]\n[WhenUse] ทำ +1.5% more ความเสียหาย ต่อทุกๆ [Sinking]บนเป้าหมาย (สูงสุด 15%)",
+          "desc": "[WhenUse] เมื่อมี 2+ [KnowledgeExplored], ได้รับ แต้มเหรียญ เท่ากับ [KnowledgeExplored]\n[WhenUse] ทำ +1.5% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ [Sinking]บนเป้าหมาย (สูงสุด 15%)",
           "coinlist": [
             {},
             {},
@@ -548,7 +548,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ขั้น"
                 },
                 {
-                  "desc": "[EndSkill] If target is Staggered or defeated, ฟื้นฟู 10 SP"
+                  "desc": "[EndSkill] หาก target is Staggered or defeated, ฟื้นฟู 10 ค่าสติ"
                 }
               ]
             }
@@ -557,7 +557,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Cyclical Knowledge\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 2+ [KnowledgeExplored], ได้รับ แต้มเหรียญ equal to [KnowledgeExplored]\n[WhenUse] ทำ +3% more ความเสียหาย ต่อทุกๆ [Sinking]บนเป้าหมาย (สูงสุด 30%)",
+          "desc": "[WhenUse] เมื่อมี 2+ [KnowledgeExplored], ได้รับ แต้มเหรียญ เท่ากับ [KnowledgeExplored]\n[WhenUse] ทำ +3% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ [Sinking]บนเป้าหมาย (สูงสุด 30%)",
           "coinlist": [
             {},
             {},
@@ -567,7 +567,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Sinking] +4 ขั้น"
                 },
                 {
-                  "desc": "[EndSkill] If target is Staggered or defeated, ฟื้นฟู 10 SP"
+                  "desc": "[EndSkill] หาก target is Staggered or defeated, ฟื้นฟู 10 ค่าสติ"
                 }
               ]
             }
@@ -581,7 +581,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Guiding Steps\u200B</line-height>",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots",
+          "desc": "[WhenUse] Randomly Discard 2 of ยูนิทนี้'s Skills in ascending order of ranks from all of its Skill Slots",
           "coinlist": [
             {}
           ]
@@ -589,7 +589,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Guiding Steps\u200B</line-height>",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots",
+          "desc": "[WhenUse] Randomly Discard 2 of ยูนิทนี้'s Skills in ascending order of ranks from all of its Skill Slots",
           "coinlist": [
             {}
           ]
@@ -764,7 +764,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this Skill consumed [Vibration] Countบนuse, trigger [FusionVibration] into [VibrationEcho]"
+                  "desc": "[OnSucceedAttack] หาก this Skill consumed [Vibration] Countบนuse, trigger [FusionVibration] into [VibrationEcho]"
                 }
               ]
             },
@@ -779,7 +779,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1\n- If this unit did not consume [Vibration] Count with Skill use, activate the above effect, then trigger [VibrationExplosion]บนself"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1\n- หาก ยูนิทนี้ did not consume [Vibration] Count with Skill use, เปิดใช้งาน the above effect, then trigger [VibrationExplosion]บนself"
                 }
               ]
             }
@@ -788,12 +788,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>You're the Culprit!\u200B</line-height>",
-          "desc": "[WhenUse] แต้มปะทะ +1 for every <style=\"highlight\">6</style> [Vibration]บนเป้าหมาย <style=\"highlight\">(สูงสุด 2)</style>\n[WhenUse] เมื่อมี <style=\"highlight\"> less than 15 [Vibration] Countบนself</style>, consume 10 [Vibration] Count to ได้รับ แต้มเหรียญ +2\n<style=\"highlight\">[WhenUse] Consume 15 [Vibration] Countบนself to ได้รับ แต้มเหรียญ +3</style>",
+          "desc": "[WhenUse] แต้มปะทะ +1 ต่อทุกๆ <style=\"highlight\">6</style> [Vibration]บนเป้าหมาย <style=\"highlight\">(สูงสุด 2)</style>\n[WhenUse] เมื่อมี <style=\"highlight\"> less than 15 [Vibration] Countบนself</style>, consume 10 [Vibration] Count to ได้รับ แต้มเหรียญ +2\n<style=\"highlight\">[WhenUse] Consume 15 [Vibration] Countบนself to ได้รับ แต้มเหรียญ +3</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this Skill consumed [Vibration] Countบนuse, trigger [FusionVibration] into [VibrationEcho]"
+                  "desc": "[OnSucceedAttack] หาก this Skill consumed [Vibration] Countบนuse, trigger [FusionVibration] into [VibrationEcho]"
                 }
               ]
             },
@@ -807,14 +807,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this Skill consumed 10+ [Vibration] CountบนSkill Use, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก this Skill consumed 10+ [Vibration] CountบนSkill Use, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this Skill consumed 10+ [Vibration] CountบนSkill Use, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1\n- If this unit consumed less than 15 [Vibration] Count, trigger [VibrationExplosion]บนself after activating the above effect</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก this Skill consumed 10+ [Vibration] CountบนSkill Use, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1\n- หาก ยูนิทนี้ consumed less than 15 [Vibration] Count, trigger [VibrationExplosion]บนself after activating the above effect</style>"
                 }
               ]
             }
@@ -828,7 +828,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wait?!\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 x ([Vibration] Countบนเป้าหมาย)เป็นShield HP (สูงสุด 7)",
+          "desc": "[WhenUse] ได้รับ 2 x ([Vibration] Countบนเป้าหมาย)มาเป็นโล่ HP (สูงสุด 7)",
           "coinlist": [
             {}
           ]
@@ -836,7 +836,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Wait?!\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 x ([Vibration] Countบนเป้าหมาย)เป็นShield HP (สูงสุด <style=\"highlight\">13</style>)",
+          "desc": "[WhenUse] ได้รับ 2 x ([Vibration] Countบนเป้าหมาย)มาเป็นโล่ HP (สูงสุด <style=\"highlight\">13</style>)",
           "coinlist": [
             {}
           ]
@@ -968,7 +968,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Bonecrusher\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] or [Burst] Count; instead, ได้รับ แต้มเหรียญ +1\n- If target is a <Bloodfiend> or a <Bloodbag>, ได้รับ an additional แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +1 ขั้น",
+          "desc": "หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] or [Burst] Count; instead, ได้รับ แต้มเหรียญ +1\n- หาก target is a <Bloodfiend> or a <Bloodbag>, ได้รับ an additional แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1022,7 +1022,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>A Cheerful Hunt's End\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] or [Burst] Count; instead, ได้รับ แต้มเหรียญ +1\n- If target is a <Bloodfiend> or a <Bloodbag>, ได้รับ an additional แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +2 ขั้น",
+          "desc": "หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] or [Burst] Count; instead, ได้รับ แต้มเหรียญ +1\n- หาก target is a <Bloodfiend> or a <Bloodbag>, ได้รับ an additional แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1069,7 +1069,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Emergency Styptics\u200B</line-height>",
-          "desc": "[StartBattle] เสีย 2 [Laceration]Potencyบนself (3 times ต่อทุกๆ turn. If [Laceration]Potency drops to 0 or less, the [Laceration] effect expires)",
+          "desc": "[StartBattle] เสีย 2 [Laceration]Potencyบนself (3 times ต่อทุกๆ turn. หาก [Laceration]Potency drops to 0 or less, the [Laceration] effect expires)",
           "coinlist": [
             {
               "coindescs": [
@@ -1088,7 +1088,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Take the Shot\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1122,7 +1122,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Take the Shot\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 [Breath] Count<style=\"highlight\"></style>",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1195,7 +1195,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Target Marked\u200B</line-height>",
-          "desc": "Base Power +1 for every [Bullet] about to be spent ไป this Skill\n[WhenUse] If Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the highest Reson. adds 20% chance that this unit activates [CoveringFire]\n[WhenUse] ได้รับ +1 [Breath] Count",
+          "desc": "แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the highest Reson. adds 20% chance that ยูนิทนี้ activates [CoveringFire]\n[WhenUse] ได้รับ [Breath] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1210,7 +1210,7 @@
                   "desc": "Spend up to 3 [Bullet]"
                 },
                 {
-                  "desc": "ทำ +([Bullet] spent x 10)% more ความเสียหาย"
+                  "desc": "ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             },
@@ -1226,7 +1226,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Target Marked\u200B</line-height>",
-          "desc": "Base Power +1 for every [Bullet] about to be spent ไป this Skill\n[WhenUse] If Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the highest Reson. adds 20% chance that this unit activates [CoveringFire]\n[WhenUse] ได้รับ +<style=\"highlight\">2</style> [Breath] Count",
+          "desc": "แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the highest Reson. adds 20% chance that ยูนิทนี้ activates [CoveringFire]\n[WhenUse] ได้รับ +<style=\"highlight\">2</style> [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1241,7 +1241,7 @@
                   "desc": "Spend up to 3 [Bullet]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "ทำ +([Bullet] spent x 10)% more ความเสียหาย<style=\"highlight\"></style>"
+                  "desc": "ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1260,7 +1260,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Target Marked\u200B</line-height>",
-          "desc": "Base Power +1 for every [Bullet] about to be spent ไป this Skill\n[WhenUse] If Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the highest Reson. adds 25% chance that this unit activates [CoveringFire]\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Breath] Count",
+          "desc": "แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the highest Reson. adds 25% chance that ยูนิทนี้ activates [CoveringFire]\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1275,17 +1275,17 @@
                   "desc": "Spend up to 3 [Bullet]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "ทำ +([Bullet] spent x 10)% more ความเสียหาย<style=\"highlight\"></style>"
+                  "desc": "ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+([Bullet] spent x 10)% ความเสียหายบนCritical Hit</style>"
+                  "desc": "<style=\"highlight\">+([Bullet] spent x 10)% ความเสียหายเมื่อติดคริ</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">+20% ความเสียหายบนCritical Hit</style>"
+                  "desc": "<style=\"highlight\">+20% ความเสียหายเมื่อติดคริ</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า<style=\"highlight\"></style>"
@@ -1305,7 +1305,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Full-Stop to Life\u200B</line-height>",
-          "desc": "Base Power +1 for every [Bullet] about to be spent ไป this Skill\n[WhenUse] If Full-Stop Office Fixer Heathcliff isบนthe field, activate [CoveringFire]\n[WhenUse] ได้รับ 5 [Breath]",
+          "desc": "แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, เปิดใช้งาน [CoveringFire]\n[WhenUse] ได้รับ 5 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1313,7 +1313,7 @@
                   "desc": "Spend 1 [Bullet]"
                 },
                 {
-                  "desc": "ทำ +([Bullet] spent x 10)% more ความเสียหาย"
+                  "desc": "ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold ไป 10% ของความเสียหายที่ทำไป"
@@ -1326,7 +1326,7 @@
                   "desc": "Spend up to 2 [Bullet]"
                 },
                 {
-                  "desc": "ทำ +([Bullet] spent x 10)% more ความเสียหาย"
+                  "desc": "ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold ไป 10% ของความเสียหายที่ทำไป"
@@ -1336,7 +1336,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "If target is Staggered, +30% ความเสียหายบนCritical Hit"
+                  "desc": "If target is Staggered, +30% ความเสียหายเมื่อติดคริ"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า"
@@ -1351,7 +1351,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Full-Stop to Life\u200B</line-height>",
-          "desc": "Base Power +1 for every [Bullet] about to be spent ไป this Skill\n[WhenUse] If Full-Stop Office Fixer Heathcliff isบนthe field, activate [CoveringFire]\n[WhenUse] ได้รับ 5 [Breath]\n<style=\"highlight\">[WinDuel] ได้รับ +2 [Breath] Count</style>",
+          "desc": "แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, เปิดใช้งาน [CoveringFire]\n[WhenUse] ได้รับ 5 [Breath]\n<style=\"highlight\">[WinDuel] ได้รับ [Breath] +2 ขั้น</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1359,7 +1359,7 @@
                   "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% more ความเสียหาย"
+                  "desc": "ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold ไป <style=\"highlight\">15</style>% ของความเสียหายที่ทำไป"
@@ -1372,7 +1372,7 @@
                   "desc": "Spend up to 2 [Bullet]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% more ความเสียหาย"
+                  "desc": "ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold ไป <style=\"highlight\">15</style>% ของความเสียหายที่ทำไป"
@@ -1382,7 +1382,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "If target is Staggered, +30% ความเสียหายบนCritical Hit<style=\"highlight\"></style>"
+                  "desc": "If target is Staggered, +30% ความเสียหายเมื่อติดคริ<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">2</style> [Binding] ในเทิร์นหน้า"
@@ -1401,8 +1401,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Combat Poise\u200B</line-height>",
-          "desc": "Turn Start: at 0 [Bullet], activate 'Beyond the Shadow' instead\n[OnSucceedEvade] ได้รับ 1 [Breath] (3 times ต่อทุกๆ turn)",
+          "name": "<line-height=120%>Combat [Breath]\u200B</line-height>",
+          "desc": "Turn Start: at 0 [Bullet], เปิดใช้งาน 'Beyond the Shadow' instead\n[OnSucceedEvade] ได้รับ 1 [Breath] (3 times ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1415,8 +1415,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Combat Poise\u200B</line-height>",
-          "desc": "Turn Start: at 0 [Bullet], activate 'Beyond the Shadow' instead\n[OnSucceedEvade] ได้รับ 1 [Breath] (<style=\"highlight\">5</style> times ต่อทุกๆ turn)",
+          "name": "<line-height=120%>Combat [Breath]\u200B</line-height>",
+          "desc": "Turn Start: at 0 [Bullet], เปิดใช้งาน 'Beyond the Shadow' instead\n[OnSucceedEvade] ได้รับ 1 [Breath] (<style=\"highlight\">5</style> times ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1435,7 +1435,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Combo: Target Marked\u200B</line-height>",
-          "desc": "Base Power +1 for every [Bullet] about to be spent ไป this Skill\n[WhenUse] ได้รับ +2 [Breath] Count\n[DefeatDuel] แต้มรวม +5",
+          "desc": "แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[DefeatDuel] แต้มรวม +5",
           "coinlist": [
             {
               "coindescs": [
@@ -1450,7 +1450,7 @@
                   "desc": "Spend up to 3 [Bullet]"
                 },
                 {
-                  "desc": "ทำ +([Bullet] spent x 10)% more ความเสียหาย"
+                  "desc": "ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             },
@@ -1470,7 +1470,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "+30% ความเสียหายบนCritical Hit"
+                  "desc": "+30% ความเสียหายเมื่อติดคริ"
                 }
               ]
             }
@@ -1479,7 +1479,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Combo: Target Marked\u200B</line-height>",
-          "desc": "Base Power +1 for every [Bullet] about to be spent ไป this Skill\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Breath] Count\n[DefeatDuel] แต้มรวม +5",
+          "desc": "แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Breath] Count\n[DefeatDuel] แต้มรวม +5",
           "coinlist": [
             {
               "coindescs": [
@@ -1494,17 +1494,17 @@
                   "desc": "Spend up to 3 [Bullet]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "ทำ +([Bullet] spent x 10)% more ความเสียหาย<style=\"highlight\"></style>"
+                  "desc": "ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+([Bullet] spent x 10)% ความเสียหายบนCritical Hit</style>"
+                  "desc": "<style=\"highlight\">+([Bullet] spent x 10)% ความเสียหายเมื่อติดคริ</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">+20% ความเสียหายบนCritical Hit</style>"
+                  "desc": "<style=\"highlight\">+20% ความเสียหายเมื่อติดคริ</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า<style=\"highlight\"></style>"
@@ -1520,7 +1520,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "+30% ความเสียหายบนCritical Hit<style=\"highlight\"></style>"
+                  "desc": "+30% ความเสียหายเมื่อติดคริ<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1534,7 +1534,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Combo: Full-Stop to Life\u200B</line-height>",
-          "desc": "Base Power +1 for every [Bullet] about to be spent ไป this Skill\n[WhenUse] ได้รับ 5 [Breath]\n[DefeatDuel] แต้มรวม +5",
+          "desc": "แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] ได้รับ 5 [Breath]\n[DefeatDuel] แต้มรวม +5",
           "coinlist": [
             {
               "coindescs": [
@@ -1542,7 +1542,7 @@
                   "desc": "Spend 1 [Bullet]"
                 },
                 {
-                  "desc": "ทำ +([Bullet] spent x 10)% more ความเสียหาย"
+                  "desc": "ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold ไป 10% ของความเสียหายที่ทำไป"
@@ -1555,7 +1555,7 @@
                   "desc": "Spend up to 2 [Bullet]"
                 },
                 {
-                  "desc": "ทำ +([Bullet] spent x 10)% more ความเสียหาย"
+                  "desc": "ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold ไป 10% ของความเสียหายที่ทำไป"
@@ -1565,7 +1565,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "If target is Staggered, +30% ความเสียหายบนCritical Hit"
+                  "desc": "If target is Staggered, +30% ความเสียหายเมื่อติดคริ"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า"
@@ -1581,10 +1581,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "+30% ความเสียหายบนCritical Hit"
+                  "desc": "+30% ความเสียหายเมื่อติดคริ"
                 },
                 {
-                  "desc": "ทำ +(target's Pierce Res. x 50)% more ความเสียหาย"
+                  "desc": "ทำ +(target's Pierce Res. x 50)% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             }
@@ -1593,7 +1593,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Combo: Full-Stop to Life\u200B</line-height>",
-          "desc": "Base Power +1 for every [Bullet] about to be spent ไป this Skill\n[WhenUse] ได้รับ 5 [Breath]\n<style=\"highlight\">[WinDuel] ได้รับ +2 [Breath] Count</style>\n[DefeatDuel] แต้มรวม +5",
+          "desc": "แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] ได้รับ 5 [Breath]\n<style=\"highlight\">[WinDuel] ได้รับ [Breath] +2 ขั้น</style>\n[DefeatDuel] แต้มรวม +5",
           "coinlist": [
             {
               "coindescs": [
@@ -1601,7 +1601,7 @@
                   "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% more ความเสียหาย"
+                  "desc": "ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold ไป <style=\"highlight\">15</style>% ของความเสียหายที่ทำไป"
@@ -1614,7 +1614,7 @@
                   "desc": "Spend up to 2 [Bullet]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% more ความเสียหาย"
+                  "desc": "ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold ไป <style=\"highlight\">15</style>% ของความเสียหายที่ทำไป"
@@ -1624,7 +1624,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "If target is Staggered, +30% ความเสียหายบนCritical Hit<style=\"highlight\"></style>"
+                  "desc": "If target is Staggered, +30% ความเสียหายเมื่อติดคริ<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">2</style> [Binding] ในเทิร์นหน้า"
@@ -1640,10 +1640,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">+50% ความเสียหายบนCritical Hit</style>"
+                  "desc": "<style=\"highlight\">+50% ความเสียหายเมื่อติดคริ</style>"
                 },
                 {
-                  "desc": "ทำ +(target's Pierce Res. x 50)% more ความเสียหาย<style=\"highlight\"></style>"
+                  "desc": "ทำ +(target's Pierce Res. x 50)% ความเสียหายเพิ่มเติ่ม<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1657,7 +1657,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Beyond the Shadow\u200B</line-height>",
-          "desc": "[DuelCounter]\n[WhenUse] ได้รับ +2 [Breath] Count\n[EndBattle] [FullReload] (once ต่อทุกๆ Encounter)",
+          "desc": "[DuelCounter]\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[EndBattle] [FullReload] (once ต่อทุกๆ Encounter)",
           "coinlist": [
             {
               "coindescs": [
@@ -1678,7 +1678,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Beyond the Shadow\u200B</line-height>",
-          "desc": "[DuelCounter]\n<style=\"highlight\">+20% ความเสียหายบนCritical Hit</style>\n[WhenUse] ได้รับ +2 [Breath] Count\n[EndBattle] [FullReload] (once ต่อทุกๆ Encounter)",
+          "desc": "[DuelCounter]\n<style=\"highlight\">+20% ความเสียหายเมื่อติดคริ</style>\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[EndBattle] [FullReload] (once ต่อทุกๆ Encounter)",
           "coinlist": [
             {
               "coindescs": [
@@ -1704,7 +1704,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Melee Support\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1725,7 +1725,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Melee Support\u200B</line-height>",
-          "desc": "<style=\"highlight\">+20% ความเสียหายบนCritical Hit</style>\n[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "<style=\"highlight\">+20% ความเสียหายเมื่อติดคริ</style>\n[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [

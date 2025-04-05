@@ -74,7 +74,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Chains of Loyalty\u200B</line-height>",
-          "desc": "[StartBattle] มอบ 1 Envy Power Up to 2 allies adjacent to this unitบนthe Dashboard.",
+          "desc": "[StartBattle] มอบ 1 Envy Power Up to 2 allies adjacent to ยูนิทนี้บนthe Dashboard.",
           "coinlist": [
             {
               "coindescs": [
@@ -95,7 +95,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Chains of Loyalty\u200B</line-height>",
-          "desc": "[StartBattle] มอบ 1 Envy Power Up to 2 allies adjacent to this unitบนthe Dashboard.",
+          "desc": "[StartBattle] มอบ 1 Envy Power Up to 2 allies adjacent to ยูนิทนี้บนthe Dashboard.",
           "coinlist": [
             {
               "coindescs": [
@@ -116,7 +116,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Chains of Loyalty\u200B</line-height>",
-          "desc": "[StartBattle] มอบ 1 Envy Power Up to 2 allies adjacent to this unitบนthe Dashboard\nApply 1 Envy DMG Upเป็นwell when selecting Envy affinity Skills from the affected Skill Slots",
+          "desc": "[StartBattle] มอบ 1 Envy Power Up to 2 allies adjacent to ยูนิทนี้บนthe Dashboard\nApply 1 Envy DMG Upเป็นwell when selecting Envy affinity Skills from the affected Skill Slots",
           "coinlist": [
             {
               "coindescs": [
@@ -147,7 +147,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี Vengeance Mark, มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี Vengeance Mark, มอบ 1 [PlusCoinValueDown] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -173,7 +173,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี Vengeance Mark, มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี Vengeance Mark, มอบ 1 [PlusCoinValueDown] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -198,7 +198,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Multifold Retribution\u200B</line-height>",
+          "name": "<line-height=120%>ตามสนองสิบเท่า\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -219,7 +219,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Multifold Retribution\u200B</line-height>",
+          "name": "<line-height=120%>ตามสนองสิบเท่า\u200B</line-height>",
           "desc": "เมื่อมี 4+ Envy Reson., แต้มเหรียญ +1",
           "coinlist": [
             {
@@ -246,7 +246,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Draw of the Sword\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -267,7 +267,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Draw of the Sword\u200B</line-height>",
-          "desc": "<style=\"highlight\">[StartBattle] มอบ 1 [BladeResultUpTier1] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)\n</style>[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "<style=\"highlight\">[StartBattle] มอบ 1 [BladeResultUpTier1] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)\n</style>[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -288,7 +288,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Draw of the Sword\u200B</line-height>",
-          "desc": "[StartBattle_Force] <color=#EBCAA2>Apply 1 [BladeResultUpTier1] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</color>\n[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Apply 1 [BladeResultUpTier1] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</color>\n[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -309,7 +309,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Draw of the Sword\u200B</line-height>",
-          "desc": "<style=\"highlight\">เมื่อมี 5+ [Breath], แต้มเหรียญ +1</style>\n[StartBattle] มอบ 1 [BladeResultUpTier1] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)\n<style=\"highlight\">- If there are 6 or more allied Blade Lineage Identities in the Encounter, มอบ 2 instead</style>\n[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "<style=\"highlight\">เมื่อมี 5+ [Breath], แต้มเหรียญ +1</style>\n[StartBattle] มอบ 1 [BladeResultUpTier1] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)\n<style=\"highlight\">- หาก there are 6 or more allied Blade Lineage Identities in the Encounter, มอบ 2 instead</style>\n[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -335,7 +335,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Acupuncture\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 [Breath] Count\n[WinDuel] ได้รับ 1 Slash Power Up ในเทิร์นหน้า",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WinDuel] ได้รับ 1 Slash Power Up ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -348,7 +348,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+30% ความเสียหายบนCritical Hit"
+                  "desc": "+30% ความเสียหายเมื่อติดคริ"
                 }
               ]
             }
@@ -357,7 +357,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Acupuncture\u200B</line-height>",
-          "desc": "<style=\"highlight\">[StartBattle] มอบ 1 [BladeResultUpTier2] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</style>\n[WhenUse] ได้รับ +2 [Breath] Count\n[WinDuel] ได้รับ 1 Slash Power Up ในเทิร์นหน้า",
+          "desc": "<style=\"highlight\">[StartBattle] มอบ 1 [BladeResultUpTier2] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</style>\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WinDuel] ได้รับ 1 Slash Power Up ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -370,7 +370,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+40% ความเสียหายบนCritical Hit"
+                  "desc": "+40% ความเสียหายเมื่อติดคริ"
                 }
               ]
             }
@@ -379,7 +379,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Acupuncture\u200B</line-height>",
-          "desc": "[StartBattle_Force] <color=#EBCAA2>Apply 1 [BladeResultUpTier2] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</color>\n[WhenUse] ได้รับ +2 [Breath] Count\n[WinDuel] ได้รับ 1 Slash Power Up ในเทิร์นหน้า",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Apply 1 [BladeResultUpTier2] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</color>\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WinDuel] ได้รับ 1 Slash Power Up ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -392,7 +392,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+40% ความเสียหายบนCritical Hit"
+                  "desc": "+40% ความเสียหายเมื่อติดคริ"
                 }
               ]
             }
@@ -401,7 +401,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Acupuncture\u200B</line-height>",
-          "desc": "<style=\"highlight\">เมื่อมี 7+ [Breath], แต้มเหรียญ +1</style>\n[StartBattle] มอบ 1 [BladeResultUpTier2] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)\n<style=\"highlight\">- If there are 6 or more allied Blade Lineage Identities in the Encounter, มอบ 2 instead</style>\n[WhenUse] ได้รับ +3 [Breath] Count\n[WinDuel] ได้รับ 1 Slash Power Up ในเทิร์นหน้า",
+          "desc": "<style=\"highlight\">เมื่อมี 7+ [Breath], แต้มเหรียญ +1</style>\n[StartBattle] มอบ 1 [BladeResultUpTier2] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)\n<style=\"highlight\">- หาก there are 6 or more allied Blade Lineage Identities in the Encounter, มอบ 2 instead</style>\n[WhenUse] ได้รับ [Breath] +3 ขั้น\n[WinDuel] ได้รับ 1 Slash Power Up ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -414,7 +414,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+60% ความเสียหายบนCritical Hit"
+                  "desc": "+60% ความเสียหายเมื่อติดคริ"
                 }
               ]
             }
@@ -428,7 +428,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Yield My Flesh\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +3 Aggro to this Skill Slot ในเทิร์นหน้า\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking ความเสียหาย\n[WinDuel] ได้รับ 5 [Breath]\n[DefeatDuel] After getting hit, use 'To Claim Their Bones' Skill\n[CriticalActivated] ทำ +2% more ความเสียหายบนCritical Hit for every Poise Potencyบนself (สูงสุด 50%)\n+15% ความเสียหายบนCritical Hit\nทำ +0.5% more ความเสียหาย ต่อทุกๆ 1% missing HPบนself (สูงสุด 25%)",
+          "desc": "[WhenUse] ได้รับ +3 Aggro to this Skill Slot ในเทิร์นหน้า\n[WhenUse] Until this Skill ends, ยูนิทนี้ cannot be Staggered from taking ความเสียหาย\n[WinDuel] ได้รับ 5 [Breath]\n[DefeatDuel] After getting hit, use 'To Claim Their Bones' Skill\n[CriticalActivated] ทำ +2% ความเสียหายเพิ่มเติ่มเมื่อติดคริ ต่อทุกๆ ปริมาณ [Breath]บนself (สูงสุด 50%)\n+15% ความเสียหายเมื่อติดคริ\nทำ +0.5% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ 1% missing HP บนตัวเอง (สูงสุด 25%)",
           "coinlist": [
             {}
           ]
@@ -436,7 +436,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Yield My Flesh\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +3 Aggro to this Skill Slot ในเทิร์นหน้า\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking ความเสียหาย\n[WinDuel] ได้รับ 5 [Breath]\n[DefeatDuel] After getting hit, use 'To Claim Their Bones' Skill\n[CriticalActivated] ทำ +3% more ความเสียหายบนCritical Hit for every Poise Potencyบนself (สูงสุด 75%)\n+30% ความเสียหายบนCritical Hit\nทำ +0.5% more ความเสียหาย ต่อทุกๆ 1% missing HPบนself (สูงสุด 25%)",
+          "desc": "[WhenUse] ได้รับ +3 Aggro to this Skill Slot ในเทิร์นหน้า\n[WhenUse] Until this Skill ends, ยูนิทนี้ cannot be Staggered from taking ความเสียหาย\n[WinDuel] ได้รับ 5 [Breath]\n[DefeatDuel] After getting hit, use 'To Claim Their Bones' Skill\n[CriticalActivated] ทำ +3% ความเสียหายเพิ่มเติ่มเมื่อติดคริ ต่อทุกๆ ปริมาณ [Breath]บนself (สูงสุด 75%)\n+30% ความเสียหายเมื่อติดคริ\nทำ +0.5% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ 1% missing HP บนตัวเอง (สูงสุด 25%)",
           "coinlist": [
             {}
           ]
@@ -463,7 +463,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Overthrow\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 1 Slash Power Up ในเทิร์นหน้า (1 time max)\n<style=\"highlight\">ทำ +0.5% more ความเสียหาย for every 1% missing HPบนself (สูงสุด 25%)</style>",
+          "desc": "[WhenUse] ได้รับ 1 Slash Power Up ในเทิร์นหน้า (1 time max)\n<style=\"highlight\">ทำ +0.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 1% missing HP บนตัวเอง (สูงสุด 25%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -482,7 +482,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-          "desc": "[BeforeAttack] เมื่อมี 10+ [Breath], Atk Weight +1\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking ความเสียหาย\n[WhenUse] ทำ +2% more ความเสียหายบนCritical Hit for every Poise Potencyบนself (สูงสุด 50%)\n+20% ความเสียหายบนCritical Hit\nทำ +0.5% more ความเสียหาย for every 1% missing HPบนself (สูงสุด 25%)",
+          "desc": "[BeforeAttack] เมื่อมี 10+ [Breath], Atk Weight +1\n[WhenUse] Until this Skill ends, ยูนิทนี้ cannot be Staggered from taking ความเสียหาย\n[WhenUse] ทำ +2% ความเสียหายเพิ่มเติ่มเมื่อติดคริ ต่อทุกๆ ปริมาณ [Breath]บนself (สูงสุด 50%)\n+20% ความเสียหายเมื่อติดคริ\nทำ +0.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 1% missing HP บนตัวเอง (สูงสุด 25%)",
           "coinlist": [
             {},
             {},
@@ -502,7 +502,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-          "desc": "<style=\"highlight\">[BeforeAttack] For every 7 [Breath]บนself, Atk Weight +1 (สูงสุด +2)</style>\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking ความเสียหาย\n[WhenUse] ทำ +2% more ความเสียหายบนCritical Hit for every Poise Potencyบนself (สูงสุด 50%)\n+<style=\"highlight\">30</style>% ความเสียหายบนCritical Hit\nทำ +0.5% more ความเสียหาย for every 1% missing HPบนself (สูงสุด 25%)\n<style=\"highlight\">If this Skill targets only a single enemy, ทำ +100% more ความเสียหาย (In Focused Encounters, a single Part)</style>",
+          "desc": "<style=\"highlight\">[BeforeAttack] ต่อทุกๆ 7 [Breath]บนself, Atk Weight +1 (สูงสุด +2)</style>\n[WhenUse] Until this Skill ends, ยูนิทนี้ cannot be Staggered from taking ความเสียหาย\n[WhenUse] ทำ +2% ความเสียหายเพิ่มเติ่มเมื่อติดคริ ต่อทุกๆ ปริมาณ [Breath]บนself (สูงสุด 50%)\n+<style=\"highlight\">30</style>% ความเสียหายเมื่อติดคริ\nทำ +0.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 1% missing HP บนตัวเอง (สูงสุด 25%)\n<style=\"highlight\">If this Skill targets only a single enemy, ทำ +100% ความเสียหายเพิ่มเติ่ม (In Focused Encounters, a single Part)</style>",
           "coinlist": [
             {},
             {},
@@ -711,7 +711,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Studious Dedication\u200B</line-height>",
-          "desc": "ได้รับ ([KnowledgeExplored] x 3% ของ HP สูงสุด) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots",
+          "desc": "ได้รับ ([KnowledgeExplored] x 3% ของ HPสูงสุด) โล่ หาก this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the highest rank in all of ยูนิทนี้'s Skill Slots",
           "coinlist": [
             {},
             {
@@ -726,7 +726,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Studious Dedication\u200B</line-height>",
-          "desc": "ได้รับ ([KnowledgeExplored] x <style=\"highlight\">4%</style> ของ HP สูงสุด) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of this unit's Skill Slots\n<style=\"highlight\">[WhenUse] เมื่อมี 2+ [KnowledgeExplored], แต้มปะทะ +1\n[WinDuel] ได้รับ 2 [KnowledgeTraining] (once ต่อทุกๆ turn)</style>",
+          "desc": "ได้รับ ([KnowledgeExplored] x <style=\"highlight\">4%</style> ของ HPสูงสุด) โล่ หาก this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of ยูนิทนี้'s Skill Slots\n<style=\"highlight\">[WhenUse] เมื่อมี 2+ [KnowledgeExplored], แต้มปะทะ +1\n[WinDuel] ได้รับ 2 [KnowledgeTraining] (once ต่อทุกๆ turn)</style>",
           "coinlist": [
             {},
             {
@@ -741,7 +741,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Studious Dedication\u200B</line-height>",
-          "desc": "ได้รับ ([KnowledgeExplored] x <style=\"highlight\">5%</style> ของ HP สูงสุด) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of this unit's Skill Slots\n<style=\"highlight\">[WhenUse] ได้รับ ([KnowledgeExplored] - 1) แต้มปะทะ (สูงสุด 2)</style>\n[WinDuel] ได้รับ 2 [KnowledgeTraining] (once ต่อทุกๆ turn)",
+          "desc": "ได้รับ ([KnowledgeExplored] x <style=\"highlight\">5%</style> ของ HPสูงสุด) โล่ หาก this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of ยูนิทนี้'s Skill Slots\n<style=\"highlight\">[WhenUse] ได้รับ ([KnowledgeExplored] - 1) แต้มปะทะ (สูงสุด 2)</style>\n[WinDuel] ได้รับ 2 [KnowledgeTraining] (once ต่อทุกๆ turn)",
           "coinlist": [
             {},
             {
@@ -761,13 +761,13 @@
         {
           "level": 1,
           "name": "<line-height=120%>Moment of Erudition\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ [KnowledgeTraining] equal to [KnowledgeExplored]บนself\n[WhenUse] [Discard] 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots",
+          "desc": "[StartBattle] ได้รับ [KnowledgeTraining] เท่ากับ [KnowledgeExplored]บนself\n[WhenUse] [Discard] 2 of ยูนิทนี้'s Skills in ascending order of ranks from all of its Skill Slots",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] equal to [KnowledgeExplored]"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] เท่ากับ [KnowledgeExplored]"
                 }
               ]
             }
@@ -776,13 +776,13 @@
         {
           "level": 2,
           "name": "<line-height=120%>Moment of Erudition\u200B</line-height>",
-          "desc": "<style=\"highlight\">ทำ +3% more ความเสียหาย for every [KnowledgeExplored]บนself (สูงสุด 9%)</style>\n[StartBattle] มอบ [KnowledgeTraining] equal to [KnowledgeExplored]บนself <style=\"highlight\"> to a random ally</style> andบนself <style=\"highlight\">(prioritizes allies with [Discard] that has the least [KnowledgeTraining])</style>\n[WhenUse] [Discard] 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n<style=\"highlight\">[WhenUse] หากเป้าหมายมี 6+ [Sinking], แต้มเหรียญ +1</style>",
+          "desc": "<style=\"highlight\">ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ [KnowledgeExplored]บนself (สูงสุด 9%)</style>\n[StartBattle] มอบ [KnowledgeTraining] เท่ากับ [KnowledgeExplored]บนself <style=\"highlight\"> to a random ally</style> andบนself <style=\"highlight\">(prioritizes allies with [Discard] that has the least [KnowledgeTraining])</style>\n[WhenUse] [Discard] 2 of ยูนิทนี้'s Skills in ascending order of ranks from all of its Skill Slots\n<style=\"highlight\">[WhenUse] หากเป้าหมายมี 6+ [Sinking], แต้มเหรียญ +1</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] equal to [KnowledgeExplored]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] เท่ากับ [KnowledgeExplored]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -791,13 +791,13 @@
         {
           "level": 4,
           "name": "<line-height=120%>Moment of Erudition\u200B</line-height>",
-          "desc": "ทำ <style=\"highlight\">+5%</style> more ความเสียหาย for every [KnowledgeExplored]บนself (สูงสุด <style=\"highlight\">15%</style>)\n[StartBattle] มอบ [KnowledgeTraining] equal to [KnowledgeExplored]บนself <style=\"highlight\">to 2 random allies</style> andบนself (prioritizes allies with [Discard] that has the least [KnowledgeTraining])\n[WhenUse] [Discard] 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n<style=\"highlight\">[WhenUse] แต้มเหรียญ +1 for every 6 [Sinking]บนเป้าหมาย (สูงสุด 2)</style>",
+          "desc": "ทำ <style=\"highlight\">+5%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [KnowledgeExplored]บนself (สูงสุด <style=\"highlight\">15%</style>)\n[StartBattle] มอบ [KnowledgeTraining] เท่ากับ [KnowledgeExplored]บนself <style=\"highlight\">to 2 random allies</style> andบนself (prioritizes allies with [Discard] that has the least [KnowledgeTraining])\n[WhenUse] [Discard] 2 of ยูนิทนี้'s Skills in ascending order of ranks from all of its Skill Slots\n<style=\"highlight\">[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Sinking]บนเป้าหมาย (สูงสุด 2)</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] equal to <style=\"highlight\">([KnowledgeExplored] x 2)</style>"
+                  "desc": "[OnSucceedAttack] มอบ [Sinking] เท่ากับ <style=\"highlight\">([KnowledgeExplored] x 2)</style>"
                 }
               ]
             }
@@ -811,14 +811,14 @@
         {
           "level": 3,
           "name": "<line-height=120%>Scorch Knowledge\u200B</line-height>",
-          "desc": "ทำ +3% more ความเสียหาย for every [KnowledgeExplored]บนself (สูงสุด 18%)\n[WhenUse] หากเป้าหมายมี 6+ [Sinking], แต้มเหรียญ +1\n[BeforeAttack] Consume all [KnowledgeTraining]บนself และ ได้รับ half of that valueเป็นadditional [KnowledgeExplored] (rounded down)\n[EndSkill] เมื่อมี 4+ [KnowledgeExplored], reset value to 1 (if this Skill defeats an enemy, reset value to 3 instead)",
+          "desc": "ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ [KnowledgeExplored]บนself (สูงสุด 18%)\n[WhenUse] หากเป้าหมายมี 6+ [Sinking], แต้มเหรียญ +1\n[BeforeAttack] Consume all [KnowledgeTraining]บนself และ ได้รับ half of that valueเป็นadditional [KnowledgeExplored] (rounded down)\n[EndSkill] เมื่อมี 4+ [KnowledgeExplored], reset value to 1 (if this Skill defeats an enemy, reset value to 3 instead)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] Potency/Count equal to [KnowledgeExplored] value aได้รับst the target (how much of thเมื่อมี  [Sinking] is Potency or Count is randomly determined)"
+                  "desc": "[OnSucceedAttack] มอบ ความรุนแรง [Sinking] /Count เท่ากับ [KnowledgeExplored] value aได้รับst the target (how much of thเมื่อมี  [Sinking] is Potency or Count is randomly determined)"
                 }
               ]
             }
@@ -827,14 +827,14 @@
         {
           "level": 4,
           "name": "<line-height=120%>Scorch Knowledge\u200B</line-height>",
-          "desc": "ทำ <style=\"highlight\">+5%</style> more ความเสียหาย for every [KnowledgeExplored] (สูงสุด <style=\"highlight\">45%</style>)\n<style=\"highlight\">[WhenUse] แต้มเหรียญ +1 for every 6 [Sinking]บนเป้าหมาย (สูงสุด 2)</style>\n[BeforeAttack] Consume all [KnowledgeTraining]บนself และ ได้รับ <style=\"highlight\">the same value</style>เป็นadditional [KnowledgeExplored]\n[EndSkill] เมื่อมี 4+ [KnowledgeExplored], reset value to 1 (if this Skill defeats an enemy, reset value to 3 instead)",
+          "desc": "ทำ <style=\"highlight\">+5%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [KnowledgeExplored] (สูงสุด <style=\"highlight\">45%</style>)\n<style=\"highlight\">[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Sinking]บนเป้าหมาย (สูงสุด 2)</style>\n[BeforeAttack] Consume all [KnowledgeTraining]บนself และ ได้รับ <style=\"highlight\">the same value</style>เป็นadditional [KnowledgeExplored]\n[EndSkill] เมื่อมี 4+ [KnowledgeExplored], reset value to 1 (if this Skill defeats an enemy, reset value to 3 instead)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Sinking] Potency/Count equal to [KnowledgeExplored] value aได้รับst the target (how much of thเมื่อมี  [Sinking] is Potency or Count is randomly determined)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ ความรุนแรง [Sinking] /Count เท่ากับ [KnowledgeExplored] value aได้รับst the target (how much of thเมื่อมี  [Sinking] is Potency or Count is randomly determined)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -848,7 +848,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Fixated Study\u200B</line-height>",
-          "desc": "[WhenUse] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots",
+          "desc": "[WhenUse] [Discard] 1 Skill of the highest rank in all of ยูนิทนี้'s Skill Slots",
           "coinlist": [
             {
               "coindescs": [
@@ -862,7 +862,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Fixated Study\u200B</line-height>",
-          "desc": "[WhenUse] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots\n<style=\"highlight\">[WhenUse] ได้รับ +6 Aggro to this Skill Slot ในเทิร์นหน้า</style>",
+          "desc": "[WhenUse] [Discard] 1 Skill of the highest rank in all of ยูนิทนี้'s Skill Slots\n<style=\"highlight\">[WhenUse] ได้รับ +6 Aggro to this Skill Slot ในเทิร์นหน้า</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -881,12 +881,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Allez\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             },
@@ -896,12 +896,12 @@
         {
           "level": 2,
           "name": "<line-height=120%>Allez\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's ไป 3 or more, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Potency with its effects, but does not consume [Burst] CountบนHit\n[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "If ยูนิทนี้'s Speed is faster than the target's ไป 3 or more, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Potency with its effects, but does not consume [Burst] CountบนHit\n[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             },
@@ -917,12 +917,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Allez\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's, ได้รับ แต้มเหรียญ basedบนSpeed difference (แต้มเหรียญ +1 for every 3 Speed difference; max 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Potency with its effects, but does not consume [Burst] CountบนHit\n[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "If ยูนิทนี้'s Speed is faster than the target's, ได้รับ แต้มเหรียญ basedบนSpeed difference (แต้มเหรียญ +1 ต่อทุกๆ 3 Speed difference; max 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Potency with its effects, but does not consume [Burst] CountบนHit\n[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             },
@@ -932,7 +932,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit's Speed is faster than the target's, มอบ [Burst] equal to their Speed difference (สูงสุด 3)"
+                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้'s Speed is faster than the target's, มอบ [Burst] เท่ากับ their Speed difference (สูงสุด 3)"
                 }
               ]
             }
@@ -946,12 +946,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Fente\u200B</line-height>",
-          "desc": "[WinDuel] ได้รับ +2 [Breath] Count",
+          "desc": "[WinDuel] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             },
@@ -974,12 +974,12 @@
         {
           "level": 2,
           "name": "<line-height=120%>Fente\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's ไป 3 or more, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Potency or Count with its effects, but does not consume [Burst] CountบนHit\n[WinDuel] ได้รับ +2 [Breath] Count",
+          "desc": "If ยูนิทนี้'s Speed is faster than the target's ไป 3 or more, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Potency or Count with its effects, but does not consume [Burst] CountบนHit\n[WinDuel] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             },
@@ -1005,12 +1005,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Fente\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's ไป 3 or more, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Potency or Count with its effects, but does not consume [Burst] CountบนHit\n[WinDuel] ได้รับ +2 [Breath] Count",
+          "desc": "If ยูนิทนี้'s Speed is faster than the target's ไป 3 or more, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Potency or Count with its effects, but does not consume [Burst] CountบนHit\n[WinDuel] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น"
                 }
               ]
             },
@@ -1024,7 +1024,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">If this unit does not มอบ [Burst], +5% ความเสียหายบนCritical Hit for every [Burst] Potency และ Count it would have inflicted</style>"
+                  "desc": "<style=\"highlight\">If ยูนิทนี้ does not มอบ [Burst], +5% ความเสียหายเมื่อติดคริ ต่อทุกๆ [Burst] Potency และ Count it would have inflicted</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 4 [Burst]<style=\"highlight\"></style>"
@@ -1044,29 +1044,29 @@
         {
           "level": 3,
           "name": "<line-height=120%>Salut\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's ไป 2 or more, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not consume [Burst] CountบนHit\n[WinDuel] ได้รับ 5 [Breath]\n- หากเป้าหมายมี [ConcentratedAttackMeursault], ได้รับ 5 additional [Breath]",
+          "desc": "If ยูนิทนี้'s Speed is faster than the target's ไป 2 or more, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not consume [Burst] CountบนHit\n[WinDuel] ได้รับ 5 [Breath]\n- หากเป้าหมายมี [ConcentratedAttackMeursault], ได้รับ 5 additional [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] The final เหรียญ ทำ s +10% more ความเสียหาย"
+                  "desc": "[WinDuelAttack] The final เหรียญ ทำ s +10% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] The final เหรียญ ทำ s +10% more ความเสียหาย"
+                  "desc": "[WinDuelAttack] The final เหรียญ ทำ s +10% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "ทำ +10% more ความเสียหาย for every [ConcentratedAttackMeursault]บนthe Slot"
+                  "desc": "ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [ConcentratedAttackMeursault]บนthe Slot"
                 },
                 {
-                  "desc": "+30% ความเสียหายบนCritical Hit"
+                  "desc": "+30% ความเสียหายเมื่อติดคริ"
                 }
               ]
             }
@@ -1075,35 +1075,35 @@
         {
           "level": 4,
           "name": "<line-height=120%>Salut\u200B</line-height>",
-          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ แต้มเหรียญ basedบนSpeed difference (แต้มเหรียญ +1 for every 2 Speed difference; max 3)</style>\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not consume [Burst] CountบนHit\n[WinDuel] ได้รับ 5 [Breath]\n- หากเป้าหมายมี [ConcentratedAttackMeursault], ได้รับ 5 additional [Breath]",
+          "desc": "<style=\"highlight\">If ยูนิทนี้'s Speed is faster than the target's, ได้รับ แต้มเหรียญ basedบนSpeed difference (แต้มเหรียญ +1 ต่อทุกๆ 2 Speed difference; max 3)</style>\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not consume [Burst] CountบนHit\n[WinDuel] ได้รับ 5 [Breath]\n- หากเป้าหมายมี [ConcentratedAttackMeursault], ได้รับ 5 additional [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] The final เหรียญ ทำ s +10% more ความเสียหาย"
+                  "desc": "[WinDuelAttack] The final เหรียญ ทำ s +10% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] The final เหรียญ ทำ s +10% more ความเสียหาย"
+                  "desc": "[WinDuelAttack] The final เหรียญ ทำ s +10% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "ทำ <style=\"highlight\">+20%</style> more ความเสียหาย for every [ConcentratedAttackMeursault]บนthe Slot"
+                  "desc": "ทำ <style=\"highlight\">+20%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [ConcentratedAttackMeursault]บนthe Slot"
                 },
                 {
-                  "desc": "+30% ความเสียหายบนCritical Hit"
+                  "desc": "+30% ความเสียหายเมื่อติดคริ"
                 },
                 {
-                  "desc": "<style=\"highlight\">- ทำ +2% ความเสียหายบนCritical Hit for every [Burst]บนเป้าหมาย (สูงสุด 30%)</style>"
+                  "desc": "<style=\"highlight\">- ทำ +2% ความเสียหายเมื่อติดคริ ต่อทุกๆ [Burst]บนเป้าหมาย (สูงสุด 30%)</style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[EndSkill] If this เหรียญ defeated the target or destroyed the Part, Reuse this Skill อีกครั้ง aได้รับst a random target (does not activateบนReuse)</style>"
+                  "desc": "<style=\"highlight\">[EndSkill] หาก this เหรียญ defeated the target or destroyed the Part, Reuse this Skill อีกครั้ง aได้รับst a random target (does not activateบนReuse)</style>"
                 }
               ]
             }
@@ -1131,7 +1131,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Défensive\u200B</line-height>",
-          "desc": "[WhenUse] If this unit's Speed is faster than the target's ไป 3 or more, แต้มเหรียญ +2",
+          "desc": "[WhenUse] หาก ยูนิทนี้'s Speed is faster than the target's ไป 3 or more, แต้มเหรียญ +2",
           "coinlist": [
             {
               "coindescs": [

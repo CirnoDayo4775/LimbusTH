@@ -44,7 +44,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Go... Go Away...!\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มปะทะ +1\n[WhenUse] ทำ  +5% more ความเสียหาย for every [Laceration]Countบนthe target (max 20%)",
+          "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มปะทะ +1\n[WhenUse] ทำ  +5% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration]Countบนthe target (max 20%)",
           "coinlist": [
             {},
             {
@@ -64,7 +64,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>The Parade's Prince\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ Atk Weight equal to the number of targets with [Laceration](max 5)\n[WhenUse] หากเป้าหมายมี 4+ [Laceration], Base Power +1\n[WhenUse] หากเป้าหมายมี 3+ [Laceration], แต้มเหรียญ +1\n[DefeatDuel] เสีย 1 [KeptBlood]",
+          "desc": "[StartBattle] ได้รับ Atk Weight เท่ากับ the number of targets with [Laceration](max 5)\n[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มตั้งต้น +1\n[WhenUse] หากเป้าหมายมี 3+ [Laceration], แต้มเหรียญ +1\n[DefeatDuel] เสีย 1 [KeptBlood]",
           "coinlist": [
             {
               "coindescs": [
@@ -112,7 +112,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], the next เหรียญ ทำ s +20% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], the next เหรียญ ทำ s +20% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             },
@@ -136,7 +136,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Leave Me Alone...!\u200B</line-height>",
-          "desc": "[WhenUseEvade] Base Power +1 for every [Laceration]Countบนthe target (max 4)",
+          "desc": "[WhenUseEvade] แต้มตั้งต้น +1 ต่อทุกๆ [Laceration]Countบนthe target (max 4)",
           "coinlist": [
             {}
           ]
@@ -149,7 +149,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I Am... The Prince... of the Parade...!\u200B</line-height>",
-          "desc": "[CantDuel]\n[WhenUse] Doubleจำนวนhealed ไป Hardblood[TabExplain] Glaive\n[WhenUse] Reset ค่าสติ to 0\n[EndSkill] ได้รับ 10 [KeptBlood]\nDoes not get Staggered this turn; ends turn after using this Skill.",
+          "desc": "[CantDuel]\n[WhenUse] Doubleจำนวนhealed ไป Hardblood[TabExplain] Glaive\n[WhenUse] Reset ค่าสติ to 0\n[EndSkill] ได้รับ 10 [KeptBlood]\nDoes not จะ Stagger ในเทิร์นนี้; ends turn afterใช้สกิลนี้.",
           "coinlist": [
             {
               "coindescs": [
@@ -189,7 +189,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'm... Never... Going Back...!\u200B</line-height>",
-          "desc": "[WhenUse] แต้มปะทะ +1 for every 5 [Laceration]บนtarget (max 3)\n[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มเหรียญ +1\n[WhenUse] ทำ  +5% more ความเสียหาย for every [Laceration]บนtarget (max 20%)\n[WhenUse] Doubleจำนวนhealed ไป Hardblood[TabExplain] Glaive\n[EndSkill] ได้รับ 10 [KeptBlood]",
+          "desc": "[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration]บนtarget (max 3)\n[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มเหรียญ +1\n[WhenUse] ทำ  +5% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration]บนtarget (max 20%)\n[WhenUse] Doubleจำนวนhealed ไป Hardblood[TabExplain] Glaive\n[EndSkill] ได้รับ 10 [KeptBlood]",
           "coinlist": [
             {
               "coindescs": [

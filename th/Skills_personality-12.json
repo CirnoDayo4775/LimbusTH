@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Standoff\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 Defense Level Up",
+          "desc": "[WhenUse] ได้รับ 2 [DefenseUp]",
           "coinlist": [
             {},
             {
@@ -21,7 +21,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Standoff\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 Defense Level Up\n[DefeatDuel] ได้รับ Shield ไป (3 * Defense Level Upบนself); ได้รับ 1 Defense Level Up ในเทิร์นหน้า",
+          "desc": "[WhenUse] ได้รับ 2 [DefenseUp]\n[DefeatDuel] ได้รับ โล่ ไป (3 * [DefenseUp]บนself); ได้รับ 1 [DefenseUp] ในเทิร์นหน้า",
           "coinlist": [
             {},
             {
@@ -36,7 +36,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Standoff\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 Defense Level Up\n[DefeatDuel] ได้รับ Shield ไป (5 * Defense Level Upบนself); ได้รับ 2 Defense Level Up ในเทิร์นหน้า",
+          "desc": "[WhenUse] ได้รับ 2 [DefenseUp]\n[DefeatDuel] ได้รับ โล่ ไป (5 * [DefenseUp]บนself); ได้รับ 2 [DefenseUp] ในเทิร์นหน้า",
           "coinlist": [
             {},
             {
@@ -56,19 +56,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Flexible Suppression\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 Defense Level Up",
+          "desc": "[WhenUse] ได้รับ 2 [DefenseUp]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -76,7 +76,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "เมื่อมี 6+ Defense Level Up, ทำ +20% ความเสียหาย"
+                  "desc": "เมื่อมี 6+ [DefenseUp], ทำ +20% ความเสียหาย"
                 }
               ]
             }
@@ -85,19 +85,19 @@
         {
           "level": 2,
           "name": "<line-height=120%>Flexible Suppression\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 3 Defense Level Up\n[WhenUse] ได้รับ +2 Aggro to this Skill Slot ในเทิร์นหน้า",
+          "desc": "[WhenUse] ได้รับ 3 [DefenseUp]\n[WhenUse] ได้รับ +2 Aggro to this Skill Slot ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -105,7 +105,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "เมื่อมี 6+ Defense Level Up, ทำ +30% ความเสียหาย"
+                  "desc": "เมื่อมี 6+ [DefenseUp], ทำ +30% ความเสียหาย"
                 }
               ]
             }
@@ -114,19 +114,19 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flexible Suppression\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 3 Defense Level Up\n[WhenUse] ได้รับ +3 Aggro to this Skill Slot ในเทิร์นหน้า\nเมื่อมี 6+ Defense Level Up, แต้มปะทะ +1",
+          "desc": "[WhenUse] ได้รับ 3 [DefenseUp]\n[WhenUse] ได้รับ +3 Aggro to this Skill Slot ในเทิร์นหน้า\nเมื่อมี 6+ [DefenseUp], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -134,7 +134,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "เมื่อมี 6+ Defense Level Up, ทำ +40% ความเสียหาย"
+                  "desc": "เมื่อมี 6+ [DefenseUp], ทำ +40% ความเสียหาย"
                 }
               ]
             }
@@ -148,14 +148,14 @@
         {
           "level": 3,
           "name": "<line-height=120%>Guardian\u200B</line-height>",
-          "desc": "[WhenUse] มอบ 2 Defense Power Up และ 3 Defense Level Up แก่พันธมิตรทุกคน\nเมื่อมี 6+ Defense Level Up, แต้มเหรียญ +1\nเมื่อมี 10+ Defense Level Up, ทำ +30% ความเสียหาย",
+          "desc": "[WhenUse] มอบ 2 Defense Power Up และ 3 [DefenseUp] แก่พันธมิตรทุกคน\nเมื่อมี 6+ [DefenseUp], แต้มเหรียญ +1\nเมื่อมี 10+ [DefenseUp], ทำ +30% ความเสียหาย",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Defense Level Up แก่พันธมิตรทุกคน ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 3 [DefenseUp] แก่พันธมิตรทุกคน ในเทิร์นหน้า"
                 }
               ]
             }
@@ -164,14 +164,14 @@
         {
           "level": 4,
           "name": "<line-height=120%>Guardian\u200B</line-height>",
-          "desc": "[WhenUse] มอบ 2 Defense Power Up และ 3 Defense Level Up แก่พันธมิตรทุกคน\nแต้มเหรียญ +1 ต่อทุกๆ 6 Defense Level Up (สูงสุด 3)\nเมื่อมี 10+ Defense Level Up, ทำ +50% ความเสียหาย",
+          "desc": "[WhenUse] มอบ 2 Defense Power Up และ 3 [DefenseUp] แก่พันธมิตรทุกคน\nแต้มเหรียญ +1 ต่อทุกๆ 6 [DefenseUp] (สูงสุด 3)\nเมื่อมี 10+ [DefenseUp], ทำ +50% ความเสียหาย",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Defense Level Up แก่พันธมิตรทุกคน ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 3 [DefenseUp] แก่พันธมิตรทุกคน ในเทิร์นหน้า"
                 }
               ]
             }
@@ -185,7 +185,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>The Best Defense\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ Shield ไป (2 * Defense Level Upบนself)",
+          "desc": "[StartBattle] ได้รับ โล่ ไป (2 * [DefenseUp]บนself)",
           "coinlist": [
             {}
           ]
@@ -193,7 +193,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>The Best Defense\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ Shield ไป (2 * Defense Level Upบนself)\n[WhenUse] ได้รับ +5 Aggro to this Skill Slot ในเทิร์นหน้า",
+          "desc": "[StartBattle] ได้รับ โล่ ไป (2 * [DefenseUp]บนself)\n[WhenUse] ได้รับ +5 Aggro to this Skill Slot ในเทิร์นหน้า",
           "coinlist": [
             {}
           ]
@@ -206,7 +206,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Negotiation Start\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 Poise",
+          "desc": "[WhenUse] ได้รับ 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -216,7 +216,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttackHead] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             }
@@ -225,12 +225,12 @@
         {
           "level": 2,
           "name": "<line-height=120%>Negotiation Start\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 3 Poise",
+          "desc": "[WhenUse] ได้รับ 3 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] มอบ 2 [Laceration]"
@@ -249,12 +249,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Negotiation Start\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 3 Poise\nหากเป้าหมายมี 7+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, แต้มเหรียญ +1",
+          "desc": "[WhenUse] ได้รับ 3 [Breath]\nหากเป้าหมายมี 7+ [Laceration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] มอบ 2 [Laceration]"
@@ -278,12 +278,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Unilateral Business\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 Poise Count",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 3 Poise"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 3 [Breath]"
                 }
               ]
             },
@@ -302,12 +302,12 @@
         {
           "level": 2,
           "name": "<line-height=120%>Unilateral Business\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +3 Poise Count",
+          "desc": "[WhenUse] ได้รับ [Breath] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 4 Poise"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 4 [Breath]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] มอบ 2 [Laceration]"
@@ -323,7 +323,7 @@
                   "desc": "[CriticalOnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "+30% ความเสียหายบนCritical Hit"
+                  "desc": "+30% ความเสียหายเมื่อติดคริ"
                 }
               ]
             }
@@ -332,12 +332,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Unilateral Business\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 for every 7 [Laceration]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] ได้รับ +3 Poise Count",
+          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 7 [Laceration]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] ได้รับ [Breath] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 4 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 4 [Breath]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] มอบ 2 [Laceration]"
@@ -353,7 +353,7 @@
                   "desc": "[CriticalOnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "+50% ความเสียหายบนCritical Hit"
+                  "desc": "+50% ความเสียหายเมื่อติดคริ"
                 }
               ]
             }
@@ -367,7 +367,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Foregone Conclusion\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 1 Poise ต่อทุกๆ 3 [Laceration]บนเป้าหมาย (สูงสุด 5)\nเมื่อมี 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></color></link></u>, แต้มเหรียญ +1",
+          "desc": "[WhenUse] ได้รับ 1 [Breath] ต่อทุกๆ 3 [Laceration]บนเป้าหมาย (สูงสุด 5)\nเมื่อมี 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></color></link></u>, แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -382,7 +382,7 @@
                   "desc": "Spend 1 Ammo"
                 },
                 {
-                  "desc": "+50% ความเสียหายบนCritical Hit"
+                  "desc": "+50% ความเสียหายเมื่อติดคริ"
                 }
               ]
             }
@@ -391,7 +391,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Foregone Conclusion\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 1 Poise for every 3 [Laceration]บนเป้าหมาย (สูงสุด 10)\nได้รับ แต้มเหรียญ +1 for every 7 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></color></link></u>บนself (สูงสุด +3)",
+          "desc": "[WhenUse] ได้รับ 1 [Breath] ต่อทุกๆ 3 [Laceration]บนเป้าหมาย (สูงสุด 10)\nได้รับ แต้มเหรียญ +1 ต่อทุกๆ 7 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></color></link></u>บนself (สูงสุด +3)",
           "coinlist": [
             {
               "coindescs": [
@@ -406,7 +406,7 @@
                   "desc": "Spend 1 Ammo"
                 },
                 {
-                  "desc": "+100% ความเสียหายบนCritical Hit"
+                  "desc": "+100% ความเสียหายเมื่อติดคริ"
                 },
                 {
                   "desc": "[EnemyKill] ได้รับ 1 Plus เหรียญ Boost ในเทิร์นหน้า"
@@ -423,7 +423,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Take a Breather\u200B</line-height>",
-          "desc": "[OnSucceedEvade] ได้รับ 1 Poise (สูงสุด 3 ต่อทุกๆ turn)",
+          "desc": "[OnSucceedEvade] ได้รับ 1 [Breath] (สูงสุด 3 ต่อทุกๆ turn)",
           "coinlist": [
             {}
           ]
@@ -431,7 +431,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Take a Breather\u200B</line-height>",
-          "desc": "[OnSucceedEvade] ได้รับ 1 Poise (สูงสุด 5 ต่อทุกๆ turn)",
+          "desc": "[OnSucceedEvade] ได้รับ 1 [Breath] (สูงสุด 5 ต่อทุกๆ turn)",
           "coinlist": [
             {}
           ]
@@ -517,7 +517,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 1 [AttackDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], มอบ 1 [Reduction] ในเทิร์นหน้า"
@@ -541,7 +541,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 1 [AttackDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], มอบ 1 [Reduction] ในเทิร์นหน้า"
@@ -565,7 +565,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 1 [AttackDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration], มอบ 1 [Reduction] ในเทิร์นหน้า"
@@ -587,27 +587,27 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 1 [AttackDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration], มอบ 1 Offense Level Down ในเทิร์นหน้า "
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration], มอบ 1 [AttackDown] ในเทิร์นหน้า "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 1 [AttackDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration], มอบ 1 Offense Level Down ในเทิร์นหน้า "
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration], มอบ 1 [AttackDown] ในเทิร์นหน้า "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], มอบ 1 [PlusCoinValueDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -621,20 +621,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 1 [AttackDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration], มอบ 1 Offense Level Down ในเทิร์นหน้า "
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration], มอบ 1 [AttackDown] ในเทิร์นหน้า "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 1 [AttackDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration], มอบ 1 Offense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration], มอบ 1 [AttackDown] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -644,7 +644,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี <style=\"highlight\">7</style>+ [Laceration], มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี <style=\"highlight\">7</style>+ [Laceration], มอบ 1 [PlusCoinValueDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -707,7 +707,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Sabre Slash\u200B</line-height>",
-          "desc": "[WhenUse] แต้มเหรียญ +1 for every 3 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] แต้มปะทะ +1 for every 3 [Sinking] Countบนเป้าหมาย (สูงสุด 2)",
+          "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 3 [Sinking] Countบนเป้าหมาย (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -747,7 +747,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Remise\u200B</line-height>",
-          "desc": "[WhenUse] แต้มปะทะ +1 for every 3 [Sinking] Countบนเป้าหมาย (สูงสุด 2)\n[WinDuel] มอบ [Sinking] +1 ขั้น",
+          "desc": "[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 3 [Sinking] Countบนเป้าหมาย (สูงสุด 2)\n[WinDuel] มอบ [Sinking] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -768,7 +768,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Remise\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Sinking], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 for every 3 [Sinking] Countบนเป้าหมาย (สูงสุด 2)\n[WinDuel] มอบ [Sinking] +2 ขั้น",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Sinking], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 3 [Sinking] Countบนเป้าหมาย (สูงสุด 2)\n[WinDuel] มอบ [Sinking] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -794,7 +794,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Nightmare Hunt\u200B</line-height>",
-          "desc": "[WhenUse] แต้มปะทะ +1 for every 3 [Sinking] Countบนเป้าหมาย (สูงสุด 2)\n[EndSkill] If target is Staggered, มอบ [Sinking] +3 ขั้น\n[EndSkill] If target is defeated, มอบ [Sinking] +3 ขั้นบน1 random enemy",
+          "desc": "[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 3 [Sinking] Countบนเป้าหมาย (สูงสุด 2)\n[EndSkill] หาก target is Staggered, มอบ [Sinking] +3 ขั้น\n[EndSkill] หาก target is defeated, มอบ [Sinking] +3 ขั้นบน1 random enemy",
           "coinlist": [
             {
               "coindescs": [
@@ -829,7 +829,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Nightmare Hunt\u200B</line-height>",
-          "desc": "[WhenUse] แต้มปะทะ +1 for every 3 [Sinking] Countบนเป้าหมาย (สูงสุด 3)\n[EndSkill] If target is Staggered, มอบ [Sinking] +3 ขั้น\n[EndSkill] If target is defeated, มอบ [Sinking] +3 ขั้นบน2 random enemies",
+          "desc": "[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 3 [Sinking] Countบนเป้าหมาย (สูงสุด 3)\n[EndSkill] หาก target is Staggered, มอบ [Sinking] +3 ขั้น\n[EndSkill] หาก target is defeated, มอบ [Sinking] +3 ขั้นบน2 random enemies",
           "coinlist": [
             {
               "coindescs": [
@@ -877,7 +877,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Do You Wish to Weep?\u200B</line-height>",
-          "desc": "[WhenUse] แต้มเหรียญ +1 for every 3 [Sinking]บนเป้าหมาย (สูงสุด 3)",
+          "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Sinking]บนเป้าหมาย (สูงสุด 3)",
           "coinlist": [
             {}
           ]
@@ -938,7 +938,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Sacrifice for the Family\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +3 [Aggro] to this Skill Slot ในเทิร์นหน้า\n<style=\"highlight\">[WhenUse] แต้มเหรียญ +1 for every 6 [Laceration]บนเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] ได้รับ 10 [Laceration]\n- เมื่อมี 50%+ HP, ได้รับ 15 additional [Laceration]",
+          "desc": "[WhenUse] ได้รับ +3 [Aggro] to this Skill Slot ในเทิร์นหน้า\n<style=\"highlight\">[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration]บนเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] ได้รับ 10 [Laceration]\n- เมื่อมี 50%+ HP, ได้รับ 15 additional [Laceration]",
           "coinlist": [
             {
               "coindescs": [
@@ -967,7 +967,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Suffocating Guilt\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +3 [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ 10 [Laceration]\n[WhenUse] เมื่อมี 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, ได้รับ 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- เมื่อมี less than 5 [WornHeartGreg], ได้รับ 10 [Laceration]and 2 [BloodyHandGregFirst]",
+          "desc": "[WhenUse] ได้รับ +3 [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ 10 [Laceration]\n[WhenUse] เมื่อมี 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, ได้รับ 1 [BloodyHandGregFirst] ต่อทุกๆ 6 [BloodDinner] consumed\n- เมื่อมี less than 5 [WornHeartGreg], ได้รับ 10 [Laceration]and 2 [BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -991,7 +991,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Suffocating Guilt\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +3 [Aggro] to this Skill Slot ในเทิร์นหน้า\n<style=\"highlight\">[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ 10 [Laceration]\n[WhenUse] เมื่อมี 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, ได้รับ 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- เมื่อมี less than 5 [WornHeartGreg], ได้รับ 10 [Laceration]and 2 [BloodyHandGregFirst]",
+          "desc": "[WhenUse] ได้รับ +3 [Aggro] to this Skill Slot ในเทิร์นหน้า\n<style=\"highlight\">[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ 10 [Laceration]\n[WhenUse] เมื่อมี 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, ได้รับ 1 [BloodyHandGregFirst] ต่อทุกๆ 6 [BloodDinner] consumed\n- เมื่อมี less than 5 [WornHeartGreg], ได้รับ 10 [Laceration]and 2 [BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -1015,7 +1015,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Suffocating Guilt\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +3 [Aggro] to this Skill Slot ในเทิร์นหน้า\n<style=\"highlight\">[WhenUse] แต้มเหรียญ +1 for every 6 [Laceration]บนเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] ได้รับ 10 [Laceration]\n[WhenUse] เมื่อมี 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, ได้รับ 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- เมื่อมี less than 5 [WornHeartGreg], ได้รับ 10 [Laceration]and <style=\"highlight\">3</style> [BloodyHandGregFirst]",
+          "desc": "[WhenUse] ได้รับ +3 [Aggro] to this Skill Slot ในเทิร์นหน้า\n<style=\"highlight\">[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration]บนเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] ได้รับ 10 [Laceration]\n[WhenUse] เมื่อมี 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, ได้รับ 1 [BloodyHandGregFirst] ต่อทุกๆ 6 [BloodDinner] consumed\n- เมื่อมี less than 5 [WornHeartGreg], ได้รับ 10 [Laceration]and <style=\"highlight\">3</style> [BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -1044,7 +1044,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>The Unforgivable Sin\u200B</line-height>",
-          "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP ความเสียหาย ทำ t (สูงสุด 100 ต่อทุกๆ Skill)\n[WhenUse] ทำ +1% more ความเสียหาย for every 1% missing HPบนself (สูงสุด 60%)\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to ได้รับ the following effects:\n- ฟื้นฟู (Stacks consumed x 3) HPบนself\n- If this unit consumed 10+ Stack, แต้มเหรียญ +1\n[WhenUse] ได้รับ 10 [Laceration]\n[EndSkill] ฟื้นฟู 10% HPบนself",
+          "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP ความเสียหาย ทำ t (สูงสุด 100 ต่อทุกๆ Skill)\n[WhenUse] ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ 1% missing HP บนตัวเอง (สูงสุด 60%)\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to ได้รับ the following effects:\n- ฟื้นฟู (Stacks consumed x 3) HP บนตัวเอง\n- หาก ยูนิทนี้ consumed 10+ Stack, แต้มเหรียญ +1\n[WhenUse] ได้รับ 10 [Laceration]\n[EndSkill] ฟื้นฟู 10% HP บนตัวเอง",
           "coinlist": [
             {
               "coindescs": [
@@ -1078,7 +1078,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>The Unforgivable Sin\u200B</line-height>",
-          "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP ความเสียหาย ทำ t (สูงสุด 100 ต่อทุกๆ Skill)\n[WhenUse] ทำ <style=\"highlight\">+1.5%</style> more ความเสียหาย for every 1% missing HPบนself <style=\"highlight\">(สูงสุด 90%)</style>\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to ได้รับ the following effects:\n- ฟื้นฟู (Stacks consumed x 3) HPบนself\n- If this unit consumed 10+ Stack, แต้มเหรียญ +1\n<style=\"highlight\">- If this unit consumed 20 Stack, Reuse the final Coin</style>\n[WhenUse] ได้รับ 10 [Laceration]\n[EndSkill] ฟื้นฟู 10% HPบนself",
+          "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP ความเสียหาย ทำ t (สูงสุด 100 ต่อทุกๆ Skill)\n[WhenUse] ทำ <style=\"highlight\">+1.5%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ 1% missing HP บนตัวเอง <style=\"highlight\">(สูงสุด 90%)</style>\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to ได้รับ the following effects:\n- ฟื้นฟู (Stacks consumed x 3) HP บนตัวเอง\n- หาก ยูนิทนี้ consumed 10+ Stack, แต้มเหรียญ +1\n<style=\"highlight\">- หาก ยูนิทนี้ consumed 20 Stack, Reuse the final Coin</style>\n[WhenUse] ได้รับ 10 [Laceration]\n[EndSkill] ฟื้นฟู 10% HP บนตัวเอง",
           "coinlist": [
             {
               "coindescs": [
@@ -1131,7 +1131,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Faded Patience\u200B</line-height>",
-          "desc": "<style=\"highlight\">[StartBattle] เมื่อมี 40%+ HP, ได้รับ 5 [Laceration]and activate [Laceration]up to 3 timesบนself (once ต่อทุกๆ turn; เสีย [Laceration]Count equal to the number of times it was activated)\n[StartBattle] เมื่อมี less than 40% HP, consume up to 20 [BloodDinner] และ ฟื้นฟู the same valueเป็นHP (once ต่อทุกๆ turn)</style>\n[StartBattle] ได้รับ 3 [WornHeartGreg] (once ต่อทุกๆ turn)",
+          "desc": "<style=\"highlight\">[StartBattle] เมื่อมี 40%+ HP, ได้รับ 5 [Laceration]and เปิดใช้งาน [Laceration]up to 3 timesบนself (once ต่อทุกๆ turn; เสีย [Laceration]Count เท่ากับ the number of times it was activated)\n[StartBattle] เมื่อมี less than 40% HP, consume up to 20 [BloodDinner] และ ฟื้นฟู the same valueเป็นHP (once ต่อทุกๆ turn)</style>\n[StartBattle] ได้รับ 3 [WornHeartGreg] (once ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1192,7 +1192,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flamethrow\u200B</line-height>",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 3 [Combustion]บนเป้าหมาย (สูงสุด 2)</style>",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 3 [Combustion]บนเป้าหมาย (สูงสุด 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1218,7 +1218,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll [Combustion] away every last drop of your filthy blood\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 6+ [Combustion], แต้มเหรียญ +1\nWhen in [FirePunchFuelOverheated] state, ทำ +10% more ความเสียหาย with Coins that consumed [FirePunchFuel]",
+          "desc": "หากเป้าหมายมี 6+ [Combustion], แต้มเหรียญ +1\nWhen in [FirePunchFuelOverheated] state, ทำ +10% ความเสียหายเพิ่มเติ่ม with Coins that consumed [FirePunchFuel]",
           "coinlist": [
             {
               "coindescs": [
@@ -1245,7 +1245,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>I'll [Combustion] away every last drop of your filthy blood\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 6+ [Combustion], แต้มเหรียญ +1\nCoins that consumed [FirePunchFuel] ทำ +10% more ความเสียหาย\n<style=\"highlight\">- When in [FirePunchFuelOverheated] state, ทำ +20% more ความเสียหาย instead</style>",
+          "desc": "หากเป้าหมายมี 6+ [Combustion], แต้มเหรียญ +1\nCoins that consumed [FirePunchFuel] ทำ +10% ความเสียหายเพิ่มเติ่ม\n<style=\"highlight\">- When in [FirePunchFuelOverheated] state, ทำ +20% ความเสียหายเพิ่มเติ่ม instead</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1272,7 +1272,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>I'll [Combustion] away every last drop of your filthy blood\u200B</line-height>",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 6 [Combustion]บนเป้าหมาย (สูงสุด 2)</style>\nCoins that consumed [FirePunchFuel] ทำ +<style=\"highlight\">15</style>% more ความเสียหาย\n- When in [FirePunchFuelOverheated] state, ทำ +<style=\"highlight\">30</style>% more ความเสียหาย instead",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Combustion]บนเป้าหมาย (สูงสุด 2)</style>\nCoins that consumed [FirePunchFuel] ทำ +<style=\"highlight\">15</style>% ความเสียหายเพิ่มเติ่ม\n- When in [FirePunchFuelOverheated] state, ทำ +<style=\"highlight\">30</style>% ความเสียหายเพิ่มเติ่ม instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1304,26 +1304,26 @@
         {
           "level": 3,
           "name": "<line-height=120%>Firefist\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 3+ [Combustion] Count, แต้มเหรียญ +1\n[WhenUse] Base Power +1 for every 6 [Combustion]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] Consume up to 25 [FirePunchFuel] และ ทำ +1% more ความเสียหาย for every [FirePunchFuel] consumed (สูงสุด 25%)\n- When in [FirePunchFuelOverheated] state, ทำ +3% more ความเสียหาย for every [FirePunchFuel] consumed instead (สูงสุด 75%)\n[EndSkill] If target is defeated, or if this Skill consumed [FirePunchFuel], ได้รับ 1 [HitDamageUp] ในเทิร์นหน้า",
+          "desc": "หากเป้าหมายมี 3+ [Combustion] Count, แต้มเหรียญ +1\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 6 [Combustion]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] Consume up to 25 [FirePunchFuel] และ ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ [FirePunchFuel] consumed (สูงสุด 25%)\n- When in [FirePunchFuelOverheated] state, ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ [FirePunchFuel] consumed instead (สูงสุด 75%)\n[EndSkill] หาก target is defeated, or หาก this Skill consumed [FirePunchFuel], ได้รับ 1 [HitDamageUp] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit consumed [FirePunchFuel], มอบ 1 [Combustion] และ [Combustion] +1 ขั้น"
+                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้ consumed [FirePunchFuel], มอบ 1 [Combustion] และ [Combustion] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit consumed [FirePunchFuel], มอบ 1 [Combustion] และ [Combustion] +1 ขั้น"
+                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้ consumed [FirePunchFuel], มอบ 1 [Combustion] และ [Combustion] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ +1% more ความเสียหาย for every [FirePunchFuel] consumed ไป this Skill (สูงสุด 25%)\n- When in [FirePunchFuelOverheated] state, ทำ +3% more ความเสียหาย for every [FirePunchFuel] consumed instead (สูงสุด 75%)"
+                  "desc": "[OnSucceedAttack] ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ [FirePunchFuel] consumed ไป this Skill (สูงสุด 25%)\n- When in [FirePunchFuelOverheated] state, ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ [FirePunchFuel] consumed instead (สูงสุด 75%)"
                 }
               ]
             }
@@ -1332,26 +1332,26 @@
         {
           "level": 4,
           "name": "<line-height=120%>Firefist\u200B</line-height>",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 3 [Combustion] Countบนเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] Base Power +1 for every 6 [Combustion]บนเป้าหมาย (สูงสุด <style=\"highlight\">3</style>)\n[WhenUse] Consume up to 25 [FirePunchFuel] และ ทำ +<style=\"highlight\">2</style>% more ความเสียหาย for every [FirePunchFuel] consumed (สูงสุด <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, ทำ +<style=\"highlight\">4</style>% more ความเสียหาย for every [FirePunchFuel] consumed (สูงสุด <style=\"highlight\">100</style>%)\n[EndSkill] If target is defeated, or if this Skill consumed [FirePunchFuel], ได้รับ <style=\"highlight\">2</style> [HitDamageUp] ในเทิร์นหน้า",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 3 [Combustion] Countบนเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 6 [Combustion]บนเป้าหมาย (สูงสุด <style=\"highlight\">3</style>)\n[WhenUse] Consume up to 25 [FirePunchFuel] และ ทำ +<style=\"highlight\">2</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [FirePunchFuel] consumed (สูงสุด <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, ทำ +<style=\"highlight\">4</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [FirePunchFuel] consumed (สูงสุด <style=\"highlight\">100</style>%)\n[EndSkill] หาก target is defeated, or หาก this Skill consumed [FirePunchFuel], ได้รับ <style=\"highlight\">2</style> [HitDamageUp] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit consumed [FirePunchFuel], มอบ <style=\"highlight\">2</style> [Combustion] และ [Combustion] +1 ขั้น"
+                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้ consumed [FirePunchFuel], มอบ <style=\"highlight\">2</style> [Combustion] และ [Combustion] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit consumed [FirePunchFuel], มอบ <style=\"highlight\">2</style> [Combustion] และ [Combustion] +1 ขั้น"
+                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้ consumed [FirePunchFuel], มอบ <style=\"highlight\">2</style> [Combustion] และ [Combustion] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ +<style=\"highlight\">2</style>% more ความเสียหาย for every [FirePunchFuel] consumed ไป this Skill (สูงสุด <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, ทำ +<style=\"highlight\">4</style>% more ความเสียหาย for every [FirePunchFuel] consumed instead (สูงสุด <style=\"highlight\">100</style>%)"
+                  "desc": "[OnSucceedAttack] ทำ +<style=\"highlight\">2</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [FirePunchFuel] consumed ไป this Skill (สูงสุด <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, ทำ +<style=\"highlight\">4</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [FirePunchFuel] consumed instead (สูงสุด <style=\"highlight\">100</style>%)"
                 }
               ]
             }

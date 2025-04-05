@@ -33,7 +33,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Vibration] +2 ขั้น; มอบ (Wrath A-Reson. /3) additional [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nIf target does not have a Stagger Threshold upon [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nหากเป้าหมายไม่มี a Stagger Threshold เมื่อ [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised"
                 }
               ]
             }
@@ -51,7 +51,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Vibration] +3 ขั้น; มอบ (Wrath A-Reson. /3) additional [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nIf target does not have a Stagger Threshold upon [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised."
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nหากเป้าหมายไม่มี a Stagger Threshold เมื่อ [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised."
                 }
               ]
             }
@@ -66,12 +66,12 @@
           "level": 1,
           "name": "<line-height=120%>Regret\u200B</line-height>",
           "abName": "Forsaken Murderer",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] If this unit has a negative status effect, Atk Weight +1",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] หาก ยูนิทนี้ has a negative status effect, Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 30% of [Vibration]บนเป้าหมาย.\nReduce [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 30% of [Vibration]บนเป้าหมาย.\nลดขั้น [Vibration] ไป 1"
                 },
                 {
                   "desc": "[EndSkill] ได้รับ 3 [Binding] และ 1 Blunt Power Up ในเทิร์นหน้า."
@@ -84,12 +84,12 @@
           "level": 3,
           "name": "<line-height=120%>Regret\u200B</line-height>",
           "abName": "Forsaken Murderer",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] If this unit has a negative status effect, Atk Weight +1",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] หาก ยูนิทนี้ has a negative status effect, Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 40% of [Vibration]บนเป้าหมาย.\nIf target does not have a Stagger Threshold upon [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 40% of [Vibration]บนเป้าหมาย.\nหากเป้าหมายไม่มี a Stagger Threshold เมื่อ [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nลดขั้น [Vibration] ไป 1"
                 },
                 {
                   "desc": "[EndSkill] ได้รับ 3 [Binding] และ 1 Blunt Power Up ในเทิร์นหน้า."
@@ -102,12 +102,12 @@
           "level": 4,
           "name": "<line-height=120%>Regret\u200B</line-height>",
           "abName": "Forsaken Murderer",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] If this unit has a negative status effect, Atk Weight +2",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] หาก ยูนิทนี้ has a negative status effect, Atk Weight +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 50% of [Vibration]บนเป้าหมาย.\nIf target does not have a Stagger Threshold upon [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 50% of [Vibration]บนเป้าหมาย.\nหากเป้าหมายไม่มี a Stagger Threshold เมื่อ [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nลดขั้น [Vibration] ไป 1"
                 },
                 {
                   "desc": "[EndSkill] ได้รับ 3 [Binding] และ 1 Blunt Power Up ในเทิร์นหน้า."
@@ -175,7 +175,7 @@
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight equal to (highest Envy Reson. - 2) (สูงสุด 2)\n[BeforeAttack] If this unit has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; ทำ +2% more ความเสียหาย for every [Charge] Count consumed (สูงสุด 40%)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด 2)\n[BeforeAttack] หาก ยูนิทนี้ has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed (สูงสุด 40%)",
           "coinlist": [
             {
               "coindescs": [
@@ -193,7 +193,7 @@
           "level": 3,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight equal to (highest Envy Reson. - 2) (สูงสุด <style=\"highlight\">3</style>)\n[BeforeAttack] If this unit has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; ทำ +<style=\"highlight\">2.5</style>% more ความเสียหาย for every [Charge] Count consumed (สูงสุด <style=\"highlight\">50</style>%)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด <style=\"highlight\">3</style>)\n[BeforeAttack] หาก ยูนิทนี้ has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; ทำ +<style=\"highlight\">2.5</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed (สูงสุด <style=\"highlight\">50</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -211,7 +211,7 @@
           "level": 4,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight equal to (highest Envy Reson. - 2) (สูงสุด 3)\n<style=\"highlight\">[BeforeAttack] เมื่อมี 10+ [Charge] Count, มอบ the effects applied from 'On Hit' twice</style>\n[BeforeAttack] If this unit has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; ทำ +<style=\"highlight\">3</style>% more ความเสียหาย for every [Charge] Count consumed (สูงสุด <style=\"highlight\">60</style>%)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด 3)\n<style=\"highlight\">[BeforeAttack] เมื่อมี 10+ [Charge] Count, มอบ the effects applied from 'On Hit' twice</style>\n[BeforeAttack] หาก ยูนิทนี้ has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; ทำ +<style=\"highlight\">3</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed (สูงสุด <style=\"highlight\">60</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -269,7 +269,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate [Laceration]บนเป้าหมาย อีกครั้ง (target เสีย 1 [Laceration]Count)"
+                  "desc": "[WinDuelAttack] เปิดใช้งาน [Laceration]บนเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 [Laceration]Count)"
                 }
               ]
             }
@@ -287,7 +287,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนเป้าหมาย อีกครั้ง (target เสีย 1 [Laceration]Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., เปิดใช้งาน [Laceration]บนเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 [Laceration]Count)</style>"
                 }
               ]
             },
@@ -297,7 +297,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนเป้าหมาย อีกครั้ง (target เสีย 1 [Laceration]Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., เปิดใช้งาน [Laceration]บนเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 [Laceration]Count)</style>"
                 }
               ]
             },
@@ -320,7 +320,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration]<style=\"highlight\">(1 + (highest Reson./2)) times. (3 times max; target เสีย [Laceration]Count equal to the number of times it was activated)"
+                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration]<style=\"highlight\">(1 + (highest Reson./2)) times. (3 times max; เป้าหมายเสีย [Laceration]Count เท่ากับ the number of times it was activated)"
                 }
               ]
             }
@@ -330,7 +330,7 @@
           "level": 4,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 6 [Laceration]บนเป้าหมาย (สูงสุด 2)</style>\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration]บนเป้าหมาย (สูงสุด 2)</style>\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
           "coinlist": [
             {
               "coindescs": [
@@ -338,7 +338,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนเป้าหมาย อีกครั้ง (target เสีย 1 [Laceration]Count)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., เปิดใช้งาน [Laceration]บนเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 [Laceration]Count)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -348,7 +348,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนเป้าหมาย อีกครั้ง (target เสีย 1 [Laceration]Count)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., เปิดใช้งาน [Laceration]บนเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 [Laceration]Count)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -371,7 +371,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration](1 + (highest Reson./2)) times. (3 times max; target เสีย [Laceration]Count equal to the number of times it was activated)<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration](1 + (highest Reson./2)) times. (3 times max; เป้าหมายเสีย [Laceration]Count เท่ากับ the number of times it was activated)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[EnemyKill] When ทำ ing excess ความเสียหาย past the enemy's remaining HP, ทำ the excess ความเสียหายเป็น ความเสียหายตรง between all enemies. (min 1)</style>"
@@ -389,7 +389,7 @@
           "level": 1,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] Consume up to 10% of this unit's max HP และ ทำ (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of this unit's max HP, มอบ และ activate 5 [Laceration]บนall allies อีกครั้ง instead (lose 1 [Laceration]Count). ฟื้นฟู HP equal toจำนวนof [Laceration]damage ทำ t to allies",
+          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] Consume up to 10% of ยูนิทนี้'s max HP และ ทำ (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of ยูนิทนี้'s max HP, มอบ และ เปิดใช้งาน 5 [Laceration]บนall allies อีกครั้ง instead (lose 1 [Laceration]Count). ฟื้นฟู HP เท่ากับจำนวนof [Laceration]ความเสียหายทำ t to allies",
           "coinlist": [
             {
               "coindescs": [
@@ -417,7 +417,7 @@
                   "desc": "[OnSucceedAttack] มอบ +1 [RoseWedge] Count"
                 },
                 {
-                  "desc": "- If target did not have [RoseWedge], มอบ 4 additional [RoseWedge] Potency"
+                  "desc": "- หาก target did not have [RoseWedge], มอบ 4 additional [RoseWedge] Potency"
                 }
               ]
             },
@@ -427,7 +427,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate [Laceration]บนเป้าหมาย อีกครั้ง (target เสีย 1 [Laceration]Count)"
+                  "desc": "[WinDuelAttack] เปิดใช้งาน [Laceration]บนเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 [Laceration]Count)"
                 }
               ]
             }
@@ -437,7 +437,7 @@
           "level": 3,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">เมื่อมี 6+ (sum of [Laceration]บนself และ the target), แต้มเหรียญ +1</style>\n[WhenUse] Consume up to 10% of this unit's max HP และ ทำ (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of this unit's max HP, มอบ และ activate 5 [Laceration]บนall allies อีกครั้ง instead (lose 1 [Laceration]Count). ฟื้นฟู HP equal toจำนวนof [Laceration]damage ทำ t to allies",
+          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">เมื่อมี 6+ (sum of [Laceration]บนself และ the target), แต้มเหรียญ +1</style>\n[WhenUse] Consume up to 10% of ยูนิทนี้'s max HP และ ทำ (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of ยูนิทนี้'s max HP, มอบ และ เปิดใช้งาน 5 [Laceration]บนall allies อีกครั้ง instead (lose 1 [Laceration]Count). ฟื้นฟู HP เท่ากับจำนวนof [Laceration]ความเสียหายทำ t to allies",
           "coinlist": [
             {
               "coindescs": [
@@ -465,7 +465,7 @@
                   "desc": "[OnSucceedAttack] มอบ +1 [RoseWedge] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- If target did not have [RoseWedge], มอบ 4 additional [RoseWedge] Potency<style=\"highlight\"></style>"
+                  "desc": "- หาก target did not have [RoseWedge], มอบ 4 additional [RoseWedge] Potency<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -475,7 +475,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration]<style=\"highlight\">(1 + (highest Reson./2)) times. (3 times max; target เสีย [Laceration]Count equal to the number of times it was activated)</style>"
+                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration]<style=\"highlight\">(1 + (highest Reson./2)) times. (3 times max; เป้าหมายเสีย [Laceration]Count เท่ากับ the number of times it was activated)</style>"
                 }
               ]
             }
@@ -485,7 +485,7 @@
           "level": 4,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\nแต้มเหรียญ +1 for every 6 (sum of [Laceration]บนself และ the target) <style=\"highlight\">(สูงสุด 3)</style>\n[WhenUse] Consume up to 10% of this unit's max HP และ ทำ (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of this unit's max HP, มอบ และ activate 5 [Laceration]บนall allies instead (lose 1 [Laceration]Count). ฟื้นฟู HP equal toจำนวนof [Laceration]damage ทำ t to allies",
+          "desc": "[CantIdentify]\nTargets randomly\nแต้มเหรียญ +1 ต่อทุกๆ 6 (sum of [Laceration]บนself และ the target) <style=\"highlight\">(สูงสุด 3)</style>\n[WhenUse] Consume up to 10% of ยูนิทนี้'s max HP และ ทำ (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of ยูนิทนี้'s max HP, มอบ และ เปิดใช้งาน 5 [Laceration]บนall allies instead (lose 1 [Laceration]Count). ฟื้นฟู HP เท่ากับจำนวนof [Laceration]ความเสียหายทำ t to allies",
           "coinlist": [
             {
               "coindescs": [
@@ -493,7 +493,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Laceration]บนself และ the target<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration]บนself และ the target อีกครั้ง (both เสีย 1 [Laceration]Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เปิดใช้งาน [Laceration]บนself และ the target อีกครั้ง (both เสีย 1 [Laceration]Count)</style>"
                 }
               ]
             },
@@ -503,7 +503,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Laceration]บนself และ the target<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration]บนself และ the target อีกครั้ง (both เสีย 1 [Laceration]Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เปิดใช้งาน [Laceration]บนself และ the target อีกครั้ง (both เสีย 1 [Laceration]Count)</style>"
                 }
               ]
             },
@@ -519,7 +519,7 @@
                   "desc": "[OnSucceedAttack] มอบ +<style=\"highlight\">2</style> [RoseWedge] Count"
                 },
                 {
-                  "desc": "- If target did not have [RoseWedge], มอบ 4 additional [RoseWedge] Potency<style=\"highlight\"></style>"
+                  "desc": "- หาก target did not have [RoseWedge], มอบ 4 additional [RoseWedge] Potency<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -529,7 +529,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration](1 + (highest Reson./2)) times. (3 times max; target เสีย [Laceration]Count equal to the number of times it was activated)<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration](1 + (highest Reson./2)) times. (3 times max; เป้าหมายเสีย [Laceration]Count เท่ากับ the number of times it was activated)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[EnemyKill] When ทำ ing excess ความเสียหาย past the enemy's remaining HP, ทำ the excess ความเสียหายเป็น ความเสียหายตรง between all enemies. (min 1)</style>"

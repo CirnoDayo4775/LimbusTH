@@ -47,19 +47,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Draining Roots\u200B</line-height>",
-          "desc": "[CantDuel]\nAmong targets with [MRcAfBa], attack the unit with the slowest Speed;\nทำ ([MRcAfBa] x 10)% more ความเสียหาย",
+          "desc": "[CantDuel]\nAmong targets with [MRcAfBa], attack the unit with the slowest Speed;\nทำ ([MRcAfBa] x 10)% ความเสียหายเพิ่มเติ่ม",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ([MRcAfBa] x 5)% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ([MRcAfBa] x 5)% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ([MRcAfBa] x 5)% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ([MRcAfBa] x 5)% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -73,7 +73,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Flourishing Gossypium\u200B</line-height>",
-          "desc": "Attacks the target with the most [Laceration]\n[WhenUse] If the main target is the target with the most [Laceration], Base Power +5, มอบ x2 the effects",
+          "desc": "Attacks the target with the most [Laceration]\n[WhenUse] หาก the main target is the target with the most [Laceration], แต้มตั้งต้น +5, มอบ x2 the effects",
           "coinlist": [
             {
               "coindescs": [
@@ -99,7 +99,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Scattering Gossypium\u200B</line-height>",
-          "desc": "Among targets with [MRcAfBa], attack the unit with the least HP\n[WhenUse] If the main target is the target with the most [Laceration], Base Power +5\n[EndBattle] [MRcAfBb] state expires ในเทิร์นหน้า.",
+          "desc": "Among targets with [MRcAfBa], attack the unit with the least HP\n[WhenUse] หาก the main target is the target with the most [Laceration], แต้มตั้งต้น +5\n[EndBattle] [MRcAfBb] state expires ในเทิร์นหน้า.",
           "coinlist": [
             {
               "coindescs": [
@@ -144,7 +144,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Encroaching Gossypium\u200B</line-height>",
-          "desc": "[CantDuel]\nPrioritizes the unit with the lowest Speed\nDamage ทำ t ไป this Attack Skill is fixed to 0.\n[StartBattle] Enter [MRcAfBb] state ในเทิร์นหน้า.",
+          "desc": "[CantDuel]\nPrioritizes the unit with the lowest Speed\nความเสียหายทำ t ไป this Attack Skill is fixed to 0.\n[StartBattle] Enter [MRcAfBb] state ในเทิร์นหน้า.",
           "coinlist": [
             {},
             {
@@ -164,7 +164,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Scattering Red-stained Gossypium\u200B</line-height>",
-          "desc": "Prioritizes the target with the most [Laceration]\n[WhenUse] If the main target is the target with the most [Laceration], Base Power +10\nหากเป้าหมายมี 10+ [Laceration], ทำ +50% more ความเสียหาย",
+          "desc": "Prioritizes the target with the most [Laceration]\n[WhenUse] หาก the main target is the target with the most [Laceration], แต้มตั้งต้น +10\nหากเป้าหมายมี 10+ [Laceration], ทำ +50% ความเสียหายเพิ่มเติ่ม",
           "coinlist": [
             {
               "coindescs": [
@@ -172,7 +172,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +4 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู HP equal to [Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ [Laceration]บนเป้าหมาย"
                 }
               ]
             },
@@ -182,7 +182,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +4 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู HP equal to [Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ [Laceration]บนเป้าหมาย"
                 }
               ]
             }
@@ -234,7 +234,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Spark\u200B</line-height>",
-          "desc": "[WinDuel] มอบ [Combustion] equal to [Combustion]บนเป้าหมาย.\n[WhenUse] มอบ [Combustion] +2 ขั้น.",
+          "desc": "[WinDuel] มอบ [Combustion] เท่ากับ [Combustion]บนเป้าหมาย.\n[WhenUse] มอบ [Combustion] +2 ขั้น.",
           "coinlist": [
             {
               "coindescs": [
@@ -268,20 +268,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Combustion] Count equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] Count เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Aได้รับst the enemy with the lowest Speed, มอบ [Combustion] Count equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[OnSucceedAttackHead] Aได้รับst the enemy with the lowest Speed, มอบ [Combustion] Count เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Combustion] equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Aได้รับst the enemy with the lowest Speed, มอบ [Combustion] equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[OnSucceedAttackHead] Aได้รับst the enemy with the lowest Speed, มอบ [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 }
               ]
             }
@@ -295,25 +295,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ardor Blossom Star\u200B</line-height>",
-          "desc": "ได้รับ แต้มปะทะ equal to (# of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn x2)\n[WhenUse] มอบ (# of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn x2) [Combustion] แก่ศัตรูทั้งหมด",
+          "desc": "ได้รับ แต้มปะทะ เท่ากับ (# of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้ x2)\n[WhenUse] มอบ (# of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้ x2) [Combustion] แก่ศัตรูทั้งหมด",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Combustion] equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Aได้รับst the enemy with the lowest Speed, มอบ [Combustion] และ [Combustion] Count equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[OnSucceedAttackHead] Aได้รับst the enemy with the lowest Speed, มอบ [Combustion] และ [Combustion] Count เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Combustion] equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Aได้รับst the enemy with the lowest Speed, มอบ [Combustion] และ [Combustion] Count equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[OnSucceedAttackHead] Aได้รับst the enemy with the lowest Speed, มอบ [Combustion] และ [Combustion] Count เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 }
               ]
             },
@@ -356,7 +356,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Stoke the Flames\u200B</line-height>",
-          "desc": "[CantDuel]\n[CantChangeTarget]\nDamage ทำ t ไป this Attack Skill is fixed to 0.",
+          "desc": "[CantDuel]\n[CantChangeTarget]\nความเสียหายทำ t ไป this Attack Skill is fixed to 0.",
           "coinlist": [
             {},
             {},
@@ -578,25 +578,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>6:5\u200B</line-height>",
-          "desc": "[CantDuel][CantChangeTarget]\nTake ความเสียหาย in the target's place. Get staggered ในเทิร์นหน้า.\nInflict Markedบนa random enemy without [AaCePcBa].\n[EndBattle] All Candles ฟื้นฟู to Max HP",
+          "desc": "[CantDuel][CantChangeTarget]\nรับความเสียหายแทนเป้าหมาย จะ Stagger ในเทิร์นหน้า.\nมอบ [AaCePcBa] แก่ศัตรูแบบสุ่มที่ไม่มี [AaCePcBa].\n[EndBattle] เทียนทุกเล่ม ฟื้นฟู HP จนเต็ม",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] This unit's max HP decreases ไป 5%."
+                  "desc": "[OnSucceedAttack] HPสูงสุด ของยูนิทนี้ ลงลงไป 5%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 10 [Combustion]บนself"
+                  "desc": "[OnSucceedAttack] มอบ 10 [Combustion] แก่ตัวเอง"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] This unit's max HP decreases ไป 5%."
+                  "desc": "[OnSucceedAttack] HPสูงสุด ของยูนิทนี้ ลงลงไป 5%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 10 [Combustion]บนself"
+                  "desc": "[OnSucceedAttack] มอบ 10 [Combustion] แก่ตัวเอง"
                 }
               ]
             }
@@ -609,7 +609,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Scorn Not the Prophecy\u200B</line-height>",
+          "name": "<line-height=120%>จงอย่าดูหมิ่นคำทำนาย\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -618,7 +618,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Combustion] และ [Combustion] +2 ขั้นบนเป้าหมาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 20 HPบนself"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 20 HP บนตัวเอง"
                 }
               ]
             }
@@ -631,8 +631,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Insidious Pallidification\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 10% ของ HP สูงสุดเป็นShield. For every Queequeg's Ego, ได้รับ additional 0.3% ของ HP สูงสุดเป็นadditional Shield.\nWhen attacked while Shielded, attacker เสีย 5 SP\nWhen attacked, use this Skill อีกครั้ง for every 10 Queequeg's Ego",
+          "name": "<line-height=120%>ความชั่วแพร่พันธุ์ดั่งมังสาซีดเผือก\u200B</line-height>",
+          "desc": "[StartBattle] ได้รับ 10% ของ HPสูงสุดมาเป็นโล่. ต่อทุกๆ [AaCePcBq], ได้รับ additional 0.3% ของ HPสูงสุดเป็นadditional โล่.\nเมื่อถูกโจมตีขณะมีโล่ ผู้โจมตี เสีย 5 SP\nเมื่อถูกโจมตี ใช้สกิลนี้อีกครั้ง ต่อทุกๆ 10 [AaCePcBq]",
           "coinlist": [
             {
               "coindescs": [

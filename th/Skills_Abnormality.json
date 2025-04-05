@@ -1119,7 +1119,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 10% ของ HP สูงสุด; ได้รับ 1 [Aggressive]"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 10% ของ HPสูงสุด; ได้รับ 1 [Aggressive]"
                 }
               ]
             }
@@ -1137,7 +1137,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 10% ของ HP สูงสุด"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 10% ของ HPสูงสุด"
                 }
               ]
             },
@@ -1464,21 +1464,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Poison ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Poison] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Poison ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Poison] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Poison ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Poison] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -2374,14 +2374,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Poison ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Poison] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Poison ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Poison] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -3180,7 +3180,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ขดตัว\u200B</line-height>",
-          "desc": "If this skill isบนa slot, ได้รับ shield ไป the head's current HP",
+          "desc": "If this skill isบนa slot, ได้รับ โล่ ไป the head's current HP",
           "coinlist": [
             {}
           ]
@@ -3356,7 +3356,7 @@
         {
           "level": 1,
           "name": "<line-height=120%เฝ้าคอย\u200B</line-height>",
-          "desc": "[StartBattle] ศัตรูทุกตัว เสีย 20 SP",
+          "desc": "[StartBattle] ศัตรูทุกตัว เสีย 20 ค่าสติ",
           "coinlist": [
             {}
           ]
@@ -3639,7 +3639,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ภาพจำค่อยทิ่มแทง\u200B</line-height>",
-          "desc": "[WinDuel] ฟื้นฟู 8 SP\n[DefeatDuel] เสีย 5 SP",
+          "desc": "[WinDuel] ฟื้นฟู 8 SP\n[DefeatDuel] เสีย 5 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -3672,7 +3672,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ภาพจำดั่งหนามกุหลาบ\u200B</line-height>",
-          "desc": "[WinDuel] ฟื้นฟู 8 SP\n[DefeatDuel] เสีย 5 SP",
+          "desc": "[WinDuel] ฟื้นฟู 8 SP\n[DefeatDuel] เสีย 5 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -3754,7 +3754,7 @@
                   "desc": "[OnSucceedAttack] เป้าหมายเสีย 15 ค่าสติ."
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 8 [Sinking] และ 8 Poison ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 8 [Sinking] และ 8 [Poison] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -3768,7 +3768,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เอามันออกไป\u200B</line-height>",
-          "desc": "[OnDefeatEvade] เสีย 8 SP",
+          "desc": "[OnDefeatEvade] เสีย 8 ค่าสติ",
           "coinlist": [
             {}
           ]
@@ -4198,7 +4198,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -4217,14 +4217,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับความเสียหายที่ทำไป\nหากเป้าหมายมี [DistortedDongrangEmptyMark], ได้รับ 1 [Enhancement] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับความเสียหายที่ทำไป\nหากเป้าหมายมี [DistortedDongrangEmptyMark], ได้รับ 1 [Enhancement] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับความเสียหายที่ทำไป\nหากเป้าหมายมี [DistortedDongrangEmptyMark], ได้รับ 1 [Enhancement] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับความเสียหายที่ทำไป\nหากเป้าหมายมี [DistortedDongrangEmptyMark], ได้รับ 1 [Enhancement] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -4262,14 +4262,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]; ฟื้นฟูHP เท่ากับ25% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]; ฟื้นฟู HP เท่ากับ25% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]; ฟื้นฟูHP เท่ากับ25% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]; ฟื้นฟู HP เท่ากับ25% ของความเสียหายที่ทำไป"
                 }
               ]
             },
@@ -4353,7 +4353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Vulnerable], 5 [Burst], และ 5 [Laceration]; ฟื้นฟูHP เท่ากับ10% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Vulnerable], 5 [Burst], และ 5 [Laceration]; ฟื้นฟู HP เท่ากับ10% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -4477,7 +4477,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [EgoAwakenDongrangSeed] และ [EgoAwakenDongrangOverHeal]; ฟื้นฟูHP ของเป้าหมายไป 15"
+                  "desc": "[OnSucceedAttack] มอบ 3 [EgoAwakenDongrangSeed] และ [EgoAwakenDongrangOverHeal]; ฟื้นฟู HP ของเป้าหมายไป 15"
                 }
               ]
             }
@@ -4795,7 +4795,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ1% ของ HP สูงสุด ต่อทุกๆ [Laceration] ของเป้าหมาย\nลบขั้น [Laceration] ทั้งหมด"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ1% ของ HPสูงสุด ต่อทุกๆ [Laceration] ของเป้าหมาย\nลบขั้น [Laceration] ทั้งหมด"
                 }
               ]
             }
@@ -5055,7 +5055,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 3% ของ HP สูงสุด ให้แกนกลาง"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 3% ของ HPสูงสุด ให้แกนกลาง"
                 }
               ]
             }

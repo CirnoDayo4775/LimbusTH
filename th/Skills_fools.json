@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Gimme Candy.\u200B</line-height>",
-          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [CandyForCharon]\n[EndSkill] If the target does not have [CandyForCharon], มอบ [CandyForCharon]",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [CandyForCharon]\n[EndSkill] หาก the target ไม่มี [CandyForCharon], มอบ [CandyForCharon]",
           "coinlist": [
             {
               "coindescs": [
@@ -73,7 +73,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>... Kkomi's angry.\u200B</line-height>",
-          "desc": "[BeforeAttack] ได้รับ Atk Weight equal to number of enemies with [CandyForCharon]\n[WhenUse] ได้รับ แต้มปะทะ equal to the number of enemies with [CandyForCharon]",
+          "desc": "[BeforeAttack] ได้รับ Atk Weight เท่ากับ number of enemies with [CandyForCharon]\n[WhenUse] ได้รับ แต้มปะทะ เท่ากับ the number of enemies with [CandyForCharon]",
           "coinlist": [
             {
               "coindescs": [
@@ -99,7 +99,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Vroom-Vroom\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ แต้มปะทะ equal to the number of Identities with [CandyForCharon]\nทำ +10% more ความเสียหาย for every Identity with [CandyForCharon] (สูงสุด 100%)",
+          "desc": "[WhenUse] ได้รับ แต้มปะทะ เท่ากับ the number of Identities with [CandyForCharon]\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ Identity with [CandyForCharon] (สูงสุด 100%)",
           "coinlist": [
             {},
             {}

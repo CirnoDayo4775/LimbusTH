@@ -131,7 +131,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Time to be Saved\u200B</line-height>",
-          "desc": "[CantDuel]\nInflict [TimeKillerWatch] aได้รับst the target that used an Attack Skill aได้รับst this unit\n[StartBattle] Consume 200 [LimitedTime] และ ได้รับ [TimeAcceleration] ในเทิร์นหน้า",
+          "desc": "[CantDuel]\nมอบ [TimeKillerWatch] aได้รับst the target that used an Attack Skill aได้รับst ยูนิทนี้\n[StartBattle] Consume 200 [LimitedTime] และ ได้รับ [TimeAcceleration] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -150,7 +150,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 100 [LimitedTime]บนself",
+          "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 100 [LimitedTime]บนself",
           "coinlist": [
             {
               "coindescs": [
@@ -294,7 +294,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Time to be Saved\u200B</line-height>",
-          "desc": "[CantDuel]\nInflict [TimeKillerWatch] aได้รับst the target that used an Attack Skill aได้รับst this unit\n[StartBattle] Consume 200 [OwnTime] และ ได้รับ [TimeAcceleration] ในเทิร์นหน้า)",
+          "desc": "[CantDuel]\nมอบ [TimeKillerWatch] aได้รับst the target that used an Attack Skill aได้รับst ยูนิทนี้\n[StartBattle] Consume 200 [OwnTime] และ ได้รับ [TimeAcceleration] ในเทิร์นหน้า)",
           "coinlist": [
             {
               "coindescs": [
@@ -313,7 +313,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 100 sum of [OwnTime] across ทุกๆชิ้นส่วน",
+          "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 100 sum of [OwnTime] across ทุกๆชิ้นส่วน",
           "coinlist": [
             {
               "coindescs": [
@@ -332,12 +332,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Timekilling Time\u200B</line-height>",
-          "desc": "[CantDuel]\nThis unit's Speed is fixed at 12.\nCannot be Staggered this turn.\n[WhenUse] Consume [OwnTime] 400.",
+          "desc": "[CantDuel]\nยูนิทนี้'s Speed is fixed at 12.\nCannot be Staggered ในเทิร์นนี้.\n[WhenUse] Consume [OwnTime] 400.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Erase the target's time. อีกครั้ง this unit erases the target's time, ทุกๆชิ้นส่วน recover [OwnTime] to their max values และ ได้รับ 10 [Agility] และ 10 [Enhancement] ในเทิร์นหน้า."
+                  "desc": "[OnSucceedAttack] Erase the target's time. อีกครั้ง ยูนิทนี้ erases the target's time, ทุกๆชิ้นส่วน recover [OwnTime] to their max values และ ได้รับ 10 [Agility] และ 10 [Enhancement] ในเทิร์นหน้า."
                 }
               ]
             }

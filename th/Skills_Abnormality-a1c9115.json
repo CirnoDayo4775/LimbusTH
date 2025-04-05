@@ -6,7 +6,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Overthrow\u200B</line-height>",
-                    "desc": "[WhenUse] ได้รับ +3 [Breath] Count",
+                    "desc": "[WhenUse] ได้รับ [Breath] +3 ขั้น",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -17,7 +17,7 @@
                                     "desc": "If this เหรียญ is Cracked, เสีย 10 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ 3 [Breath] และ +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ 3 [Breath] และ [Breath] +1 ขั้น"
                                 },
                                 {
                                     "desc": "[UnBrokenCoinOnSucceedAttack] มอบ [Laceration] +1 ขั้น"
@@ -69,7 +69,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-                    "desc": "[StartBattle] ได้รับ 100 Shield\n[WhenUse] If the Shield isn't fully depleted, แต้มปะทะ +5",
+                    "desc": "[StartBattle] ได้รับ 100 โล่\n[WhenUse] หาก the โล่ isn't fully depleted, แต้มปะทะ +5",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -93,7 +93,7 @@
                                     "desc": "If this เหรียญ is Cracked, เสีย 20 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% ความเสียหายบนCritical Hit"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% ความเสียหายเมื่อติดคริ"
                                 },
                                 {
                                     "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 10 [Laceration]and [Laceration] +2 ขั้น"
@@ -109,7 +109,7 @@
                                     "desc": "If this เหรียญ is Cracked, เสีย 20 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value ไป Atk Weight และ มอบ itเป็น ความเสียหายตรง."
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] หาก the โล่ isn't fully depleted, divide [Grudge] value ไป Atk Weight และ มอบ itเป็น ความเสียหายตรง."
                                 }
                             ]
                         }
@@ -123,7 +123,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-                    "desc": "[StartBattle] ได้รับ 250 Shield\n[WhenUse] ได้รับ +3 [Breath] Count\n[WhenUse] If the Shield isn't fully depleted, แต้มปะทะ +10",
+                    "desc": "[StartBattle] ได้รับ 250 โล่\n[WhenUse] ได้รับ [Breath] +3 ขั้น\n[WhenUse] หาก the โล่ isn't fully depleted, แต้มปะทะ +10",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -147,7 +147,7 @@
                                     "desc": "If this เหรียญ is Cracked, เสีย 23 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% ความเสียหายบนCritical Hit"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% ความเสียหายเมื่อติดคริ"
                                 },
                                 {
                                     "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 5 [Paralysis] ในเทิร์นหน้า"
@@ -166,7 +166,7 @@
                                     "desc": "If this เหรียญ is Cracked, เสีย 23 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value ไป Atk Weight และ มอบ itเป็น ความเสียหายตรง."
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] หาก the โล่ isn't fully depleted, divide [Grudge] value ไป Atk Weight และ มอบ itเป็น ความเสียหายตรง."
                                 }
                             ]
                         }
@@ -180,7 +180,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-                    "desc": "[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] ฟื้นฟู HP equal to [Grudge] value",
+                    "desc": "[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] ฟื้นฟู HP เท่ากับ [Grudge] value",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -211,7 +211,7 @@
                                     "desc": "If this เหรียญ is Cracked, เสีย 25 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ทำ  ความเสียหายตรง equal to [Grudge] value."
+                                    "desc": "[OnSucceedAttack] ทำ  ความเสียหายตรง เท่ากับ [Grudge] value."
                                 }
                             ]
                         }

@@ -6,13 +6,13 @@
         {
           "level": 1,
           "name": "<line-height=120%>Patrolling\u200B</line-height>",
-          "desc": "[DefeatDuel] ได้รับ 2 Defense Level Up",
+          "desc": "[DefeatDuel] ได้รับ 2 [DefenseUp]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 2 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 2 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -21,13 +21,13 @@
         {
           "level": 2,
           "name": "<line-height=120%>Patrolling\u200B</line-height>",
-          "desc": "[DefeatDuel] ได้รับ 3 Defense Level Up",
+          "desc": "[DefeatDuel] ได้รับ 3 [DefenseUp]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -36,13 +36,13 @@
         {
           "level": 4,
           "name": "<line-height=120%>Patrolling\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 Aggro to this Skill Slot ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 3 Defense Level Up",
+          "desc": "[WhenUse] ได้รับ +2 Aggro to this Skill Slot ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 3 [DefenseUp]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -56,26 +56,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>Client [Protection]\u200B</line-height>",
-          "desc": "[WhenUse] มอบ 2 Defense Level Up to the ally with the lowest HP percentage (3 times ต่อทุกๆ turn)",
+          "desc": "[WhenUse] มอบ 2 [DefenseUp] to the ally with the lowest HP percentage (3 times ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -84,26 +84,26 @@
         {
           "level": 2,
           "name": "<line-height=120%>Client [Protection]\u200B</line-height>",
-          "desc": "[WhenUse] มอบ 3 Defense Level Up to the ally with the lowest HP percentage (3 times ต่อทุกๆ turn)\nเมื่อมี 5+ Defense Level Up, แต้มปะทะ +1",
+          "desc": "[WhenUse] มอบ 3 [DefenseUp] to the ally with the lowest HP percentage (3 times ต่อทุกๆ turn)\nเมื่อมี 5+ [DefenseUp], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -112,26 +112,26 @@
         {
           "level": 4,
           "name": "<line-height=120%>Client [Protection]\u200B</line-height>",
-          "desc": "[WhenUse] มอบ 4 Defense Level Up to the ally with the lowest HP percentage (3 times ต่อทุกๆ turn)\nเมื่อมี 5+ Defense Level Up, แต้มปะทะ +2",
+          "desc": "[WhenUse] มอบ 4 [DefenseUp] to the ally with the lowest HP percentage (3 times ต่อทุกๆ turn)\nเมื่อมี 5+ [DefenseUp], แต้มปะทะ +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Defense Level Up ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [DefenseUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -145,13 +145,13 @@
         {
           "level": 3,
           "name": "<line-height=120%>Law และ Order\u200B</line-height>",
-          "desc": "เมื่อมี 5+ Defense Level Up, แต้มเหรียญ +1\n[WinDuel] ฟื้นฟู 2 HP",
+          "desc": "เมื่อมี 5+ [DefenseUp], แต้มเหรียญ +1\n[WinDuel] ฟื้นฟู 2 HP",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Apply 1 [Agility] และ 2 Defense Level Up to the ally with the lowest HP percentage ในเทิร์นหน้า"
+                  "desc": "Apply 1 [Agility] และ 2 [DefenseUp] to the ally with the lowest HP percentage ในเทิร์นหน้า"
                 }
               ]
             }
@@ -160,16 +160,16 @@
         {
           "level": 4,
           "name": "<line-height=120%>Law และ Order\u200B</line-height>",
-          "desc": "เมื่อมี 5+ Defense Level Up, แต้มเหรียญ +1\n[WinDuel] ฟื้นฟู 4 HP",
+          "desc": "เมื่อมี 5+ [DefenseUp], แต้มเหรียญ +1\n[WinDuel] ฟื้นฟู 4 HP",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Apply 1 [Agility] และ 2 Defense Level Up to the ally with the lowest HP percentage ในเทิร์นหน้า"
+                  "desc": "Apply 1 [Agility] และ 2 [DefenseUp] to the ally with the lowest HP percentage ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "If the ally is a Zwei Association Fixer, มอบ an additional 1 [Agility], 1 Defense Level Up"
+                  "desc": "If the ally is a Zwei Association Fixer, มอบ an additional 1 [Agility], 1 [DefenseUp]"
                 }
               ]
             }
@@ -265,7 +265,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ 1 Offense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 [AttackDown] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -290,7 +290,7 @@
                   "desc": "[OnSucceedAttackHead] ได้รับ [Vibration] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ 1 Offense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 [AttackDown] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -301,7 +301,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 [PlusCoinValueDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -318,7 +318,7 @@
                   "desc": "[OnSucceedAttackHead] ได้รับ [Vibration] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Offense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 1 [AttackDown] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -329,7 +329,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 1 [PlusCoinValueDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -343,7 +343,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Unleashed Violence\u200B</line-height>",
-          "desc": "[StartBattle]จ่าย 5 [Vibration] Count และ ได้รับ +1 Atk Weight for this Skill (สูงสุด +2)\n[DefeatDuel] เสีย 20 SP\nทำ 3% more ความเสียหาย for every type of negative effectบนเป้าหมาย (สูงสุด 15%)\n[EnemyKill] ได้รับ [Vibration] +2 ขั้น",
+          "desc": "[StartBattle]จ่าย 5 [Vibration] Count และ ได้รับ +1 Atk Weight for this Skill (สูงสุด +2)\n[DefeatDuel] เสีย 20 SP\nทำ 3% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 15%)\n[EnemyKill] ได้รับ [Vibration] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -362,7 +362,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion],\nThen ทำ Wrath ความเสียหาย ไป 20% of the final Stagger Threshold Raised ไป [Vibration] Burst. (สูงสุด 13)\nReduce [Vibration] Count ไป 3"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion],\nThen ทำ Wrath ความเสียหาย ไป 20% of the final Stagger Threshold Raised ไป [Vibration] Burst. (สูงสุด 13)\nลดขั้น [Vibration] ไป 3"
                 }
               ]
             }
@@ -371,7 +371,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Unleashed Violence\u200B</line-height>",
-          "desc": "[StartBattle]จ่าย 5 [Vibration] Count และ ได้รับ +1 Atk Weight for this Skill (สูงสุด +2)\n[DefeatDuel] เสีย 20 SP\nทำ 6% more ความเสียหาย for every type of negative effectบนเป้าหมาย (สูงสุด 30%)\n[EnemyKill] ได้รับ [Vibration] +2 ขั้น",
+          "desc": "[StartBattle]จ่าย 5 [Vibration] Count และ ได้รับ +1 Atk Weight for this Skill (สูงสุด +2)\n[DefeatDuel] เสีย 20 SP\nทำ 6% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 30%)\n[EnemyKill] ได้รับ [Vibration] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -390,7 +390,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion],\nThen ทำ Wrath ความเสียหาย ไป 30% of the final Stagger Threshold Raised ไป [Vibration] Burst. (สูงสุด 20)\nReduce [Vibration] Count ไป 3"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion],\nThen ทำ Wrath ความเสียหาย ไป 30% of the final Stagger Threshold Raised ไป [Vibration] Burst. (สูงสุด 20)\nลดขั้น [Vibration] ไป 3"
                 }
               ]
             }
@@ -425,7 +425,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Moonlit Blade Dance\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {},
             {},
@@ -441,7 +441,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Moonlit Blade Dance\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {},
             {
@@ -463,7 +463,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Moonlit Blade Dance\u200B</line-height>",
-          "desc": "<style=\"highlight\">เมื่อมี 5+ [Breath], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "<style=\"highlight\">เมื่อมี 5+ [Breath], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {},
             {
@@ -490,12 +490,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Acupuncture\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             },
@@ -511,15 +511,15 @@
         {
           "level": 2,
           "name": "<line-height=120%>Acupuncture\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น"
                 },
                 {
-                  "desc": "+30% ความเสียหายบนCritical Hit"
+                  "desc": "+30% ความเสียหายเมื่อติดคริ"
                 }
               ]
             },
@@ -538,15 +538,15 @@
         {
           "level": 4,
           "name": "<line-height=120%>Acupuncture\u200B</line-height>",
-          "desc": "<style=\"highlight\">เมื่อมี 7+ [Breath], แต้มเหรียญ +1\n</style>[WhenUse] ได้รับ +2 [Breath] Count",
+          "desc": "<style=\"highlight\">เมื่อมี 7+ [Breath], แต้มเหรียญ +1\n</style>[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น"
                 },
                 {
-                  "desc": "+30% ความเสียหายบนCritical Hit"
+                  "desc": "+30% ความเสียหายเมื่อติดคริ"
                 }
               ]
             },
@@ -570,7 +570,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Red Plum Blossoms Scatter\u200B</line-height>",
-          "desc": "ทำ +3% ความเสียหาย for every [RedApricotBlossom]บนเป้าหมาย\n[WinDuel] Consume half the [Breath] Countบนself, then ได้รับ [Breath] equal to the [Breath] Count consumed. (สูงสุด 10)",
+          "desc": "ทำ +3% ความเสียหาย ต่อทุกๆ [RedApricotBlossom]บนเป้าหมาย\n[WinDuel] Consume half the [Breath] Countบนself, then ได้รับ [Breath] เท่ากับ the [Breath] Count consumed. (สูงสุด 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -591,7 +591,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Red Plum Blossoms Scatter\u200B</line-height>",
-          "desc": "ทำ +3% more ความเสียหาย for every [RedApricotBlossom]บนเป้าหมาย\n<style=\"highlight\">แต้มเหรียญ +1 for every 7 [Breath]บนself (สูงสุด 3)</style>\n[WinDuel] Consume half the [Breath] Countบนself, then ได้รับ [Breath] equal to the [Breath] Count consumed. (สูงสุด 10)\n<style=\"highlight\">This Skill does not consume [RedApricotBlossom]บนCrit</style>",
+          "desc": "ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ [RedApricotBlossom]บนเป้าหมาย\n<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 7 [Breath]บนself (สูงสุด 3)</style>\n[WinDuel] Consume half the [Breath] Countบนself, then ได้รับ [Breath] เท่ากับ the [Breath] Count consumed. (สูงสุด 10)\n<style=\"highlight\">This Skill does not consume [RedApricotBlossom]บนCrit</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -623,7 +623,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Redirect\u200B</line-height>",
-          "desc": "[WhenUse] For every 4 [Breath]บนself, ได้รับ แต้มรวม +1 (สูงสุด 3)",
+          "desc": "[WhenUse] ต่อทุกๆ 4 [Breath]บนself, ได้รับ แต้มรวม +1 (สูงสุด 3)",
           "coinlist": [
             {}
           ]
@@ -631,7 +631,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Redirect\u200B</line-height>",
-          "desc": "[WhenUse] For every 4 [Breath]บนself, ได้รับ แต้มรวม +1 (สูงสุด 5)",
+          "desc": "[WhenUse] ต่อทุกๆ 4 [Breath]บนself, ได้รับ แต้มรวม +1 (สูงสุด 5)",
           "coinlist": [
             {}
           ]
@@ -879,7 +879,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "เมื่อมี 3+ Reson. including this Skill, consume all [Charge] Countบนself และ ทำ +([Charge])% more ความเสียหาย for every [Charge] Count consumed ไป this Skill (สูงสุด 60%)"
+                  "desc": "เมื่อมี 3+ Reson. including this Skill, consume all [Charge] Countบนself และ ทำ +([Charge])% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed ไป this Skill (สูงสุด 60%)"
                 }
               ]
             }
@@ -895,7 +895,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "เมื่อมี 3+ Reson. including this Skill, consume all [Charge] Countบนself และ ทำ +<style=\"highlight\">([Charge] + 3)</style>% more ความเสียหาย for every [Charge] Count consumed ไป this Skill (สูงสุด <style=\"highlight\">120%</style>)"
+                  "desc": "เมื่อมี 3+ Reson. including this Skill, consume all [Charge] Countบนself และ ทำ +<style=\"highlight\">([Charge] + 3)</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed ไป this Skill (สูงสุด <style=\"highlight\">120%</style>)"
                 }
               ]
             }
@@ -911,7 +911,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "เมื่อมี 3+ Reson. including this Skill, consume all [Charge] Countบนself และ ทำ +<style=\"highlight\">([Charge] + 4)</style>% more ความเสียหาย for every [Charge] Count consumed ไป this Skill (สูงสุด <style=\"highlight\">180%</style>)"
+                  "desc": "เมื่อมี 3+ Reson. including this Skill, consume all [Charge] Countบนself และ ทำ +<style=\"highlight\">([Charge] + 4)</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed ไป this Skill (สูงสุด <style=\"highlight\">180%</style>)"
                 }
               ]
             }
@@ -945,7 +945,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "เมื่อมี 3+ [Charge], ทำ +4% more ความเสียหาย for every [Charge] (สูงสุด 20%)"
+                  "desc": "เมื่อมี 3+ [Charge], ทำ +4% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] (สูงสุด 20%)"
                 }
               ]
             }
@@ -954,7 +954,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>40Y-3 Charge\u200B</line-height>",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every [Charge] (สูงสุด 4)</style>",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ [Charge] (สูงสุด 4)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -974,10 +974,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "เมื่อมี 3+ [Charge], ทำ <style=\"highlight\">+8%</style> more ความเสียหาย for every [Charge] (สูงสุด <style=\"highlight\">40%</style>)"
+                  "desc": "เมื่อมี 3+ [Charge], ทำ <style=\"highlight\">+8%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] (สูงสุด <style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] มอบ 1 Envy Fragility ในเทิร์นหน้า\n- เมื่อมี 2+ [Charge], มอบ 1 additional Envy Fragility</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] มอบ 1 Envy Fragility ในเทิร์นหน้า\n- เมื่อมี 2+ [Charge], มอบเพิ่มเติมอีก 1 Envy Fragility</style>"
                 }
               ]
             }
@@ -1012,7 +1012,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ignition\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 10+ [Combustion], ทำ +10% more ความเสียหาย\n[WhenUse] ได้รับ 7 [Combustion] และ [Combustion] +1 ขั้น",
+          "desc": "[WhenUse] เมื่อมี 10+ [Combustion], ทำ +10% ความเสียหายเพิ่มเติ่ม\n[WhenUse] ได้รับ 7 [Combustion] และ [Combustion] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1039,7 +1039,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Ignition\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 10+ [Combustion], ทำ +10% more ความเสียหาย\n[WhenUse] ได้รับ 7 [Combustion] และ [Combustion] +1 ขั้น\n[WhenUse] เมื่อมี 10+ ([Combustion]บนself + [Combustion]บนเป้าหมาย), แต้มเหรียญ +1",
+          "desc": "[WhenUse] เมื่อมี 10+ [Combustion], ทำ +10% ความเสียหายเพิ่มเติ่ม\n[WhenUse] ได้รับ 7 [Combustion] และ [Combustion] +1 ขั้น\n[WhenUse] เมื่อมี 10+ ([Combustion] บนตัวเอง + [Combustion]บนเป้าหมาย), แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1069,7 +1069,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Ignition\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 10+ [Combustion], ทำ +10% more ความเสียหาย\n[WhenUse] ได้รับ 7 [Combustion] และ [Combustion] +1 ขั้น\n[WhenUse] แต้มเหรียญ +1 for every 10 ([Combustion]บนself + [Combustion]บนเป้าหมาย) (สูงสุด 2)",
+          "desc": "[WhenUse] เมื่อมี 10+ [Combustion], ทำ +10% ความเสียหายเพิ่มเติ่ม\n[WhenUse] ได้รับ 7 [Combustion] และ [Combustion] +1 ขั้น\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 ([Combustion] บนตัวเอง + [Combustion]บนเป้าหมาย) (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1104,7 +1104,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>E.G.O - A.B.S Activation\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 10+ [Combustion], ทำ +10% more ความเสียหาย\n[WhenUse] ได้รับ [Combustion] +4 ขั้น",
+          "desc": "[WhenUse] เมื่อมี 10+ [Combustion], ทำ +10% ความเสียหายเพิ่มเติ่ม\n[WhenUse] ได้รับ [Combustion] +4 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1135,7 +1135,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>E.G.O - A.B.S Activation\u200B</line-height>",
-          "desc": "[WhenUse] ทำ +10% more ความเสียหาย for every 10 [Combustion]บนself (สูงสุด 20%)\n[WhenUse] ได้รับ [Combustion] +4 ขั้น\n[WhenUse] เมื่อมี 4+ ([Combustion]บนself + [Combustion]บนเป้าหมาย), แต้มเหรียญ +1",
+          "desc": "[WhenUse] ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 10 [Combustion] บนตัวเอง (สูงสุด 20%)\n[WhenUse] ได้รับ [Combustion] +4 ขั้น\n[WhenUse] เมื่อมี 4+ ([Combustion] บนตัวเอง + [Combustion]บนเป้าหมาย), แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1166,7 +1166,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>E.G.O - A.B.S Activation\u200B</line-height>",
-          "desc": "[WhenUse] ทำ +10% more ความเสียหาย for every 10 [Combustion]บนself (สูงสุด 20%)\n[WhenUse] ได้รับ [Combustion] +4 ขั้น\n[WhenUse] แต้มเหรียญ +1 for every 4 ([Combustion]บนself + [Combustion]บนเป้าหมาย) (สูงสุด 2)",
+          "desc": "[WhenUse] ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 10 [Combustion] บนตัวเอง (สูงสุด 20%)\n[WhenUse] ได้รับ [Combustion] +4 ขั้น\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 4 ([Combustion] บนตัวเอง + [Combustion]บนเป้าหมาย) (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1205,7 +1205,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Drawn ไป Flame\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 7 [Combustion] และ [Combustion] +1 ขั้น\n[BeforeUse] เมื่อมี 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] ทำ +7.5% more ความเสียหาย for every 5 [Combustion]บนself (สูงสุด 30%)\n[WhenUse] เมื่อมี 10+ ([Combustion]บนself + [Combustion]บนเป้าหมาย), Base Power +1\n[WhenUse] If this unit is missing 30%+ HP, แต้มเหรียญ +1",
+          "desc": "[StartBattle] ได้รับ 7 [Combustion] และ [Combustion] +1 ขั้น\n[BeforeUse] เมื่อมี 30+ [Combustion], เปิดใช้งาน 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] ทำ +7.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Combustion] บนตัวเอง (สูงสุด 30%)\n[WhenUse] เมื่อมี 10+ ([Combustion] บนตัวเอง + [Combustion]บนเป้าหมาย), แต้มตั้งต้น +1\n[WhenUse] หาก ยูนิทนี้ is missing 30%+ HP, แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1227,7 +1227,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Drawn ไป Flame\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 7 [Combustion] และ [Combustion] +1 ขั้น\n[BeforeUse] เมื่อมี 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] ทำ +12.5% more ความเสียหาย for every 5 [Combustion]บนself (สูงสุด 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion]บนself + [Combustion]บนเป้าหมาย) (สูงสุด 2)\n[WhenUse] If this unit is missing 30%+ HP, แต้มเหรียญ +1 (สูงสุด 2)",
+          "desc": "[StartBattle] ได้รับ 7 [Combustion] และ [Combustion] +1 ขั้น\n[BeforeUse] เมื่อมี 30+ [Combustion], เปิดใช้งาน 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] ทำ +12.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Combustion] บนตัวเอง (สูงสุด 50%)\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 10 ([Combustion] บนตัวเอง + [Combustion]บนเป้าหมาย) (สูงสุด 2)\n[WhenUse] หาก ยูนิทนี้ is missing 30%+ HP, แต้มเหรียญ +1 (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1275,7 +1275,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>A.B.S Max Attunement 【Degraded Corrosion】\u200B</line-height>",
-          "desc": "After using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] ทำ +7.5% more ความเสียหาย for every 5 [Combustion]บนself (สูงสุด 30%)\n[WhenUse] เมื่อมี 10+ ([Combustion]บนself + [Combustion]บนเป้าหมาย), Base Power +1\n[WhenUse] แต้มเหรียญ +1 for every 30% missing HPบนself (สูงสุด 2)\n[BeforeAttack] Atk Weight +1 for every 20% missing HPบนself (สูงสุด 2)",
+          "desc": "Afterใช้สกิลนี้, dies.\n- หาก HP drops to 1 whileใช้สกิลนี้, maintains HP at 1 for the duration of the Skill.\n[WhenUse] ทำ +7.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Combustion] บนตัวเอง (สูงสุด 30%)\n[WhenUse] เมื่อมี 10+ ([Combustion] บนตัวเอง + [Combustion]บนเป้าหมาย), แต้มตั้งต้น +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 30% missing HP บนตัวเอง (สูงสุด 2)\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 20% missing HP บนตัวเอง (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1303,7 +1303,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ +10% more ความเสียหาย for every 20% missing HPบนself (สูงสุด 30%)"
+                  "desc": "[OnSucceedAttack] ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 20% missing HP บนตัวเอง (สูงสุด 30%)"
                 }
               ]
             }
@@ -1312,7 +1312,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>A.B.S Max Attunement 【Degraded Corrosion】\u200B</line-height>",
-          "desc": "After using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] ทำ +12.5% more ความเสียหาย for every 5 [Combustion]บนself (สูงสุด 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion]บนself + [Combustion]บนเป้าหมาย) (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 for every 30% missing HPบนself (สูงสุด 3)\n[BeforeAttack] Atk Weight +1 for every 20% missing HPบนself (สูงสุด 4)",
+          "desc": "Afterใช้สกิลนี้, dies.\n- หาก HP drops to 1 whileใช้สกิลนี้, maintains HP at 1 for the duration of the Skill.\n[WhenUse] ทำ +12.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Combustion] บนตัวเอง (สูงสุด 50%)\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 10 ([Combustion] บนตัวเอง + [Combustion]บนเป้าหมาย) (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 30% missing HP บนตัวเอง (สูงสุด 3)\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 20% missing HP บนตัวเอง (สูงสุด 4)",
           "coinlist": [
             {
               "coindescs": [
@@ -1340,7 +1340,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ +10% more ความเสียหาย for every 20% missing HPบนself (สูงสุด 30%)"
+                  "desc": "[OnSucceedAttack] ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 20% missing HP บนตัวเอง (สูงสุด 30%)"
                 }
               ]
             }

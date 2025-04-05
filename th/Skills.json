@@ -147,7 +147,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target’s ค่าสติ is below 0, มอบ  1 [Vulnerable] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากค่าสติของเป้าหมาย ต่ำกว่า 0, มอบ  1 [Vulnerable] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -176,7 +176,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target’s ค่าสติ is below 0, มอบ  1 [Vulnerable] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากค่าสติของเป้าหมาย ต่ำกว่า 0, มอบ  1 [Vulnerable] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -407,7 +407,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 1 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -422,7 +422,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 3 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 3 [Breath] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -431,13 +431,13 @@
         {
           "level": 4,
           "name": "<line-height=120%>Striker’s Stance\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 Poise Count",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 3 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 3 [Breath] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -451,7 +451,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Heel Turn\u200B</line-height>",
-          "desc": "[WinDuel] ได้รับ +1 Poise Count ในเทิร์นหน้า",
+          "desc": "[WinDuel] ได้รับ [Breath] +1 ขั้น ในเทิร์นหน้า",
           "keywords": [],
           "coinlist": [
             {},
@@ -461,7 +461,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Heel Turn\u200B</line-height>",
-          "desc": "[WinDuel] ได้รับ +2 Poise Count ในเทิร์นหน้า",
+          "desc": "[WinDuel] ได้รับ [Breath] +2 ขั้น ในเทิร์นหน้า",
           "keywords": [],
           "coinlist": [
             {},
@@ -471,7 +471,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Heel Turn\u200B</line-height>",
-          "desc": "[WinDuel] ได้รับ +2 Poise Count ในเทิร์นหน้า",
+          "desc": "[WinDuel] ได้รับ [Breath] +2 ขั้น ในเทิร์นหน้า",
           "keywords": [],
           "coinlist": [
             {},
@@ -492,7 +492,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 2 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 2 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -500,7 +500,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+50% ความเสียหายบนCritical Hit"
+                  "desc": "+50% ความเสียหายเมื่อติดคริ"
                 }
               ]
             }
@@ -509,13 +509,13 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flank Thrust\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 Poise",
+          "desc": "[WhenUse] ได้รับ 2 [Breath]",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 2 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 2 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -523,7 +523,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+70% ความเสียหายบนCritical Hit"
+                  "desc": "+70% ความเสียหายเมื่อติดคริ"
                 }
               ]
             }
@@ -552,7 +552,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+70% ความเสียหายบนCritical Hit"
+                  "desc": "+70% ความเสียหายเมื่อติดคริ"
                 }
               ]
             }
@@ -608,7 +608,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ  2 Offense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] มอบ  2 [AttackDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -624,7 +624,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  3 Offense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ  3 [AttackDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -859,7 +859,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Sole Strike\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 Poise Count",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -883,14 +883,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 1 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 1 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -911,14 +911,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -939,14 +939,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -956,7 +956,7 @@
                   "desc": "[OnSucceedAttack] ได้รับ 4 [Agility] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1304,7 +1304,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 2 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 2 [Breath] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1318,7 +1318,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1332,7 +1332,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 3 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 3 [Breath] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1351,7 +1351,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 1 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -1372,7 +1372,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -1393,7 +1393,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -1453,7 +1453,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 1 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1467,7 +1467,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1486,14 +1486,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "If target previously took ความเสียหาย this turn, ทำ +10% ความเสียหาย"
+                  "desc": "If target previously took ความเสียหาย ในเทิร์นนี้, ทำ +10% ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If target previously took ความเสียหาย this turn, ทำ +10% ความเสียหาย"
+                  "desc": "If target previously took ความเสียหาย ในเทิร์นนี้, ทำ +10% ความเสียหาย"
                 }
               ]
             }
@@ -1507,14 +1507,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "If target previously took ความเสียหาย this turn, ทำ +30% ความเสียหาย"
+                  "desc": "If target previously took ความเสียหาย ในเทิร์นนี้, ทำ +30% ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If target previously took ความเสียหาย this turn, ทำ +30% ความเสียหาย"
+                  "desc": "If target previously took ความเสียหาย ในเทิร์นนี้, ทำ +30% ความเสียหาย"
                 }
               ]
             }
@@ -1544,7 +1544,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Poise ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -1610,7 +1610,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ  2 Defense Level Down"
+                  "desc": "[OnSucceedAttackHead] มอบ  2 [DefenseDown]"
                 }
               ]
             }
@@ -1624,7 +1624,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ  2 [DefenseDown]"
                 }
               ]
             }
@@ -1767,7 +1767,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ  [Laceration] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ  2 ความเสียหาย Down"
+                  "desc": "[OnSucceedAttackHead] มอบ  2 [AttackDmgDown]"
                 }
               ]
             }
@@ -1791,7 +1791,7 @@
                   "desc": "[OnSucceedAttack] มอบ  [Laceration] +3 ขั้น "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ  2 ความเสียหาย Down"
+                  "desc": "[OnSucceedAttackHead] มอบ  2 [AttackDmgDown]"
                 }
               ]
             }
@@ -1820,7 +1820,7 @@
                   "desc": "[OnSucceedAttack] มอบ  [Laceration] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ  5 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ  5 [AttackDown]"
                 }
               ]
             }
@@ -1844,7 +1844,7 @@
                   "desc": "[OnSucceedAttack] มอบ  [Laceration] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ  5 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ  5 [AttackDown]"
                 }
               ]
             }
@@ -2390,28 +2390,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]"
                 }
               ]
             }
@@ -2425,28 +2425,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 Defense Level Down"
+                  "desc": "[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]"
                 }
               ]
             }
@@ -2757,7 +2757,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Cloudburst\u200B</line-height>",
-          "desc": "[StartBattle] This skill มอบ s 1 additional [Laceration] และ [Paralysis]",
+          "desc": "[StartBattle] This skill มอบ sเพิ่มเติมอีก 1 [Laceration] และ [Paralysis]",
           "coinlist": [
             {
               "coindescs": [
@@ -2877,7 +2877,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target is below 25% HP, use this เหรียญ an additional time if target survives\nHeads: +50% ความเสียหาย for this Coin"
+                  "desc": "[OnSucceedAttackHead] หาก target ต่ำกว่า 25% HP, use this เหรียญ an additional time หาก target survives\nHeads: +50% ความเสียหาย for this Coin"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttackHead] +50% ความเสียหาย for this Coin"
@@ -2889,7 +2889,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>เฉือน\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 7+ [Laceration], ทำ +20% more ความเสียหาย",
+          "desc": "หากเป้าหมายมี 7+ [Laceration], ทำ +20% ความเสียหายเพิ่มเติ่ม",
           "coinlist": [
             {
               "coindescs": [
@@ -2908,7 +2908,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target is below 25% HP, use this เหรียญ an additional time if target survives\nHeads: +50% ความเสียหาย for this Coin"
+                  "desc": "[OnSucceedAttackHead] หาก target ต่ำกว่า 25% HP, use this เหรียญ an additional time หาก target survives\nHeads: +50% ความเสียหาย for this Coin"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttackHead] +50% ความเสียหาย for this Coin"
@@ -2975,7 +2975,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +2\n[OnSucceedEvade] ฟื้นฟู 3 SP",
+          "desc": "หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +2\n[OnSucceedEvade] ฟื้นฟู 3 ค่าสติ",
           "coinlist": [
             {}
           ]
@@ -3123,7 +3123,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Extreme Edge\u200B</line-height>",
-          "desc": "เมื่อมี less than 50% HP, แต้มสกิล +2\n[WhenUse] ได้รับ +3 Poise Count",
+          "desc": "เมื่อมี less than 50% HP, แต้มสกิล +2\n[WhenUse] ได้รับ [Breath] +3 ขั้น",
           "coinlist": [
             {}
           ]
@@ -3152,7 +3152,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flying Sword\u200B</line-height>",
-          "desc": "เมื่อมี less than 50% HP, +2 แต้มสกิล\n[WhenUse] ได้รับ 3 Poise",
+          "desc": "เมื่อมี less than 50% HP, +2 แต้มสกิล\n[WhenUse] ได้รับ 3 [Breath]",
           "coinlist": [
             {}
           ]
@@ -3186,7 +3186,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flashing Strike\u200B</line-height>",
-          "desc": "เมื่อมี 10+ Poise Count, แต้มสกิล +2\nเมื่อมี less than 50% HP, Atk Weight +1",
+          "desc": "เมื่อมี 10+ [Breath] Count, แต้มสกิล +2\nเมื่อมี less than 50% HP, Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
@@ -3220,7 +3220,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
-          "desc": "[WhenUse] เสีย 5 HP\nเมื่อมี 3+ Poise Count, ความเสียหาย +50%",
+          "desc": "[WhenUse] เสีย 5 HP\nเมื่อมี 3+ [Breath] Count, ความเสียหาย +50%",
           "coinlist": [
             {}
           ]
@@ -3788,7 +3788,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 2 [Breath]"
                 }
               ]
             }
@@ -3797,7 +3797,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Flying Sword\u200B</line-height>",
-          "desc": "เมื่อมี less than 50% HP, this skill gives 1 additional Poise",
+          "desc": "เมื่อมี less than 50% HP, this skill givesเพิ่มเติมอีก 1 [Breath]",
           "keywords": [],
           "coinlist": [
             {
@@ -3810,7 +3810,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath]"
                 }
               ]
             }
@@ -3819,7 +3819,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flying Sword\u200B</line-height>",
-          "desc": "เมื่อมี less than 50% HP, this skill gives 3 additional Poise",
+          "desc": "เมื่อมี less than 50% HP, this skill gives 3 additional [Breath]",
           "keywords": [],
           "coinlist": [
             {
@@ -3832,7 +3832,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath]"
                 }
               ]
             }
@@ -3852,14 +3852,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttackHead] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttackHead] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             }
@@ -3874,14 +3874,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             }
@@ -3896,14 +3896,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +2 Poise Count "
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +2 Poise Count "
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น "
                 }
               ]
             }
@@ -3923,7 +3923,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 2 [Breath]"
                 }
               ]
             },
@@ -3939,13 +3939,13 @@
         {
           "level": 4,
           "name": "<line-height=120%>Catch Breath\u200B</line-height>",
-          "desc": "เมื่อมี 5+ Poise Count, +50% Critical ความเสียหาย",
+          "desc": "เมื่อมี 5+ [Breath] Count, +50% Critical ความเสียหาย",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 2 [Breath]"
                 }
               ]
             },
@@ -3976,13 +3976,13 @@
         {
           "level": 4,
           "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
-          "desc": "เมื่อมี 5+ Poise Count, +50% Critical ความเสียหาย",
+          "desc": "เมื่อมี 5+ [Breath] Count, +50% Critical ความเสียหาย",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             }
@@ -4304,7 +4304,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Slay\u200B</line-height>",
-          "desc": "แต้มสกิล +1 when below 0 SP",
+          "desc": "แต้มสกิล +1 when below 0 ค่าสติ",
           "coinlist": [
             {},
             {},
@@ -4312,7 +4312,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Laceration], ทำ +20% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Laceration], ทำ +20% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             }
@@ -4321,7 +4321,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Slay\u200B</line-height>",
-          "desc": "แต้มสกิล +1 when below 0 SP",
+          "desc": "แต้มสกิล +1 when below 0 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -4347,7 +4347,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Laceration], ทำ +20% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Laceration], ทำ +20% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             }
@@ -4379,7 +4379,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 2 [Breath]"
                 }
               ]
             }
@@ -4393,7 +4393,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 4 Poise"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 4 [Breath]"
                 }
               ]
             }
@@ -4407,7 +4407,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 4 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 4 [Breath]"
                 }
               ]
             }
@@ -4426,7 +4426,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 1 Poise"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ  1 [Laceration]"
@@ -4436,7 +4436,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 2 [Breath]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ  2 [Laceration]"
@@ -4448,12 +4448,12 @@
         {
           "level": 2,
           "name": "<line-height=120%>Scattering Slash\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +1 Poise Count",
+          "desc": "[WhenUse] ได้รับ [Breath] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ  2 [Laceration]"
@@ -4463,7 +4463,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 3 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 3 [Breath]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ  3 [Laceration]"
@@ -4475,12 +4475,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Scattering Slash\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 Poise Count\nเมื่อมี 5+ [Breath], แต้มเหรียญ +2",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น\nเมื่อมี 5+ [Breath], แต้มเหรียญ +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ  2 [Laceration]"
@@ -4490,7 +4490,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 3 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 3 [Breath]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ  3 [Laceration]"
@@ -4548,7 +4548,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 1 [Protection]\n[WhenUse] ได้รับ +2 Poise Count",
+          "desc": "[WhenUse] ได้รับ 1 [Protection]\n[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {}
           ]
@@ -4691,7 +4691,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Suppress\u200B</line-height>",
-          "desc": "If target took no ความเสียหาย from attacks this turn, แต้มเหรียญ +2",
+          "desc": "If target took no ความเสียหาย from attacks ในเทิร์นนี้, แต้มเหรียญ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -4699,7 +4699,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ  4 [Disarming]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ  4 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ  4 [DefenseDown]"
                 }
               ]
             },
@@ -4715,7 +4715,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Suppress\u200B</line-height>",
-          "desc": "If target took no ความเสียหาย from attacks this turn, แต้มเหรียญ +3",
+          "desc": "If target took no ความเสียหาย from attacks ในเทิร์นนี้, แต้มเหรียญ +3",
           "coinlist": [
             {
               "coindescs": [
@@ -4723,7 +4723,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ  4 [Disarming]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ  4 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ  4 [DefenseDown]"
                 }
               ]
             },
@@ -4877,7 +4877,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttackHead] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             }
@@ -4892,7 +4892,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +2 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น"
                 }
               ]
             }
@@ -4901,13 +4901,13 @@
         {
           "level": 4,
           "name": "<line-height=120%>Slice then Stab\u200B</line-height>",
-          "desc": "If at 3+ Poise Count, แต้มเหรียญ +1",
+          "desc": "If at 3+ [Breath] Count, แต้มเหรียญ +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +2 Poise Count "
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น "
                 }
               ]
             }
@@ -4926,21 +4926,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 1 Poise"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 1 Poise"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath]"
                 }
               ]
             }
@@ -4954,21 +4954,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath]"
                 }
               ]
             }
@@ -4977,26 +4977,26 @@
         {
           "level": 4,
           "name": "<line-height=120%>Slash Series\u200B</line-height>",
-          "desc": "[DefeatDuel] ได้รับ 2 [Enhancement] ในเทิร์นหน้า\n[WinDuel] Do notจ่าย Poise Count with critical attacks landed with this skill",
+          "desc": "[DefeatDuel] ได้รับ 2 [Enhancement] ในเทิร์นหน้า\n[WinDuel] Do notจ่าย [Breath] Count with critical attacks landed with this skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath]"
                 }
               ]
             }
@@ -5027,7 +5027,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-          "desc": "เมื่อมี 10+ Poise Count, +150% Critical ความเสียหาย",
+          "desc": "เมื่อมี 10+ [Breath] Count, +150% Critical ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -5057,7 +5057,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Newsprung Counter\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า\n[WhenUse] ได้รับ +3 Poise Count",
+          "desc": "[WhenUse] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า\n[WhenUse] ได้รับ [Breath] +3 ขั้น",
           "coinlist": [
             {}
           ]
@@ -5126,7 +5126,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ  3 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ  1 ความเสียหาย Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ  1 [AttackDmgDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -5144,7 +5144,7 @@
                   "desc": "[OnSucceedAttack] มอบ  6 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 ความเสียหาย Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ  2 [AttackDmgDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -5162,7 +5162,7 @@
                   "desc": "[OnSucceedAttack] มอบ  6 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 ความเสียหาย Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ  2 [AttackDmgDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -5201,7 +5201,7 @@
                   "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Vibration] upon [VibrationExplosion], ได้รับ 2 [Protection] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Vibration] เมื่อ [VibrationExplosion], ได้รับ 2 [Protection] ในเทิร์นหน้า"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ  2 [HitTakeDamageUp]"
@@ -5294,7 +5294,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath]"
                 }
               ]
             },
@@ -5322,10 +5322,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttackHead] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             },
@@ -5356,10 +5356,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             },
@@ -5390,7 +5390,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Pañata Party\u200B</line-height>",
-          "desc": "If target’s ค่าสติ is below 0, boost crit chance proportional to target’s SP",
+          "desc": "หากค่าสติของเป้าหมาย ต่ำกว่า 0, boost crit chance proportional แก่เป้าหมาย’s ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -5404,7 +5404,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Pañata Party\u200B</line-height>",
-          "desc": "If target's ค่าสติ is below 0, boost crit chance proportional to target's SP\nIfผู้ใช้has 5+ Poise Count, +30% Critical ความเสียหาย",
+          "desc": "หากค่าสติของเป้าหมาย ต่ำกว่า 0, boost crit chance proportional แก่เป้าหมาย's SP\nIfผู้ใช้has 5+ [Breath] Count, +30% Critical ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -5431,7 +5431,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-          "desc": "[OnSucceedEvade] ได้รับ +1 Poise Count",
+          "desc": "[OnSucceedEvade] ได้รับ [Breath] +1 ขั้น",
           "coinlist": [
             {}
           ]
@@ -5549,7 +5549,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "<line-height=120%>Piercing Thrust\u200B</line-height>",
+          "name": "<line-height=120%>จวงแทงร้อยหน\u200B</line-height>",
           "desc": "If target’s HP is above 50%, ทำ +20% ความเสียหาย",
           "coinlist": [
             {}
@@ -5557,7 +5557,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Piercing Thrust\u200B</line-height>",
+          "name": "<line-height=120%>จวงแทงร้อยหน\u200B</line-height>",
           "desc": "If target’s HP is above 50%, ทำ +20% ความเสียหาย",
           "coinlist": [
             {
@@ -5595,7 +5595,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 2 Poise"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 2 [Breath]"
                 }
               ]
             }
@@ -5609,7 +5609,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ 4 Poise"
+                  "desc": "[OnSucceedAttackHead] ได้รับ 4 [Breath]"
                 }
               ]
             }
@@ -5623,7 +5623,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 4 Poise"
+                  "desc": "[OnSucceedAttack] ได้รับ 4 [Breath]"
                 }
               ]
             }
@@ -5652,7 +5652,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Acupuncture\u200B</line-height>",
-          "desc": "[WinDuel] ได้รับ +1 Poise Count",
+          "desc": "[WinDuel] ได้รับ [Breath] +1 ขั้น",
           "coinlist": [
             {},
             {
@@ -5667,7 +5667,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Acupuncture\u200B</line-height>",
-          "desc": "[WinDuel] ได้รับ +2 Poise Count",
+          "desc": "[WinDuel] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {},
             {
@@ -5996,7 +5996,7 @@
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี [Burst], +10% ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟูHP เท่ากับ30% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟู HP เท่ากับ30% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -6273,7 +6273,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟูHP เท่ากับ30% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟู HP เท่ากับ30% ของความเสียหายที่ทำไป"
                 }
               ]
             },
@@ -6288,7 +6288,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟู HP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             },
@@ -6303,7 +6303,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             },
@@ -6340,7 +6340,7 @@
                   "desc": "[OnSucceedAttack] มอบ  5 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟู HP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -6357,7 +6357,7 @@
                   "desc": "[OnSucceedAttack] มอบ  5 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -6432,7 +6432,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ100% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ100% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -6816,7 +6816,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Ironclad Retribution\u200B</line-height>",
-          "desc": "+15% ความเสียหาย while this unit is Fanatic",
+          "desc": "+15% ความเสียหาย while ยูนิทนี้ is Fanatic",
           "coinlist": [
             {},
             {},
@@ -6839,7 +6839,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Ironclad Retribution\u200B</line-height>",
-          "desc": "If this unit is Fanatic, ทำ +15% ความเสียหาย\nทำ +5% ความเสียหาย for each 'N Corp. Fanatic' present in the party",
+          "desc": "If ยูนิทนี้ is Fanatic, ทำ +15% ความเสียหาย\nทำ +5% ความเสียหาย for each 'N Corp. Fanatic' present in the party",
           "coinlist": [
             {},
             {},
@@ -6894,7 +6894,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ขบขัน\u200B</line-height>",
-          "desc": "[WinDuel] Target เสีย 3 SP",
+          "desc": "[WinDuel] เป้าหมายเสีย 3 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -6915,7 +6915,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>ขบขัน\u200B</line-height>",
-          "desc": "[WinDuel] Target เสีย 3 SP",
+          "desc": "[WinDuel] เป้าหมายเสีย 3 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -7085,7 +7085,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Such Filth\u200B</line-height>",
-          "desc": "[OnSucceedEvade] Target เสีย 3 SP",
+          "desc": "[OnSucceedEvade] เป้าหมายเสีย 3 ค่าสติ",
           "coinlist": [
             {}
           ]
@@ -7175,12 +7175,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Puri…fy!\u200B</line-height>",
-          "desc": "[WinDuel] ฟื้นฟู 3 SP",
+          "desc": "[WinDuel] ฟื้นฟู 3 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ  1 Plus เหรียญ Drop ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] มอบ  1 [PlusCoinValueDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -7189,12 +7189,12 @@
         {
           "level": 2,
           "name": "<line-height=120%>Puri…fy!\u200B</line-height>",
-          "desc": "[WinDuel] ฟื้นฟู 5 SP",
+          "desc": "[WinDuel] ฟื้นฟู 5 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ  2 Plus เหรียญ Drop ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] มอบ  2 [PlusCoinValueDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -7322,7 +7322,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ  [Burst] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ  2 Defense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] มอบ  2 [DefenseDown] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -7332,7 +7332,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ  [Burst] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ  2 Defense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] มอบ  2 [DefenseDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -7349,7 +7349,7 @@
                   "desc": "[OnSucceedAttack] มอบ  [Burst] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 Defense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ  2 [DefenseDown] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -7359,7 +7359,7 @@
                   "desc": "[OnSucceedAttack] มอบ  [Burst] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 Defense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ  2 [DefenseDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -7376,7 +7376,7 @@
                   "desc": "[OnSucceedAttack] มอบ  [Burst] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 Defense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ  2 [DefenseDown] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -7386,7 +7386,7 @@
                   "desc": "[OnSucceedAttack] มอบ  [Burst] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 Defense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ  2 [DefenseDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -7405,7 +7405,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 Offense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ  2 [AttackDown] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -7430,7 +7430,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 Offense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ  2 [AttackDown] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -7483,7 +7483,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Warm Up\u200B</line-height>",
-          "desc": "[WhenUse] ฟื้นฟู 3 SP",
+          "desc": "[WhenUse] ฟื้นฟู 3 ค่าสติ",
           "coinlist": [
             {},
             {
@@ -7508,7 +7508,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  1 [Combustion]; if target already has [Combustion], มอบ  1 more"
+                  "desc": "[OnSucceedAttack] มอบ  1 [Combustion]; หาก target already has [Combustion], มอบ  1 more"
                 }
               ]
             },
@@ -7529,7 +7529,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  1 [Combustion]; if target already has [Combustion], มอบ  1 more"
+                  "desc": "[OnSucceedAttack] มอบ  1 [Combustion]; หาก target already has [Combustion], มอบ  1 more"
                 }
               ]
             },
@@ -7550,7 +7550,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  1 [Combustion]; if target already has [Combustion], มอบ  1 more"
+                  "desc": "[OnSucceedAttack] มอบ  1 [Combustion]; หาก target already has [Combustion], มอบ  1 more"
                 }
               ]
             },
@@ -7576,14 +7576,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  1 [Combustion]; if target already has [Combustion], มอบ  [Combustion] +1 ขั้น"
+                  "desc": "[OnSucceedAttack] มอบ  1 [Combustion]; หาก target already has [Combustion], มอบ  [Combustion] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟู 6 SP"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟู 6 ค่าสติ"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Combustion] Count, เพิ่มขีด Stagger ไป 30% ของความเสียหายที่ทำไป"
@@ -7600,14 +7600,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  1 [Combustion]; if target already has [Combustion], มอบ  [Combustion] +1 ขั้น"
+                  "desc": "[OnSucceedAttack] มอบ  1 [Combustion]; หาก target already has [Combustion], มอบ  [Combustion] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟู 6 SP"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟู 6 ค่าสติ"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Combustion] Count, เพิ่มขีด Stagger ไป 30% ของความเสียหายที่ทำไป"
@@ -8044,7 +8044,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Coerced Judgement\u200B</line-height>",
-          "desc": "[WhenUse] เสีย 7 SP",
+          "desc": "[WhenUse] เสีย 7 ค่าสติ",
           "coinlist": [
             {},
             {
@@ -8059,7 +8059,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Coerced Judgement\u200B</line-height>",
-          "desc": "[WhenUse] เสีย 7 SP",
+          "desc": "[WhenUse] เสีย 7 ค่าสติ",
           "coinlist": [
             {},
             {
@@ -8077,7 +8077,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Coerced Judgement\u200B</line-height>",
-          "desc": "[WhenUse] เสีย 7 SP",
+          "desc": "[WhenUse] เสีย 7 ค่าสติ",
           "coinlist": [
             {},
             {
@@ -8100,7 +8100,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Amoral Enactment\u200B</line-height>",
-          "desc": "[WhenUse] เสีย 10 SP\nIf this unit is Fanatic, ทำ +5% ความเสียหาย",
+          "desc": "[WhenUse] เสีย 10 SP\nIf ยูนิทนี้ is Fanatic, ทำ +5% ความเสียหาย",
           "coinlist": [
             {},
             {
@@ -8129,7 +8129,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Amoral Enactment\u200B</line-height>",
-          "desc": "[WhenUse] เสีย 10 SP\nIf this unit is Fanatic, ทำ +10% ความเสียหาย",
+          "desc": "[WhenUse] เสีย 10 SP\nIf ยูนิทนี้ is Fanatic, ทำ +10% ความเสียหาย",
           "coinlist": [
             {},
             {
@@ -8172,7 +8172,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Self-destructive Purge\u200B</line-height>",
-          "desc": "[WhenUse] เสีย 15 SP\nIf this unit is Fanatic, ทำ +15% ความเสียหาย\nIf target is a <Mechanical Amalgam>, ทำ +10% ความเสียหาย",
+          "desc": "[WhenUse] เสีย 15 SP\nIf ยูนิทนี้ is Fanatic, ทำ +15% ความเสียหาย\nIf target is a <Mechanical Amalgam>, ทำ +10% ความเสียหาย",
           "coinlist": [
             {},
             {
@@ -8197,7 +8197,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Self-destructive Purge\u200B</line-height>",
-          "desc": "- [WhenUse] เสีย 15 SP\n- If this unit is Fanatic, ทำ +15% ความเสียหาย\n- If target is a <Mechanical Amalgam>, ทำ +10% ความเสียหาย",
+          "desc": "- [WhenUse] เสีย 15 SP\n- หาก ยูนิทนี้ is Fanatic, ทำ +15% ความเสียหาย\n- หาก target is a <Mechanical Amalgam>, ทำ +10% ความเสียหาย",
           "coinlist": [
             {},
             {
@@ -8227,7 +8227,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Enough…\u200B</line-height>",
-          "desc": "[StartBattle] ฟื้นฟู 5~10 SP",
+          "desc": "[StartBattle] ฟื้นฟู 5~10 ค่าสติ",
           "coinlist": [
             {}
           ]
@@ -8551,8 +8551,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี  [Charge] 3+ ขั้น, reuse this เหรียญ if it lands Heads (Up to 2 times)\nIf the เหรียญ is reused twice, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, reduce [Vibration] Count ไป 1",
-                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nใช้เหรียญซ้ำ if conditions are met; มอบ  +2 [Vibration] if reused.\nIf the เหรียญ is reused twice, เปิดใช้ [VibrationExplosion], then reduce [Vibration] Count"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี  [Charge] 3+ ขั้น, reuse this เหรียญ หาก it lands Heads (มากสุด 2 ครั้ง)\nIf the เหรียญ is reused twice, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, ลดขั้น [Vibration] ไป 1",
+                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nใช้เหรียญซ้ำ หาก conditions are met; มอบ  +2 [Vibration] หาก reused.\nIf the เหรียญ is reused twice, เปิดใช้ [VibrationExplosion], then ลดขั้น [Vibration]"
                 }
               ]
             }
@@ -8573,8 +8573,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี  [Charge] 3+ ขั้น, reuse this เหรียญ if it lands Heads (Up to 2 times)\nมอบ 2 more [Vibration] each time the เหรียญ is reused\nIf the เหรียญ is reused twice, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, reduce [Vibration] Count ไป 1",
-                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nใช้เหรียญซ้ำ if conditions are met; มอบ  +2 [Vibration] if reused.\nIf the เหรียญ is reused twice, เปิดใช้ [VibrationExplosion], then reduce [Vibration] Count"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี  [Charge] 3+ ขั้น, reuse this เหรียญ หาก it lands Heads (มากสุด 2 ครั้ง)\nมอบ 2 more [Vibration] each time the เหรียญ is reused\nIf the เหรียญ is reused twice, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, ลดขั้น [Vibration] ไป 1",
+                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nใช้เหรียญซ้ำ หาก conditions are met; มอบ  +2 [Vibration] หาก reused.\nIf the เหรียญ is reused twice, เปิดใช้ [VibrationExplosion], then ลดขั้น [Vibration]"
                 }
               ]
             }
@@ -8595,8 +8595,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี  [Charge] 3+ ขั้น, reuse this เหรียญ if it lands Heads (Up to 2 times)\nมอบ 2 more [Vibration] each time the เหรียญ is reused\nIf the เหรียญ is reused twice, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, reduce [Vibration] Count ไป 1",
-                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nใช้เหรียญซ้ำ if conditions are met; มอบ  +2 [Vibration] if reused.\nIf the เหรียญ is reused twice, เปิดใช้ [VibrationExplosion], then reduce [Vibration] Count"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี  [Charge] 3+ ขั้น, reuse this เหรียญ หาก it lands Heads (มากสุด 2 ครั้ง)\nมอบ 2 more [Vibration] each time the เหรียญ is reused\nIf the เหรียญ is reused twice, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, ลดขั้น [Vibration] ไป 1",
+                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nใช้เหรียญซ้ำ หาก conditions are met; มอบ  +2 [Vibration] หาก reused.\nIf the เหรียญ is reused twice, เปิดใช้ [VibrationExplosion], then ลดขั้น [Vibration]"
                 }
               ]
             }
@@ -8625,17 +8625,17 @@
                   "desc": "[OnSucceedAttackHead] มอบ  2 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nAfter [Vibration] Burst, reduce [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nAfter [Vibration] Burst, ลดขั้น [Vibration] ไป 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nAfter [Vibration] Burst, reduce [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nAfter [Vibration] Burst, ลดขั้น [Vibration] ไป 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is Staggered, ทำ 25% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หาก target is Staggered, ทำ 25% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 }
               ]
             }
@@ -8824,8 +8824,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], reduce [Vibration] Count ไป 3, thenจ่ายขั้น [Charge] ทั้งหมดto further เพิ่มขีด Stagger ไป (Charge Count x 5)% (สูงสุด 50%)",
-                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count ไป 3;จ่าย[Charge] Count to further เพิ่มขีด Stagger"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], ลดขั้น [Vibration] ไป 3, thenจ่ายขั้น [Charge] ทั้งหมดto further เพิ่มขีด Stagger ไป (Charge Count x 5)% (สูงสุด 50%)",
+                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then ลดขั้น [Vibration] ไป 3;จ่าย[Charge] Count to further เพิ่มขีด Stagger"
                 }
               ]
             }
@@ -8869,8 +8869,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], reduce [Vibration] Count ไป 3, thenจ่ายขั้น [Charge] ทั้งหมดto further เพิ่มขีด Stagger ไป (Charge Count x 5)% (สูงสุด 50%)",
-                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count ไป 3;จ่าย[Charge] Count to further เพิ่มขีด Stagger"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], ลดขั้น [Vibration] ไป 3, thenจ่ายขั้น [Charge] ทั้งหมดto further เพิ่มขีด Stagger ไป (Charge Count x 5)% (สูงสุด 50%)",
+                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then ลดขั้น [Vibration] ไป 3;จ่าย[Charge] Count to further เพิ่มขีด Stagger"
                 }
               ]
             }
@@ -9011,7 +9011,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion], then reduce [Vibration] Count ไป 2;\nSpend up to [Charge] 4 ขั้น to มอบ  [Burst] Count equal to[Charge] Count spent"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion], then ลดขั้น [Vibration] ไป 2;\nSpend up to [Charge] 4 ขั้น to มอบ  [Burst] Count เท่ากับ[Charge] Count spent"
                 }
               ]
             },
@@ -9021,7 +9021,7 @@
                   "desc": "[OnSucceedAttack] มอบ  1 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is Staggered, ทำ +10% ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หาก target is Staggered, ทำ +10% ความเสียหาย"
                 }
               ]
             },
@@ -9031,7 +9031,7 @@
                   "desc": "[OnSucceedAttack] มอบ  1 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is Staggered, ทำ +10% ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หาก target is Staggered, ทำ +10% ความเสียหาย"
                 }
               ]
             }
@@ -9045,7 +9045,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion], then reduce [Vibration] Count ไป 2;\nSpend up to [Charge] 4 ขั้น to มอบ  [Burst] Count equal to[Charge] Count spent"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion], then ลดขั้น [Vibration] ไป 2;\nSpend up to [Charge] 4 ขั้น to มอบ  [Burst] Count เท่ากับ[Charge] Count spent"
                 }
               ]
             },
@@ -9055,7 +9055,7 @@
                   "desc": "[OnSucceedAttack] มอบ  1 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is Staggered, ทำ +10% ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หาก target is Staggered, ทำ +10% ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Vibration] Count, มอบ  3 [Burst]"
@@ -9068,7 +9068,7 @@
                   "desc": "[OnSucceedAttack] มอบ  1 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is Staggered, ทำ +10% ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หาก target is Staggered, ทำ +10% ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Vibration] Count, มอบ  3 [Burst]"
@@ -9520,7 +9520,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [[Sinking]], cause [Sinking] Deluge"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [[Sinking]], cause [SinkingSurge]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Ifผู้ใช้has 10+ [Vibration] Count, ทำ 30% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
@@ -9551,7 +9551,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [[Sinking]], cause [Sinking] Deluge"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [[Sinking]], cause [SinkingSurge]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Ifผู้ใช้has 10+ [Vibration] Count, ทำ 40% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
@@ -9707,7 +9707,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAfter triggering [Vibration] Burst, reduce [Vibration] Count ไป 4. มอบ  5 [Burst]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAfter triggering [Vibration] Burst, ลดขั้น [Vibration] ไป 4. มอบ  5 [Burst]"
                 }
               ]
             }
@@ -9721,7 +9721,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAfter triggering [Vibration] Burst, reduce [Vibration] Count ไป 4. มอบ  5 [Burst]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAfter triggering [Vibration] Burst, ลดขั้น [Vibration] ไป 4. มอบ  5 [Burst]"
                 }
               ]
             }
@@ -9790,14 +9790,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟูHP เท่ากับ20% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟู HP เท่ากับ20% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟูHP เท่ากับ20% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟู HP เท่ากับ20% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -9811,14 +9811,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟู HP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟู HP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -9832,14 +9832,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟู HP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟู HP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -10177,7 +10177,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Red Kick\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 for every 3 [Combustion]บนเป้าหมาย (สูงสุด 2)",
+          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 3 [Combustion]บนเป้าหมาย (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -10222,7 +10222,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Combustion], มอบ  2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Combustion], มอบ  [Combustion] 2 ขั้น"
                 }
               ]
             }
@@ -10250,7 +10250,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Combustion], มอบ  2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Combustion], มอบ  [Combustion] 2 ขั้น"
                 }
               ]
             }
@@ -10259,7 +10259,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Frontal Assault\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 for every 6 [Combustion]บนเป้าหมาย (สูงสุด 2)",
+          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 6 [Combustion]บนเป้าหมาย (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -10278,7 +10278,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Combustion], มอบ  2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Combustion], มอบ  [Combustion] 2 ขั้น"
                 }
               ]
             }
@@ -10318,7 +10318,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] If target is Staggered or defeated, ได้รับ 1 Plus เหรียญ Boost ในเทิร์นหน้า"
+                  "desc": "[EndSkill] หาก target is Staggered or defeated, ได้รับ 1 Plus เหรียญ Boost ในเทิร์นหน้า"
                 }
               ]
             }
@@ -10353,7 +10353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] If target is Staggered or defeated, ได้รับ 1 Plus เหรียญ Boost ในเทิร์นหน้า"
+                  "desc": "[EndSkill] หาก target is Staggered or defeated, ได้รับ 1 Plus เหรียญ Boost ในเทิร์นหน้า"
                 }
               ]
             }
@@ -10595,7 +10595,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bioelectricity Induction\u200B</line-height>",
-          "desc": "[WhenUse] If attacked while shielded, ได้รับ [Charge] +1 ขั้น (สูงสุด 10 ต่อทุกๆ turn)",
+          "desc": "[WhenUse] หากถูกโจมตีขณะยังมีโล่อยู่, ได้รับ [Charge] +1 ขั้น (สูงสุด 10 ต่อทุกๆ turn)",
           "coinlist": [
             {}
           ]
@@ -10603,7 +10603,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Bioelectricity Induction\u200B</line-height>",
-          "desc": "[WhenUse] If attacked while shielded, ได้รับ [Charge] +2 ขั้น (สูงสุด 10 ต่อทุกๆ turn)",
+          "desc": "[WhenUse] หากถูกโจมตีขณะยังมีโล่อยู่, ได้รับ [Charge] +2 ขั้น (สูงสุด 10 ต่อทุกๆ turn)",
           "coinlist": [
             {}
           ]
@@ -10621,14 +10621,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttackHead] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttackHead] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             }
@@ -10642,14 +10642,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttackHead] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             }
@@ -10658,19 +10658,19 @@
         {
           "level": 4,
           "name": "<line-height=120%>Careful Obstruction\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 Aggro to this Skill Slot ในเทิร์นหน้า\n[DefeatDuel] ได้รับ +2 Poise Count",
+          "desc": "[WhenUse] ได้รับ +2 Aggro to this Skill Slot ในเทิร์นหน้า\n[DefeatDuel] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                 }
               ]
             }
@@ -10684,7 +10684,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Focused Defense\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 15+ Shield, ได้รับ +2 Poise Count",
+          "desc": "[WhenUse] เมื่อมี 15+ โล่, ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {}
           ]
@@ -10692,12 +10692,12 @@
         {
           "level": 2,
           "name": "<line-height=120%>Focused Defense\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 15+ Shield, ได้รับ +2 Poise Count",
+          "desc": "[WhenUse] เมื่อมี 15+ โล่, ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +2 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น"
                 }
               ]
             },
@@ -10707,12 +10707,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Focused Defense\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 15+ Shield, ได้รับ +2 Poise Count\n[WhenUse] ได้รับ +4 Aggro to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ +2 Poise Count",
+          "desc": "[WhenUse] เมื่อมี 15+ โล่, ได้รับ [Breath] +2 ขั้น\n[WhenUse] ได้รับ +4 Aggro to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +2 Poise Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น"
                 }
               ]
             },
@@ -10727,7 +10727,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Subdue Threat\u200B</line-height>",
-          "desc": "เมื่อมี 15+ shield, แต้มเหรียญ +1",
+          "desc": "เมื่อมี 15+ โล่, แต้มเหรียญ +1",
           "coinlist": [
             {},
             {},
@@ -10743,7 +10743,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Subdue Threat\u200B</line-height>",
-          "desc": "เมื่อมี 15+ Shield, แต้มเหรียญ +2",
+          "desc": "เมื่อมี 15+ โล่, แต้มเหรียญ +2",
           "coinlist": [
             {},
             {},
@@ -10877,7 +10877,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flèche\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[WinDuel] ทำ more ความเสียหาย basedบนClash count (+5% ต่อทุกๆ Clash count, Max 50%)",
+          "desc": "[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[WinDuel] ทำ ความเสียหายเพิ่มเติ่ม basedบนClash count (+5% ต่อทุกๆ Clash count, Max 50%)",
           "coinlist": [
             {},
             {
@@ -10897,7 +10897,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Salut!\u200B</line-height>",
-          "desc": "เมื่อมี 10+ Speed, แต้มเหรียญ +2\n[WinDuel] ทำ more ความเสียหาย basedบนClash count (+5% ต่อทุกๆ Clash count, Max 50%)",
+          "desc": "เมื่อมี 10+ Speed, แต้มเหรียญ +2\n[WinDuel] ทำ ความเสียหายเพิ่มเติ่ม basedบนClash count (+5% ต่อทุกๆ Clash count, Max 50%)",
           "coinlist": [
             {
               "coindescs": [
@@ -10912,7 +10912,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Salut!\u200B</line-height>",
-          "desc": "เมื่อมี 10+ Speed, แต้มเหรียญ +3\n[WinDuel] ทำ more ความเสียหาย basedบนClash count (+10% ต่อทุกๆ Clash count, Max 100%)",
+          "desc": "เมื่อมี 10+ Speed, แต้มเหรียญ +3\n[WinDuel] ทำ ความเสียหายเพิ่มเติ่ม basedบนClash count (+10% ต่อทุกๆ Clash count, Max 100%)",
           "coinlist": [
             {
               "coindescs": [
@@ -10924,7 +10924,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] ฟื้นฟู 15 SP"
+                  "desc": "[EnemyKill] ฟื้นฟู 15 ค่าสติ"
                 }
               ]
             }
@@ -10938,7 +10938,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Défensive\u200B</line-height>",
-          "desc": "[OnSucceedEvade] Target เสีย 3 SP",
+          "desc": "[OnSucceedEvade] เป้าหมายเสีย 3 ค่าสติ",
           "coinlist": [
             {}
           ]
@@ -10946,7 +10946,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Défensive\u200B</line-height>",
-          "desc": "[OnSucceedEvade] Target เสีย 3 SP",
+          "desc": "[OnSucceedEvade] เป้าหมายเสีย 3 ค่าสติ",
           "coinlist": [
             {}
           ]
@@ -11052,7 +11052,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  1 Defense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ  1 [DefenseDown] ในเทิร์นหน้า"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ  [Burst] +2 ขั้น"
@@ -11069,7 +11069,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  3 Defense Level Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ  3 [DefenseDown] ในเทิร์นหน้า"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ  [Burst] +2 ขั้น"
@@ -11228,7 +11228,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Predictive Analysis\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 for every 3 [Burst]บนเป้าหมาย (สูงสุด 2)",
+          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 3 [Burst]บนเป้าหมาย (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -11298,7 +11298,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Dissect Target\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 for every 6 [Burst]บนเป้าหมาย (สูงสุด 2)\n[WinDuel] มอบ  [Burst] +3 ขั้น",
+          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 6 [Burst]บนเป้าหมาย (สูงสุด 2)\n[WinDuel] มอบ  [Burst] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -11325,7 +11325,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Profiling\u200B</line-height>",
-          "desc": "[WhenUse] ทำ +10% ความเสียหาย for every 3 [Burst]บนเป้าหมาย (สูงสุด 20%)",
+          "desc": "[WhenUse] ทำ +10% ความเสียหาย ต่อทุกๆ 3 [Burst]บนเป้าหมาย (สูงสุด 20%)",
           "coinlist": [
             {
               "coindescs": [
@@ -11344,7 +11344,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] If target is Staggered or defeated, ได้รับ 1 [Agility], 1 Slash Power Up ในเทิร์นหน้า"
+                  "desc": "[EndSkill] หาก target is Staggered or defeated, ได้รับ 1 [Agility], 1 Slash Power Up ในเทิร์นหน้า"
                 }
               ]
             }
@@ -11353,7 +11353,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Profiling\u200B</line-height>",
-          "desc": "[WhenUse] ทำ +10% ความเสียหาย for every 3 [Burst]บนเป้าหมาย (สูงสุด 50%)\n[WinDuel] มอบ  [Burst] +2 ขั้น",
+          "desc": "[WhenUse] ทำ +10% ความเสียหาย ต่อทุกๆ 3 [Burst]บนเป้าหมาย (สูงสุด 50%)\n[WinDuel] มอบ  [Burst] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -11372,7 +11372,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] If target is Staggered or defeated, ได้รับ 1 [Agility], 1 Slash Power Up ในเทิร์นหน้า"
+                  "desc": "[EndSkill] หาก target is Staggered or defeated, ได้รับ 1 [Agility], 1 Slash Power Up ในเทิร์นหน้า"
                 }
               ]
             }

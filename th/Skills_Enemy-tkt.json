@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ [Vibration] Count equal to [Vibration] Countบนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] ได้รับ [Vibration] Count เท่ากับ [Vibration] Countบนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ [Vibration] +2 ขั้น"
@@ -71,12 +71,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Filthy Watch Chains!\u200B</line-height>",
-          "desc": "แต้มปะทะ +1 for every 5 [Vibration] Countบนself (สูงสุด 2)\n[WhenUse] Trigger [Switch_Vibration] to convert [Vibration]บนself to [VibrationDistribution]",
+          "desc": "แต้มปะทะ +1 ต่อทุกๆ 5 [Vibration] Countบนself (สูงสุด 2)\n[WhenUse] Trigger [Switch_Vibration] to convert [Vibration]บนself to [VibrationDistribution]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Vibration] Count equal to [Vibration] Countบนself"
+                  "desc": "[OnSucceedAttack] มอบ [Vibration] Count เท่ากับ [Vibration] Countบนself"
                 }
               ]
             },
@@ -97,7 +97,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 2 x ([Vibration] Countบนself) Shield HP (สูงสุด 20)",
+          "desc": "[StartBattle] ได้รับ 2 x ([Vibration] Countบนself) โล่ HP (สูงสุด 20)",
           "coinlist": [
             {
               "coindescs": [
@@ -121,7 +121,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ [Vibration] equal to [Vibration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] ได้รับ [Vibration] เท่ากับ [Vibration]บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 6 [Vibration]"
@@ -181,12 +181,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Vile Watch Chains!\u200B</line-height>",
-          "desc": "แต้มปะทะ +1 for every 5 [Vibration] Countบนself (สูงสุด 2)\n[WhenUse] Trigger [Switch_Vibration] to convert [Vibration]บนself to [VibrationDistribution]",
+          "desc": "แต้มปะทะ +1 ต่อทุกๆ 5 [Vibration] Countบนself (สูงสุด 2)\n[WhenUse] Trigger [Switch_Vibration] to convert [Vibration]บนself to [VibrationDistribution]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ [Vibration] equal to [Vibration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] ได้รับ [Vibration] เท่ากับ [Vibration]บนเป้าหมาย"
                 }
               ]
             },
@@ -207,7 +207,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 2 x ([Vibration] Countบนself) Shield HP (สูงสุด 20)",
+          "desc": "[StartBattle] ได้รับ 2 x ([Vibration] Countบนself) โล่ HP (สูงสุด 20)",
           "coinlist": [
             {
               "coindescs": [
@@ -340,7 +340,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ready For A Beating?\u200B</line-height>",
-          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [VibrationCollapse]\n[WhenUse] มอบ [Vibration] Count equal to [Vibration] Countบนself to all other allies\n[WhenUse] Trigger [Switch_Vibration]บนall allies(including this unit) to convert their [Vibration] to [VibrationDistribution]",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [VibrationCollapse]\n[WhenUse] มอบ [Vibration] Count เท่ากับ [Vibration] Countบนself แก่พันธมิตรอื่นทุกคน\n[WhenUse] Trigger [Switch_Vibration]บนall allies(including ยูนิทนี้) to convert their [Vibration] to [VibrationDistribution]",
           "coinlist": [
             {},
             {},
@@ -368,7 +368,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 3 x ([Vibration] Countบนself) Shield HP (สูงสุด 30)",
+          "desc": "[StartBattle] ได้รับ 3 x ([Vibration] Countบนself) โล่ HP (สูงสุด 30)",
           "coinlist": [
             {
               "coindescs": [
@@ -387,7 +387,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>For the Greater Good\u200B</line-height>",
-          "desc": "[CantDuel]\n[StartBattle] Draw all other allies' [Vibration] Count to self; [Vibration]บนall allies expire\n[StartBattle] ได้รับ 1 [AttackUp] for every 3 [Vibration] Countบนself\n[WhenUse] ได้รับ 9 [Vibration] Count",
+          "desc": "[CantDuel]\n[StartBattle] Draw all other allies' [Vibration] Count to self; [Vibration]บนall allies expire\n[StartBattle] ได้รับ 1 [AttackUp] ต่อทุกๆ 3 [Vibration] Countบนself\n[WhenUse] ได้รับ 9 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -395,7 +395,7 @@
                   "desc": "[OnSucceedAttack] มอบ 10 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ 10% bonus Sloth ความเสียหาย for every [Vibration] Countบนself"
+                  "desc": "[OnSucceedAttack] ทำ 10% bonus Sloth ความเสียหาย ต่อทุกๆ [Vibration] Countบนself"
                 }
               ]
             },
@@ -405,7 +405,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Vibration] +4 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ 10% bonus Sloth ความเสียหาย for every [Vibration] Countบนself"
+                  "desc": "[OnSucceedAttack] ทำ 10% bonus Sloth ความเสียหาย ต่อทุกๆ [Vibration] Countบนself"
                 }
               ]
             },
@@ -496,7 +496,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Enforcing Collections.\u200B</line-height>",
-          "desc": "[WhenUse] แต้มปะทะ +1 for every 5 [Vibration] Countบนself (สูงสุด 2)\n[WhenUse] เมื่อมี 5+ [Vibration] Count, ทำ +10% more ความเสียหาย for every [Vibration] Count. (สูงสุด 100%)\n[EndSkill] Consume all [Vibration] Countบนself",
+          "desc": "[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Vibration] Countบนself (สูงสุด 2)\n[WhenUse] เมื่อมี 5+ [Vibration] Count, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [Vibration] Count. (สูงสุด 100%)\n[EndSkill] Consume all [Vibration] Countบนself",
           "coinlist": [
             {
               "coindescs": [
@@ -596,7 +596,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "Inflict 2 [Vibration]"
+                  "desc": "มอบ 2 [Vibration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] ได้รับ [Vibration] +2 ขั้น"
@@ -622,7 +622,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Your Timepiece, If You Will.\u200B</line-height>",
+          "name": "<line-height=120%>Your Timepiece, หาก You Will.\u200B</line-height>",
           "desc": "[WhenUse] เมื่อมี 5+ [Vibration] Count, แต้มปะทะ +1\n[WhenUse] ได้รับ [Vibration] +2 ขั้น\n[WinDuel] Consume 3 [Vibration] Countบนself และ ได้รับ +1 [TimeRentalTwo] Count",
           "coinlist": [
             {
@@ -652,7 +652,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Enforcing Collections.\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ [Vibration] +3 ขั้น\n[WhenUse] Base Power +1 for every 4 [Vibration] Countบนself (สูงสุด 3)\n[WinDuel] Consume 5 [Vibration] Countบนself และ ได้รับ +3 [TimeRentalTwo] Count",
+          "desc": "[WhenUse] ได้รับ [Vibration] +3 ขั้น\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 4 [Vibration] Countบนself (สูงสุด 3)\n[WinDuel] Consume 5 [Vibration] Countบนself และ ได้รับ +3 [TimeRentalTwo] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -791,7 +791,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Enforcing Collections.\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ [Vibration] +3 ขั้น\n[WhenUse] Base Power +1 for every 4 [Vibration] Countบนself (สูงสุด 3)\n[WinDuel] Consume 5 [Vibration] Countบนself และ ได้รับ +3 [TimeRentalTwo] Count",
+          "desc": "[WhenUse] ได้รับ [Vibration] +3 ขั้น\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 4 [Vibration] Countบนself (สูงสุด 3)\n[WinDuel] Consume 5 [Vibration] Countบนself และ ได้รับ +3 [TimeRentalTwo] Count",
           "coinlist": [
             {
               "coindescs": [

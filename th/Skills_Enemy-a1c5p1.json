@@ -5,7 +5,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Vomit Froth\u200B</line-height>",
+                    "name": "<line-height=120%>สำลอกฟองคลื่น\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -32,19 +32,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ข่วน\u200B</line-height>",
-                    "desc": "หากเป้าหมายมี 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, ทำ +20% ความเสียหาย.",
+                    "desc": "หากเป้าหมายมี 5+ [Sinking], ทำ +20% ความเสียหาย.",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ30% ของความเสียหายที่ทำไป"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ30% ของความเสียหายที่ทำไป"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ30% ของความเสียหายที่ทำไป"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ30% ของความเสียหายที่ทำไป"
                                 }
                             ]
                         }
@@ -57,7 +57,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Water Jet\u200B</line-height>",
+                    "name": "<line-height=120%>น้ำแรงดันสูง\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -76,8 +76,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Mucous Skin\u200B</line-height>",
-                    "desc": "If attacked while Shielded, มอบ 1 [Sinking]บนthe attacker",
+                    "name": "<line-height=120%>หนังเมือกหนา\u200B</line-height>",
+                    "desc": "หากถูกโจมตีขณะยังมีโล่อยู่, มอบ 1 [Sinking] แก่ผู้โจมตี",
                     "coinlist": [
                         {}
                     ]
@@ -89,7 +89,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Hook Slice\u200B</line-height>",
+                    "name": "<line-height=120%>ฟันตะขอ\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -108,7 +108,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Consecutive Hook Slice\u200B</line-height>",
+                    "name": "<line-height=120%>ฟาดฟันตะขอ\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -134,8 +134,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Battle Cry\u200B</line-height>",
-                    "desc": "[WhenUse] ได้รับ 2 Poise ในเทิร์นหน้า.\nTurn End: ฟื้นฟู HP equal to the Shield HP.",
+                    "name": "<line-height=120%>เสียงร้องของนักสู้\u200B</line-height>",
+                    "desc": "[WhenUse] ได้รับ 2 [Breath] ในเทิร์นหน้า.\n[EndBattle] ฟื้นฟู HP เท่ากับHP ของโล่",
                     "coinlist": [
                         {}
                     ]
@@ -147,8 +147,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Tear the Gap\u200B</line-height>",
-                    "desc": "เหรียญ effects activate when this unit has <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</link></u></color>.",
+                    "name": "<line-height=120%>ฉีกช่องว่าง\u200B</line-height>",
+                    "desc": "ความสามารถของเหรียญจะทำงานหากยูนิทนี้มี [Breath]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -173,7 +173,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Hook Snag\u200B</line-height>",
+                    "name": "<line-height=120%>ตะขอเกี่ยว\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -192,7 +192,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Hook Punch\u200B</line-height>",
+                    "name": "<line-height=120%>ปล่อยหมัดฮุค\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -218,8 +218,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Battle Cry\u200B</line-height>",
-                    "desc": "[WhenUse] ได้รับ 2 Poise ในเทิร์นหน้า.\nTurn End: ฟื้นฟู HP equal to the Shield HP.",
+                    "name": "<line-height=120%>เสียงร้องของนักสู้\u200B</line-height>",
+                    "desc": "[WhenUse] ได้รับ 2 [Breath] ในเทิร์นหน้า.\n[EndBattle] ฟื้นฟู HP เท่ากับHP ของโล่",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -237,8 +237,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Tear the Gap\u200B</line-height>",
-                    "desc": "เหรียญ effects activate when this unit has <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</link></u></color>.",
+                    "name": "<line-height=120%>ฉีกช่องว่าง\u200B</line-height>",
+                    "desc": "ความสามารถของเหรียญจะทำงานหากยูนิทนี้มี [Breath]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -263,7 +263,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Tear the Flesh\u200B</line-height>",
+                    "name": "<line-height=120%>กระชากเนื้อ\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -285,7 +285,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Going In\u200B</line-height>",
+                    "name": "<line-height=120%>เข้าโจมตี\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {},
@@ -305,13 +305,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Faster\u200B</line-height>",
+                    "name": "<line-height=120%>เร็วกว่านี้\u200B</line-height>",
                     "desc": "[EndSkill] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ 4 Poise ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] ได้รับ 4 [Breath] ในเทิร์นหน้า"
                                 }
                             ]
                         },
@@ -331,8 +331,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Battle Cry\u200B</line-height>",
-                    "desc": "[WhenUse] ได้รับ 2 Poise ในเทิร์นหน้า.\nTurn End: ฟื้นฟู HP equal to the Shield HP.",
+                    "name": "<line-height=120%>เสียงร้องของนักสู้\u200B</line-height>",
+                    "desc": "[WhenUse] ได้รับ 2 [Breath] ในเทิร์นหน้า.\n[EndBattle] ฟื้นฟู HP เท่ากับHP ของโล่",
                     "coinlist": [
                         {}
                     ]
@@ -344,8 +344,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Looting\u200B</line-height>",
-                    "desc": "[WinDuel] Copies the target's 1~3 Skill แต้มเหรียญ และ เหรียญ Count และ uses themเป็นits own",
+                    "name": "<line-height=120%>แอบเกรียน\u200B</line-height>",
+                    "desc": "[WinDuel] ขโมยแต้มเหรียญจากสกิลอีกฝ่ายมา 1~3 และคัดลอกจำนวนเหรียญของสกิลอีกฝ่ายมาใช้โจมตี",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -363,8 +363,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Hit Me Harder\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, ได้รับ 1 [Protection]",
+                    "name": "<line-height=120%>แรงกว่านี้ได้ป่าววะ\u200B</line-height>",
+                    "desc": "[WhenUse] หากเป้าหมายมี [Laceration], ได้รับ 1 [Protection]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -385,8 +385,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Hit Me Right here\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, ได้รับ 1 [Protection]",
+                    "name": "<line-height=120%>ขอตรงนี้ดิ เอาจังๆ\u200B</line-height>",
+                    "desc": "[WhenUse] หากเป้าหมายมี [Laceration], ได้รับ 1 [Protection]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -401,7 +401,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 ความเสียหาย Down ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [AttackDmgDown] ในเทิร์นหน้า"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
@@ -417,7 +417,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Even Harder\u200B</line-height>",
+                    "name": "<line-height=120%>แรงกว่านี้อีก\u200B</line-height>",
                     "desc": "[EndSkill] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า",
                     "coinlist": [
                         {
@@ -433,7 +433,7 @@
                                     "desc": "[OnSucceedAttack] ได้รับ 2 [Protection] ในเทิร์นหน้า"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ 4 Poise ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] ได้รับ 4 [Breath] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -446,8 +446,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Defend\u200B</line-height>",
-                    "desc": "[WhenUse] ได้รับ 2 Poise ในเทิร์นหน้า.\nTurn End: ฟื้นฟู HP equal to the Shield HP.",
+                    "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
+                    "desc": "[WhenUse] ได้รับ 2 [Breath] ในเทิร์นหน้า.\n[EndBattle] ฟื้นฟู HP เท่ากับHP ของโล่",
                     "coinlist": [
                         {}
                     ]
@@ -459,8 +459,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Looting\u200B</line-height>",
-                    "desc": "[WinDuel] Copies the target's 1~3 Skill แต้มเหรียญ และ เหรียญ Count และ uses themเป็นits own",
+                    "name": "<line-height=120%>แอบเกรียน\u200B</line-height>",
+                    "desc": "[WinDuel] ขโมยแต้มเหรียญจากสกิลอีกฝ่ายมา 1~3 และคัดลอกจำนวนเหรียญของสกิลอีกฝ่ายมาใช้โจมตี",
                     "coinlist": [
                         {}
                     ]
@@ -472,7 +472,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Water Jet\u200B</line-height>",
+                    "name": "<line-height=120%>น้ำแรงดันสูง\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -498,19 +498,19 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Damp Strike\u200B</line-height>",
+                    "name": "<line-height=120%>เงื้อมมืออับชื้น\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 [Sinking] Fragility"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [SinkingVulnerable]"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ50% ของความเสียหายที่ทำไป"
                                 }
                             ]
                         }
@@ -523,7 +523,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Clutch of the Waves\u200B</line-height>",
+                    "name": "<line-height=120%>ภัยร้ายแห่งเกลียวคลื่น\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -555,13 +555,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Shrieking Waves\u200B</line-height>",
-                    "desc": "Damage +20% ต่อทุกๆ 5 [Sinking] Potencyบนเป้าหมาย\nIf target's ค่าสติ is below 0, ทำ +10% ความเสียหาย",
+                    "name": "<line-height=120%>เสียงร้องจากเกลียวคลื่น\u200B</line-height>",
+                    "desc": "ความเสียหาย+20% ต่อทุกๆ 5 ความรุนแรง [Sinking] บนเป้าหมาย\nหากค่าสติของเป้าหมาย ต่ำกว่า 0, ทำ +10% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] [Sinking] Deluge"
+                                    "desc": "[OnSucceedAttack] [SinkingSurge]"
                                 }
                             ]
                         }
@@ -574,8 +574,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Mucous Skin\u200B</line-height>",
-                    "desc": "If attacked while Shielded, มอบ 1 [Sinking]บนthe attacker",
+                    "name": "<line-height=120%>หนังเมือกหนา\u200B</line-height>",
+                    "desc": "หากถูกโจมตีขณะยังมีโล่อยู่, มอบ 1 [Sinking] แก่ผู้โจมตี",
                     "coinlist": [
                         {}
                     ]
@@ -587,7 +587,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>There, There They Are\u200B</line-height>",
+                    "name": "<line-height=120%>นั้นไง มันมาแล้ว\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -606,7 +606,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>We've Got Company, Boys\u200B</line-height>",
+                    "name": "<line-height=120%>เจอตัวการแล้วว่ะ หนุ่มๆ\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -638,14 +638,14 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Battle Command\u200B</line-height>",
-                    "desc": "[WhenUse] ได้รับ 5 Poise this turn",
+                    "name": "<line-height=120%>สั่งการภาคสนาม\u200B</line-height>",
+                    "desc": "[WhenUse] ได้รับ 5 [Breath] ในเทิร์นนี้",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 [Protection], 1 [Enhancement] to all other allies ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Protection], 1 [Enhancement] แก่พันธมิตรอื่นทุกคน ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -658,8 +658,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Weakness Spotted! Fire!\u200B</line-height>",
-                    "desc": "หากเป้าหมายมี 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, แต้มปะทะ +2",
+                    "name": "<line-height=120%>เจอจุดตายแล้ว! ยิงได้!\u200B</line-height>",
+                    "desc": "หากเป้าหมายมี 5+ [Laceration], แต้มปะทะ +2",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -674,7 +674,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration] Count\nทำ bonus ความเสียหาย equal to <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>บนเป้าหมาย"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration] Count\nทำความเสียหายเพิ่มเติ่มเท่ากับ [Laceration]บนเป้าหมาย"
                                 },
                                 {
                                     "desc": "Spend 1 Ammo"
@@ -691,7 +691,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-                    "desc": "[OnSucceedEvade] ได้รับ 5 Poise ในเทิร์นหน้า.\n[OnSucceedEvade] มอบ 2 Poise แก่พันธมิตรทุกคน ในเทิร์นหน้า.",
+                    "desc": "[OnSucceedEvade] ได้รับ 5 [Breath] ในเทิร์นหน้า.\n[OnSucceedEvade] มอบ 2 [Breath] แก่พันธมิตรทุกคน ในเทิร์นหน้า.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -709,8 +709,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Looting\u200B</line-height>",
-                    "desc": "[WinDuel] Copies the target's Skill 3 แต้มเหรียญ และ เหรียญ Count และ uses themเป็นits own",
+                    "name": "<line-height=120%>แอบเกรียน\u200B</line-height>",
+                    "desc": "[WinDuel] ขโมยแต้มเหรียญจากสกิลอีกฝ่ายมา 3 และคัดลอกจำนวนเหรียญของสกิลอีกฝ่ายมาใช้โจมตี",
                     "coinlist": [
                         {
                             "coindescs": [

@@ -6,7 +6,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Let's Get Packing\u200B</line-height>",
-                    "desc": "If this unit has [AaCeSeBa], add 'Inflict 1 [Paralysis] ในเทิร์นหน้า' to เหรียญ effects\nTargets the unit with the lowest Speed\n[EndBattle]จ่าย all [Charge] Count",
+                    "desc": "If ยูนิทนี้ has [AaCeSeBa], add 'มอบ 1 [Paralysis] ในเทิร์นหน้า' to เหรียญ effects\nTargets the unit with the lowest Speed\n[EndBattle]จ่าย all [Charge] Count",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -24,10 +24,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ทำ bonus ความเสียหาย equal to [Breath]บนself"
+                                    "desc": "[OnSucceedAttack] ทำความเสียหายเพิ่มเติ่มเท่ากับ [Breath]บนself"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] และ +3 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] และ [Breath] +3 ขั้น"
                                 }
                             ]
                         },
@@ -40,7 +40,7 @@
                                     "desc": "[OnSucceedAttack] Randomly select 1 of 4 effects ([Protection], [Enhancement], [Vulnerable], [Paralysis]). มอบ or มอบ 3 of the selected effect."
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Target เสีย ค่าสติ equal to [Charge] Countบนthis unit"
+                                    "desc": "[OnSucceedAttack] เป้าหมายเสีย ค่าสติ เท่ากับ [Charge] Countบนยูนิทนี้"
                                 },
                                 {
                                     "desc": "[EnemyKill] ศัตรูทุกตัว เสีย 10 Sp."

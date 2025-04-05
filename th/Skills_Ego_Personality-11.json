@@ -15,10 +15,10 @@
                   "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 },
                 {
-                  "desc": "[EndSkill] มอบ 1 '[AttackDmgUp]' for the Affinity with the highest Resonance count to 2 allies with the least SP"
+                  "desc": "[EndSkill] มอบ 1 '[AttackDmgUp]' for the Affinity with the highest Resonance count to 2 allies with the least ค่าสติ"
                 },
                 {
-                  "desc": "[EndSkill] ฟื้นฟู 20 ค่าสติ for 2 allies with the least SP"
+                  "desc": "[EndSkill] ฟื้นฟู 20 ค่าสติ for 2 allies with the least ค่าสติ"
                 }
               ]
             }
@@ -36,10 +36,10 @@
                   "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 },
                 {
-                  "desc": "[EndSkill] มอบ 1 '[AttackDmgUp]' for the Affinity with the highest Resonance count to 3 allies with the least SP"
+                  "desc": "[EndSkill] มอบ 1 '[AttackDmgUp]' for the Affinity with the highest Resonance count to 3 allies with the least ค่าสติ"
                 },
                 {
-                  "desc": "[EndSkill] ฟื้นฟู 20 ค่าสติ for 3 allies with the least SP"
+                  "desc": "[EndSkill] ฟื้นฟู 20 ค่าสติ for 3 allies with the least ค่าสติ"
                 }
               ]
             }
@@ -57,10 +57,10 @@
                   "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 },
                 {
-                  "desc": "[EndSkill] มอบ 1 '[AttackDmgUp]' for the Affinity with the highest Resonance count to 4 allies with the least SP"
+                  "desc": "[EndSkill] มอบ 1 '[AttackDmgUp]' for the Affinity with the highest Resonance count to 4 allies with the least ค่าสติ"
                 },
                 {
-                  "desc": "[EndSkill] ฟื้นฟู 20 ค่าสติ for 4 allies with the least SP"
+                  "desc": "[EndSkill] ฟื้นฟู 20 ค่าสติ for 4 allies with the least ค่าสติ"
                 }
               ]
             }
@@ -75,12 +75,12 @@
           "level": 1,
           "name": "<line-height=120%>Holiday\u200B</line-height>",
           "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit เสีย 10% HP",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ยูนิทนี้ เสีย 10% HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target เสีย 10 SP"
+                  "desc": "[OnSucceedAttack] เป้าหมายเสีย 10 ค่าสติ"
                 },
                 {
                   "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
@@ -96,12 +96,12 @@
           "level": 3,
           "name": "<line-height=120%>Holiday\u200B</line-height>",
           "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit เสีย 10% HP",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ยูนิทนี้ เสีย 10% HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target เสีย 10 SP"
+                  "desc": "[OnSucceedAttack] เป้าหมายเสีย 10 ค่าสติ"
                 },
                 {
                   "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
@@ -120,12 +120,12 @@
           "level": 4,
           "name": "<line-height=120%>Holiday\u200B</line-height>",
           "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit เสีย 10% HP",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ยูนิทนี้ เสีย 10% HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target เสีย 10 SP"
+                  "desc": "[OnSucceedAttack] เป้าหมายเสีย 10 ค่าสติ"
                 },
                 {
                   "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
@@ -303,7 +303,7 @@
           "level": 1,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than 10 [Charge] Count, consume 15% HP to ได้รับ [Charge] +0 ขั้น (this ความเสียหาย does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count และ ทำ +1% more ความเสียหาย for every [Charge] Count consumed (สูงสุด 10%)",
+          "desc": "[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than 10 [Charge] Count, consume 15% HP to ได้รับ [Charge] +0 ขั้น (this ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count และ ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed (สูงสุด 10%)",
           "coinlist": [
             {
               "coindescs": [
@@ -311,7 +311,7 @@
                   "desc": "[OnSucceedAttack] มอบ ([Charge] - 1) [DimensionRift] (สูงสุด 1)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] และ 1 [ChargeLoad] ในเทิร์นหน้า for every [Charge] (สูงสุด 1 of each ต่อทุกๆ Skill)"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] และ 1 [ChargeLoad] ในเทิร์นหน้า ต่อทุกๆ [Charge] (สูงสุด 1 of each ต่อทุกๆ Skill)"
                 },
                 {
                   "desc": "[EnemyKill] ได้รับ [Charge] +2 ขั้น"
@@ -324,7 +324,7 @@
           "level": 3,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[BeforeAttack] เมื่อมี <style=\"highlight\">3</style>+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than 10 [Charge] Count, consume 15% HP to ได้รับ [Charge] +0 ขั้น (this ความเสียหาย does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count และ ทำ +1% more ความเสียหาย for every [Charge] Count consumed (สูงสุด <style=\"highlight\">20</style>%)",
+          "desc": "[BeforeAttack] เมื่อมี <style=\"highlight\">3</style>+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than 10 [Charge] Count, consume 15% HP to ได้รับ [Charge] +0 ขั้น (this ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count และ ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed (สูงสุด <style=\"highlight\">20</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -332,7 +332,7 @@
                   "desc": "[OnSucceedAttack] มอบ ([Charge] - 1) [DimensionRift] (สูงสุด <style=\"highlight\">2</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] และ 1 [ChargeLoad] ในเทิร์นหน้า for every [Charge] (สูงสุด <style=\"highlight\">2</style> of each ต่อทุกๆ Skill)"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] และ 1 [ChargeLoad] ในเทิร์นหน้า ต่อทุกๆ [Charge] (สูงสุด <style=\"highlight\">2</style> of each ต่อทุกๆ Skill)"
                 },
                 {
                   "desc": "[EnemyKill] ได้รับ [Charge] +2 ขั้น<style=\"highlight\"></style>"
@@ -345,7 +345,7 @@
           "level": 4,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[BeforeAttack] ได้รับ <style=\"highlight\">(highest Reson. - 2)</style> Atk Weight <style=\"highlight\">(สูงสุด 2)</style>\n[BeforeAttack] เมื่อมี less than 10 [Charge] Count, consume <style=\"highlight\">10</style>% HP to ได้รับ [Charge] +0 ขั้น (this ความเสียหาย does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count และ ทำ +1% more ความเสียหาย for every [Charge] Count consumed (สูงสุด <style=\"highlight\">30</style>%)",
+          "desc": "[BeforeAttack] ได้รับ <style=\"highlight\">(highest Reson. - 2)</style> Atk Weight <style=\"highlight\">(สูงสุด 2)</style>\n[BeforeAttack] เมื่อมี less than 10 [Charge] Count, consume <style=\"highlight\">10</style>% HP to ได้รับ [Charge] +0 ขั้น (this ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count และ ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed (สูงสุด <style=\"highlight\">30</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -353,7 +353,7 @@
                   "desc": "[OnSucceedAttack] มอบ ([Charge] - 1) [DimensionRift] (สูงสุด 2)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] และ 1 [ChargeLoad] ในเทิร์นหน้า for every [Charge] (สูงสุด <style=\"highlight\">3</style> of each ต่อทุกๆ Skill)"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] และ 1 [ChargeLoad] ในเทิร์นหน้า ต่อทุกๆ [Charge] (สูงสุด <style=\"highlight\">3</style> of each ต่อทุกๆ Skill)"
                 },
                 {
                   "desc": "[EnemyKill] ได้รับ [Charge] +2 ขั้น<style=\"highlight\"></style>"
@@ -371,7 +371,7 @@
           "level": 1,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than maximum [Charge] Count, consume (missing [Charge] Count x 1.5)% HP to ได้รับ up to max [Charge] Count (สูงสุด [Charge] Count obtainable from this effect: 30. This ความเสียหาย does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count และ ทำ +2% more ความเสียหาย for every [Charge] Count consumed (สูงสุด 20%)",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than maximum [Charge] Count, consume (missing [Charge] Count x 1.5)% HP to ได้รับ up to max [Charge] Count (สูงสุด [Charge] Count obtainable from this effect: 30. This ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count และ ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed (สูงสุด 20%)",
           "coinlist": [
             {
               "coindescs": [
@@ -379,7 +379,7 @@
                   "desc": "[OnSucceedAttack] มอบ ([Charge] - 1) [DimensionRift] (สูงสุด 2)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] และ 1 [ChargeLoad] ในเทิร์นหน้า for every [Charge] (สูงสุด 2 of each ต่อทุกๆ Skill)"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] และ 1 [ChargeLoad] ในเทิร์นหน้า ต่อทุกๆ [Charge] (สูงสุด 2 of each ต่อทุกๆ Skill)"
                 },
                 {
                   "desc": "[EnemyKill] ได้รับ [Charge] +2 ขั้น"
@@ -392,7 +392,7 @@
           "level": 3,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than maximum [Charge] Count, consume (missing [Charge] Count x <style=\"highlight\">1.2</style>)% HP to ได้รับ up to max [Charge] Count (สูงสุด [Charge] Count obtainable from this effect: 30. This ความเสียหาย does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count และ ทำ +2% more ความเสียหาย for every [Charge] Count consumed (สูงสุด <style=\"highlight\">40</style>%)",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than maximum [Charge] Count, consume (missing [Charge] Count x <style=\"highlight\">1.2</style>)% HP to ได้รับ up to max [Charge] Count (สูงสุด [Charge] Count obtainable from this effect: 30. This ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count และ ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed (สูงสุด <style=\"highlight\">40</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -400,7 +400,7 @@
                   "desc": "[OnSucceedAttack] มอบ ([Charge] - 1) [DimensionRift] (สูงสุด 2)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] และ 1 [ChargeLoad] ในเทิร์นหน้า for every [Charge] (สูงสุด 2 of each ต่อทุกๆ Skill)"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] และ 1 [ChargeLoad] ในเทิร์นหน้า ต่อทุกๆ [Charge] (สูงสุด 2 of each ต่อทุกๆ Skill)"
                 },
                 {
                   "desc": "[EnemyKill] ได้รับ [Charge] +2 ขั้น<style=\"highlight\"></style>"
@@ -413,7 +413,7 @@
           "level": 4,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ <style=\"highlight\">(highest Reson. - 2)</style> Atk Weight <style=\"highlight\">(สูงสุด 2)</style>\n[BeforeAttack] เมื่อมี less than maximum [Charge] Count, consume <style=\"highlight\">(missing [Charge] Count)%</style> HP to ได้รับ up to max [Charge] Count (สูงสุด [Charge] Count obtainable from this effect: 30. This ความเสียหาย does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count และ ทำ +2% more ความเสียหาย for every [Charge] Count consumed (สูงสุด <style=\"highlight\">60</style>%)",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ <style=\"highlight\">(highest Reson. - 2)</style> Atk Weight <style=\"highlight\">(สูงสุด 2)</style>\n[BeforeAttack] เมื่อมี less than maximum [Charge] Count, consume <style=\"highlight\">(missing [Charge] Count)%</style> HP to ได้รับ up to max [Charge] Count (สูงสุด [Charge] Count obtainable from this effect: 30. This ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count และ ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed (สูงสุด <style=\"highlight\">60</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -421,7 +421,7 @@
                   "desc": "[OnSucceedAttack] มอบ ([Charge] - 1) [DimensionRift] (สูงสุด <style=\"highlight\">4</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] และ 1 [ChargeLoad] ในเทิร์นหน้า for every [Charge] (สูงสุด <style=\"highlight\">3</style> of each ต่อทุกๆ Skill)"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] และ 1 [ChargeLoad] ในเทิร์นหน้า ต่อทุกๆ [Charge] (สูงสุด <style=\"highlight\">3</style> of each ต่อทุกๆ Skill)"
                 },
                 {
                   "desc": "[EnemyKill] ได้รับ [Charge] +2 ขั้น<style=\"highlight\"></style>"
@@ -439,15 +439,15 @@
           "level": 1,
           "name": "<line-height=120%>Magic Bullet\u200B</line-height>",
           "abName": "Der Freischütz",
-          "desc": "ทำ +1% more ความเสียหาย for every 3 [Combustion]บนเป้าหมาย (สูงสุด 10%)\n[BeforeAttack] เมื่อมี 0 [FreischutzShotCount], ได้รับ 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] ได้รับ [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, มอบ 2 [DarkFlame] aได้รับst ศัตรูทุกตัว with [Combustion]",
+          "desc": "ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ 3 [Combustion]บนเป้าหมาย (สูงสุด 10%)\n[BeforeAttack] เมื่อมี 0 [FreischutzShotCount], ได้รับ 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] ได้รับ [FreischutzShotCount] เท่ากับ the highest Reson. (min. 1, max 4)\n[EndSkill] หาก the main target is defeated, มอบ 2 [DarkFlame] aได้รับst ศัตรูทุกตัว with [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Combustion] equal to [FreischutzShotCount]"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] equal to [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)"
+                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)"
                 }
               ]
             }
@@ -457,15 +457,15 @@
           "level": 3,
           "name": "<line-height=120%>Magic Bullet\u200B</line-height>",
           "abName": "Der Freischütz",
-          "desc": "ทำ +<style=\"highlight\">2</style>% more ความเสียหาย for every 3 [Combustion]บนเป้าหมาย (สูงสุด <style=\"highlight\">20</style>%)\n[BeforeAttack] เมื่อมี 0 [FreischutzShotCount], ได้รับ 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] ได้รับ [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, มอบ <style=\"highlight\">3</style> [DarkFlame] aได้รับst ศัตรูทุกตัว with [Combustion]",
+          "desc": "ทำ +<style=\"highlight\">2</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 3 [Combustion]บนเป้าหมาย (สูงสุด <style=\"highlight\">20</style>%)\n[BeforeAttack] เมื่อมี 0 [FreischutzShotCount], ได้รับ 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] ได้รับ [FreischutzShotCount] เท่ากับ the highest Reson. (min. 1, max 4)\n[EndSkill] หาก the main target is defeated, มอบ <style=\"highlight\">3</style> [DarkFlame] aได้รับst ศัตรูทุกตัว with [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Combustion] equal to [FreischutzShotCount]"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] equal to [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)"
+                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)"
                 }
               ]
             }
@@ -475,15 +475,15 @@
           "level": 4,
           "name": "<line-height=120%>Magic Bullet\u200B</line-height>",
           "abName": "Der Freischütz",
-          "desc": "ทำ +<style=\"highlight\">3</style>% more ความเสียหาย for every 3 [Combustion]บนเป้าหมาย (สูงสุด <style=\"highlight\">30</style>%)\n[BeforeAttack] เมื่อมี 0 [FreischutzShotCount], ได้รับ 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] ได้รับ [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, มอบ <style=\"highlight\">4</style> [DarkFlame] aได้รับst ศัตรูทุกตัว with [Combustion]",
+          "desc": "ทำ +<style=\"highlight\">3</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 3 [Combustion]บนเป้าหมาย (สูงสุด <style=\"highlight\">30</style>%)\n[BeforeAttack] เมื่อมี 0 [FreischutzShotCount], ได้รับ 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] ได้รับ [FreischutzShotCount] เท่ากับ the highest Reson. (min. 1, max 4)\n[EndSkill] หาก the main target is defeated, มอบ <style=\"highlight\">4</style> [DarkFlame] aได้รับst ศัตรูทุกตัว with [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Combustion] equal to [FreischutzShotCount]"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] equal to [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)"
+                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)"
                 }
               ]
             }
@@ -498,15 +498,15 @@
           "level": 1,
           "name": "<line-height=120%>Magic Bullet\u200B</line-height>",
           "abName": "Der Freischütz",
-          "desc": "[CantIdentify]\nTargets randomly\nทำ +1% more ความเสียหาย for every 3 [Combustion]บนเป้าหมาย (สูงสุด 10%)\n[BeforeAttack] เมื่อมี 0 [FreischutzShotCount], ได้รับ 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] ได้รับ [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, มอบ 3 [DarkFlame] aได้รับst ศัตรูทุกตัว with [Combustion]",
+          "desc": "[CantIdentify]\nTargets randomly\nทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ 3 [Combustion]บนเป้าหมาย (สูงสุด 10%)\n[BeforeAttack] เมื่อมี 0 [FreischutzShotCount], ได้รับ 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] ได้รับ [FreischutzShotCount] เท่ากับ the highest Reson. (min. 1, max 4)\n[EndSkill] หาก the main target is defeated, มอบ 3 [DarkFlame] aได้รับst ศัตรูทุกตัว with [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Combustion] equal to [FreischutzShotCount]"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] equal to [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)"
+                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)"
                 }
               ]
             }
@@ -516,18 +516,18 @@
           "level": 3,
           "name": "<line-height=120%>Magic Bullet\u200B</line-height>",
           "abName": "Der Freischütz",
-          "desc": "[CantIdentify]\nTargets randomly\nทำ +<style=\"highlight\">2</style>% more ความเสียหาย for every 3 [Combustion]บนเป้าหมาย (สูงสุด <style=\"highlight\">20</style>%)\n[BeforeAttack] เมื่อมี 0 [FreischutzShotCount], ได้รับ 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] ได้รับ [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, มอบ <style=\"highlight\">5</style> [DarkFlame] aได้รับst ศัตรูทุกตัว with [Combustion]",
+          "desc": "[CantIdentify]\nTargets randomly\nทำ +<style=\"highlight\">2</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 3 [Combustion]บนเป้าหมาย (สูงสุด <style=\"highlight\">20</style>%)\n[BeforeAttack] เมื่อมี 0 [FreischutzShotCount], ได้รับ 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] ได้รับ [FreischutzShotCount] เท่ากับ the highest Reson. (min. 1, max 4)\n[EndSkill] หาก the main target is defeated, มอบ <style=\"highlight\">5</style> [DarkFlame] aได้รับst ศัตรูทุกตัว with [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Combustion] equal to [FreischutzShotCount]"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ [FreischutzShotCount]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ +([FreischutzShotCount] / 3) [Combustion] Count (rounded down)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] equal to [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -537,18 +537,18 @@
           "level": 4,
           "name": "<line-height=120%>Magic Bullet\u200B</line-height>",
           "abName": "Der Freischütz",
-          "desc": "[CantIdentify]\nTargets randomly\nทำ +<style=\"highlight\">3</style>% more ความเสียหาย for every 3 [Combustion]บนเป้าหมาย (สูงสุด <style=\"highlight\">30</style>%)\n[BeforeAttack] เมื่อมี 0 [FreischutzShotCount], ได้รับ 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] ได้รับ [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, มอบ <style=\"highlight\">7</style> [DarkFlame] aได้รับst ศัตรูทุกตัว with [Combustion]",
+          "desc": "[CantIdentify]\nTargets randomly\nทำ +<style=\"highlight\">3</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 3 [Combustion]บนเป้าหมาย (สูงสุด <style=\"highlight\">30</style>%)\n[BeforeAttack] เมื่อมี 0 [FreischutzShotCount], ได้รับ 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] ได้รับ [FreischutzShotCount] เท่ากับ the highest Reson. (min. 1, max 4)\n[EndSkill] หาก the main target is defeated, มอบ <style=\"highlight\">7</style> [DarkFlame] aได้รับst ศัตรูทุกตัว with [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Combustion] equal to [FreischutzShotCount]"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ [FreischutzShotCount]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ +([FreischutzShotCount] / <style=\"highlight\">2</style>) [Combustion] Count (rounded down)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] equal to [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)<style=\"highlight\"></style>"
                 }
               ]
             }

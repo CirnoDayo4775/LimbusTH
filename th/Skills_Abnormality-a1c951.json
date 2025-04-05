@@ -33,7 +33,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ +3 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ [Breath] +3 ขั้น"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] ได้รับ 3 [Breath]"
@@ -43,10 +43,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] ได้รับ [Breath] equal to [Breath]บนself"
+                                    "desc": "[CriticalOnSucceedAttack] ได้รับ [Breath] เท่ากับ [Breath]บนself"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ +3 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ [Breath] +3 ขั้น"
                                 }
                             ]
                         }
@@ -60,15 +60,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Here's a Gift\u200B</line-height>",
-                    "desc": "หากเป้าหมายมี [Binding], และ if this unit has a faster Speed, ได้รับ แต้มปะทะ equal to the Speed difference",
+                    "desc": "หากเป้าหมายมี [Binding], และ หาก ยูนิทนี้ has a faster Speed, ได้รับ แต้มปะทะ เท่ากับ the Speed difference",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] เสีย 5 SP"
+                                    "desc": "[OnSucceedAttack] เสีย 5 ค่าสติ"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ 2 [Breath] และ +3 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ 2 [Breath] และ [Breath] +3 ขั้น"
                                 },
                                 {
                                     "desc": "[CriticalOnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"
@@ -85,7 +85,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Let's Get Packing\u200B</line-height>",
-                    "desc": "If this unit has [AaCeSeBa], add 'Inflict 1 [Paralysis] ในเทิร์นหน้า' to เหรียญ effects\nTargets the unit with the lowest Speed\n[EndBattle]จ่าย all [Charge] Count",
+                    "desc": "If ยูนิทนี้ has [AaCeSeBa], add 'มอบ 1 [Paralysis] ในเทิร์นหน้า' to เหรียญ effects\nTargets the unit with the lowest Speed\n[EndBattle]จ่าย all [Charge] Count",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -97,10 +97,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ทำ bonus ความเสียหาย equal to [Breath]บนself"
+                                    "desc": "[OnSucceedAttack] ทำความเสียหายเพิ่มเติ่มเท่ากับ [Breath]บนself"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] และ +3 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] และ [Breath] +3 ขั้น"
                                 }
                             ]
                         },
@@ -110,7 +110,7 @@
                                     "desc": "[OnSucceedAttack] Randomly select 1 of 4 effects ([Protection], [Enhancement], [Vulnerable], [Paralysis]). มอบ or มอบ 3 of the selected effect."
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Target เสีย ค่าสติ equal to [Charge] Countบนthis unit"
+                                    "desc": "[OnSucceedAttack] เป้าหมายเสีย ค่าสติ เท่ากับ [Charge] Countบนยูนิทนี้"
                                 },
                                 {
                                     "desc": "[EnemyKill] ศัตรูทุกตัว เสีย 10 Sp."
@@ -130,7 +130,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Time to Get Boxed\u200B</line-height>",
-                    "desc": "If Shield HP is completely depleted, get Staggered ในเทิร์นหน้า.\nIf there is remaining Shield HP, ได้รับ 2 [Enhancement] ในเทิร์นหน้า",
+                    "desc": "If โล่ HP is completely depleted, จะ Stagger ในเทิร์นหน้า.\nIf there is remaining โล่ HP, ได้รับ 2 [Enhancement] ในเทิร์นหน้า",
                     "coinlist": [
                         {}
                     ]

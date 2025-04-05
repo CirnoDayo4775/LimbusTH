@@ -6,7 +6,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Slam\u200B</line-height>",
-                    "desc": "[WhenUse] If this unit has [HardenedBlood], และ if this Skill's เหรียญ effect inflicts [Burst], มอบ [Laceration] +1 ขั้นเป็นwell",
+                    "desc": "[WhenUse] หาก ยูนิทนี้ has [HardenedBlood], และ หาก this Skill's เหรียญ effect inflicts [Burst], มอบ [Laceration] +1 ขั้นเป็นwell",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -32,7 +32,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Aimless Wrath\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] If this unit has 3+ [HardenedBlood], และ if this Skill's เหรียญ effect inflicts [Burst], มอบ 2 [Laceration]as well",
+                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] หาก ยูนิทนี้ has 3+ [HardenedBlood], และ หาก this Skill's เหรียญ effect inflicts [Burst], มอบ 2 [Laceration]as well",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -100,7 +100,7 @@
                                     "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +20% more ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +20% ความเสียหายเพิ่มเติ่ม"
                                 }
                             ]
                         }
@@ -133,7 +133,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Slam\u200B</line-height>",
-                    "desc": "[WhenUse] If this unit has [HardenedBlood], และ if this Skill's เหรียญ effect inflicts [Burst], มอบ [Laceration] +1 ขั้นเป็นwell",
+                    "desc": "[WhenUse] หาก ยูนิทนี้ has [HardenedBlood], และ หาก this Skill's เหรียญ effect inflicts [Burst], มอบ [Laceration] +1 ขั้นเป็นwell",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -159,7 +159,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Aimless Wrath\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] If this unit has 3+ [HardenedBlood], และ if this Skill's เหรียญ effect inflicts [Burst], มอบ [Laceration] +1 ขั้นเป็นwell",
+                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] หาก ยูนิทนี้ has 3+ [HardenedBlood], และ หาก this Skill's เหรียญ effect inflicts [Burst], มอบ [Laceration] +1 ขั้นเป็นwell",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -227,7 +227,7 @@
                                     "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +20% more ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +20% ความเสียหายเพิ่มเติ่ม"
                                 }
                             ]
                         }
@@ -321,7 +321,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Strike\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], Base Power +1\n[WhenUse] When inflicting [Laceration]with this Skill, มอบ [Burst] equal to [HardenedBlood]บนselfเป็นwell\n[EndSkill] Consume all [HardenedBlood] และ [BloodyHand]",
+                    "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มตั้งต้น +1\n[WhenUse] When inflicting [Laceration]with this Skill, มอบ [Burst] เท่ากับ [HardenedBlood]บนselfเป็นwell\n[EndSkill] Consume all [HardenedBlood] และ [BloodyHand]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -350,7 +350,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
-                    "desc": "[WhenUse] Base Power +1 for every [HardenedBlood]บนself",
+                    "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ [HardenedBlood]บนself",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -391,7 +391,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Lash\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], ทำ +10% more ความเสียหาย",
+                    "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], ทำ +10% ความเสียหายเพิ่มเติ่ม",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -430,7 +430,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Strike\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], Base Power +1\n[WhenUse] When inflicting [Laceration]with this Skill, มอบ [Burst] equal to [HardenedBlood]บนselfเป็นwell\n[EndSkill] Consume all [HardenedBlood] และ [BloodyHand]",
+                    "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มตั้งต้น +1\n[WhenUse] When inflicting [Laceration]with this Skill, มอบ [Burst] เท่ากับ [HardenedBlood]บนselfเป็นwell\n[EndSkill] Consume all [HardenedBlood] และ [BloodyHand]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -459,7 +459,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
-                    "desc": "[WhenUse] Base Power +1 for every [HardenedBlood]บนself",
+                    "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ [HardenedBlood]บนself",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -526,7 +526,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Faded Patience\u200B</line-height>",
-                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; ได้รับ 1 [BloodyHand] for every 10 [BloodDinner] consumed\n[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1",
+                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; ได้รับ 1 [BloodyHand] ต่อทุกๆ 10 [BloodDinner] consumed\n[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -538,7 +538,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[EndSkill] If this unit failed to consume [BloodDinner] with this Skill, ได้รับ 10 [Laceration]and 1 [BloodyHand]."
+                                    "desc": "[EndSkill] หาก ยูนิทนี้ failed to consume [BloodDinner] with this Skill, ได้รับ 10 [Laceration]and 1 [BloodyHand]."
                                 }
                             ]
                         }
@@ -552,7 +552,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Endless Atonement\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 for every [HardenedBlood]บนself\n[DefeatDuel] เสีย 2 [BloodyHand]",
+                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ [HardenedBlood]บนself\n[DefeatDuel] เสีย 2 [BloodyHand]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -591,7 +591,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
-                    "desc": "[WhenUse] เมื่อมี 1+ [BloodyHand], Base Power +1\n[WhenUse] เมื่อมี 3+ [HardenedBlood], แต้มเหรียญ +1",
+                    "desc": "[WhenUse] เมื่อมี 1+ [BloodyHand], แต้มตั้งต้น +1\n[WhenUse] เมื่อมี 3+ [HardenedBlood], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -658,7 +658,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Faded Patience\u200B</line-height>",
-                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; ได้รับ 1 [BloodyHand] for every 10 [BloodDinner] consumed\n[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1",
+                    "desc": "[WhenUse] Consume up to 50 [BloodDinner]; ได้รับ 1 [BloodyHand] ต่อทุกๆ 10 [BloodDinner] consumed\n[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -670,7 +670,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[EndSkill] If this unit failed to consume [BloodDinner] with this Skill, ได้รับ 10 [Laceration]and 1 [BloodyHand]."
+                                    "desc": "[EndSkill] หาก ยูนิทนี้ failed to consume [BloodDinner] with this Skill, ได้รับ 10 [Laceration]and 1 [BloodyHand]."
                                 }
                             ]
                         }
@@ -684,7 +684,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Endless Atonement\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 for every [HardenedBlood]บนself\n[DefeatDuel] เสีย 2 [BloodyHand]",
+                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ [HardenedBlood]บนself\n[DefeatDuel] เสีย 2 [BloodyHand]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -723,7 +723,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
-                    "desc": "[WhenUse] เมื่อมี 1+ [BloodyHand], Base Power +1\n[WhenUse] เมื่อมี 3+ [HardenedBlood], แต้มเหรียญ +1",
+                    "desc": "[WhenUse] เมื่อมี 1+ [BloodyHand], แต้มตั้งต้น +1\n[WhenUse] เมื่อมี 3+ [HardenedBlood], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -764,7 +764,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Carve\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (สูงสุด 2)\n[WhenUse] ได้รับ 15 [Laceration], immediately trigger it อีกครั้ง, และ reduce [Laceration]Count ไป 1",
+                    "desc": "[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (สูงสุด 2)\n[WhenUse] ได้รับ 15 [Laceration], immediately trigger it อีกครั้ง, และ reduce [Laceration]Count ไป 1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -798,7 +798,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ [Laceration]and [Burst] equal to [HardenedBlood]บนself"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration]and [Burst] เท่ากับ [HardenedBlood]บนself"
                                 }
                             ]
                         },
@@ -861,7 +861,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Wild Jag\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (สูงสุด 2)\n[WhenUse] ได้รับ 15 [Laceration], immediately trigger it อีกครั้ง, และ reduce [Laceration]Count ไป 1",
+                    "desc": "[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (สูงสุด 2)\n[WhenUse] ได้รับ 15 [Laceration], immediately trigger it อีกครั้ง, และ reduce [Laceration]Count ไป 1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -895,7 +895,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ [Laceration]and [Burst] equal to [HardenedBlood]บนself"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration]and [Burst] เท่ากับ [HardenedBlood]บนself"
                                 }
                             ]
                         },
@@ -958,12 +958,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Join the Joyful Parade!\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (สูงสุด 3)\n[WhenUse] เมื่อมี less than 20 [BloodDinner], ได้รับ 20 [Laceration]and immediately trigger it อีกครั้ง, then reduce [Laceration]Count ไป 1\n[EndSkill] Consume 20 [BloodDinner]",
+                    "desc": "[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (สูงสุด 3)\n[WhenUse] เมื่อมี less than 20 [BloodDinner], ได้รับ 20 [Laceration]and immediately trigger it อีกครั้ง, then reduce [Laceration]Count ไป 1\n[EndSkill] Consume 20 [BloodDinner]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ 1 [HardenedBlood] for every 6 [Laceration]บนthe target (สูงสุด 2)"
+                                    "desc": "[OnSucceedAttack] ได้รับ 1 [HardenedBlood] ต่อทุกๆ 6 [Laceration]บนthe target (สูงสุด 2)"
                                 }
                             ]
                         },
@@ -1022,7 +1022,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ [Laceration]and [Burst] equal to [HardenedBlood]บนself"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration]and [Burst] เท่ากับ [HardenedBlood]บนself"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] ฟื้นฟู ([FestivalFever] x 4)% HP (สูงสุด 40%)"
@@ -1084,12 +1084,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Let's All Match Our Steps, Dance!\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (สูงสุด 3)\n[WhenUse] เมื่อมี less than 20 [BloodDinner], ได้รับ 20 [Laceration]and immediately trigger it อีกครั้ง, then reduce [Laceration]Count ไป 1\n[EndSkill] Consume 20 [BloodDinner]",
+                    "desc": "[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (สูงสุด 3)\n[WhenUse] เมื่อมี less than 20 [BloodDinner], ได้รับ 20 [Laceration]and immediately trigger it อีกครั้ง, then reduce [Laceration]Count ไป 1\n[EndSkill] Consume 20 [BloodDinner]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ 1 [HardenedBlood] for every 6 [Laceration]บนthe target (สูงสุด 2)"
+                                    "desc": "[OnSucceedAttack] ได้รับ 1 [HardenedBlood] ต่อทุกๆ 6 [Laceration]บนthe target (สูงสุด 2)"
                                 }
                             ]
                         },
@@ -1148,7 +1148,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ [Laceration]and [Burst] equal to [HardenedBlood]บนself"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration]and [Burst] เท่ากับ [HardenedBlood]บนself"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] ฟื้นฟู ([FestivalFever] x 4)% HP (สูงสุด 40%)"

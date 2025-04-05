@@ -5,7 +5,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Punching\u200B</line-height>",
+                    "name": "<line-height=120%>ต่อย\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -38,7 +38,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Kicking\u200B</line-height>",
+                    "name": "<line-height=120%>เตะ\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -71,14 +71,14 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Payback\u200B</line-height>",
+                    "name": "<line-height=120%>ล้างแค้น\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Target เสีย 5 SP"
+                                    "desc": "[OnSucceedAttack] เป้าหมายเสีย 5 ค่าสติ"
                                 }
                             ]
                         }
@@ -91,8 +91,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Domineer\u200B</line-height>",
-                    "desc": "[StartBattle] มอบ 1 [Enhancement] แก่พันธมิตรทุกคน\n[StartBattle] มอบ 2 [Reduction] to 2 enemies with the least SP",
+                    "name": "<line-height=120%>เหนือกว่า\u200B</line-height>",
+                    "desc": "[StartBattle] มอบ 1 [Enhancement] แก่พันธมิตรทุกคน\n[StartBattle] มอบ 2 [Reduction] แก่ศัตรู 2 คนที่มีค่าสติต่ำที่สุด",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -110,8 +110,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Make this Memorable\u200B</line-height>",
-                    "desc": "[StartBattle] ได้รับ 2 Test of the Big Brother. ได้รับ 5 [Binding] ในเทิร์นหน้า.",
+                    "name": "<line-height=120%>ทำให้ช่วงเวลานี้น่าจดจำ\u200B</line-height>",
+                    "desc": "[StartBattle] ได้รับ 2 [AaCePbBi] ได้รับ 5 [Binding] ในเทิร์นหน้า.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -129,13 +129,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Watch Your Back!\u200B</line-height>",
-                    "desc": "หากเป้าหมายมี less than 0 SP, แต้มเหรียญ +3",
+                    "name": "<line-height=120%>ดูหลังมรึงดีๆ\u200B</line-height>",
+                    "desc": "หากเป้าหมายมี ค่าสติต่ำกว่า 0, แต้มเหรียญ +3",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู 10 SPบนself"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 10 แก่ตัวเอง"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] มอบ 2 [Binding] และ 2 [Reduction] ในเทิร์นหน้า"
@@ -145,7 +145,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Target เสีย 20 SP"
+                                    "desc": "[OnSucceedAttack] เป้าหมายเสีย 20 ค่าสติ"
                                 }
                             ]
                         }
@@ -158,8 +158,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Assemble\u200B</line-height>",
-                    "desc": "[StartBattle] Summon 2 allies ในเทิร์นหน้า",
+                    "name": "<line-height=120%>รวมพล\u200B</line-height>",
+                    "desc": "[StartBattle] เรียกพันธมิตร 2 คนเพิ่มสู่สนาม ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -177,8 +177,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Swear Vengeance\u200B</line-height>",
-                    "desc": "[StartBattle] ได้รับ 2 Test of the Big Brother. ได้รับ 5 [Binding] และ 5 [AttackDmgUp] ในเทิร์นหน้า.",
+                    "name": "<line-height=120%>สาบานแด่ความแค้น\u200B</line-height>",
+                    "desc": "[StartBattle] ได้รับ 2 [AaCePbBi] ได้รับ 5 [Binding] และ 5 [AttackDmgUp] ในเทิร์นหน้า.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -196,8 +196,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>MY HAIR COUPOOOOOOOOOOONS!!!\u200B</line-height>",
-                    "desc": "If the main target has less than 0 SP, แต้มรวม +5",
+                    "name": "<line-height=120%>คูปองทำผมกรรรรรรรรรรรู!!!\u200B</line-height>",
+                    "desc": "หากเป้าหมายหลักมีค่าสติต่ำกว่า 0, แต้มรวม +5",
                     "coinlist": [
                         {
                             "coindescs": [

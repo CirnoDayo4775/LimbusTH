@@ -25,7 +25,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Gloomy Slap\u200B</line-height>",
-                    "desc": "[StartDuel] Target ฟื้นฟู 5 SP",
+                    "desc": "[StartDuel] Target ฟื้นฟู 5 ค่าสติ",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -47,7 +47,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Melty Eyeball\u200B</line-height>",
-                    "desc": "[WhenUse] Target เสีย 5 SP\nIf target’s ค่าสติ is below 0, +10% ความเสียหาย",
+                    "desc": "[WhenUse] เป้าหมายเสีย 5 SP\nหากค่าสติของเป้าหมาย ต่ำกว่า 0, +10% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -73,7 +73,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Gushing Gloom\u200B</line-height>",
-                    "desc": "[WhenUse] Target เสีย 5 SP\nTargets the enemy with the most [Sinking]",
+                    "desc": "[WhenUse] เป้าหมายเสีย 5 SP\nTargets the enemy with the most [Sinking]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -106,7 +106,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Eyeball Weight\u200B</line-height>",
-                    "desc": "[DefeatDuel] Cancel all skills\n[DefeatDuel] ได้รับ 3 [Vulnerable]\nIf the target is below 0 SP, +10% ความเสียหาย",
+                    "desc": "[DefeatDuel] Cancel all skills\n[DefeatDuel] ได้รับ 3 [Vulnerable]\nIf the target ต่ำกว่า 0 SP, +10% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -125,7 +125,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Melted Eyeball\u200B</line-height>",
-                    "desc": "[WhenUse] Target เสีย 5 SP\nIf target’s ค่าสติ is below 0, +10% ความเสียหาย",
+                    "desc": "[WhenUse] เป้าหมายเสีย 5 SP\nหากค่าสติของเป้าหมาย ต่ำกว่า 0, +10% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -144,7 +144,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Melted Eyeball\u200B</line-height>",
-                    "desc": "[WhenUse] Target เสีย 5 SP\nIf target’s ค่าสติ is below 0, +10% ความเสียหาย",
+                    "desc": "[WhenUse] เป้าหมายเสีย 5 SP\nหากค่าสติของเป้าหมาย ต่ำกว่า 0, +10% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -193,7 +193,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttackHead] มอบ 1 [PlusCoinValueDown] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -388,7 +388,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] ทำ HP ความเสียหาย equal to [Burst] Potency\nRemove all [Burst] from target"
+                                    "desc": "[OnSucceedAttackHead] ทำ HP ความเสียหาย เท่ากับ [Burst] Potency\nRemove all [Burst] from target"
                                 }
                             ]
                         }
@@ -475,13 +475,13 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Dāna\u200B</line-height>",
-                    "desc": "[WhenUse] มอบ 2 [Protection] to a random other ally",
+                    "desc": "[WhenUse] มอบ 2 [Protection] แก่พันธมิตรอื่น 1 คน แบบสุ่ม",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 3 ความเสียหาย Down ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [AttackDmgDown] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -495,13 +495,13 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Expound Sutras\u200B</line-height>",
-                    "desc": "[WhenUse] มอบ 2 [Enhancement] to a random other ally",
+                    "desc": "[WhenUse] มอบ 2 [Enhancement] แก่พันธมิตรอื่น 1 คน แบบสุ่ม",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 [Enhancement] to a random other ally ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Enhancement] แก่พันธมิตรอื่น 1 คน แบบสุ่ม ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -537,7 +537,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Prajñāpāramitā\u200B</line-height>",
-                    "desc": "[CantIdentify] Targets the unit with the most Karma\nทำ more ความเสียหาย basedบนเป้าหมาย’s Karma (+2% ต่อทุกๆ Count)\nหากเป้าหมายไม่มี Karma, -50% ความเสียหาย",
+                    "desc": "[CantIdentify] Targets the unit with the most Karma\nทำ ความเสียหายเพิ่มเติ่ม basedบนเป้าหมาย’s Karma (+2% ต่อทุกๆ Count)\nหากเป้าหมายไม่มี Karma, -50% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -556,7 +556,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Dhyāna\u200B</line-height>",
-                    "desc": "[WinDuel] Halve negative status effectsบนthis unit",
+                    "desc": "[WinDuel] Halve negative status effectsบนยูนิทนี้",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -575,7 +575,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Compulsory Offering\u200B</line-height>",
-                    "desc": "[DefeatDuel] มอบ 20 Karma to a random other ally ในเทิร์นหน้า",
+                    "desc": "[DefeatDuel] มอบ 20 Karma แก่พันธมิตรอื่น 1 คน แบบสุ่ม ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -594,7 +594,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Sluggard Waker\u200B</line-height>",
-                    "desc": "[DefeatDuel] มอบ 20 Karma to a random other ally ในเทิร์นหน้า",
+                    "desc": "[DefeatDuel] มอบ 20 Karma แก่พันธมิตรอื่น 1 คน แบบสุ่ม ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -661,7 +661,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "Inflict 3 [Vulnerable] ในเทิร์นหน้า"
+                                    "desc": "มอบ 3 [Vulnerable] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -691,7 +691,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] มอบ 1 ความเสียหาย Down ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttackHead] มอบ 1 [AttackDmgDown] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -749,7 +749,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttackHead] มอบ 1 [PlusCoinValueDown] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -768,7 +768,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 Plus เหรียญ Drop ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [PlusCoinValueDown] ในเทิร์นหน้า"
                                 }
                             ]
                         },
@@ -815,7 +815,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 1 ความเสียหาย Down ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [AttackDmgDown] ในเทิร์นหน้า"
                                 }
                             ]
                         }

@@ -24,7 +24,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Tear Up Wound\u200B</line-height>",
+                    "name": "<line-height=120%>แผลฉีกกระชาก\u200B</line-height>",
                     "desc": "[WinDuel] ฟื้นฟู 5 SP.\nทำ +5% ความเสียหาย ต่อทุกๆ [Laceration]บนเป้าหมาย",
                     "coinlist": [
                         {
@@ -57,46 +57,46 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Protect the Town!\u200B</line-height>",
-                    "desc": "[WhenUse] ได้รับ 5 Poise",
+                    "name": "<line-height=120%>ปกป้องเมืองของเรา!\u200B</line-height>",
+                    "desc": "[WhenUse] ได้รับ 5 [Breath]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 ค่าสติ"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 ค่าสติ"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 ค่าสติ"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 ค่าสติ"
                                 }
                             ]
                         }
@@ -109,13 +109,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Javelin\u200B</line-height>",
-                    "desc": "[WhenUse] ได้รับ 5 Poise และ +2 Poise Count",
+                    "name": "<line-height=120%>ปาหอก\u200B</line-height>",
+                    "desc": "[WhenUse] ได้รับ 5 [Breath] และ [Breath] +2 ขั้น",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 [Binding] และ 2 ความเสียหาย Down ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [Binding] และ 2 [AttackDmgDown] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -129,7 +129,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-                    "desc": "When attacked while this unit has Shield, ได้รับ 1 Offense Level Up ในเทิร์นหน้า",
+                    "desc": "เมื่อถูกโจมตีในขณะที่ยังมีโล่อยู่ ได้รับ 1 [AttackUp] ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -173,7 +173,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Carve Wound\u200B</line-height>",
+                    "name": "<line-height=120%>สลักแผล\u200B</line-height>",
                     "desc": "[WinDuel] ฟื้นฟู 5 SP.\nทำ +5% ความเสียหาย ต่อทุกๆ [Laceration]บนเป้าหมาย",
                     "coinlist": [
                         {
@@ -213,46 +213,46 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Protect the Town!\u200B</line-height>",
-                    "desc": "[WhenUse] ได้รับ 5 Poise",
+                    "name": "<line-height=120%>ปกป้องเมืองของเรา!\u200B</line-height>",
+                    "desc": "[WhenUse] ได้รับ 5 [Breath]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 ค่าสติ"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 ค่าสติ"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 ค่าสติ"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ [Breath] +1 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 SP"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 4 ค่าสติ"
                                 }
                             ]
                         }
@@ -265,8 +265,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Javelin\u200B</line-height>",
-                    "desc": "[WhenUse] ได้รับ 5 Poise และ +2 Poise Count",
+                    "name": "<line-height=120%>ปาหอก\u200B</line-height>",
+                    "desc": "[WhenUse] ได้รับ 5 [Breath] และ [Breath] +2 ขั้น",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -285,7 +285,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-                    "desc": "[OnSucceedEvade] ได้รับ 1 Offense Level Up ในเทิร์นหน้า (สูงสุด 3)",
+                    "desc": "[OnSucceedEvade] ได้รับ 1 [AttackUp] ในเทิร์นหน้า (สูงสุด 3)",
                     "coinlist": [
                         {
                             "coindescs": [

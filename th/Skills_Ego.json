@@ -265,7 +265,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] ฟื้นฟู 8 ค่าสติ for 4 allies with the least SP"
+                  "desc": "[EndSkill] ฟื้นฟู 8 ค่าสติ for 4 allies with the least ค่าสติ"
                 }
               ]
             }
@@ -280,7 +280,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] ฟื้นฟู 10 ค่าสติ for 4 allies with the least SP"
+                  "desc": "[EndSkill] ฟื้นฟู 10 ค่าสติ for 4 allies with the least ค่าสติ"
                 }
               ]
             }
@@ -295,7 +295,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] ฟื้นฟู 12 ค่าสติ for 4 allies with the least SP"
+                  "desc": "[EndSkill] ฟื้นฟู 12 ค่าสติ for 4 allies with the least ค่าสติ"
                 }
               ]
             }
@@ -318,7 +318,7 @@
                   "desc": "[EndSkill] ฟื้นฟู 10 ค่าสติ for all allies"
                 },
                 {
-                  "desc": "[EndSkill] ฟื้นฟู all allies for 10% ของ HP สูงสุด"
+                  "desc": "[EndSkill] ฟื้นฟู all allies for 10% ของ HPสูงสุด"
                 }
               ]
             }
@@ -336,7 +336,7 @@
                   "desc": "[EndSkill] ฟื้นฟู 15 ค่าสติ for all allies"
                 },
                 {
-                  "desc": "[EndSkill] ฟื้นฟู all allies for 15% ของ HP สูงสุด"
+                  "desc": "[EndSkill] ฟื้นฟู all allies for 15% ของ HPสูงสุด"
                 }
               ]
             }
@@ -354,7 +354,7 @@
                   "desc": "[EndSkill] ฟื้นฟู 15 ค่าสติ for all allies"
                 },
                 {
-                  "desc": "[EndSkill] ฟื้นฟู all allies for 15% ของ HP สูงสุด"
+                  "desc": "[EndSkill] ฟื้นฟู all allies for 15% ของ HPสูงสุด"
                 },
                 {
                   "desc": "[EndSkillHead] ฟื้นฟู 10 ค่าสติ for all allies"
@@ -599,7 +599,7 @@
                   "desc": "[OnSucceedAttack] มอบ 6 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟู HP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -617,7 +617,7 @@
                   "desc": "[OnSucceedAttack] มอบ 8 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -1080,7 +1080,7 @@
           "level": 1,
           "name": "<line-height=120%>Pursuance\u200B</line-height>",
           "abName": "Heavenly Executor’s Scribe",
-          "desc": "[EndSkill] ฟื้นฟู 2 other allies with the least HP for 15% ของ HP สูงสุด",
+          "desc": "[EndSkill] ฟื้นฟู 2 other allies with the least HP for 15% ของ HPสูงสุด",
           "coinlist": [
             {
               "coindescs": [
@@ -1095,7 +1095,7 @@
           "level": 3,
           "name": "<line-height=120%>Pursuance\u200B</line-height>",
           "abName": "Heavenly Executor’s Scribe",
-          "desc": "[EndSkill] ฟื้นฟู 2 other allies with the least HP for 30% ของ HP สูงสุด; มอบ 2 [Protection] ในเทิร์นหน้า",
+          "desc": "[EndSkill] ฟื้นฟู 2 other allies with the least HP for 30% ของ HPสูงสุด; มอบ 2 [Protection] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -1165,7 +1165,7 @@
           "level": 3,
           "name": "<line-height=120%>Land of Illusion\u200B</line-height>",
           "abName": "Hong Lu",
-          "desc": "[EndSkill] ฟื้นฟู 15 SP",
+          "desc": "[EndSkill] ฟื้นฟู 15 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -1180,7 +1180,7 @@
           "level": 4,
           "name": "<line-height=120%>Land of Illusion\u200B</line-height>",
           "abName": "Hong Lu",
-          "desc": "[EndSkill] ฟื้นฟู 15 SP",
+          "desc": "[EndSkill] ฟื้นฟู 15 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -1188,7 +1188,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] ในเทิร์นหน้า: -2 ค่าสติ Loss Efficiency แก่พันธมิตรทุกคน; -2 to amount of ค่าสติ lost from E.G.O use"
+                  "desc": "[EndSkill] ในเทิร์นหน้า: -2 [MentalSystemResultDecrease_Typo] แก่พันธมิตรทุกคน; -2 to amount of ค่าสติ lost from E.G.O use"
                 }
               ]
             }
@@ -1211,7 +1211,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Disarming]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 2 [DefenseDown]"
                 }
               ]
             }
@@ -1229,7 +1229,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Disarming]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 4 [DefenseDown]"
                 }
               ]
             }
@@ -1247,7 +1247,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Disarming]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 5 [DefenseDown]"
                 }
               ]
             }
@@ -1270,7 +1270,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Disarming]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 2 [DefenseDown]"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] มอบ 4 [Binding] ในเทิร์นหน้า"
@@ -1291,7 +1291,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Disarming]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 4 [DefenseDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 4 [Binding] ในเทิร์นหน้า"
@@ -1312,7 +1312,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Disarming]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 5 [DefenseDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 4 [Binding] ในเทิร์นหน้า"
@@ -1559,7 +1559,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 4 [AttackDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 [Paralysis]"
@@ -1577,7 +1577,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 7 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 7 [AttackDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 3 [Paralysis]"
@@ -1595,7 +1595,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 10 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 10 [AttackDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 3 [Paralysis]"
@@ -1621,7 +1621,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 4 [AttackDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 [Paralysis]"
@@ -1642,7 +1642,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 7 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 7 [AttackDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 3 [Paralysis]"
@@ -1663,7 +1663,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 10 Offense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 10 [AttackDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 5 [Paralysis]"
@@ -1689,7 +1689,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Inflict [Combustion] ไป half of Wrath Reson."
+                  "desc": "มอบ [Combustion] ไป half of Wrath Reson."
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 3 [Combustion]บน3 random enemies"
@@ -1749,7 +1749,7 @@
           "level": 1,
           "name": "<line-height=120%>Ardor Blossom Star\u200B</line-height>",
           "abName": "Ardor Blossom Moth",
-          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] เสีย HP ไป 10% ของ HP สูงสุด",
+          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] เสีย HP ไป 10% ของ HPสูงสุด",
           "coinlist": [
             {
               "coindescs": [
@@ -1764,7 +1764,7 @@
           "level": 3,
           "name": "<line-height=120%>Ardor Blossom Star\u200B</line-height>",
           "abName": "Ardor Blossom Moth",
-          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] เสีย HP ไป 10% ของ HP สูงสุด",
+          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] เสีย HP ไป 10% ของ HPสูงสุด",
           "coinlist": [
             {
               "coindescs": [
@@ -1782,7 +1782,7 @@
           "level": 4,
           "name": "<line-height=120%>Ardor Blossom Star\u200B</line-height>",
           "abName": "Ardor Blossom Moth",
-          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] เสีย HP ไป 10% ของ HP สูงสุด",
+          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] เสีย HP ไป 10% ของ HPสูงสุด",
           "coinlist": [
             {
               "coindescs": [
@@ -1846,7 +1846,7 @@
                   "desc": "[OnSucceedAttack] ได้รับ +2 ค่าสติ ฟื้นฟู Efficiency ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ -2 ค่าสติ Loss Efficiency ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ -2 [MentalSystemResultDecrease_Typo] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1884,7 +1884,7 @@
                   "desc": "[OnSucceedAttack] มอบ 6 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Wrath Fragility ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 3 [CrimsonTakeDamageUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1922,7 +1922,7 @@
                   "desc": "[OnSucceedAttack] มอบ 6 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Wrath Fragility ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 3 [CrimsonTakeDamageUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -2063,7 +2063,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ 6 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เสีย 10 SP"
+                  "desc": "[OnSucceedAttack] เสีย 10 ค่าสติ"
                 }
               ]
             }
@@ -2081,10 +2081,10 @@
                   "desc": "[OnSucceedAttackHead] มอบ 12 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] เสีย 10 SP"
+                  "desc": "[OnSucceedAttackHead] เสีย 10 ค่าสติ"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] ฟื้นฟู 10 SP"
+                  "desc": "[OnSucceedAttackTail] ฟื้นฟู 10 ค่าสติ"
                 }
               ]
             }
@@ -2375,7 +2375,7 @@
           "level": 1,
           "name": "<line-height=120%>Ya Śūnyatā Tad Rūpam\u200B</line-height>",
           "abName": "My Form Empties",
-          "desc": "[EndSkill] ฟื้นฟู 12 SP",
+          "desc": "[EndSkill] ฟื้นฟู 12 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -2875,7 +2875,7 @@
                   "desc": "[EndSkill] ได้รับ [Charge] +7 ขั้น"
                 },
                 {
-                  "desc": "[EndSkillHead] มอบ 1 Envy Power Up และ 1 [Agility] to 2 random allies ในเทิร์นหน้า, และ this unit ได้รับs [Charge] +3 ขั้น"
+                  "desc": "[EndSkillHead] มอบ 1 Envy Power Up และ 1 [Agility] to 2 random allies ในเทิร์นหน้า, และ ยูนิทนี้ ได้รับs [Charge] +3 ขั้น"
                 }
               ]
             }
@@ -2955,7 +2955,7 @@
           "level": 1,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (Up to 25%)",
+          "desc": "[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (มากสุด 25%)",
           "coinlist": [
             {
               "coindescs": [
@@ -2970,7 +2970,7 @@
           "level": 3,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (Up to 50%)",
+          "desc": "[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (มากสุด 50%)",
           "coinlist": [
             {
               "coindescs": [
@@ -2990,7 +2990,7 @@
           "level": 1,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (Up to 25%)\nThenจ่าย Lust resources ไป (Lust Reson.); further boost ความเสียหาย ไป 5% ต่อทุกๆ resource spent",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (มากสุด 25%)\nThenจ่าย Lust resources ไป (Lust Reson.); further boost ความเสียหาย ไป 5% ต่อทุกๆ resource spent",
           "coinlist": [
             {
               "coindescs": [
@@ -3005,7 +3005,7 @@
           "level": 3,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (Up to 50%)\nThenจ่าย Lust resources ไป (Lust Reson.); further boost ความเสียหาย ไป 10% ต่อทุกๆ resource spent",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (มากสุด 50%)\nThenจ่าย Lust resources ไป (Lust Reson.); further boost ความเสียหาย ไป 10% ต่อทุกๆ resource spent",
           "coinlist": [
             {
               "coindescs": [
@@ -3030,10 +3030,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target is an ally, ฟื้นฟู them for 5% of user’s Max HP"
+                  "desc": "[OnSucceedAttackHead] หาก target is an ally, ฟื้นฟู them for 5% of user’s Max HP"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ 7 [Combustion]; if target is an ally, มอบ 2 [Agility] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackTail] มอบ 7 [Combustion]; หาก target is an ally, มอบ 2 [Agility] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -3048,10 +3048,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target is an ally, ฟื้นฟู them for 10% of user’s Max HP"
+                  "desc": "[OnSucceedAttackHead] หาก target is an ally, ฟื้นฟู them for 10% of user’s Max HP"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ 7 [Combustion]; if target is an ally, มอบ 2 [Agility] และ 1 <sprite name=\"ได้รับSinStockAdder\"><color=#f8c200><u><link=\"ได้รับSinStockAdder\">E.G.O Resource Amp</color></link></u> ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackTail] มอบ 7 [Combustion]; หาก target is an ally, มอบ 2 [Agility] และ 1 <sprite name=\"ได้รับSinStockAdder\"><color=#f8c200><u><link=\"ได้รับSinStockAdder\">E.G.O Resource Amp</color></link></u> ในเทิร์นหน้า"
                 }
               ]
             }
@@ -3116,7 +3116,7 @@
           "level": 1,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ more ความเสียหาย (สูงสุด 50%)",
+          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3131,7 +3131,7 @@
           "level": 3,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ more ความเสียหาย (สูงสุด <style=\"highlight\">75</style>%)",
+          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">75</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3149,7 +3149,7 @@
           "level": 4,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ more ความเสียหาย (สูงสุด 75%)<style=\"highlight\"></style>",
+          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด 75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3172,7 +3172,7 @@
           "level": 1,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ more ความเสียหาย (สูงสุด 50%)",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3190,7 +3190,7 @@
           "level": 3,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ more ความเสียหาย (สูงสุด <style=\"highlight\">75</style>%)",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">75</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3211,7 +3211,7 @@
           "level": 4,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ more ความเสียหาย (สูงสุด 75%)<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด 75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3318,7 +3318,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนเป้าหมาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count ไป 3; if the [VibrationExplosion] Staggered the target, มอบ [Combustion] +1 ขั้นบน5 random enemies"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then ลดขั้น [Vibration] ไป 3; หาก the [VibrationExplosion] Staggered the target, มอบ [Combustion] +1 ขั้นบน5 random enemies"
                 }
               ]
             }
@@ -3342,7 +3342,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Combustion]บน5 random enemies"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count ไป 2; if the [VibrationExplosion] Staggered the target, มอบ [Combustion] +2 ขั้นบน5 random enemies"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then ลดขั้น [Vibration] ไป 2; หาก the [VibrationExplosion] Staggered the target, มอบ [Combustion] +2 ขั้นบน5 random enemies"
                 }
               ]
             }
@@ -3366,7 +3366,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Combustion]บน5 random enemies"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count ไป 2; if the [VibrationExplosion] Staggered the target, มอบ [Combustion] +3 ขั้นบน5 random enemies"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then ลดขั้น [Vibration] ไป 2; หาก the [VibrationExplosion] Staggered the target, มอบ [Combustion] +3 ขั้นบน5 random enemies"
                 }
               ]
             }
@@ -3392,7 +3392,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนเป้าหมาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count ไป 3; if the [VibrationExplosion] Staggered the target, มอบ [Combustion] +2 ขั้นบน5 random units"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then ลดขั้น [Vibration] ไป 3; หาก the [VibrationExplosion] Staggered the target, มอบ [Combustion] +2 ขั้นบน5 random units"
                 }
               ]
             }
@@ -3416,7 +3416,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Combustion]บน5 random units"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count ไป 2; if the [VibrationExplosion] Staggered the target, มอบ [Combustion] +3 ขั้นบน5 random units"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then ลดขั้น [Vibration] ไป 2; หาก the [VibrationExplosion] Staggered the target, มอบ [Combustion] +3 ขั้นบน5 random units"
                 }
               ]
             }
@@ -3440,7 +3440,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Combustion]บน5 random units"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count ไป 2; if the [VibrationExplosion] Staggered the target, มอบ [Combustion] +4 ขั้นบน5 random units"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then ลดขั้น [Vibration] ไป 2; หาก the [VibrationExplosion] Staggered the target, มอบ [Combustion] +4 ขั้นบน5 random units"
                 }
               ]
             }
@@ -3496,7 +3496,7 @@
           "level": 1,
           "name": "<line-height=120%>Capote\u200B</line-height>",
           "abName": "Brazen Bull",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] มอบ 1 Wrath Fragility, และ 1 Wrath DMG Up to all units ในเทิร์นหน้า",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] มอบ 1 [CrimsonTakeDamageUp], และ 1 Wrath DMG Up to all units ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -3517,7 +3517,7 @@
           "level": 3,
           "name": "<line-height=120%>Capote\u200B</line-height>",
           "abName": "Brazen Bull",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] มอบ 1 Wrath Fragility, และ 1 Wrath DMG Up to all units ในเทิร์นหน้า",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] มอบ 1 [CrimsonTakeDamageUp], และ 1 Wrath DMG Up to all units ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -3528,7 +3528,7 @@
                   "desc": "[OnSucceedAttack] ทำ 15 ความเสียหายค่าสติ"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count ไป 2; if the [VibrationExplosion] Staggered the target, มอบ [Combustion] +2 ขั้นบน3 random units"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then ลดขั้น [Vibration] ไป 2; หาก the [VibrationExplosion] Staggered the target, มอบ [Combustion] +2 ขั้นบน3 random units"
                 }
               ]
             }
@@ -3543,7 +3543,7 @@
           "level": 1,
           "name": "<line-height=120%>Sunshower\u200B</line-height>",
           "abName": "Drifting Fox",
-          "desc": "[BeforeAttack] ได้รับ +4 Poise Count",
+          "desc": "[BeforeAttack] ได้รับ [Breath] +4 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -3561,7 +3561,7 @@
           "level": 3,
           "name": "<line-height=120%>Sunshower\u200B</line-height>",
           "abName": "Drifting Fox",
-          "desc": "[BeforeAttack] ได้รับ +6 Poise Count",
+          "desc": "[BeforeAttack] ได้รับ [Breath] +6 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -3582,7 +3582,7 @@
           "level": 4,
           "name": "<line-height=120%>Sunshower\u200B</line-height>",
           "abName": "Drifting Fox",
-          "desc": "[BeforeAttack] ได้รับ +7 Poise Count",
+          "desc": "[BeforeAttack] ได้รับ [Breath] +7 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -3608,7 +3608,7 @@
           "level": 1,
           "name": "<line-height=120%>Sunshower\u200B</line-height>",
           "abName": "Drifting Fox",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายที่มีHP ต่ำที่สุด\n[BeforeAttack] ได้รับ +5 Poise Count",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายที่มีHP ต่ำที่สุด\n[BeforeAttack] ได้รับ [Breath] +5 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -3626,7 +3626,7 @@
           "level": 3,
           "name": "<line-height=120%>Sunshower\u200B</line-height>",
           "abName": "Drifting Fox",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายที่มีHP ต่ำที่สุด\n[BeforeAttack] ได้รับ +7 Poise Count",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายที่มีHP ต่ำที่สุด\n[BeforeAttack] ได้รับ [Breath] +7 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -3650,7 +3650,7 @@
           "level": 4,
           "name": "<line-height=120%>Sunshower\u200B</line-height>",
           "abName": "Drifting Fox",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายที่มีHP ต่ำที่สุด\n[BeforeAttack] ได้รับ +7 Poise Count",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายที่มีHP ต่ำที่สุด\n[BeforeAttack] ได้รับ [Breath] +7 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -3779,7 +3779,7 @@
           "level": 1,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (สูงสุด 5)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
+          "desc": "[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of missing HP (สูงสุด 5)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -3794,7 +3794,7 @@
           "level": 3,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
+          "desc": "[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of missing HP (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -3814,7 +3814,7 @@
           "level": 1,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (สูงสุด 5)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of missing HP (สูงสุด 5)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -3822,7 +3822,7 @@
                   "desc": "[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (Charge Count * 1.5)% ของความเสียหายที่ทำไป (สูงสุด 30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] After the attack, เสีย 10% ของ HP สูงสุด to ได้รับ [Charge] +7 ขั้น"
+                  "desc": "[OnSucceedAttackTail] After the attack, เสีย 10% ของ HPสูงสุด to ได้รับ [Charge] +7 ขั้น"
                 }
               ]
             }
@@ -3832,7 +3832,7 @@
           "level": 3,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of missing HP (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -3840,7 +3840,7 @@
                   "desc": "[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (Charge Count * 2.5)% ของความเสียหายที่ทำไป (สูงสุด 50%)"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] After the attack, เสีย 10% ของ HP สูงสุด to ได้รับ [Charge] +0 ขั้น"
+                  "desc": "[OnSucceedAttackTail] After the attack, เสีย 10% ของ HPสูงสุด to ได้รับ [Charge] +0 ขั้น"
                 }
               ]
             }
@@ -3850,7 +3850,7 @@
           "level": 4,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of missing HP (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -3861,7 +3861,7 @@
                   "desc": "[EndSkill]จ่าย all[Charge] Count"
                 },
                 {
-                  "desc": "[EndSkillTail] เสีย HP ไป 10% ของ HP สูงสุด to ได้รับ [Charge] +0 ขั้น"
+                  "desc": "[EndSkillTail] เสีย HP ไป 10% ของ HPสูงสุด to ได้รับ [Charge] +0 ขั้น"
                 }
               ]
             }
@@ -3876,7 +3876,7 @@
           "level": 1,
           "name": "<line-height=120%>Sunshower\u200B</line-height>",
           "abName": "Drifting Fox",
-          "desc": "[BeforeAttack] มอบ 1 Sloth Power Up, 1 Sloth DMG Up, และ 2 [Protection] แก่พันธมิตรทุกคน this turn และ ในเทิร์นหน้า",
+          "desc": "[BeforeAttack] มอบ 1 Sloth Power Up, 1 Sloth DMG Up, และ 2 [Protection] แก่พันธมิตรทุกคน ในเทิร์นนี้ และ ในเทิร์นหน้า",
           "coinlist": [
             {}
           ]
@@ -3885,12 +3885,12 @@
           "level": 3,
           "name": "<line-height=120%>Sunshower\u200B</line-height>",
           "abName": "Drifting Fox",
-          "desc": "[BeforeAttack] มอบ 1 Sloth Power Up, 2 Sloth DMG Up, และ 3 [Protection] แก่พันธมิตรทุกคน this turn และ ในเทิร์นหน้า",
+          "desc": "[BeforeAttack] มอบ 1 Sloth Power Up, 2 Sloth DMG Up, และ 3 [Protection] แก่พันธมิตรทุกคน ในเทิร์นนี้ และ ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟู 15 SP"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟู 15 ค่าสติ"
                 }
               ]
             }
@@ -3905,12 +3905,12 @@
           "level": 1,
           "name": "<line-height=120%>Sunshower\u200B</line-height>",
           "abName": "Drifting Fox",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ 1 Sloth Power Up และ 1 Sloth DMG Up this turn และ the next 2 turns",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ 1 Sloth Power Up และ 1 Sloth DMG Up ในเทิร์นนี้ และ the next 2 turns",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Sloth Fragility และ 1 [PenetrateTakeDamageUp] this turn และ ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 1 Sloth Fragility และ 1 [PenetrateTakeDamageUp] ในเทิร์นนี้ และ ในเทิร์นหน้า"
                 }
               ]
             }
@@ -3920,12 +3920,12 @@
           "level": 3,
           "name": "<line-height=120%>Sunshower\u200B</line-height>",
           "abName": "Drifting Fox",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ 2 Sloth Power Up และ 2 Sloth DMG Up this turn และ the next 2 turns",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ 2 Sloth Power Up และ 2 Sloth DMG Up ในเทิร์นนี้ และ the next 2 turns",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 Sloth Fragility และ 2 [PenetrateTakeDamageUp] this turn และ ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 2 Sloth Fragility และ 2 [PenetrateTakeDamageUp] ในเทิร์นนี้ และ ในเทิร์นหน้า"
                 }
               ]
             }
@@ -3948,7 +3948,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], มอบ 1 [PlusCoinValueDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -3966,10 +3966,10 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], มอบ 1 [PlusCoinValueDown] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target's Speed is slower than user's, มอบ 2 [SlashTakeDamageUp] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หาก target's Speed is slower than user's, มอบ 2 [SlashTakeDamageUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -3987,10 +3987,10 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], มอบ 1 [PlusCoinValueDown] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target's Speed is slower than user's, มอบ 2 [SlashTakeDamageUp] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หาก target's Speed is slower than user's, มอบ 2 [SlashTakeDamageUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -4013,7 +4013,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], มอบ 2 Plus เหรียญ Drop ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], มอบ 2 [PlusCoinValueDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -4031,10 +4031,10 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], มอบ 2 Plus เหรียญ Drop ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], มอบ 2 [PlusCoinValueDown] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target's Speed is slower than user's, มอบ 1-3 [SlashTakeDamageUp] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หาก target's Speed is slower than user's, มอบ 1-3 [SlashTakeDamageUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -4054,7 +4054,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +20% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +20% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             }
@@ -4069,10 +4069,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +20% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +20% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this skill staggers or defeats a target, ฟื้นฟูผู้ใช้และ the ally with the least HP ไป 10% ของ HP สูงสุด"
+                  "desc": "[OnSucceedAttack] หาก this skill staggers or defeats a target, ฟื้นฟูผู้ใช้และ the ally with the least HP ไป 10% ของ HPสูงสุด"
                 }
               ]
             }
@@ -4087,10 +4087,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +40% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +40% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this skill staggers or defeats a target, ฟื้นฟูผู้ใช้และ the ally with the least HP ไป 10% ของ HP สูงสุด"
+                  "desc": "[OnSucceedAttack] หาก this skill staggers or defeats a target, ฟื้นฟูผู้ใช้และ the ally with the least HP ไป 10% ของ HPสูงสุด"
                 }
               ]
             }
@@ -4110,7 +4110,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +30% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             }
@@ -4125,10 +4125,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +30% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this skill staggers or defeats a target, ฟื้นฟูผู้ใช้และ the ally with the least HP ไป 10% ของ HP สูงสุด"
+                  "desc": "[OnSucceedAttack] หาก this skill staggers or defeats a target, ฟื้นฟูผู้ใช้และ the ally with the least HP ไป 10% ของ HPสูงสุด"
                 }
               ]
             }
@@ -4143,10 +4143,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +50% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +50% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this skill staggers or defeats a target, ฟื้นฟูผู้ใช้และ the ally with the least HP ไป 10% ของ HP สูงสุด"
+                  "desc": "[OnSucceedAttack] หาก this skill staggers or defeats a target, ฟื้นฟูผู้ใช้และ the ally with the least HP ไป 10% ของ HPสูงสุด"
                 }
               ]
             }
@@ -4169,7 +4169,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Reduction] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[EndSkill] ฟื้นฟู 12 ค่าสติ for 4 other allies with the least SP"
+                  "desc": "[EndSkill] ฟื้นฟู 12 ค่าสติ for 4 other allies with the least ค่าสติ"
                 }
               ]
             }
@@ -4187,7 +4187,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Reduction] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[EndSkill] ฟื้นฟู 17 ค่าสติ for 4 other allies with the least SP"
+                  "desc": "[EndSkill] ฟื้นฟู 17 ค่าสติ for 4 other allies with the least ค่าสติ"
                 }
               ]
             }
@@ -4205,7 +4205,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Reduction] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[EndSkill] ฟื้นฟู 25 ค่าสติ for 4 other allies with the least SP"
+                  "desc": "[EndSkill] ฟื้นฟู 25 ค่าสติ for 4 other allies with the least ค่าสติ"
                 }
               ]
             }
@@ -4225,10 +4225,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Defense Level Down to 1 random other ally"
+                  "desc": "[OnSucceedAttack] มอบ 3 [DefenseDown] to 1 random other ally"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Defense Level Up ในเทิร์นหน้า."
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [DefenseUp] ในเทิร์นหน้า."
                 },
                 {
                   "desc": "[OnSucceedAttack] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า."
@@ -4246,16 +4246,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Defense Level Down to 1 random other ally"
+                  "desc": "[OnSucceedAttack] มอบ 3 [DefenseDown] to 1 random other ally"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Defense Level Up ในเทิร์นหน้า."
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [DefenseUp] ในเทิร์นหน้า."
                 },
                 {
                   "desc": "[OnSucceedAttack] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า."
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] ฟื้นฟู 4 SPบนself"
+                  "desc": "[OnSucceedAttackTail] ฟื้นฟู 4 แก่ตัวเอง"
                 }
               ]
             }
@@ -4270,16 +4270,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Defense Level Down to 1 random other ally"
+                  "desc": "[OnSucceedAttack] มอบ 3 [DefenseDown] to 1 random other ally"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 2 Defense Level Up ในเทิร์นหน้า."
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [DefenseUp] ในเทิร์นหน้า."
                 },
                 {
                   "desc": "[OnSucceedAttack] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า."
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] ฟื้นฟู 4 SPบนself"
+                  "desc": "[OnSucceedAttackTail] ฟื้นฟู 4 แก่ตัวเอง"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] มอบ 1 [Vulnerable]"

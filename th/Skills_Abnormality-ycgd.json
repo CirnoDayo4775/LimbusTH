@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tail Whisk\u200B</line-height>",
-          "desc": "[WinDuel] หากเป้าหมายมี [Combustion], Base Power +2",
+          "desc": "[WinDuel] หากเป้าหมายมี [Combustion], แต้มตั้งต้น +2",
           "coinlist": [
             {
               "coindescs": [
@@ -121,7 +121,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Snap At\u200B</line-height>",
-          "desc": "[WinDuel] หากเป้าหมายมี [Sinking], Base Power +2",
+          "desc": "[WinDuel] หากเป้าหมายมี [Sinking], แต้มตั้งต้น +2",
           "coinlist": [
             {
               "coindescs": [
@@ -249,12 +249,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Slay\u200B</line-height>",
-          "desc": "[WinDuel] ได้รับ +1 [Breath] Count",
+          "desc": "[WinDuel] ได้รับ [Breath] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] และ +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] และ [Breath] +1 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
@@ -281,12 +281,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Overthrow\u200B</line-height>",
-          "desc": "[WinDuel] ได้รับ +3 [Breath] Count",
+          "desc": "[WinDuel] ได้รับ [Breath] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 3 [Breath] และ +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ 3 [Breath] และ [Breath] +1 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
@@ -326,7 +326,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 50 Shield\n[WhenUse] If the Shield isn't fully depleted, แต้มปะทะ +5",
+          "desc": "[StartBattle] ได้รับ 50 โล่\n[WhenUse] หาก the โล่ isn't fully depleted, แต้มปะทะ +5",
           "coinlist": [
             {
               "coindescs": [
@@ -338,7 +338,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+100% ความเสียหายบนCritical Hit"
+                  "desc": "+100% ความเสียหายเมื่อติดคริ"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 10 [Laceration]and [Laceration] +2 ขั้น"
@@ -348,7 +348,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value ไป Atk Weight และ มอบ itเป็น ความเสียหายตรง."
+                  "desc": "[OnSucceedAttack] หาก the โล่ isn't fully depleted, divide [Grudge] value ไป Atk Weight และ มอบ itเป็น ความเสียหายตรง."
                 }
               ]
             }
@@ -400,7 +400,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 200 Shield\n[WhenUse] ได้รับ +3 [Breath] Count\n[WhenUse] If the Shield isn't fully depleted, แต้มปะทะ +10",
+          "desc": "[StartBattle] ได้รับ 200 โล่\n[WhenUse] ได้รับ [Breath] +3 ขั้น\n[WhenUse] หาก the โล่ isn't fully depleted, แต้มปะทะ +10",
           "coinlist": [
             {
               "coindescs": [
@@ -412,7 +412,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+100% ความเสียหายบนCritical Hit"
+                  "desc": "+100% ความเสียหายเมื่อติดคริ"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 5 [Paralysis] ในเทิร์นหน้า"
@@ -425,7 +425,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value ไป Atk Weight และ มอบ itเป็น ความเสียหายตรง."
+                  "desc": "[OnSucceedAttack] หาก the โล่ isn't fully depleted, divide [Grudge] value ไป Atk Weight และ มอบ itเป็น ความเสียหายตรง."
                 }
               ]
             }
@@ -458,14 +458,14 @@
         {
           "level": 1,
           "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-          "desc": "[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] ฟื้นฟู HP equal to [Grudge] value",
+          "desc": "[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] ฟื้นฟู HP เท่ากับ [Grudge] value",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  ความเสียหายตรง equal to [Grudge] value."
+                  "desc": "[OnSucceedAttack] ทำ  ความเสียหายตรง เท่ากับ [Grudge] value."
                 }
               ]
             }

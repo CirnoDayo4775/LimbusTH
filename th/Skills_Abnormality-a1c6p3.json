@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hewing\u200B</line-height>",
-          "desc": "[WinDuel] หากเป้าหมายมี [Combustion], Base Power +2",
+          "desc": "[WinDuel] หากเป้าหมายมี [Combustion], แต้มตั้งต้น +2",
           "coinlist": [
             {
               "coindescs": [
@@ -58,7 +58,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Erupting Wrath\u200B</line-height>",
-          "desc": "[WhenUse] แต้มเหรียญ +1 for every 5 [Combustion]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] หากเป้าหมายมี 9+ [Combustion], this Skill ได้รับs Atk Weight +1",
+          "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Combustion]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] หากเป้าหมายมี 9+ [Combustion], this Skill ได้รับs Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
@@ -197,7 +197,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 4+ [Laceration], the next เหรียญ ทำ s +20% more ความเสียหาย"
+                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 4+ [Laceration], the next เหรียญ ทำ s +20% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             },
@@ -218,7 +218,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bodysack\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration]บนเป้าหมาย (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 for every negative effectบนเป้าหมาย (สูงสุด 2)\n[DefeatDuel] ได้รับ 20 [DefenseDown]\n[DefeatDuel] ได้รับ 1 Fettered Woe",
+          "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Laceration]บนเป้าหมาย (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ negative effectบนเป้าหมาย (สูงสุด 2)\n[DefeatDuel] ได้รับ 20 [DefenseDown]\n[DefeatDuel] ได้รับ 1 Fettered Woe",
           "coinlist": [
             {
               "coindescs": [
@@ -226,7 +226,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [DefenseDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 8+ [Laceration], the last เหรียญ ทำ s +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 8+ [Laceration], the last เหรียญ ทำ s +30% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             },
@@ -236,7 +236,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [DefenseDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 8+ [Laceration], the last เหรียญ ทำ s +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 8+ [Laceration], the last เหรียญ ทำ s +30% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             },
@@ -246,14 +246,14 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [DefenseDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 8+ [Laceration], the last เหรียญ ทำ s +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 8+ [Laceration], the last เหรียญ ทำ s +30% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this Skill flips all Heads, มอบ 2 [Vulnerable] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หาก this Skill flips all Heads, มอบ 2 [Vulnerable] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -267,7 +267,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Lunacy of the Frenzied Wolf\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration]บนเป้าหมาย (สูงสุด 4)\n[WhenUse] แต้มปะทะ +1 for every negative effectบนเป้าหมาย (สูงสุด 2)\n[DefeatDuel] หากเป้าหมายมี [AaCfPcBg], raise this unit's Stagger Threshold ไป 100 ในเทิร์นหน้า. If this unit does not have a Stagger threshold, create a new Stagger threshold at 0.",
+          "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Laceration]บนเป้าหมาย (สูงสุด 4)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ negative effectบนเป้าหมาย (สูงสุด 2)\n[DefeatDuel] หากเป้าหมายมี [AaCfPcBg], raise ยูนิทนี้'s Stagger Threshold ไป 100 ในเทิร์นหน้า. หาก ยูนิทนี้ ไม่มี a Stagger threshold, create a new Stagger threshold at 0.",
           "coinlist": [
             {
               "coindescs": [
@@ -293,7 +293,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If every เหรียญ of this Skill hits, reuse this เหรียญ (1 time max)"
+                  "desc": "[OnSucceedAttack] หาก every เหรียญ of this Skill hits, reuse this เหรียญ (1 time max)"
                 }
               ]
             }
@@ -402,7 +402,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น"
                 }
               ]
             },
@@ -426,7 +426,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Overwhelm Interloper\u200B</line-height>",
-          "desc": "[WhenUse] If this unit's Speed is faster than the target's, แต้มปะทะ +2",
+          "desc": "[WhenUse] หาก ยูนิทนี้'s Speed is faster than the target's, แต้มปะทะ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -467,7 +467,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target does not have a Stagger Threshold, ทำ 200 HP ความเสียหาย."
+                  "desc": "[OnSucceedAttack] หาก the target ไม่มี a Stagger Threshold, ทำ 200 HP ความเสียหาย."
                 },
                 {
                   "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 200"
@@ -484,7 +484,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Receiving Arts 7: Capture\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ Atk Weight equal to the number of enemies with [AaCfPcBb]\n[WhenUse] If this unit's Speed is faster than the main target's ไป 3 or more, มอบ 2 Slash Resist Down\n[WhenUse] หากเป้าหมายมี [AaCfPcBb], แต้มปะทะ +8\n[EndBattle] All [AaCfPcBb] expires",
+          "desc": "[StartBattle] ได้รับ Atk Weight เท่ากับ the number of enemies with [AaCfPcBb]\n[WhenUse] หาก ยูนิทนี้'s Speed is faster than the main target's ไป 3 or more, มอบ 2 Slash Resist Down\n[WhenUse] หากเป้าหมายมี [AaCfPcBb], แต้มปะทะ +8\n[EndBattle] All [AaCfPcBb] expires",
           "coinlist": [
             {
               "coindescs": [
@@ -496,7 +496,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น"
                 }
               ]
             },
@@ -541,7 +541,7 @@
                   "desc": "[OnSucceedAttack] มอบ 6 [DefenseDown] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit's Speed is faster than the target's ไป 3 or more, reuse this เหรียญ (1 time max)"
+                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้'s Speed is faster than the target's ไป 3 or more, reuse this เหรียญ (1 time max)"
                 }
               ]
             }
@@ -555,7 +555,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Receiving Arts 3: [Binding]ing\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี [AaCfPcBc], Base Power +5\n[WhenUse] หากเป้าหมายมี [AaCfPcBc], มอบ 1 [AaCfPcBc]",
+          "desc": "[WhenUse] หากเป้าหมายมี [AaCfPcBc], แต้มตั้งต้น +5\n[WhenUse] หากเป้าหมายมี [AaCfPcBc], มอบ 1 [AaCfPcBc]",
           "coinlist": [
             {
               "coindescs": [
@@ -573,7 +573,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น"
                 }
               ]
             },
@@ -623,12 +623,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Receiving Arts 9: Dissolution\u200B</line-height>",
-          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPcBc]\nหากเป้าหมายมี [AaCfPcBc], Base Power +10\nIf the target does not have [AaCfPcBc], this Skill ทำ s 0 ความเสียหาย.",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPcBc]\nหากเป้าหมายมี [AaCfPcBc], แต้มตั้งต้น +10\nIf the target ไม่มี [AaCfPcBc], this Skill ทำ s 0 ความเสียหาย.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Stagger target."
+                  "desc": "[OnSucceedAttack] Stagger เป้าหมาย."
                 }
               ]
             }
@@ -676,7 +676,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration]equal to [Sinking]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration]เท่ากับ [Sinking]บนเป้าหมาย"
                 }
               ]
             }
@@ -723,7 +723,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ความแค้นอำมหิต หวนคืน\u200B</line-height>",
-          "desc": "[CantChangeTarget]\n[WhenUse] If the target does not have [AaCfPbBa], แต้มปะทะ +10\n[DefeatDuel] ได้รับ 3 [Vulnerable] ในเทิร์นหน้า",
+          "desc": "[CantChangeTarget]\n[WhenUse] หาก the target ไม่มี [AaCfPbBa], แต้มปะทะ +10\n[DefeatDuel] ได้รับ 3 [Vulnerable] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -772,7 +772,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ล่าชีพในความรกร้าง\u200B</line-height>",
-          "desc": "[CantDuel]\n[WhenUse] หากเป้าหมายมี [AaCfPbBc], ทำ -100% less ความเสียหาย\n[WhenUse] ทำ +25% more ความเสียหาย for every surviving ally",
+          "desc": "[CantDuel]\n[WhenUse] หากเป้าหมายมี [AaCfPbBc], ทำ -100% less ความเสียหาย\n[WhenUse] ทำ +25% ความเสียหายเพิ่มเติ่ม ต่อพันธมิตรทุกๆคนที่อยู่ในสนาม",
           "coinlist": [
             {}
           ]
@@ -858,7 +858,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration]equal to [Sinking]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration]เท่ากับ [Sinking]บนเป้าหมาย"
                 }
               ]
             }
@@ -891,7 +891,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ศพแกก็ต้องอยู่ในโลงนี่เหมือนกัน\u200B</line-height>",
-          "desc": "[CantDuel]\n[StartBattle] +100% toจำนวนof Stagger Threshold raised from [VibrationExplosion] และ any other Stagger Threshold raising effects\n[WhenUse] มอบ 3 [Enhancement] และ 3 [AttackDmgUp] แก่พันธมิตรทุกคน, including this unit ในเทิร์นหน้า",
+          "desc": "[CantDuel]\n[StartBattle] +100% toจำนวนof Stagger Threshold raised from [VibrationExplosion] และ any other Stagger Threshold raising effects\n[WhenUse] มอบ 3 [Enhancement] และ 3 [AttackDmgUp] แก่พันธมิตรทุกคน, including ยูนิทนี้ ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -957,14 +957,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "Inflict 5 [Sinking]"
+                  "desc": "มอบ 5 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Inflict [Sinking] +5 ขั้น"
+                  "desc": "มอบ [Sinking] +5 ขั้น"
                 }
               ]
             }
@@ -1037,12 +1037,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>ฮีธคลิฟฟ์ทุกคนต้องตาย...\u200B</line-height>",
-          "desc": "[CantChangeTarget]\n[CantDuel]\nDoes not get Staggered this turn",
+          "desc": "[CantChangeTarget]\n[CantDuel]\nDoes not จะ Stagger ในเทิร์นนี้",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ ความเสียหาย equal to 100% of the target's max HP"
+                  "desc": "[OnSucceedAttack] ทำ ความเสียหาย เท่ากับ 100% of the target's max HP"
                 }
               ]
             }
@@ -1075,7 +1075,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เพื่อโลกที่เขาจะไม่ทุกข์ทน\u200B</line-height>",
-          "desc": "[CantDuel]\n[StartBattle] มอบ 2 [Vulnerable] และ 2, [Enhancement] to all other allies\n[StartBattle] ได้รับ 5 [Binding] และ 5 [AttackDmgUp] ในเทิร์นหน้า",
+          "desc": "[CantDuel]\n[StartBattle] มอบ 2 [Vulnerable] และ 2, [Enhancement] แก่พันธมิตรอื่นทุกคน\n[StartBattle] ได้รับ 5 [Binding] และ 5 [AttackDmgUp] ในเทิร์นหน้า",
           "coinlist": [
             {}
           ]
@@ -1112,7 +1112,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ ความเสียหาย equal to 15% ของ HP สูงสุด"
+                  "desc": "[OnSucceedAttack] ทำ ความเสียหาย เท่ากับ 15% ของ HPสูงสุด"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ [AaCfPcBn]"
@@ -1224,7 +1224,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ ความเสียหาย equal to 15% ของ HP สูงสุด"
+                  "desc": "[OnSucceedAttack] ทำ ความเสียหาย เท่ากับ 15% ของ HPสูงสุด"
                 }
               ]
             }
@@ -1257,7 +1257,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ฉันจะกำจ...\u200B</line-height>",
-          "desc": "Core และ Part ฟื้นฟูHP เท่ากับ10% of the ความเสียหาย ทำ t ไป this Attack Skill",
+          "desc": "Core และ Part ฟื้นฟู HP เท่ากับ10% of the ความเสียหาย ทำ t ไป this Attack Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -1286,7 +1286,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>... ชาติชั่ว\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's แต้มปะทะ +2",
+          "desc": "If ยูนิทนี้'s Speed is faster than the target's แต้มปะทะ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1301,7 +1301,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and [Laceration] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit's Speed is faster than the target's ไป 3 or more, reuse this เหรียญ (once)"
+                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้'s Speed is faster than the target's ไป 3 or more, reuse this เหรียญ (once)"
                 }
               ]
             }
@@ -1344,7 +1344,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 20+ [Laceration], ทำ +100% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 20+ [Laceration], ทำ +100% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
                   "desc": "[EnemyKill] Reuse this Skill (1 time max)"
@@ -1361,7 +1361,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ออก...\u200B</line-height>",
-          "desc": "Prioritizes Heathcliff\n[WhenUse] If the target is the enemy with the slowest Speed, Base Power +3\n[WhenUse] มอบ [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], และ 5 [Binding]",
+          "desc": "Prioritizes Heathcliff\n[WhenUse] หาก the target is the enemy with the slowest Speed, แต้มตั้งต้น +3\n[WhenUse] มอบ [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], และ 5 [Binding]",
           "coinlist": [
             {
               "coindescs": [
@@ -1413,10 +1413,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ฟื้นฟู HP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -1430,7 +1430,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>สวะ...\u200B</line-height>",
-          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPbBe]\nIf this unit's Speed is faster than the target ไป 3 or more, reuse this Skill (1 time max)",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPbBe]\nIf ยูนิทนี้'s Speed is faster than the target ไป 3 or more, reuse this Skill (1 time max)",
           "coinlist": [
             {
               "coindescs": [
@@ -1456,7 +1456,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้อง...\u200B</line-height>",
-          "desc": "If this Unit has remaining Shield HP at Turn End, ได้รับ 4 [Protection] ในเทิร์นหน้า",
+          "desc": "If ยูนิทนี้ has remaining โล่ HP at Turn End, ได้รับ 4 [Protection] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -1494,36 +1494,36 @@
         {
           "level": 1,
           "name": "<line-height=120%>ที่นี่...!\u200B</line-height>",
-          "desc": "If this unit's Speed is faster than the target's, แต้มเหรียญ +1",
+          "desc": "If ยูนิทนี้'s Speed is faster than the target's, แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ฟื้นฟูHP เท่ากับ70% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ฟื้นฟู HP เท่ากับ70% ของความเสียหายที่ทำไป"
                 }
               ]
             }

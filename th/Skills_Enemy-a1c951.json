@@ -21,7 +21,7 @@
                                     "desc": "[OnSucceedAttack] ได้รับ 3 [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] ได้รับ +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttackHead] ได้รับ [Breath] +1 ขั้น"
                                 },
                                 {
                                     "desc": "[CriticalOnSucceedAttack] มอบ 2 [Paralysis]"
@@ -38,7 +38,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Capture them-ome\u200B</line-height>",
-                    "desc": "[WinDuel] ฟื้นฟู 5 SP",
+                    "desc": "[WinDuel] ฟื้นฟู 5 ค่าสติ",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -46,10 +46,10 @@
                                     "desc": "[OnSucceedAttack] ได้รับ 4 [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] ได้รับ +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttackHead] ได้รับ [Breath] +1 ขั้น"
                                 },
                                 {
-                                    "desc": "+40% ความเสียหายบนCritical Hit"
+                                    "desc": "+40% ความเสียหายเมื่อติดคริ"
                                 }
                             ]
                         }
@@ -68,7 +68,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+30% ความเสียหายบนCritical Hit"
+                                    "desc": "+30% ความเสียหายเมื่อติดคริ"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] ได้รับ 3 [Breath]"
@@ -78,10 +78,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "+30% ความเสียหายบนCritical Hit"
+                                    "desc": "+30% ความเสียหายเมื่อติดคริ"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น"
                                 }
                             ]
                         }
@@ -100,7 +100,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ 2 [Breath] และ +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ 2 [Breath] และ [Breath] +2 ขั้น"
                                 }
                             ]
                         },
@@ -110,7 +110,7 @@
                                     "desc": "[OnSucceedAttack] ได้รับ 3 [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] ได้รับ +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttackHead] ได้รับ [Breath] +1 ขั้น"
                                 },
                                 {
                                     "desc": "[CriticalOnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า"
@@ -127,15 +127,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Lookin' Lively-ome!\u200B</line-height>",
-                    "desc": "[WinDuel] ฟื้นฟู 5 SP",
+                    "desc": "[WinDuel] ฟื้นฟู 5 ค่าสติ",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ 2 [Breath] และ +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ 2 [Breath] และ [Breath] +2 ขั้น"
                                 },
                                 {
-                                    "desc": "+40% ความเสียหายบนCritical Hit"
+                                    "desc": "+40% ความเสียหายเมื่อติดคริ"
                                 }
                             ]
                         }
@@ -149,7 +149,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>No Use-ome!\u200B</line-height>",
-                    "desc": "[EndBattle] If this unit has Shield, ได้รับ 1 [Enhancement] ในเทิร์นหน้า.",
+                    "desc": "[EndBattle] หากยูนิทนี้ยังมีโล่อยู่ ได้รับ 1 [Enhancement] ในเทิร์นหน้า.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -173,7 +173,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ +3 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ [Breath] +3 ขั้น"
                                 }
                             ]
                         },
@@ -183,7 +183,7 @@
                                     "desc": "[OnSucceedAttack] ได้รับ 3 [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] ได้รับ +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttackHead] ได้รับ [Breath] +1 ขั้น"
                                 },
                                 {
                                     "desc": "[CriticalOnSucceedAttack] มอบ 2 [Paralysis]"
@@ -200,18 +200,18 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Let's Get It Moving-ome\u200B</line-height>",
-                    "desc": "[WinDuel] ฟื้นฟู 5 SP",
+                    "desc": "[WinDuel] ฟื้นฟู 5 ค่าสติ",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] ได้รับ 3 [Breath]"
                                 },
                                 {
-                                    "desc": "+40% ความเสียหายบนCritical Hit"
+                                    "desc": "+40% ความเสียหายเมื่อติดคริ"
                                 }
                             ]
                         }
@@ -225,7 +225,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hoom Hoom~\u200B</line-height>",
-                    "desc": "[OnSucceedEvade] ได้รับ 5 [Breath] และ +2 [Breath] Count.\n[OnDefeatEvade] เพิ่มขีดStagger ไป 10",
+                    "desc": "[OnSucceedEvade] ได้รับ 5 [Breath] และ [Breath] +2 ขั้น.\n[OnDefeatEvade] เพิ่มขีดStagger ไป 10",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -266,25 +266,25 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>We Struck Gold-ome!\u200B</line-height>",
-                    "desc": "[WinDuel] ฟื้นฟู 5 SP",
+                    "desc": "[WinDuel] ฟื้นฟู 5 ค่าสติ",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ 2 [Breath] และ +3 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ 2 [Breath] และ [Breath] +3 ขั้น"
                                 },
                                 {
-                                    "desc": "+50% ความเสียหายบนCritical Hit"
+                                    "desc": "+50% ความเสียหายเมื่อติดคริ"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ 3 [Breath] และ +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ 3 [Breath] และ [Breath] +1 ขั้น"
                                 },
                                 {
-                                    "desc": "+50% ความเสียหายบนCritical Hit"
+                                    "desc": "+50% ความเสียหายเมื่อติดคริ"
                                 }
                             ]
                         }
@@ -316,14 +316,14 @@
                                     "desc": "[CriticalOnSucceedAttack] ความเสียหาย +20% for the last Coin"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Does not consume [Breath] Count. ทำ bonus ความเสียหายทุบ equal to [Breath]"
+                                    "desc": "[CriticalOnSucceedAttack] Does not consume [Breath] Count. ทำ bonus ความเสียหายทุบ เท่ากับ [Breath]"
                                 }
                             ]
                         }
@@ -337,7 +337,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>No Use-ome!\u200B</line-height>",
-                    "desc": "[EndBattle] If this unit has Shield, ได้รับ 2 [Enhancement] ในเทิร์นหน้า.",
+                    "desc": "[EndBattle] หากยูนิทนี้ยังมีโล่อยู่ ได้รับ 2 [Enhancement] ในเทิร์นหน้า.",
                     "coinlist": [
                         {
                             "coindescs": [

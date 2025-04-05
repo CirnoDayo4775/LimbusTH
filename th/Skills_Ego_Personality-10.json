@@ -15,7 +15,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 allies with the lowest HP Percentages ไป 10% ของ HP สูงสุด."
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 allies with the lowest HP Percentages ไป 10% ของ HPสูงสุด."
                 }
               ]
             }
@@ -33,7 +33,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 allies with the lowest HP ไป 12% ของ HP สูงสุด."
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 allies with the lowest HP ไป 12% ของ HPสูงสุด."
                 }
               ]
             }
@@ -51,7 +51,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 allies with the lowest HP ไป 15% ของ HP สูงสุด."
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 allies with the lowest HP ไป 15% ของ HPสูงสุด."
                 }
               ]
             }
@@ -92,7 +92,7 @@
                   "desc": "[OnSucceedAttackTail] มอบ [Burst] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 3 [DefenseDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] ฟื้นฟู self ไป 50% ของความเสียหายที่ทำไป"
@@ -113,7 +113,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Burst] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 Defense Level Down"
+                  "desc": "[OnSucceedAttack] มอบ 5 [DefenseDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] ฟื้นฟู self ไป 50% ของความเสียหายที่ทำไป"
@@ -263,13 +263,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] มอบ 10% of this unit's max HPเป็นShield to self และ 1 other ally with the least current HP, และ มอบ 2 [ShieldManagerCryingToad]เป็นwell"
+                  "desc": "[EndSkill] มอบ 10% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ 1 other ally with the least current HP, และ มอบ 2 [ShieldManagerCryingToad]เป็นwell"
                 },
                 {
                   "desc": "- เมื่อมี 4+ highest Reson., มอบ it to 1 more ally"
                 },
                 {
-                  "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
+                  "desc": "- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
                 },
                 {
                   "desc": "- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead."
@@ -287,10 +287,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] มอบ <style=\"highlight\">14%</style> of this unit's max HPเป็นShield to self และ <style=\"highlight\">(1 + (highest Reson. - 2))</style> allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad]เป็นwell\n<style=\"highlight\">(สูงสุด # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)</style>"
+                  "desc": "[EndSkill] มอบ <style=\"highlight\">14%</style> of ยูนิทนี้'s max HPมาเป็นโล่ to self และ <style=\"highlight\">(1 + (highest Reson. - 2))</style> allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad]เป็นwell\n<style=\"highlight\">(สูงสุด # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)</style>"
                 },
                 {
-                  "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
+                  "desc": "- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
@@ -308,10 +308,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] มอบ <style=\"highlight\">20%</style> of this unit's max HPเป็นShield to self และ (1 + (highest Reson. - 2)) allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad]เป็นwell\n(สูงสุด # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)"
+                  "desc": "[EndSkill] มอบ <style=\"highlight\">20%</style> of ยูนิทนี้'s max HPมาเป็นโล่ to self และ (1 + (highest Reson. - 2)) allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad]เป็นwell\n(สูงสุด # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)"
                 },
                 {
-                  "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
+                  "desc": "- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
@@ -337,10 +337,10 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] ได้รับ (15 + 2.5(highest Reson.))% of this unit's max HPเป็นShield to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด 25%)"
+                  "desc": "[EndSkill] ได้รับ (15 + 2.5(highest Reson.))% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด 25%)"
                 },
                 {
-                  "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
+                  "desc": "- หาก ยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
                 },
                 {
                   "desc": "- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'ได้รับ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead."
@@ -361,10 +361,10 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] ได้รับ (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(highest Reson.))% of this unit's max HPเป็นShield to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">30%</style>)"
+                  "desc": "[EndSkill] ได้รับ (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(highest Reson.))% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">30%</style>)"
                 },
                 {
-                  "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
+                  "desc": "- หาก ยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
@@ -385,16 +385,16 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Sinking] และ <style=\"highlight\">[Sinking] +3 ขั้น</style>"
                 },
                 {
-                  "desc": "[EndSkill] ได้รับ (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(highest Reson.))% of this unit's max HPเป็นShield to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">40%</style>)"
+                  "desc": "[EndSkill] ได้รับ (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(highest Reson.))% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
+                  "desc": "- หาก ยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">- เมื่อมี 4+ Gloom Reson., ได้รับ additional Shield equal to 10% of this unit's max HP</style>"
+                  "desc": "<style=\"highlight\">- เมื่อมี 4+ Gloom Reson., ได้รับ additional โล่ เท่ากับ 10% of ยูนิทนี้'s max HP</style>"
                 }
               ]
             }
@@ -409,7 +409,7 @@
           "level": 1,
           "name": "<line-height=120%>Hex Nail\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "[EndSkill] หากเป้าหมายมี [Curse], immediately activate it twice และ reduce it ไป 2",
+          "desc": "[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it twice และ reduce it ไป 2",
           "coinlist": [
             {
               "coindescs": [
@@ -421,7 +421,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบ 1 additional [Curse] for every 3 negative effectบนเป้าหมาย that aren't [Curse] or [NailPersonality] (สูงสุด 2)"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ 3 negative effectบนเป้าหมาย that aren't [Curse] or [NailPersonality] (สูงสุด 2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 [NailPersonality]"
@@ -434,7 +434,7 @@
           "level": 3,
           "name": "<line-height=120%>Hex Nail\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<style=\"highlight\">[BeforeAttack] เมื่อมี 4+ Envy Reson. including this Skill, Atk Weight +1</style>\n[EndSkill] หากเป้าหมายมี [Curse], immediately activate it twice และ reduce it ไป 2",
+          "desc": "<style=\"highlight\">[BeforeAttack] เมื่อมี 4+ Envy Reson. including this Skill, Atk Weight +1</style>\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it twice และ reduce it ไป 2",
           "coinlist": [
             {
               "coindescs": [
@@ -446,7 +446,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบ 1 additional [Curse] for every 3 negative effectบนเป้าหมาย that aren't [Curse] or [NailPersonality] (สูงสุด 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ 3 negative effectบนเป้าหมาย that aren't [Curse] or [NailPersonality] (สูงสุด 2)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">3</style> [NailPersonality]"
@@ -462,7 +462,7 @@
           "level": 4,
           "name": "<line-height=120%>Hex Nail\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<style=\"highlight\">[BeforeAttack] For every 3 Envy Reson. including this Skill, Atk Weight +1 (สูงสุด 2)</style>\n[EndSkill] หากเป้าหมายมี [Curse], immediately activate it twice และ reduce it ไป 2",
+          "desc": "<style=\"highlight\">[BeforeAttack] ต่อทุกๆ 3 Envy Reson. including this Skill, Atk Weight +1 (สูงสุด 2)</style>\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it twice และ reduce it ไป 2",
           "coinlist": [
             {
               "coindescs": [
@@ -474,7 +474,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบ 1 additional [Curse] for every <style=\"highlight\">2</style> negative effectบนเป้าหมาย that aren't [Curse] or [NailPersonality] (สูงสุด 2)"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ <style=\"highlight\">2</style> negative effectบนเป้าหมาย that aren't [Curse] or [NailPersonality] (สูงสุด 2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 3 [NailPersonality]<style=\"highlight\"></style>"
@@ -498,7 +498,7 @@
           "level": 1,
           "name": "<line-height=120%>Hex Nail\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] หากเป้าหมายมี [Curse], immediately activate it twice และ reduce it ไป 2",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it twice และ reduce it ไป 2",
           "coinlist": [
             {
               "coindescs": [
@@ -523,7 +523,7 @@
           "level": 3,
           "name": "<line-height=120%>Hex Nail\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] หากเป้าหมายมี [Curse], immediately activate it twice และ reduce it ไป 2<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it twice และ reduce it ไป 2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -551,7 +551,7 @@
           "level": 4,
           "name": "<line-height=120%>Hex Nail\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] หากเป้าหมายมี [Curse], immediately activate it twice และ reduce it ไป 2<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it twice และ reduce it ไป 2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [

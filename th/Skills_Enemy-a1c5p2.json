@@ -5,7 +5,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Sow Fear\u200B</line-height>",
+                    "name": "<line-height=120%>ฝังความกลัว\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -31,8 +31,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Engrave Horror\u200B</line-height>",
-                    "desc": "[WinDuel] ทำ 10 ความเสียหายค่าสติ to target; this unit ฟื้นฟู 10 HP",
+                    "name": "<line-height=120%>ฝังความผวา\u200B</line-height>",
+                    "desc": "[WinDuel] ทำ 10 ความเสียหายค่าสติ แก่เป้าหมาย; ยูนิทนี้ ฟื้นฟู 10 HP",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -50,8 +50,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Reap Horror\u200B</line-height>",
-                    "desc": "If target’s ค่าสติ is below 20, ฟื้นฟู 20% more HP from this attack",
+                    "name": "<line-height=120%>เก็บเกี่ยวความหลอน\u200B</line-height>",
+                    "desc": "หากค่าสติของเป้าหมาย ต่ำกว่า 20, ฟื้นฟู HP มากขึ้น 20% จากการโจมตีนี้",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -59,7 +59,7 @@
                                     "desc": "[OnSucceedAttackTail] ทำ 3 ความเสียหายค่าสติ"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ30% ของความเสียหายที่ทำไป"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ30% ของความเสียหายที่ทำไป"
                                 }
                             ]
                         },
@@ -69,7 +69,7 @@
                                     "desc": "[OnSucceedAttackTail] ทำ 3 ความเสียหายค่าสติ"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ30% ของความเสียหายที่ทำไป"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ30% ของความเสียหายที่ทำไป"
                                 }
                             ]
                         }
@@ -82,8 +82,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Paralyze Mind\u200B</line-height>",
-                    "desc": "If target's ค่าสติ is below -15, ทำ +50% ความเสียหาย",
+                    "name": "<line-height=120%>จิตอัมพาด\u200B</line-height>",
+                    "desc": "หากค่าสติของเป้าหมาย ต่ำกว่า -15, ทำ +50% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -135,7 +135,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-- ... -.-\u200B</line-height>",
-                    "desc": "[WinDuel] มอบ 1 Pallid Noise",
+                    "desc": "[WinDuel] มอบ 1 [AaCePbBa]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -157,22 +157,22 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>...- .\u200B</line-height>",
-                    "desc": "Final Power +1 for each surviving Pallidified ally (not counting this unit)",
+                    "desc": "แต้มรวม +1 ต่อทุกๆพันธมิตรซีดเผือก ในสนาม (ไม่รวมยูนิทนี้)",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ40% ของความเสียหายที่ทำไป"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ40% ของความเสียหายที่ทำไป"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Copy one of the buffs currently applied to the target. ได้รับ the copied buff ในเทิร์นหน้า.\n(Limited to: [Enhancement], [Agility], [AttackDmgUp], และ <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
+                                    "desc": "[OnSucceedAttack] คัดลอกบัฟที่อยู่บนเป้าหมาย หนึ่งอันแบบสุ่ม จะได้รับบัฟที่คัดลอกมาในเทิร์นหน้า.\n(จำกัดเพียงบัฟเหล่านี้เท่านั้น: [Enhancement], [Agility], [AttackDmgUp], และ [Protection])"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ40% ของความเสียหายที่ทำไป"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ40% ของความเสียหายที่ทำไป"
                                 }
                             ]
                         }
@@ -212,7 +212,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>..-. . --\u200B</line-height>",
-                    "desc": "[WinDuel] มอบ 1 Pallid Noise",
+                    "desc": "[WinDuel] มอบ 1 [AaCePbBa]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -234,22 +234,22 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.-.. -\u200B</line-height>",
-                    "desc": "[WinDuel] ทำ 1 ความเสียหายค่าสติ to target for each surviving Pallidified ally (not counting this unit)",
+                    "desc": "[WinDuel] ทำ 1 ความเสียหายค่าสติ แก่เป้าหมาย ต่อทุกๆพันธมิตรซีดเผือก ในสนาม (ไม่รวมยูนิทนี้)",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ40% ของความเสียหายที่ทำไป"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ40% ของความเสียหายที่ทำไป"
                                 },
                                 {
-                                    "desc": "Copy one of the buffs currently applied to the target. ได้รับ the copied buff ในเทิร์นหน้า.\n(Limited to: [Enhancement], [Agility], [AttackDmgUp], และ <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
+                                    "desc": "คัดลอกบัฟที่อยู่บนเป้าหมาย หนึ่งอันแบบสุ่ม จะได้รับบัฟที่คัดลอกมาในเทิร์นหน้า.\n(จำกัดเพียงบัฟเหล่านี้เท่านั้น: [Enhancement], [Agility], [AttackDmgUp], และ [Protection])"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ40% ของความเสียหายที่ทำไป"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ40% ของความเสียหายที่ทำไป"
                                 }
                             ]
                         }
@@ -263,12 +263,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-... .…\u200B</line-height>",
-                    "desc": "หากเป้าหมายมี <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, the HP ฟื้นฟู effect also applies to 1 other Pallidified ally with the lowest SP",
+                    "desc": "หากเป้าหมายมี [Sinking], การฟื้นฟู HP ในสกิลนี้จะฟื้นฟู HP ให้พันธมิตรซีดเผือก 1 คน ที่มีค่าสติต่ำสุดด้วย",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ30% ของความเสียหายที่ทำไป"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ30% ของความเสียหายที่ทำไป"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 1 [Sinking]"
@@ -278,7 +278,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ30% ของความเสียหายที่ทำไป"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ30% ของความเสียหายที่ทำไป"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 1 [Sinking]"
@@ -295,15 +295,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.--- .\u200B</line-height>",
-                    "desc": "หากเป้าหมายมี <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, the HP ฟื้นฟู effect also applies to 1 other Pallidified ally with the lowest SP",
+                    "desc": "หากเป้าหมายมี [Sinking], การฟื้นฟู HP ในสกิลนี้จะฟื้นฟู HP ให้พันธมิตรซีดเผือก 1 คน ที่มีค่าสติต่ำสุดด้วย",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ50% ของความเสียหายที่ทำไป"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 Pallid Noise"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [AaCePbBa]"
                                 }
                             ]
                         }
@@ -317,19 +317,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-. .…\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Pallid Noise</link></u></color>, all other Pallidified allies ฟื้นฟู 30 HP",
+                    "desc": "[WhenUse] หากเป้าหมายมี [AaCePbBa], พันธมิตรซีดเผือกทุกคน ฟื้นฟู 30 HP",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "Copy one of the buffs currently applied to the target. ได้รับ the copied buff ในเทิร์นหน้า.\n(Limited to: [Enhancement], [Agility], [AttackDmgUp], และ <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
+                                    "desc": "คัดลอกบัฟที่อยู่บนเป้าหมาย หนึ่งอันแบบสุ่ม จะได้รับบัฟที่คัดลอกมาในเทิร์นหน้า.\n(จำกัดเพียงบัฟเหล่านี้เท่านั้น: [Enhancement], [Agility], [AttackDmgUp], และ [Protection])"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู 20 HPบนself"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู 20 HP บนตัวเอง"
                                 }
                             ]
                         }
@@ -369,7 +369,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-... .-\u200B</line-height>",
-                    "desc": "[WhenUse] มอบ 1 [Protection] to 1 other random ally ในเทิร์นหน้า. If the ally is a Pallidified ally, มอบ 1 additional [Protection].",
+                    "desc": "[WhenUse] มอบ 1 [Protection] แก่ 1 พันธมิตรอื่นแบบสุ่ม ในเทิร์นหน้า. หากพันธมิตรเป็นพันธมิตรซีดเผือก มอบเพิ่มเติมอีก 1 [Protection].",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -396,10 +396,10 @@
                                     "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Reduce [Vibration] Count ไป 2"
+                                    "desc": "[OnSucceedAttack] ลดขั้น [Vibration] ไป 2"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 1 Pallid Noise"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [AaCePbBa]"
                                 }
                             ]
                         },
@@ -420,7 +420,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.--. .\u200B</line-height>",
-                    "desc": "[StartBattle] ได้รับ 1 [Protection] for every 2 Pallidified ally (not counting this unit)\nWhen attacked while this unit has Shield, มอบ 1 [Vibration] แก่ผู้โจมตี",
+                    "desc": "[StartBattle] ได้รับ 1 [Protection] ต่อพันธมิตรซีดเผือกทุกๆ คน(ไม่รวมยูนิทนี้)\nเมื่อถูกโจมตีในขณะที่ยังมีโล่อยู่ มอบ 1 [Vibration] แก่ผู้โจมตี",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -444,7 +444,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [DefenseDown]"
                                 }
                             ]
                         }
@@ -458,7 +458,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.-.. .\u200B</line-height>",
-                    "desc": "[WhenUse] มอบ 1 [AttackDmgUp] to 1 other random Pallidified ally ในเทิร์นหน้า",
+                    "desc": "[WhenUse] มอบ 1 [AttackDmgUp] แก่พันธมิตรซีดเผือกแบบสุ่มคนอื่น 1 คน ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -466,7 +466,7 @@
                                     "desc": "[OnSucceedAttack] มอบ 2 [Paralysis]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] มอบ 1 Pallid Noise"
+                                    "desc": "[OnSucceedAttackHead] มอบ 1 [AaCePbBa]"
                                 }
                             ]
                         }
@@ -480,22 +480,22 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.-.. .-\u200B</line-height>",
-                    "desc": "[WhenUse] มอบ 1 [AttackDmgUp] to 1 random Pallidified ally ในเทิร์นหน้า",
+                    "desc": "[WhenUse] มอบ 1 [AttackDmgUp] แก่พันธมิตรซีดเผือกแบบสุ่ม 1 คน ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [DefenseDown]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 1 Pallid Noise"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [AaCePbBa]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [DefenseDown]"
                                 }
                             ]
                         }
@@ -509,7 +509,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>--. . ...-\u200B</line-height>",
-                    "desc": "หากเป้าหมายมี <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Pallid Noise</link></u></color>, ทำ 1 ความเสียหายค่าสติ to target for every other surviving ally",
+                    "desc": "หากเป้าหมายมี [AaCePbBa], ทำ 1 ความเสียหายค่าสติ แก่เป้าหมาย ต่อพันธมิตรทุกๆคนที่อยู่ในสนาม",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -536,7 +536,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 1 Pallid Noise"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [AaCePbBa]"
                                 }
                             ]
                         },
@@ -560,7 +560,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.--. .... -\u200B</line-height>",
-                    "desc": "[WinDuel] มอบ 1 Pallid Noise",
+                    "desc": "[WinDuel] มอบ 1 [AaCePbBa]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -586,7 +586,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-.- -\u200B</line-height>",
-                    "desc": "When attacked while this unit has Shield, มอบ 1 Pallid Noise to the target\n[EndBattle] If this unit has Shield, ได้รับ 3 Poise ในเทิร์นหน้า",
+                    "desc": "เมื่อถูกโจมตีในขณะที่ยังมีโล่อยู่ มอบ 1 [AaCePbBa] แก่เป้าหมาย\n[EndBattle] หากยูนิทนี้ยังมีโล่อยู่ ได้รับ 3 [Breath] ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -642,7 +642,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 ความเสียหาย Down ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [AttackDmgDown] ในเทิร์นหน้า"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
@@ -659,7 +659,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-- .... -\u200B</line-height>",
-                    "desc": "[WhenUse] ได้รับ 1 [Protection] for every surviving ally. (สูงสุด 3)",
+                    "desc": "[WhenUse] ได้รับ 1 [Protection] ต่อพันธมิตรทุกๆคนที่อยู่ในสนาม. (สูงสุด 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -667,7 +667,7 @@
                                     "desc": "[OnSucceedAttack] ได้รับ 2 [Protection]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] มอบ 1 Pallid Noise"
+                                    "desc": "[OnSucceedAttackHead] มอบ 1 [AaCePbBa]"
                                 }
                             ]
                         },
@@ -691,7 +691,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-.- ..\u200B</line-height>",
-                    "desc": "[WhenUse] ได้รับ 2 [Protection]\nWhen attacked while this unit has Shield, มอบ 1 Pallid Noise to the target\n[EndBattle] ฟื้นฟู HP ไป x2 of the remaining Shield HP.",
+                    "desc": "[WhenUse] ได้รับ 2 [Protection]\nเมื่อถูกโจมตีในขณะที่ยังมีโล่อยู่ มอบ 1 [AaCePbBa] แก่เป้าหมาย\n[EndBattle] ฟื้นฟู HP ไป 2 เท่าของ HP โล่ที่เหลืออยู่.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -709,7 +709,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Right in the Solar Plexus\u200B</line-height>",
+                    "name": "<line-height=120%>หมัดตรงเข้ากลางตัว\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -728,7 +728,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>We Remember!\u200B</line-height>",
+                    "name": "<line-height=120%>เราไม่เคยลืม!\u200B</line-height>",
                     "desc": "[DefeatDuel] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า",
                     "coinlist": [
                         {
@@ -741,7 +741,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ทำ additional  ความเสียหายตรง equal to the number of the Middle allies killed during this wave"
+                                    "desc": "[OnSucceedAttack] ทำความเสียหายตรงเพิ่มเติม เท่ากับจำนวน พันธมิตรนิ้วกลางที่ถูกฆ่าไปในรอบนี้"
                                 }
                             ]
                         }
@@ -754,7 +754,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Skull Crushing\u200B</line-height>",
+                    "name": "<line-height=120%>บดกระดูก\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -780,8 +780,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Ready to Write\u200B</line-height>",
-                    "desc": "[EndBattle] If this unit has Shield, ได้รับ 1 [Enhancement] ในเทิร์นหน้า",
+                    "name": "<line-height=120%>พร้อมสลักชื่อ\u200B</line-height>",
+                    "desc": "[EndBattle] หากยูนิทนี้ยังมีโล่อยู่ ได้รับ 1 [Enhancement] ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -799,7 +799,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Vengeance\u200B</line-height>",
+                    "name": "<line-height=120%>ล้างแค้น\u200B</line-height>",
                     "desc": "[DefeatDuel] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า",
                     "coinlist": [
                         {},
@@ -822,7 +822,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Multifold Retribution\u200B</line-height>",
+                    "name": "<line-height=120%>ตามสนองสิบเท่า\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -831,7 +831,7 @@
                                     "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 30"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ทำ 20 fixed HP ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] ทำ 20 ความเสียหายตรงแก่ HP"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 3 [Paralysis] ในเทิร์นหน้า"
@@ -847,7 +847,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Right in the Solar Plexus\u200B</line-height>",
+                    "name": "<line-height=120%>หมัดตรงเข้ากลางตัว\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -866,20 +866,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Write Their Sins!\u200B</line-height>",
+                    "name": "<line-height=120%>เขียนบาปของพวกมันซะ!\u200B</line-height>",
                     "desc": "[DefeatDuel] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 ความเสียหาย Down ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] มอบ 2 [AttackDmgDown] ในเทิร์นหน้า"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ทำ additional  ความเสียหายตรง equal to the number of the Middle allies killed during this wave"
+                                    "desc": "[OnSucceedAttack] ทำความเสียหายตรงเพิ่มเติม เท่ากับจำนวน พันธมิตรนิ้วกลางที่ถูกฆ่าไปในรอบนี้"
                                 }
                             ]
                         }
@@ -892,20 +892,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Skull Bursting\u200B</line-height>",
+                    "name": "<line-height=120%>เบิดกะโหลก\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttackHead] มอบ 1 [PlusCoinValueDown] ในเทิร์นหน้า"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] มอบ 1 [PlusCoinValueDown] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -918,8 +918,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Ready to Write\u200B</line-height>",
-                    "desc": "If this unit's Shield is fully depleted, ได้รับ 1 [Enhancement] ในเทิร์นหน้า",
+                    "name": "<line-height=120%>พร้อมสลักชื่อ\u200B</line-height>",
+                    "desc": "ถ้าโล่ของยูนิทนี้ถูกทำลายจนหมด ได้รับ 1 [Enhancement] ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -937,7 +937,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Vengeance\u200B</line-height>",
+                    "name": "<line-height=120%>ล้างแค้น\u200B</line-height>",
                     "desc": "[DefeatDuel] ได้รับ 1 [AttackDmgUp] ในเทิร์นหน้า",
                     "coinlist": [
                         {},
@@ -960,7 +960,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Multifold Retribution\u200B</line-height>",
+                    "name": "<line-height=120%>ตามสนองสิบเท่า\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -969,7 +969,7 @@
                                     "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 30"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ทำ 20 fixed HP ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] ทำ 20 ความเสียหายตรงแก่ HP"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"

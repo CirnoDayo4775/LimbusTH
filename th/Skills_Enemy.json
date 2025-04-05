@@ -15,7 +15,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>ตัดทอน\u200B</line-height>\u200B</line-height>",
-          "desc": "[OnSucceedAttack] มอบ  2 [[Binding]ing]; ฟื้นฟู 5% ของ HP สูงสุด"
+          "desc": "[OnSucceedAttack] มอบ  2 [[Binding]ing]; ฟื้นฟู 5% ของ HPสูงสุด"
         }
       ]
     },
@@ -93,7 +93,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>คลื่นพลังจิต\u200B</line-height>\u200B</line-height>",
-          "desc": "[5xPostLine]\n[OnSucceedAttack] เป้าหมายเสีย 20 SP"
+          "desc": "[5xPostLine]\n[OnSucceedAttack] เป้าหมายเสีย 20 ค่าสติ"
         }
       ]
     },
@@ -632,14 +632,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] เป้าหมายเสีย 5 SP"
+                  "desc": "[OnSucceedAttackHead] เป้าหมายเสีย 5 ค่าสติ"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] เป้าหมายเสีย 5 SP"
+                  "desc": "[OnSucceedAttackHead] เป้าหมายเสีย 5 ค่าสติ"
                 }
               ]
             }
@@ -677,7 +677,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] เป้าหมายเสีย 15 SP"
+                  "desc": "[OnSucceedAttackHead] เป้าหมายเสีย 15 ค่าสติ"
                 }
               ]
             }
@@ -706,7 +706,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] เป้าหมายเสีย 5 SP"
+                  "desc": "[OnSucceedAttackHead] เป้าหมายเสีย 5 ค่าสติ"
                 }
               ]
             }
@@ -1185,21 +1185,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 SP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 ค่าสติ"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 SP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 ค่าสติ"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 SP"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 ค่าสติ"
                 }
               ]
             }
@@ -1226,7 +1226,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>ดูเอโล เดอ ไบเล\u200B</line-height>\u200B</line-height>",
-          "desc": "[WinDuel] เป้าหมายเสีย 5 SP",
+          "desc": "[WinDuel] เป้าหมายเสีย 5 ค่าสติ",
           "coinlist": [
             {},
             {},
@@ -1247,7 +1247,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>ปุญาเลส โจวิอาเลส\u200B</line-height>\u200B</line-height>",
-          "desc": "หากเป้าหมาย’sค่าสติis below 0, แต้มสกิล +1",
+          "desc": "หากเป้าหมาย’sค่าสติต่ำกว่า 0, แต้มสกิล +1",
           "coinlist": [
             {}
           ]
@@ -1260,7 +1260,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>¡โอเล่!\u200B</line-height>\u200B</line-height>",
-          "desc": "[OnSucceedEvade] เป้าหมายเสีย 5 SP",
+          "desc": "[OnSucceedEvade] เป้าหมายเสีย 5 ค่าสติ",
           "coinlist": [
             {}
           ]
@@ -1286,33 +1286,33 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>ปาโสซ ปาสิโอนาเลส\u200B</line-height>\u200B</line-height>",
-          "desc": "[WhenUse] ฟื้นฟู 5 SP",
+          "desc": "[WhenUse] ฟื้นฟู 5 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Poise  ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath]  ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Poise  ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath]  ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Poise  ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath]  ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 Poise  ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath]  ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1385,7 +1385,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>ปิญญาตา ปาร์ตี้~!\u200B</line-height>\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมาย’sค่าสติis below 0, crit chance increases in proportion แก่ เป้าหมาย’s SP",
+          "desc": "[WhenUse] หากเป้าหมาย’sค่าสติต่ำกว่า 0, crit chance increases in proportion แก่ เป้าหมาย’s ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -1417,7 +1417,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>ฉันจะฉีกร่างแก\u200B</line-height>\u200B</line-height>",
-          "desc": "หากเป้าหมายมีค่าสติต่ำกว่าผู้ใช้, แต้มสกิล +1",
+          "desc": "หากเป้าหมายมีค่าสติต่ำกว่า ผู้ใช้, แต้มสกิล +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1482,7 +1482,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>เฮ้ย!\u200B</line-height>\u200B</line-height>",
-          "desc": "[WinDuel] เป้าหมายเสีย 15 SP",
+          "desc": "[WinDuel] เป้าหมายเสีย 15 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -1514,7 +1514,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>เดียวต่อยหัวแตก\u200B</line-height>\u200B</line-height>",
-          "desc": "หากเป้าหมายมีค่าสติต่ำกว่าผู้ใช้, แต้มสกิล +1",
+          "desc": "หากเป้าหมายมีค่าสติต่ำกว่า ผู้ใช้, แต้มสกิล +1",
           "coinlist": [
             {
               "coindescs": [
@@ -2723,7 +2723,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>เร่ง เร่ง\u200B</line-height>\u200B</line-height>",
-          "desc": "[WhenUse] เป้าหมายเสีย 10 SP",
+          "desc": "[WhenUse] เป้าหมายเสีย 10 ค่าสติ",
           "coinlist": [
             {}
           ]
@@ -2997,7 +2997,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  5 Offense Level Down  ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ  5 [AttackDown]  ในเทิร์นหน้า"
                 }
               ]
             },
@@ -3611,7 +3611,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>เตรียมขั้นสุดท้าย\u200B</line-height>\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 4 [Protection]\nฟื้นฟู 15 SP",
+          "desc": "[StartBattle] ได้รับ 4 [Protection]\nฟื้นฟู 15 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -3688,7 +3688,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>กำบัง กำบัง!\u200B</line-height>\u200B</line-height>",
-          "desc": "[StartBattle] ฟื้นฟู 5% ของ HP สูงสุด",
+          "desc": "[StartBattle] ฟื้นฟู 5% ของ HPสูงสุด",
           "coinlist": [
             {}
           ]
@@ -3762,7 +3762,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>เข้ากำบัง!\u200B</line-height>\u200B</line-height>",
-          "desc": "[StartBattle] ฟื้นฟู 5% ของ HP สูงสุด",
+          "desc": "[StartBattle] ฟื้นฟู 5% ของ HPสูงสุด",
           "coinlist": [
             {}
           ]
@@ -3775,7 +3775,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>แจกจ่ายจัดการน้ำยาHP\u200B</line-height>\u200B</line-height>",
-          "desc": "[CantDuel][WhenUse] พันธมิตรเป้าหมาย\nฟื้นฟูHP เท่ากับ เลขความเสียหาย\nไม่สร้างความเสียหาย",
+          "desc": "[CantDuel][WhenUse] พันธมิตรเป้าหมาย\nฟื้นฟู HP เท่ากับ เลขความเสียหาย\nไม่สร้างความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -4312,7 +4312,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>เมือกปัดป้อง\u200B</line-height>\u200B</line-height>",
-          "desc": "[WhenUse] ฟื้นฟู 5% ของ HP สูงสุด\nได้รับ 2 [Vulnerable]  ในเทิร์นหน้า\n[EndBattle] Remove all [Tipsiness]",
+          "desc": "[WhenUse] ฟื้นฟู 5% ของ HPสูงสุด\nได้รับ 2 [Vulnerable]  ในเทิร์นหน้า\n[EndBattle] Remove all [Tipsiness]",
           "coinlist": [
             {
               "coindescs": [
@@ -4693,10 +4693,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เป้าหมายเสีย 5 SP"
+                  "desc": "[OnSucceedAttack] เป้าหมายเสีย 5 ค่าสติ"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] เป้าหมายเสีย 5 SP"
+                  "desc": "[OnSucceedAttackHead] เป้าหมายเสีย 5 ค่าสติ"
                 }
               ]
             }

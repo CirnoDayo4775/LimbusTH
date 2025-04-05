@@ -38,7 +38,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>...to Clean\u200B</line-height>",
-          "desc": "[WhenUse] If the target is at 10 or less SP, มอบ 2 [AttackDown]\n[WinDuel] มอบ 1 [Vulnerable]",
+          "desc": "[WhenUse] หาก the target is at 10 or less SP, มอบ 2 [AttackDown]\n[WinDuel] มอบ 1 [Vulnerable]",
           "coinlist": [
             {
               "coindescs": [
@@ -67,7 +67,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>...mmands...!\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Sinking]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] All allies ฟื้นฟู 5 SP",
+          "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 3 [Sinking]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] All allies ฟื้นฟู 5 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -109,26 +109,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>...of Dust\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 6 [Sinking]บนเป้าหมาย (สูงสุด 3)\n[WhenUse] ทำ +10% more ความเสียหาย for every 6 [Sinking] Countบนเป้าหมาย (สูงสุด 30%)",
+          "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 6 [Sinking]บนเป้าหมาย (สูงสุด 3)\n[WhenUse] ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 6 [Sinking] Countบนเป้าหมาย (สูงสุด 30%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking]บนเป้าหมาย. Reduce [Sinking] Countบนเป้าหมาย ไป 1"
+                  "desc": "[OnSucceedAttack] มอบ Gloom Affinityความเสียหายเพิ่มเติ่มเท่ากับ [Sinking]บนเป้าหมาย. Reduce [Sinking] Countบนเป้าหมาย ไป 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking]บนเป้าหมาย. Reduce [Sinking] Countบนเป้าหมาย ไป 1"
+                  "desc": "[OnSucceedAttack] มอบ Gloom Affinityความเสียหายเพิ่มเติ่มเท่ากับ [Sinking]บนเป้าหมาย. Reduce [Sinking] Countบนเป้าหมาย ไป 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking]บนเป้าหมาย."
+                  "desc": "[OnSucceedAttack] มอบ Gloom Affinityความเสียหายเพิ่มเติ่มเท่ากับ [Sinking]บนเป้าหมาย."
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
@@ -148,7 +148,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Slipp...\u200B</line-height>",
-          "desc": "If this unit has remaining Shield HP at Turn End, lower Stagger threshold ไป 50",
+          "desc": "If ยูนิทนี้ has remaining โล่ HP at Turn End, lower Stagger threshold ไป 50",
           "coinlist": [
             {}
           ]
@@ -187,7 +187,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ฉันจะกำจ...\u200B</line-height>",
-          "desc": "[WinDuel] Base Power +1",
+          "desc": "[WinDuel] แต้มตั้งต้น +1",
           "coinlist": [
             {
               "coindescs": [
@@ -213,27 +213,27 @@
         {
           "level": 1,
           "name": "<line-height=120%>Make Things...\u200B</line-height>",
-          "desc": "[WinDuel] หากเป้าหมายมี 2+ [AttackDown], Base Power +1\n[WhenUse] หากเป้าหมายมี [DefenseDown], ทำ 30% ของความเสียหายที่ทำไปเป็นbonus ความเสียหายทุบ",
+          "desc": "[WinDuel] หากเป้าหมายมี 2+ [AttackDown], แต้มตั้งต้น +1\n[WhenUse] หากเป้าหมายมี [DefenseDown], ทำ 30% ของความเสียหายที่ทำไปเป็นbonus ความเสียหายทุบ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 4 SPบนself"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 4 แก่ตัวเอง"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 4 SPบนself"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 4 แก่ตัวเอง"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 4 SPบนself"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 4 แก่ตัวเอง"
                 }
               ]
             }
@@ -247,7 +247,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>... ove You\u200B</line-height>",
-          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most negative effects\n[WinDuel] แต้มเหรียญ +1 for every 3 [DefenseDown]บนเป้าหมาย (สูงสุด 3)",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most negative effects\n[WinDuel] แต้มเหรียญ +1 ต่อทุกๆ 3 [DefenseDown]บนเป้าหมาย (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -265,7 +265,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ +30% more ความเสียหาย for every 2 [AttackDown]บนเป้าหมาย (สูงสุด 120%)"
+                  "desc": "[OnSucceedAttack] ทำ +30% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 [AttackDown]บนเป้าหมาย (สูงสุด 120%)"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 3+ negative effects, reuse this เหรียญ (once)"
@@ -282,7 +282,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 20 additional Shield HP for every surviving ally",
+          "desc": "[StartBattle] ได้รับ 20 additional โล่ HP ต่อพันธมิตรทุกๆคนที่อยู่ในสนาม",
           "coinlist": [
             {
               "coindescs": [
@@ -320,7 +320,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>...te\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 2+ negative effects, Base Power +1",
+          "desc": "[WhenUse] หากเป้าหมายมี 2+ negative effects, แต้มตั้งต้น +1",
           "coinlist": [
             {
               "coindescs": [
@@ -368,7 +368,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Cou...oit\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 5+ negative effects, Base Power +2\n[WhenUse] หากเป้าหมายมี 5+ negative effects, ทำ +30% more ความเสียหาย",
+          "desc": "[WhenUse] หากเป้าหมายมี 5+ negative effects, แต้มตั้งต้น +2\n[WhenUse] หากเป้าหมายมี 5+ negative effects, ทำ +30% ความเสียหายเพิ่มเติ่ม",
           "coinlist": [
             {
               "coindescs": [
