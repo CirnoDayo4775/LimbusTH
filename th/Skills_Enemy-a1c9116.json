@@ -357,7 +357,7 @@
                   "desc": "[OnSucceedAttack] Lower user's Stagger Threshold ไป 8"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้งาน [Laceration]บนthe target อีกครั้ง (reduce [Laceration]Count ไป 1)"
+                  "desc": "[OnSucceedAttack] เปิดใช้งาน [Laceration] ที่เป้าหมายมี อีกครั้ง (reduce ขั้น [Laceration] ไป 1)"
                 }
               ]
             }
@@ -788,7 +788,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Right in the Dome\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี [MiddleFingerBook], มอบ 2 additional [DefenseDown] with this Skill",
+          "desc": "[WhenUse] หากเป้าหมายมี [MiddleFingerBook], มอบ 2 additional [DefenseDown] ด้วยสกิลนี้",
           "coinlist": [
             {
               "coindescs": [
@@ -810,7 +810,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Gut Crush\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี [MiddleFingerBook], มอบเพิ่มเติมอีก 1 [AttackDown] with this Skill",
+          "desc": "[WhenUse] หากเป้าหมายมี [MiddleFingerBook], มอบเพิ่มเติมอีก 1 [AttackDown] ด้วยสกิลนี้",
           "coinlist": [
             {
               "coindescs": [
@@ -875,7 +875,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Seize ya Chance\u200B</line-height>",
-          "desc": "[BeforeHit] ได้รับ 5 โล่ ต่อทุกๆ [MiddleFingerBook]บนthe target (once ต่อทุกๆ turn; max 50)\n[WhenUse] หากเป้าหมายมี 5+ [MiddleFingerBook], แต้มตั้งต้น +3; มอบ 4 [DefenseDown]",
+          "desc": "[BeforeHit] ได้รับ 5 โล่ ต่อทุกๆ [MiddleFingerBook]บนthe target (1 ครั้งต่อเทิร์น; max 50)\n[WhenUse] หากเป้าหมายมี 5+ [MiddleFingerBook], แต้มตั้งต้น +3; มอบ 4 [DefenseDown]",
           "coinlist": [
             {
               "coindescs": [

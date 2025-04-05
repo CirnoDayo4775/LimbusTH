@@ -136,7 +136,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Deploy[Charge] Barrier\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี  [Charge] 10+ ขั้น, consumeขั้น [Charge] ทั้งหมดto มอบ (Consumedขั้น [Charge]  / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (Rounded Down) to 2 allies with the lowest HP percentage",
+          "desc": "[WhenUse] เมื่อมี  [Charge] 10+ ขั้น, จ่ายขั้น [Charge] ทั้งหมดto มอบ (Consumedขั้น [Charge]  / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (Rounded Down) to 2 allies with the lowest HP percentage",
           "coinlist": [
             {},
             {},
@@ -155,7 +155,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Deploy[Charge] Barrier\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี  [Charge] 10+ ขั้น, consumeขั้น [Charge] ทั้งหมดto มอบ (Consumedขั้น [Charge]  / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (Rounded Down) to 2 allies with the lowest HP percentage",
+          "desc": "[WhenUse] เมื่อมี  [Charge] 10+ ขั้น, จ่ายขั้น [Charge] ทั้งหมดto มอบ (Consumedขั้น [Charge]  / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (Rounded Down) to 2 allies with the lowest HP percentage",
           "coinlist": [
             {},
             {},
@@ -644,7 +644,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Deduction Start\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ [Vibration] +2 ขั้น\n<style=\"highlight\">เมื่อมี 6+ [Vibration] Count, แต้มเหรียญ +1</style>",
+          "desc": "[WhenUse] ได้รับ [Vibration] +2 ขั้น\n<style=\"highlight\">เมื่อมี 6+ ขั้น [Vibration], แต้มเหรียญ +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -689,7 +689,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 9+ [Vibration], trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 9+ [Vibration], เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             }
@@ -698,7 +698,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Morph Cane Technique\u200B</line-height>",
-          "desc": "<style=\"highlight\">[WhenUse] หากเป้าหมายมี 8+ [Vibration], แต้มปะทะ +1</style>\n[WhenUse] ได้รับ [Vibration] +3 ขั้น\n<style=\"highlight\">เมื่อมี 6+ [Vibration] Count, แต้มเหรียญ +1</style>",
+          "desc": "<style=\"highlight\">[WhenUse] หากเป้าหมายมี 8+ [Vibration], แต้มปะทะ +1</style>\n[WhenUse] ได้รับ [Vibration] +3 ขั้น\n<style=\"highlight\">เมื่อมี 6+ ขั้น [Vibration], แต้มเหรียญ +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -717,7 +717,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี <style=\"highlight\">7</style>+ [Vibration], trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี <style=\"highlight\">7</style>+ [Vibration], เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             }
@@ -726,7 +726,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Morph Cane Technique\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี <style=\"highlight\">6</style>+ [Vibration], แต้มปะทะ +1\n[WhenUse] ได้รับ [Vibration] +3 ขั้น\nเมื่อมี <style=\"highlight\">5</style>+ [Vibration] Count, แต้มเหรียญ +1",
+          "desc": "[WhenUse] หากเป้าหมายมี <style=\"highlight\">6</style>+ [Vibration], แต้มปะทะ +1\n[WhenUse] ได้รับ [Vibration] +3 ขั้น\nเมื่อมี <style=\"highlight\">5</style>+ ขั้น [Vibration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -745,7 +745,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี <style=\"highlight\">6</style>+ [Vibration], trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี <style=\"highlight\">6</style>+ [Vibration], เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             }
@@ -759,19 +759,19 @@
         {
           "level": 3,
           "name": "<line-height=120%>You're the Culprit!\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Vibration], แต้มปะทะ +1\n[WhenUse] Consume 10 [Vibration] Countบนself to ได้รับ แต้มเหรียญ +2",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Vibration], แต้มปะทะ +1\n[WhenUse] จ่าย 10 ขั้น [Vibration] ที่ตัวเองมี เพื่อได้รับ แต้มเหรียญ +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก this Skill consumed [Vibration] Countบนuse, trigger [FusionVibration] into [VibrationEcho]"
+                  "desc": "[OnSucceedAttack] หาก this Skill จ่ายd ขั้น [Vibration]บนuse, เปิดใช้ [FusionVibration] แปลงเป็น[VibrationEcho]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             },
@@ -779,7 +779,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1\n- หาก ยูนิทนี้ did not consume [Vibration] Count with Skill use, เปิดใช้งาน the above effect, then trigger [VibrationExplosion]บนself"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- หาก ยูนิทนี้ did not จ่าย ขั้น [Vibration] with Skill use, เปิดใช้งาน the above effect, then เปิดใช้ [VibrationExplosion]บนself"
                 }
               ]
             }
@@ -788,33 +788,33 @@
         {
           "level": 4,
           "name": "<line-height=120%>You're the Culprit!\u200B</line-height>",
-          "desc": "[WhenUse] แต้มปะทะ +1 ต่อทุกๆ <style=\"highlight\">6</style> [Vibration]บนเป้าหมาย <style=\"highlight\">(สูงสุด 2)</style>\n[WhenUse] เมื่อมี <style=\"highlight\"> less than 15 [Vibration] Countบนself</style>, consume 10 [Vibration] Count to ได้รับ แต้มเหรียญ +2\n<style=\"highlight\">[WhenUse] Consume 15 [Vibration] Countบนself to ได้รับ แต้มเหรียญ +3</style>",
+          "desc": "[WhenUse] แต้มปะทะ +1 ต่อทุกๆ <style=\"highlight\">6</style> [Vibration]บนเป้าหมาย <style=\"highlight\">(สูงสุด 2)</style>\n[WhenUse] เมื่อมี <style=\"highlight\"> less than 15 ขั้น [Vibration] ที่ตัวเองมี</style>, จ่าย 10 ขั้น [Vibration] เพื่อได้รับ แต้มเหรียญ +2\n<style=\"highlight\">[WhenUse] จ่าย 15 ขั้น [Vibration] ที่ตัวเองมี เพื่อได้รับ แต้มเหรียญ +3</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก this Skill consumed [Vibration] Countบนuse, trigger [FusionVibration] into [VibrationEcho]"
+                  "desc": "[OnSucceedAttack] หาก this Skill จ่ายd ขั้น [Vibration]บนuse, เปิดใช้ [FusionVibration] แปลงเป็น[VibrationEcho]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก this Skill consumed 10+ [Vibration] CountบนSkill Use, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก this Skill จ่ายd 10+ ขั้น [Vibration]บนSkill Use, เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก this Skill consumed 10+ [Vibration] CountบนSkill Use, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1\n- หาก ยูนิทนี้ consumed less than 15 [Vibration] Count, trigger [VibrationExplosion]บนself after activating the above effect</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก this Skill จ่ายd 10+ ขั้น [Vibration]บนSkill Use, เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- หาก ยูนิทนี้ จ่ายd less than 15 ขั้น [Vibration], เปิดใช้ [VibrationExplosion]บนself after activating the above effect</style>"
                 }
               ]
             }
@@ -828,7 +828,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wait?!\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 x ([Vibration] Countบนเป้าหมาย)มาเป็นHP โล่ (สูงสุด 7)",
+          "desc": "[WhenUse] ได้รับ 2 x (ขั้น [Vibration]บนเป้าหมาย)มาเป็นHP โล่ (สูงสุด 7)",
           "coinlist": [
             {}
           ]
@@ -836,7 +836,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Wait?!\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 x ([Vibration] Countบนเป้าหมาย)มาเป็นHP โล่ (สูงสุด <style=\"highlight\">13</style>)",
+          "desc": "[WhenUse] ได้รับ 2 x (ขั้น [Vibration]บนเป้าหมาย)มาเป็นHP โล่ (สูงสุด <style=\"highlight\">13</style>)",
           "coinlist": [
             {}
           ]
@@ -1069,7 +1069,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Emergency Styptics\u200B</line-height>",
-          "desc": "[StartBattle] เสีย 2 [Laceration]Potencyบนself (3 times ต่อทุกๆ turn. หาก [Laceration]Potency drops to 0 or less, the [Laceration] effect expires)",
+          "desc": "[StartBattle] เสีย 2 ปริมาณ [Laceration] ที่ตัวเองมี (3 times ต่อทุกๆ turn. หาก ปริมาณ [Laceration] drops to 0 or less, the [Laceration] effect expires)",
           "coinlist": [
             {
               "coindescs": [

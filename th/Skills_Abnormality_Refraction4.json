@@ -51,7 +51,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Who Might You Be?\u200B</line-height>",
-          "desc": "Prioritizes [UninvitedGuest]\nหากเป้าหมายมี [UninvitedGuest], มอบ +1 more ความรุนแรง [Sinking]  และ Count with this Skill",
+          "desc": "Prioritizes [UninvitedGuest]\nหากเป้าหมายมี [UninvitedGuest], มอบ +1 more ความรุนแรง [Sinking]  และ Count ด้วยสกิลนี้",
           "coinlist": [
             {
               "coindescs": [
@@ -94,7 +94,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Interloper, Are You?\u200B</line-height>",
-          "desc": "Prioritizes [UninvitedGuest]\nหากเป้าหมายมี [UninvitedGuest], มอบ +1 more ความรุนแรง [Sinking]  และ Count with this Skill",
+          "desc": "Prioritizes [UninvitedGuest]\nหากเป้าหมายมี [UninvitedGuest], มอบ +1 more ความรุนแรง [Sinking]  และ Count ด้วยสกิลนี้",
           "coinlist": [
             {
               "coindescs": [
@@ -324,7 +324,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
-          "desc": "[WhenUse] Atk Weight +1 ต่อทุกๆ 4 ขั้น [Charge] บนself (สูงสุด 5)\n[WhenUse] แต้มปะทะ +3 ต่อทุกๆ 5 ขั้น [Charge] บนself (สูงสุด 4)\n[WhenUse] ได้รับ 1 [VioletDamageUp] ต่อทุกๆ 6 ขั้น [Charge] บนself (สูงสุด 3)\n[EndBattle] All ขั้น [Charge] บนself expires. เสีย [ConnectedPlug]",
+          "desc": "[WhenUse] Atk Weight +1 ต่อทุกๆ 4 ขั้น [Charge] ที่ตัวเองมี (สูงสุด 5)\n[WhenUse] แต้มปะทะ +3 ต่อทุกๆ 5 ขั้น [Charge] ที่ตัวเองมี (สูงสุด 4)\n[WhenUse] ได้รับ 1 [VioletDamageUp] ต่อทุกๆ 6 ขั้น [Charge] ที่ตัวเองมี (สูงสุด 3)\n[EndBattle] ขั้น [Charge] ทั้งหมด ที่ตัวเองมี expires. เสีย [ConnectedPlug]",
           "coinlist": [
             {
               "coindescs": [
@@ -357,7 +357,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
-          "desc": "[CantDuel]\n[WhenUse] ได้รับ 10 [Protection]\n[WhenUse] Atk Weight +1 ต่อทุกๆ 4 ขั้น [Charge] บนself (สูงสุด 5)\n[WhenUse] แต้มปะทะ +3 ต่อทุกๆ 5 ขั้น [Charge] บนself (สูงสุด 4)\n[WhenUse] ได้รับ 1 [VioletDamageUp] ต่อทุกๆ 6 ขั้น [Charge] บนself (สูงสุด 3)",
+          "desc": "[CantDuel]\n[WhenUse] ได้รับ 10 [Protection]\n[WhenUse] Atk Weight +1 ต่อทุกๆ 4 ขั้น [Charge] ที่ตัวเองมี (สูงสุด 5)\n[WhenUse] แต้มปะทะ +3 ต่อทุกๆ 5 ขั้น [Charge] ที่ตัวเองมี (สูงสุด 4)\n[WhenUse] ได้รับ 1 [VioletDamageUp] ต่อทุกๆ 6 ขั้น [Charge] ที่ตัวเองมี (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -532,7 +532,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -573,7 +573,7 @@
                   "desc": "[OnSucceedAttack] หาก ยูนิทนี้ ทำ t ความเสียหาย แก่เป้าหมาย, มอบ [Vibration] เท่ากับ [Sinking]บนเป้าหมาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }

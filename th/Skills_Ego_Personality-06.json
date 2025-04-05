@@ -264,7 +264,7 @@
           "level": 1,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "หากเป้าหมายมี [Vibration], ทำ +((the sum of [Vibration] Potency และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 20%)",
+          "desc": "หากเป้าหมายมี [Vibration], ทำ +((the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 20%)",
           "coinlist": [
             {
               "coindescs": [
@@ -272,7 +272,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             }
@@ -282,7 +282,7 @@
           "level": 3,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "หากเป้าหมายมี [Vibration], ทำ +((the sum of [Vibration] Potency และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">25%</style>)\n<style=\"highlight\">- เมื่อมี 4+ highest Reson., ทำ +(5 + (the sum of [Vibration] Potency และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด 35%)</style>",
+          "desc": "หากเป้าหมายมี [Vibration], ทำ +((the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">25%</style>)\n<style=\"highlight\">- เมื่อมี 4+ highest Reson., ทำ +(5 + (the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด 35%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -290,10 +290,10 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Vibration] และ <style=\"highlight\">[Vibration] +2 ขั้น</style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationEcho]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -303,18 +303,18 @@
           "level": 4,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "หากเป้าหมายมี [Vibration], ทำ +(<style=\"highlight\">5 +</style> (the sum of [Vibration] Potency และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">30%</style>)\n- เมื่อมี 4+ highest Reson., ทำ +(<style=\"highlight\">7.5 +</style> (the sum of [Vibration] Potency และ Countบนเป้าหมาย)/<style=\"highlight\">1.5</style>)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด <style=\"highlight\">40%</style>)",
+          "desc": "หากเป้าหมายมี [Vibration], ทำ +(<style=\"highlight\">5 +</style> (the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">30%</style>)\n- เมื่อมี 4+ highest Reson., ทำ +(<style=\"highlight\">7.5 +</style> (the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/<style=\"highlight\">1.5</style>)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด <style=\"highlight\">40%</style>)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Vibration] และ <style=\"highlight\">+3</style> [Vibration] Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Vibration] และ <style=\"highlight\">+3</style> ขั้น [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationEcho]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -329,7 +329,7 @@
           "level": 1,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "[CantIdentify]\nTargets randomly\nหากเป้าหมายมี [Vibration], ทำ +((the sum of [Vibration] Potency และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 25%)\n- เมื่อมี 4+ highest Reson., raise the above cap to (สูงสุด 35%)",
+          "desc": "[CantIdentify]\nTargets randomly\nหากเป้าหมายมี [Vibration], ทำ +((the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 25%)\n- เมื่อมี 4+ highest Reson., raise the above cap to (สูงสุด 35%)",
           "coinlist": [
             {
               "coindescs": [
@@ -337,7 +337,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Vibration] และ [Vibration] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             }
@@ -347,7 +347,7 @@
           "level": 3,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "[CantIdentify]\nTargets randomly\nหากเป้าหมายมี [Vibration], ทำ +((the sum of [Vibration] Potency และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">30%</style>)\n- เมื่อมี 4+ highest Reson., <style=\"highlight\">ทำ +(5 + (the sum of [Vibration] Potency และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด 40%)</style>",
+          "desc": "[CantIdentify]\nTargets randomly\nหากเป้าหมายมี [Vibration], ทำ +((the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">30%</style>)\n- เมื่อมี 4+ highest Reson., <style=\"highlight\">ทำ +(5 + (the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด 40%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -355,13 +355,13 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Vibration] และ [Vibration] +3 ขั้น<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationEcho]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1</style>"
                 }
               ]
             }
@@ -371,21 +371,21 @@
           "level": 4,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "[CantIdentify]\nTargets randomly\nหากเป้าหมายมี [Vibration], ทำ +(<style=\"highlight\">5</style> + (the sum of [Vibration] Potency และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">40%</style>)\n- เมื่อมี 4+ highest Reson., ทำ +(<style=\"highlight\">7.5</style> + (the sum of [Vibration] Potency และ Countบนเป้าหมาย)/<style=\"highlight\">1.5</style>)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด <style=\"highlight\">50%</style>)",
+          "desc": "[CantIdentify]\nTargets randomly\nหากเป้าหมายมี [Vibration], ทำ +(<style=\"highlight\">5</style> + (the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">40%</style>)\n- เมื่อมี 4+ highest Reson., ทำ +(<style=\"highlight\">7.5</style> + (the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/<style=\"highlight\">1.5</style>)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด <style=\"highlight\">50%</style>)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">6</style> [Vibration] และ <style=\"highlight\">+6</style> [Vibration] Count"
+                  "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">6</style> [Vibration] และ <style=\"highlight\">+6</style> ขั้น [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationEcho]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1<style=\"highlight\"></style>"
                 }
               ]
             }

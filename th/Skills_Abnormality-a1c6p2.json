@@ -71,7 +71,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [AttackDown] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -363,7 +363,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]Count และ 3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 ขั้น [Laceration] และ 3 [Burst] Count"
                 }
               ]
             },
@@ -559,7 +559,7 @@
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 20+ [Laceration], ทำ +100% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
-                  "desc": "[EnemyKill] Reuse this Skill (1 time max)"
+                  "desc": "[EnemyKill] Reuse this Skill (สูงสุด 1 ครั้ง)"
                 }
               ]
             }
@@ -642,7 +642,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>You Little...\u200B</line-height>",
-          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPbBe]\nIf ยูนิทนี้'s Speed is faster than the target ไป 3 or more, reuse this Skill (1 time max)",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPbBe]\nIf ยูนิทนี้'s Speed is faster than the target ไป 3 or more, reuse this Skill (สูงสุด 1 ครั้ง)",
           "coinlist": [
             {
               "coindescs": [

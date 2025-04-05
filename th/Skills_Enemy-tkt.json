@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>จากไปกับเธอ\u200B</line-height>",
+          "name": "<line-height=120%>ไปไหนก็ไป\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Vibration] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ [Vibration] Count เท่ากับ [Vibration] Countบนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] ได้รับ ขั้น [Vibration] เท่ากับ ขั้น [Vibration]บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ [Vibration] +2 ขั้น"
@@ -30,7 +30,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>My Secret Weapon\u200B</line-height>",
+          "name": "<line-height=120%>อาวุธลับของฉัน\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Vibration] +2 ขั้น",
           "coinlist": [
             {
@@ -70,20 +70,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Filthy Watch Chains!\u200B</line-height>",
-          "desc": "แต้มปะทะ +1 ต่อทุกๆ 5 [Vibration] Countบนself (สูงสุด 2)\n[WhenUse] Trigger [Switch_Vibration] to convert [Vibration]บนself to [VibrationDistribution]",
+          "name": "<line-height=120%>โซ่นาฬิกาโสโครก!\u200B</line-height>",
+          "desc": "แต้มปะทะ +1 ต่อทุกๆ 5 ขั้น [Vibration] ที่ตัวเองมี (สูงสุด 2)\n[WhenUse] เปิดใช้ [Switch_Vibration] เพื่อแปลง [Vibration] ที่ตัวเองมี ให้กลายเป็น [VibrationDistribution]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Vibration] Count เท่ากับ [Vibration] Countบนself"
+                  "desc": "[OnSucceedAttack] มอบ ขั้น [Vibration] เท่ากับ ขั้น [Vibration] ที่ตัวเองมี"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             }
@@ -97,7 +97,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 2 x ([Vibration] Countบนself) HP โล่ (สูงสุด 20)",
+          "desc": "[StartBattle] ได้รับ 2 x (ขั้น [Vibration] ที่ตัวเองมี) HP โล่ (สูงสุด 20)",
           "coinlist": [
             {
               "coindescs": [
@@ -115,7 +115,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Outta My Way\u200B</line-height>",
+          "name": "<line-height=120%>อย่าขวางดิ\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Vibration] +2 ขั้น",
           "coinlist": [
             {
@@ -140,7 +140,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>I'm Pretty Good, You Know\u200B</line-height>",
+          "name": "<line-height=120%>จะว่าไปแล้ว ฉันเองก็เก่งอยู่นะเนี่ย\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Vibration] +2 ขั้น",
           "coinlist": [
             {
@@ -180,8 +180,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Vile Watch Chains!\u200B</line-height>",
-          "desc": "แต้มปะทะ +1 ต่อทุกๆ 5 [Vibration] Countบนself (สูงสุด 2)\n[WhenUse] Trigger [Switch_Vibration] to convert [Vibration]บนself to [VibrationDistribution]",
+          "name": "<line-height=120%>โซ่นาฬิกาสกปรก!\u200B</line-height>",
+          "desc": "แต้มปะทะ +1 ต่อทุกๆ 5 ขั้น [Vibration] ที่ตัวเองมี (สูงสุด 2)\n[WhenUse] เปิดใช้ [Switch_Vibration] เพื่อแปลง [Vibration] ที่ตัวเองมี ให้กลายเป็น [VibrationDistribution]",
           "coinlist": [
             {
               "coindescs": [
@@ -193,7 +193,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             }
@@ -207,7 +207,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 2 x ([Vibration] Countบนself) HP โล่ (สูงสุด 20)",
+          "desc": "[StartBattle] ได้รับ 2 x (ขั้น [Vibration] ที่ตัวเองมี) HP โล่ (สูงสุด 20)",
           "coinlist": [
             {
               "coindescs": [
@@ -225,7 +225,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Have You No Shame?\u200B</line-height>",
+          "name": "<line-height=120%>นี่แกไม่อายเขาบ้างรึไง?\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Vibration] +1 ขั้น",
           "coinlist": [
             {
@@ -251,7 +251,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>I See, You Have No Shame\u200B</line-height>",
+          "name": "<line-height=120%>ไม่อายเลยนี่หว่า รับทราบรู้เรื่อง\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Vibration] +1 ขั้น",
           "coinlist": [
             {
@@ -277,7 +277,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Can You Protect Them?\u200B</line-height>",
+          "name": "<line-height=120%>จะปกป้องมันได้ไหม?\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Vibration] +1 ขั้น",
           "coinlist": [
             {
@@ -290,10 +290,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 10+ [Vibration] Countบนself, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เมื่อมี 10+ ขั้น [Vibration] ที่ตัวเองมี, เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 15+ [Vibration] Potency, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 15+ ปริมาณ [Vibration], เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             }
@@ -306,7 +306,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Can't Use That Weapon Now\u200B</line-height>",
+          "name": "<line-height=120%>ยังใช้อาวุธนั่นไม่ได้ตอนนี้\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Vibration] +2 ขั้น",
           "coinlist": [
             {
@@ -326,7 +326,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCollapse]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationCollapse]"
                 }
               ]
             }
@@ -339,8 +339,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Ready For A Beating?\u200B</line-height>",
-          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [VibrationCollapse]\n[WhenUse] มอบ [Vibration] Count เท่ากับ [Vibration] Countบนself แก่พันธมิตรอื่นทุกคน\n[WhenUse] Trigger [Switch_Vibration]บนall allies(รวมยูนิทนี้ด้วย) to convert their [Vibration] to [VibrationDistribution]",
+          "name": "<line-height=120%>พร้อมจะหมัดมวยยัง?\u200B</line-height>",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [VibrationCollapse]\n[WhenUse] มอบ ขั้น [Vibration] เท่ากับ ขั้น [Vibration] ที่ตัวเองมี แก่พันธมิตรอื่นทุกคน\n[WhenUse] เปิดใช้ [Switch_Vibration]บนพันธมิตรทุกคน(รวมยูนิทนี้ด้วย) เพื่อแปลง [Vibration] ของพวกเขาให้เป็น [VibrationDistribution]",
           "coinlist": [
             {},
             {},
@@ -354,7 +354,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationEcho]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [FusionVibration] แปลงเป็น[VibrationEcho]"
                 }
               ]
             }
@@ -368,7 +368,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 3 x ([Vibration] Countบนself) HP โล่ (สูงสุด 30)",
+          "desc": "[StartBattle] ได้รับ 3 x (ขั้น [Vibration] ที่ตัวเองมี) HP โล่ (สูงสุด 30)",
           "coinlist": [
             {
               "coindescs": [
@@ -386,8 +386,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>For the Greater Good\u200B</line-height>",
-          "desc": "[CantDuel]\n[StartBattle] Draw all other allies' [Vibration] Count to self; [Vibration]บนall allies expire\n[StartBattle] ได้รับ 1 [AttackUp] ต่อทุกๆ 3 [Vibration] Countบนself\n[WhenUse] ได้รับ 9 [Vibration] Count",
+          "name": "<line-height=120%>เพื่อสิ่งที่ดียิ่งกว่า\u200B</line-height>",
+          "desc": "[CantDuel]\n[StartBattle] นำขั้น [Vibration] ของพันธมิตรอื่นทุกคน มาเป็นของตัวเอง; ลบ[Vibration]บนพันธมิตรทุกคน\n[StartBattle] ได้รับ 1 [AttackUp] ต่อทุกๆ 3 ขั้น [Vibration] ที่ตัวเองมี\n[WhenUse] ได้รับ 9 ขั้น [Vibration]",
           "coinlist": [
             {
               "coindescs": [
@@ -395,7 +395,7 @@
                   "desc": "[OnSucceedAttack] มอบ 10 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ 10% bonus Sloth ความเสียหาย ต่อทุกๆ [Vibration] Countบนself"
+                  "desc": "[OnSucceedAttack] ทำ 10% ความเสียหาย Sloth เพิ่มเติม ต่อทุกๆ ขั้น [Vibration] ที่ตัวเองมี"
                 }
               ]
             },
@@ -405,20 +405,20 @@
                   "desc": "[OnSucceedAttack] มอบ [Vibration] +4 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ 10% bonus Sloth ความเสียหาย ต่อทุกๆ [Vibration] Countบนself"
+                  "desc": "[OnSucceedAttack] ทำ 10% ความเสียหาย Sloth เพิ่มเติม ต่อทุกๆ ขั้น [Vibration] ที่ตัวเองมี"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 3 [Vibration] Countบนself, และ trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] จ่าย 3 ขั้น [Vibration] ที่ตัวเองมี, และ เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 3 [Vibration] Countบนself, และ trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] จ่าย 3 ขั้น [Vibration] ที่ตัวเองมี, และ เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 3 [Vibration] Countบนself, และ trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] จ่าย 3 ขั้น [Vibration] ที่ตัวเองมี, และ เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             }
@@ -431,20 +431,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Collection Stop-and-search\u200B</line-height>",
+          "name": "<line-height=120%>หยุดแล้วค้นหาคอลเล็คชั่น\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Vibration] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Vibration] Count, มอบ 1 [[InterlockingTime]]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ ขั้น [Vibration], มอบ 1 [InterlockingTime]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Vibration] Count, มอบ 1 [[InterlockingTime]]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ ขั้น [Vibration], มอบ 1 [InterlockingTime]"
                 },
                 {
                   "desc": "[OnSucceedAttack] ได้รับ [Vibration] +1 ขั้น"
@@ -460,8 +460,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Please Stop.\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ [Vibration] +2 ขั้น\n[WhenUse] เมื่อมี 4+ [Vibration] Count, แต้มปะทะ +1",
+          "name": "<line-height=120%>โปรดอย่าขยับ\u200B</line-height>",
+          "desc": "[WhenUse] ได้รับ [Vibration] +2 ขั้น\n[WhenUse] เมื่อมี 4+ ขั้น [Vibration], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -469,7 +469,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Paralysis] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 4+ [Vibration] Count, มอบ 8 [Vibration]"
+                  "desc": "[OnSucceedAttack] เมื่อมี 4+ ขั้น [Vibration], มอบ 8 [Vibration]"
                 }
               ]
             },
@@ -482,7 +482,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 4+ [Vibration] Count, มอบ 8 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] เมื่อมี 4+ ขั้น [Vibration], มอบ 8 ขั้น [Vibration]"
                 }
               ]
             }
@@ -495,8 +495,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Enforcing Collections.\u200B</line-height>",
-          "desc": "[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Vibration] Countบนself (สูงสุด 2)\n[WhenUse] เมื่อมี 5+ [Vibration] Count, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [Vibration] Count. (สูงสุด 100%)\n[EndSkill] Consume all [Vibration] Countบนself",
+          "name": "<line-height=120%>เข้าควบคุมคอลเล็คชั่น\u200B</line-height>",
+          "desc": "[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 ขั้น [Vibration] ที่ตัวเองมี (สูงสุด 2)\n[WhenUse] เมื่อมี 5+ ขั้น [Vibration], ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Vibration]. (สูงสุด 100%)\n[EndSkill] จ่าย ขั้น [Vibration] ทั้งหมด ที่ตัวเองมี",
           "coinlist": [
             {
               "coindescs": [
@@ -504,10 +504,10 @@
                   "desc": "[OnSucceedAttack] ได้รับ [Vibration] +2 ขั้น ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 8+ [Vibration], มอบ 1 [[InterlockingTime]]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 8+ [Vibration], มอบ 1 [InterlockingTime]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 4+ [Vibration] Count, มอบ 8 [Vibration]"
+                  "desc": "[OnSucceedAttack] เมื่อมี 4+ ขั้น [Vibration], มอบ 8 [Vibration]"
                 }
               ]
             },
@@ -517,23 +517,23 @@
                   "desc": "[OnSucceedAttack] ได้รับ [Vibration] +2 ขั้น ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Vibration] Count, มอบ 1 [[InterlockingTime]]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ ขั้น [Vibration], มอบ 1 [InterlockingTime]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 4+ [Vibration] Count, มอบ 5 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] เมื่อมี 4+ ขั้น [Vibration], มอบ 5 ขั้น [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 7+ [Vibration] Count, มอบ 1 [[InterlockingTime]]"
+                  "desc": "[OnSucceedAttack] เมื่อมี 7+ ขั้น [Vibration], มอบ 1 [InterlockingTime]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 4+ [Vibration] Count, trigger [Switch_Vibration] into [VibrationChain]"
+                  "desc": "[OnSucceedAttack] เมื่อมี 4+ ขั้น [Vibration], เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationChain]"
                 }
               ]
             }
@@ -547,7 +547,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>กู้ยืมเวลา\u200B</line-height>",
-          "desc": "[StartBattle] Consume 5 [Vibration] Count และ ได้รับ +3 [TimeRentalTwo] Count",
+          "desc": "[StartBattle] จ่าย 5 ขั้น [Vibration] และ ได้รับ [TimeRentalTwo] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -565,13 +565,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Prepare To Collect\u200B</line-height>",
+          "name": "<line-height=120%>เตรียมตัวเก็บกู้\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Vibration] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 3+ [Vibration] Count, มอบ 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] เมื่อมี 3+ ขั้น [Vibration], มอบ 3 [Vibration]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] ได้รับ [Vibration] +1 ขั้น"
@@ -587,7 +587,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>T Corp. Accelerated Amputator\u200B</line-height>",
+          "name": "<line-height=120%>ใบมีดความเร่งเวลาสูง T คอร์ป\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Vibration] +2 ขั้น",
           "coinlist": [
             {
@@ -622,8 +622,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Your Timepiece, หาก You Will.\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 5+ [Vibration] Count, แต้มปะทะ +1\n[WhenUse] ได้รับ [Vibration] +2 ขั้น\n[WinDuel] Consume 3 [Vibration] Countบนself และ ได้รับ +1 [TimeRentalTwo] Count",
+          "name": "<line-height=120%>ให้ความร่วมมือ ช่วยแสดงนาฬิกาหน่อย\u200B</line-height>",
+          "desc": "[WhenUse] เมื่อมี 5+ ขั้น [Vibration], แต้มปะทะ +1\n[WhenUse] ได้รับ [Vibration] +2 ขั้น\n[WinDuel] จ่าย 3 ขั้น [Vibration] ที่ตัวเองมี และ ได้รับ [TimeRentalTwo] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -638,7 +638,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Reduction] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 5+ [Vibration] Count, trigger [Switch_Vibration] into [VibrationChain]"
+                  "desc": "[OnSucceedAttack] เมื่อมี 5+ ขั้น [Vibration], เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationChain]"
                 }
               ]
             }
@@ -651,37 +651,37 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Enforcing Collections.\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ [Vibration] +3 ขั้น\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 4 [Vibration] Countบนself (สูงสุด 3)\n[WinDuel] Consume 5 [Vibration] Countบนself และ ได้รับ +3 [TimeRentalTwo] Count",
+          "name": "<line-height=120%>เข้าควบคุมคอลเล็คชั่น\u200B</line-height>",
+          "desc": "[WhenUse] ได้รับ [Vibration] +3 ขั้น\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 4 ขั้น [Vibration] ที่ตัวเองมี (สูงสุด 3)\n[WinDuel] จ่าย 5 ขั้น [Vibration] ที่ตัวเองมี และ ได้รับ [TimeRentalTwo] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 1 [Vibration] Countบนself to มอบ 1 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] จ่าย 1 ขั้น [Vibration] ที่ตัวเองมี เพื่อมอบ 1 [Vulnerable]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 1 [Vibration] Countบนself to มอบ [Vibration] +3 ขั้น"
+                  "desc": "[OnSucceedAttack] จ่าย 1 ขั้น [Vibration] ที่ตัวเองมี เพื่อมอบ [Vibration] +3 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 1 [Vibration] Countบนself to มอบ 8 [Vibration]"
+                  "desc": "[OnSucceedAttack] จ่าย 1 ขั้น [Vibration] ที่ตัวเองมี เพื่อมอบ 8 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 2 [Vibration] Countบนself to trigger [VibrationExplosion]; then, reuse this เหรียญ (1 time max)"
+                  "desc": "[OnSucceedAttack] จ่าย 2 ขั้น [Vibration] ที่ตัวเองมี เพื่อเปิดใช้ [VibrationExplosion]; จากนั้น ใช้เหรียญนี้ซ้ำ (สูงสุด 1 ครั้ง)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 5 [Vibration] Countบนself to มอบ 2 [TimeAccumulation]"
+                  "desc": "[OnSucceedAttack] จ่าย 5 ขั้น [Vibration] ที่ตัวเองมี เพื่อมอบ 2 [TimeAccumulation]"
                 }
               ]
             }
@@ -695,7 +695,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>กู้ยืมเวลา\u200B</line-height>",
-          "desc": "[StartBattle] Consume 4 [Vibration] Count และ ได้รับ +3 [TimeRentalTwo] Count\n[StartBattle] ได้รับ [Vibration] +2 ขั้น",
+          "desc": "[StartBattle] จ่าย 4 ขั้น [Vibration] และ ได้รับ [TimeRentalTwo] +3 ขั้น\n[StartBattle] ได้รับ [Vibration] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -713,13 +713,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Prepare To Collect\u200B</line-height>",
+          "name": "<line-height=120%>เตรียมตัวเก็บกู้\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Vibration] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 3+ [Vibration] Count, มอบ 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] เมื่อมี 3+ ขั้น [Vibration], มอบ 3 [Vibration]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] ได้รับ [Vibration] +1 ขั้น"
@@ -735,13 +735,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>T Corp. Time Snare\u200B</line-height>",
+          "name": "<line-height=120%>บวงกาลเวลา T คอร์ป\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Vibration] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 1 [Vibration] Countบนself to มอบ 2 [Paralysis] ในเทิร์นหน้า. มอบ 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] จ่าย 1 ขั้น [Vibration] ที่ตัวเองมี เพื่อมอบ 2 [Paralysis] ในเทิร์นหน้า. มอบ 2 [Vibration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] ได้รับ [Vibration] +2 ขั้น"
@@ -751,7 +751,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 1 [Vibration] Countบนself to มอบ 2 [Paralysis] ในเทิร์นหน้า. มอบ 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] จ่าย 1 ขั้น [Vibration] ที่ตัวเองมี เพื่อมอบ 2 [Paralysis] ในเทิร์นหน้า. มอบ 2 [Vibration]"
                 }
               ]
             }
@@ -764,20 +764,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Stand Still.\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 5+ [Vibration] Count, แต้มปะทะ +1\n[WhenUse] ได้รับ [Vibration] +2 ขั้น\n[WinDuel] Consume 3 [Vibration] Countบนself และ ได้รับ +1 [TimeRentalTwo] Count",
+          "name": "<line-height=120%>ยืนนิ่งๆ\u200B</line-height>",
+          "desc": "[WhenUse] เมื่อมี 5+ ขั้น [Vibration], แต้มปะทะ +1\n[WhenUse] ได้รับ [Vibration] +2 ขั้น\n[WinDuel] จ่าย 3 ขั้น [Vibration] ที่ตัวเองมี และ ได้รับ [TimeRentalTwo] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 2 [Vibration] Countบนself to มอบ 2 [Binding] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] จ่าย 2 ขั้น [Vibration] ที่ตัวเองมี เพื่อมอบ 2 [Binding] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 2 [Vibration] Countบนself to มอบ 2 [ParryingResultDown] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] จ่าย 2 ขั้น [Vibration] ที่ตัวเองมี เพื่อมอบ 2 [ParryingResultDown] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -790,37 +790,37 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Enforcing Collections.\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ [Vibration] +3 ขั้น\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 4 [Vibration] Countบนself (สูงสุด 3)\n[WinDuel] Consume 5 [Vibration] Countบนself และ ได้รับ +3 [TimeRentalTwo] Count",
+          "name": "<line-height=120%>เข้าควบคุมคอลเล็คชั่น\u200B</line-height>",
+          "desc": "[WhenUse] ได้รับ [Vibration] +3 ขั้น\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 4 ขั้น [Vibration] ที่ตัวเองมี (สูงสุด 3)\n[WinDuel] จ่าย 5 ขั้น [Vibration] ที่ตัวเองมี และ ได้รับ [TimeRentalTwo] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 1 [Vibration] Countบนself to มอบ 1 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] จ่าย 1 ขั้น [Vibration] ที่ตัวเองมี เพื่อมอบ 1 [Vulnerable]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 1 [Vibration] Countบนself to มอบ [Vibration] +3 ขั้น"
+                  "desc": "[OnSucceedAttack] จ่าย 1 ขั้น [Vibration] ที่ตัวเองมี เพื่อมอบ [Vibration] +3 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 1 [Vibration] Countบนself to มอบ 8 [Vibration]"
+                  "desc": "[OnSucceedAttack] จ่าย 1 ขั้น [Vibration] ที่ตัวเองมี เพื่อมอบ 8 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 2 [Vibration] Countบนself to trigger [VibrationExplosion]; then, reuse this เหรียญ (1 time max)"
+                  "desc": "[OnSucceedAttack] จ่าย 2 ขั้น [Vibration] ที่ตัวเองมี เพื่อเปิดใช้ [VibrationExplosion]; จากนั้น ใช้เหรียญนี้ซ้ำ (สูงสุด 1 ครั้ง)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 5 [Vibration] Countบนself to มอบ 2 [TimeAccumulation]"
+                  "desc": "[OnSucceedAttack] จ่าย 5 ขั้น [Vibration] ที่ตัวเองมี เพื่อมอบ 2 [TimeAccumulation]"
                 }
               ]
             }
@@ -834,7 +834,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>กู้ยืมเวลา\u200B</line-height>",
-          "desc": "[StartBattle] Consume 4 [Vibration] Count และ ได้รับ +3 [TimeRentalTwo] Count\n[StartBattle] ได้รับ [Vibration] +2 ขั้น",
+          "desc": "[StartBattle] จ่าย 4 ขั้น [Vibration] และ ได้รับ [TimeRentalTwo] +3 ขั้น\n[StartBattle] ได้รับ [Vibration] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [

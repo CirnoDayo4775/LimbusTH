@@ -62,7 +62,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] มอบ [Laceration] Count เท่ากับ 1/4 of [Laceration] Potencyบนเป้าหมาย (สูงสุด 10)"
+                  "desc": "[CriticalOnSucceedAttack] มอบ [Laceration] Count เท่ากับ 1/4 of ปริมาณ [Laceration]บนเป้าหมาย (สูงสุด 10)"
                 }
               ]
             },
@@ -78,7 +78,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] มอบ [Laceration] Count เท่ากับ 1/4 of [Laceration] Potencyบนเป้าหมาย (สูงสุด 10)"
+                  "desc": "[CriticalOnSucceedAttack] มอบ [Laceration] Count เท่ากับ 1/4 of ปริมาณ [Laceration]บนเป้าหมาย (สูงสุด 10)"
                 }
               ]
             },
@@ -94,7 +94,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] มอบ [Laceration] Count เท่ากับ 1/3 of [Laceration] Potencyบนเป้าหมาย (สูงสุด 10)"
+                  "desc": "[CriticalOnSucceedAttack] มอบ [Laceration] Count เท่ากับ 1/3 of ปริมาณ [Laceration]บนเป้าหมาย (สูงสุด 10)"
                 }
               ]
             },
@@ -360,7 +360,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก the sum of the target's [Vibration] Potency + Count is 20 or higher, trigger [Switch_Vibration]บนเป้าหมาย, converting [Vibration] to [VibrationCollapse]"
+                  "desc": "[OnSucceedAttack] หาก the sum of the target's ปริมาณ [Vibration] + Count is 20 or higher, เปิดใช้ [Switch_Vibration]บนเป้าหมาย, converting [Vibration] to [VibrationCollapse]"
                 }
               ]
             }
@@ -388,7 +388,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก the sum of the target's [Vibration] Potency + Count is 20 or higher, trigger [Switch_Vibration]บนเป้าหมาย, converting [Vibration] to [VibrationCollapse]"
+                  "desc": "[OnSucceedAttack] หาก the sum of the target's ปริมาณ [Vibration] + Count is 20 or higher, เปิดใช้ [Switch_Vibration]บนเป้าหมาย, converting [Vibration] to [VibrationCollapse]"
                 }
               ]
             }
@@ -435,7 +435,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>40S-2 Activation\u200B</line-height>",
-          "desc": "[WhenUse] Consume 5 ขั้น [Charge]  to ได้รับ แต้มเหรียญ +1",
+          "desc": "[WhenUse] จ่าย 5 ขั้น [Charge]  เพื่อได้รับ แต้มเหรียญ +1",
           "coinlist": [
             {},
             {
@@ -450,7 +450,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>40S-2 Activation\u200B</line-height>",
-          "desc": "[WhenUse] Consume 5 ขั้น [Charge]  to ได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] จ่าย 5 ขั้น [Charge]  เพื่อได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -471,7 +471,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>40S-2 Activation\u200B</line-height>",
-          "desc": "[WhenUse] Consume 5 ขั้น [Charge]  to ได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] จ่าย 5 ขั้น [Charge]  เพื่อได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -497,7 +497,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Photoelectric Mark\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , consume 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] Consume 10 ขั้น [Charge]  to ได้รับ แต้มเหรียญ +1",
+          "desc": "[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , จ่าย 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] จ่าย 10 ขั้น [Charge]  เพื่อได้รับ แต้มเหรียญ +1",
           "coinlist": [
             {},
             {},
@@ -513,13 +513,13 @@
         {
           "level": 2,
           "name": "<line-height=120%>Photoelectric Mark\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , consume 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] Consume 10 ขั้น [Charge]  to ได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , จ่าย 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] จ่าย 10 ขั้น [Charge]  เพื่อได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก ยูนิทนี้ consumed ขั้น [Charge] , มอบ 2 [DefenseDown]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก ยูนิทนี้ จ่ายd ขั้น [Charge] , มอบ 2 [DefenseDown]</style>"
                 }
               ]
             },
@@ -538,19 +538,19 @@
         {
           "level": 4,
           "name": "<line-height=120%>Photoelectric Mark\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , consume 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] Consume 10 ขั้น [Charge]  to ได้รับ แต้มเหรียญ <style=\"highlight\">+2</style>",
+          "desc": "[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , จ่าย 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] จ่าย 10 ขั้น [Charge]  เพื่อได้รับ แต้มเหรียญ <style=\"highlight\">+2</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก ยูนิทนี้ consumed ขั้น [Charge] , มอบ 2 [DefenseDown]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก ยูนิทนี้ จ่ายd ขั้น [Charge] , มอบ 2 [DefenseDown]</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้ consumed ขั้น [Charge] , มอบ 2 [DefenseDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้ จ่ายd ขั้น [Charge] , มอบ 2 [DefenseDown]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -640,7 +640,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Charge\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ [Charge] +3 ขั้น (once ต่อทุกๆ turn)",
+          "desc": "[WhenUse] ได้รับ [Charge] +3 ขั้น (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {}
           ]
@@ -850,7 +850,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>โอ้ ดูลาฮานเอ๋ย...!\u200B</line-height>",
-          "desc": "[DuelCounter]\n[StartBattle] หาก ยูนิทนี้ ไม่มี [NightPathfinding], ได้รับ 1 [NightPathfinding] ในเทิร์นหน้า (once ต่อทุกๆ turn)\n[EndBattle] หาก ยูนิทนี้ has [NightPathfinding], เสีย [NightPathfinding]",
+          "desc": "[DuelCounter]\n[StartBattle] หาก ยูนิทนี้ ไม่มี [NightPathfinding], ได้รับ 1 [NightPathfinding] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\n[EndBattle] หาก ยูนิทนี้ has [NightPathfinding], เสีย [NightPathfinding]",
           "coinlist": [
             {},
             {
@@ -865,7 +865,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>โอ้ ดูลาฮานเอ๋ย...!\u200B</line-height>",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] หาก ยูนิทนี้ has [NightPathfinding] และ has 15+ SP, use Lament, Mourn, และ Despairเป็นCounter (once ต่อทุกๆ turn)</style>\n[StartBattle] หาก ยูนิทนี้ ไม่มี [NightPathfinding], ได้รับ 1 [NightPathfinding] ในเทิร์นหน้า (once ต่อทุกๆ turn)\n<style=\"highlight\">[WhenUse] หากเป้าหมายมี 6+ [Sinking], แต้มเหรียญ +1</style>\n[EndBattle] หาก ยูนิทนี้ has [NightPathfinding], เสีย [NightPathfinding]",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] หาก ยูนิทนี้ has [NightPathfinding] และ has 15+ SP, use Lament, Mourn, และ Despairเป็นCounter (1 ครั้งต่อเทิร์น)</style>\n[StartBattle] หาก ยูนิทนี้ ไม่มี [NightPathfinding], ได้รับ 1 [NightPathfinding] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\n<style=\"highlight\">[WhenUse] หากเป้าหมายมี 6+ [Sinking], แต้มเหรียญ +1</style>\n[EndBattle] หาก ยูนิทนี้ has [NightPathfinding], เสีย [NightPathfinding]",
           "coinlist": [
             {},
             {
@@ -880,7 +880,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>โอ้ ดูลาฮานเอ๋ย...!\u200B</line-height>",
-          "desc": "[DuelCounter]\n[BeforeUse] หาก ยูนิทนี้ has [NightPathfinding] และ has 15+ SP, use Lament, Mourn, และ Despairเป็นCounter (once ต่อทุกๆ turn)\n[StartBattle] หาก ยูนิทนี้ ไม่มี [NightPathfinding], ได้รับ 1 [NightPathfinding] ในเทิร์นหน้า (once ต่อทุกๆ turn)\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 3 [Sinking]บนเป้าหมาย (สูงสุด 2)</style>\n<style=\"highlight\">[WinDuel] ได้รับ [AttackUp] ในเทิร์นหน้า เท่ากับ (# of Clashes/3) (สูงสุด 3, อีกครั้ง ต่อทุกๆ turn)</style>\n[EndBattle] หาก ยูนิทนี้ has [NightPathfinding], เสีย [NightPathfinding]",
+          "desc": "[DuelCounter]\n[BeforeUse] หาก ยูนิทนี้ has [NightPathfinding] และ has 15+ SP, use Lament, Mourn, และ Despairเป็นCounter (1 ครั้งต่อเทิร์น)\n[StartBattle] หาก ยูนิทนี้ ไม่มี [NightPathfinding], ได้รับ 1 [NightPathfinding] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 3 [Sinking]บนเป้าหมาย (สูงสุด 2)</style>\n<style=\"highlight\">[WinDuel] ได้รับ [AttackUp] ในเทิร์นหน้า เท่ากับ (# of Clashes/3) (สูงสุด 3, อีกครั้ง ต่อทุกๆ turn)</style>\n[EndBattle] หาก ยูนิทนี้ has [NightPathfinding], เสีย [NightPathfinding]",
           "coinlist": [
             {},
             {
@@ -1058,7 +1058,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Return Fire\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น\n<style=\"highlight\">[WhenUse] ได้รับ 1 [Agility] ในเทิร์นหน้า (once ต่อทุกๆ turn)</style>",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น\n<style=\"highlight\">[WhenUse] ได้รับ 1 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1089,7 +1089,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Return Fire\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WhenUse] ได้รับ <style=\"highlight\">2</style> [Agility] ในเทิร์นหน้า (once ต่อทุกๆ turn)",
+          "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WhenUse] ได้รับ <style=\"highlight\">2</style> [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -1142,7 +1142,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Headshot\u200B</line-height>",
-          "desc": "<style=\"highlight\">If ยูนิทนี้'s Speed is faster than the target's, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 1 Speed difference (สูงสุด 30%)</style>\n[WhenUse] ได้รับ 3 [Breath] และ [Breath] +1 ขั้น\n<style=\"highlight\">[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า (once ต่อทุกๆ turn)</style>",
+          "desc": "<style=\"highlight\">If ยูนิทนี้'s Speed is faster than the target's, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 1 Speed difference (สูงสุด 30%)</style>\n[WhenUse] ได้รับ 3 [Breath] และ [Breath] +1 ขั้น\n<style=\"highlight\">[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1156,7 +1156,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [PenetrateTakeDamageUp] (2 times ต่อทุกๆ turn)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] มอบ 1 [PenetrateTakeDamageUp] ในเทิร์นหน้า (once ต่อทุกๆ turn)</style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] มอบ 1 [PenetrateTakeDamageUp] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)</style>"
                 }
               ]
             }
@@ -1165,7 +1165,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Headshot\u200B</line-height>",
-          "desc": "If ยูนิทนี้'s Speed is faster than the target's, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 1 Speed difference <style=\"highlight\">(สูงสุด 50%)</style>\n[WhenUse] ได้รับ 3 [Breath] และ +<style=\"highlight\">2</style> [Breath] Count\n[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า (once ต่อทุกๆ turn)",
+          "desc": "If ยูนิทนี้'s Speed is faster than the target's, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 1 Speed difference <style=\"highlight\">(สูงสุด 50%)</style>\n[WhenUse] ได้รับ 3 [Breath] และ +<style=\"highlight\">2</style> [Breath] Count\n[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -1179,7 +1179,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [PenetrateTakeDamageUp] (2 times ต่อทุกๆ turn)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] มอบ 1 [PenetrateTakeDamageUp] ในเทิร์นหน้า (once ต่อทุกๆ turn)<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] มอบ 1 [PenetrateTakeDamageUp] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1193,7 +1193,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Goin' for the Bullseye\u200B</line-height>",
-          "desc": "[BeforeUse] หาก ยูนิทนี้ has [Bullet_LogicAtelier], เปิดใช้งาน 'AL-HV Pulverisation Round' instead\nIf ยูนิทนี้'s Speed is faster than the target's, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 1 Speed difference (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM]บนself, ได้รับ (value consumed x 2) ปริมาณ [Breath], และ ทำ +(value consumed x 12.5)% ความเสียหายเพิ่มเติ่ม",
+          "desc": "[BeforeUse] หาก ยูนิทนี้ has [Bullet_LogicAtelier], เปิดใช้งาน 'AL-HV Pulverisation Round' instead\nIf ยูนิทนี้'s Speed is faster than the target's, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 1 Speed difference (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value จ่ายd x 2) ปริมาณ [Breath], และ ทำ +(value จ่ายd x 12.5)% ความเสียหายเพิ่มเติ่ม",
           "coinlist": [
             {
               "coindescs": [
@@ -1204,7 +1204,7 @@
                   "desc": "+50% ความเสียหายเมื่อติดคริ"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] เมื่อมี more than 30 ปริมาณ [Breath], consume up to 10 of ปริมาณ [Breath] over 30 to ทำ +(ปริมาณ [Breath] consumed x 10)% ความเสียหายเพิ่มเติ่ม"
+                  "desc": "[CriticalOnSucceedAttack] เมื่อมี more than 30 ปริมาณ [Breath], จ่าย up to 10 of ปริมาณ [Breath] over 30 to ทำ +(ปริมาณ [Breath] จ่ายd x 10)% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             }
@@ -1213,7 +1213,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Goin' for the Bullseye\u200B</line-height>",
-          "desc": "[BeforeUse] หาก ยูนิทนี้ has [Bullet_LogicAtelier], เปิดใช้งาน 'AL-HV Pulverisation Round' instead\nIf ยูนิทนี้'s Speed is faster than the target's, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 1 Speed difference (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM]บนself, ได้รับ (value consumed x 2) ปริมาณ [Breath], และ ทำ +(value consumed x 12.5)% ความเสียหายเพิ่มเติ่ม\n<style=\"highlight\">[EndSkill] ได้รับ [Breath] +2 ขั้น</style>",
+          "desc": "[BeforeUse] หาก ยูนิทนี้ has [Bullet_LogicAtelier], เปิดใช้งาน 'AL-HV Pulverisation Round' instead\nIf ยูนิทนี้'s Speed is faster than the target's, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 1 Speed difference (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value จ่ายd x 2) ปริมาณ [Breath], และ ทำ +(value จ่ายd x 12.5)% ความเสียหายเพิ่มเติ่ม\n<style=\"highlight\">[EndSkill] ได้รับ [Breath] +2 ขั้น</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1227,7 +1227,7 @@
                   "desc": "<style=\"highlight\">+(target's Pierce Res. x 50)% ความเสียหายเมื่อติดคริ</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] เมื่อมี more than 30 ปริมาณ [Breath], consume up to 10 of ปริมาณ [Breath] over 30 to ทำ +(ปริมาณ [Breath] consumed x 10)% ความเสียหายเพิ่มเติ่ม<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] เมื่อมี more than 30 ปริมาณ [Breath], จ่าย up to 10 of ปริมาณ [Breath] over 30 to ทำ +(ปริมาณ [Breath] จ่ายd x 10)% ความเสียหายเพิ่มเติ่ม<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1241,7 +1241,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Combat [Breath]\u200B</line-height>",
-          "desc": "Turn Start: เมื่อมี 0 Ammo, this Skill activatesเป็น'Taking Cover' instead\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu isบนthe field, request [MeleeCover] from that unit (once ต่อทุกๆ turn)\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (once ต่อทุกๆ turn)",
+          "desc": "Turn Start: เมื่อมี 0 Ammo, this Skill activatesเป็น'Taking Cover' instead\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu isบนthe field, request [MeleeCover] from that unit (1 ครั้งต่อเทิร์น)\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": []
@@ -1251,7 +1251,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Combat [Breath]\u200B</line-height>",
-          "desc": "Turn Start: เมื่อมี 0 Ammo, this Skill activatesเป็น'Taking Cover' instead\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu isบนthe field, request [MeleeCover] from that unit (once ต่อทุกๆ turn)\n<style=\"highlight\">[OnSucceedEvade] ได้รับ 3 [Breath] (3 times ต่อทุกๆ turn)</style>\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (once ต่อทุกๆ turn)",
+          "desc": "Turn Start: เมื่อมี 0 Ammo, this Skill activatesเป็น'Taking Cover' instead\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu isบนthe field, request [MeleeCover] from that unit (1 ครั้งต่อเทิร์น)\n<style=\"highlight\">[OnSucceedEvade] ได้รับ 3 [Breath] (3 times ต่อทุกๆ turn)</style>\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": []
@@ -1266,7 +1266,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>AL-HV Pulverisation Round\u200B</line-height>",
-          "desc": "If ยูนิทนี้'s Speed is faster than the target's, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 1 Speed difference (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM]บนself, ได้รับ (value consumed x 2) ปริมาณ [Breath], และ ทำ +(value consumed x 25)% ความเสียหายเพิ่มเติ่ม",
+          "desc": "If ยูนิทนี้'s Speed is faster than the target's, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 1 Speed difference (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value จ่ายd x 2) ปริมาณ [Breath], และ ทำ +(value จ่ายd x 25)% ความเสียหายเพิ่มเติ่ม",
           "coinlist": [
             {
               "coindescs": [
@@ -1277,7 +1277,7 @@
                   "desc": "+100% ความเสียหายเมื่อติดคริ"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] เมื่อมี more than 30 ปริมาณ [Breath], consume up to 10 of ปริมาณ [Breath] over 30 to ทำ +(ปริมาณ [Breath] consumed x 10)% ความเสียหายเพิ่มเติ่ม"
+                  "desc": "[CriticalOnSucceedAttack] เมื่อมี more than 30 ปริมาณ [Breath], จ่าย up to 10 of ปริมาณ [Breath] over 30 to ทำ +(ปริมาณ [Breath] จ่ายd x 10)% ความเสียหายเพิ่มเติ่ม"
                 }
               ]
             }
@@ -1286,7 +1286,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>AL-HV Pulverisation Round\u200B</line-height>",
-          "desc": "If ยูนิทนี้'s Speed is faster than the target's, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 1 Speed difference (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM]บนself, ได้รับ (value consumed x 2) ปริมาณ [Breath], และ ทำ +(value consumed x 25)% ความเสียหายเพิ่มเติ่ม\n<style=\"highlight\">[EndSkill] ได้รับ [Breath] +5 ขั้น</style>",
+          "desc": "If ยูนิทนี้'s Speed is faster than the target's, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 1 Speed difference (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value จ่ายd x 2) ปริมาณ [Breath], และ ทำ +(value จ่ายd x 25)% ความเสียหายเพิ่มเติ่ม\n<style=\"highlight\">[EndSkill] ได้รับ [Breath] +5 ขั้น</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1300,7 +1300,7 @@
                   "desc": "<style=\"highlight\">+(target's Pierce Res. x 50)% ความเสียหายเมื่อติดคริ</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] เมื่อมี more than 30 ปริมาณ [Breath], consume up to 10 of ปริมาณ [Breath] over 30 to ทำ +(ปริมาณ [Breath] consumed x 10)% ความเสียหายเพิ่มเติ่ม<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] เมื่อมี more than 30 ปริมาณ [Breath], จ่าย up to 10 of ปริมาณ [Breath] over 30 to ทำ +(ปริมาณ [Breath] จ่ายd x 10)% ความเสียหายเพิ่มเติ่ม<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1314,7 +1314,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Taking Cover\u200B</line-height>",
-          "desc": "[CanDuelGuard]\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu isบนthe field, request [MeleeCover] from that unit (once ต่อทุกๆ turn)\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (once ต่อทุกๆ turn)",
+          "desc": "[CanDuelGuard]\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu isบนthe field, request [MeleeCover] from that unit (1 ครั้งต่อเทิร์น)\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -1328,7 +1328,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Taking Cover\u200B</line-height>",
-          "desc": "[CanDuelGuard]\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu isบนthe field, request [MeleeCover] from that unit (once ต่อทุกๆ turn)\n<style=\"highlight\">[WinDuel] มอบ 1 [PenetrateResistDown] (once ต่อทุกๆ turn)</style>\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (once ต่อทุกๆ turn)",
+          "desc": "[CanDuelGuard]\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu isบนthe field, request [MeleeCover] from that unit (1 ครั้งต่อเทิร์น)\n<style=\"highlight\">[WinDuel] มอบ 1 [PenetrateResistDown] (1 ครั้งต่อเทิร์น)</style>\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -1347,7 +1347,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Lenticular Rend\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 1 [Endurance] ในเทิร์นหน้า (once ต่อทุกๆ turn)",
+          "desc": "[WhenUse] ได้รับ 1 [Endurance] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -1371,7 +1371,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Lenticular Rend\u200B</line-height>",
-          "desc": "<style=\"highlight\">หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ 1 [Endurance] ในเทิร์นหน้า (once ต่อทุกๆ turn)",
+          "desc": "<style=\"highlight\">หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ 1 [Endurance] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -1395,7 +1395,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Lenticular Rend\u200B</line-height>",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration]บนเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] ได้รับ <style=\"highlight\">2</style> [Endurance] ในเทิร์นหน้า (once ต่อทุกๆ turn)",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration]บนเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] ได้รับ <style=\"highlight\">2</style> [Endurance] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -1439,7 +1439,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 [Reduction] (once ต่อทุกๆ turn)"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Reduction] (1 ครั้งต่อเทิร์น)"
                 }
               ]
             }
@@ -1466,7 +1466,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 [Reduction] (once ต่อทุกๆ turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ 1 [Reduction] (1 ครั้งต่อเทิร์น)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1475,7 +1475,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Stormcloud\u200B</line-height>",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] ได้รับ 1 [Endurance] ในเทิร์นหน้า (once ต่อทุกๆ turn)</style>",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] ได้รับ 1 [Endurance] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1507,7 +1507,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Thundercleave\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[StartBattle] ได้รับ 1 [CloudWall] ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [Endurance] ในเทิร์นหน้า (once ต่อทุกๆ turn)",
+          "desc": "หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[StartBattle] ได้รับ 1 [CloudWall] ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [Endurance] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -1544,7 +1544,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Thundercleave\u200B</line-height>",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration]บนเป้าหมาย (สูงสุด 2)</style>\n[StartBattle] ได้รับ 1 [CloudWall] ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [Endurance] ในเทิร์นหน้า (once ต่อทุกๆ turn)\n<style=\"highlight\">[WinDuel] ได้รับ 1 [BlackCloudBlade] ในเทิร์นหน้า (once ต่อทุกๆ turn)</style>",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration]บนเป้าหมาย (สูงสุด 2)</style>\n[StartBattle] ได้รับ 1 [CloudWall] ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [Endurance] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\n<style=\"highlight\">[WinDuel] ได้รับ 1 [BlackCloudBlade] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)</style>",
           "coinlist": [
             {
               "coindescs": [

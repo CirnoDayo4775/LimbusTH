@@ -319,7 +319,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Siphons ปริมาณ [Breath] และ [Breath] Count from the target (สูงสุด 6 each)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Siphons ปริมาณ [Breath] และ [Breath] Count จากเป้าหมาย (สูงสุด 6 each)"
                 },
                 {
                   "desc": "[DefeatDuelAttack] Siphons 1/3 of the ปริมาณ [Breath] และ [Breath] Countบนthe target (สูงสุด 2 each)"
@@ -397,7 +397,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tenacious Wound\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 6+ [Laceration]Potency, +1 to [Laceration]Potency และ Count inflicted ไป this Skill",
+          "desc": "หากเป้าหมายมี 6+ ปริมาณ [Laceration], +1 to ปริมาณ และ ขั้น [Laceration] inflicted ไป this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -429,7 +429,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wound\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 6+ [Laceration]Potency, +1 to [Laceration]Potency และ Count inflicted ไป this Skill",
+          "desc": "หากเป้าหมายมี 6+ ปริมาณ [Laceration], +1 to ปริมาณ และ ขั้น [Laceration] inflicted ไป this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -455,7 +455,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Brambles that Constrict\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 6+ [Laceration]Potency, +1 to [Laceration]Potency inflicted ไป this Skill",
+          "desc": "หากเป้าหมายมี 6+ ปริมาณ [Laceration], +1 to ปริมาณ [Laceration] inflicted ไป this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -480,7 +480,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Polydipsic Petals\u200B</line-height>",
-          "desc": "Attacks the target with the highest sum of [Laceration]Potency + Count\n[WhenUse] หากเป้าหมายมี 6+ [Laceration]Potency, แต้มรวม +2",
+          "desc": "Attacks the target with the highest sum of ปริมาณ [Laceration] + Count\n[WhenUse] หากเป้าหมายมี 6+ ปริมาณ [Laceration], แต้มรวม +2",
           "coinlist": [
             {
               "coindescs": [
@@ -492,7 +492,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้งาน [Laceration]บนthe target อีกครั้ง (reduce [Laceration]Count ไป 1)"
+                  "desc": "[OnSucceedAttack] เปิดใช้งาน [Laceration] ที่เป้าหมายมี อีกครั้ง (reduce ขั้น [Laceration] ไป 1)"
                 }
               ]
             }
@@ -506,7 +506,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bursting Petals\u200B</line-height>",
-          "desc": "Attacks the target with the highest sum of [Laceration]Potency + Count\n[WhenUse] หากเป้าหมายมี 6+ [Laceration]Potency, แต้มรวม +2",
+          "desc": "Attacks the target with the highest sum of ปริมาณ [Laceration] + Count\n[WhenUse] หากเป้าหมายมี 6+ ปริมาณ [Laceration], แต้มรวม +2",
           "coinlist": [
             {
               "coindescs": [
@@ -518,7 +518,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้งาน all [Laceration]บนthe target (completely reduce [Laceration]Count)"
+                  "desc": "[OnSucceedAttack] เปิดใช้งาน all [Laceration] ที่เป้าหมายมี (completely reduce ขั้น [Laceration])"
                 }
               ]
             }
@@ -532,12 +532,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Storm of Spikes\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration]Potency, แต้มรวม +2",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ ปริมาณ [Laceration], แต้มรวม +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้งาน [Laceration]บนthe target อีกครั้ง (reduce [Laceration]Count ไป 1)"
+                  "desc": "[OnSucceedAttack] เปิดใช้งาน [Laceration] ที่เป้าหมายมี อีกครั้ง (reduce ขั้น [Laceration] ไป 1)"
                 }
               ]
             }
@@ -602,7 +602,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Endless Spring of Blood\u200B</line-height>",
-          "desc": "[DuelCounter]\n[WhenUse] Targets that clash aได้รับst this Skill do not เสีย [Laceration]Count while clashing",
+          "desc": "[DuelCounter]\n[WhenUse] Targets that clash aได้รับst this Skill do not เสีย ขั้น [Laceration] while clashing",
           "coinlist": [
             {
               "coindescs": [
@@ -610,7 +610,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้งาน [Laceration]บนthe target อีกครั้ง, และ immediately consume [BloodDinner] generated ไป the [Laceration]damage"
+                  "desc": "[OnSucceedAttack] เปิดใช้งาน [Laceration] ที่เป้าหมายมี อีกครั้ง, และ immediately จ่าย [BloodDinner] generated ไป the [Laceration]damage"
                 }
               ]
             },
@@ -620,7 +620,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้งาน [Laceration]บนthe target อีกครั้ง, และ immediately consume [BloodDinner] generated ไป the [Laceration]damage"
+                  "desc": "[OnSucceedAttack] เปิดใช้งาน [Laceration] ที่เป้าหมายมี อีกครั้ง, และ immediately จ่าย [BloodDinner] generated ไป the [Laceration]damage"
                 }
               ]
             },
@@ -630,7 +630,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้งาน [Laceration]บนthe target อีกครั้ง, และ immediately consume [BloodDinner] generated ไป the [Laceration]damage"
+                  "desc": "[OnSucceedAttack] เปิดใช้งาน [Laceration] ที่เป้าหมายมี อีกครั้ง, และ immediately จ่าย [BloodDinner] generated ไป the [Laceration]damage"
                 }
               ]
             }
@@ -644,7 +644,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Nutrient Craving\u200B</line-height>",
-          "desc": "Activates at 100+ [BloodDinner]\n[EndBattle] Consume up to 100 [BloodDinner] to เปิดใช้งาน the following effects:\n- ฟื้นฟู the Core และ the Body Parts' HP ไป [BloodDinner] consumed\n- ได้รับ 1 [AttackUp] ในเทิร์นหน้า ต่อทุกๆ 20 [BloodDinner] consumed",
+          "desc": "Activates at 100+ [BloodDinner]\n[EndBattle] จ่าย up to 100 [BloodDinner] to เปิดใช้งาน the following effects:\n- ฟื้นฟู the Core และ the Body Parts' HP ไป [BloodDinner] จ่ายd\n- ได้รับ 1 [AttackUp] ในเทิร์นหน้า ต่อทุกๆ 20 [BloodDinner] จ่ายd",
           "coinlist": [
             {
               "coindescs": [
@@ -663,7 +663,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Brambles that Yearn\u200B</line-height>",
-          "desc": "[WhenUse] Consume up to 100 [BloodDinner] to เปิดใช้งาน the following effects:\n- ฟื้นฟู the Core และ the Body Parts' HP ไป [BloodDinner] consumed\n- This Skill ได้รับs แต้มรวม +1 ต่อทุกๆ 20 [BloodDinner] consumed\n[DefeatDuel] แต้มรวม -5\n[EndSkill] หาก this Skill consumed less than 30 [BloodDinner], ได้รับ 2 [Vulnerable] ในเทิร์นหน้า",
+          "desc": "[WhenUse] จ่าย up to 100 [BloodDinner] to เปิดใช้งาน the following effects:\n- ฟื้นฟู the Core และ the Body Parts' HP ไป [BloodDinner] จ่ายd\n- This Skill ได้รับs แต้มรวม +1 ต่อทุกๆ 20 [BloodDinner] จ่ายd\n[DefeatDuel] แต้มรวม -5\n[EndSkill] หาก this Skill จ่ายd less than 30 [BloodDinner], ได้รับ 2 [Vulnerable] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [

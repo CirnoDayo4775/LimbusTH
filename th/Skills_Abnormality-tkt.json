@@ -5,8 +5,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Are You Afraid?\u200B</line-height>",
-          "desc": "When in [TimeAcceleration] state, แต้มปะทะ +1\n[DefeatDuel] เมื่อมี 75%- HP, consume 50 [LimitedTime] และ ได้รับ 1 [Protection] (once ต่อทุกๆ turn)",
+          "name": "<line-height=120%>แกกลัวไหม??\u200B</line-height>",
+          "desc": "เมื่ออยู่ในสถานะ [TimeAcceleration], แต้มปะทะ +1\n[DefeatDuel] เมื่อมี 75%- HP, จ่าย 50 [LimitedTime] และ ได้รับ 1 [Protection] (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -31,8 +31,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Punishment For Time Killers\u200B</line-height>",
-          "desc": "When in [TimeAcceleration] state, แต้มปะทะ +2\n[WhenUse] เมื่อมี 500+ [LimitedTime], มอบ [Laceration] +1 ขั้น\n[WhenUse] เมื่อมี 300+ [LimitedTime], consume 25 [LimitedTime] และ มอบ +1 more [Laceration]Potency และ Count with this Skill",
+          "name": "<line-height=120%>ลงโทษพวกชอบฆ่าเวลา\u200B</line-height>",
+          "desc": "เมื่ออยู่ในสถานะ [TimeAcceleration], แต้มปะทะ +2\n[WhenUse] เมื่อมี 500+ [LimitedTime], มอบ [Laceration] +1 ขั้น\n[WhenUse] เมื่อมี 300+ [LimitedTime], จ่าย 25 [LimitedTime] และ มอบ ปริมาณ และ ขั้น [Laceration] +1 ด้วยสกิลนี้",
           "coinlist": [
             {
               "coindescs": [
@@ -64,8 +64,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Extraction\u200B</line-height>",
-          "desc": "When in [TimeAcceleration] state, แต้มเหรียญ +1\n[DefeatDuel] เมื่อมี 75%- HP, consume 50 [LimitedTime] และ ได้รับ แต้มปะทะ +2 (once ต่อทุกๆ turn)",
+          "name": "<line-height=120%>คัดแยกเวลา\u200B</line-height>",
+          "desc": "เมื่ออยู่ในสถานะ [TimeAcceleration], แต้มเหรียญ +1\n[DefeatDuel] เมื่อมี 75%- HP, จ่าย 50 [LimitedTime] และ ได้รับ แต้มปะทะ +2 (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -105,7 +105,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ฆ่าไม่เลี้ยง\u200B</line-height>",
-          "desc": "[DefeatDuel] เมื่อมี 75%- HP, consume 75 [LimitedTime] และ ได้รับ แต้มปะทะ +2\n[BeforeAttack] When in [TimeAcceleration] state, ได้รับ +1 Atk Weight",
+          "desc": "[DefeatDuel] เมื่อมี 75%- HP, จ่าย 75 [LimitedTime] และ ได้รับ แต้มปะทะ +2\n[BeforeAttack] เมื่ออยู่ในสถานะ [TimeAcceleration], ได้รับ +1 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
@@ -130,8 +130,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Time to be Saved\u200B</line-height>",
-          "desc": "[CantDuel]\nมอบ [TimeKillerWatch] aได้รับst the target that used an Attack Skill aได้รับst ยูนิทนี้\n[StartBattle] Consume 200 [LimitedTime] และ ได้รับ [TimeAcceleration] ในเทิร์นหน้า",
+          "name": "<line-height=120%>ประหยัดเวลาที่มีค่า\u200B</line-height>",
+          "desc": "[CantDuel]\nมอบ [TimeKillerWatch] แก่เป้าหมาย ที่ใช้สกิลโจมตี ใส่ยูนิทนี้\n[StartBattle] จ่าย 200 [LimitedTime] และ ได้รับ [TimeAcceleration] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -150,7 +150,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-          "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 100 [LimitedTime]บนself",
+          "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 100 [LimitedTime] ที่ตัวเองมี",
           "coinlist": [
             {
               "coindescs": [
@@ -168,8 +168,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Are You Afraid?\u200B</line-height>",
-          "desc": "When in [TimeAcceleration] state, แต้มปะทะ +1\n[DefeatDuel] เมื่อมี 75%- HP, consume 50 [OwnTime] และ ได้รับ 1 [Protection] (once ต่อทุกๆ turn)",
+          "name": "<line-height=120%>แกกลัวไหม??\u200B</line-height>",
+          "desc": "เมื่ออยู่ในสถานะ [TimeAcceleration], แต้มปะทะ +1\n[DefeatDuel] เมื่อมี 75%- HP, จ่าย 50 [OwnTime] และ ได้รับ 1 [Protection] (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -194,8 +194,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Punishment For Time Killers\u200B</line-height>",
-          "desc": "When in [TimeAcceleration] state, แต้มปะทะ +2\n[WhenUse] เมื่อมี 500+ sum of [OwnTime] across ทุกๆชิ้นส่วน, มอบ [Laceration] +1 ขั้น\n[WhenUse] เมื่อมี 300+ sum of [OwnTime], consume 25 [OwnTime] และ มอบ +1 more [Laceration]Potency และ Count with this Skill",
+          "name": "<line-height=120%>ลงโทษพวกชอบฆ่าเวลา\u200B</line-height>",
+          "desc": "เมื่ออยู่ในสถานะ [TimeAcceleration], แต้มปะทะ +2\n[WhenUse] เมื่อมีผลรวมของ [OwnTime] ในทุกๆชิ้นส่วน 500+ , มอบ [Laceration] +1 ขั้น\n[WhenUse] เมื่อมีผลรวมของ [OwnTime] 300+, จ่าย 25 [OwnTime] และ มอบ ปริมาณ และ ขั้น [Laceration] +1 ด้วยสกิลนี้",
           "coinlist": [
             {
               "coindescs": [
@@ -227,8 +227,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Extraction\u200B</line-height>",
-          "desc": "When in [TimeAcceleration] state, แต้มเหรียญ +1\n[DefeatDuel] เมื่อมี 75%- HP, consume 50 [OwnTime] และ ได้รับ แต้มปะทะ +2 (once ต่อทุกๆ turn)",
+          "name": "<line-height=120%>คัดแยกเวลา\u200B</line-height>",
+          "desc": "เมื่ออยู่ในสถานะ [TimeAcceleration], แต้มเหรียญ +1\n[DefeatDuel] เมื่อมี 75%- HP, จ่าย 50 [OwnTime] และ ได้รับ แต้มปะทะ +2 (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -268,7 +268,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ฆ่าไม่เลี้ยง\u200B</line-height>",
-          "desc": "[DefeatDuel] เมื่อมี 75%- HP, consume 75 [OwnTime] และ ได้รับ แต้มปะทะ +2\n[BeforeAttack] When in [TimeAcceleration] state, ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี 60%- HP, consume 10 [OwnTime] และ ได้รับ +1 Atk Weight",
+          "desc": "[DefeatDuel] เมื่อมี 75%- HP, จ่าย 75 [OwnTime] และ ได้รับ แต้มปะทะ +2\n[BeforeAttack] เมื่ออยู่ในสถานะ [TimeAcceleration], ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี 60%- HP, จ่าย 10 [OwnTime] และ ได้รับ +1 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
@@ -293,8 +293,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Time to be Saved\u200B</line-height>",
-          "desc": "[CantDuel]\nมอบ [TimeKillerWatch] aได้รับst the target that used an Attack Skill aได้รับst ยูนิทนี้\n[StartBattle] Consume 200 [OwnTime] และ ได้รับ [TimeAcceleration] ในเทิร์นหน้า)",
+          "name": "<line-height=120%>ประหยัดเวลาที่มีค่า\u200B</line-height>",
+          "desc": "[CantDuel]\nมอบ [TimeKillerWatch] แก่เป้าหมาย ที่ใช้สกิลโจมตี ใส่ยูนิทนี้\n[StartBattle] จ่าย 200 [OwnTime] และ ได้รับ [TimeAcceleration] ในเทิร์นหน้า)",
           "coinlist": [
             {
               "coindescs": [
@@ -331,13 +331,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Timekilling Time\u200B</line-height>",
-          "desc": "[CantDuel]\nยูนิทนี้'s Speed is fixed at 12.\nCannot be Staggered ในเทิร์นนี้.\n[WhenUse] Consume [OwnTime] 400.",
+          "name": "<line-height=120%>ได้เวลาฆ่าเวลา\u200B</line-height>",
+          "desc": "[CantDuel]\nปรับความเร็วของยูนิทนี้เป็น 12.\nไม่สามารถถูก Stagger ได้ในเทิร์นนี้.\n[WhenUse] จ่าย [OwnTime] 400.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Erase the target's time. อีกครั้ง ยูนิทนี้ erases the target's time, ทุกๆชิ้นส่วน recover [OwnTime] to their max values และ ได้รับ 10 [Agility] และ 10 [Enhancement] ในเทิร์นหน้า."
+                  "desc": "[OnSucceedAttack] ลบเวลาของเป้าหมาย จากนั้น ทุกๆชิ้นส่วนฟื้นฟู [OwnTime] จนเต็มค่าสูงสุด และ ได้รับ 10 [Agility] และ 10 [Enhancement] ในเทิร์นหน้า."
                 }
               ]
             }
@@ -350,7 +350,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Tick\u200B</line-height>",
+          "name": "<line-height=120%>ติ้ก\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -369,7 +369,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Tock\u200B</line-height>",
+          "name": "<line-height=120%>ต๊อก\u200B</line-height>",
           "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มปะทะ +1",
           "coinlist": [
             {
@@ -402,7 +402,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Ticktick-Tock\u200B</line-height>",
+          "name": "<line-height=120%>ติ้กติ้ก-ต๊อก\u200B</line-height>",
           "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มปะทะ +1",
           "coinlist": [
             {
@@ -431,7 +431,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Tock\u200B</line-height>",
+          "name": "<line-height=120%>ต๊อก\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -450,7 +450,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>My...\u200B</line-height>",
+          "name": "<line-height=120%>แหม...\u200B</line-height>",
           "desc": "[DefeatDuel] ได้รับ 1 [Vulnerable]",
           "coinlist": [
             {
@@ -476,7 +476,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Running Out of Time\u200B</line-height>",
+          "name": "<line-height=120%>หมดสิ้นซึ่งเวลา\u200B</line-height>",
           "desc": "[DefeatDuel] ได้รับ 1 [Vulnerable]",
           "coinlist": [
             {
@@ -516,7 +516,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>We Need More Time!\u200B</line-height>",
+          "name": "<line-height=120%>เราต้องการเวลา!\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {}

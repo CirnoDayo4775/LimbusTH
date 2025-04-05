@@ -1114,7 +1114,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Rip\u200B</line-height>",
+          "name": "<line-height=120%>กระชาก\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1128,7 +1128,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Rip\u200B</line-height>",
+          "name": "<line-height=120%>กระชาก\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1145,7 +1145,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Rip\u200B</line-height>",
+          "name": "<line-height=120%>กระชาก\u200B</line-height>",
           "desc": "เมื่อมี  [Charge] 5+ ขั้น, แต้มเหรียญ +2",
           "coinlist": [
             {
@@ -2242,7 +2242,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Rip\u200B</line-height>",
+          "name": "<line-height=120%>กระชาก\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ 1 Slash [Protection]",
           "coinlist": [
             {
@@ -2256,7 +2256,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Rip\u200B</line-height>",
+          "name": "<line-height=120%>กระชาก\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ 2 Slash [Protection]",
           "coinlist": [
             {
@@ -2270,7 +2270,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Rip\u200B</line-height>",
+          "name": "<line-height=120%>กระชาก\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ 2 Slash [Protection]\nได้รับ [Charge] +3 ขั้น",
           "coinlist": [
             {
@@ -4139,7 +4139,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Suppress\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 5+ [Vibration] Count, แต้มเหรียญ +1",
+          "desc": "หากเป้าหมายมี 5+ ขั้น [Vibration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -4640,7 +4640,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Thrust\u200B</line-height>",
+          "name": "<line-height=120%>แทงร่าง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {},
@@ -4655,7 +4655,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Thrust\u200B</line-height>",
+          "name": "<line-height=120%>แทงร่าง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {},
@@ -4670,7 +4670,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Thrust\u200B</line-height>",
+          "name": "<line-height=120%>แทงร่าง\u200B</line-height>",
           "desc": "If the next skillบนthe Dashboard does Blunt DMG, this skill's แต้มเหรียญ +2",
           "coinlist": [
             {},
@@ -4977,7 +4977,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Slash Series\u200B</line-height>",
-          "desc": "[DefeatDuel] ได้รับ 2 [Enhancement] ในเทิร์นหน้า\n[WinDuel] Do notจ่าย [Breath] Count with critical attacks landed with this skill",
+          "desc": "[DefeatDuel] ได้รับ 2 [Enhancement] ในเทิร์นหน้า\n[WinDuel] Do notจ่าย [Breath] Count with critical attacks landed ด้วยสกิลนี้",
           "coinlist": [
             {
               "coindescs": [
@@ -8583,7 +8583,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>บีบอัดแรงสะเทือน\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 10+ [Vibration] Count, แต้มเหรียญ +1",
+          "desc": "หากเป้าหมายมี 10+ ขั้น [Vibration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -8693,7 +8693,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Saddled Tasks\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 5+ [Vibration] Count, แต้มเหรียญ +2",
+          "desc": "หากเป้าหมายมี 5+ ขั้น [Vibration], แต้มเหรียญ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -8760,7 +8760,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Forced Break\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 7+ [Vibration] Count, แต้มรวม +1",
+          "desc": "หากเป้าหมายมี 7+ ขั้น [Vibration], แต้มรวม +1",
           "coinlist": [
             {
               "coindescs": [
@@ -8824,8 +8824,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], ลดขั้น [Vibration] ไป 3, thenจ่ายขั้น [Charge] ทั้งหมดto further เพิ่มขีด Stagger ไป (Charge Count x 5)% (สูงสุด 50%)",
-                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then ลดขั้น [Vibration] ไป 3;จ่ายขั้น [Charge]  to further เพิ่มขีด Stagger"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nWhen เปิดใช้ing [VibrationExplosion], ลดขั้น [Vibration] ไป 3, thenจ่ายขั้น [Charge] ทั้งหมดto further เพิ่มขีด Stagger ไป (Charge Count x 5)% (สูงสุด 50%)",
+                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion], then ลดขั้น [Vibration] ไป 3;จ่ายขั้น [Charge]  to further เพิ่มขีด Stagger"
                 }
               ]
             }
@@ -8834,7 +8834,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Finishing Runup\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 10+ [Vibration] Count, แต้มเหรียญ +1",
+          "desc": "หากเป้าหมายมี 10+ ขั้น [Vibration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -8869,8 +8869,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], ลดขั้น [Vibration] ไป 3, thenจ่ายขั้น [Charge] ทั้งหมดto further เพิ่มขีด Stagger ไป (Charge Count x 5)% (สูงสุด 50%)",
-                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then ลดขั้น [Vibration] ไป 3;จ่ายขั้น [Charge]  to further เพิ่มขีด Stagger"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nWhen เปิดใช้ing [VibrationExplosion], ลดขั้น [Vibration] ไป 3, thenจ่ายขั้น [Charge] ทั้งหมดto further เพิ่มขีด Stagger ไป (Charge Count x 5)% (สูงสุด 50%)",
+                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion], then ลดขั้น [Vibration] ไป 3;จ่ายขั้น [Charge]  to further เพิ่มขีด Stagger"
                 }
               ]
             }
@@ -8936,7 +8936,7 @@
                   "desc": "[OnSucceedAttack] มอบ  2 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Vibration] Count, มอบ  3 [Burst]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ ขั้น [Vibration], มอบ  3 [Burst]"
                 }
               ]
             }
@@ -9040,7 +9040,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Let's บด 'Em\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 5+ [Vibration] Count, แต้มเหรียญ +1",
+          "desc": "หากเป้าหมายมี 5+ ขั้น [Vibration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -9058,7 +9058,7 @@
                   "desc": "[OnSucceedAttack] หาก target is Staggered, ทำ +10% ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Vibration] Count, มอบ  3 [Burst]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ ขั้น [Vibration], มอบ  3 [Burst]"
                 }
               ]
             },
@@ -9071,7 +9071,7 @@
                   "desc": "[OnSucceedAttack] หาก target is Staggered, ทำ +10% ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Vibration] Count, มอบ  3 [Burst]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ ขั้น [Vibration], มอบ  3 [Burst]"
                 }
               ]
             }
@@ -9412,7 +9412,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Moment's สายลมบุปผา\u200B</line-height>",
-          "desc": "[StartBattle]จ่าย 6 [Vibration] Count to turn this into an AoE skill with 3 Atk Weight",
+          "desc": "[StartBattle]จ่าย 6 ขั้น [Vibration] to turn this into an AoE skill with 3 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
@@ -9440,7 +9440,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Moment's สายลมบุปผา\u200B</line-height>",
-          "desc": "[StartBattle]จ่าย 6 [Vibration] Count to turn this into an AoE skill with 3 Atk Weight",
+          "desc": "[StartBattle]จ่าย 6 ขั้น [Vibration] to turn this into an AoE skill with 3 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
@@ -9468,7 +9468,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Moment's สายลมบุปผา\u200B</line-height>",
-          "desc": "[StartBattle]จ่าย 6 [Vibration] Count to turn this into an AoE skill with 3 Atk Weight\nIf main target has 6+ [Sinking] Count, แต้มเหรียญ +1",
+          "desc": "[StartBattle]จ่าย 6 ขั้น [Vibration] to turn this into an AoE skill with 3 Atk Weight\nIf main target has 6+ [Sinking] Count, แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -9501,7 +9501,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bloodsteeped Scent\u200B</line-height>",
-          "desc": "[DefeatDuel] เสีย 20 SP\n[WhenUse] ได้รับ 6 [Vibration] Count",
+          "desc": "[DefeatDuel] เสีย 20 SP\n[WhenUse] ได้รับ 6 ขั้น [Vibration]",
           "coinlist": [
             {
               "coindescs": [
@@ -9523,7 +9523,7 @@
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [[Sinking]], cause [SinkingSurge]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ifผู้ใช้has 10+ [Vibration] Count, ทำ 30% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "[OnSucceedAttack] Ifผู้ใช้has 10+ ขั้น [Vibration], ทำ 30% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 }
               ]
             }
@@ -9532,7 +9532,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Bloodsteeped Scent\u200B</line-height>",
-          "desc": "[DefeatDuel] เสีย 20 SP\n[WhenUse] ได้รับ 6 [Vibration] Count",
+          "desc": "[DefeatDuel] เสีย 20 SP\n[WhenUse] ได้รับ 6 ขั้น [Vibration]",
           "coinlist": [
             {
               "coindescs": [
@@ -9554,7 +9554,7 @@
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [[Sinking]], cause [SinkingSurge]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ifผู้ใช้has 10+ [Vibration] Count, ทำ 40% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "[OnSucceedAttack] Ifผู้ใช้has 10+ ขั้น [Vibration], ทำ 40% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 }
               ]
             }
@@ -9707,7 +9707,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAfter triggering [Vibration] Burst, ลดขั้น [Vibration] ไป 4. มอบ  5 [Burst]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAfter เปิดใช้ing [Vibration] Burst, ลดขั้น [Vibration] ไป 4. มอบ  5 [Burst]"
                 }
               ]
             }
@@ -9721,7 +9721,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAfter triggering [Vibration] Burst, ลดขั้น [Vibration] ไป 4. มอบ  5 [Burst]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAfter เปิดใช้ing [Vibration] Burst, ลดขั้น [Vibration] ไป 4. มอบ  5 [Burst]"
                 }
               ]
             }
@@ -10461,7 +10461,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Demolish\u200B</line-height>",
-          "desc": "เมื่อมี 7+ Speed, มอบ  [Laceration] +1 ขั้น with this skill",
+          "desc": "เมื่อมี 7+ Speed, มอบ  [Laceration] +1 ขั้น ด้วยสกิลนี้",
           "coinlist": [
             {
               "coindescs": [
@@ -10489,7 +10489,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Demolish\u200B</line-height>",
-          "desc": "เมื่อมี 7+ Speed, มอบ  [Laceration] +1 ขั้น with this Skill\n[WhenUse] ได้รับ [Charge] +4 ขั้น",
+          "desc": "เมื่อมี 7+ Speed, มอบ  [Laceration] +1 ขั้น ด้วยสกิลนี้\n[WhenUse] ได้รับ [Charge] +4 ขั้น",
           "coinlist": [
             {
               "coindescs": [

@@ -250,7 +250,7 @@
           "level": 1,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(Once ต่อทุกๆ turn. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)",
+          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)",
           "coinlist": [
             {
               "coindescs": [
@@ -268,7 +268,7 @@
           "level": 3,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n<style=\"highlight\">[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด 1)</style>\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(Once ต่อทุกๆ turn. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n<style=\"highlight\">[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด 3 ต่อทุกๆ turn)</style>",
+          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n<style=\"highlight\">[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด 1)</style>\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n<style=\"highlight\">[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด 3 ต่อทุกๆ turn)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -286,7 +286,7 @@
           "level": 4,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด <style=\"highlight\">2</style>)\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(Once ต่อทุกๆ turn. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด <style=\"highlight\">6</style> ต่อทุกๆ turn)",
+          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด <style=\"highlight\">2</style>)\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด <style=\"highlight\">6</style> ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -386,7 +386,7 @@
           "level": 1,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (does not จะ Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (5 + (sum of ความรุนแรง [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด 10%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟูเพิ่มเติมอีก 1 ally",
+          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (5 + (sum of ความรุนแรง [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด 10%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟูเพิ่มเติมอีก 1 ally",
           "coinlist": [
             {
               "coindescs": [
@@ -410,7 +410,7 @@
           "level": 3,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (does not จะ Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (<style=\"highlight\">10</style> + (sum of ความรุนแรง [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด <style=\"highlight\">15</style>%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟูเพิ่มเติมอีก 1 ally",
+          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (<style=\"highlight\">10</style> + (sum of ความรุนแรง [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด <style=\"highlight\">15</style>%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟูเพิ่มเติมอีก 1 ally",
           "coinlist": [
             {
               "coindescs": [
@@ -437,7 +437,7 @@
           "level": 4,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (does not จะ Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (10 + (sum of ความรุนแรง [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด 15%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟูเพิ่มเติมอีก 1 ally\n<style=\"highlight\">- หาก the said Reson. was a Gloom Reson., ฟื้นฟู an additional 5% HP</style>",
+          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (10 + (sum of ความรุนแรง [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด 15%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟูเพิ่มเติมอีก 1 ally\n<style=\"highlight\">- หาก the said Reson. was a Gloom Reson., ฟื้นฟู an additional 5% HP</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -469,7 +469,7 @@
           "level": 1,
           "name": "<line-height=120%>Christmas Nightmare\u200B</line-height>",
           "abName": "Cozy Bed",
-          "desc": "[BeforeAttack] ได้รับ (highest Reson. + 5) [Vibration] Count (สูงสุด 10)\n[EndSkill] หาก there are any targets in Staggered, Low Morale, or Panic states, ฟื้นฟู 10 ค่าสติ",
+          "desc": "[BeforeAttack] ได้รับ (highest Reson. + 5) ขั้น [Vibration] (สูงสุด 10)\n[EndSkill] หาก there are any targets in Staggered, Low Morale, or Panic states, ฟื้นฟู 10 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -481,7 +481,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             }
@@ -491,7 +491,7 @@
           "level": 3,
           "name": "<line-height=120%>Christmas Nightmare\u200B</line-height>",
           "abName": "Cozy Bed",
-          "desc": "<style=\"highlight\">หากเป้าหมายมี ค่าสติต่ำกว่า 0, ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ ค่าสติ value below 0 (สูงสุด 45%)</style>\n[BeforeAttack] ได้รับ (highest Reson. + 5) [Vibration] Count (สูงสุด 10)\n[EndSkill] หาก there are any targets in Staggered, Low Morale, or Panic states, ฟื้นฟู 10 ค่าสติ",
+          "desc": "<style=\"highlight\">หากเป้าหมายมี ค่าสติต่ำกว่า 0, ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ ค่าสติ value below 0 (สูงสุด 45%)</style>\n[BeforeAttack] ได้รับ (highest Reson. + 5) ขั้น [Vibration] (สูงสุด 10)\n[EndSkill] หาก there are any targets in Staggered, Low Morale, or Panic states, ฟื้นฟู 10 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -502,14 +502,14 @@
                   "desc": "[OnSucceedAttack] หาก target isn't in Staggered, Low Morale, or Panic states, มอบ 5 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หาก target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count ไป 2"
+                  "desc": "[OnSucceedAttack] หาก target isn't in Staggered, Low Morale, or Panic states, เปิดใช้ [VibrationExplosion]; then, reduce the target's ขั้น [Vibration] ไป 2"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -519,7 +519,7 @@
           "level": 4,
           "name": "<line-height=120%>Christmas Nightmare\u200B</line-height>",
           "abName": "Cozy Bed",
-          "desc": "หากเป้าหมายมี ค่าสติต่ำกว่า 0, ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ ค่าสติ value below 0 (สูงสุด 45%)\n[BeforeAttack] ได้รับ (highest Reson. + 5) [Vibration] Count (สูงสุด 10)\n[EndSkill] หาก there are any targets in Staggered, Low Morale, or Panic states, ฟื้นฟู 10 SP<style=\"highlight\"></style>",
+          "desc": "หากเป้าหมายมี ค่าสติต่ำกว่า 0, ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ ค่าสติ value below 0 (สูงสุด 45%)\n[BeforeAttack] ได้รับ (highest Reson. + 5) ขั้น [Vibration] (สูงสุด 10)\n[EndSkill] หาก there are any targets in Staggered, Low Morale, or Panic states, ฟื้นฟู 10 SP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -530,14 +530,14 @@
                   "desc": "[OnSucceedAttack] หาก target isn't in Staggered, Low Morale, or Panic states, มอบ 5 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หาก target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion] <style=\"highlight\">twice</style>; then, reduce the target's [Vibration] Count ไป 2"
+                  "desc": "[OnSucceedAttack] หาก target isn't in Staggered, Low Morale, or Panic states, เปิดใช้ [VibrationExplosion] <style=\"highlight\">twice</style>; then, reduce the target's ขั้น [Vibration] ไป 2"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -552,7 +552,7 @@
           "level": 1,
           "name": "<line-height=120%>Christmas Nightmare\u200B</line-height>",
           "abName": "Cozy Bed",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 5) [Vibration] Count (สูงสุด 10)\n[BeforeAttack] ฟื้นฟู 10 HP",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 5) ขั้น [Vibration] (สูงสุด 10)\n[BeforeAttack] ฟื้นฟู 10 HP",
           "coinlist": [
             {
               "coindescs": [
@@ -564,14 +564,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             }
@@ -581,7 +581,7 @@
           "level": 3,
           "name": "<line-height=120%>Christmas Nightmare\u200B</line-height>",
           "abName": "Cozy Bed",
-          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">If the main target is in Staggered, Low Morale, or Panic states, แต้มตั้งต้น +1</style>\n[BeforeAttack] ได้รับ (highest Reson. + 5) [Vibration] Count (สูงสุด 10)\n[BeforeAttack] ฟื้นฟู 10 HP\n<style=\"highlight\">[EndSkill] ฟื้นฟู 5 ค่าสติ ต่อทุกๆ enemy that is in Staggered, Low Morale, or Panic states</style>",
+          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">If the main target is in Staggered, Low Morale, or Panic states, แต้มตั้งต้น +1</style>\n[BeforeAttack] ได้รับ (highest Reson. + 5) ขั้น [Vibration] (สูงสุด 10)\n[BeforeAttack] ฟื้นฟู 10 HP\n<style=\"highlight\">[EndSkill] ฟื้นฟู 5 ค่าสติ ต่อทุกๆ enemy that is in Staggered, Low Morale, or Panic states</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -596,17 +596,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] หาก target isn't in Staggered, Low Morale, or Panic states, เปิดใช้ [VibrationExplosion]; then, reduce the target's ขั้น [Vibration] ไป 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -616,7 +616,7 @@
           "level": 4,
           "name": "<line-height=120%>Christmas Nightmare\u200B</line-height>",
           "abName": "Cozy Bed",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the main target is in Staggered, Low Morale, or Panic states, แต้มตั้งต้น +<style=\"highlight\">2</style>\n[BeforeAttack] ได้รับ (highest Reson. + 5) [Vibration] Count (สูงสุด 10)\n[BeforeAttack] ฟื้นฟู 10 HP\n[EndSkill] ฟื้นฟู 5 ค่าสติ ต่อทุกๆ enemy that is in Staggered, Low Morale, or Panic states<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\nIf the main target is in Staggered, Low Morale, or Panic states, แต้มตั้งต้น +<style=\"highlight\">2</style>\n[BeforeAttack] ได้รับ (highest Reson. + 5) ขั้น [Vibration] (สูงสุด 10)\n[BeforeAttack] ฟื้นฟู 10 HP\n[EndSkill] ฟื้นฟู 5 ค่าสติ ต่อทุกๆ enemy that is in Staggered, Low Morale, or Panic states<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -631,20 +631,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] หาก target isn't in Staggered, Low Morale, or Panic states, เปิดใช้ [VibrationExplosion]; then, reduce the target's ขั้น [Vibration] ไป 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] หาก target isn't in Staggered, Low Morale, or Panic states, เปิดใช้ [VibrationExplosion]; then, reduce the target's ขั้น [Vibration] ไป 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1<style=\"highlight\"></style>"
                 }
               ]
             }

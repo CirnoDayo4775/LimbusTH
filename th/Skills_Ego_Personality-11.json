@@ -157,10 +157,10 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -178,10 +178,10 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -199,10 +199,10 @@
                   "desc": "[OnSucceedAttack] มอบ 6 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -228,10 +228,10 @@
                   "desc": "[OnSucceedAttack] มอบ [Vibration] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -252,13 +252,13 @@
                   "desc": "[OnSucceedAttack] มอบ [Vibration] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttackTail] เปิดใช้ [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -279,16 +279,16 @@
                   "desc": "[OnSucceedAttack] มอบ [Vibration] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttackTail] เปิดใช้ [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] เปิดใช้ [VibrationExplosion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -303,7 +303,7 @@
           "level": 1,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than 10 ขั้น [Charge] , consume 15% HP to ได้รับ [Charge] +0 ขั้น (this ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 ขั้น [Charge]  และ ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  consumed (สูงสุด 10%)",
+          "desc": "[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than 10 ขั้น [Charge] , จ่าย 15% HPเพื่อได้รับ [Charge] +10 ขั้น (this ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] จ่าย up to 40 ขั้น [Charge]  และ ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  จ่ายd (สูงสุด 10%)",
           "coinlist": [
             {
               "coindescs": [
@@ -324,7 +324,7 @@
           "level": 3,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[BeforeAttack] เมื่อมี <style=\"highlight\">3</style>+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than 10 ขั้น [Charge] , consume 15% HP to ได้รับ [Charge] +0 ขั้น (this ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 ขั้น [Charge]  และ ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  consumed (สูงสุด <style=\"highlight\">20</style>%)",
+          "desc": "[BeforeAttack] เมื่อมี <style=\"highlight\">3</style>+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than 10 ขั้น [Charge] , จ่าย 15% HPเพื่อได้รับ [Charge] +10 ขั้น (this ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] จ่าย up to 40 ขั้น [Charge]  และ ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  จ่ายd (สูงสุด <style=\"highlight\">20</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -345,7 +345,7 @@
           "level": 4,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[BeforeAttack] ได้รับ <style=\"highlight\">(highest Reson. - 2)</style> Atk Weight <style=\"highlight\">(สูงสุด 2)</style>\n[BeforeAttack] เมื่อมี less than 10 ขั้น [Charge] , consume <style=\"highlight\">10</style>% HP to ได้รับ [Charge] +0 ขั้น (this ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 ขั้น [Charge]  และ ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  consumed (สูงสุด <style=\"highlight\">30</style>%)",
+          "desc": "[BeforeAttack] ได้รับ <style=\"highlight\">(highest Reson. - 2)</style> Atk Weight <style=\"highlight\">(สูงสุด 2)</style>\n[BeforeAttack] เมื่อมี less than 10 ขั้น [Charge] , จ่าย <style=\"highlight\">10</style>% HPเพื่อได้รับ [Charge] +10 ขั้น (this ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] จ่าย up to 40 ขั้น [Charge]  และ ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  จ่ายd (สูงสุด <style=\"highlight\">30</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -371,7 +371,7 @@
           "level": 1,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than maximum ขั้น [Charge] , consume (missing ขั้น [Charge]  x 1.5)% HP to ได้รับ up to max ขั้น [Charge]  (สูงสุด ขั้น [Charge]  obtainable from this effect: 30. This ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 ขั้น [Charge]  และ ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  consumed (สูงสุด 20%)",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than maximum ขั้น [Charge] , จ่าย (missing ขั้น [Charge]  x 1.5)% HP to ได้รับ up to max ขั้น [Charge]  (สูงสุด ขั้น [Charge]  obtainable from this effect: 30. This ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] จ่าย up to 40 ขั้น [Charge]  และ ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  จ่ายd (สูงสุด 20%)",
           "coinlist": [
             {
               "coindescs": [
@@ -392,7 +392,7 @@
           "level": 3,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than maximum ขั้น [Charge] , consume (missing ขั้น [Charge]  x <style=\"highlight\">1.2</style>)% HP to ได้รับ up to max ขั้น [Charge]  (สูงสุด ขั้น [Charge]  obtainable from this effect: 30. This ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 ขั้น [Charge]  และ ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  consumed (สูงสุด <style=\"highlight\">40</style>%)",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n[BeforeAttack] เมื่อมี less than maximum ขั้น [Charge] , จ่าย (missing ขั้น [Charge]  x <style=\"highlight\">1.2</style>)% HP to ได้รับ up to max ขั้น [Charge]  (สูงสุด ขั้น [Charge]  obtainable from this effect: 30. This ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] จ่าย up to 40 ขั้น [Charge]  และ ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  จ่ายd (สูงสุด <style=\"highlight\">40</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -413,7 +413,7 @@
           "level": 4,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ <style=\"highlight\">(highest Reson. - 2)</style> Atk Weight <style=\"highlight\">(สูงสุด 2)</style>\n[BeforeAttack] เมื่อมี less than maximum ขั้น [Charge] , consume <style=\"highlight\">(missing ขั้น [Charge] )%</style> HP to ได้รับ up to max ขั้น [Charge]  (สูงสุด ขั้น [Charge]  obtainable from this effect: 30. This ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 ขั้น [Charge]  และ ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  consumed (สูงสุด <style=\"highlight\">60</style>%)",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ <style=\"highlight\">(highest Reson. - 2)</style> Atk Weight <style=\"highlight\">(สูงสุด 2)</style>\n[BeforeAttack] เมื่อมี less than maximum ขั้น [Charge] , จ่าย <style=\"highlight\">(missing ขั้น [Charge] )%</style> HP to ได้รับ up to max ขั้น [Charge]  (สูงสุด ขั้น [Charge]  obtainable from this effect: 30. This ความเสียหาย does not reduce ยูนิทนี้'s HP to 0; rounded down)\n[BeforeAttack] จ่าย up to 40 ขั้น [Charge]  และ ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  จ่ายd (สูงสุด <style=\"highlight\">60</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -447,7 +447,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)"
+                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (1 ครั้งต่อเทิร์น for each unit)"
                 }
               ]
             }
@@ -465,7 +465,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)"
+                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (1 ครั้งต่อเทิร์น for each unit)"
                 }
               ]
             }
@@ -483,7 +483,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)"
+                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (1 ครั้งต่อเทิร์น for each unit)"
                 }
               ]
             }
@@ -506,7 +506,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)"
+                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (1 ครั้งต่อเทิร์น for each unit)"
                 }
               ]
             }
@@ -527,7 +527,7 @@
                   "desc": "[OnSucceedAttack] มอบ +([FreischutzShotCount] / 3) [Combustion] Count (rounded down)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (1 ครั้งต่อเทิร์น for each unit)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -548,7 +548,7 @@
                   "desc": "[OnSucceedAttack] มอบ +([FreischutzShotCount] / <style=\"highlight\">2</style>) [Combustion] Count (rounded down)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (once ต่อทุกๆ turn for each unit)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ [DarkFlame] เท่ากับ [FreischutzShotCount] (1 ครั้งต่อเทิร์น for each unit)<style=\"highlight\"></style>"
                 }
               ]
             }

@@ -172,7 +172,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Up All Pretty!\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration]บนself (สูงสุด 3)",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่ตัวเองมี (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -194,7 +194,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Even Sharper\u200B</line-height>",
-          "desc": "[WhenUse] Consume up to 20 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] consumed\n- หาก ยูนิทนี้ failed to consume [BloodDinner] with this Skill, ได้รับ 30 [Laceration]\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration]บนself (สูงสุด 2)",
+          "desc": "[WhenUse] จ่าย up to 20 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] จ่ายd\n- หาก ยูนิทนี้ failed to จ่าย [BloodDinner] ด้วยสกิลนี้, ได้รับ 30 [Laceration]\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่ตัวเองมี (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -220,7 +220,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>SNIP!!\u200B</line-height>",
-          "desc": "[WhenUse] Consume up to 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] consumed\n[WhenUse] หากเป้าหมายมี [LineCutting], แต้มปะทะ +5\nHeal 5 SPบนevery hit aได้รับst [LineCutting]",
+          "desc": "[WhenUse] จ่าย up to 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] จ่ายd\n[WhenUse] หากเป้าหมายมี [LineCutting], แต้มปะทะ +5\nHeal 5 SPบนevery hit aได้รับst [LineCutting]",
           "coinlist": [
             {
               "coindescs": [
@@ -253,7 +253,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Up Too!\u200B</line-height>",
-          "desc": "[BeforeAttack] Atk Weight +1 ต่อทุกๆ Stage of [BloodScissor] (สูงสุด 2)\n[WhenUse] Consume up to 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] consumed\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2",
+          "desc": "[BeforeAttack] Atk Weight +1 ต่อทุกๆ Stage of [BloodScissor] (สูงสุด 2)\n[WhenUse] จ่าย up to 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] จ่ายd\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -304,7 +304,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Together!\u200B</line-height>",
-          "desc": "[BeforeAttack] Atk Weight +1 ต่อทุกๆ Stage of [BloodScissor]\n[WhenUse] Consume up to 100 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] consumed\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2\n[EndSkill] Consume 10 [BloodScissor]",
+          "desc": "[BeforeAttack] Atk Weight +1 ต่อทุกๆ Stage of [BloodScissor]\n[WhenUse] จ่าย up to 100 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] จ่ายd\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2\n[EndSkill] จ่าย 10 [BloodScissor]",
           "coinlist": [
             {
               "coindescs": [
@@ -315,7 +315,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 },
                 {
-                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration](สูงสุด 10). The เป้าหมายเสีย 1 [Laceration]Count"
+                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration](สูงสุด 10). The เป้าหมายเสีย 1 ขั้น [Laceration]"
                 }
               ]
             },
@@ -328,7 +328,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Laceration]"
                 },
                 {
-                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration](สูงสุด 10). The เป้าหมายเสีย 1 [Laceration]Count"
+                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration](สูงสุด 10). The เป้าหมายเสีย 1 ขั้น [Laceration]"
                 }
               ]
             },
@@ -341,7 +341,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Laceration]"
                 },
                 {
-                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration](สูงสุด 10). The เป้าหมายเสีย 1 [Laceration]Count"
+                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration](สูงสุด 10). The เป้าหมายเสีย 1 ขั้น [Laceration]"
                 }
               ]
             },
@@ -365,7 +365,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>How Discourteous!\u200B</line-height>",
-          "desc": "[DuelCounter]\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ [BloodScissor] Stage (สูงสุด 3)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration]บนself (สูงสุด 3)",
+          "desc": "[DuelCounter]\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ [BloodScissor] Stage (สูงสุด 3)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่ตัวเองมี (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [

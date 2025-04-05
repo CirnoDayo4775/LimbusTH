@@ -124,7 +124,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -148,7 +148,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -172,7 +172,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -201,7 +201,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -225,7 +225,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -249,7 +249,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 }
               ]
             }
@@ -344,7 +344,7 @@
           "level": 1,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 14%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด 3)\n[BeforeAttack] ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด 15%)\n[BeforeAttack] Consume 5 [Breath] ที่ตัวเองมี\n[EndSkill] เสีย every [BoseProjektil]",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 14%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด 3)\n[BeforeAttack] ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด 15%)\n[BeforeAttack] จ่าย 5 [Breath] ที่ตัวเองมี\n[EndSkill] เสีย every [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
@@ -359,7 +359,7 @@
           "level": 3,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] instead\n<style=\"highlight\">[BeforeAttack] เมื่อมี 3+ [BoseProjektil], ได้รับ 1 Atk Weight</style>\n[BeforeAttack] ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 14%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">4</style>)\n[BeforeAttack] ทำ +<style=\"highlight\">4</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด <style=\"highlight\">20</style>%)\n[BeforeAttack] Consume 5 [Breath] ที่ตัวเองมี\n[EndSkill] เสีย every [BoseProjektil]",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] instead\n<style=\"highlight\">[BeforeAttack] เมื่อมี 3+ [BoseProjektil], ได้รับ 1 Atk Weight</style>\n[BeforeAttack] ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 14%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">4</style>)\n[BeforeAttack] ทำ +<style=\"highlight\">4</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด <style=\"highlight\">20</style>%)\n[BeforeAttack] จ่าย 5 [Breath] ที่ตัวเองมี\n[EndSkill] เสีย every [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
@@ -374,7 +374,7 @@
           "level": 4,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] ได้รับ 1 Atk Weight for <style=\"highlight\">every 3 [BoseProjektil] (สูงสุด 2)</style>\n[BeforeAttack] ทำ +<style=\"highlight\">3</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">21</style>%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">7</style>)\n[BeforeAttack] ทำ +<style=\"highlight\">5</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด <style=\"highlight\">25</style>%)\n[BeforeAttack] Consume 5 [Breath] ที่ตัวเองมี\n[EndSkill] เสีย every [BoseProjektil]",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] ได้รับ 1 Atk Weight for <style=\"highlight\">every 3 [BoseProjektil] (สูงสุด 2)</style>\n[BeforeAttack] ทำ +<style=\"highlight\">3</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">21</style>%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">7</style>)\n[BeforeAttack] ทำ +<style=\"highlight\">5</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด <style=\"highlight\">25</style>%)\n[BeforeAttack] จ่าย 5 [Breath] ที่ตัวเองมี\n[EndSkill] เสีย every [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
@@ -394,7 +394,7 @@
           "level": 1,
           "name": "<line-height=120%>Asymmetrical Inertia\u200B</line-height>",
           "abName": "Clockwork-Time-Roly-Poly",
-          "desc": "[BeforeAttack] ได้รับ (highest Reson.) [Vibration] Count (สูงสุด 6, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., trigger [Switch_Vibration]บน[Vibration]บนself into [VibrationSpring]",
+          "desc": "[BeforeAttack] ได้รับ (highest Reson.) ขั้น [Vibration] (สูงสุด 6, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]",
           "coinlist": [
             {
               "coindescs": [
@@ -412,7 +412,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1\n- When triggering [Vibration] Burst, มอบ 1 [AmberTakeDamageUp] ในเทิร์นนี้\n- หาก the highest Reson. was a 4+ Sloth A-Reson., มอบ 1 [AmberTakeDamageUp] ในเทิร์นหน้าเป็นwell"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- When เปิดใช้ing [Vibration] Burst, มอบ 1 [AmberTakeDamageUp] ในเทิร์นนี้\n- หาก the highest Reson. was a 4+ Sloth A-Reson., มอบ 1 [AmberTakeDamageUp] ในเทิร์นหน้าเป็นwell"
                 }
               ]
             }
@@ -422,7 +422,7 @@
           "level": 3,
           "name": "<line-height=120%>Asymmetrical Inertia\u200B</line-height>",
           "abName": "Clockwork-Time-Roly-Poly",
-          "desc": "[BeforeAttack] ได้รับ (<style=\"highlight\">2 +</style> highest Reson.) [Vibration] Count (สูงสุด <style=\"highlight\">8</style>, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., trigger [Switch_Vibration]บน[Vibration]บนself into [VibrationSpring]",
+          "desc": "[BeforeAttack] ได้รับ (<style=\"highlight\">2 +</style> highest Reson.) ขั้น [Vibration] (สูงสุด <style=\"highlight\">8</style>, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]",
           "coinlist": [
             {
               "coindescs": [
@@ -440,7 +440,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1\n- When triggering [Vibration] Burst, มอบ 1 [AmberTakeDamageUp] ในเทิร์นนี้\n- หาก the highest Reson. was a <style=\"highlight\">Sloth A-Reson.</style>, มอบ 1 [AmberTakeDamageUp] ในเทิร์นหน้าเป็นwell"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- When เปิดใช้ing [Vibration] Burst, มอบ 1 [AmberTakeDamageUp] ในเทิร์นนี้\n- หาก the highest Reson. was a <style=\"highlight\">Sloth A-Reson.</style>, มอบ 1 [AmberTakeDamageUp] ในเทิร์นหน้าเป็นwell"
                 }
               ]
             }
@@ -450,7 +450,7 @@
           "level": 4,
           "name": "<line-height=120%>Asymmetrical Inertia\u200B</line-height>",
           "abName": "Clockwork-Time-Roly-Poly",
-          "desc": "[BeforeAttack] ได้รับ (<style=\"highlight\">4 +</style> highest Reson.) [Vibration] Count (สูงสุด 8, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., trigger [Switch_Vibration]บน[Vibration]บนself into [VibrationSpring]",
+          "desc": "[BeforeAttack] ได้รับ (<style=\"highlight\">4 +</style> highest Reson.) ขั้น [Vibration] (สูงสุด 8, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]",
           "coinlist": [
             {
               "coindescs": [
@@ -468,7 +468,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1\n- When triggering [Vibration] Burst, มอบ 1 [AmberTakeDamageUp] ในเทิร์นนี้\n- หาก the highest Reson. was a <style=\"highlight\">3+ Sloth Reson.</style>, มอบ 1 [AmberTakeDamageUp] ในเทิร์นหน้าเป็นwell"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- When เปิดใช้ing [Vibration] Burst, มอบ 1 [AmberTakeDamageUp] ในเทิร์นนี้\n- หาก the highest Reson. was a <style=\"highlight\">3+ Sloth Reson.</style>, มอบ 1 [AmberTakeDamageUp] ในเทิร์นหน้าเป็นwell"
                 }
               ]
             }
@@ -483,7 +483,7 @@
           "level": 1,
           "name": "<line-height=120%>Asymmetrical Inertia\u200B</line-height>",
           "abName": "Clockwork-Time-Roly-Poly",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (2 + highest Reson.) [Vibration] Count (สูงสุด 8, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., trigger [Switch_Vibration]บน[Vibration]บนself into [VibrationSpring]",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (2 + highest Reson.) ขั้น [Vibration] (สูงสุด 8, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]",
           "coinlist": [
             {
               "coindescs": [
@@ -501,10 +501,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1\n- When triggering [Vibration] Burst, มอบ 2 [AmberTakeDamageUp] ในเทิร์นนี้\n- หาก the highest Reson. was a 4+ Sloth A-Reson, มอบ 2 [AmberTakeDamageUp] ในเทิร์นหน้าเป็นwell"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- When เปิดใช้ing [Vibration] Burst, มอบ 2 [AmberTakeDamageUp] ในเทิร์นนี้\n- หาก the highest Reson. was a 4+ Sloth A-Reson, มอบ 2 [AmberTakeDamageUp] ในเทิร์นหน้าเป็นwell"
                 }
               ]
             }
@@ -514,7 +514,7 @@
           "level": 3,
           "name": "<line-height=120%>Asymmetrical Inertia\u200B</line-height>",
           "abName": "Clockwork-Time-Roly-Poly",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (<style=\"highlight\">4 +</style> highest Reson.) [Vibration] Count (สูงสุด 8, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., trigger [Switch_Vibration]บน[Vibration]บนself into [VibrationSpring]",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (<style=\"highlight\">4 +</style> highest Reson.) ขั้น [Vibration] (สูงสุด 8, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]",
           "coinlist": [
             {
               "coindescs": [
@@ -532,10 +532,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1\n- When triggering [Vibration] Burst, มอบ 2 [AmberTakeDamageUp] ในเทิร์นนี้\n- หาก the highest Reson. was a <style=\"highlight\">Sloth A-Reson</style>, มอบ 2 [AmberTakeDamageUp] ในเทิร์นหน้าเป็นwell"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- When เปิดใช้ing [Vibration] Burst, มอบ 2 [AmberTakeDamageUp] ในเทิร์นนี้\n- หาก the highest Reson. was a <style=\"highlight\">Sloth A-Reson</style>, มอบ 2 [AmberTakeDamageUp] ในเทิร์นหน้าเป็นwell"
                 }
               ]
             }
@@ -545,7 +545,7 @@
           "level": 4,
           "name": "<line-height=120%>Asymmetrical Inertia\u200B</line-height>",
           "abName": "Clockwork-Time-Roly-Poly",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (4 + highest Reson.) [Vibration] Count (สูงสุด <style=\"highlight\">10</style>, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., trigger [Switch_Vibration]บน[Vibration]บนself into [VibrationSpring]",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (4 + highest Reson.) ขั้น [Vibration] (สูงสุด <style=\"highlight\">10</style>, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]",
           "coinlist": [
             {
               "coindescs": [
@@ -563,10 +563,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1\n- When triggering [Vibration] Burst, มอบ 2 [AmberTakeDamageUp] ในเทิร์นนี้\n- หาก the highest Reson. was a <style=\"highlight\">3+ Sloth Reson.</style>, มอบ 2 [AmberTakeDamageUp] ในเทิร์นหน้าเป็นwell"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- When เปิดใช้ing [Vibration] Burst, มอบ 2 [AmberTakeDamageUp] ในเทิร์นนี้\n- หาก the highest Reson. was a <style=\"highlight\">3+ Sloth Reson.</style>, มอบ 2 [AmberTakeDamageUp] ในเทิร์นหน้าเป็นwell"
                 }
               ]
             }

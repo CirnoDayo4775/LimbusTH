@@ -56,7 +56,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                                    "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                                 },
                                 {
                                     "desc": "If the target is Staggered ไป [VibrationExplosion], reuse Coin"
@@ -123,7 +123,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                                    "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                                 },
                                 {
                                     "desc": "If the target is Staggered ไป [VibrationExplosion], reuse Coin"
@@ -464,7 +464,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Get... Out of My...\u200B</line-height>",
+                    "name": "<line-height=120%>Get... Out of แหม...\u200B</line-height>",
                     "desc": "[WhenUse] หากเป้าหมายมี 3+ [Burst] Count, แต้มตั้งต้น +1",
                     "coinlist": [
                         {
@@ -953,7 +953,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration]Potency, มอบ 1 [Paralysis] ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ ปริมาณ [Laceration], มอบ 1 [Paralysis] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -989,14 +989,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ ปริมาณ [Laceration], ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ ปริมาณ [Laceration], ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         }
@@ -1051,14 +1051,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ ปริมาณ [Laceration], ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ ปริมาณ [Laceration], ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         }
@@ -1116,7 +1116,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration]Potency, ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ ปริมาณ [Laceration], ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         }
@@ -1162,7 +1162,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 15+ [Laceration]Potency, มอบ 2 [Vulnerable] ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 15+ ปริมาณ [Laceration], มอบ 2 [Vulnerable] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -1304,7 +1304,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 8+ ความรุนแรง [Sinking] , Reuse this เหรียญ (1 time max)"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 8+ ความรุนแรง [Sinking] , Reuse this เหรียญ (สูงสุด 1 ครั้ง)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 4 [DefenseDown] 4 และ 1 [Vulnerable]"
@@ -1420,7 +1420,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Sinking] Count, Reuse this เหรียญ (1 time max)"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Sinking] Count, Reuse this เหรียญ (สูงสุด 1 ครั้ง)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 4 [AttackDown] และ 1 [Paralysis] ในเทิร์นหน้า"
