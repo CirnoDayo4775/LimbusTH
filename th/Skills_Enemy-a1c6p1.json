@@ -223,7 +223,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ป้อง...\u200B</line-height>",
-                    "desc": "If ยูนิทนี้ has remaining โล่ HP at Turn End, ได้รับ 1 [AttackUp] ในเทิร์นหน้า",
+                    "desc": "ถ้ายูนิทนี้มี remaining HP โล่ at Turn End, ได้รับ 1 [AttackUp] ในเทิร์นหน้า",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -330,7 +330,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "If ยูนิทนี้ has remaining โล่ HP at Turn End, ได้รับ 1 [AttackUp] ในเทิร์นหน้า"
+                                    "desc": "ถ้ายูนิทนี้มี remaining HP โล่ at Turn End, ได้รับ 1 [AttackUp] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -870,7 +870,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 15 [Laceration]and [Laceration] +3 ขั้น"
+                                    "desc": "[OnSucceedAttack] มอบ 15 [Laceration] และ [Laceration] +3 ขั้น"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] มอบ 2 [Paralysis] ในเทิร์นหน้า"
@@ -1321,7 +1321,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-                    "desc": "If ยูนิทนี้ has remaining โล่ HP at Turn End, lower Stagger threshold ไป 10\nIf ยูนิทนี้'s โล่ HP is depleted, the last attacker ฟื้นฟู 10 ค่าสติ",
+                    "desc": "ถ้ายูนิทนี้มี remaining HP โล่ at Turn End, lower Stagger threshold ไป 10\nIf ยูนิทนี้'s HP โล่ is depleted, the last attacker ฟื้นฟู 10 ค่าสติ",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1437,7 +1437,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-                    "desc": "If ยูนิทนี้ has remaining โล่ HP at Turn End, lower Stagger threshold ไป 10\nIf ยูนิทนี้'s โล่ HP is depleted, the last attacker ฟื้นฟู 10 ค่าสติ",
+                    "desc": "ถ้ายูนิทนี้มี remaining HP โล่ at Turn End, lower Stagger threshold ไป 10\nIf ยูนิทนี้'s HP โล่ is depleted, the last attacker ฟื้นฟู 10 ค่าสติ",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1517,7 +1517,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>As Mistress Commands...!\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 3 ความรุนแรง [Sinking] บนเป้าหมาย (สูงสุด 3)\n[WinDuel] All allies ฟื้นฟู 5 ค่าสติ",
+                    "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 3 ความรุนแรง [Sinking] บนเป้าหมาย (สูงสุด 3)\n[WinDuel] พันธมิตรทุกคน ฟื้นฟู 5 ค่าสติ",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1562,7 +1562,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Not Even a Speck of Dust!\u200B</line-height>",
-                    "desc": "[StartBattle] มอบ 3 [AttackUp] และ ฟื้นฟู 15 ค่าสติ for all allies, including ยูนิทนี้\n[StartBattle] มอบ 1 [Vulnerable] แก่พันธมิตรอื่นทุกคน",
+                    "desc": "[StartBattle] มอบ 3 [AttackUp] และ ฟื้นฟู 15 ค่าสติ for พันธมิตรทุกคน, รวมยูนิทนี้ด้วย\n[StartBattle] มอบ 1 [Vulnerable] แก่พันธมิตรอื่นทุกคน",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1601,7 +1601,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Slippery Rat!\u200B</line-height>",
-                    "desc": "If ยูนิทนี้ has remaining โล่ HP at Turn End, lower Stagger threshold ไป 50\nIf ยูนิทนี้'s โล่ HP is depleted, ศัตรูทุกตัว ฟื้นฟู 10 ค่าสติ",
+                    "desc": "ถ้ายูนิทนี้มี remaining HP โล่ at Turn End, lower Stagger threshold ไป 50\nIf ยูนิทนี้'s HP โล่ is depleted, ศัตรูทุกตัว ฟื้นฟู 10 ค่าสติ",
                     "coinlist": [
                         {
                             "coindescs": [

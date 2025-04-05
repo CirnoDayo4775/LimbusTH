@@ -5,7 +5,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Overthrow\u200B</line-height>",
+                    "name": "<line-height=120%>โค่นล้มล้าง\u200B</line-height>",
                     "desc": "[WhenUse] ได้รับ [Breath] +3 ขั้น",
                     "coinlist": [
                         {
@@ -68,8 +68,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-                    "desc": "[StartBattle] ได้รับ 100 โล่\n[WhenUse] หาก the โล่ isn't fully depleted, แต้มปะทะ +5",
+                    "name": "<line-height=120%>เพื่อลากกระดูกออกมังสา\u200B</line-height>",
+                    "desc": "[StartBattle] ได้รับ 100 โล่\n[WhenUse] หากโล่ยังคงเหลืออยู่, แต้มปะทะ +5",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -96,7 +96,7 @@
                                     "desc": "[UnBrokenCoinOnSucceedAttack] +100% ความเสียหายเมื่อติดคริ"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 10 [Laceration]and [Laceration] +2 ขั้น"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 10 [Laceration] และ [Laceration] +2 ขั้น"
                                 }
                             ]
                         },
@@ -109,7 +109,7 @@
                                     "desc": "If this เหรียญ is Cracked, เสีย 20 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] หาก the โล่ isn't fully depleted, divide [Grudge] value ไป Atk Weight และ มอบ itเป็น ความเสียหายตรง."
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] หากโล่ยังคงเหลืออยู่, หารค่า [Grudge] ด้วย Atk Weight และทำความเสียหายตรง เท่ากับค่าที่หารได้ "
                                 }
                             ]
                         }
@@ -122,8 +122,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-                    "desc": "[StartBattle] ได้รับ 250 โล่\n[WhenUse] ได้รับ [Breath] +3 ขั้น\n[WhenUse] หาก the โล่ isn't fully depleted, แต้มปะทะ +10",
+                    "name": "<line-height=120%>เพื่อลากกระดูกออกมังสา\u200B</line-height>",
+                    "desc": "[StartBattle] ได้รับ 250 โล่\n[WhenUse] ได้รับ [Breath] +3 ขั้น\n[WhenUse] หากโล่ยังคงเหลืออยู่, แต้มปะทะ +10",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -153,7 +153,7 @@
                                     "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 5 [Paralysis] ในเทิร์นหน้า"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 10 [Laceration]and [Laceration] +2 ขั้น"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 10 [Laceration] และ [Laceration] +2 ขั้น"
                                 }
                             ]
                         },
@@ -166,7 +166,7 @@
                                     "desc": "If this เหรียญ is Cracked, เสีย 23 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] หาก the โล่ isn't fully depleted, divide [Grudge] value ไป Atk Weight และ มอบ itเป็น ความเสียหายตรง."
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] หากโล่ยังคงเหลืออยู่, หารค่า [Grudge] ด้วย Atk Weight และทำความเสียหายตรง เท่ากับค่าที่หารได้ "
                                 }
                             ]
                         }
@@ -179,8 +179,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-                    "desc": "[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] ฟื้นฟู HP เท่ากับ [Grudge] value",
+                    "name": "<line-height=120%>เพื่อลากกระดูกออกมังสา\u200B</line-height>",
+                    "desc": "[CantChangeTarget]\nให้ความสำคัญแก่ยูนิทที่ HP น้อยที่สุดเป็นหลัก\n[EnemyKill] เพิ่มค่า [Grudge] ไป 2 เท่า\n[EnemyKill] ฟื้นฟู HP เท่ากับ ค่า [Grudge]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -211,7 +211,7 @@
                                     "desc": "If this เหรียญ is Cracked, เสีย 25 แต้มรวม"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ทำ  ความเสียหายตรง เท่ากับ [Grudge] value."
+                                    "desc": "[OnSucceedAttack] ทำ ความเสียหายตรง เท่ากับ ค่า [Grudge]."
                                 }
                             ]
                         }

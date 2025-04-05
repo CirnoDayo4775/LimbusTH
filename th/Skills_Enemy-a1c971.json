@@ -14,7 +14,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  2 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 2 ความเสียหายค่าสติ"
                 }
               ]
             }
@@ -36,7 +36,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  3 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 3 ความเสียหายค่าสติ"
                 }
               ]
             },
@@ -46,10 +46,10 @@
                   "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ ความเสียหาย ทำ t (Max 20)"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ ความเสียหาย ทำ t (สูงสุด 20)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  5 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 5 ความเสียหายค่าสติ"
                 }
               ]
             }
@@ -63,7 +63,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I■'s Y■■r ■■rn N■■!!\u200B</line-height>",
-          "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Burst]บนtarget (max 2)",
+          "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Burst]บนtarget (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -78,7 +78,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ ความเสียหาย ทำ t (Max 20)"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ ความเสียหาย ทำ t (สูงสุด 20)"
                 }
               ]
             },
@@ -91,10 +91,10 @@
                   "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  10 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 10 ความเสียหายค่าสติ"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ ความเสียหาย ทำ t (Max 20)"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ ความเสียหาย ทำ t (สูงสุด 20)"
                 }
               ]
             }
@@ -108,7 +108,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Gua■■\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ โล่ HP ต่อทุกๆ 5 [Burst]บนthe target\n[EndBattle] ฟื้นฟู HP เท่ากับ the remaining โล่ HP",
+          "desc": "[WhenUse] ได้รับ HP โล่ ต่อทุกๆ 5 [Burst]บนthe target\n[EndBattle] ฟื้นฟู HP เท่ากับ the remaining HP โล่",
           "coinlist": [
             {
               "coindescs": [
@@ -135,7 +135,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  2 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 2 ความเสียหายค่าสติ"
                 }
               ]
             }
@@ -157,7 +157,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  3 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 3 ความเสียหายค่าสติ"
                 }
               ]
             },
@@ -167,10 +167,10 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ ความเสียหาย ทำ t (Max 20)"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ ความเสียหาย ทำ t (สูงสุด 20)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  5 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 5 ความเสียหายค่าสติ"
                 }
               ]
             }
@@ -184,7 +184,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ti■■ to E■■!\u200B</line-height>",
-          "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Burst]บนtarget (max 2)",
+          "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Burst]บนtarget (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -199,7 +199,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ ความเสียหาย ทำ t (Max 20)"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ ความเสียหาย ทำ t (สูงสุด 20)"
                 }
               ]
             },
@@ -212,10 +212,10 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  10 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 10 ความเสียหายค่าสติ"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ ความเสียหาย ทำ t (Max 20)"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ ความเสียหาย ทำ t (สูงสุด 20)"
                 }
               ]
             }
@@ -229,7 +229,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>■■■rd\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ โล่ HP ต่อทุกๆ 5 [Burst]บนthe target\n[EndBattle] ฟื้นฟู HP เท่ากับ the remaining โล่ HP",
+          "desc": "[WhenUse] ได้รับ HP โล่ ต่อทุกๆ 5 [Burst]บนthe target\n[EndBattle] ฟื้นฟู HP เท่ากับ the remaining HP โล่",
           "coinlist": [
             {
               "coindescs": [

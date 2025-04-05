@@ -79,7 +79,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-                    "desc": "มอบ 2 [Vibration] aได้รับst the Attacker when hitเป็นlongเป็นthere is remaining โล่ HP\n[WhenUse] ได้รับ 3 [Protection]",
+                    "desc": "มอบ 2 [Vibration] aได้รับst the Attacker when hitเป็นlongเป็นthere is remaining HP โล่\n[WhenUse] ได้รับ 3 [Protection]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -363,7 +363,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>ศาสตราโลหิตแห่ง ดอน กิโฮเต้ ศาสตร์ที่ 2 - ผลึกโลหิต</size></line-height>\u200B</line-height>",
-                    "desc": "Can Clash with this Skill regardless of Speed\n[StartBattle] ได้รับ 1 [SwirlingBlood]\n[StartBattle] Consume 100 [BloodDinner]; ได้รับ 1 [BloodArmor] และ 20 โล่ HP ต่อทุกๆ 10 [BloodDinner] consumed\n- หาก ยูนิทนี้ doesn't have enough [BloodDinner], ได้รับ 50 [Laceration], และ เปิดใช้งาน it immediately. เสีย 2 [Laceration]Count. ได้รับ 200 โล่ HP (this ความเสียหาย does not reduce ยูนิทนี้'s HP to 0)\n[DefeatDuel]เป็นlongเป็นthe โล่ HP from this Skill remains, ได้รับ 3 [Vulnerable]\n[DefeatDuel] This Skill ทำ s -50% less ความเสียหาย\n[EndSkill] End Combat Phase",
+                    "desc": "Can Clash with this Skill regardless of Speed\n[StartBattle] ได้รับ 1 [SwirlingBlood]\n[StartBattle] Consume 100 [BloodDinner]; ได้รับ 1 [BloodArmor] และ 20 HP โล่ ต่อทุกๆ 10 [BloodDinner] consumed\n- หาก ยูนิทนี้ doesn't have enough [BloodDinner], ได้รับ 50 [Laceration], และ เปิดใช้งาน it immediately. เสีย 2 [Laceration]Count. ได้รับ 200 HP โล่ (this ความเสียหาย does not reduce ยูนิทนี้'s HP to 0)\n[DefeatDuel]เป็นlongเป็นthe HP โล่ from this Skill remains, ได้รับ 3 [Vulnerable]\n[DefeatDuel] This Skill ทำ s -50% less ความเสียหาย\n[EndSkill] End Combat Phase",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -392,7 +392,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +3 ขั้น"
+                                    "desc": "[OnSucceedAttack] มอบ 5 [Laceration] และ [Laceration] +3 ขั้น"
                                 }
                             ]
                         }
@@ -406,7 +406,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>ลา อเวนทูรา ฮา เทอร์มินาโด</size></line-height>\u200B</line-height>",
-                    "desc": "ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration]บนthe target (สูงสุด 200%)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 3 [BloodArmor] (สูงสุด 100%)\n[StartBattle] Consume (45 - current SP) [BloodDinner] และ ฟื้นฟู up to 45 SP\n- หาก there isn't enough [BloodDinner], ได้รับ 20 [Laceration]and ฟื้นฟู up to 45 SP\n- ได้รับ โล่ HP เท่ากับ remaining [BloodDinner] (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[EndSkill] Increase [BloodDinner] ไป HP ความเสียหาย ทำ t aได้รับst the target\n[EndSkill] หาก the target is defeated, increase [BloodDinner] ไป the target's max HP",
+                    "desc": "ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration]บนthe target (สูงสุด 200%)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 3 [BloodArmor] (สูงสุด 100%)\n[StartBattle] Consume (45 - current SP) [BloodDinner] และ ฟื้นฟู up to 45 SP\n- หาก there isn't enough [BloodDinner], ได้รับ 20 [Laceration] และ ฟื้นฟู up to 45 SP\n- ได้รับ HP โล่ เท่ากับ remaining [BloodDinner] (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[EndSkill] Increase [BloodDinner] ไป HP ความเสียหาย ทำ t aได้รับst the target\n[EndSkill] หาก the target is defeated, increase [BloodDinner] ไป the target's max HP",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -414,10 +414,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 10 [Laceration]and [Laceration] +3 ขั้น"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 10 [Laceration] และ [Laceration] +3 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +3 ขั้น to ศัตรูทุกตัว except for the target"
+                                    "desc": "[OnSucceedAttack] มอบ 5 [Laceration] และ [Laceration] +3 ขั้น to ศัตรูทุกตัว except for the target"
                                 }
                             ]
                         }
@@ -431,7 +431,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>ลา อเวนทูรา ฮา เทอร์มินาโด...</size></line-height>\u200B</line-height>",
-                    "desc": "ทำ +40% ความเสียหายเพิ่มเติม ต่อทุกๆ 10 (sum of [Laceration]บนall targets]) (สูงสุด 200%)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ cumulative [BloodDinner] ยูนิทนี้ consumed (สูงสุด 100%)\n[StartBattle] Consume (45 - current SP) [BloodDinner] และ ฟื้นฟู up to 45 SP\n- หาก there isn't enough [BloodDinner], ได้รับ 20 [Laceration]and ฟื้นฟู up to 45 SP\n- ได้รับ โล่ HP เท่ากับ remaining [BloodDinner] (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[EndSkill] Increase [BloodDinner] ไป HP ความเสียหาย ทำ t aได้รับst the target\n[EndSkill] หาก the target is defeated, increase [BloodDinner] ไป the target's max HP",
+                    "desc": "ทำ +40% ความเสียหายเพิ่มเติม ต่อทุกๆ 10 (sum of [Laceration]บนall targets]) (สูงสุด 200%)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ cumulative [BloodDinner] ยูนิทนี้ consumed (สูงสุด 100%)\n[StartBattle] Consume (45 - current SP) [BloodDinner] และ ฟื้นฟู up to 45 SP\n- หาก there isn't enough [BloodDinner], ได้รับ 20 [Laceration] และ ฟื้นฟู up to 45 SP\n- ได้รับ HP โล่ เท่ากับ remaining [BloodDinner] (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[EndSkill] Increase [BloodDinner] ไป HP ความเสียหาย ทำ t aได้รับst the target\n[EndSkill] หาก the target is defeated, increase [BloodDinner] ไป the target's max HP",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -439,7 +439,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "มอบ 10 [Laceration]and [Laceration] +3 ขั้น"
+                                    "desc": "มอบ 10 [Laceration] และ [Laceration] +3 ขั้น"
                                 }
                             ]
                         }
@@ -453,7 +453,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Compression\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 ปริมาณ [Breath]บนself (สูงสุด 3)",
+                    "desc": "[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -475,7 +475,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Dismantle\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มรวม +1 ต่อทุกๆ 3 ปริมาณ [Breath]บนself (สูงสุด 5)",
+                    "desc": "[WhenUse] แต้มรวม +1 ต่อทุกๆ 3 ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 5)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -556,7 +556,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Contemplation\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มรวม +1 for ปริมาณ [Breath]บนself (สูงสุด 5)\n[WhenUse] ได้รับ 4 ปริมาณ [Breath]\n- หากยูนิทนี้ยังมีโล่อยู่ ได้รับ [Breath] +2 ขั้นเป็นwell",
+                    "desc": "[WhenUse] แต้มรวม +1 for ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 5)\n[WhenUse] ได้รับ 4 ปริมาณ [Breath]\n- หากยูนิทนี้ยังมีโล่อยู่ ได้รับ [Breath] +2 ขั้นเป็นwell",
                     "coinlist": [
                         {}
                     ]

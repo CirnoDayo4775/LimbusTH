@@ -151,7 +151,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>D.D.E.D.R.\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 7~[Charge] 14 ขั้น\nConsume all[Charge] Count,\nAnd consume 3 x (15 -[Charge] Count Consumed)% HP to ได้รับ +3 เหรียญ Power\n[WhenUse] Consume [Charge] 15 ขั้น to ได้รับ +3 เหรียญ Power",
+          "desc": "[WhenUse] เมื่อมี 7~[Charge] 14 ขั้น\nConsume allขั้น [Charge] ,\nAnd consume 3 x (15 -ขั้น [Charge]  Consumed)% HP to ได้รับ +3 เหรียญ Power\n[WhenUse] Consume [Charge] 15 ขั้น to ได้รับ +3 เหรียญ Power",
           "coinlist": [
             {
               "coindescs": [
@@ -186,7 +186,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>D.D.E.D.R.\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 7~[Charge] 14 ขั้น\nConsume all[Charge] Count,\nAnd consume 3 x (15 -[Charge] Count Consumed)% HP to ได้รับ +5 เหรียญ Power\n[WhenUse] Consume [Charge] 15 ขั้น to ได้รับ +5 เหรียญ Power",
+          "desc": "[WhenUse] เมื่อมี 7~[Charge] 14 ขั้น\nConsume allขั้น [Charge] ,\nAnd consume 3 x (15 -ขั้น [Charge]  Consumed)% HP to ได้รับ +5 เหรียญ Power\n[WhenUse] Consume [Charge] 15 ขั้น to ได้รับ +5 เหรียญ Power",
           "coinlist": [
             {
               "coindescs": [
@@ -416,7 +416,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>O.O.F.\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 4 [Breath]\nได้รับ +1 แต้มเหรียญ ต่อทุกๆ 7 [Breath]บนself (สูงสุด 2)",
+          "desc": "[WhenUse] ได้รับ 4 [Breath]\nได้รับ +1 แต้มเหรียญ ต่อทุกๆ 7 [Breath] ที่ตัวเองมี (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1172,7 +1172,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 x ([Vibration] Countบนself)มาเป็นโล่ HP (สูงสุด 5)",
+          "desc": "[WhenUse] ได้รับ 2 x ([Vibration] Countบนself)มาเป็นHP โล่ (สูงสุด 5)",
           "coinlist": [
             {}
           ]
@@ -1180,7 +1180,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 x ([Vibration] Countบนself)มาเป็นโล่ HP (สูงสุด <style=\"highlight\">10</style>)",
+          "desc": "[WhenUse] ได้รับ 2 x ([Vibration] Countบนself)มาเป็นHP โล่ (สูงสุด <style=\"highlight\">10</style>)",
           "coinlist": [
             {}
           ]

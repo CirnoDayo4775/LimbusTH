@@ -344,12 +344,12 @@
           "level": 1,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 14%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด 3)\n[BeforeAttack] ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath]บนself (สูงสุด 15%)\n[BeforeAttack] Consume 5 [Breath]บนself\n[EndSkill] เสีย every [BoseProjektil]",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 14%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด 3)\n[BeforeAttack] ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด 15%)\n[BeforeAttack] Consume 5 [Breath] ที่ตัวเองมี\n[EndSkill] เสีย every [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration] และ 2 [Sinking]"
                 }
               ]
             }
@@ -359,12 +359,12 @@
           "level": 3,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] instead\n<style=\"highlight\">[BeforeAttack] เมื่อมี 3+ [BoseProjektil], ได้รับ 1 Atk Weight</style>\n[BeforeAttack] ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 14%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">4</style>)\n[BeforeAttack] ทำ +<style=\"highlight\">4</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath]บนself (สูงสุด <style=\"highlight\">20</style>%)\n[BeforeAttack] Consume 5 [Breath]บนself\n[EndSkill] เสีย every [BoseProjektil]",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] instead\n<style=\"highlight\">[BeforeAttack] เมื่อมี 3+ [BoseProjektil], ได้รับ 1 Atk Weight</style>\n[BeforeAttack] ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 14%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">4</style>)\n[BeforeAttack] ทำ +<style=\"highlight\">4</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด <style=\"highlight\">20</style>%)\n[BeforeAttack] Consume 5 [Breath] ที่ตัวเองมี\n[EndSkill] เสีย every [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration] และ 3 [Sinking]"
                 }
               ]
             }
@@ -374,12 +374,12 @@
           "level": 4,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] ได้รับ 1 Atk Weight for <style=\"highlight\">every 3 [BoseProjektil] (สูงสุด 2)</style>\n[BeforeAttack] ทำ +<style=\"highlight\">3</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">21</style>%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">7</style>)\n[BeforeAttack] ทำ +<style=\"highlight\">5</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath]บนself (สูงสุด <style=\"highlight\">25</style>%)\n[BeforeAttack] Consume 5 [Breath]บนself\n[EndSkill] เสีย every [BoseProjektil]",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] ได้รับ 1 Atk Weight for <style=\"highlight\">every 3 [BoseProjektil] (สูงสุด 2)</style>\n[BeforeAttack] ทำ +<style=\"highlight\">3</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">21</style>%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">7</style>)\n[BeforeAttack] ทำ +<style=\"highlight\">5</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด <style=\"highlight\">25</style>%)\n[BeforeAttack] Consume 5 [Breath] ที่ตัวเองมี\n[EndSkill] เสีย every [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration] และ 3 [Sinking]"
                 }
               ]
             }

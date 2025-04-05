@@ -424,7 +424,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Moonlit Blade Dance\u200B</line-height>",
+          "name": "<line-height=120%>Moonlit รำเพลงดาบ\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {},
@@ -440,7 +440,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Moonlit Blade Dance\u200B</line-height>",
+          "name": "<line-height=120%>Moonlit รำเพลงดาบ\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {},
@@ -462,7 +462,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Moonlit Blade Dance\u200B</line-height>",
+          "name": "<line-height=120%>Moonlit รำเพลงดาบ\u200B</line-height>",
           "desc": "<style=\"highlight\">เมื่อมี 5+ [Breath], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {},
@@ -591,7 +591,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Red Plum Blossoms Scatter\u200B</line-height>",
-          "desc": "ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ [RedApricotBlossom]บนเป้าหมาย\n<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 7 [Breath]บนself (สูงสุด 3)</style>\n[WinDuel] Consume half the [Breath] Countบนself, then ได้รับ [Breath] เท่ากับ the [Breath] Count consumed. (สูงสุด 10)\n<style=\"highlight\">This Skill does not consume [RedApricotBlossom]บนCrit</style>",
+          "desc": "ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ [RedApricotBlossom]บนเป้าหมาย\n<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 7 [Breath] ที่ตัวเองมี (สูงสุด 3)</style>\n[WinDuel] Consume half the [Breath] Countบนself, then ได้รับ [Breath] เท่ากับ the [Breath] Count consumed. (สูงสุด 10)\n<style=\"highlight\">This Skill does not consume [RedApricotBlossom]บนCrit</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -623,7 +623,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Redirect\u200B</line-height>",
-          "desc": "[WhenUse] ต่อทุกๆ 4 [Breath]บนself, ได้รับ แต้มรวม +1 (สูงสุด 3)",
+          "desc": "[WhenUse] ต่อทุกๆ 4 [Breath] ที่ตัวเองมี, ได้รับ แต้มรวม +1 (สูงสุด 3)",
           "coinlist": [
             {}
           ]
@@ -631,7 +631,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Redirect\u200B</line-height>",
-          "desc": "[WhenUse] ต่อทุกๆ 4 [Breath]บนself, ได้รับ แต้มรวม +1 (สูงสุด 5)",
+          "desc": "[WhenUse] ต่อทุกๆ 4 [Breath] ที่ตัวเองมี, ได้รับ แต้มรวม +1 (สูงสุด 5)",
           "coinlist": [
             {}
           ]
@@ -822,7 +822,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>40Y-3 Activation\u200B</line-height>",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to ได้รับ แต้มเหรียญ +1",
+          "desc": "[WhenUse] Consume 5 ขั้น [Charge]  to ได้รับ แต้มเหรียญ +1",
           "coinlist": [
             {},
             {
@@ -837,13 +837,13 @@
         {
           "level": 2,
           "name": "<line-height=120%>40Y-3 Activation\u200B</line-height>",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to ได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Consume 5 ขั้น [Charge]  to ได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +<style=\"highlight\">3</style> [Charge] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +<style=\"highlight\">3</style> ขั้น [Charge] "
                 }
               ]
             }
@@ -852,7 +852,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>40Y-3 Activation\u200B</line-height>",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to ได้รับ แต้มเหรียญ <style=\"highlight\">+2</style>",
+          "desc": "[WhenUse] Consume 5 ขั้น [Charge]  to ได้รับ แต้มเหรียญ <style=\"highlight\">+2</style>",
           "coinlist": [
             {},
             {
@@ -872,14 +872,14 @@
         {
           "level": 1,
           "name": "<line-height=120%>Charge Countercurrent\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to ได้รับ แต้มเหรียญ +1",
+          "desc": "[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , consume 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] Consume 10 ขั้น [Charge]  to ได้รับ แต้มเหรียญ +1",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "เมื่อมี 3+ Reson. including this Skill, consume all [Charge] Countบนself และ ทำ +([Charge])% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed ไป this Skill (สูงสุด 60%)"
+                  "desc": "เมื่อมี 3+ Reson. including this Skill, consume all ขั้น [Charge] บนself และ ทำ +([Charge])% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  consumed ไป this Skill (สูงสุด 60%)"
                 }
               ]
             }
@@ -888,14 +888,14 @@
         {
           "level": 2,
           "name": "<line-height=120%>Charge Countercurrent\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to ได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , consume 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] Consume 10 ขั้น [Charge]  to ได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "เมื่อมี 3+ Reson. including this Skill, consume all [Charge] Countบนself และ ทำ +<style=\"highlight\">([Charge] + 3)</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed ไป this Skill (สูงสุด <style=\"highlight\">120%</style>)"
+                  "desc": "เมื่อมี 3+ Reson. including this Skill, consume all ขั้น [Charge] บนself และ ทำ +<style=\"highlight\">([Charge] + 3)</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  consumed ไป this Skill (สูงสุด <style=\"highlight\">120%</style>)"
                 }
               ]
             }
@@ -904,14 +904,14 @@
         {
           "level": 4,
           "name": "<line-height=120%>Charge Countercurrent\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to ได้รับ แต้มเหรียญ <style=\"highlight\">+2</style>",
+          "desc": "[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , consume 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] Consume 10 ขั้น [Charge]  to ได้รับ แต้มเหรียญ <style=\"highlight\">+2</style>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "เมื่อมี 3+ Reson. including this Skill, consume all [Charge] Countบนself และ ทำ +<style=\"highlight\">([Charge] + 4)</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [Charge] Count consumed ไป this Skill (สูงสุด <style=\"highlight\">180%</style>)"
+                  "desc": "เมื่อมี 3+ Reson. including this Skill, consume all ขั้น [Charge] บนself และ ทำ +<style=\"highlight\">([Charge] + 4)</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  consumed ไป this Skill (สูงสุด <style=\"highlight\">180%</style>)"
                 }
               ]
             }
@@ -930,14 +930,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +([Charge] + 4) [Charge] Count (สูงสุด 7)"
+                  "desc": "[OnSucceedAttack] ได้รับ +([Charge] + 4) ขั้น [Charge]  (สูงสุด 7)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +([Charge] + 4) [Charge] Count (สูงสุด 7)"
+                  "desc": "[OnSucceedAttack] ได้รับ +([Charge] + 4) ขั้น [Charge]  (สูงสุด 7)"
                 }
               ]
             },
@@ -959,14 +959,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +([Charge] + <style=\"highlight\">5</style>) [Charge] Count (สูงสุด <style=\"highlight\">8</style>)"
+                  "desc": "[OnSucceedAttack] ได้รับ +([Charge] + <style=\"highlight\">5</style>) ขั้น [Charge]  (สูงสุด <style=\"highlight\">8</style>)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +([Charge] + <style=\"highlight\">5</style>) [Charge] Count (สูงสุด <style=\"highlight\">8</style>)"
+                  "desc": "[OnSucceedAttack] ได้รับ +([Charge] + <style=\"highlight\">5</style>) ขั้น [Charge]  (สูงสุด <style=\"highlight\">8</style>)"
                 }
               ]
             },
@@ -999,7 +999,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Charge\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +<style=\"highlight\">4</style> [Charge] Count (2 times ต่อทุกๆ turn)",
+          "desc": "[WhenUse] ได้รับ +<style=\"highlight\">4</style> ขั้น [Charge]  (2 times ต่อทุกๆ turn)",
           "coinlist": [
             {}
           ]

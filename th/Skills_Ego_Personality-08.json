@@ -250,7 +250,7 @@
           "level": 1,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(Once ต่อทุกๆ turn. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to โล่ HP. This effect can kill allies.)",
+          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(Once ต่อทุกๆ turn. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)",
           "coinlist": [
             {
               "coindescs": [
@@ -268,7 +268,7 @@
           "level": 3,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n<style=\"highlight\">[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด 1)</style>\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(Once ต่อทุกๆ turn. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to โล่ HP. This effect can kill allies.)\n<style=\"highlight\">[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด 3 ต่อทุกๆ turn)</style>",
+          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n<style=\"highlight\">[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด 1)</style>\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(Once ต่อทุกๆ turn. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n<style=\"highlight\">[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด 3 ต่อทุกๆ turn)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -286,7 +286,7 @@
           "level": 4,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด <style=\"highlight\">2</style>)\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(Once ต่อทุกๆ turn. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to โล่ HP. This effect can kill allies.)\n[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด <style=\"highlight\">6</style> ต่อทุกๆ turn)",
+          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด <style=\"highlight\">2</style>)\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(Once ต่อทุกๆ turn. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด <style=\"highlight\">6</style> ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [

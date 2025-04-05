@@ -5,8 +5,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Let's Get Packing\u200B</line-height>",
-                    "desc": "If ยูนิทนี้ has [AaCeSeBa], add 'มอบ 1 [Paralysis] ในเทิร์นหน้า' to เหรียญ effects\nTargets the unit with the lowest Speed\n[EndBattle]จ่าย all [Charge] Count",
+                    "name": "<line-height=120%>ได้เวลาเตรียมของแล้ว\u200B</line-height>",
+                    "desc": "ถ้ายูนิทนี้มี [AaCeSeBa], เพิ่ม 'มอบ 1 [Paralysis] ในเทิร์นหน้า' ให้กับความสามารถของเหรียญในสกิลนี้\nเล็งศัตรูที่มีความเร็วน้อยที่สุด\n[EndBattle]จ่าย ขั้น [Charge] ทั้งหมด",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -24,7 +24,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ทำความเสียหายเพิ่มเติ่มเท่ากับ [Breath]บนself"
+                                    "desc": "[OnSucceedAttack] ทำความเสียหายเพิ่มเติ่มเท่ากับ [Breath] ที่ตัวเองมี"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] และ [Breath] +3 ขั้น"
@@ -37,13 +37,13 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Randomly select 1 of 4 effects ([Protection], [Enhancement], [Vulnerable], [Paralysis]). มอบ or มอบ 3 of the selected effect."
+                                    "desc": "[OnSucceedAttack] เลือกบัฟ 1 ใน 4 อันนี้แบบสุ่ม ([Protection], [Enhancement], [Vulnerable], [Paralysis]). มอบบัฟที่เลือก 3 รอบแก่เป้าหมาย"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] เป้าหมายเสีย ค่าสติ เท่ากับ [Charge] Countบนยูนิทนี้"
+                                    "desc": "[OnSucceedAttack] เป้าหมายเสีย ค่าสติ เท่ากับ ขั้น [Charge] บนยูนิทนี้"
                                 },
                                 {
-                                    "desc": "[EnemyKill] ศัตรูทุกตัว เสีย 10 Sp."
+                                    "desc": "[EnemyKill] ศัตรูทุกตัว เสีย 10 ค่าสติ"
                                 },
                                 {
                                     "desc": "[EnemyKillFail] ได้รับ 2 [Paralysis] ในเทิร์นหน้า."

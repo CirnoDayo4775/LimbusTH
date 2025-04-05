@@ -1000,7 +1000,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Clean Up\u200B</line-height>",
+          "name": "<line-height=120%>เช็ดล้าง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1024,7 +1024,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Clean Up\u200B</line-height>",
+          "name": "<line-height=120%>เช็ดล้าง\u200B</line-height>",
           "desc": "<style=\"highlight\">หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>",
           "coinlist": [
             {
@@ -1048,7 +1048,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Clean Up\u200B</line-height>",
+          "name": "<line-height=120%>เช็ดล้าง\u200B</line-height>",
           "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration]บนเป้าหมาย (สูงสุด 2)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 30%)</style>",
           "coinlist": [
             {
@@ -1078,7 +1078,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Sharpened Blade\u200B</line-height>",
-          "desc": "[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: มอบ 1 [AttackDmgUp] (once ต่อทุกๆ turn)\n- หาก there are 6+ Kurokumo Clan allies, including ยูนิทนี้, มอบ 2 [AttackDmgUp] to 5 allies instead",
+          "desc": "[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: มอบ 1 [AttackDmgUp] (once ต่อทุกๆ turn)\n- หาก there are 6+ Kurokumo Clan allies, รวมยูนิทนี้ด้วย, มอบ 2 [AttackDmgUp] to 5 allies instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1099,7 +1099,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Sharpened Blade\u200B</line-height>",
-          "desc": "<style=\"highlight\">หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\n[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: มอบ <style=\"highlight\">2</style> [AttackDmgUp] (once ต่อทุกๆ turn)\n- หาก there are 6+ Kurokumo Clan units, including ยูนิทนี้, มอบ <style=\"highlight\">3</style> [AttackDmgUp] to 5 allies instead",
+          "desc": "<style=\"highlight\">หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\n[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: มอบ <style=\"highlight\">2</style> [AttackDmgUp] (once ต่อทุกๆ turn)\n- หาก there are 6+ Kurokumo Clan units, รวมยูนิทนี้ด้วย, มอบ <style=\"highlight\">3</style> [AttackDmgUp] to 5 allies instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1126,7 +1126,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Sharpened Blade\u200B</line-height>",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration]บนเป้าหมาย (สูงสุด 2)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 50%)</style>\n[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: มอบ 2 [AttackDmgUp] (once ต่อทุกๆ turn)\n- หาก there are 6+ Kurokumo Clan units, including ยูนิทนี้, มอบ 4 [AttackDmgUp] to 5 allies instead",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration]บนเป้าหมาย (สูงสุด 2)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 50%)</style>\n[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: มอบ 2 [AttackDmgUp] (once ต่อทุกๆ turn)\n- หาก there are 6+ Kurokumo Clan units, รวมยูนิทนี้ด้วย, มอบ 4 [AttackDmgUp] to 5 allies instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1137,7 +1137,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ 1 [SlashTakeDamageUp] (once ต่อทุกๆ turn)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">- หาก there are 6+ Kurokumo Clan units, including ยูนิทนี้, มอบ 2 [Vulnerable] instead</style>"
+                  "desc": "<style=\"highlight\">- หาก there are 6+ Kurokumo Clan units, รวมยูนิทนี้ด้วย, มอบ 2 [Vulnerable] instead</style>"
                 }
               ]
             },
@@ -1239,7 +1239,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Scattering Slash\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 1 [Protection] (once ต่อทุกๆ turn)\n<style=\"highlight\">[StartBattle]บน(2 + highest Reson.) allied Kurokumo Clan Identities, including ยูนิทนี้, with the fastest Speed: มอบ 2 [Endurance] (once ต่อทุกๆ turn)</style>",
+          "desc": "[StartBattle] ได้รับ 1 [Protection] (once ต่อทุกๆ turn)\n<style=\"highlight\">[StartBattle]บน(2 + highest Reson.) allied Kurokumo Clan Identities, รวมยูนิทนี้ด้วย, with the fastest Speed: มอบ 2 [Endurance] (once ต่อทุกๆ turn)</style>",
           "coinlist": [
             {
               "coindescs": [

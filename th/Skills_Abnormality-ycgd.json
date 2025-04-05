@@ -24,7 +24,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Tail Whisk\u200B</line-height>",
+          "name": "<line-height=120%>กวนหาง\u200B</line-height>",
           "desc": "[WinDuel] หากเป้าหมายมี [Combustion], แต้มตั้งต้น +2",
           "coinlist": [
             {
@@ -43,7 +43,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Blow in Breath\u200B</line-height>",
+          "name": "<line-height=120%>ลมหายใจเพลิง\u200B</line-height>",
           "desc": "[WhenUse] หากเป้าหมายมี 5+ [Combustion], แต้มเหรียญ +1",
           "coinlist": [
             {
@@ -94,7 +94,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Leap In\u200B</line-height>",
+          "name": "<line-height=120%>กระโจนใส่\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -120,7 +120,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Snap At\u200B</line-height>",
+          "name": "<line-height=120%>โกรธใส่\u200B</line-height>",
           "desc": "[WinDuel] หากเป้าหมายมี [Sinking], แต้มตั้งต้น +2",
           "coinlist": [
             {
@@ -139,7 +139,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Water Bomb\u200B</line-height>",
+          "name": "<line-height=120%>ระเบิดน้ำ\u200B</line-height>",
           "desc": "[WhenUse] หากเป้าหมายมี 5+ [Sinking], แต้มเหรียญ +1",
           "coinlist": [
             {
@@ -180,7 +180,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Draw of the Sword\u200B</line-height>",
+          "name": "<line-height=120%>ชักดาบออกจากฝัก\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ 2 [Breath]",
           "coinlist": [
             {
@@ -206,7 +206,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Paralyzer\u200B</line-height>",
+          "name": "<line-height=120%>สะบั้นเส้นตาย\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ 2 [Breath]",
           "coinlist": [
             {
@@ -248,7 +248,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Slay\u200B</line-height>",
+          "name": "<line-height=120%>สังหาร\u200B</line-height>",
           "desc": "[WinDuel] ได้รับ [Breath] +1 ขั้น",
           "coinlist": [
             {
@@ -280,7 +280,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Overthrow\u200B</line-height>",
+          "name": "<line-height=120%>โค่นล้มล้าง\u200B</line-height>",
           "desc": "[WinDuel] ได้รับ [Breath] +3 ขั้น",
           "coinlist": [
             {
@@ -325,8 +325,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 50 โล่\n[WhenUse] หาก the โล่ isn't fully depleted, แต้มปะทะ +5",
+          "name": "<line-height=120%>เพื่อลากกระดูกออกมังสา\u200B</line-height>",
+          "desc": "[StartBattle] ได้รับ 50 โล่\n[WhenUse] หากโล่ยังคงเหลืออยู่, แต้มปะทะ +5",
           "coinlist": [
             {
               "coindescs": [
@@ -341,14 +341,14 @@
                   "desc": "+100% ความเสียหายเมื่อติดคริ"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 10 [Laceration]and [Laceration] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] มอบ 10 [Laceration] และ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก the โล่ isn't fully depleted, divide [Grudge] value ไป Atk Weight และ มอบ itเป็น ความเสียหายตรง."
+                  "desc": "[OnSucceedAttack] หากโล่ยังคงเหลืออยู่, หารค่า [Grudge] ด้วย Atk Weight และทำความเสียหายตรง เท่ากับค่าที่หารได้ "
                 }
               ]
             }
@@ -380,8 +380,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Yield My Flesh\u200B</line-height>",
-          "desc": "ได้รับ X [Grudge] ในเทิร์นหน้า (X = ความเสียหาย ทำ t ไป the Skill that activated the Counter Skill)",
+          "name": "<line-height=120%>สละเลือดเนื้อ\u200B</line-height>",
+          "desc": "ได้รับ X [Grudge] ในเทิร์นหน้า (X = ความเสียหายที่เกิดจากสกิล ที่ทำให้สกิลสวนกลับนี้ทำงาน)",
           "coinlist": [
             {
               "coindescs": [
@@ -399,8 +399,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 200 โล่\n[WhenUse] ได้รับ [Breath] +3 ขั้น\n[WhenUse] หาก the โล่ isn't fully depleted, แต้มปะทะ +10",
+          "name": "<line-height=120%>เพื่อลากกระดูกออกมังสา\u200B</line-height>",
+          "desc": "[StartBattle] ได้รับ 200 โล่\n[WhenUse] ได้รับ [Breath] +3 ขั้น\n[WhenUse] หากโล่ยังคงเหลืออยู่, แต้มปะทะ +10",
           "coinlist": [
             {
               "coindescs": [
@@ -418,14 +418,14 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Paralysis] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 10 [Laceration]and [Laceration] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] มอบ 10 [Laceration] และ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก the โล่ isn't fully depleted, divide [Grudge] value ไป Atk Weight และ มอบ itเป็น ความเสียหายตรง."
+                  "desc": "[OnSucceedAttack] หากโล่ยังคงเหลืออยู่, หารค่า [Grudge] ด้วย Atk Weight และทำความเสียหายตรง เท่ากับค่าที่หารได้ "
                 }
               ]
             }
@@ -438,7 +438,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Blade Dance\u200B</line-height>",
+          "name": "<line-height=120%>รำเพลงดาบ\u200B</line-height>",
           "desc": "[EnemyKill] ได้รับ 3 [AttackUp] และ 3 [DefenseUp] ในเทิร์นหน้า",
           "coinlist": [
             {
@@ -457,15 +457,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>To Claim Their Bones\u200B</line-height>",
-          "desc": "[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] ฟื้นฟู HP เท่ากับ [Grudge] value",
+          "name": "<line-height=120%>เพื่อลากกระดูกออกมังสา\u200B</line-height>",
+          "desc": "[CantChangeTarget]\nให้ความสำคัญแก่ยูนิทที่ HP น้อยที่สุดเป็นหลัก\n[EnemyKill] เพิ่มค่า [Grudge] ไป 2 เท่า\n[EnemyKill] ฟื้นฟู HP เท่ากับ ค่า [Grudge]",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  ความเสียหายตรง เท่ากับ [Grudge] value."
+                  "desc": "[OnSucceedAttack] ทำ ความเสียหายตรง เท่ากับ ค่า [Grudge]."
                 }
               ]
             }

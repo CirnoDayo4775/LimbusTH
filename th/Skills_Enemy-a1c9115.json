@@ -5,8 +5,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Sky-clearing Cut\u200B</line-height>",
-          "desc": "[StartBattle] หากเป้าหมายหลักมี5+ [Laceration], Atk Weight +1\n[StartBattle] หาก ยูนิทนี้ will use 4+ Attack Skills ในเทิร์นนี้, แต้มรวม +5\n[WinDuel] All allies ฟื้นฟู 15 SP\nหากเป้าหมายมี 7+ [Laceration], ทำ  +30% ความเสียหายเพิ่มเติ่ม",
+          "name": "<line-height=120%>ดาบแหวกนภา\u200B</line-height>",
+          "desc": "[StartBattle] หากเป้าหมายหลักมี5+ [Laceration], Atk Weight +1\n[StartBattle] หาก ยูนิทนี้ will use 4+ Attack Skills ในเทิร์นนี้, แต้มรวม +5\n[WinDuel] พันธมิตรทุกคน ฟื้นฟู 15 SP\nหากเป้าหมายมี 7+ [Laceration], ทำ +30% ความเสียหายเพิ่มเติ่ม",
           "coinlist": [
             {
               "coindescs": [
@@ -25,7 +25,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "หากเป้าหมายมี 7+ [Laceration], ทำ  +50% ความเสียหาย"
+                  "desc": "หากเป้าหมายมี 7+ [Laceration], ทำ +50% ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +10 ขั้น"
@@ -41,16 +41,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Rules of the Backstreets\u200B</line-height>",
-          "desc": "[WhenUse] Add 1 more เหรียญ per every surviving other ally (max 3)",
+          "name": "<line-height=120%>กฎเกณฑ์ของแบ็คสทรีท\u200B</line-height>",
+          "desc": "[WhenUse] เพิ่ม 1 เหรียญ ต่อพันธมิตรทุกๆ คน ที่ยังอยู่ในสนาม (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and [Laceration] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration] และ [Laceration] +2 ขั้น"
                 },
                 {
-                  "desc": "[EnemyKill] All allies ฟื้นฟู 20 ค่าสติ"
+                  "desc": "[EnemyKill] พันธมิตรทุกคน ฟื้นฟู 20 ค่าสติ"
                 }
               ]
             }

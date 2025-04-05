@@ -5,7 +5,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Be The Joy\u200B</line-height>",
+                    "name": "<line-height=120%>จงมอบความสุข\u200B</line-height>",
                     "desc": "[WhenUse] ได้รับ [Charge] +2 ขั้น",
                     "coinlist": [
                         {
@@ -27,7 +27,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Be The Comfort\u200B</line-height>",
+                    "name": "<line-height=120%>จงมอบความสบาย\u200B</line-height>",
                     "desc": "[WhenUse] ได้รับ [Charge] +2 ขั้น",
                     "coinlist": [
                         {
@@ -43,7 +43,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] ได้รับ [Breath] เท่ากับ [Breath]บนself"
+                                    "desc": "[CriticalOnSucceedAttack] ได้รับ [Breath] เท่ากับ [Breath] ที่ตัวเองมี"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] ได้รับ [Breath] +3 ขั้น"
@@ -59,8 +59,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Here's a Gift\u200B</line-height>",
-                    "desc": "หากเป้าหมายมี [Binding], และ หาก ยูนิทนี้ has a faster Speed, ได้รับ แต้มปะทะ เท่ากับ the Speed difference",
+                    "name": "<line-height=120%>รับของขวัญน้า\u200B</line-height>",
+                    "desc": "หากเป้าหมายมี [Binding], และ หากยูนิทนี้ความเร็วสูงกว่า, ได้รับ แต้มปะทะ เท่ากับ ผลต่างของความเร็ว",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -84,8 +84,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Let's Get Packing\u200B</line-height>",
-                    "desc": "If ยูนิทนี้ has [AaCeSeBa], add 'มอบ 1 [Paralysis] ในเทิร์นหน้า' to เหรียญ effects\nTargets the unit with the lowest Speed\n[EndBattle]จ่าย all [Charge] Count",
+                    "name": "<line-height=120%>ได้เวลาเตรียมของแล้ว\u200B</line-height>",
+                    "desc": "ถ้ายูนิทนี้มี [AaCeSeBa], เพิ่ม 'มอบ 1 [Paralysis] ในเทิร์นหน้า' ให้กับความสามารถของเหรียญในสกิลนี้\nเล็งศัตรูที่มีความเร็วน้อยที่สุด\n[EndBattle]จ่าย ขั้น [Charge] ทั้งหมด",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -97,7 +97,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ทำความเสียหายเพิ่มเติ่มเท่ากับ [Breath]บนself"
+                                    "desc": "[OnSucceedAttack] ทำความเสียหายเพิ่มเติ่มเท่ากับ [Breath] ที่ตัวเองมี"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] ได้รับ 1 [Breath] และ [Breath] +3 ขั้น"
@@ -107,13 +107,13 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Randomly select 1 of 4 effects ([Protection], [Enhancement], [Vulnerable], [Paralysis]). มอบ or มอบ 3 of the selected effect."
+                                    "desc": "[OnSucceedAttack] เลือกบัฟ 1 ใน 4 อันนี้แบบสุ่ม ([Protection], [Enhancement], [Vulnerable], [Paralysis]). มอบบัฟที่เลือก 3 รอบแก่เป้าหมาย"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] เป้าหมายเสีย ค่าสติ เท่ากับ [Charge] Countบนยูนิทนี้"
+                                    "desc": "[OnSucceedAttack] เป้าหมายเสีย ค่าสติ เท่ากับ ขั้น [Charge] บนยูนิทนี้"
                                 },
                                 {
-                                    "desc": "[EnemyKill] ศัตรูทุกตัว เสีย 10 Sp."
+                                    "desc": "[EnemyKill] ศัตรูทุกตัว เสีย 10 ค่าสติ"
                                 },
                                 {
                                     "desc": "[EnemyKillFail] ได้รับ 2 [Paralysis] ในเทิร์นหน้า."
@@ -129,8 +129,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Time to Get Boxed\u200B</line-height>",
-                    "desc": "If โล่ HP is completely depleted, จะ Stagger ในเทิร์นหน้า.\nIf there is remaining โล่ HP, ได้รับ 2 [Enhancement] ในเทิร์นหน้า",
+                    "name": "<line-height=120%>ได้เวลายัดกล่อง\u200B</line-height>",
+                    "desc": "หาก HP โล่ ถูกทำลายจนหมด, จะ Stagger ในเทิร์นหน้า.\nหาก HP โล่ ยังเหลืออยู่, ได้รับ 2 [Enhancement] ในเทิร์นหน้า",
                     "coinlist": [
                         {}
                     ]

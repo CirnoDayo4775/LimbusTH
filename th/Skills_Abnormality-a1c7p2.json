@@ -44,7 +44,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Beckon the Audience Hither...\u200B</line-height>",
-          "desc": "[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (สูงสุด 4)\n[WhenUse] เมื่อมี less than 15 [BloodDinner], ได้รับ 15 [Laceration]and immediately trigger it อีกครั้ง, then reduce [Laceration]Count ไป 1 (at less than 10% HP, เปิดใช้งาน only the part of this effect where ยูนิทนี้ ได้รับs [Laceration]Potency และ Count)\n[EndSkill] Consume 15 [BloodDinner]",
+          "desc": "[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (สูงสุด 4)\n[WhenUse] เมื่อมี less than 15 [BloodDinner], ได้รับ 15 [Laceration] และ immediately trigger it อีกครั้ง, then reduce [Laceration]Count ไป 1 (at less than 10% HP, เปิดใช้งาน only the part of this effect where ยูนิทนี้ ได้รับs [Laceration]Potency และ Count)\n[EndSkill] Consume 15 [BloodDinner]",
           "coinlist": [
             {
               "coindescs": [
@@ -130,7 +130,7 @@
                   "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ50% ของความเสียหายที่ทำไป"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and 5 [Burst]"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration] และ 5 [Burst]"
                 },
                 {
                   "desc": "[EndCoin] ได้รับ 1 [BloomingThorns] ต่อทุกๆ 10 [BloodDinner] consumed ไป this Skill (สูงสุด 10)"

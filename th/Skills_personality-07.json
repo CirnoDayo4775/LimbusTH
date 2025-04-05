@@ -190,7 +190,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ล้างแค้น\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 Aggro to this Skill Slot ในเทิร์นหน้า\n[StartBattle] ได้รับ [DefenseUp] ต่อทุกๆ [Breath]บนself (สูงสุด 10)",
+          "desc": "[WhenUse] ได้รับ +2 Aggro to this Skill Slot ในเทิร์นหน้า\n[StartBattle] ได้รับ [DefenseUp] ต่อทุกๆ [Breath] ที่ตัวเองมี (สูงสุด 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -204,7 +204,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ล้างแค้น\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +5 Aggro to this Skill Slot ในเทิร์นหน้า\n[StartBattle] ได้รับ [DefenseUp] ต่อทุกๆ [Breath]บนself (สูงสุด 10)",
+          "desc": "[WhenUse] ได้รับ +5 Aggro to this Skill Slot ในเทิร์นหน้า\n[StartBattle] ได้รับ [DefenseUp] ต่อทุกๆ [Breath] ที่ตัวเองมี (สูงสุด 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -435,7 +435,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>40S-2 Activation\u200B</line-height>",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to ได้รับ แต้มเหรียญ +1",
+          "desc": "[WhenUse] Consume 5 ขั้น [Charge]  to ได้รับ แต้มเหรียญ +1",
           "coinlist": [
             {},
             {
@@ -450,7 +450,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>40S-2 Activation\u200B</line-height>",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to ได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Consume 5 ขั้น [Charge]  to ได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -471,7 +471,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>40S-2 Activation\u200B</line-height>",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to ได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Consume 5 ขั้น [Charge]  to ได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -497,7 +497,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Photoelectric Mark\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to ได้รับ แต้มเหรียญ +1",
+          "desc": "[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , consume 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] Consume 10 ขั้น [Charge]  to ได้รับ แต้มเหรียญ +1",
           "coinlist": [
             {},
             {},
@@ -513,13 +513,13 @@
         {
           "level": 2,
           "name": "<line-height=120%>Photoelectric Mark\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to ได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , consume 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] Consume 10 ขั้น [Charge]  to ได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก ยูนิทนี้ consumed [Charge] Count, มอบ 2 [DefenseDown]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก ยูนิทนี้ consumed ขั้น [Charge] , มอบ 2 [DefenseDown]</style>"
                 }
               ]
             },
@@ -538,19 +538,19 @@
         {
           "level": 4,
           "name": "<line-height=120%>Photoelectric Mark\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to ได้รับ แต้มเหรียญ <style=\"highlight\">+2</style>",
+          "desc": "[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , consume 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] Consume 10 ขั้น [Charge]  to ได้รับ แต้มเหรียญ <style=\"highlight\">+2</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก ยูนิทนี้ consumed [Charge] Count, มอบ 2 [DefenseDown]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก ยูนิทนี้ consumed ขั้น [Charge] , มอบ 2 [DefenseDown]</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้ consumed [Charge] Count, มอบ 2 [DefenseDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้ consumed ขั้น [Charge] , มอบ 2 [DefenseDown]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -587,7 +587,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +([Charge] x 3) [Charge] Count (สูงสุด 9)"
+                  "desc": "[OnSucceedAttack] ได้รับ +([Charge] x 3) ขั้น [Charge]  (สูงสุด 9)"
                 }
               ]
             },
@@ -609,14 +609,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +<style=\"highlight\">7</style> [Charge] Count"
+                  "desc": "[OnSucceedAttack] ได้รับ +<style=\"highlight\">7</style> ขั้น [Charge] "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ +([Charge] x 3) [Charge] Count (สูงสุด 9)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] ได้รับ +([Charge] x 3) ขั้น [Charge]  (สูงสุด 9)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -900,7 +900,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>โศกา อาวรณ์ สิ้นหวัง\u200B</line-height>",
-          "desc": "[WhenUse] เสีย 15 SP\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ value is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing SP, max 21%)\n[WhenUse] ทำ +7% ความเสียหายเพิ่มเติม ต่อทุกๆ Coffinบนself (สูงสุด 70%)\n[WhenUse] ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [NightPathfinding]บนself (สูงสุด 30%)\n[WhenUse] ได้รับ 1 [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ 2 [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 SP. When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ value is from 0 (healเพิ่มเติมอีก 1 ค่าสติ ต่อทุกๆ missing SP; max 25)\n[EndBattle] เสีย [NightPathfinding]",
+          "desc": "[WhenUse] เสีย 15 SP\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ value is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing SP, max 21%)\n[WhenUse] ทำ +7% ความเสียหายเพิ่มเติม ต่อทุกๆ Coffinบนself (สูงสุด 70%)\n[WhenUse] ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [NightPathfinding]บนself (สูงสุด 30%)\n[WhenUse] ได้รับ 1 [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ 2 [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 ค่าสติ When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ value is from 0 (healเพิ่มเติมอีก 1 ค่าสติ ต่อทุกๆ missing SP; max 25)\n[EndBattle] เสีย [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -930,7 +930,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>โศกา อาวรณ์ สิ้นหวัง\u200B</line-height>",
-          "desc": "[WhenUse] เสีย 15 SP\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking]บนเป้าหมาย (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ value is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing SP, max 21%)\n[WhenUse] ทำ +<style=\"highlight\">10</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ Coffinบนself (สูงสุด <style=\"highlight\">100</style>%)\n[WhenUse] ทำ +<style=\"highlight\">20</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [NightPathfinding]บนself (สูงสุด <style=\"highlight\">60</style>%)\n[WhenUse] ได้รับ <style=\"highlight\">2</style> [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ <style=\"highlight\">3</style> [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 SP. When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ value is from 0 (heal <style=\"highlight\">2</style> additional ค่าสติ ต่อทุกๆ missing SP; max <style=\"highlight\">50</style>)\n[EndBattle] เสีย [NightPathfinding]",
+          "desc": "[WhenUse] เสีย 15 SP\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking]บนเป้าหมาย (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ value is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing SP, max 21%)\n[WhenUse] ทำ +<style=\"highlight\">10</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ Coffinบนself (สูงสุด <style=\"highlight\">100</style>%)\n[WhenUse] ทำ +<style=\"highlight\">20</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [NightPathfinding]บนself (สูงสุด <style=\"highlight\">60</style>%)\n[WhenUse] ได้รับ <style=\"highlight\">2</style> [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ <style=\"highlight\">3</style> [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 ค่าสติ When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ value is from 0 (heal <style=\"highlight\">2</style> additional ค่าสติ ต่อทุกๆ missing SP; max <style=\"highlight\">50</style>)\n[EndBattle] เสีย [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -965,7 +965,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>โศกา อาวรณ์ สิ้นหวัง\u200B</line-height>",
-          "desc": "[WhenUse] เสีย 15 SP\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ value is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing SP, max 21%)\n[WhenUse] ทำ +7% ความเสียหายเพิ่มเติม ต่อทุกๆ Coffinบนself (สูงสุด 70%)\n[WhenUse] ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [NightPathfinding]บนself (สูงสุด 30%)\n[WhenUse] ได้รับ 1 [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ 2 [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 SP. When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ value is from 0 (healเพิ่มเติมอีก 1 ค่าสติ ต่อทุกๆ missing SP; max 25)\n[EndBattle] เสีย [NightPathfinding]",
+          "desc": "[WhenUse] เสีย 15 SP\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ value is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing SP, max 21%)\n[WhenUse] ทำ +7% ความเสียหายเพิ่มเติม ต่อทุกๆ Coffinบนself (สูงสุด 70%)\n[WhenUse] ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [NightPathfinding]บนself (สูงสุด 30%)\n[WhenUse] ได้รับ 1 [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ 2 [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 ค่าสติ When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ value is from 0 (healเพิ่มเติมอีก 1 ค่าสติ ต่อทุกๆ missing SP; max 25)\n[EndBattle] เสีย [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -995,7 +995,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>โศกา อาวรณ์ สิ้นหวัง\u200B</line-height>",
-          "desc": "[WhenUse] เสีย 15 SP\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking]บนเป้าหมาย (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ value is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing SP, max 21%)\n[WhenUse] ทำ +<style=\"highlight\">10</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ Coffinบนself (สูงสุด <style=\"highlight\">100</style>%)\n[WhenUse] ทำ +<style=\"highlight\">20</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [NightPathfinding]บนself (สูงสุด <style=\"highlight\">60</style>%)\n[WhenUse] ได้รับ <style=\"highlight\">2</style> [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ <style=\"highlight\">3</style> [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 SP. When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ value is from 0 (heal <style=\"highlight\">2</style> additional ค่าสติ ต่อทุกๆ missing SP; max <style=\"highlight\">50</style>)\n[EndBattle] เสีย [NightPathfinding]",
+          "desc": "[WhenUse] เสีย 15 SP\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking]บนเป้าหมาย (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ value is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing SP, max 21%)\n[WhenUse] ทำ +<style=\"highlight\">10</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ Coffinบนself (สูงสุด <style=\"highlight\">100</style>%)\n[WhenUse] ทำ +<style=\"highlight\">20</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [NightPathfinding]บนself (สูงสุด <style=\"highlight\">60</style>%)\n[WhenUse] ได้รับ <style=\"highlight\">2</style> [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ <style=\"highlight\">3</style> [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 ค่าสติ When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ value is from 0 (heal <style=\"highlight\">2</style> additional ค่าสติ ต่อทุกๆ missing SP; max <style=\"highlight\">50</style>)\n[EndBattle] เสีย [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -1585,7 +1585,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Rules of the Backstreets\u200B</line-height>",
+          "name": "<line-height=120%>กฎเกณฑ์ของแบ็คสทรีท\u200B</line-height>",
           "desc": "[DuelCounter]\nIf Kurokumo Clan Captain Ishmael isบนthe field, เปิดใช้งาน the following:\n- Convert all Coins in this Skill into [SuperCoin]s\n- แต้มรวม +3 to this Skill เมื่อ Clash เสีย\n[WhenUse] หาก ยูนิทนี้ has [CloudWall], unconditionally เปิดใช้งาน all Reuse effectsบนthis Skill's Coins",
           "coinlist": [
             {
@@ -1605,7 +1605,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Rules of the Backstreets\u200B</line-height>",
+          "name": "<line-height=120%>กฎเกณฑ์ของแบ็คสทรีท\u200B</line-height>",
           "desc": "[DuelCounter]\nIf Kurokumo Clan Captain Ishmael isบนthe field, เปิดใช้งาน the following:\n- Convert all Coins in this Skill into [SuperCoin]s\n- แต้มรวม +4 to this Skill เมื่อ Clash เสีย\n<style=\"highlight\">ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 100%)</style>\n[WhenUse] หาก ยูนิทนี้ has [CloudWall], unconditionally เปิดใช้งาน all Reuse effectsบนthis Skill's Coins",
           "coinlist": [
             {
@@ -1630,7 +1630,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Rules of the Backstreets\u200B</line-height>",
+          "name": "<line-height=120%>กฎเกณฑ์ของแบ็คสทรีท\u200B</line-height>",
           "desc": "[WhenUse] หาก ยูนิทนี้ has [CloudWall], unconditionally เปิดใช้งาน all Reuse effectsบนthis Skill's Coins",
           "coinlist": [
             {
@@ -1650,7 +1650,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Rules of the Backstreets\u200B</line-height>",
+          "name": "<line-height=120%>กฎเกณฑ์ของแบ็คสทรีท\u200B</line-height>",
           "desc": "หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 100%)\n[WhenUse] หาก ยูนิทนี้ has [CloudWall], unconditionally เปิดใช้งาน all Reuse effectsบนthis Skill's Coins",
           "coinlist": [
             {

@@ -315,10 +315,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] ฟื้นฟู 10 ค่าสติ for all allies"
+                  "desc": "[EndSkill] ฟื้นฟู 10 ค่าสติ for พันธมิตรทุกคน"
                 },
                 {
-                  "desc": "[EndSkill] ฟื้นฟู all allies for 10% ของ HPสูงสุด"
+                  "desc": "[EndSkill] ฟื้นฟู พันธมิตรทุกคน for 10% ของ HPสูงสุด"
                 }
               ]
             }
@@ -333,10 +333,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] ฟื้นฟู 15 ค่าสติ for all allies"
+                  "desc": "[EndSkill] ฟื้นฟู 15 ค่าสติ for พันธมิตรทุกคน"
                 },
                 {
-                  "desc": "[EndSkill] ฟื้นฟู all allies for 15% ของ HPสูงสุด"
+                  "desc": "[EndSkill] ฟื้นฟู พันธมิตรทุกคน for 15% ของ HPสูงสุด"
                 }
               ]
             }
@@ -351,13 +351,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] ฟื้นฟู 15 ค่าสติ for all allies"
+                  "desc": "[EndSkill] ฟื้นฟู 15 ค่าสติ for พันธมิตรทุกคน"
                 },
                 {
-                  "desc": "[EndSkill] ฟื้นฟู all allies for 15% ของ HPสูงสุด"
+                  "desc": "[EndSkill] ฟื้นฟู พันธมิตรทุกคน for 15% ของ HPสูงสุด"
                 },
                 {
-                  "desc": "[EndSkillHead] ฟื้นฟู 10 ค่าสติ for all allies"
+                  "desc": "[EndSkillHead] ฟื้นฟู 10 ค่าสติ for พันธมิตรทุกคน"
                 }
               ]
             }
@@ -1407,7 +1407,7 @@
           "level": 3,
           "name": "<line-height=120%>Telepole\u200B</line-height>",
           "abName": "Alleyway Watchdog",
-          "desc": "[WhenUse] ได้รับ[Charge] Count ไป Envy Reson.\nSpend [Charge] 5 ขั้น to ได้รับ +3 แต้มสกิล",
+          "desc": "[WhenUse] ได้รับขั้น [Charge]  ไป Envy Reson.\nSpend [Charge] 5 ขั้น to ได้รับ +3 แต้มสกิล",
           "coinlist": [
             {
               "coindescs": [
@@ -1422,7 +1422,7 @@
           "level": 4,
           "name": "<line-height=120%>Telepole\u200B</line-height>",
           "abName": "Alleyway Watchdog",
-          "desc": "[WhenUse] ได้รับ[Charge] Count ไป Envy Reson.\nSpend [Charge] 5 ขั้น to ได้รับ +3 แต้มสกิล (สูงสุด 12)",
+          "desc": "[WhenUse] ได้รับขั้น [Charge]  ไป Envy Reson.\nSpend [Charge] 5 ขั้น to ได้รับ +3 แต้มสกิล (สูงสุด 12)",
           "coinlist": [
             {
               "coindescs": [
@@ -1457,7 +1457,7 @@
           "level": 3,
           "name": "<line-height=120%>Telepole\u200B</line-height>",
           "abName": "Alleyway Watchdog",
-          "desc": "[CantIdentify] Targets randomly\n[WhenUse] ได้รับ[Charge] Count ไป Envy Reson.\nSpendขั้น [Charge] ทั้งหมดto ได้รับ +10 แต้มสกิล",
+          "desc": "[CantIdentify] Targets randomly\n[WhenUse] ได้รับขั้น [Charge]  ไป Envy Reson.\nSpendขั้น [Charge] ทั้งหมดto ได้รับ +10 แต้มสกิล",
           "coinlist": [
             {
               "coindescs": [
@@ -1472,7 +1472,7 @@
           "level": 4,
           "name": "<line-height=120%>Telepole\u200B</line-height>",
           "abName": "Alleyway Watchdog",
-          "desc": "[CantIdentify] Targets randomly\n[WhenUse] ได้รับ[Charge] Count ไป Envy Reson.\nSpendขั้น [Charge] ทั้งหมดto ได้รับ +15 แต้มสกิล",
+          "desc": "[CantIdentify] Targets randomly\n[WhenUse] ได้รับขั้น [Charge]  ไป Envy Reson.\nSpendขั้น [Charge] ทั้งหมดto ได้รับ +15 แต้มสกิล",
           "coinlist": [
             {
               "coindescs": [
@@ -2102,11 +2102,11 @@
                   "desc": "[OnSucceedAttackHead] มอบ 12 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] เสีย 10 SP. <style=\"highlight\">ได้รับ 1 [Enhancement] ในเทิร์นหน้า</style>"
+                  "desc": "[OnSucceedAttackHead] เสีย 10 ค่าสติ <style=\"highlight\">ได้รับ 1 [Enhancement] ในเทิร์นหน้า</style>"
                 },
                 {},
                 {
-                  "desc": "[OnSucceedAttackTail] ได้รับ 10 SP. <style=\"highlight\">ได้รับ 1 [Protection] ในเทิร์นหน้า</style>"
+                  "desc": "[OnSucceedAttackTail] ได้รับ 10 ค่าสติ <style=\"highlight\">ได้รับ 1 [Protection] ในเทิร์นหน้า</style>"
                 },
                 {}
               ]
@@ -2127,7 +2127,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] ฟื้นฟู all allies for 10% of their Max HP"
+                  "desc": "[EnemyKill] ฟื้นฟู พันธมิตรทุกคน for 10% of their Max HP"
                 }
               ]
             }
@@ -2145,7 +2145,7 @@
                   "desc": "[EnemyKill] ได้รับ 1 [Enhancement] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[EnemyKill] ฟื้นฟู all allies for 15% of their Max HP"
+                  "desc": "[EnemyKill] ฟื้นฟู พันธมิตรทุกคน for 15% of their Max HP"
                 }
               ]
             }
@@ -2163,7 +2163,7 @@
                   "desc": "[EnemyKill] ได้รับ 1 [Enhancement] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[EnemyKill] ฟื้นฟู all allies for 15% of their Max HP"
+                  "desc": "[EnemyKill] ฟื้นฟู พันธมิตรทุกคน for 15% of their Max HP"
                 }
               ]
             }
@@ -2736,7 +2736,7 @@
                   "desc": "[OnSucceedAttack] ได้รับ [Charge] +0 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Give[Charge] Count แก่พันธมิตรทุกคน ไป Envy Reson."
+                  "desc": "[OnSucceedAttackHead] Giveขั้น [Charge]  แก่พันธมิตรทุกคน ไป Envy Reson."
                 }
               ]
             }
@@ -2754,7 +2754,7 @@
                   "desc": "[OnSucceedAttack] ได้รับ [Charge] +0 ขั้น"
                 },
                 {
-                  "desc": "[EndSkill] Give[Charge] Count แก่พันธมิตรทุกคน ไป Envy Reson."
+                  "desc": "[EndSkill] Giveขั้น [Charge]  แก่พันธมิตรทุกคน ไป Envy Reson."
                 }
               ]
             }
@@ -3116,7 +3116,7 @@
           "level": 1,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)",
+          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่ายขั้น [Charge]  to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3131,12 +3131,12 @@
           "level": 3,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">75</style>%)",
+          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่ายขั้น [Charge]  to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">75</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">If[Charge] Count was spent, มอบ 3 [DimensionRift]</style>"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">Ifขั้น [Charge]  was spent, มอบ 3 [DimensionRift]</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x <style=\"highlight\">10</style>)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (สูงสุด <style=\"highlight\">100</style>%)"
@@ -3149,12 +3149,12 @@
           "level": 4,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด 75%)<style=\"highlight\"></style>",
+          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่ายขั้น [Charge]  to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด 75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If[Charge] Count was spent, มอบ <style=\"highlight\">5</style> [DimensionRift]"
+                  "desc": "[OnSucceedAttack] Ifขั้น [Charge]  was spent, มอบ <style=\"highlight\">5</style> [DimensionRift]"
                 },
                 {
                   "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x 10)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (สูงสุด 100)<style=\"highlight\"></style>"
@@ -3172,7 +3172,7 @@
           "level": 1,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่ายขั้น [Charge]  to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3190,12 +3190,12 @@
           "level": 3,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">75</style>%)",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่ายขั้น [Charge]  to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">75</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If[Charge] Count was spent, มอบ 3 [DimensionRift]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Ifขั้น [Charge]  was spent, มอบ 3 [DimensionRift]</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">6</style> [Burst]"
@@ -3211,12 +3211,12 @@
           "level": 4,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด 75%)<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่ายขั้น [Charge]  to ทำ ความเสียหายเพิ่มเติ่ม (สูงสุด 75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If[Charge] Count was spent, มอบ <style=\"highlight\">5</style> [DimensionRift]"
+                  "desc": "[OnSucceedAttack] Ifขั้น [Charge]  was spent, มอบ <style=\"highlight\">5</style> [DimensionRift]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 6 [Burst]<style=\"highlight\"></style>"
@@ -3858,7 +3858,7 @@
                   "desc": "[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (Charge Count * 2.5)% ของความเสียหายที่ทำไป (สูงสุด 50%)"
                 },
                 {
-                  "desc": "[EndSkill]จ่าย all[Charge] Count"
+                  "desc": "[EndSkill]จ่าย allขั้น [Charge] "
                 },
                 {
                   "desc": "[EndSkillTail] เสีย HP ไป 10% ของ HPสูงสุด to ได้รับ [Charge] +0 ขั้น"

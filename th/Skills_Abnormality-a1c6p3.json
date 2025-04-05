@@ -891,7 +891,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ศพแกก็ต้องอยู่ในโลงนี่เหมือนกัน\u200B</line-height>",
-          "desc": "[CantDuel]\n[StartBattle] +100% toจำนวนof Stagger Threshold raised from [VibrationExplosion] และ any other Stagger Threshold raising effects\n[WhenUse] มอบ 3 [Enhancement] และ 3 [AttackDmgUp] แก่พันธมิตรทุกคน, including ยูนิทนี้ ในเทิร์นหน้า",
+          "desc": "[CantDuel]\n[StartBattle] +100% toจำนวนof Stagger Threshold raised from [VibrationExplosion] และ any other Stagger Threshold raising effects\n[WhenUse] มอบ 3 [Enhancement] และ 3 [AttackDmgUp] แก่พันธมิตรทุกคน, รวมยูนิทนี้ด้วย ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -1291,14 +1291,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and [Laceration] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration] และ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and [Laceration] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration] และ [Laceration] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] หาก ยูนิทนี้'s Speed is faster than the target's ไป 3 or more, reuse this เหรียญ (once)"
@@ -1330,14 +1330,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration] และ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +2 ขั้น"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration] และ [Laceration] +2 ขั้น"
                 }
               ]
             },
@@ -1456,7 +1456,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้อง...\u200B</line-height>",
-          "desc": "If ยูนิทนี้ has remaining โล่ HP at Turn End, ได้รับ 4 [Protection] ในเทิร์นหน้า",
+          "desc": "ถ้ายูนิทนี้มี remaining HP โล่ at Turn End, ได้รับ 4 [Protection] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [

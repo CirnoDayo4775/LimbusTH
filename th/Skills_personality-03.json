@@ -545,7 +545,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Chattering Teeth\u200B</line-height>",
-          "desc": "[EndBattle] ฟื้นฟู HP เท่ากับ remaining โล่ HP (Once ต่อทุกๆ turn. Max ฟื้นฟู amount: 10% ของ HPสูงสุด)",
+          "desc": "[EndBattle] ฟื้นฟู HP เท่ากับ remaining HP โล่ (Once ต่อทุกๆ turn. Max ฟื้นฟู amount: 10% ของ HPสูงสุด)",
           "coinlist": [
             {
               "coindescs": [
@@ -559,7 +559,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Chattering Teeth\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Burst], แต้มรวม +3\n[EndBattle] ฟื้นฟู HP เท่ากับ remaining โล่ HP (Once ต่อทุกๆ turn. Max ฟื้นฟู amount: 10% ของ HPสูงสุด)",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Burst], แต้มรวม +3\n[EndBattle] ฟื้นฟู HP เท่ากับ remaining HP โล่ (Once ต่อทุกๆ turn. Max ฟื้นฟู amount: 10% ของ HPสูงสุด)",
           "coinlist": [
             {
               "coindescs": [
@@ -577,7 +577,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Draw of the Sword\u200B</line-height>",
+          "name": "<line-height=120%>ชักดาบออกจากฝัก\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
@@ -598,7 +598,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Draw of the Sword\u200B</line-height>",
+          "name": "<line-height=120%>ชักดาบออกจากฝัก\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
@@ -619,8 +619,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Draw of the Sword\u200B</line-height>",
-          "desc": "<style=\"highlight\">เมื่อมี 5+ [Breath]บนself, แต้มเหรียญ +1\n</style>[WhenUse] ได้รับ [Breath] +2 ขั้น",
+          "name": "<line-height=120%>ชักดาบออกจากฝัก\u200B</line-height>",
+          "desc": "<style=\"highlight\">เมื่อมี 5+ [Breath] ที่ตัวเองมี, แต้มเหรียญ +1\n</style>[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -688,7 +688,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Blade Arc\u200B</line-height>",
-          "desc": "<style=\"highlight\">เมื่อมี 7+ [Breath]บนself, แต้มเหรียญ +1\n</style>[WhenUse] ได้รับ [Breath] +2 ขั้น",
+          "desc": "<style=\"highlight\">เมื่อมี 7+ [Breath] ที่ตัวเองมี, แต้มเหรียญ +1\n</style>[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -746,7 +746,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Fare Thee Well!\u200B</line-height>",
-          "desc": "<style=\"highlight\">เมื่อมี 10+ [Breath]บนself, แต้มเหรียญ +1\n</style>[WhenUse] ได้รับ 5 [Breath]",
+          "desc": "<style=\"highlight\">เมื่อมี 10+ [Breath] ที่ตัวเองมี, แต้มเหรียญ +1\n</style>[WhenUse] ได้รับ 5 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1483,10 +1483,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and [Laceration] +4 ขั้น"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration] และ [Laceration] +4 ขั้น"
                 },
                 {
-                  "desc": "[EndSkill] หาก target is defeated, มอบ 5 [Laceration]and [Laceration] +1 ขั้น aได้รับst all enemies"
+                  "desc": "[EndSkill] หาก target is defeated, มอบ 5 [Laceration] และ [Laceration] +1 ขั้น aได้รับst all enemies"
                 }
               ]
             }
@@ -1524,10 +1524,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">8</style> [Laceration]and [Laceration] +4 ขั้น"
+                  "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">8</style> [Laceration] และ [Laceration] +4 ขั้น"
                 },
                 {
-                  "desc": "[EndSkill] หาก target is defeated, มอบ 5 [Laceration]and [Laceration] +1 ขั้น aได้รับst all enemies"
+                  "desc": "[EndSkill] หาก target is defeated, มอบ 5 [Laceration] และ [Laceration] +1 ขั้น aได้รับst all enemies"
                 }
               ]
             }
@@ -1777,7 +1777,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "ทำ +([Breath]บนself + [Combustion]บนเป้าหมาย)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด 30%)"
+                  "desc": "ทำ +([Breath] ที่ตัวเองมี + [Combustion]บนเป้าหมาย)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด 30%)"
                 }
               ]
             }
@@ -1812,7 +1812,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "ทำ +([Breath]บนself + [Combustion]บนเป้าหมาย)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด <style=\"highlight\">50%</style>)"
+                  "desc": "ทำ +([Breath] ที่ตัวเองมี + [Combustion]บนเป้าหมาย)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด <style=\"highlight\">50%</style>)"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] หากเป้าหมายมี [DianxueDonQuixote], มอบ 3 [DefenseDown]</style>"
