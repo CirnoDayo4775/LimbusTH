@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนtarget to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนเป้าหมาย to 1 Defense Level Down (สูงสุด 10)"
                 }
               ]
             }
@@ -30,7 +30,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนtarget to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนเป้าหมาย to 1 Defense Level Down (สูงสุด 10)"
                 }
               ]
             }
@@ -48,7 +48,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนtarget to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนเป้าหมาย to 1 Defense Level Down (สูงสุด 10)"
                 }
               ]
             }
@@ -71,7 +71,7 @@
                   "desc": "[OnSucceedAttackTail] มอบ 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนtarget to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนเป้าหมาย to 1 Defense Level Down (สูงสุด 10)"
                 }
               ]
             }
@@ -92,7 +92,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนtarget to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนเป้าหมาย to 1 Defense Level Down (สูงสุด 10)"
                 }
               ]
             }
@@ -113,7 +113,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนtarget to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion]บนเป้าหมาย to 1 Defense Level Down (สูงสุด 10)"
                 }
               ]
             }
@@ -128,7 +128,7 @@
           "level": 1,
           "name": "<line-height=120%>Everlasting\u200B</line-height>",
           "abName": "Time Duck",
-          "desc": "If target's Speed is slower than this unit's, ทำ  +(2.5 x (Speed difference))% more ความเสียหาย (max 25%)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป highest Reson. (max 5)\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
+          "desc": "If target's Speed is slower than this unit's, ทำ +(2.5 x (Speed difference))% more ความเสียหาย (สูงสุด 25%)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป highest Reson. (สูงสุด 5)\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
           "coinlist": [
             {
               "coindescs": [
@@ -170,7 +170,7 @@
           "level": 3,
           "name": "<line-height=120%>Everlasting\u200B</line-height>",
           "abName": "Time Duck",
-          "desc": "If target's Speed is slower than this unit's, ทำ  +(<style=\"highlight\">3.5</style> x (Speed difference))% more ความเสียหาย (max <style=\"highlight\">35%</style>)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป highest Reson. (max 5)\n<style=\"highlight\">- If the highest Reson. was a Sloth A-Reson., มอบ [Vibration] Count ไป [Vibration] Potency inflicted (max 5)</style>\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
+          "desc": "If target's Speed is slower than this unit's, ทำ +(<style=\"highlight\">3.5</style> x (Speed difference))% more ความเสียหาย (สูงสุด <style=\"highlight\">35%</style>)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป highest Reson. (สูงสุด 5)\n<style=\"highlight\">- If the highest Reson. was a Sloth A-Reson., มอบ [Vibration] Count ไป [Vibration] Potency inflicted (สูงสุด 5)</style>\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
           "coinlist": [
             {
               "coindescs": [
@@ -212,7 +212,7 @@
           "level": 4,
           "name": "<line-height=120%>Everlasting\u200B</line-height>",
           "abName": "Time Duck",
-          "desc": "If target's Speed is slower than this unit's, ทำ  +(<style=\"highlight\">5</style> x (Speed difference))% more ความเสียหาย (max <style=\"highlight\">50%</style>)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป (<style=\"highlight\">2</style> x (highest Reson.)) (max <style=\"highlight\">10</style>)\n- If the highest Reson. was a Sloth A-Reson., มอบ [Vibration] Count ไป [Vibration] Potency inflicted (max <style=\"highlight\">10</style>)\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
+          "desc": "If target's Speed is slower than this unit's, ทำ +(<style=\"highlight\">5</style> x (Speed difference))% more ความเสียหาย (สูงสุด <style=\"highlight\">50%</style>)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป (<style=\"highlight\">2</style> x (highest Reson.)) (สูงสุด <style=\"highlight\">10</style>)\n- If the highest Reson. was a Sloth A-Reson., มอบ [Vibration] Count ไป [Vibration] Potency inflicted (สูงสุด <style=\"highlight\">10</style>)\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
           "coinlist": [
             {
               "coindescs": [
@@ -262,7 +262,7 @@
           "level": 1,
           "name": "<line-height=120%>Everlasting\u200B</line-height>",
           "abName": "Time Duck",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, ทำ  +(1.5 x (Speed difference))% more ความเสียหาย (max 12%)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ 3 [Vibration] Potency",
+          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, ทำ +(1.5 x (Speed difference))% more ความเสียหาย (สูงสุด 12%)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ 3 [Vibration] Potency",
           "coinlist": [
             {
               "coindescs": [
@@ -289,7 +289,7 @@
           "level": 3,
           "name": "<line-height=120%>Everlasting\u200B</line-height>",
           "abName": "Time Duck",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, ทำ  +(<style=\"highlight\">2</style> x (Speed difference))% more ความเสียหาย (max <style=\"highlight\">16%</style>)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป highest Reson. (max 4)\n<style=\"highlight\">- [BeforeAttack] If the highest Reson. was a Sloth A-Reson., มอบ [Vibration] +2 ขั้น</style>",
+          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, ทำ +(<style=\"highlight\">2</style> x (Speed difference))% more ความเสียหาย (สูงสุด <style=\"highlight\">16%</style>)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป highest Reson. (สูงสุด 4)\n<style=\"highlight\">- [BeforeAttack] If the highest Reson. was a Sloth A-Reson., มอบ [Vibration] +2 ขั้น</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -316,7 +316,7 @@
           "level": 4,
           "name": "<line-height=120%>Everlasting\u200B</line-height>",
           "abName": "Time Duck",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, ทำ  +(<style=\"highlight\">2.5</style> x (Speed difference))% more ความเสียหาย (max <style=\"highlight\">20%</style>)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป highest Reson. (max <style=\"highlight\">5</style>)\n- [BeforeAttack] If the highest Reson. was a Sloth A-Reson., <style=\"highlight\">inflict [Vibration] Count ไป [Vibration] Potency inflicted (max 5)</style>",
+          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, ทำ +(<style=\"highlight\">2.5</style> x (Speed difference))% more ความเสียหาย (สูงสุด <style=\"highlight\">20%</style>)\n[BeforeAttack] เมื่อมี 3+ highest Reson., มอบ [Vibration] Potency ไป highest Reson. (สูงสุด <style=\"highlight\">5</style>)\n- [BeforeAttack] If the highest Reson. was a Sloth A-Reson., <style=\"highlight\">inflict [Vibration] Count ไป [Vibration] Potency inflicted (สูงสุด 5)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -351,7 +351,7 @@
           "level": 1,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "แต้มเหรียญ +1 for every 7 [Burst]บนtarget (max 2)",
+          "desc": "แต้มเหรียญ +1 for every 7 [Burst]บนเป้าหมาย (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -380,7 +380,7 @@
           "level": 3,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "<style=\"highlight\">If the sum of this unit และ the target's Speed is 6 or greater, แต้มเหรียญ +1</style>\nแต้มเหรียญ +1 for every 7 [Burst]บนtarget (max 2)\n<style=\"highlight\">[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[BeforeAttack] เมื่อมี 4+ ความตะกละ or Lust Reson., ได้รับ +1 Atk Weight</style>",
+          "desc": "<style=\"highlight\">If the sum of this unit และ the target's Speed is 6 or greater, แต้มเหรียญ +1</style>\nแต้มเหรียญ +1 for every 7 [Burst]บนเป้าหมาย (สูงสุด 2)\n<style=\"highlight\">[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[BeforeAttack] เมื่อมี 4+ ความตะกละ or Lust Reson., ได้รับ +1 Atk Weight</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -409,7 +409,7 @@
           "level": 4,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "If the sum of this unit และ the target's Speed is 6 or greater, แต้มเหรียญ +1\nแต้มเหรียญ +1 for every 7 [Burst]บนtarget (max 2)\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[BeforeAttack] เมื่อมี 4+ highest Reson., Atk Weight +1\n<style=\"highlight\">- If the said Reson. was a ความตะกละ Reson., Atk Weight +1</style>",
+          "desc": "If the sum of this unit และ the target's Speed is 6 or greater, แต้มเหรียญ +1\nแต้มเหรียญ +1 for every 7 [Burst]บนเป้าหมาย (สูงสุด 2)\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[BeforeAttack] เมื่อมี 4+ highest Reson., Atk Weight +1\n<style=\"highlight\">- If the said Reson. was a ความตะกละ Reson., Atk Weight +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -443,7 +443,7 @@
           "level": 1,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "[CantIdentify]\nTargets randomly\nแต้มเหรียญ +1 for every 7 [Burst]บนtarget (max 2)",
+          "desc": "[CantIdentify]\nTargets randomly\nแต้มเหรียญ +1 for every 7 [Burst]บนเป้าหมาย (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -472,7 +472,7 @@
           "level": 3,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">If the sum of this unit และ the target's Speed is 6 or greater, แต้มเหรียญ +1</style>\nแต้มเหรียญ +1 for every 7 [Burst]บนtarget (max 2)\n<style=\"highlight\">[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า</style>",
+          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">If the sum of this unit และ the target's Speed is 6 or greater, แต้มเหรียญ +1</style>\nแต้มเหรียญ +1 for every 7 [Burst]บนเป้าหมาย (สูงสุด 2)\n<style=\"highlight\">[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -494,7 +494,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Snare]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +2% more ความเสียหาย for every [Burst]บนtarget (max 30%)"
+                  "desc": "[OnSucceedAttack] ทำ +2% more ความเสียหาย for every [Burst]บนเป้าหมาย (สูงสุด 30%)"
                 }
               ]
             }
@@ -504,7 +504,7 @@
           "level": 4,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the sum of this unit และ the target's Speed is 6 or greater, แต้มเหรียญ +1\nแต้มเหรียญ +1 for every 7 [Burst]บนtarget (max 2)\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\n<style=\"highlight\">[EndSkill] If target is Staggered or defeated, ได้รับ 1 [ShamrockResultUp] ในเทิร์นหน้า</style>",
+          "desc": "[CantIdentify]\nTargets randomly\nIf the sum of this unit และ the target's Speed is 6 or greater, แต้มเหรียญ +1\nแต้มเหรียญ +1 for every 7 [Burst]บนเป้าหมาย (สูงสุด 2)\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\n<style=\"highlight\">[EndSkill] If target is Staggered or defeated, ได้รับ 1 [ShamrockResultUp] ในเทิร์นหน้า</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -526,7 +526,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Snare]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +2% more ความเสียหาย for every [Burst]บนtarget (max 60%)"
+                  "desc": "[OnSucceedAttack] ทำ +2% more ความเสียหาย for every [Burst]บนเป้าหมาย (สูงสุด 60%)"
                 }
               ]
             }
@@ -541,7 +541,7 @@
           "level": 1,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (max 4)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath]เป็นwell ในเทิร์นหน้า",
+          "desc": "[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (สูงสุด 4)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath]เป็นwell ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -563,7 +563,7 @@
           "level": 3,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (max <style=\"highlight\">6</style>)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath]เป็นwell ในเทิร์นหน้า",
+          "desc": "[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (สูงสุด <style=\"highlight\">6</style>)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath]เป็นwell ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -575,7 +575,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">ทำ +([Breath] Potency + [Breath] Count)% more ความเสียหายบนCritical Hit (max 20%)</style>"
+                  "desc": "<style=\"highlight\">ทำ +([Breath] Potency + [Breath] Count)% more ความเสียหายบนCritical Hit (สูงสุด 20%)</style>"
                 }
               ]
             }
@@ -585,7 +585,7 @@
           "level": 4,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (max 6)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath]เป็นwell ในเทิร์นหน้า<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (สูงสุด 6)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath]เป็นwell ในเทิร์นหน้า<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -597,7 +597,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "ทำ +([Breath] Potency + [Breath] Count)% more ความเสียหายบนCritical Hit (max <style=\"highlight\">40%</style>)"
+                  "desc": "ทำ +([Breath] Potency + [Breath] Count)% more ความเสียหายบนCritical Hit (สูงสุด <style=\"highlight\">40%</style>)"
                 }
               ]
             }
@@ -612,7 +612,7 @@
           "level": 1,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี less than 20 [Breath] Potency, ได้รับ up to 20 [Breath] Potency และ consume ([Breath] Potency ได้รับed x 2)% HPบนself\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (max 4)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath] และ 1 [IndigoDamageUp]เป็นwell ในเทิร์นหน้า",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี less than 20 [Breath] Potency, ได้รับ up to 20 [Breath] Potency และ consume ([Breath] Potency ได้รับed x 2)% HPบนself\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (สูงสุด 4)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath] และ 1 [IndigoDamageUp]เป็นwell ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -634,7 +634,7 @@
           "level": 3,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี less than 20 [Breath] Potency, ได้รับ up to 20 [Breath] Potency และ consume ([Breath] Potency ได้รับed x 2)% HPบนself\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (max <style=\"highlight\">6</style>)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath] และ 1 [IndigoDamageUp]เป็นwell ในเทิร์นหน้า",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี less than 20 [Breath] Potency, ได้รับ up to 20 [Breath] Potency และ consume ([Breath] Potency ได้รับed x 2)% HPบนself\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (สูงสุด <style=\"highlight\">6</style>)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath] และ 1 [IndigoDamageUp]เป็นwell ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -646,7 +646,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">ทำ +([Breath] Potency + [Breath] Count)% more ความเสียหายบนCritical Hit (max 20%)</style>"
+                  "desc": "<style=\"highlight\">ทำ +([Breath] Potency + [Breath] Count)% more ความเสียหายบนCritical Hit (สูงสุด 20%)</style>"
                 }
               ]
             }
@@ -656,7 +656,7 @@
           "level": 4,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี less than 20 [Breath] Potency, ได้รับ up to 20 [Breath] Potency และ consume ([Breath] Potency ได้รับed x 2)% HPบนself\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (max 6)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath] และ 1 [IndigoDamageUp]เป็นwell ในเทิร์นหน้า<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] เมื่อมี less than 20 [Breath] Potency, ได้รับ up to 20 [Breath] Potency และ consume ([Breath] Potency ได้รับed x 2)% HPบนself\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] มอบ (highest Reson.) [Breath] Potency แก่พันธมิตรทุกคน (สูงสุด 6)\n- เมื่อมี 3+ Pride Reson., มอบ +1 [Breath] Count to the affected units, และ มอบ 1 [ReleaseBreath] และ 1 [IndigoDamageUp]เป็นwell ในเทิร์นหน้า<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -668,7 +668,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "ทำ +([Breath] Potency + [Breath] Count)% more ความเสียหายบนCritical Hit (max <style=\"highlight\">40%</style>)"
+                  "desc": "ทำ +([Breath] Potency + [Breath] Count)% more ความเสียหายบนCritical Hit (สูงสุด <style=\"highlight\">40%</style>)"
                 }
               ]
             }

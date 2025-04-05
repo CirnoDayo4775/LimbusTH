@@ -337,7 +337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Burst] for every [Charge] 5 ขั้น consumed ไป the Skill (Max 6)"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst] for every [Charge] 5 ขั้น consumed ไป the Skill (สูงสุด 6)"
                 },
                 {
                   "desc": "[OnSucceedAttack] If the Skill consumed [Charge] 15 ขั้น upon use, มอบ 2 Dimensional Rift"
@@ -371,7 +371,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Burst] for every [Charge] 5 ขั้น consumed ไป the Skill (Max 9)"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Burst] for every [Charge] 5 ขั้น consumed ไป the Skill (สูงสุด 9)"
                 },
                 {
                   "desc": "[OnSucceedAttack] If the Skill consumed [Charge] 15 ขั้น upon use, มอบ 2 Dimensional Rift"
@@ -391,7 +391,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Hollow Dimension\u200B</line-height>",
-          "desc": "Base Power +1 per [Charge] 5 ขั้น (Max 2)",
+          "desc": "Base Power +1 ต่อทุกๆ [Charge] 5 ขั้น (สูงสุด 2)",
           "coinlist": [
             {}
           ]
@@ -399,7 +399,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Hollow Dimension\u200B</line-height>",
-          "desc": "Base Power +1 per [Charge] 5 ขั้น (Max 2)\n[OnSucceedEvade] +1 Potency when applying [Burst] for the first time with a Skill effect ในเทิร์นหน้า (Max +3 per turn)",
+          "desc": "Base Power +1 ต่อทุกๆ [Charge] 5 ขั้น (สูงสุด 2)\n[OnSucceedEvade] +1 Potency when applying [Burst] for the first time with a Skill effect ในเทิร์นหน้า (สูงสุด +3 ต่อทุกๆ turn)",
           "coinlist": [
             {}
           ]
@@ -915,7 +915,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 20% chance to ใช้เหรียญซ้ำ อีกครั้ง. +20% more chance to ใช้เหรียญซ้ำ for every type of negative effectบนtarget"
+                  "desc": "[OnSucceedAttack] 20% chance to ใช้เหรียญซ้ำ อีกครั้ง. +20% more chance to ใช้เหรียญซ้ำ for every type of negative effectบนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
@@ -935,7 +935,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 20% chance to ใช้เหรียญซ้ำ อีกครั้ง. +20% more chance to ใช้เหรียญซ้ำ for every type of negative effectบนtarget"
+                  "desc": "[OnSucceedAttack] 20% chance to ใช้เหรียญซ้ำ อีกครั้ง. +20% more chance to ใช้เหรียญซ้ำ for every type of negative effectบนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
@@ -950,12 +950,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Sanguine Pointillism\u200B</line-height>",
-          "desc": "แต้มปะทะ +1 for every 3 [Laceration]บนtarget (max 2)\nแต้มเหรียญ +1 for every 3 [Laceration]Countบนtarget (max 2)",
+          "desc": "แต้มปะทะ +1 for every 3 [Laceration]บนเป้าหมาย (สูงสุด 2)\nแต้มเหรียญ +1 for every 3 [Laceration]Countบนเป้าหมาย (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to ใช้เหรียญซ้ำ for every type of negative effectบนtarget (2 times max per Skill)"
+                  "desc": "[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to ใช้เหรียญซ้ำ for every type of negative effectบนเป้าหมาย (2 times max ต่อทุกๆ Skill)"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
@@ -1001,7 +1001,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "ทำ +15% more ความเสียหาย for every type of negative effectบนtarget (max 75%)"
+                  "desc": "ทำ +15% more ความเสียหาย for every type of negative effectบนเป้าหมาย (สูงสุด 75%)"
                 },
                 {
                   "desc": "[EndSkill] If target is Staggered or Defeated, มอบ 2 Potency for 1 of the following effectsบน1 enemy with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
@@ -1013,7 +1013,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Hematic Coloring\u200B</line-height>",
-          "desc": "แต้มปะทะ +1 for every 3 [Laceration]บนtarget (max 2)\nแต้มเหรียญ +1 for every 3 [Laceration]Countบนtarget (max 2)",
+          "desc": "แต้มปะทะ +1 for every 3 [Laceration]บนเป้าหมาย (สูงสุด 2)\nแต้มเหรียญ +1 for every 3 [Laceration]Countบนเป้าหมาย (สูงสุด 2)",
           "coinlist": [
             {},
             {
@@ -1039,7 +1039,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "ทำ +25% more ความเสียหาย for every type of negative effectบนtarget (max 125%)"
+                  "desc": "ทำ +25% more ความเสียหาย for every type of negative effectบนเป้าหมาย (สูงสุด 125%)"
                 },
                 {
                   "desc": "[EndSkill] If target is Staggered or Defeated, มอบ 2 Potency for 1 of the following effectsบน2 enemies with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
@@ -1070,7 +1070,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Beat the Brush\u200B</line-height>",
-          "desc": "Base Power +1 for every 1 [Laceration]บนtarget (Max 10)",
+          "desc": "Base Power +1 for every 1 [Laceration]บนเป้าหมาย (สูงสุด 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -1202,7 +1202,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Solemn Lament for the Living\u200B</line-height>",
-          "desc": "If the sum of the target's [Sinking] และ both [SinkingWhite] is 6 or higher, แต้มเหรียญ +1\n[WinDuel] มอบ [Sinking] +1 ขั้น\n[EndSkill] ได้รับ (highest Reson.) of [BulletLament] (max 6)\n- If the said Reson. was an A-Reson., ได้รับ (highest Reson. x 2) of [BulletLament] (max 12)",
+          "desc": "If the sum of the target's [Sinking] และ both [SinkingWhite] is 6 or higher, แต้มเหรียญ +1\n[WinDuel] มอบ [Sinking] +1 ขั้น\n[EndSkill] ได้รับ (highest Reson.) of [BulletLament] (สูงสุด 6)\n- If the said Reson. was an A-Reson., ได้รับ (highest Reson. x 2) of [BulletLament] (สูงสุด 12)",
           "coinlist": [
             {
               "coindescs": [
@@ -1229,7 +1229,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Solemn Lament for the Living\u200B</line-height>",
-          "desc": "เมื่อมี 10+ [BulletLament], แต้มปะทะ +1\n<style=\"highlight\">แต้มเหรียญ +1 for every 6 value</style> of the sum of the target's [Sinking] และ both [SinkingWhite] <style=\"highlight\">(max 2)</style>\n[WinDuel] มอบ [Sinking] +1 ขั้น\n[EndSkill] ได้รับ (highest Reson.) of [BulletLament] (max 6)\n- If the said Reson. was an A-Reson., ได้รับ (highest Reson. x 2) of [BulletLament] (max 12)\n- If the said Reson. was at 4+ A-Reson., [ReloadLament] instead",
+          "desc": "เมื่อมี 10+ [BulletLament], แต้มปะทะ +1\n<style=\"highlight\">แต้มเหรียญ +1 for every 6 value</style> of the sum of the target's [Sinking] และ both [SinkingWhite] <style=\"highlight\">(สูงสุด 2)</style>\n[WinDuel] มอบ [Sinking] +1 ขั้น\n[EndSkill] ได้รับ (highest Reson.) of [BulletLament] (สูงสุด 6)\n- If the said Reson. was an A-Reson., ได้รับ (highest Reson. x 2) of [BulletLament] (สูงสุด 12)\n- If the said Reson. was at 4+ A-Reson., [ReloadLament] instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1261,7 +1261,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Goodbye Now, A Sorrow In You\u200B</line-height>",
-          "desc": "Base Power +1 for every 10 value of [BulletLament] (max 2)\n[WinDuel] มอบ [Sinking] +3 ขั้น\n[EndSkill] [ReloadLament]",
+          "desc": "Base Power +1 for every 10 value of [BulletLament] (สูงสุด 2)\n[WinDuel] มอบ [Sinking] +3 ขั้น\n[EndSkill] [ReloadLament]",
           "coinlist": [
             {
               "coindescs": [
@@ -1292,14 +1292,14 @@
                   "desc": "[OnSucceedAttack] มอบ [SinkingWhite] equal to [BulletLament] consumed"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +2% more ความเสียหาย for every value of [BulletLament] consumed ไป this Skill"
+                  "desc": "[OnSucceedAttack] ทำ +2% more ความเสียหาย for every value of [BulletLament] consumed ไป this Skill"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Gloom ความเสียหาย equal to \"All\" [SinkingWhite]บนtarget\n- \"All\" = the sum of both The Living และ The Departedบนtarget"
+                  "desc": "[OnSucceedAttack] มอบ Gloom ความเสียหาย equal to \"All\" [SinkingWhite]บนเป้าหมาย\n- \"All\" = the sum of both The Living และ The Departedบนเป้าหมาย"
                 }
               ]
             }
@@ -1308,7 +1308,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Goodbye Now, A Sorrow In You\u200B</line-height>",
-          "desc": "Base Power +1 for every <style=\"highlight\">5</style> value of [BulletLament] <style=\"highlight\">(max 4)</style>\nแต้มเหรียญ +1 for every 6 value of the sum of the target's [Sinking] และ both [SinkingWhite] (max 2)\n[WinDuel] มอบ [Sinking] +3 ขั้น\n[EndSkill] [ReloadLament]",
+          "desc": "Base Power +1 for every <style=\"highlight\">5</style> value of [BulletLament] <style=\"highlight\">(สูงสุด 4)</style>\nแต้มเหรียญ +1 for every 6 value of the sum of the target's [Sinking] และ both [SinkingWhite] (สูงสุด 2)\n[WinDuel] มอบ [Sinking] +3 ขั้น\n[EndSkill] [ReloadLament]",
           "coinlist": [
             {
               "coindescs": [
@@ -1339,14 +1339,14 @@
                   "desc": "[OnSucceedAttack] มอบ [SinkingWhite] equal to [BulletLament] consumed"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +4% more ความเสียหาย for every value of [BulletLament] consumed ไป this Skill"
+                  "desc": "[OnSucceedAttack] ทำ +4% more ความเสียหาย for every value of [BulletLament] consumed ไป this Skill"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Gloom ความเสียหาย equal to \"All\" [SinkingWhite]บนtarget\n- \"All\" = the sum of both The Living และ The Departedบนtarget"
+                  "desc": "[OnSucceedAttack] มอบ Gloom ความเสียหาย equal to \"All\" [SinkingWhite]บนเป้าหมาย\n- \"All\" = the sum of both The Living และ The Departedบนเป้าหมาย"
                 }
               ]
             }
@@ -1360,7 +1360,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>FromTheCoffinAButterflyTakesFlight\u200B</line-height>",
-          "desc": "[StartBattle] [ReloadLament] (once per turn)",
+          "desc": "[StartBattle] [ReloadLament] (once ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1374,7 +1374,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>FromTheCoffinAButterflyTakesFlight\u200B</line-height>",
-          "desc": "[StartBattle] [ReloadLament] (once per turn)\n[StartBattle] ได้รับ Shield equal to (the sum of both [SinkingWhite]บนthe selected target)% HP. (max 20% per turn)",
+          "desc": "[StartBattle] [ReloadLament] (once ต่อทุกๆ turn)\n[StartBattle] ได้รับ Shield equal to (the sum of both [SinkingWhite]บนthe selected target)% HP. (สูงสุด 20% ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1420,7 +1420,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Though it must be prefaced that E.G.O gears are standardized equipment,\u200B</line-height>",
-          "desc": "[StartBattle]บนClash เสีย, ได้รับ แต้มรวม equal to the number of Skills targeting this unit (max 2)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted ไป this Skill +1",
+          "desc": "[StartBattle]บนClash เสีย, ได้รับ แต้มรวม equal to the number of Skills targeting this unit (สูงสุด 2)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted ไป this Skill +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1447,7 +1447,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Though it must be prefaced that E.G.O gears are standardized equipment,\u200B</line-height>",
-          "desc": "[StartBattle]บนClash เสีย, ได้รับ แต้มรวม equal to the number of Skills targeting this unit (max 3)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted ไป this Skill +2",
+          "desc": "[StartBattle]บนClash เสีย, ได้รับ แต้มรวม equal to the number of Skills targeting this unit (สูงสุด 3)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted ไป this Skill +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1496,7 +1496,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>when juxtaposed with E.G.O gear from L Corp., dependingบนthe degree of attunement to the Abnormality,\u200B</line-height>",
-          "desc": "[StartBattle]บนClash เสีย, ได้รับ แต้มรวม equal to the number of Skills targeting this unit (max 3)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted ไป this Skill +1",
+          "desc": "[StartBattle]บนClash เสีย, ได้รับ แต้มรวม equal to the number of Skills targeting this unit (สูงสุด 3)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted ไป this Skill +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1513,7 +1513,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>when juxtaposed with E.G.O gear from L Corp., dependingบนthe degree of attunement to the Abnormality,\u200B</line-height>",
-          "desc": "[StartBattle] <style=\"highlight\">On Clash เสีย, ได้รับ (# of Skills targeting this unit x 2) แต้มรวม (max 6)</style>\n[WhenUse] ได้รับ +4 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted ไป this Skill +2",
+          "desc": "[StartBattle] <style=\"highlight\">On Clash เสีย, ได้รับ (# of Skills targeting this unit x 2) แต้มรวม (สูงสุด 6)</style>\n[WhenUse] ได้รับ +4 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted ไป this Skill +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1535,7 +1535,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>the idiosyncrasies of the source may be utilized with greater flexibility\u200B</line-height>",
-          "desc": "ทำ +0.5% more ความเสียหาย for every 1% missing HPบนself\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 2)\n[WhenUse] ได้รับ 2 [GlowingLantern] (once per turn)\n[WhenUse] ได้รับ +6 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Potency or Count with its effects; instead, ได้รับ Base Power +1\n[EndSkill] ฟื้นฟู 30 SP",
+          "desc": "ทำ +0.5% more ความเสียหาย for every 1% missing HPบนself\n[StartBattle] Base Power +1 for every Skill that targets this unit (สูงสุด 2)\n[WhenUse] ได้รับ 2 [GlowingLantern] (once ต่อทุกๆ turn)\n[WhenUse] ได้รับ +6 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Potency or Count with its effects; instead, ได้รับ Base Power +1\n[EndSkill] ฟื้นฟู 30 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1566,7 +1566,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>the idiosyncrasies of the source may be utilized with greater flexibility\u200B</line-height>",
-          "desc": "ทำ +0.8% more ความเสียหาย for every 1% missing HPบนself\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 3)\n[WhenUse] ได้รับ 3 [GlowingLantern] (once per turn)\n[WhenUse] ได้รับ +8 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Potency or Count with its effects; instead, ได้รับ Base Power +1\n[EndSkill] ฟื้นฟู 30 SP",
+          "desc": "ทำ +0.8% more ความเสียหาย for every 1% missing HPบนself\n[StartBattle] Base Power +1 for every Skill that targets this unit (สูงสุด 3)\n[WhenUse] ได้รับ 3 [GlowingLantern] (once ต่อทุกๆ turn)\n[WhenUse] ได้รับ +8 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Potency or Count with its effects; instead, ได้รับ Base Power +1\n[EndSkill] ฟื้นฟู 30 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1602,7 +1602,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Yet, the degree to which that attunement และ synchronization are achieved may resultantly allow theผู้ใช้to be devoured\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 2 [GlowingLantern] (once per turn)\n[WhenUse] ได้รับ +6 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Count with its effects; instead, ได้รับ Base Power +3",
+          "desc": "[StartBattle] ได้รับ 2 [GlowingLantern] (once ต่อทุกๆ turn)\n[WhenUse] ได้รับ +6 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Count with its effects; instead, ได้รับ Base Power +3",
           "coinlist": [
             {
               "coindescs": [
@@ -1616,7 +1616,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Yet, the degree to which that attunement และ synchronization are achieved may resultantly allow theผู้ใช้to be devoured\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 3 [GlowingLantern] (once per turn)\n[WhenUse] ได้รับ +8 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Count with its effects; instead, ได้รับ Base Power +3",
+          "desc": "[StartBattle] ได้รับ 3 [GlowingLantern] (once ต่อทุกๆ turn)\n[WhenUse] ได้รับ +8 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Count with its effects; instead, ได้รับ Base Power +3",
           "coinlist": [
             {
               "coindescs": [
@@ -1677,7 +1677,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flame Hew\u200B</line-height>",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 3 [Combustion]บนtarget (max 2)</style>\n<style=\"highlight\">ทำ +10% more ความเสียหาย for every 10 [Combustion]บนtarget (max 30%)</style>",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 3 [Combustion]บนเป้าหมาย (สูงสุด 2)</style>\n<style=\"highlight\">ทำ +10% more ความเสียหาย for every 10 [Combustion]บนเป้าหมาย (สูงสุด 30%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1728,7 +1728,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Combustion], มอบ [Combustion] +2 ขั้นบนtarget"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Combustion], มอบ [Combustion] +2 ขั้นบนเป้าหมาย"
                 }
               ]
             }
@@ -1737,7 +1737,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Frontal Assault\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 for every 6 [Combustion]บนtarget (max 2)",
+          "desc": "แต้มเหรียญ +1 for every 6 [Combustion]บนเป้าหมาย (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1756,10 +1756,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "ทำ +2.5% more ความเสียหาย for every [Combustion]บนtarget (max 30%)"
+                  "desc": "ทำ +2.5% more ความเสียหาย for every [Combustion]บนเป้าหมาย (สูงสุด 30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Combustion], มอบ [Combustion] +2 ขั้นบนtarget<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Combustion], มอบ [Combustion] +2 ขั้นบนเป้าหมาย<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1768,7 +1768,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Frontal Assault\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 for every 6 [Combustion]บนtarget (max 2)",
+          "desc": "แต้มเหรียญ +1 for every 6 [Combustion]บนเป้าหมาย (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1787,10 +1787,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "ทำ +<style=\"highlight\">5</style>% more ความเสียหาย for every [Combustion]บนtarget (max <style=\"highlight\">60</style>%)"
+                  "desc": "ทำ +<style=\"highlight\">5</style>% more ความเสียหาย for every [Combustion]บนเป้าหมาย (สูงสุด <style=\"highlight\">60</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Combustion], มอบ [Combustion] +2 ขั้นบนtarget<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 6+ [Combustion], มอบ [Combustion] +2 ขั้นบนเป้าหมาย<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1804,7 +1804,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Flow of the Sword\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 6+ [Combustion], แต้มเหรียญ +1\nทำ +10% more ความเสียหาย for every 6 [Combustion]บนtarget (max 30%)\n[EndSkill] ฟื้นฟู 10 ค่าสติ for 1 other ally with the least SP\n- If this attack killed the target, or if target had 10+ [Combustion], ฟื้นฟู 1 more ally",
+          "desc": "หากเป้าหมายมี 6+ [Combustion], แต้มเหรียญ +1\nทำ +10% more ความเสียหาย for every 6 [Combustion]บนเป้าหมาย (สูงสุด 30%)\n[EndSkill] ฟื้นฟู 10 ค่าสติ for 1 other ally with the least SP\n- If this attack killed the target, or if target had 10+ [Combustion], ฟื้นฟู 1 more ally",
           "coinlist": [
             {
               "coindescs": [
@@ -1830,10 +1830,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "ทำ +2% more ความเสียหาย for every [Combustion]บนtarget (max 60%)"
+                  "desc": "ทำ +2% more ความเสียหาย for every [Combustion]บนเป้าหมาย (สูงสุด 60%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ Wrath Affinity ความเสียหาย equal to [Combustion] Potencyบนtarget. (max 30) Reduce Target's [Combustion] Count ไป 2"
+                  "desc": "[OnSucceedAttack] มอบ Wrath Affinity ความเสียหาย equal to [Combustion] Potencyบนเป้าหมาย. (สูงสุด 30) Reduce Target's [Combustion] Count ไป 2"
                 }
               ]
             }
@@ -1842,7 +1842,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flow of the Sword\u200B</line-height>",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 6 [Combustion]บนtarget (max 2)</style>\nทำ +10% more ความเสียหาย for every 6 [Combustion]บนtarget (max 30%)\n[EndSkill] ฟื้นฟู <style=\"highlight\">15</style> ค่าสติ for 1 other ally with the least SP\n- If this attack killed the target, or if target had 10+ [Combustion], ฟื้นฟู 1 more ally",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 6 [Combustion]บนเป้าหมาย (สูงสุด 2)</style>\nทำ +10% more ความเสียหาย for every 6 [Combustion]บนเป้าหมาย (สูงสุด 30%)\n[EndSkill] ฟื้นฟู <style=\"highlight\">15</style> ค่าสติ for 1 other ally with the least SP\n- If this attack killed the target, or if target had 10+ [Combustion], ฟื้นฟู 1 more ally",
           "coinlist": [
             {
               "coindescs": [
@@ -1868,10 +1868,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "ทำ +2% more ความเสียหาย for every [Combustion]บนtarget (max 60%)"
+                  "desc": "ทำ +2% more ความเสียหาย for every [Combustion]บนเป้าหมาย (สูงสุด 60%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ Wrath Affinity ความเสียหาย equal to [Combustion] Potencyบนtarget. (max 30) Reduce Target's [Combustion] Count ไป 2"
+                  "desc": "[OnSucceedAttack] มอบ Wrath Affinity ความเสียหาย equal to [Combustion] Potencyบนเป้าหมาย. (สูงสุด 30) Reduce Target's [Combustion] Count ไป 2"
                 }
               ]
             }
@@ -1885,7 +1885,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Flame Counter\u200B</line-height>",
-          "desc": "[BeforeHit] ได้รับ Shield equal to [Combustion]บนtarget (max 10, อีกครั้ง per turn)",
+          "desc": "[BeforeHit] ได้รับ Shield equal to [Combustion]บนเป้าหมาย (สูงสุด 10, อีกครั้ง ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1906,7 +1906,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flame Counter\u200B</line-height>",
-          "desc": "[BeforeHit] ได้รับ Shield equal to [Combustion]บนtarget (max 15, อีกครั้ง per turn)\n[WhenUse] หากเป้าหมายมี 10+ [Combustion], ทำ  +10% more ความเสียหาย",
+          "desc": "[BeforeHit] ได้รับ Shield equal to [Combustion]บนเป้าหมาย (สูงสุด 15, อีกครั้ง ต่อทุกๆ turn)\n[WhenUse] หากเป้าหมายมี 10+ [Combustion], ทำ +10% more ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [

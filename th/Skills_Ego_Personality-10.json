@@ -282,12 +282,12 @@
           "level": 3,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<style=\"highlight\">[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (max 2)</style>",
+          "desc": "<style=\"highlight\">[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (สูงสุด 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] มอบ <style=\"highlight\">14%</style> of this unit's max HPเป็นShield to self และ <style=\"highlight\">(1 + (highest Reson. - 2))</style> allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad]เป็นwell\n<style=\"highlight\">(max # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)</style>"
+                  "desc": "[EndSkill] มอบ <style=\"highlight\">14%</style> of this unit's max HPเป็นShield to self และ <style=\"highlight\">(1 + (highest Reson. - 2))</style> allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad]เป็นwell\n<style=\"highlight\">(สูงสุด # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)</style>"
                 },
                 {
                   "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
@@ -303,12 +303,12 @@
           "level": 4,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (max 2)<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (สูงสุด 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] มอบ <style=\"highlight\">20%</style> of this unit's max HPเป็นShield to self และ (1 + (highest Reson. - 2)) allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad]เป็นwell\n(max # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)"
+                  "desc": "[EndSkill] มอบ <style=\"highlight\">20%</style> of this unit's max HPเป็นShield to self และ (1 + (highest Reson. - 2)) allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad]เป็นwell\n(สูงสุด # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)"
                 },
                 {
                   "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
@@ -337,7 +337,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] ได้รับ (15 + 2.5(highest Reson.))% of this unit's max HPเป็นShield to self และ ได้รับ 2 [ShieldManagerCryingToad]. (max 25%)"
+                  "desc": "[EndSkill] ได้รับ (15 + 2.5(highest Reson.))% of this unit's max HPเป็นShield to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด 25%)"
                 },
                 {
                   "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
@@ -353,7 +353,7 @@
           "level": 3,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "[CantIdentify]\nTargets Randomly\n<style=\"highlight\">[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (max 2)</style>\n[BeforeAttack] ได้รับ <style=\"highlight\">+10 [Aggro]</style> to this Skill Slot ในเทิร์นหน้า",
+          "desc": "[CantIdentify]\nTargets Randomly\n<style=\"highlight\">[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (สูงสุด 2)</style>\n[BeforeAttack] ได้รับ <style=\"highlight\">+10 [Aggro]</style> to this Skill Slot ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -361,7 +361,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] ได้รับ (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(highest Reson.))% of this unit's max HPเป็นShield to self และ ได้รับ 2 [ShieldManagerCryingToad]. (max <style=\"highlight\">30%</style>)"
+                  "desc": "[EndSkill] ได้รับ (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(highest Reson.))% of this unit's max HPเป็นShield to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">30%</style>)"
                 },
                 {
                   "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
@@ -377,7 +377,7 @@
           "level": 4,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (max 2)\n[BeforeAttack] ได้รับ +10 [Aggro] to this Skill Slot ในเทิร์นหน้า<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (สูงสุด 2)\n[BeforeAttack] ได้รับ +10 [Aggro] to this Skill Slot ในเทิร์นหน้า<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -385,7 +385,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Sinking] และ <style=\"highlight\">[Sinking] +3 ขั้น</style>"
                 },
                 {
-                  "desc": "[EndSkill] ได้รับ (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(highest Reson.))% of this unit's max HPเป็นShield to self และ ได้รับ 2 [ShieldManagerCryingToad]. (max <style=\"highlight\">40%</style>)"
+                  "desc": "[EndSkill] ได้รับ (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(highest Reson.))% of this unit's max HPเป็นShield to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">40%</style>)"
                 },
                 {
                   "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
@@ -421,7 +421,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบ 1 additional [Curse] for every 3 negative effectบนtarget that aren't [Curse] or [NailPersonality] (max 2)"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบ 1 additional [Curse] for every 3 negative effectบนเป้าหมาย that aren't [Curse] or [NailPersonality] (สูงสุด 2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 [NailPersonality]"
@@ -446,13 +446,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบ 1 additional [Curse] for every 3 negative effectบนtarget that aren't [Curse] or [NailPersonality] (max 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบ 1 additional [Curse] for every 3 negative effectบนเป้าหมาย that aren't [Curse] or [NailPersonality] (สูงสุด 2)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">3</style> [NailPersonality]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] มอบ 2 [Binding] ในเทิร์นหน้า (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] มอบ 2 [Binding] ในเทิร์นหน้า (once ต่อทุกๆ turn)</style>"
                 }
               ]
             }
@@ -462,7 +462,7 @@
           "level": 4,
           "name": "<line-height=120%>Hex Nail\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<style=\"highlight\">[BeforeAttack] For every 3 Envy Reson. including this Skill, Atk Weight +1 (max 2)</style>\n[EndSkill] หากเป้าหมายมี [Curse], immediately activate it twice และ reduce it ไป 2",
+          "desc": "<style=\"highlight\">[BeforeAttack] For every 3 Envy Reson. including this Skill, Atk Weight +1 (สูงสุด 2)</style>\n[EndSkill] หากเป้าหมายมี [Curse], immediately activate it twice และ reduce it ไป 2",
           "coinlist": [
             {
               "coindescs": [
@@ -474,16 +474,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบ 1 additional [Curse] for every <style=\"highlight\">2</style> negative effectบนtarget that aren't [Curse] or [NailPersonality] (max 2)"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Curse]\n- มอบ 1 additional [Curse] for every <style=\"highlight\">2</style> negative effectบนเป้าหมาย that aren't [Curse] or [NailPersonality] (สูงสุด 2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 3 [NailPersonality]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ [Curse], มอบ 1 [ParryingResultDown] (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ [Curse], มอบ 1 [ParryingResultDown] (once ต่อทุกๆ turn)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ 2 [Binding] ในเทิร์นหน้า (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 [Binding] ในเทิร์นหน้า (once ต่อทุกๆ turn)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -541,7 +541,7 @@
                   "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">3</style> [NailPersonality]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] มอบ 2 [Binding] ในเทิร์นหน้า (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] มอบ 2 [Binding] ในเทิร์นหน้า (once ต่อทุกๆ turn)</style>"
                 }
               ]
             }
@@ -569,13 +569,13 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [NailPersonality]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ Envy Reson. including this Skill, มอบ 1 [ParryingResultDown] (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ Envy Reson. including this Skill, มอบ 1 [ParryingResultDown] (once ต่อทุกๆ turn)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] มอบ 2 [Binding] ในเทิร์นหน้า (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] มอบ 2 [Binding] ในเทิร์นหน้า (once ต่อทุกๆ turn)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] มอบ 2 [DefenseDown] ในเทิร์นหน้า (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] มอบ 2 [DefenseDown] ในเทิร์นหน้า (once ต่อทุกๆ turn)</style>"
                 }
               ]
             }

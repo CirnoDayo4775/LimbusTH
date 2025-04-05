@@ -69,7 +69,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 1 [DefenseDown]"
@@ -79,7 +79,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 1 [DefenseDown]"
@@ -178,7 +178,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Laceration]Count, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Laceration]Count, ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 1 [DefenseDown]"
@@ -188,7 +188,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Laceration]Count, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Laceration]Count, ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 1 [DefenseDown]"
@@ -243,7 +243,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Discipline Rulebreakers\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 5+ [Laceration], ทำ  +30% ความเสียหาย",
+          "desc": "หากเป้าหมายมี 5+ [Laceration], ทำ +30% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -258,7 +258,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] equal to ([Laceration]/2)บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] equal to ([Laceration]/2)บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration], ฟื้นฟู 7 SP"
@@ -275,7 +275,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Violated Clause\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 for every 3 [Laceration]บนtarget (max 3)\n[WinDuel] หากเป้าหมายมี 6+ [Laceration], ทำ  +40% more ความเสียหาย",
+          "desc": "แต้มเหรียญ +1 for every 3 [Laceration]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] หากเป้าหมายมี 6+ [Laceration], ทำ +40% more ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -290,7 +290,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] equal to [Laceration]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] equal to [Laceration]บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration], ฟื้นฟู 10 SP"
@@ -310,7 +310,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-          "desc": "[OnSucceedEvade] ได้รับ [Enhancement] (max 1)",
+          "desc": "[OnSucceedEvade] ได้รับ [Enhancement] (สูงสุด 1)",
           "coinlist": [
             {
               "coindescs": [
@@ -387,7 +387,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] equal to [Laceration]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] equal to [Laceration]บนเป้าหมาย"
                 }
               ]
             }
@@ -406,7 +406,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 1 [DefenseDown]"
@@ -416,7 +416,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 1 [DefenseDown]"
@@ -520,7 +520,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] equal to [Laceration]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] equal to [Laceration]บนเป้าหมาย"
                 }
               ]
             }
@@ -539,7 +539,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Laceration]Count, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Laceration]Count, ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 1 [DefenseDown]"
@@ -549,7 +549,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Laceration]Count, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Laceration]Count, ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 1 [DefenseDown]"
@@ -628,7 +628,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Sanguine Pointillism\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 5+ [Laceration], ทำ  +30% ความเสียหาย",
+          "desc": "หากเป้าหมายมี 5+ [Laceration], ทำ +30% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -653,7 +653,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] equal to [Laceration]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] equal to [Laceration]บนเป้าหมาย"
                 }
               ]
             }
@@ -667,7 +667,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Pointillism\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 for every 3 [Laceration]บนtarget (max 4)\n[WinDuel] หากเป้าหมายมี 6+ [Laceration], ทำ  +40% more ความเสียหาย",
+          "desc": "แต้มเหรียญ +1 for every 3 [Laceration]บนเป้าหมาย (สูงสุด 4)\n[WinDuel] หากเป้าหมายมี 6+ [Laceration], ทำ +40% more ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -679,14 +679,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] Count equal to [Laceration]Countบนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] Count equal to [Laceration]Countบนเป้าหมาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] equal to [Laceration]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] equal to [Laceration]บนเป้าหมาย"
                 }
               ]
             }
@@ -722,7 +722,7 @@
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], reuse this Skill (3 times max)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce [Laceration]Countบนtarget ไป 1"
+                  "desc": "[OnSucceedAttack] Reduce [Laceration]Countบนเป้าหมาย ไป 1"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 2 [DefenseDown]"
@@ -739,7 +739,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-          "desc": "[OnSucceedEvade] ได้รับ [Enhancement] (max 2)",
+          "desc": "[OnSucceedEvade] ได้รับ [Enhancement] (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -787,7 +787,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Normal Attack 2\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี [AttackDown], ทำ  +20% more ความเสียหาย",
+          "desc": "[WhenUse] หากเป้าหมายมี [AttackDown], ทำ +20% more ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -868,7 +868,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Normal Attack 4\u200B</line-height>",
-          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most negative effects\n[WhenUse] แต้มปะทะ +1 for every 3 [DefenseDown]บนtarget (max 3)",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most negative effects\n[WhenUse] แต้มปะทะ +1 for every 3 [DefenseDown]บนเป้าหมาย (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -886,7 +886,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +20% more ความเสียหาย for every 2 [AttackDown]บนtarget (max 100%)"
+                  "desc": "[OnSucceedAttack] ทำ +20% more ความเสียหาย for every 2 [AttackDown]บนเป้าหมาย (สูงสุด 100%)"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 3+ negative effects, reuse this เหรียญ (1 time max)"
@@ -953,14 +953,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [AttackDown], ทำ  20% ของความเสียหายที่ทำไปเป็นbonus Blunt ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [AttackDown], ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหายทุบ"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [AttackDown], ทำ  20% ของความเสียหายที่ทำไปเป็นbonus Blunt ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [AttackDown], ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหายทุบ"
                 }
               ]
             }
@@ -974,7 +974,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Make Things Right Aได้รับ\u200B</line-height>",
-          "desc": "[WinDuel] หากเป้าหมายมี 2+ [AttackDown], Base Power +1\n[WhenUse] หากเป้าหมายมี [AttackDown], ทำ  +30% more ความเสียหาย",
+          "desc": "[WinDuel] หากเป้าหมายมี 2+ [AttackDown], Base Power +1\n[WhenUse] หากเป้าหมายมี [AttackDown], ทำ +30% more ความเสียหาย",
           "coinlist": [
             {},
             {
@@ -1008,7 +1008,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Get Crushed\u200B</line-height>",
-          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most negative effects\n[WinDuel] แต้มเหรียญ +1 for every 3 [AttackDown]บนtarget (max 3)",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most negative effects\n[WinDuel] แต้มเหรียญ +1 for every 3 [AttackDown]บนเป้าหมาย (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -1026,7 +1026,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +30% more ความเสียหาย for every 2 [AttackDown]บนtarget (max 120%)"
+                  "desc": "[OnSucceedAttack] ทำ +30% more ความเสียหาย for every 2 [AttackDown]บนเป้าหมาย (สูงสุด 120%)"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 3+ negative effects, reuse this เหรียญ (1 time max)"
@@ -1110,7 +1110,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration]equal to [Burst]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration]equal to [Burst]บนเป้าหมาย"
                 }
               ]
             }
@@ -1146,7 +1146,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ bonus Pierce ความเสียหาย equal to ([Laceration] x [Laceration]Count)"
+                  "desc": "[OnSucceedAttack] มอบ bonus ความเสียหายแทง equal to ([Laceration] x [Laceration]Count)"
                 }
               ]
             }

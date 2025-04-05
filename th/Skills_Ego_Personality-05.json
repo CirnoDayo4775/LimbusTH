@@ -71,7 +71,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 30% of [Vibration]บนtarget.\nReduce [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 30% of [Vibration]บนเป้าหมาย.\nReduce [Vibration] Count ไป 1"
                 },
                 {
                   "desc": "[EndSkill] ได้รับ 3 [Binding] และ 1 Blunt Power Up ในเทิร์นหน้า."
@@ -89,7 +89,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 40% of [Vibration]บนtarget.\nIf target does not have a Stagger Threshold upon [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 40% of [Vibration]บนเป้าหมาย.\nIf target does not have a Stagger Threshold upon [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce [Vibration] Count ไป 1"
                 },
                 {
                   "desc": "[EndSkill] ได้รับ 3 [Binding] และ 1 Blunt Power Up ในเทิร์นหน้า."
@@ -107,7 +107,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 50% of [Vibration]บนtarget.\nIf target does not have a Stagger Threshold upon [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 50% of [Vibration]บนเป้าหมาย.\nIf target does not have a Stagger Threshold upon [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce [Vibration] Count ไป 1"
                 },
                 {
                   "desc": "[EndSkill] ได้รับ 3 [Binding] และ 1 Blunt Power Up ในเทิร์นหน้า."
@@ -125,7 +125,7 @@
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[BeforeAttack] ได้รับ [Charge] +8 ขั้น\n[EndSkill] มอบ [Charge] +8 ขั้น to 1 other ally with the least [Charge] Count\n- Number of affected allies grows ไป (highest Envy Reson. - 2) (max 3)",
+          "desc": "[BeforeAttack] ได้รับ [Charge] +8 ขั้น\n[EndSkill] มอบ [Charge] +8 ขั้น to 1 other ally with the least [Charge] Count\n- Number of affected allies grows ไป (highest Envy Reson. - 2) (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -140,7 +140,7 @@
           "level": 3,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[BeforeAttack] ได้รับ [Charge] +8 ขั้น\n[EndSkill] มอบ [Charge] +8 ขั้น to 1 other ally with the least [Charge] Count\n- Number of affected allies grows ไป (highest Envy Reson. - 2) (max 4)\n- เมื่อมี 4+ (highest Envy Reson.), มอบ 1 [VioletDamageUp] to self และ all affected allies",
+          "desc": "[BeforeAttack] ได้รับ [Charge] +8 ขั้น\n[EndSkill] มอบ [Charge] +8 ขั้น to 1 other ally with the least [Charge] Count\n- Number of affected allies grows ไป (highest Envy Reson. - 2) (สูงสุด 4)\n- เมื่อมี 4+ (highest Envy Reson.), มอบ 1 [VioletDamageUp] to self และ all affected allies",
           "coinlist": [
             {
               "coindescs": [
@@ -155,7 +155,7 @@
           "level": 4,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[BeforeAttack] ได้รับ [Charge] +2 ขั้น\n[EndSkill] มอบ [Charge] +8 ขั้น to 1 other ally with the least [Charge] Count\n- Number of affected allies grows ไป (highest Envy Reson. - 2) (max <style=\"highlight\">5</style>)\n- เมื่อมี 4+ (highest Envy Reson.), มอบ 1 [VioletDamageUp] to self และ all affected allies\n<style=\"highlight\">- เมื่อมี 6+ (highest Envy Reson.), มอบ 1 [VioletDamageUp] to self และ all affected allies</style>",
+          "desc": "[BeforeAttack] ได้รับ [Charge] +2 ขั้น\n[EndSkill] มอบ [Charge] +8 ขั้น to 1 other ally with the least [Charge] Count\n- Number of affected allies grows ไป (highest Envy Reson. - 2) (สูงสุด <style=\"highlight\">5</style>)\n- เมื่อมี 4+ (highest Envy Reson.), มอบ 1 [VioletDamageUp] to self และ all affected allies\n<style=\"highlight\">- เมื่อมี 6+ (highest Envy Reson.), มอบ 1 [VioletDamageUp] to self และ all affected allies</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -175,7 +175,7 @@
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight equal to (highest Envy Reson. - 2) (max 2)\n[BeforeAttack] If this unit has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; ทำ  +2% more ความเสียหาย for every [Charge] Count consumed (max 40%)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight equal to (highest Envy Reson. - 2) (สูงสุด 2)\n[BeforeAttack] If this unit has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; ทำ +2% more ความเสียหาย for every [Charge] Count consumed (สูงสุด 40%)",
           "coinlist": [
             {
               "coindescs": [
@@ -193,7 +193,7 @@
           "level": 3,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight equal to (highest Envy Reson. - 2) (max <style=\"highlight\">3</style>)\n[BeforeAttack] If this unit has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; ทำ  +<style=\"highlight\">2.5</style>% more ความเสียหาย for every [Charge] Count consumed (max <style=\"highlight\">50</style>%)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight equal to (highest Envy Reson. - 2) (สูงสุด <style=\"highlight\">3</style>)\n[BeforeAttack] If this unit has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; ทำ +<style=\"highlight\">2.5</style>% more ความเสียหาย for every [Charge] Count consumed (สูงสุด <style=\"highlight\">50</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -211,7 +211,7 @@
           "level": 4,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight equal to (highest Envy Reson. - 2) (max 3)\n<style=\"highlight\">[BeforeAttack] เมื่อมี 10+ [Charge] Count, มอบ the effects applied from 'On Hit' twice</style>\n[BeforeAttack] If this unit has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; ทำ  +<style=\"highlight\">3</style>% more ความเสียหาย for every [Charge] Count consumed (max <style=\"highlight\">60</style>%)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight equal to (highest Envy Reson. - 2) (สูงสุด 3)\n<style=\"highlight\">[BeforeAttack] เมื่อมี 10+ [Charge] Count, มอบ the effects applied from 'On Hit' twice</style>\n[BeforeAttack] If this unit has 10+ [Charge] Count,จ่าย up to 20 [Charge] Count; ทำ +<style=\"highlight\">3</style>% more ความเสียหาย for every [Charge] Count consumed (สูงสุด <style=\"highlight\">60</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -269,7 +269,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate [Laceration]บนtarget อีกครั้ง (target เสีย 1 [Laceration]Count)"
+                  "desc": "[WinDuelAttack] Activate [Laceration]บนเป้าหมาย อีกครั้ง (target เสีย 1 [Laceration]Count)"
                 }
               ]
             }
@@ -287,7 +287,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนtarget อีกครั้ง (target เสีย 1 [Laceration]Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนเป้าหมาย อีกครั้ง (target เสีย 1 [Laceration]Count)</style>"
                 }
               ]
             },
@@ -297,7 +297,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนtarget อีกครั้ง (target เสีย 1 [Laceration]Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนเป้าหมาย อีกครั้ง (target เสีย 1 [Laceration]Count)</style>"
                 }
               ]
             },
@@ -330,7 +330,7 @@
           "level": 4,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 6 [Laceration]บนtarget (max 2)</style>\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 6 [Laceration]บนเป้าหมาย (สูงสุด 2)</style>\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
           "coinlist": [
             {
               "coindescs": [
@@ -338,7 +338,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนtarget อีกครั้ง (target เสีย 1 [Laceration]Count)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนเป้าหมาย อีกครั้ง (target เสีย 1 [Laceration]Count)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -348,7 +348,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนtarget อีกครั้ง (target เสีย 1 [Laceration]Count)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนเป้าหมาย อีกครั้ง (target เสีย 1 [Laceration]Count)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -374,7 +374,7 @@
                   "desc": "[WinDuelAttack] Activate the target's [Laceration](1 + (highest Reson./2)) times. (3 times max; target เสีย [Laceration]Count equal to the number of times it was activated)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[EnemyKill] When ทำ ing excess ความเสียหาย past the enemy's remaining HP, ทำ  the excess ความเสียหายเป็น ความเสียหายตรง between all enemies. (min 1)</style>"
+                  "desc": "<style=\"highlight\">[EnemyKill] When ทำ ing excess ความเสียหาย past the enemy's remaining HP, ทำ the excess ความเสียหายเป็น ความเสียหายตรง between all enemies. (min 1)</style>"
                 }
               ]
             }
@@ -389,7 +389,7 @@
           "level": 1,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] Consume up to 10% of this unit's max HP และ ทำ  (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of this unit's max HP, มอบ และ activate 5 [Laceration]บนall allies อีกครั้ง instead (lose 1 [Laceration]Count). ฟื้นฟู HP equal toจำนวนof [Laceration]damage ทำ t to allies",
+          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] Consume up to 10% of this unit's max HP และ ทำ (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of this unit's max HP, มอบ และ activate 5 [Laceration]บนall allies อีกครั้ง instead (lose 1 [Laceration]Count). ฟื้นฟู HP equal toจำนวนof [Laceration]damage ทำ t to allies",
           "coinlist": [
             {
               "coindescs": [
@@ -427,7 +427,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate [Laceration]บนtarget อีกครั้ง (target เสีย 1 [Laceration]Count)"
+                  "desc": "[WinDuelAttack] Activate [Laceration]บนเป้าหมาย อีกครั้ง (target เสีย 1 [Laceration]Count)"
                 }
               ]
             }
@@ -437,7 +437,7 @@
           "level": 3,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">เมื่อมี 6+ (sum of [Laceration]บนself และ the target), แต้มเหรียญ +1</style>\n[WhenUse] Consume up to 10% of this unit's max HP และ ทำ  (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of this unit's max HP, มอบ และ activate 5 [Laceration]บนall allies อีกครั้ง instead (lose 1 [Laceration]Count). ฟื้นฟู HP equal toจำนวนof [Laceration]damage ทำ t to allies",
+          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">เมื่อมี 6+ (sum of [Laceration]บนself และ the target), แต้มเหรียญ +1</style>\n[WhenUse] Consume up to 10% of this unit's max HP และ ทำ (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of this unit's max HP, มอบ และ activate 5 [Laceration]บนall allies อีกครั้ง instead (lose 1 [Laceration]Count). ฟื้นฟู HP equal toจำนวนof [Laceration]damage ทำ t to allies",
           "coinlist": [
             {
               "coindescs": [
@@ -485,7 +485,7 @@
           "level": 4,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\nแต้มเหรียญ +1 for every 6 (sum of [Laceration]บนself และ the target) <style=\"highlight\">(max 3)</style>\n[WhenUse] Consume up to 10% of this unit's max HP และ ทำ  (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of this unit's max HP, มอบ และ activate 5 [Laceration]บนall allies instead (lose 1 [Laceration]Count). ฟื้นฟู HP equal toจำนวนof [Laceration]damage ทำ t to allies",
+          "desc": "[CantIdentify]\nTargets randomly\nแต้มเหรียญ +1 for every 6 (sum of [Laceration]บนself และ the target) <style=\"highlight\">(สูงสุด 3)</style>\n[WhenUse] Consume up to 10% of this unit's max HP และ ทำ (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of this unit's max HP, มอบ และ activate 5 [Laceration]บนall allies instead (lose 1 [Laceration]Count). ฟื้นฟู HP equal toจำนวนof [Laceration]damage ทำ t to allies",
           "coinlist": [
             {
               "coindescs": [
@@ -532,7 +532,7 @@
                   "desc": "[WinDuelAttack] Activate the target's [Laceration](1 + (highest Reson./2)) times. (3 times max; target เสีย [Laceration]Count equal to the number of times it was activated)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[EnemyKill] When ทำ ing excess ความเสียหาย past the enemy's remaining HP, ทำ  the excess ความเสียหายเป็น ความเสียหายตรง between all enemies. (min 1)</style>"
+                  "desc": "<style=\"highlight\">[EnemyKill] When ทำ ing excess ความเสียหาย past the enemy's remaining HP, ทำ the excess ความเสียหายเป็น ความเสียหายตรง between all enemies. (min 1)</style>"
                 }
               ]
             }

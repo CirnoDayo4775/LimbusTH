@@ -25,7 +25,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Cleave\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 8+ [Laceration], ทำ  +20% ความเสียหาย",
+                    "desc": "[WhenUse] หากเป้าหมายมี 8+ [Laceration], ทำ +20% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -64,7 +64,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Powercleave\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], Base Power +1\nทำ +5% more ความเสียหาย for every [HardenedBlood] (max 25%)\n[EndSkill] Consume all [HardenedBlood] และ [BloodScissor]",
+                    "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], Base Power +1\nทำ +5% more ความเสียหาย for every [HardenedBlood] (สูงสุด 25%)\n[EndSkill] Consume all [HardenedBlood] และ [BloodScissor]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -76,7 +76,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนtarget)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนเป้าหมาย)% HP (สูงสุด 20%)"
                                 }
                             ]
                         }
@@ -128,7 +128,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Chop\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], ทำ  +10% more ความเสียหาย",
+                    "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], ทำ +10% more ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -167,7 +167,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Powerchop\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration]Count, Base Power +1\nทำ +5% more ความเสียหาย for every [HardenedBlood] (max 25%)\n[EndSkill] Consume all [HardenedBlood] และ [BloodScissor]",
+                    "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration]Count, Base Power +1\nทำ +5% more ความเสียหาย for every [HardenedBlood] (สูงสุด 25%)\n[EndSkill] Consume all [HardenedBlood] และ [BloodScissor]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -179,7 +179,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนtarget)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนเป้าหมาย)% HP (สูงสุด 20%)"
                                 }
                             ]
                         }
@@ -238,7 +238,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Let's Dress Up\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], ทำ  +20% ความเสียหาย",
+                    "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], ทำ +20% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -286,7 +286,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Don't Rush Me\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 for every [BloodScissor] (max 3)\nทำ +7% more ความเสียหาย for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]",
+                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 for every [BloodScissor] (สูงสุด 3)\nทำ +7% more ความเสียหาย for every [HardenedBlood] (สูงสุด 35%)\n[EndSkill] Consume all [HardenedBlood]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -302,10 +302,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Consume up to 5 [BloodScissor] และ ทำ  +(20 * consumed [BloodScissor])% more ความเสียหาย (max 100%)"
+                                    "desc": "[OnSucceedAttack] Consume up to 5 [BloodScissor] และ ทำ +(20 * consumed [BloodScissor])% more ความเสียหาย (สูงสุด 100%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration] Potencyบนtarget)% HP (max 30%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration] Potencyบนเป้าหมาย)% HP (สูงสุด 30%)"
                                 }
                             ]
                         }
@@ -364,7 +364,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>I'll Have Some More\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], ทำ  +10% more ความเสียหาย",
+                    "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], ทำ +10% more ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -412,7 +412,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>You Rat Bastard!\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 for every [BloodScissor] (max 3)\nทำ +7% more ความเสียหาย for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]",
+                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 for every [BloodScissor] (สูงสุด 3)\nทำ +7% more ความเสียหาย for every [HardenedBlood] (สูงสุด 35%)\n[EndSkill] Consume all [HardenedBlood]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -428,10 +428,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Consume up to 5 [BloodScissor] และ ทำ  +(20 * consumed [BloodScissor])% more ความเสียหาย (max 100%)"
+                                    "desc": "[OnSucceedAttack] Consume up to 5 [BloodScissor] และ ทำ +(20 * consumed [BloodScissor])% more ความเสียหาย (สูงสุด 100%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration] Potencyบนtarget)% HP (max 30%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration] Potencyบนเป้าหมาย)% HP (สูงสุด 30%)"
                                 }
                             ]
                         }
@@ -464,7 +464,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ฟาด\u200B</line-height>",
-                    "desc": "หากเป้าหมายมี 5+ [Burst], ทำ  +10% more ความเสียหาย",
+                    "desc": "หากเป้าหมายมี 5+ [Burst], ทำ +10% more ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -533,7 +533,7 @@
                                     "desc": "[OnSucceedAttack] มอบ 4 [Burst]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Burst], ทำ  +30% ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Burst], ทำ +30% ความเสียหาย"
                                 }
                             ]
                         }
@@ -566,7 +566,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ฟาด\u200B</line-height>",
-                    "desc": "หากเป้าหมายมี 3+ [Burst] Count, ทำ  +10% more ความเสียหาย",
+                    "desc": "หากเป้าหมายมี 3+ [Burst] Count, ทำ +10% more ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -635,7 +635,7 @@
                                     "desc": "[OnSucceedAttack] มอบ 3 [Burst]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Burst], ทำ  +30% ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Burst], ทำ +30% ความเสียหาย"
                                 }
                             ]
                         }
@@ -683,7 +683,7 @@
                                     "desc": "[OnSucceedAttack] มอบ 1 [Paralysis]"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] ทำ  +20% more ความเสียหาย"
+                                    "desc": "[CriticalOnSucceedAttack] ทำ +20% more ความเสียหาย"
                                 }
                             ]
                         }
@@ -712,7 +712,7 @@
                                     "desc": "[OnSucceedAttack] มอบ 1 [DefenseDown]"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] หากเป้าหมายมี [TrulyWeak], ทำ  +30% more ความเสียหาย"
+                                    "desc": "[CriticalOnSucceedAttack] หากเป้าหมายมี [TrulyWeak], ทำ +30% more ความเสียหาย"
                                 }
                             ]
                         }
@@ -745,7 +745,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>\\u200B</line-height>"Krrr...\"",
-                    "desc": "หากเป้าหมายมี 5+ [Laceration], ทำ  +10% more ความเสียหาย",
+                    "desc": "หากเป้าหมายมี 5+ [Laceration], ทำ +10% more ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [

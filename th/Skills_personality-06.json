@@ -122,7 +122,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี  [Charge] 5+ ขั้น, ได้รับ 1 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> for every [Charge] 5 ขั้น ในเทิร์นหน้า (Max 4)"
+                  "desc": "[OnSucceedAttack] เมื่อมี  [Charge] 5+ ขั้น, ได้รับ 1 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> for every [Charge] 5 ขั้น ในเทิร์นหน้า (สูงสุด 4)"
                 }
               ]
             }
@@ -179,7 +179,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (3 times per turn)",
+          "desc": "[WhenUse] ได้รับ 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (3 times ต่อทุกๆ turn)",
           "coinlist": [
             {}
           ]
@@ -187,7 +187,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ <style=\"highlight\">3</style> <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (3 times per turn)",
+          "desc": "[WhenUse] ได้รับ <style=\"highlight\">3</style> <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (3 times ต่อทุกๆ turn)",
           "coinlist": [
             {}
           ]
@@ -278,7 +278,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, มอบ [Laceration] Count equal to their Speed difference (Max 2)"
+                  "desc": "[OnSucceedAttack] If this unit is faster than the target, มอบ [Laceration] Count equal to their Speed difference (สูงสุด 2)"
                 }
               ]
             }
@@ -306,7 +306,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, มอบ [Laceration] Count equal to their Speed difference (Max 3)"
+                  "desc": "[OnSucceedAttack] If this unit is faster than the target, มอบ [Laceration] Count equal to their Speed difference (สูงสุด 3)"
                 }
               ]
             }
@@ -334,7 +334,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, มอบ [Laceration] Count equal to their Speed difference (Max 4)"
+                  "desc": "[OnSucceedAttack] If this unit is faster than the target, มอบ [Laceration] Count equal to their Speed difference (สูงสุด 4)"
                 }
               ]
             }
@@ -348,12 +348,12 @@
         {
           "level": 3,
           "name": "<line-height=120%>พุ่งชนpage\u200B</line-height>",
-          "desc": "เมื่อมี 8+ Speed, แต้มเหรียญ +1\nทำ more ความเสียหาย basedบนtarget's missing HP (+0.3% ความเสียหาย per 1% missing HP)",
+          "desc": "เมื่อมี 8+ Speed, แต้มเหรียญ +1\nทำ more ความเสียหาย basedบนเป้าหมาย's missing HP (+0.3% ความเสียหาย ต่อทุกๆ 1% missing HP)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟู 1 ค่าสติ per [Laceration]บนtarget (Max 5)"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟู 1 ค่าสติ ต่อทุกๆ [Laceration]บนเป้าหมาย (สูงสุด 5)"
                 }
               ]
             },
@@ -377,12 +377,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>พุ่งชนpage\u200B</line-height>",
-          "desc": "เมื่อมี 6+ Speed, แต้มเหรียญ +1\nทำ more ความเสียหาย basedบนtarget's missing HP (+0.5% ความเสียหาย per 1% missing HP)",
+          "desc": "เมื่อมี 6+ Speed, แต้มเหรียญ +1\nทำ more ความเสียหาย basedบนเป้าหมาย's missing HP (+0.5% ความเสียหาย ต่อทุกๆ 1% missing HP)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟู 1 ค่าสติ per [Laceration]บนtarget (Max 10)"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟู 1 ค่าสติ ต่อทุกๆ [Laceration]บนเป้าหมาย (สูงสุด 10)"
                 }
               ]
             },
@@ -411,7 +411,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Quickness\u200B</line-height>",
-          "desc": "[OnSucceedEvade] ได้รับ 1 [Agility] ในเทิร์นหน้า (3 times per turn)",
+          "desc": "[OnSucceedEvade] ได้รับ 1 [Agility] ในเทิร์นหน้า (3 times ต่อทุกๆ turn)",
           "coinlist": [
             {}
           ]
@@ -419,7 +419,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Quickness\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 7+ [Laceration], ได้รับ +2 เหรียญ Power\n[OnSucceedEvade] ได้รับ 1 [Agility] ในเทิร์นหน้า (3 times per turn)",
+          "desc": "หากเป้าหมายมี 7+ [Laceration], ได้รับ +2 เหรียญ Power\n[OnSucceedEvade] ได้รับ 1 [Agility] ในเทิร์นหน้า (3 times ต่อทุกๆ turn)",
           "coinlist": [
             {}
           ]
@@ -538,7 +538,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Cyclical Knowledge\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 2+ [KnowledgeExplored], ได้รับ แต้มเหรียญ equal to [KnowledgeExplored]\n[WhenUse] ทำ  +1.5% more ความเสียหาย per [Sinking]บนtarget (Max 15%)",
+          "desc": "[WhenUse] เมื่อมี 2+ [KnowledgeExplored], ได้รับ แต้มเหรียญ equal to [KnowledgeExplored]\n[WhenUse] ทำ +1.5% more ความเสียหาย ต่อทุกๆ [Sinking]บนเป้าหมาย (สูงสุด 15%)",
           "coinlist": [
             {},
             {},
@@ -557,7 +557,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Cyclical Knowledge\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 2+ [KnowledgeExplored], ได้รับ แต้มเหรียญ equal to [KnowledgeExplored]\n[WhenUse] ทำ  +3% more ความเสียหาย per [Sinking]บนtarget (Max 30%)",
+          "desc": "[WhenUse] เมื่อมี 2+ [KnowledgeExplored], ได้รับ แต้มเหรียญ equal to [KnowledgeExplored]\n[WhenUse] ทำ +3% more ความเสียหาย ต่อทุกๆ [Sinking]บนเป้าหมาย (สูงสุด 30%)",
           "coinlist": [
             {},
             {},
@@ -788,7 +788,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>You're the Culprit!\u200B</line-height>",
-          "desc": "[WhenUse] แต้มปะทะ +1 for every <style=\"highlight\">6</style> [Vibration]บนtarget <style=\"highlight\">(max 2)</style>\n[WhenUse] เมื่อมี <style=\"highlight\"> less than 15 [Vibration] Countบนself</style>, consume 10 [Vibration] Count to ได้รับ แต้มเหรียญ +2\n<style=\"highlight\">[WhenUse] Consume 15 [Vibration] Countบนself to ได้รับ แต้มเหรียญ +3</style>",
+          "desc": "[WhenUse] แต้มปะทะ +1 for every <style=\"highlight\">6</style> [Vibration]บนเป้าหมาย <style=\"highlight\">(สูงสุด 2)</style>\n[WhenUse] เมื่อมี <style=\"highlight\"> less than 15 [Vibration] Countบนself</style>, consume 10 [Vibration] Count to ได้รับ แต้มเหรียญ +2\n<style=\"highlight\">[WhenUse] Consume 15 [Vibration] Countบนself to ได้รับ แต้มเหรียญ +3</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -828,7 +828,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wait?!\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 x ([Vibration] Countบนtarget)เป็นShield HP (max 7)",
+          "desc": "[WhenUse] ได้รับ 2 x ([Vibration] Countบนเป้าหมาย)เป็นShield HP (สูงสุด 7)",
           "coinlist": [
             {}
           ]
@@ -836,7 +836,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Wait?!\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 x ([Vibration] Countบนtarget)เป็นShield HP (max <style=\"highlight\">13</style>)",
+          "desc": "[WhenUse] ได้รับ 2 x ([Vibration] Countบนเป้าหมาย)เป็นShield HP (สูงสุด <style=\"highlight\">13</style>)",
           "coinlist": [
             {}
           ]
@@ -1041,7 +1041,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 15+ [Burst], or has less than 30% HP, Reuse this เหรียญ (once per Skill)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 15+ [Burst], or has less than 30% HP, Reuse this เหรียญ (once ต่อทุกๆ Skill)"
                 }
               ]
             }
@@ -1069,7 +1069,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Emergency Styptics\u200B</line-height>",
-          "desc": "[StartBattle] เสีย 2 [Laceration]Potencyบนself (3 times per turn. If [Laceration]Potency drops to 0 or less, the [Laceration] effect expires)",
+          "desc": "[StartBattle] เสีย 2 [Laceration]Potencyบนself (3 times ต่อทุกๆ turn. If [Laceration]Potency drops to 0 or less, the [Laceration] effect expires)",
           "coinlist": [
             {
               "coindescs": [
@@ -1402,7 +1402,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Combat Poise\u200B</line-height>",
-          "desc": "Turn Start: at 0 [Bullet], activate 'Beyond the Shadow' instead\n[OnSucceedEvade] ได้รับ 1 [Breath] (3 times per turn)",
+          "desc": "Turn Start: at 0 [Bullet], activate 'Beyond the Shadow' instead\n[OnSucceedEvade] ได้รับ 1 [Breath] (3 times ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1416,7 +1416,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Combat Poise\u200B</line-height>",
-          "desc": "Turn Start: at 0 [Bullet], activate 'Beyond the Shadow' instead\n[OnSucceedEvade] ได้รับ 1 [Breath] (<style=\"highlight\">5</style> times per turn)",
+          "desc": "Turn Start: at 0 [Bullet], activate 'Beyond the Shadow' instead\n[OnSucceedEvade] ได้รับ 1 [Breath] (<style=\"highlight\">5</style> times ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1657,7 +1657,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Beyond the Shadow\u200B</line-height>",
-          "desc": "[DuelCounter]\n[WhenUse] ได้รับ +2 [Breath] Count\n[EndBattle] [FullReload] (once per Encounter)",
+          "desc": "[DuelCounter]\n[WhenUse] ได้รับ +2 [Breath] Count\n[EndBattle] [FullReload] (once ต่อทุกๆ Encounter)",
           "coinlist": [
             {
               "coindescs": [
@@ -1678,7 +1678,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Beyond the Shadow\u200B</line-height>",
-          "desc": "[DuelCounter]\n<style=\"highlight\">+20% ความเสียหายบนCritical Hit</style>\n[WhenUse] ได้รับ +2 [Breath] Count\n[EndBattle] [FullReload] (once per Encounter)",
+          "desc": "[DuelCounter]\n<style=\"highlight\">+20% ความเสียหายบนCritical Hit</style>\n[WhenUse] ได้รับ +2 [Breath] Count\n[EndBattle] [FullReload] (once ต่อทุกๆ Encounter)",
           "coinlist": [
             {
               "coindescs": [

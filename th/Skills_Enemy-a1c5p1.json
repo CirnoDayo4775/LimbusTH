@@ -32,7 +32,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ข่วน\u200B</line-height>",
-                    "desc": "หากเป้าหมายมี 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, ทำ  +20% ความเสียหาย.",
+                    "desc": "หากเป้าหมายมี 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, ทำ +20% ความเสียหาย.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -153,14 +153,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] ทำ  +30% ความเสียหาย"
+                                    "desc": "[OnSucceedAttackTail] ทำ +30% ความเสียหาย"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] ทำ  +30% ความเสียหาย"
+                                    "desc": "[OnSucceedAttackTail] ทำ +30% ความเสียหาย"
                                 }
                             ]
                         }
@@ -243,14 +243,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] ทำ  +30% ความเสียหาย"
+                                    "desc": "[OnSucceedAttackTail] ทำ +30% ความเสียหาย"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] ทำ  +30% ความเสียหาย"
+                                    "desc": "[OnSucceedAttackTail] ทำ +30% ความเสียหาย"
                                 }
                             ]
                         }
@@ -556,7 +556,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Shrieking Waves\u200B</line-height>",
-                    "desc": "Damage +20% per 5 [Sinking] Potencyบนtarget\nIf target's ค่าสติ is below 0, ทำ  +10% ความเสียหาย",
+                    "desc": "Damage +20% ต่อทุกๆ 5 [Sinking] Potencyบนเป้าหมาย\nIf target's ค่าสติ is below 0, ทำ +10% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -674,7 +674,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration] Count\nทำ bonus ความเสียหาย equal to <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>บนtarget"
+                                    "desc": "[OnSucceedAttack] มอบ 3 [Laceration] Count\nทำ bonus ความเสียหาย equal to <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>บนเป้าหมาย"
                                 },
                                 {
                                     "desc": "Spend 1 Ammo"

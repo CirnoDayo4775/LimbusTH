@@ -60,7 +60,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Slothful Press\u200B</line-height>",
-          "desc": "[WhenUse] If this unit's Speed is faster than the target's, แต้มปะทะ +1 for each Speed difference (max 3)",
+          "desc": "[WhenUse] If this unit's Speed is faster than the target's, แต้มปะทะ +1 for each Speed difference (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -182,7 +182,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ravenous Devouring\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 5+ [Burst], มอบ 2 [DefenseDown]\nได้รับ +1 Base Power for every [TakeHpHealIncrease] valueบนself (max 3)",
+          "desc": "[WhenUse] หากเป้าหมายมี 5+ [Burst], มอบ 2 [DefenseDown]\nได้รับ +1 Base Power for every [TakeHpHealIncrease] valueบนself (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -308,7 +308,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration]equal to [Burst]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration]equal to [Burst]บนเป้าหมาย"
                 }
               ]
             }
@@ -556,7 +556,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 20+ [Laceration], ทำ  +100% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 20+ [Laceration], ทำ +100% more ความเสียหาย"
                 },
                 {
                   "desc": "[EnemyKill] Reuse this Skill (1 time max)"
@@ -625,7 +625,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
@@ -711,28 +711,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ฟื้นฟูHP เท่ากับ70% ของความเสียหายที่ทำไป"

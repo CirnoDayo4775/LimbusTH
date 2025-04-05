@@ -157,7 +157,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Risky Judgement\u200B</line-height>",
-          "desc": "เมื่อมี 5+ [Vibration] Count, แต้มเหรียญ +1\nหากเป้าหมายมี 6+ [Sinking], ทำ  +20% ความเสียหาย",
+          "desc": "เมื่อมี 5+ [Vibration] Count, แต้มเหรียญ +1\nหากเป้าหมายมี 6+ [Sinking], ทำ +20% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -191,7 +191,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Risky Judgement\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 for every 5 [Vibration] Countบนself (Max 2)\nหากเป้าหมายมี 6+ [Sinking], ทำ  +40% ความเสียหาย",
+          "desc": "แต้มเหรียญ +1 for every 5 [Vibration] Countบนself (สูงสุด 2)\nหากเป้าหมายมี 6+ [Sinking], ทำ +40% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -230,7 +230,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Nimble Steps\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 [Burst] [Protection] (6 times per turn)",
+          "desc": "[WhenUse] ได้รับ 2 [Burst] [Protection] (6 times ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -249,7 +249,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>To Me!\u200B</line-height>",
-          "desc": "[WhenUse] ในเทิร์นหน้า, the leftmost Skill Slot of 1 other ally with the highest Max HP ได้รับs +(highest Reson.) [Aggro] (Once per turn)",
+          "desc": "[WhenUse] ในเทิร์นหน้า, the leftmost Skill Slot of 1 other ally with the highest Max HP ได้รับs +(highest Reson.) [Aggro] (Once ต่อทุกๆ turn)",
           "coinlist": [
             {},
             {
@@ -264,7 +264,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>To Me!\u200B</line-height>",
-          "desc": "[WhenUse] ในเทิร์นหน้า, the leftmost Skill Slot of 1 other ally with the highest Max HP ได้รับs +(highest Reson.) [Aggro] (Once per turn)\n- เมื่อมี 4+ highest A-Reson., มอบ 1 [Protection] to the ally ในเทิร์นหน้า when they ได้รับ Aggro (Once per turn)",
+          "desc": "[WhenUse] ในเทิร์นหน้า, the leftmost Skill Slot of 1 other ally with the highest Max HP ได้รับs +(highest Reson.) [Aggro] (Once ต่อทุกๆ turn)\n- เมื่อมี 4+ highest A-Reson., มอบ 1 [Protection] to the ally ในเทิร์นหน้า when they ได้รับ Aggro (Once ต่อทุกๆ turn)",
           "coinlist": [
             {},
             {
@@ -279,7 +279,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>To Me!\u200B</line-height>",
-          "desc": "<style=\"highlight\">[StartBattle] มอบ 2 Defense Level Up to 2 allies adjacent to this unitบนthe Dashboard</style>\n[WhenUse] ในเทิร์นหน้า, the leftmost Skill Slot of 1 other ally with the highest Max HP ได้รับs +(highest Reson.) [Aggro] (Once per turn)\n- เมื่อมี 4+ highest A-Reson., มอบ 1 [Protection] to the ally ในเทิร์นหน้า when they ได้รับ Aggro (Once per turn)",
+          "desc": "<style=\"highlight\">[StartBattle] มอบ 2 Defense Level Up to 2 allies adjacent to this unitบนthe Dashboard</style>\n[WhenUse] ในเทิร์นหน้า, the leftmost Skill Slot of 1 other ally with the highest Max HP ได้รับs +(highest Reson.) [Aggro] (Once ต่อทุกๆ turn)\n- เมื่อมี 4+ highest A-Reson., มอบ 1 [Protection] to the ally ในเทิร์นหน้า when they ได้รับ Aggro (Once ต่อทุกๆ turn)",
           "coinlist": [
             {},
             {
@@ -370,7 +370,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Harpoon of Obsession\u200B</line-height>",
-          "desc": "ทำ more ความเสียหาย basedบนtarget's missing HP (+0.2% ความเสียหาย per 1% missing HP, max +20%)\n[EndSkill] If target is Staggered or defeated, (1+(highest A-Reson./2)) allies with the least ค่าสติ ฟื้นฟู 10 SP, ได้รับ 2 Poise, และ +4 Poise Count. (2 times max. Max # of allies that can be ฟื้นฟูed: 4)",
+          "desc": "ทำ more ความเสียหาย basedบนเป้าหมาย's missing HP (+0.2% ความเสียหาย ต่อทุกๆ 1% missing HP, max +20%)\n[EndSkill] If target is Staggered or defeated, (1+(highest A-Reson./2)) allies with the least ค่าสติ ฟื้นฟู 10 SP, ได้รับ 2 Poise, และ +4 Poise Count. (2 times max. Max # of allies that can be ฟื้นฟูed: 4)",
           "coinlist": [
             {},
             {
@@ -399,7 +399,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Harpoon of Obsession\u200B</line-height>",
-          "desc": "ทำ more ความเสียหาย basedบนtarget's missing HP (+0.3% ความเสียหาย per 1% missing HP, max +30%)\nแต้มเหรียญ +1 for every 5 [Laceration]บนtarget (Max 2)\n[EndSkill] If target is Staggered or defeated, (1+(highest A-Reson./2)) allies with the least ค่าสติ ฟื้นฟู 10 SP, ได้รับ 2 Poise, และ ได้รับ +4 Poise Count. (4 times max. Max # of allies that can be ฟื้นฟูed: 4)",
+          "desc": "ทำ more ความเสียหาย basedบนเป้าหมาย's missing HP (+0.3% ความเสียหาย ต่อทุกๆ 1% missing HP, max +30%)\nแต้มเหรียญ +1 for every 5 [Laceration]บนเป้าหมาย (สูงสุด 2)\n[EndSkill] If target is Staggered or defeated, (1+(highest A-Reson./2)) allies with the least ค่าสติ ฟื้นฟู 10 SP, ได้รับ 2 Poise, และ ได้รับ +4 Poise Count. (4 times max. Max # of allies that can be ฟื้นฟูed: 4)",
           "coinlist": [
             {},
             {
@@ -698,7 +698,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-          "desc": "[OnSucceedEvade] ฟื้นฟู 5 ค่าสติ (once per turn)",
+          "desc": "[OnSucceedEvade] ฟื้นฟู 5 ค่าสติ (once ต่อทุกๆ turn)",
           "coinlist": [
             {}
           ]
@@ -711,7 +711,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Zwei Knight's Greatsword Form\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [DefenseUp] for every 4 [Vibration] Countบนself (max 2)",
+          "desc": "[WhenUse] ได้รับ +2 [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [DefenseUp] for every 4 [Vibration] Countบนself (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -738,7 +738,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Zwei Knight's Greatsword Form\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [DefenseUp] for every <style=\"highlight\">3</style> [Vibration] Countบนself (max 2)\n<style=\"highlight\">[WhenUse] เมื่อมี 4+ [DefenseUp], Base Power +1</style>",
+          "desc": "[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [DefenseUp] for every <style=\"highlight\">3</style> [Vibration] Countบนself (สูงสุด 2)\n<style=\"highlight\">[WhenUse] เมื่อมี 4+ [DefenseUp], Base Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -765,7 +765,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Zwei Knight's Greatsword Form\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +3 [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [DefenseUp] for every <style=\"highlight\">2</style> [Vibration] Countบนself (max <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">Base Power +1 for every 4 [DefenseUp] (max 2)</style>",
+          "desc": "[WhenUse] ได้รับ +3 [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [DefenseUp] for every <style=\"highlight\">2</style> [Vibration] Countบนself (สูงสุด <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">Base Power +1 for every 4 [DefenseUp] (สูงสุด 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -797,7 +797,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Can't Let You Through.\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +3 [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [DefenseUp] for every 2 [Vibration] Countบนself (max 3)\n[WinDuel] ได้รับ [Vibration] +3 ขั้น",
+          "desc": "[WhenUse] ได้รับ +3 [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [DefenseUp] for every 2 [Vibration] Countบนself (สูงสุด 3)\n[WinDuel] ได้รับ [Vibration] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -816,7 +816,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Vibration] equal to (([Vibration] Countบนself)/2) (max 2)"
+                  "desc": "[OnSucceedAttack] มอบ [Vibration] equal to (([Vibration] Countบนself)/2) (สูงสุด 2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] เมื่อมี 10+ [DefenseUp], มอบ 1 [Reduction]"
@@ -828,7 +828,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Can't Let You Through.\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +3 [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [DefenseUp] for every 2 [Vibration] Countบนself (max <style=\"highlight\">4</style>)\n<style=\"highlight\">[WhenUse] เมื่อมี 5+ [DefenseUp], แต้มเหรียญ +1</style>\n[WinDuel] ได้รับ [Vibration] +3 ขั้น",
+          "desc": "[WhenUse] ได้รับ +3 [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [DefenseUp] for every 2 [Vibration] Countบนself (สูงสุด <style=\"highlight\">4</style>)\n<style=\"highlight\">[WhenUse] เมื่อมี 5+ [DefenseUp], แต้มเหรียญ +1</style>\n[WinDuel] ได้รับ [Vibration] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -847,7 +847,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Vibration] equal to (([Vibration] Countบนself)/2) (max <style=\"highlight\">3</style>)"
+                  "desc": "[OnSucceedAttack] มอบ [Vibration] equal to (([Vibration] Countบนself)/2) (สูงสุด <style=\"highlight\">3</style>)"
                 },
                 {
                   "desc": "[OnSucceedAttack] เมื่อมี 10+ [DefenseUp], มอบ 1 [Reduction]"
@@ -859,7 +859,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Can't Let You Through.\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +<style=\"highlight\">5</style> [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [DefenseUp] for every 2 [Vibration] Countบนself (max <style=\"highlight\">5</style>)\n[WhenUse] เมื่อมี <style=\"highlight\">4</style>+ [DefenseUp], แต้มเหรียญ +1\n[WinDuel] ได้รับ [Vibration] +3 ขั้น",
+          "desc": "[WhenUse] ได้รับ +<style=\"highlight\">5</style> [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [DefenseUp] for every 2 [Vibration] Countบนself (สูงสุด <style=\"highlight\">5</style>)\n[WhenUse] เมื่อมี <style=\"highlight\">4</style>+ [DefenseUp], แต้มเหรียญ +1\n[WinDuel] ได้รับ [Vibration] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -878,7 +878,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Vibration] equal to (([Vibration] Countบนself)/2) (max <style=\"highlight\">4</style>)"
+                  "desc": "[OnSucceedAttack] มอบ [Vibration] equal to (([Vibration] Countบนself)/2) (สูงสุด <style=\"highlight\">4</style>)"
                 },
                 {
                   "desc": "[OnSucceedAttack] เมื่อมี <style=\"highlight\">8</style>+ [DefenseUp], มอบ 1 [Reduction]"
@@ -895,7 +895,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Ward\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 1 [DefenseUp] for every 2 [Vibration] Countบนself (max 3)\n[WhenUse] If this unit is in [DefensiveStance], ทำ  +50% more ความเสียหาย\n[WhenUse] แต้มเหรียญ +1 for every 4 [DefenseUp]บนself (max 2)\n[WhenUse] ได้รับ +8 [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WinDuel] ได้รับ [Vibration] +3 ขั้น",
+          "desc": "[WhenUse] ได้รับ 1 [DefenseUp] for every 2 [Vibration] Countบนself (สูงสุด 3)\n[WhenUse] If this unit is in [DefensiveStance], ทำ +50% more ความเสียหาย\n[WhenUse] แต้มเหรียญ +1 for every 4 [DefenseUp]บนself (สูงสุด 2)\n[WhenUse] ได้รับ +8 [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WinDuel] ได้รับ [Vibration] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -914,7 +914,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume all [Vibration] Countบนself, และ มอบ the value of the Count consumedเป็น[Vibration]บนtarget. (max 10)\n- ทำ  +(excess [Vibration] x 1.5)% more ความเสียหาย (max 30%)"
+                  "desc": "[OnSucceedAttack] Consume all [Vibration] Countบนself, และ มอบ the value of the Count consumedเป็น[Vibration]บนเป้าหมาย. (สูงสุด 10)\n- ทำ +(excess [Vibration] x 1.5)% more ความเสียหาย (สูงสุด 30%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
@@ -929,7 +929,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Ward\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 1 [DefenseUp] for every 2 [Vibration] Countบนself (max <style=\"highlight\">5</style>)\n[WhenUse] If this unit is in [DefensiveStance], ทำ  +<style=\"highlight\">70</style>% more ความเสียหาย\n[WhenUse] แต้มเหรียญ +1 for every 4 [DefenseUp]บนself (max <style=\"highlight\">4</style>)\n[WhenUse] ได้รับ +<style=\"highlight\">10</style> [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WinDuel] ได้รับ [Vibration] +3 ขั้น",
+          "desc": "[WhenUse] ได้รับ 1 [DefenseUp] for every 2 [Vibration] Countบนself (สูงสุด <style=\"highlight\">5</style>)\n[WhenUse] If this unit is in [DefensiveStance], ทำ +<style=\"highlight\">70</style>% more ความเสียหาย\n[WhenUse] แต้มเหรียญ +1 for every 4 [DefenseUp]บนself (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] ได้รับ +<style=\"highlight\">10</style> [Aggro] to this Skill Slot ในเทิร์นหน้า\n[WinDuel] ได้รับ [Vibration] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -948,7 +948,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume all [Vibration] Countบนself, และ มอบ the value of the Count consumedเป็น[Vibration]บนtarget. (max <style=\"highlight\">20</style>)\n- ทำ  +(excess [Vibration] x <style=\"highlight\">5</style>)% more ความเสียหาย (max <style=\"highlight\">50</style>%)"
+                  "desc": "[OnSucceedAttack] Consume all [Vibration] Countบนself, และ มอบ the value of the Count consumedเป็น[Vibration]บนเป้าหมาย. (สูงสุด <style=\"highlight\">20</style>)\n- ทำ +(excess [Vibration] x <style=\"highlight\">5</style>)% more ความเสียหาย (สูงสุด <style=\"highlight\">50</style>%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
@@ -968,7 +968,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Your Shield\u200B</line-height>",
-          "desc": "[CanDuelGuard]\n[StartBattle] ได้รับ 2 [DefensiveStance]. (once per turn)\n[WhenUse] ได้รับ [Vibration] +0 ขั้น (once per turn)",
+          "desc": "[CanDuelGuard]\n[StartBattle] ได้รับ 2 [DefensiveStance]. (once ต่อทุกๆ turn)\n[WhenUse] ได้รับ [Vibration] +0 ขั้น (once ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -982,7 +982,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Your Shield\u200B</line-height>",
-          "desc": "[CanDuelGuard]\n[StartBattle] ได้รับ 2 [DefensiveStance]. (once per turn)\n[WhenUse] ได้รับ [Vibration] +0 ขั้น (once per turn)\n<style=\"highlight\">[WinDuel] Trigger [VibrationExplosion]</style>",
+          "desc": "[CanDuelGuard]\n[StartBattle] ได้รับ 2 [DefensiveStance]. (once ต่อทุกๆ turn)\n[WhenUse] ได้รับ [Vibration] +0 ขั้น (once ต่อทุกๆ turn)\n<style=\"highlight\">[WinDuel] Trigger [VibrationExplosion]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1049,7 +1049,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Clean Up\u200B</line-height>",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 6 [Laceration]บนtarget (max 2)\nทำ +10% more ความเสียหาย for every type of negative effectบนtarget (max 30%)</style>",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 6 [Laceration]บนเป้าหมาย (สูงสุด 2)\nทำ +10% more ความเสียหาย for every type of negative effectบนเป้าหมาย (สูงสุด 30%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1078,7 +1078,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Sharpened Blade\u200B</line-height>",
-          "desc": "[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: มอบ 1 [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan allies, including this unit, มอบ 2 [AttackDmgUp] to 5 allies instead",
+          "desc": "[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: มอบ 1 [AttackDmgUp] (once ต่อทุกๆ turn)\n- If there are 6+ Kurokumo Clan allies, including this unit, มอบ 2 [AttackDmgUp] to 5 allies instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1099,7 +1099,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Sharpened Blade\u200B</line-height>",
-          "desc": "<style=\"highlight\">หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\n[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: มอบ <style=\"highlight\">2</style> [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan units, including this unit, มอบ <style=\"highlight\">3</style> [AttackDmgUp] to 5 allies instead",
+          "desc": "<style=\"highlight\">หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\n[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: มอบ <style=\"highlight\">2</style> [AttackDmgUp] (once ต่อทุกๆ turn)\n- If there are 6+ Kurokumo Clan units, including this unit, มอบ <style=\"highlight\">3</style> [AttackDmgUp] to 5 allies instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1107,7 +1107,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] มอบ 1 [SlashTakeDamageUp] (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] มอบ 1 [SlashTakeDamageUp] (once ต่อทุกๆ turn)</style>"
                 }
               ]
             },
@@ -1117,7 +1117,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] ได้รับ 1 [SlashResultUp] ในเทิร์นหน้า (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] ได้รับ 1 [SlashResultUp] ในเทิร์นหน้า (once ต่อทุกๆ turn)</style>"
                 }
               ]
             }
@@ -1126,7 +1126,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Sharpened Blade\u200B</line-height>",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 6 [Laceration]บนtarget (max 2)\nทำ +10% more ความเสียหาย for every type of negative effectบนtarget (max 50%)</style>\n[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: มอบ 2 [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan units, including this unit, มอบ 4 [AttackDmgUp] to 5 allies instead",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 6 [Laceration]บนเป้าหมาย (สูงสุด 2)\nทำ +10% more ความเสียหาย for every type of negative effectบนเป้าหมาย (สูงสุด 50%)</style>\n[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: มอบ 2 [AttackDmgUp] (once ต่อทุกๆ turn)\n- If there are 6+ Kurokumo Clan units, including this unit, มอบ 4 [AttackDmgUp] to 5 allies instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1134,7 +1134,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ 1 [SlashTakeDamageUp] (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 [SlashTakeDamageUp] (once ต่อทุกๆ turn)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">- If there are 6+ Kurokumo Clan units, including this unit, มอบ 2 [Vulnerable] instead</style>"
@@ -1147,7 +1147,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 1 [SlashResultUp] ในเทิร์นหน้า (<style=\"highlight\">2 times</style> per turn)"
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [SlashResultUp] ในเทิร์นหน้า (<style=\"highlight\">2 times</style> ต่อทุกๆ turn)"
                 }
               ]
             }
@@ -1180,7 +1180,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration]บนtarget 3 times; then, reduce their [Laceration]Count ไป 3"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนเป้าหมาย 3 times; then, reduce their [Laceration]Count ไป 3"
                 }
               ]
             }
@@ -1189,7 +1189,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Ink Over\u200B</line-height>",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 6 [Laceration]บนtarget (max 2)\n[EnemyKill] ได้รับ 2 [SlashResultUp] ในเทิร์นหน้า (once per turn)</style>",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 for every 6 [Laceration]บนเป้าหมาย (สูงสุด 2)\n[EnemyKill] ได้รับ 2 [SlashResultUp] ในเทิร์นหน้า (once ต่อทุกๆ turn)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1208,10 +1208,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">ทำ +10% more ความเสียหาย for every type of negative effectบนtarget (max 100%)</style>"
+                  "desc": "<style=\"highlight\">ทำ +10% more ความเสียหาย for every type of negative effectบนเป้าหมาย (สูงสุด 100%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration]บนtarget 3 times; then, reduce their [Laceration]Count ไป 3<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนเป้าหมาย 3 times; then, reduce their [Laceration]Count ไป 3<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1225,7 +1225,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Scattering Slash\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 1 [Protection] (once per turn)",
+          "desc": "[StartBattle] ได้รับ 1 [Protection] (once ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1239,7 +1239,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Scattering Slash\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 1 [Protection] (once per turn)\n<style=\"highlight\">[StartBattle]บน(2 + highest Reson.) allied Kurokumo Clan Identities, including this unit, with the fastest Speed: มอบ 2 [Endurance] (once per turn)</style>",
+          "desc": "[StartBattle] ได้รับ 1 [Protection] (once ต่อทุกๆ turn)\n<style=\"highlight\">[StartBattle]บน(2 + highest Reson.) allied Kurokumo Clan Identities, including this unit, with the fastest Speed: มอบ 2 [Endurance] (once ต่อทุกๆ turn)</style>",
           "coinlist": [
             {
               "coindescs": [

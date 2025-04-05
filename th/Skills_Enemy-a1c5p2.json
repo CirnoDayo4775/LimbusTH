@@ -11,14 +11,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] ทำ  2 ความเสียหายค่าสติ"
+                                    "desc": "[OnSucceedAttackTail] ทำ 2 ความเสียหายค่าสติ"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] ทำ  2 ความเสียหายค่าสติ"
+                                    "desc": "[OnSucceedAttackTail] ทำ 2 ความเสียหายค่าสติ"
                                 }
                             ]
                         }
@@ -32,7 +32,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Engrave Horror\u200B</line-height>",
-                    "desc": "[WinDuel] ทำ  10 ความเสียหายค่าสติ to target; this unit ฟื้นฟู 10 HP",
+                    "desc": "[WinDuel] ทำ 10 ความเสียหายค่าสติ to target; this unit ฟื้นฟู 10 HP",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -56,7 +56,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] ทำ  3 ความเสียหายค่าสติ"
+                                    "desc": "[OnSucceedAttackTail] ทำ 3 ความเสียหายค่าสติ"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ30% ของความเสียหายที่ทำไป"
@@ -66,7 +66,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] ทำ  3 ความเสียหายค่าสติ"
+                                    "desc": "[OnSucceedAttackTail] ทำ 3 ความเสียหายค่าสติ"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ30% ของความเสียหายที่ทำไป"
@@ -83,7 +83,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Paralyze Mind\u200B</line-height>",
-                    "desc": "If target's ค่าสติ is below -15, ทำ  +50% ความเสียหาย",
+                    "desc": "If target's ค่าสติ is below -15, ทำ +50% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -234,7 +234,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.-.. -\u200B</line-height>",
-                    "desc": "[WinDuel] ทำ  1 ความเสียหายค่าสติ to target for each surviving Pallidified ally (not counting this unit)",
+                    "desc": "[WinDuel] ทำ 1 ความเสียหายค่าสติ to target for each surviving Pallidified ally (not counting this unit)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -420,7 +420,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>.--. .\u200B</line-height>",
-                    "desc": "[StartBattle] ได้รับ 1 [Protection] for every 2 Pallidified ally (not counting this unit)\nWhen attacked while this unit has Shield, มอบ 1 [Vibration] to the attacker",
+                    "desc": "[StartBattle] ได้รับ 1 [Protection] for every 2 Pallidified ally (not counting this unit)\nWhen attacked while this unit has Shield, มอบ 1 [Vibration] แก่ผู้โจมตี",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -509,7 +509,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>--. . ...-\u200B</line-height>",
-                    "desc": "หากเป้าหมายมี <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Pallid Noise</link></u></color>, ทำ  1 ความเสียหายค่าสติ to target for every other surviving ally",
+                    "desc": "หากเป้าหมายมี <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Pallid Noise</link></u></color>, ทำ 1 ความเสียหายค่าสติ to target for every other surviving ally",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -659,7 +659,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>-- .... -\u200B</line-height>",
-                    "desc": "[WhenUse] ได้รับ 1 [Protection] for every surviving ally. (Max 3)",
+                    "desc": "[WhenUse] ได้รับ 1 [Protection] for every surviving ally. (สูงสุด 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -741,7 +741,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ทำ  additional  ความเสียหายตรง equal to the number of the Middle allies killed during this wave"
+                                    "desc": "[OnSucceedAttack] ทำ additional  ความเสียหายตรง equal to the number of the Middle allies killed during this wave"
                                 }
                             ]
                         }
@@ -831,7 +831,7 @@
                                     "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 30"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ทำ  20 fixed HP ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] ทำ 20 fixed HP ความเสียหาย"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 3 [Paralysis] ในเทิร์นหน้า"
@@ -879,7 +879,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ทำ  additional  ความเสียหายตรง equal to the number of the Middle allies killed during this wave"
+                                    "desc": "[OnSucceedAttack] ทำ additional  ความเสียหายตรง equal to the number of the Middle allies killed during this wave"
                                 }
                             ]
                         }
@@ -969,7 +969,7 @@
                                     "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 30"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ทำ  20 fixed HP ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] ทำ 20 fixed HP ความเสียหาย"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"

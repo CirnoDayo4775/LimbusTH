@@ -67,7 +67,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>...mmands...!\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Sinking]บนtarget (max 3)\n[WinDuel] All allies ฟื้นฟู 5 SP",
+          "desc": "[WhenUse] Base Power +1 for every 3 [Sinking]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] All allies ฟื้นฟู 5 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -109,26 +109,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>...of Dust\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 6 [Sinking]บนtarget (max 3)\n[WhenUse] ทำ  +10% more ความเสียหาย for every 6 [Sinking] Countบนtarget (max 30%)",
+          "desc": "[WhenUse] Base Power +1 for every 6 [Sinking]บนเป้าหมาย (สูงสุด 3)\n[WhenUse] ทำ +10% more ความเสียหาย for every 6 [Sinking] Countบนเป้าหมาย (สูงสุด 30%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking]บนtarget. Reduce [Sinking] Countบนtarget ไป 1"
+                  "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking]บนเป้าหมาย. Reduce [Sinking] Countบนเป้าหมาย ไป 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking]บนtarget. Reduce [Sinking] Countบนtarget ไป 1"
+                  "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking]บนเป้าหมาย. Reduce [Sinking] Countบนเป้าหมาย ไป 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking]บนtarget."
+                  "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking]บนเป้าหมาย."
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
@@ -192,14 +192,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [AttackDown], ทำ  20% ของความเสียหายที่ทำไปเป็นbonus Blunt ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [AttackDown], ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหายทุบ"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [AttackDown], ทำ  20% ของความเสียหายที่ทำไปเป็นbonus Blunt ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [AttackDown], ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหายทุบ"
                 }
               ]
             }
@@ -213,7 +213,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Make Things...\u200B</line-height>",
-          "desc": "[WinDuel] หากเป้าหมายมี 2+ [AttackDown], Base Power +1\n[WhenUse] หากเป้าหมายมี [DefenseDown], ทำ  30% ของความเสียหายที่ทำไปเป็นbonus Blunt ความเสียหาย",
+          "desc": "[WinDuel] หากเป้าหมายมี 2+ [AttackDown], Base Power +1\n[WhenUse] หากเป้าหมายมี [DefenseDown], ทำ 30% ของความเสียหายที่ทำไปเป็นbonus ความเสียหายทุบ",
           "coinlist": [
             {},
             {
@@ -247,7 +247,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>... ove You\u200B</line-height>",
-          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most negative effects\n[WinDuel] แต้มเหรียญ +1 for every 3 [DefenseDown]บนtarget (max 3)",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most negative effects\n[WinDuel] แต้มเหรียญ +1 for every 3 [DefenseDown]บนเป้าหมาย (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -265,7 +265,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +30% more ความเสียหาย for every 2 [AttackDown]บนtarget (max 120%)"
+                  "desc": "[OnSucceedAttack] ทำ +30% more ความเสียหาย for every 2 [AttackDown]บนเป้าหมาย (สูงสุด 120%)"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 3+ negative effects, reuse this เหรียญ (once)"
@@ -368,7 +368,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Cou...oit\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 5+ negative effects, Base Power +2\n[WhenUse] หากเป้าหมายมี 5+ negative effects, ทำ  +30% more ความเสียหาย",
+          "desc": "[WhenUse] หากเป้าหมายมี 5+ negative effects, Base Power +2\n[WhenUse] หากเป้าหมายมี 5+ negative effects, ทำ +30% more ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -386,7 +386,7 @@
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ negative effects, reuse this เหรียญ (2 times max)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Remove 1 random removable negative effect appliedบนtarget"
+                  "desc": "[OnSucceedAttack] Remove 1 random removable negative effect appliedบนเป้าหมาย"
                 }
               ]
             }

@@ -120,7 +120,7 @@
                   "desc": "[CriticalOnSucceedAttack] +100% ความเสียหายบนCritical Hit"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +5% ความเสียหาย for every [Burst]บนthe target (Max 50%)"
+                  "desc": "[OnSucceedAttack] ทำ +5% ความเสียหาย for every [Burst]บนthe target (สูงสุด 50%)"
                 }
               ]
             }
@@ -134,7 +134,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Parry\u200B</line-height>",
-          "desc": "[WinDuel] ทำ  more ความเสียหาย basedบนnumber of Clashes (+10% more ความเสียหาย for every Clash, max 50%)\n[WinDuel] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 2 [Binding] ในเทิร์นหน้า",
+          "desc": "[WinDuel] ทำ more ความเสียหาย basedบนnumber of Clashes (+10% more ความเสียหาย for every Clash, max 50%)\n[WinDuel] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 2 [Binding] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -172,7 +172,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Up All Pretty!\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 for every 5 [Laceration]บนself (max 3)",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 for every 5 [Laceration]บนself (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -180,7 +180,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ใช้เหรียญซ้ำ ([BloodScissor] Stage - 1) times (max 2)"
+                  "desc": "[OnSucceedAttack] ใช้เหรียญซ้ำ ([BloodScissor] Stage - 1) times (สูงสุด 2)"
                 }
               ]
             }
@@ -194,7 +194,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Even Sharper\u200B</line-height>",
-          "desc": "[WhenUse] Consume up to 20 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner] with this Skill, ได้รับ 30 [Laceration]\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 for every 5 [Laceration]บนself (max 2)",
+          "desc": "[WhenUse] Consume up to 20 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner] with this Skill, ได้รับ 30 [Laceration]\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 for every 5 [Laceration]บนself (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -253,7 +253,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Up Too!\u200B</line-height>",
-          "desc": "[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor] (max 2)\n[WhenUse] Consume up to 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2",
+          "desc": "[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor] (สูงสุด 2)\n[WhenUse] Consume up to 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -315,7 +315,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration](max 10). The target เสีย 1 [Laceration]Count"
+                  "desc": "[WinDuelAttack] Activate the target's [Laceration](สูงสุด 10). The target เสีย 1 [Laceration]Count"
                 }
               ]
             },
@@ -328,7 +328,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Laceration]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration](max 10). The target เสีย 1 [Laceration]Count"
+                  "desc": "[WinDuelAttack] Activate the target's [Laceration](สูงสุด 10). The target เสีย 1 [Laceration]Count"
                 }
               ]
             },
@@ -341,14 +341,14 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Laceration]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration](max 10). The target เสีย 1 [Laceration]Count"
+                  "desc": "[WinDuelAttack] Activate the target's [Laceration](สูงสุด 10). The target เสีย 1 [Laceration]Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +40% more ความเสียหาย for every [BloodScissor] Stage (max 120%)"
+                  "desc": "[OnSucceedAttack] ทำ +40% more ความเสียหาย for every [BloodScissor] Stage (สูงสุด 120%)"
                 },
                 {
                   "desc": "[EnemyKill] If this เหรียญ effect killed the target, ฟื้นฟูHP เท่ากับ50% of the ความเสียหาย ทำ t aได้รับst the killed target."
@@ -365,7 +365,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>How Discourteous!\u200B</line-height>",
-          "desc": "[DuelCounter]\n[WhenUse] แต้มปะทะ +1 for every [BloodScissor] Stage (max 3)\n[WhenUse] แต้มเหรียญ +1 for every 5 [Laceration]บนself (max 3)",
+          "desc": "[DuelCounter]\n[WhenUse] แต้มปะทะ +1 for every [BloodScissor] Stage (สูงสุด 3)\n[WhenUse] แต้มเหรียญ +1 for every 5 [Laceration]บนself (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [

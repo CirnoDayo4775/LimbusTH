@@ -191,7 +191,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Weakness...\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี [Burst], Base Power +1 for every 3 [Burst] Potencyบนtarget (max 3)",
+                    "desc": "[WhenUse] หากเป้าหมายมี [Burst], Base Power +1 for every 3 [Burst] Potencyบนเป้าหมาย (สูงสุด 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -293,7 +293,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Cut You...\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี [Burst], Base Power +1 for every 2 [Burst] Countบนtarget (max 3)",
+                    "desc": "[WhenUse] หากเป้าหมายมี [Burst], Base Power +1 for every 2 ขั้น [Burst] บนเป้าหมาย (สูงสุด 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -395,7 +395,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hold... Them Ba...\u200B</line-height>",
-                    "desc": "[WhenUse] มอบ 3 ความเสียหายค่าสติ\n[WhenUse] หากเป้าหมายมี [Burst], Base Power +1 for every 4 [Burst] Potencyบนtarget (max 3)",
+                    "desc": "[WhenUse] มอบ 3 ความเสียหายค่าสติ\n[WhenUse] หากเป้าหมายมี [Burst], Base Power +1 for every 4 [Burst] Potencyบนเป้าหมาย (สูงสุด 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -497,7 +497,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Break...through\u200B</line-height>",
-                    "desc": "[WhenUse] มอบ 3 ความเสียหายค่าสติ\n[WhenUse] หากเป้าหมายมี [Burst], Base Power +1 for every 3 [Burst] Countบนtarget (max 3)",
+                    "desc": "[WhenUse] มอบ 3 ความเสียหายค่าสติ\n[WhenUse] หากเป้าหมายมี [Burst], Base Power +1 for every 3 ขั้น [Burst] บนเป้าหมาย (สูงสุด 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -938,7 +938,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Twisting\u200B</line-height>",
-                    "desc": "[WinDuel] If the target's HP is at 100%, ทำ  +30% more ความเสียหาย\n[DefeatDuel] ได้รับ 3 [DefenseDown]",
+                    "desc": "[WinDuel] If the target's HP is at 100%, ทำ +30% more ความเสียหาย\n[DefeatDuel] ได้รับ 3 [DefenseDown]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -989,14 +989,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         }
@@ -1051,14 +1051,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         }
@@ -1101,7 +1101,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Rat Herding\u200B</line-height>",
-                    "desc": "[WinDuel] If the target's HP is at 80%+, ทำ  +50% more ความเสียหาย\n[DefeatDuel] ได้รับ 2 [DefenseDown]",
+                    "desc": "[WinDuel] If the target's HP is at 80%+, ทำ +50% more ความเสียหาย\n[DefeatDuel] ได้รับ 2 [DefenseDown]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1116,7 +1116,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration]Potency, ทำ 20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         }
@@ -1145,7 +1145,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Raise target's Stagger Threshold ไป value equal to [Laceration]บนtarget"
+                                    "desc": "[OnSucceedAttack] Raise target's Stagger Threshold ไป value equal to [Laceration]บนเป้าหมาย"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 2 [Paralysis] ในเทิร์นหน้า"
@@ -1279,7 +1279,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Reception Arts 2: [Binding]\u200B</line-height>",
-                    "desc": "[WhenUse] Base Power +1 for every 5 [Sinking] Potencyบนtarget (max 2)",
+                    "desc": "[WhenUse] Base Power +1 for every 5 [Sinking] Potencyบนเป้าหมาย (สูงสุด 2)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1395,7 +1395,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Reception Arts 2: Topple\u200B</line-height>",
-                    "desc": "Base Power +1 for every 5 [Sinking] Potencyบนtarget (max 2)",
+                    "desc": "Base Power +1 for every 5 [Sinking] Potencyบนเป้าหมาย (สูงสุด 2)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1517,7 +1517,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>As Mistress Commands...!\u200B</line-height>",
-                    "desc": "[WhenUse] Base Power +1 for every 3 [Sinking] Potencyบนtarget (max 3)\n[WinDuel] All allies ฟื้นฟู 5 SP",
+                    "desc": "[WhenUse] Base Power +1 for every 3 [Sinking] Potencyบนเป้าหมาย (สูงสุด 3)\n[WinDuel] All allies ฟื้นฟู 5 SP",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1567,21 +1567,21 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking] Potencyบนtarget. Reduce [Sinking] Countบนtarget ไป 1"
+                                    "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking] Potencyบนเป้าหมาย. Reduce [Sinking] Countบนเป้าหมาย ไป 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking] Potencyบนtarget. Reduce [Sinking] Countบนtarget ไป 1"
+                                    "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking] Potencyบนเป้าหมาย. Reduce [Sinking] Countบนเป้าหมาย ไป 1"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking] Potencyบนtarget. Reduce [Sinking] Countบนtarget ไป 1"
+                                    "desc": "[OnSucceedAttack] มอบ Gloom Affinity bonus ความเสียหาย equal to [Sinking] Potencyบนเป้าหมาย. Reduce [Sinking] Countบนเป้าหมาย ไป 1"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"

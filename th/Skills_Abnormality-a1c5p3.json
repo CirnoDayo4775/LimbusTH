@@ -11,14 +11,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  ความเสียหายค่าสติ ไป the number of lit Candles"
+                  "desc": "[OnSucceedAttack] ทำ ความเสียหายค่าสติ ไป the number of lit Candles"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  ความเสียหายค่าสติ ไป the number of lit Candles"
+                  "desc": "[OnSucceedAttack] ทำ ความเสียหายค่าสติ ไป the number of lit Candles"
                 }
               ]
             }
@@ -235,7 +235,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Defense Level Down ไป [Poison]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ Defense Level Down ไป [Poison]บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 Larva"
@@ -245,7 +245,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Defense Level Down ไป [Poison]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ Defense Level Down ไป [Poison]บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 Larva"
@@ -636,7 +636,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tear Up Wound\u200B</line-height>",
-          "desc": "[WinDuel] ฟื้นฟู 5 SP.\nทำ +5% ความเสียหาย per [Laceration]บนtarget",
+          "desc": "[WinDuel] ฟื้นฟู 5 SP.\nทำ +5% ความเสียหาย ต่อทุกๆ [Laceration]บนเป้าหมาย",
           "coinlist": [
             {
               "coindescs": [
@@ -788,7 +788,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Carve Wound\u200B</line-height>",
-          "desc": "[WinDuel] ฟื้นฟู 5 SP.\nทำ +5% ความเสียหาย per [Laceration]บนtarget",
+          "desc": "[WinDuel] ฟื้นฟู 5 SP.\nทำ +5% ความเสียหาย ต่อทุกๆ [Laceration]บนเป้าหมาย",
           "coinlist": [
             {
               "coindescs": [
@@ -902,7 +902,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-          "desc": "[OnSucceedEvade] ได้รับ 1 Offense Level Up ในเทิร์นหน้า (Max 3)",
+          "desc": "[OnSucceedEvade] ได้รับ 1 Offense Level Up ในเทิร์นหน้า (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -1061,7 +1061,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Cut Throat\u200B</line-height>",
-          "desc": "This Skill does not consume Poise Count upon Critical Hit.\nทำ +5% more ความเสียหาย for every [Laceration]บนtarget\n[WhenUse] Staggered at Turn End if this unit does not have Poiseบนself.",
+          "desc": "This Skill does not consume Poise Count upon Critical Hit.\nทำ +5% more ความเสียหาย for every [Laceration]บนเป้าหมาย\n[WhenUse] Staggered at Turn End if this unit does not have Poiseบนself.",
           "coinlist": [
             {
               "coindescs": [
@@ -1179,7 +1179,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Must Finish Hunt...\u200B</line-height>",
-          "desc": "Critical Hits do not consume Poise Count with this Skill.\nทำ +5% ความเสียหาย per [Laceration]บนtarget",
+          "desc": "Critical Hits do not consume Poise Count with this Skill.\nทำ +5% ความเสียหาย ต่อทุกๆ [Laceration]บนเป้าหมาย",
           "coinlist": [
             {
               "coindescs": [
@@ -1249,7 +1249,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 Defense Level Down ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Reuse this เหรียญ อีกครั้ง (Max 3)"
+                  "desc": "[OnSucceedAttackHead] Reuse this เหรียญ อีกครั้ง (สูงสุด 3)"
                 }
               ]
             }
@@ -1282,7 +1282,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ambush\u200B</line-height>",
-          "desc": "ทำ 50% more ความเสียหาย with Critical Hit\nทำ +5% more ความเสียหาย per [Laceration]บนtarget",
+          "desc": "ทำ 50% more ความเสียหาย with Critical Hit\nทำ +5% more ความเสียหาย ต่อทุกๆ [Laceration]บนเป้าหมาย",
           "coinlist": [
             {
               "coindescs": [
@@ -1355,7 +1355,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Reuse this เหรียญ อีกครั้ง (Max 3)"
+                  "desc": "[OnSucceedAttackTail] Reuse this เหรียญ อีกครั้ง (สูงสุด 3)"
                 }
               ]
             }
@@ -1369,7 +1369,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>To Escape...\u200B</line-height>",
-          "desc": "ทำ 100% more ความเสียหาย with Critical Hit\nทำ +5% more ความเสียหาย per [Laceration]บนtarget",
+          "desc": "ทำ 100% more ความเสียหาย with Critical Hit\nทำ +5% more ความเสียหาย ต่อทุกๆ [Laceration]บนเป้าหมาย",
           "coinlist": [
             {
               "coindescs": [
@@ -1468,7 +1468,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Burning Harpoon\u200B</line-height>",
-          "desc": "Final Power +1 for every negative effectบนmain target (Max 5)\nทำ +5% ความเสียหาย per [Laceration]บนtarget",
+          "desc": "Final Power +1 for every negative effectบนmain target (สูงสุด 5)\nทำ +5% ความเสียหาย ต่อทุกๆ [Laceration]บนเป้าหมาย",
           "coinlist": [
             {
               "coindescs": [
@@ -1487,7 +1487,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Combustion] ไป [Laceration]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Combustion] ไป [Laceration]บนเป้าหมาย"
                 }
               ]
             }
@@ -1784,7 +1784,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Echoing Cry\u200B</line-height>",
-          "desc": "ทำ +5% ความเสียหาย for every 1 [Laceration]บนtarget\nIf target does not have Prey Mark, แต้มเหรียญ +1\n[DefeatDuel] เสีย 5 SP",
+          "desc": "ทำ +5% ความเสียหาย for every 1 [Laceration]บนเป้าหมาย\nIf target does not have Prey Mark, แต้มเหรียญ +1\n[DefeatDuel] เสีย 5 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1938,7 +1938,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 [Combustion] และ 2 [Combustion] Countบนtarget"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Combustion] และ 2 [Combustion] Countบนเป้าหมาย"
                 }
               ]
             }

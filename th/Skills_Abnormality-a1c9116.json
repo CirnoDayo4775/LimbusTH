@@ -173,7 +173,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Cursewrit Butcherblade - Blinkstep\u200B</line-height>",
-                    "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [BurstAgility]\nทำ +15% more ความเสียหาย for every 2 Speed difference between this unit และ the target (max 60%)\n[WhenUse] แต้มเหรียญ +1 for every 5 [Burst]บนthe target (max 2)\n[WhenUse] Base Power +1 for every 2 [Burst] Countบนthe target (max 3)\n[EndSkill] เมื่อมี 10+ Speed, และ if the target is defeated, Reuse this Skill aได้รับst a random enemy (once per turn)",
+                    "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [BurstAgility]\nทำ +15% more ความเสียหาย for every 2 Speed difference between this unit และ the target (สูงสุด 60%)\n[WhenUse] แต้มเหรียญ +1 for every 5 [Burst]บนthe target (สูงสุด 2)\n[WhenUse] Base Power +1 for every 2 [Burst] Countบนthe target (สูงสุด 3)\n[EndSkill] เมื่อมี 10+ Speed, และ if the target is defeated, Reuse this Skill aได้รับst a random enemy (once ต่อทุกๆ turn)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -201,7 +201,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "หากเป้าหมายมี [BurstAgility], ทำ  +50% more ความเสียหาย"
+                                    "desc": "หากเป้าหมายมี [BurstAgility], ทำ +50% more ความเสียหาย"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] มอบ 5 [Burst]"

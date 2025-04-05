@@ -290,7 +290,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ปลดปล่อยประจุไฟแรงดันสูง\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 5+ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>, ทำ  +20% ความเสียหายต่อทุกขั้นที่จ่ายไป of <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u> over 5\n[WhenUse] แต้มปะทะ +1 for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>\n[WhenUse]จ่าย all [SelfCharge]",
+          "desc": "[WhenUse] เมื่อมี 5+ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>, ทำ +20% ความเสียหายต่อทุกขั้นที่จ่ายไป of <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u> over 5\n[WhenUse] แต้มปะทะ +1 for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>\n[WhenUse]จ่าย all [SelfCharge]",
           "coinlist": [
             {
               "coindescs": [
@@ -440,12 +440,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>อันนี้ฉันเอานะ!\u200B</line-height>",
-          "desc": "หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, แต้มปะทะ +8 \n[WhenUse] หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ  +150% ความเสียหาย",
+          "desc": "หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, แต้มปะทะ +8 \n[WhenUse] หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ +150% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ  0 ความเสียหาย.\nFairy Gentleman will be Staggered ในเทิร์นหน้า."
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ 0 ความเสียหาย.\nFairy Gentleman will be Staggered ในเทิร์นหน้า."
                 },
                 {
                   "desc": "[OnSucceedAttack] Remove all <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>."
@@ -535,7 +535,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>พอกพูนคำสาป\u200B</line-height>",
-          "desc": "[WhenUse] มอบ ผ้ายันต์พัวพัน equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">ผ้ายันต์พัวพัน</color></link></u>บนtarget",
+          "desc": "[WhenUse] มอบ ผ้ายันต์พัวพัน equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">ผ้ายันต์พัวพัน</color></link></u>บนเป้าหมาย",
           "coinlist": [
             {},
             {
@@ -631,7 +631,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>แพร่พันธุ์คำสาป\u200B</line-height>",
-          "desc": "[WhenUse] มอบ ผ้ายันต์พัวพัน equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">ผ้ายันต์พัวพัน</color></link></u>บนtarget",
+          "desc": "[WhenUse] มอบ ผ้ายันต์พัวพัน equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">ผ้ายันต์พัวพัน</color></link></u>บนเป้าหมาย",
           "coinlist": [
             {
               "coindescs": [
@@ -731,7 +731,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +5% ความเสียหาย for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>บนtarget"
+                  "desc": "[OnSucceedAttack] ทำ +5% ความเสียหาย for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack]จ่าย all of target's [Laceration]"
@@ -753,7 +753,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 1% ของ HP สูงสุด for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>บนtarget"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 1% ของ HP สูงสุด for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack]จ่าย 1 [Laceration] Count from target"
@@ -840,12 +840,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>อันนี้ฉันเอานะ!\u200B</line-height>",
-          "desc": "หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, แต้มปะทะ +8 \n[WhenUse] หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ  +150% ความเสียหาย",
+          "desc": "หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, แต้มปะทะ +8 \n[WhenUse] หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ +150% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ  0 ความเสียหาย.\nFairy Gentleman will be Staggered ในเทิร์นหน้า."
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ 0 ความเสียหาย.\nFairy Gentleman will be Staggered ในเทิร์นหน้า."
                 },
                 {
                   "desc": "[OnSucceedAttack] Remove all <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>."
@@ -990,7 +990,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +5% ความเสียหาย per 5 [Burst] Countบนtarget"
+                  "desc": "[OnSucceedAttack] ทำ +5% ความเสียหาย ต่อทุกๆ 5 ขั้น [Burst] บนเป้าหมาย"
                 }
               ]
             }
@@ -1106,7 +1106,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Rip Space\u200B</line-height>",
-          "desc": "เมื่อมี  [Charge] 10+ ขั้น,จ่าย [Charge] 10 ขั้น และ ได้รับ แต้มปะทะ +5 และ ทำ  +100% ความเสียหาย\nเมื่อมี 10-[Charge] Count,จ่าย 100 Core HP และ ทำ  +80% ความเสียหาย\nThis skill does not reduce the unit's HP to 0.",
+          "desc": "เมื่อมี  [Charge] 10+ ขั้น,จ่าย [Charge] 10 ขั้น และ ได้รับ แต้มปะทะ +5 และ ทำ +100% ความเสียหาย\nเมื่อมี 10-[Charge] Count,จ่าย 100 Core HP และ ทำ +80% ความเสียหาย\nThis skill does not reduce the unit's HP to 0.",
           "coinlist": [
             {
               "coindescs": [
@@ -1164,7 +1164,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Vomit Byproducts\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี Dimensional Rift, ทำ  +10% ความเสียหาย\n[DefeatDuel]จ่าย [Charge] 2 ขั้น",
+          "desc": "[WhenUse] หากเป้าหมายมี Dimensional Rift, ทำ +10% ความเสียหาย\n[DefeatDuel]จ่าย [Charge] 2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1299,7 +1299,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +20% ความเสียหาย for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>"
+                  "desc": "[OnSucceedAttack] ทำ +20% ความเสียหาย for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>"
                 },
                 {
                   "desc": "[OnSucceedAttack] ได้รับ [Charge] +4 ขั้น"
@@ -1388,7 +1388,7 @@
                   "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 50% ของความเสียหายที่ทำไป"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +1% ความเสียหาย for every <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (Max 50%)"
+                  "desc": "[OnSucceedAttack] ทำ +1% ความเสียหาย for every <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (สูงสุด 50%)"
                 }
               ]
             }
@@ -1414,7 +1414,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +20% more ความเสียหาย per 3 [Breath] (Max 100%)"
+                  "desc": "[OnSucceedAttack] ทำ +20% more ความเสียหาย ต่อทุกๆ 3 [Breath] (สูงสุด 100%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] ได้รับ 4 [Breath] to ทุกๆชิ้นส่วน"
@@ -1458,7 +1458,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  +1% ความเสียหาย for every <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (Max 200%)"
+                  "desc": "[OnSucceedAttack] ทำ +1% ความเสียหาย for every <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (สูงสุด 200%)"
                 }
               ]
             }
@@ -2081,7 +2081,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dimensional Leap\u200B</line-height>",
-          "desc": "If this Dimensional Rift remains, ทำ  +10% ความเสียหาย",
+          "desc": "If this Dimensional Rift remains, ทำ +10% ความเสียหาย",
           "coinlist": [
             {}
           ]

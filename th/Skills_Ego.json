@@ -377,7 +377,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  10 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 10 ความเสียหายค่าสติ"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 [Reduction] ในเทิร์นหน้า"
@@ -395,7 +395,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  20 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 20 ความเสียหายค่าสติ"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 [Reduction] ในเทิร์นหน้า"
@@ -413,10 +413,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  20 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 20 ความเสียหายค่าสติ"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] ทำ  10 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttackTail] ทำ 10 ความเสียหายค่าสติ"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 [Reduction] ในเทิร์นหน้า"
@@ -439,7 +439,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Pierce Fragility"
+                  "desc": "[OnSucceedAttack] มอบ 1 [PenetrateTakeDamageUp]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 Envy Fragility"
@@ -457,7 +457,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Pierce Fragility"
+                  "desc": "[OnSucceedAttack] มอบ 3 [PenetrateTakeDamageUp]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 Envy Fragility"
@@ -478,7 +478,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Pierce Fragility"
+                  "desc": "[OnSucceedAttack] มอบ 3 [PenetrateTakeDamageUp]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 Envy Fragility"
@@ -510,7 +510,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Pierce Fragility"
+                  "desc": "[OnSucceedAttack] มอบ 1 [PenetrateTakeDamageUp]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 Envy Fragility"
@@ -528,7 +528,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Pierce Fragility"
+                  "desc": "[OnSucceedAttack] มอบ 1 [PenetrateTakeDamageUp]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 3 Envy Fragility"
@@ -549,7 +549,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Pierce Fragility"
+                  "desc": "[OnSucceedAttack] มอบ 1 [PenetrateTakeDamageUp]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 3 Envy Fragility"
@@ -640,7 +640,7 @@
                   "desc": "[OnSucceedAttackHead] เปิดใช้ [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  15 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 15 ความเสียหายค่าสติ"
                 }
               ]
             }
@@ -658,10 +658,10 @@
                   "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  25 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 25 ความเสียหายค่าสติ"
                 },
                 {
-                  "desc": "If target is Staggered, in Low Morale, or in Panic, ทำ  30% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "If target is Staggered, in Low Morale, or in Panic, ทำ 30% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 }
               ]
             }
@@ -679,10 +679,10 @@
                   "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  25 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 25 ความเสียหายค่าสติ"
                 },
                 {
-                  "desc": "If target is Staggered, in Low Morale, or in Panic, ทำ  30% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "If target is Staggered, in Low Morale, or in Panic, ทำ 30% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 [Sinking]"
@@ -729,7 +729,7 @@
                   "desc": "[OnSucceedAttack] มอบ 7 [Sinking]"
                 },
                 {
-                  "desc": "If target is NOT Staggered, in Low Morale, nor in Panic, ทำ  50% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "If target is NOT Staggered, in Low Morale, nor in Panic, ทำ 50% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 }
               ]
             }
@@ -750,7 +750,7 @@
                   "desc": "[OnSucceedAttack] มอบ 10 [Sinking]"
                 },
                 {
-                  "desc": "If target is NOT Staggered, in Low Morale, nor in Panic, ทำ  50% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                  "desc": "If target is NOT Staggered, in Low Morale, nor in Panic, ทำ 50% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                 }
               ]
             }
@@ -854,7 +854,7 @@
           "level": 4,
           "name": "<line-height=120%>4th Match Flame\u200B</line-height>",
           "abName": "Scorched Girl",
-          "desc": "แต้มสกิล +2 aได้รับst units with [Combustion]\nทำ +5% ความเสียหาย per 1 [Combustion]บนtarget (Max 100%)\n[EnemyKill] ได้รับ +2 [Enhancement] ในเทิร์นหน้า",
+          "desc": "แต้มสกิล +2 aได้รับst units with [Combustion]\nทำ +5% ความเสียหาย ต่อทุกๆ 1 [Combustion]บนเป้าหมาย (สูงสุด 100%)\n[EnemyKill] ได้รับ +2 [Enhancement] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -904,7 +904,7 @@
           "level": 4,
           "name": "<line-height=120%>4th Match Flame\u200B</line-height>",
           "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nTargets randomly\nแต้มสกิล +4 aได้รับst units with [Combustion]\nทำ +5% ความเสียหาย per 1 [Combustion]บนtarget (Max 100%)\n[EnemyKill] ได้รับ 3 [Enhancement] ในเทิร์นหน้า\n[EnemyKillFail] ได้รับ 3 [Enhancement] และ 10 [Combustion] ในเทิร์นหน้า",
+          "desc": "[CantIdentify]\nTargets randomly\nแต้มสกิล +4 aได้รับst units with [Combustion]\nทำ +5% ความเสียหาย ต่อทุกๆ 1 [Combustion]บนเป้าหมาย (สูงสุด 100%)\n[EnemyKill] ได้รับ 3 [Enhancement] ในเทิร์นหน้า\n[EnemyKillFail] ได้รับ 3 [Enhancement] และ 10 [Combustion] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -1422,7 +1422,7 @@
           "level": 4,
           "name": "<line-height=120%>Telepole\u200B</line-height>",
           "abName": "Alleyway Watchdog",
-          "desc": "[WhenUse] ได้รับ[Charge] Count ไป Envy Reson.\nSpend [Charge] 5 ขั้น to ได้รับ +3 แต้มสกิล (Max 12)",
+          "desc": "[WhenUse] ได้รับ[Charge] Count ไป Envy Reson.\nSpend [Charge] 5 ขั้น to ได้รับ +3 แต้มสกิล (สูงสุด 12)",
           "coinlist": [
             {
               "coindescs": [
@@ -1805,7 +1805,7 @@
           "level": 1,
           "name": "<line-height=120%>What is Cast\u200B</line-height>",
           "abName": "Rodion",
-          "desc": "If target’s HP is above 50%, ทำ  +10% ความเสียหาย",
+          "desc": "If target’s HP is above 50%, ทำ +10% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -1820,7 +1820,7 @@
           "level": 3,
           "name": "<line-height=120%>What is Cast\u200B</line-height>",
           "abName": "Rodion",
-          "desc": "If target’s HP is above 50%, ทำ  +30% ความเสียหาย",
+          "desc": "If target’s HP is above 50%, ทำ +30% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -1835,7 +1835,7 @@
           "level": 4,
           "name": "<line-height=120%>What is Cast\u200B</line-height>",
           "abName": "Rodion",
-          "desc": "If target’s HP is above 50%, ทำ  +30% ความเสียหาย",
+          "desc": "If target’s HP is above 50%, ทำ +30% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -1937,7 +1937,7 @@
           "level": 1,
           "name": "<line-height=120%>Rime Shank\u200B</line-height>",
           "abName": "Baba Yaga",
-          "desc": "If target’s HP is above 50%, ทำ  +10% ความเสียหาย",
+          "desc": "If target’s HP is above 50%, ทำ +10% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -1955,7 +1955,7 @@
           "level": 3,
           "name": "<line-height=120%>Rime Shank\u200B</line-height>",
           "abName": "Baba Yaga",
-          "desc": "If target’s HP is above 50%, ทำ  +30% ความเสียหาย",
+          "desc": "If target’s HP is above 50%, ทำ +30% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -1973,7 +1973,7 @@
           "level": 4,
           "name": "<line-height=120%>Rime Shank\u200B</line-height>",
           "abName": "Baba Yaga",
-          "desc": "If target’s HP is above 50%, ทำ  +30% ความเสียหาย",
+          "desc": "If target’s HP is above 50%, ทำ +30% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -2122,7 +2122,7 @@
           "level": 1,
           "name": "<line-height=120%>Impending Day\u200B</line-height>",
           "abName": "Doomsday Calendar",
-          "desc": "หากHP ของเป้าหมายต่ำกว่า 25%, ทำ  +10% ความเสียหาย",
+          "desc": "หากHP ของเป้าหมายต่ำกว่า 25%, ทำ +10% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -2137,7 +2137,7 @@
           "level": 3,
           "name": "<line-height=120%>Impending Day\u200B</line-height>",
           "abName": "Doomsday Calendar",
-          "desc": "หากHP ของเป้าหมายต่ำกว่า 25%, ทำ  +20% ความเสียหาย",
+          "desc": "หากHP ของเป้าหมายต่ำกว่า 25%, ทำ +20% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -2990,7 +2990,7 @@
           "level": 1,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (Up to 25%)\nThenจ่าย Lust resources ไป (Lust Reson.); further boost ความเสียหาย ไป 5% per resource spent",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (Up to 25%)\nThenจ่าย Lust resources ไป (Lust Reson.); further boost ความเสียหาย ไป 5% ต่อทุกๆ resource spent",
           "coinlist": [
             {
               "coindescs": [
@@ -3005,7 +3005,7 @@
           "level": 3,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (Up to 50%)\nThenจ่าย Lust resources ไป (Lust Reson.); further boost ความเสียหาย ไป 10% per resource spent",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (Up to 50%)\nThenจ่าย Lust resources ไป (Lust Reson.); further boost ความเสียหาย ไป 10% ต่อทุกๆ resource spent",
           "coinlist": [
             {
               "coindescs": [
@@ -3116,12 +3116,12 @@
           "level": 1,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ  more ความเสียหาย (Max 50%)",
+          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ more ความเสียหาย (สูงสุด 50%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  bonus Pride ความเสียหาย ไป (Target’s [Burst] x 7.5)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (Max 75%)"
+                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x 7.5)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (สูงสุด 75%)"
                 }
               ]
             }
@@ -3131,7 +3131,7 @@
           "level": 3,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ  more ความเสียหาย (Max <style=\"highlight\">75</style>%)",
+          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ more ความเสียหาย (สูงสุด <style=\"highlight\">75</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3139,7 +3139,7 @@
                   "desc": "[OnSucceedAttack] <style=\"highlight\">If[Charge] Count was spent, มอบ 3 [DimensionRift]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  bonus Pride ความเสียหาย ไป (Target’s [Burst] x <style=\"highlight\">10</style>)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (Max <style=\"highlight\">100</style>%)"
+                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x <style=\"highlight\">10</style>)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (สูงสุด <style=\"highlight\">100</style>%)"
                 }
               ]
             }
@@ -3149,7 +3149,7 @@
           "level": 4,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ  more ความเสียหาย (Max 75%)<style=\"highlight\"></style>",
+          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ more ความเสียหาย (สูงสุด 75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3157,7 +3157,7 @@
                   "desc": "[OnSucceedAttack] If[Charge] Count was spent, มอบ <style=\"highlight\">5</style> [DimensionRift]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  bonus Pride ความเสียหาย ไป (Target’s [Burst] x 10)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (Max 100)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x 10)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (สูงสุด 100)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3172,7 +3172,7 @@
           "level": 1,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ  more ความเสียหาย (Max 50%)",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ more ความเสียหาย (สูงสุด 50%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3180,7 +3180,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  bonus Pride ความเสียหาย ไป (Target’s [Burst] x 7.5)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (Max 75%)"
+                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x 7.5)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (สูงสุด 75%)"
                 }
               ]
             }
@@ -3190,7 +3190,7 @@
           "level": 3,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ  more ความเสียหาย (Max <style=\"highlight\">75</style>%)",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ more ความเสียหาย (สูงสุด <style=\"highlight\">75</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3201,7 +3201,7 @@
                   "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">6</style> [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  bonus Pride ความเสียหาย ไป (Target’s [Burst] x <style=\"highlight\">10</style>)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (Max <style=\"highlight\">100</style>%)"
+                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x <style=\"highlight\">10</style>)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (สูงสุด <style=\"highlight\">100</style>%)"
                 }
               ]
             }
@@ -3211,7 +3211,7 @@
           "level": 4,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ  more ความเสียหาย (Max 75%)<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ more ความเสียหาย (สูงสุด 75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3222,7 +3222,7 @@
                   "desc": "[OnSucceedAttack] มอบ 6 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  bonus Pride ความเสียหาย ไป (Target’s [Burst] x 10)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (Max 100)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x 10)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (สูงสุด 100)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3315,7 +3315,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count ไป 3; if the [VibrationExplosion] Staggered the target, มอบ [Combustion] +1 ขั้นบน5 random enemies"
@@ -3336,7 +3336,7 @@
                   "desc": "[OnSucceedAttack] มอบ 7 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 [Combustion]บน5 random enemies"
@@ -3360,7 +3360,7 @@
                   "desc": "[OnSucceedAttack] มอบ 10 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 3 [Combustion]บน5 random enemies"
@@ -3389,7 +3389,7 @@
                   "desc": "[OnSucceedAttack] มอบ 6 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count ไป 3; if the [VibrationExplosion] Staggered the target, มอบ [Combustion] +2 ขั้นบน5 random units"
@@ -3410,7 +3410,7 @@
                   "desc": "[OnSucceedAttack] มอบ 10 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 [Combustion]บน5 random units"
@@ -3434,7 +3434,7 @@
                   "desc": "[OnSucceedAttack] มอบ 12 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 3 [Combustion]บน5 random units"
@@ -3463,7 +3463,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  7 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 7 ความเสียหายค่าสติ"
                 }
               ]
             }
@@ -3481,7 +3481,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  15 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 15 ความเสียหายค่าสติ"
                 }
               ]
             }
@@ -3504,7 +3504,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  7 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 7 ความเสียหายค่าสติ"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce target's [Vibration] Count ไป 2"
@@ -3525,7 +3525,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ  15 ความเสียหายค่าสติ"
+                  "desc": "[OnSucceedAttack] ทำ 15 ความเสียหายค่าสติ"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count ไป 2; if the [VibrationExplosion] Staggered the target, มอบ [Combustion] +2 ขั้นบน3 random units"
@@ -3779,7 +3779,7 @@
           "level": 1,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (Max 5)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
+          "desc": "[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (สูงสุด 5)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -3794,7 +3794,7 @@
           "level": 3,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (Max 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
+          "desc": "[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -3814,12 +3814,12 @@
           "level": 1,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (Max 5)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (สูงสุด 5)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ  bonus Gloom ความเสียหาย ไป (Charge Count * 1.5)% ของความเสียหายที่ทำไป (Max 30%)"
+                  "desc": "[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (Charge Count * 1.5)% ของความเสียหายที่ทำไป (สูงสุด 30%)"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] After the attack, เสีย 10% ของ HP สูงสุด to ได้รับ [Charge] +7 ขั้น"
@@ -3832,12 +3832,12 @@
           "level": 3,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (Max 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ  bonus Gloom ความเสียหาย ไป (Charge Count * 2.5)% ของความเสียหายที่ทำไป (Max 50%)"
+                  "desc": "[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (Charge Count * 2.5)% ของความเสียหายที่ทำไป (สูงสุด 50%)"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] After the attack, เสีย 10% ของ HP สูงสุด to ได้รับ [Charge] +0 ขั้น"
@@ -3850,12 +3850,12 @@
           "level": 4,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (Max 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น for every 10% of missing HP (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ  bonus Gloom ความเสียหาย ไป (Charge Count * 2.5)% ของความเสียหายที่ทำไป (Max 50%)"
+                  "desc": "[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (Charge Count * 2.5)% ของความเสียหายที่ทำไป (สูงสุด 50%)"
                 },
                 {
                   "desc": "[EndSkill]จ่าย all[Charge] Count"
@@ -3910,7 +3910,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Sloth Fragility และ 1 Pierce Fragility this turn และ ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 1 Sloth Fragility และ 1 [PenetrateTakeDamageUp] this turn และ ในเทิร์นหน้า"
                 }
               ]
             }
@@ -3925,7 +3925,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 Sloth Fragility และ 2 Pierce Fragility this turn และ ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 2 Sloth Fragility และ 2 [PenetrateTakeDamageUp] this turn และ ในเทิร์นหน้า"
                 }
               ]
             }
@@ -3969,7 +3969,7 @@
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target's Speed is slower than user's, มอบ 2 Slash Fragility ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] If target's Speed is slower than user's, มอบ 2 [SlashTakeDamageUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -3990,7 +3990,7 @@
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], มอบ 1 Plus เหรียญ Drop ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target's Speed is slower than user's, มอบ 2 Slash Fragility ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] If target's Speed is slower than user's, มอบ 2 [SlashTakeDamageUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -4034,7 +4034,7 @@
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], มอบ 2 Plus เหรียญ Drop ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target's Speed is slower than user's, มอบ 1-3 Slash Fragility ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] If target's Speed is slower than user's, มอบ 1-3 [SlashTakeDamageUp] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -4054,7 +4054,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ  +20% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +20% more ความเสียหาย"
                 }
               ]
             }
@@ -4069,7 +4069,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ  +20% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +20% more ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] If this skill staggers or defeats a target, ฟื้นฟูผู้ใช้และ the ally with the least HP ไป 10% ของ HP สูงสุด"
@@ -4087,7 +4087,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ  +40% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +40% more ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] If this skill staggers or defeats a target, ฟื้นฟูผู้ใช้และ the ally with the least HP ไป 10% ของ HP สูงสุด"
@@ -4110,7 +4110,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +30% more ความเสียหาย"
                 }
               ]
             }
@@ -4125,7 +4125,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +30% more ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] If this skill staggers or defeats a target, ฟื้นฟูผู้ใช้และ the ally with the least HP ไป 10% ของ HP สูงสุด"
@@ -4143,7 +4143,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ  +50% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Binding], ทำ +50% more ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] If this skill staggers or defeats a target, ฟื้นฟูผู้ใช้และ the ally with the least HP ไป 10% ของ HP สูงสุด"

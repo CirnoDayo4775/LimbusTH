@@ -58,7 +58,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Erupting Wrath\u200B</line-height>",
-          "desc": "[WhenUse] แต้มเหรียญ +1 for every 5 [Combustion]บนtarget (max 3)\n[WinDuel] หากเป้าหมายมี 9+ [Combustion], this Skill ได้รับs Atk Weight +1",
+          "desc": "[WhenUse] แต้มเหรียญ +1 for every 5 [Combustion]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] หากเป้าหมายมี 9+ [Combustion], this Skill ได้รับs Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
@@ -218,7 +218,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bodysack\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration]บนtarget (max 3)\n[WhenUse] แต้มปะทะ +1 for every negative effectบนtarget (max 2)\n[DefeatDuel] ได้รับ 20 [DefenseDown]\n[DefeatDuel] ได้รับ 1 Fettered Woe",
+          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration]บนเป้าหมาย (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 for every negative effectบนเป้าหมาย (สูงสุด 2)\n[DefeatDuel] ได้รับ 20 [DefenseDown]\n[DefeatDuel] ได้รับ 1 Fettered Woe",
           "coinlist": [
             {
               "coindescs": [
@@ -267,7 +267,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Lunacy of the Frenzied Wolf\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration]บนtarget (max 4)\n[WhenUse] แต้มปะทะ +1 for every negative effectบนtarget (max 2)\n[DefeatDuel] หากเป้าหมายมี [AaCfPcBg], raise this unit's Stagger Threshold ไป 100 ในเทิร์นหน้า. If this unit does not have a Stagger threshold, create a new Stagger threshold at 0.",
+          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration]บนเป้าหมาย (สูงสุด 4)\n[WhenUse] แต้มปะทะ +1 for every negative effectบนเป้าหมาย (สูงสุด 2)\n[DefeatDuel] หากเป้าหมายมี [AaCfPcBg], raise this unit's Stagger Threshold ไป 100 ในเทิร์นหน้า. If this unit does not have a Stagger threshold, create a new Stagger threshold at 0.",
           "coinlist": [
             {
               "coindescs": [
@@ -467,7 +467,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target does not have a Stagger Threshold, ทำ  200 HP ความเสียหาย."
+                  "desc": "[OnSucceedAttack] If the target does not have a Stagger Threshold, ทำ 200 HP ความเสียหาย."
                 },
                 {
                   "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 200"
@@ -516,7 +516,7 @@
                   "desc": "[OnSucceedAttack] ได้รับ 1 [Agility] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ negative effects, ทำ  30% ของความเสียหายที่ทำไปเป็นbonus Slash ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ negative effects, ทำ 30% ของความเสียหายที่ทำไปเป็นbonus ความเสียหายฟัน"
                 }
               ]
             }
@@ -676,7 +676,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration]equal to [Sinking]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration]equal to [Sinking]บนเป้าหมาย"
                 }
               ]
             }
@@ -745,7 +745,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ควบสู่มรณา ดูลาฮาน\u200B</line-height>",
-          "desc": "[CantDuel]\n[WhenUse] หากเป้าหมายมี [AaCfPbBb], ทำ  -100% less ความเสียหาย",
+          "desc": "[CantDuel]\n[WhenUse] หากเป้าหมายมี [AaCfPbBb], ทำ -100% less ความเสียหาย",
           "coinlist": [
             {},
             {
@@ -772,7 +772,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ล่าชีพในความรกร้าง\u200B</line-height>",
-          "desc": "[CantDuel]\n[WhenUse] หากเป้าหมายมี [AaCfPbBc], ทำ  -100% less ความเสียหาย\n[WhenUse] ทำ  +25% more ความเสียหาย for every surviving ally",
+          "desc": "[CantDuel]\n[WhenUse] หากเป้าหมายมี [AaCfPbBc], ทำ -100% less ความเสียหาย\n[WhenUse] ทำ +25% more ความเสียหาย for every surviving ally",
           "coinlist": [
             {}
           ]
@@ -785,7 +785,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>อดกลั้น\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 1 [Enhancement] ในเทิร์นหน้า (once per turn)",
+          "desc": "[WhenUse] ได้รับ 1 [Enhancement] ในเทิร์นหน้า (once ต่อทุกๆ turn)",
           "coinlist": [
             {}
           ]
@@ -858,7 +858,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration]equal to [Sinking]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration]equal to [Sinking]บนเป้าหมาย"
                 }
               ]
             }
@@ -1042,7 +1042,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  ความเสียหาย equal to 100% of the target's max HP"
+                  "desc": "[OnSucceedAttack] ทำ ความเสียหาย equal to 100% of the target's max HP"
                 }
               ]
             }
@@ -1088,7 +1088,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>แคทเธอรีนทุกคนต้องตาย\u200B</line-height>",
-          "desc": "[CantDuel]\nIf all Hands' HP are at 1, ทำ  0 ความเสียหาย\n[StartBattle] All other allies ได้รับ 2 [Vulnerable] และ 2 [Enhancement]\n[EndSkill] ได้รับ 1 [AaCfPcBn]",
+          "desc": "[CantDuel]\nIf all Hands' HP are at 1, ทำ 0 ความเสียหาย\n[StartBattle] All other allies ได้รับ 2 [Vulnerable] และ 2 [Enhancement]\n[EndSkill] ได้รับ 1 [AaCfPcBn]",
           "coinlist": [
             {
               "coindescs": [
@@ -1112,7 +1112,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  ความเสียหาย equal to 15% ของ HP สูงสุด"
+                  "desc": "[OnSucceedAttack] ทำ ความเสียหาย equal to 15% ของ HP สูงสุด"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ [AaCfPcBn]"
@@ -1224,7 +1224,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  ความเสียหาย equal to 15% ของ HP สูงสุด"
+                  "desc": "[OnSucceedAttack] ทำ ความเสียหาย equal to 15% ของ HP สูงสุด"
                 }
               ]
             }
@@ -1344,7 +1344,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 20+ [Laceration], ทำ  +100% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 20+ [Laceration], ทำ +100% more ความเสียหาย"
                 },
                 {
                   "desc": "[EnemyKill] Reuse this Skill (1 time max)"
@@ -1413,7 +1413,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
@@ -1499,28 +1499,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +30% more ความเสียหาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ฟื้นฟูHP เท่ากับ70% ของความเสียหายที่ทำไป"

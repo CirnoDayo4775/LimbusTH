@@ -44,7 +44,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ขบขัน\u200B</line-height>",
-          "desc": "[WhenUse] ทำ  10 ความเสียหายค่าสติ",
+          "desc": "[WhenUse] ทำ 10 ความเสียหายค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -154,7 +154,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เจ้ามันไร้ค่า\u200B</line-height>",
-          "desc": "[OnSucceedEvade] ทำ  5 ความเสียหายค่าสติ",
+          "desc": "[OnSucceedEvade] ทำ 5 ความเสียหายค่าสติ",
           "coinlist": [
             {}
           ]
@@ -860,7 +860,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ปลดปล่อยประจุไฟแรงดันสูง\u200B</line-height>",
-          "desc": "เมื่อมี 11+ [SelfCharge], ทำ  +10% ความเสียหายต่อ [SelfCharge] ทุกขั้นที่เกิน 10 มา\nใช้ [SelfCharge] ทั้งหมด",
+          "desc": "เมื่อมี 11+ [SelfCharge], ทำ +10% ความเสียหายต่อ [SelfCharge] ทุกขั้นที่เกิน 10 มา\nใช้ [SelfCharge] ทั้งหมด",
           "coinlist": [
             {
               "coindescs": [
@@ -872,7 +872,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [ElectricStorage], ทำ  40% ของความเสียหายที่ทำไปเป็น ความเสียหายตรง"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [ElectricStorage], ทำ 40% ของความเสียหายที่ทำไปเป็น ความเสียหายตรง"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] และ 1 [ElectricStorage]"
@@ -1051,7 +1051,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] ทำ  +15% ความเสียหาย ต่อ ร่มผุพัง ทุกๆอัน"
+                  "desc": "[OnSucceedAttackHead] ทำ +15% ความเสียหาย ต่อ ร่มผุพัง ทุกๆอัน"
                 }
               ]
             }
@@ -1258,10 +1258,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Exalted], ทำ  +10% ความเสียหายต่อทุกขั้นที่จ่ายไป"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Exalted], ทำ +10% ความเสียหายต่อทุกขั้นที่จ่ายไป"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Tipsiness], ทำ  0 ความเสียหาย, และผู้ใช้เสีย 50 HP"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Tipsiness], ทำ 0 ความเสียหาย, และผู้ใช้เสีย 50 HP"
                 },
                 {
                   "desc": "[OnSucceedAttack] ลบ [Exalted] หรือ [Tipsiness] ทั้งหมด"
@@ -1283,10 +1283,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Exalted], ทำ  +100% ความเสียหายต่อทุกขั้นที่จ่ายไป"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Exalted], ทำ +100% ความเสียหายต่อทุกขั้นที่จ่ายไป"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Tipsiness], ทำ  0 ความเสียหาย, และผู้ใช้เสีย 50 HP"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Tipsiness], ทำ 0 ความเสียหาย, และผู้ใช้เสีย 50 HP"
                 },
                 {
                   "desc": "[OnSucceedAttack] ลบ [Exalted] หรือ [Tipsiness] ทั้งหมด"
@@ -1424,7 +1424,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ทอกเงาสูงใหญ่\u200B</line-height>",
-          "desc": "[WhenUse] นำ ต้นโคลเวอร์ยักษ์ เข้าสู่สนาม ในเทิร์นหน้า\n[WhenUse] ทำ  +5% ความเสียหาย ต่อทุกๆขั้นของ [Laceration]\n[DefeatDuel] ต้นโคลเวอร์ยักษ์จะเข้าสนาม ด้วยHP 70%",
+          "desc": "[WhenUse] นำ ต้นโคลเวอร์ยักษ์ เข้าสู่สนาม ในเทิร์นหน้า\n[WhenUse] ทำ +5% ความเสียหาย ต่อทุกๆขั้นของ [Laceration]\n[DefeatDuel] ต้นโคลเวอร์ยักษ์จะเข้าสนาม ด้วยHP 70%",
           "coinlist": [
             {
               "coindescs": [

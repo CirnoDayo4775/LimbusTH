@@ -100,7 +100,7 @@
                                     "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +20% more ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +20% more ความเสียหาย"
                                 }
                             ]
                         }
@@ -227,7 +227,7 @@
                                     "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +20% more ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ +20% more ความเสียหาย"
                                 }
                             ]
                         }
@@ -282,7 +282,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Lash\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 8+ [Laceration], ทำ  +20% ความเสียหาย",
+                    "desc": "[WhenUse] หากเป้าหมายมี 8+ [Laceration], ทำ +20% ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -336,7 +336,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนtarget)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนเป้าหมาย)% HP (สูงสุด 20%)"
                                 }
                             ]
                         }
@@ -391,7 +391,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Lash\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], ทำ  +10% more ความเสียหาย",
+                    "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], ทำ +10% more ความเสียหาย",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -445,7 +445,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนtarget)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนเป้าหมาย)% HP (สูงสุด 20%)"
                                 }
                             ]
                         }
@@ -577,7 +577,7 @@
                                     "desc": "[OnSucceedAttack] Consume all [HardenedBlood]บนself to increase [BloodDinner] ไป (consumed [HardenedBlood] x 3) และ ได้รับ 5 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนtarget)% HP (max 30%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนเป้าหมาย)% HP (สูงสุด 30%)"
                                 }
                             ]
                         }
@@ -709,7 +709,7 @@
                                     "desc": "[OnSucceedAttack] Consume all [HardenedBlood]บนself to increase [BloodDinner] ไป (consumed [HardenedBlood] x 3) และ ได้รับ 5 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนtarget)% HP (max 30%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([Laceration]บนเป้าหมาย)% HP (สูงสุด 30%)"
                                 }
                             ]
                         }
@@ -764,7 +764,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Carve\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (max 2)\n[WhenUse] ได้รับ 15 [Laceration], immediately trigger it อีกครั้ง, และ reduce [Laceration]Count ไป 1",
+                    "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (สูงสุด 2)\n[WhenUse] ได้รับ 15 [Laceration], immediately trigger it อีกครั้ง, และ reduce [Laceration]Count ไป 1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -805,7 +805,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([FestivalFever] x 2.5)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([FestivalFever] x 2.5)% HP (สูงสุด 20%)"
                                 }
                             ]
                         },
@@ -861,7 +861,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hardblood Wild Jag\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (max 2)\n[WhenUse] ได้รับ 15 [Laceration], immediately trigger it อีกครั้ง, และ reduce [Laceration]Count ไป 1",
+                    "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (สูงสุด 2)\n[WhenUse] ได้รับ 15 [Laceration], immediately trigger it อีกครั้ง, และ reduce [Laceration]Count ไป 1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -902,7 +902,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([FestivalFever] x 2.5)% HP (max 20%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([FestivalFever] x 2.5)% HP (สูงสุด 20%)"
                                 }
                             ]
                         },
@@ -958,12 +958,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Join the Joyful Parade!\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (max 3)\n[WhenUse] เมื่อมี less than 20 [BloodDinner], ได้รับ 20 [Laceration]and immediately trigger it อีกครั้ง, then reduce [Laceration]Count ไป 1\n[EndSkill] Consume 20 [BloodDinner]",
+                    "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (สูงสุด 3)\n[WhenUse] เมื่อมี less than 20 [BloodDinner], ได้รับ 20 [Laceration]and immediately trigger it อีกครั้ง, then reduce [Laceration]Count ไป 1\n[EndSkill] Consume 20 [BloodDinner]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ 1 [HardenedBlood] for every 6 [Laceration]บนthe target (max 2)"
+                                    "desc": "[OnSucceedAttack] ได้รับ 1 [HardenedBlood] for every 6 [Laceration]บนthe target (สูงสุด 2)"
                                 }
                             ]
                         },
@@ -1025,7 +1025,7 @@
                                     "desc": "[OnSucceedAttack] มอบ [Laceration]and [Burst] equal to [HardenedBlood]บนself"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([FestivalFever] x 4)% HP (max 40%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([FestivalFever] x 4)% HP (สูงสุด 40%)"
                                 }
                             ]
                         },
@@ -1084,12 +1084,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Let's All Match Our Steps, Dance!\u200B</line-height>",
-                    "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (max 3)\n[WhenUse] เมื่อมี less than 20 [BloodDinner], ได้รับ 20 [Laceration]and immediately trigger it อีกครั้ง, then reduce [Laceration]Count ไป 1\n[EndSkill] Consume 20 [BloodDinner]",
+                    "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (สูงสุด 3)\n[WhenUse] เมื่อมี less than 20 [BloodDinner], ได้รับ 20 [Laceration]and immediately trigger it อีกครั้ง, then reduce [Laceration]Count ไป 1\n[EndSkill] Consume 20 [BloodDinner]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] ได้รับ 1 [HardenedBlood] for every 6 [Laceration]บนthe target (max 2)"
+                                    "desc": "[OnSucceedAttack] ได้รับ 1 [HardenedBlood] for every 6 [Laceration]บนthe target (สูงสุด 2)"
                                 }
                             ]
                         },
@@ -1151,7 +1151,7 @@
                                     "desc": "[OnSucceedAttack] มอบ [Laceration]and [Burst] equal to [HardenedBlood]บนself"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([FestivalFever] x 4)% HP (max 40%)"
+                                    "desc": "[OnSucceedAttack] ฟื้นฟู ([FestivalFever] x 4)% HP (สูงสุด 40%)"
                                 }
                             ]
                         },

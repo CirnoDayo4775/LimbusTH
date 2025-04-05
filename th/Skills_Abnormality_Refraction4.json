@@ -324,7 +324,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
-          "desc": "[WhenUse] Atk Weight +1 for every 4 [Charge] Countบนself (max 5)\n[WhenUse] แต้มปะทะ +3 for every 5 [Charge] Countบนself (max 4)\n[WhenUse] ได้รับ 1 [VioletDamageUp] for every 6 [Charge] Countบนself (max 3)\n[EndBattle] All [Charge] Countบนself expires. เสีย [ConnectedPlug]",
+          "desc": "[WhenUse] Atk Weight +1 for every 4 [Charge] Countบนself (สูงสุด 5)\n[WhenUse] แต้มปะทะ +3 for every 5 [Charge] Countบนself (สูงสุด 4)\n[WhenUse] ได้รับ 1 [VioletDamageUp] for every 6 [Charge] Countบนself (สูงสุด 3)\n[EndBattle] All [Charge] Countบนself expires. เสีย [ConnectedPlug]",
           "coinlist": [
             {
               "coindescs": [
@@ -357,7 +357,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
-          "desc": "[CantDuel]\n[WhenUse] ได้รับ 10 [Protection]\n[WhenUse] Atk Weight +1 for every 4 [Charge] Countบนself (max 5)\n[WhenUse] แต้มปะทะ +3 for every 5 [Charge] Countบนself (max 4)\n[WhenUse] ได้รับ 1 [VioletDamageUp] for every 6 [Charge] Countบนself (max 3)",
+          "desc": "[CantDuel]\n[WhenUse] ได้รับ 10 [Protection]\n[WhenUse] Atk Weight +1 for every 4 [Charge] Countบนself (สูงสุด 5)\n[WhenUse] แต้มปะทะ +3 for every 5 [Charge] Countบนself (สูงสุด 4)\n[WhenUse] ได้รับ 1 [VioletDamageUp] for every 6 [Charge] Countบนself (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -447,7 +447,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Strangling Despair\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 for every 6 [Sinking]บนtarget (max 2)\n[WinDuel] มอบ [Sinking] +3 ขั้น\n[DefeatDuel] Reduce [Sinking] Count ไป 1",
+          "desc": "แต้มเหรียญ +1 for every 6 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[WinDuel] มอบ [Sinking] +3 ขั้น\n[DefeatDuel] Reduce [Sinking] Count ไป 1",
           "coinlist": [
             {
               "coindescs": [
@@ -520,12 +520,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Chains of [Binding]ing\u200B</line-height>",
-          "desc": "แต้มเหรียญ + for every 6 [Sinking]บนtarget (max 2)\n[DefeatDuel] Reduce [Sinking] Count ไป 2\n[DefeatDuel] มอบ [BandageOfTheBoundKing]",
+          "desc": "แต้มเหรียญ + for every 6 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[DefeatDuel] Reduce [Sinking] Count ไป 2\n[DefeatDuel] มอบ [BandageOfTheBoundKing]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า\n[OnSucceedAttack] มอบ [Vibration] equal to [Sinking]บนtarget"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า\n[OnSucceedAttack] มอบ [Vibration] equal to [Sinking]บนเป้าหมาย"
                 }
               ]
             },
@@ -570,7 +570,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit ทำ t ความเสียหาย to the target, มอบ [Vibration] equal to [Sinking]บนtarget"
+                  "desc": "[OnSucceedAttack] If this unit ทำ t ความเสียหาย to the target, มอบ [Vibration] equal to [Sinking]บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
