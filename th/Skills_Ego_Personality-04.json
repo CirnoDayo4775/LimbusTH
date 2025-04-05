@@ -301,7 +301,7 @@
                   "desc": "[OnSucceedAttack] มอบ (1 + (highest Reson. x 1.5)) [Laceration](max 10, rounded down)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -417,7 +417,7 @@
           "level": 1,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ  +30% more ความเสียหาย\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], consume 10% HP to ได้รับ 5 [Breath] และ +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n\n[EndSkill] If target is defeated, ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า. (once per turn) If the said target was an ally, activate the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ 2 [Breath] และ +2 [Breath] Count",
+          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ  +30% more ความเสียหาย\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], consume 10% HP to ได้รับ 5 [Breath] และ +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n\n[EndSkill] If target is defeated, ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า. (once per turn) If the said target was an ally, activate the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ 2 [Breath] และ +2 [Breath] Count",
           "coinlist": [
             {},
             {
@@ -433,7 +433,7 @@
           "level": 3,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ  +30% more ความเสียหาย\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], consume 10% HP to ได้รับ 5 [Breath] และ +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n<style=\"highlight\">- ได้รับ 1 [Breath] for every ally targeted ไป this Skill (max 2)</style>\n\n[EndSkill] If target is defeated, ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า. (once per turn) If the said target was an ally, activate the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ <style=\"highlight\">4</style> [Breath] และ +2 [Breath] Count\n<style=\"highlight\">- Recover half of ค่าสติ used ไป this Skill</style>",
+          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ  +30% more ความเสียหาย\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], consume 10% HP to ได้รับ 5 [Breath] และ +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n<style=\"highlight\">- ได้รับ 1 [Breath] for every ally targeted ไป this Skill (max 2)</style>\n\n[EndSkill] If target is defeated, ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า. (once per turn) If the said target was an ally, activate the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ <style=\"highlight\">4</style> [Breath] และ +2 [Breath] Count\n<style=\"highlight\">- Recover half of ค่าสติ used ไป this Skill</style>",
           "coinlist": [
             {},
             {
@@ -452,7 +452,7 @@
           "level": 4,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ  +30% more ความเสียหาย\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], consume 10% HP to ได้รับ 5 [Breath] และ +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n- ได้รับ <style=\"highlight\">2</style> [Breath] for every ally targeted ไป this Skill (max <style=\"highlight\">4</style>)\n\n[EndSkill] If target is defeated, ได้รับ 3 [HoldingBreath] ในเทิร์นหน้า. (once per turn) If the said target was an ally, activate the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ 4 [Breath] และ +<style=\"highlight\">4</style> [Breath] Count\n<style=\"highlight\">- Recover ค่าสติ used ไป this Skill และ reได้รับ 1 of each E.G.O resources consumed</style>",
+          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ  +30% more ความเสียหาย\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], consume 10% HP to ได้รับ 5 [Breath] และ +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n- ได้รับ <style=\"highlight\">2</style> [Breath] for every ally targeted ไป this Skill (max <style=\"highlight\">4</style>)\n\n[EndSkill] If target is defeated, ได้รับ 3 [HoldingBreath] ในเทิร์นหน้า. (once per turn) If the said target was an ally, activate the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ 4 [Breath] และ +<style=\"highlight\">4</style> [Breath] Count\n<style=\"highlight\">- Recover ค่าสติ used ไป this Skill และ reได้รับ 1 of each E.G.O resources consumed</style>",
           "coinlist": [
             {},
             {

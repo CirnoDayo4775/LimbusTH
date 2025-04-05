@@ -36,7 +36,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Sinking] +3 ขั้น"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] มอบ +3 [Laceration]Count"
+                  "desc": "[CriticalOnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 }
               ]
             }
@@ -96,7 +96,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Reuse เหรียญ once"
+                  "desc": "[CriticalOnSucceedAttack] ใช้เหรียญซ้ำ อีกครั้ง"
                 }
               ]
             }
@@ -143,10 +143,10 @@
                   "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target."
                 },
                 {
-                  "desc": "If the target has [FellBulletMark], ทำ  +100% more ความเสียหาย"
+                  "desc": "หากเป้าหมายมี [FellBulletMark], ทำ  +100% more ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [FellBulletMark], ได้รับ 10 [Breath] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [FellBulletMark], ได้รับ 10 [Breath] ในเทิร์นหน้า"
                 }
               ]
             },
@@ -184,7 +184,7 @@
                   "desc": "This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] If the target has [FellBulletMark], kill the target"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] หากเป้าหมายมี [FellBulletMark], kill the target"
                 },
                 {
                   "desc": "[OnSucceedAttack] ได้รับ 10 [Breath] ในเทิร์นหน้า"
@@ -397,7 +397,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tenacious Wound\u200B</line-height>",
-          "desc": "If the target has 6+ [Laceration]Potency, +1 to [Laceration]Potency และ Count inflicted ไป this Skill",
+          "desc": "หากเป้าหมายมี 6+ [Laceration]Potency, +1 to [Laceration]Potency และ Count inflicted ไป this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -405,7 +405,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
@@ -429,12 +429,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wound\u200B</line-height>",
-          "desc": "If the target has 6+ [Laceration]Potency, +1 to [Laceration]Potency และ Count inflicted ไป this Skill",
+          "desc": "หากเป้าหมายมี 6+ [Laceration]Potency, +1 to [Laceration]Potency และ Count inflicted ไป this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
@@ -455,7 +455,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Brambles that Constrict\u200B</line-height>",
-          "desc": "If the target has 6+ [Laceration]Potency, +1 to [Laceration]Potency inflicted ไป this Skill",
+          "desc": "หากเป้าหมายมี 6+ [Laceration]Potency, +1 to [Laceration]Potency inflicted ไป this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -480,7 +480,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Polydipsic Petals\u200B</line-height>",
-          "desc": "Attacks the target with the highest sum of [Laceration]Potency + Count\n[WhenUse] If the target has 6+ [Laceration]Potency, แต้มรวม +2",
+          "desc": "Attacks the target with the highest sum of [Laceration]Potency + Count\n[WhenUse] หากเป้าหมายมี 6+ [Laceration]Potency, แต้มรวม +2",
           "coinlist": [
             {
               "coindescs": [
@@ -492,7 +492,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once (reduce [Laceration]Count ไป 1)"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target อีกครั้ง (reduce [Laceration]Count ไป 1)"
                 }
               ]
             }
@@ -506,7 +506,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bursting Petals\u200B</line-height>",
-          "desc": "Attacks the target with the highest sum of [Laceration]Potency + Count\n[WhenUse] If the target has 6+ [Laceration]Potency, แต้มรวม +2",
+          "desc": "Attacks the target with the highest sum of [Laceration]Potency + Count\n[WhenUse] หากเป้าหมายมี 6+ [Laceration]Potency, แต้มรวม +2",
           "coinlist": [
             {
               "coindescs": [
@@ -532,12 +532,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Storm of Spikes\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 6+ [Laceration]Potency, แต้มรวม +2",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration]Potency, แต้มรวม +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once (reduce [Laceration]Count ไป 1)"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target อีกครั้ง (reduce [Laceration]Count ไป 1)"
                 }
               ]
             }
@@ -562,7 +562,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
@@ -575,7 +575,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
@@ -588,7 +588,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             }
@@ -610,7 +610,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once, และ immediately consume [BloodDinner] generated ไป the [Laceration]damage"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target อีกครั้ง, และ immediately consume [BloodDinner] generated ไป the [Laceration]damage"
                 }
               ]
             },
@@ -620,7 +620,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once, และ immediately consume [BloodDinner] generated ไป the [Laceration]damage"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target อีกครั้ง, และ immediately consume [BloodDinner] generated ไป the [Laceration]damage"
                 }
               ]
             },
@@ -630,7 +630,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target once, และ immediately consume [BloodDinner] generated ไป the [Laceration]damage"
+                  "desc": "[OnSucceedAttack] Activate [Laceration]บนthe target อีกครั้ง, และ immediately consume [BloodDinner] generated ไป the [Laceration]damage"
                 }
               ]
             }

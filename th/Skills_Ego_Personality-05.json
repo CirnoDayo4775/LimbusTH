@@ -269,7 +269,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate [Laceration]บนtarget once (target เสีย 1 [Laceration]Count)"
+                  "desc": "[WinDuelAttack] Activate [Laceration]บนtarget อีกครั้ง (target เสีย 1 [Laceration]Count)"
                 }
               ]
             }
@@ -287,7 +287,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนtarget once (target เสีย 1 [Laceration]Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนtarget อีกครั้ง (target เสีย 1 [Laceration]Count)</style>"
                 }
               ]
             },
@@ -297,7 +297,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนtarget once (target เสีย 1 [Laceration]Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนtarget อีกครั้ง (target เสีย 1 [Laceration]Count)</style>"
                 }
               ]
             },
@@ -338,7 +338,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนtarget once (target เสีย 1 [Laceration]Count)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนtarget อีกครั้ง (target เสีย 1 [Laceration]Count)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -348,7 +348,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนtarget once (target เสีย 1 [Laceration]Count)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., activate [Laceration]บนtarget อีกครั้ง (target เสีย 1 [Laceration]Count)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -389,7 +389,7 @@
           "level": 1,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] Consume up to 10% of this unit's max HP และ ทำ  (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of this unit's max HP, มอบ และ activate 5 [Laceration]บนall allies once instead (lose 1 [Laceration]Count). ฟื้นฟู HP equal toจำนวนof [Laceration]damage ทำ t to allies",
+          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] Consume up to 10% of this unit's max HP และ ทำ  (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of this unit's max HP, มอบ และ activate 5 [Laceration]บนall allies อีกครั้ง instead (lose 1 [Laceration]Count). ฟื้นฟู HP equal toจำนวนof [Laceration]damage ทำ t to allies",
           "coinlist": [
             {
               "coindescs": [
@@ -427,7 +427,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate [Laceration]บนtarget once (target เสีย 1 [Laceration]Count)"
+                  "desc": "[WinDuelAttack] Activate [Laceration]บนtarget อีกครั้ง (target เสีย 1 [Laceration]Count)"
                 }
               ]
             }
@@ -437,7 +437,7 @@
           "level": 3,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">เมื่อมี 6+ (sum of [Laceration]บนself และ the target), แต้มเหรียญ +1</style>\n[WhenUse] Consume up to 10% of this unit's max HP และ ทำ  (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of this unit's max HP, มอบ และ activate 5 [Laceration]บนall allies once instead (lose 1 [Laceration]Count). ฟื้นฟู HP equal toจำนวนof [Laceration]damage ทำ t to allies",
+          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">เมื่อมี 6+ (sum of [Laceration]บนself และ the target), แต้มเหรียญ +1</style>\n[WhenUse] Consume up to 10% of this unit's max HP และ ทำ  (HP consumed / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of this unit's max HP, มอบ และ activate 5 [Laceration]บนall allies อีกครั้ง instead (lose 1 [Laceration]Count). ฟื้นฟู HP equal toจำนวนof [Laceration]damage ทำ t to allies",
           "coinlist": [
             {
               "coindescs": [
@@ -493,7 +493,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Laceration]บนself และ the target<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration]บนself และ the target once (both เสีย 1 [Laceration]Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration]บนself และ the target อีกครั้ง (both เสีย 1 [Laceration]Count)</style>"
                 }
               ]
             },
@@ -503,7 +503,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Laceration]บนself และ the target<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration]บนself และ the target once (both เสีย 1 [Laceration]Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration]บนself และ the target อีกครั้ง (both เสีย 1 [Laceration]Count)</style>"
                 }
               ]
             },

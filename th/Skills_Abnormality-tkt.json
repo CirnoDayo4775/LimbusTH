@@ -32,7 +32,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Punishment For Time Killers\u200B</line-height>",
-          "desc": "When in [TimeAcceleration] state, แต้มปะทะ +2\n[WhenUse] เมื่อมี 500+ [LimitedTime], มอบ +1 [Laceration]Count\n[WhenUse] เมื่อมี 300+ [LimitedTime], consume 25 [LimitedTime] และ มอบ +1 more [Laceration]Potency และ Count with this Skill",
+          "desc": "When in [TimeAcceleration] state, แต้มปะทะ +2\n[WhenUse] เมื่อมี 500+ [LimitedTime], มอบ [Laceration] +1 ขั้น\n[WhenUse] เมื่อมี 300+ [LimitedTime], consume 25 [LimitedTime] และ มอบ +1 more [Laceration]Potency และ Count with this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -44,14 +44,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -91,7 +91,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -110,7 +110,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
@@ -195,7 +195,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Punishment For Time Killers\u200B</line-height>",
-          "desc": "When in [TimeAcceleration] state, แต้มปะทะ +2\n[WhenUse] เมื่อมี 500+ sum of [OwnTime] across all Parts, มอบ +1 [Laceration]Count\n[WhenUse] เมื่อมี 300+ sum of [OwnTime], consume 25 [OwnTime] และ มอบ +1 more [Laceration]Potency และ Count with this Skill",
+          "desc": "When in [TimeAcceleration] state, แต้มปะทะ +2\n[WhenUse] เมื่อมี 500+ sum of [OwnTime] across ทุกๆชิ้นส่วน, มอบ [Laceration] +1 ขั้น\n[WhenUse] เมื่อมี 300+ sum of [OwnTime], consume 25 [OwnTime] และ มอบ +1 more [Laceration]Potency และ Count with this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -207,14 +207,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -254,7 +254,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -273,7 +273,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
@@ -313,7 +313,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-          "desc": "[WhenUse] Base Power +1 for every 100 sum of [OwnTime] across all Parts",
+          "desc": "[WhenUse] Base Power +1 for every 100 sum of [OwnTime] across ทุกๆชิ้นส่วน",
           "coinlist": [
             {
               "coindescs": [
@@ -337,7 +337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Erase the target's time. Once this unit erases the target's time, all Parts recover [OwnTime] to their max values และ ได้รับ 10 [Agility] และ 10 [Enhancement] ในเทิร์นหน้า."
+                  "desc": "[OnSucceedAttack] Erase the target's time. อีกครั้ง this unit erases the target's time, ทุกๆชิ้นส่วน recover [OwnTime] to their max values และ ได้รับ 10 [Agility] และ 10 [Enhancement] ในเทิร์นหน้า."
                 }
               ]
             }
@@ -370,7 +370,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Tock\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 5+ [Laceration], แต้มปะทะ +1",
+          "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -382,14 +382,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -403,7 +403,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ticktick-Tock\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 5+ [Laceration], แต้มปะทะ +1",
+          "desc": "[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -415,7 +415,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 5 [Combustion]"
@@ -503,7 +503,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }

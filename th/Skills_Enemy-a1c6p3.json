@@ -134,7 +134,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 3+ [Sinking] Count, Reuse this เหรียญ (twice)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Sinking] Count, Reuse this เหรียญ (twice)"
                 }
               ]
             }
@@ -192,14 +192,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has [AttackDown], ทำ  20% ของความเสียหายที่ทำไปเป็นbonus Blunt ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [AttackDown], ทำ  20% ของความเสียหายที่ทำไปเป็นbonus Blunt ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has [AttackDown], ทำ  20% ของความเสียหายที่ทำไปเป็นbonus Blunt ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [AttackDown], ทำ  20% ของความเสียหายที่ทำไปเป็นbonus Blunt ความเสียหาย"
                 }
               ]
             }
@@ -213,7 +213,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Make Things...\u200B</line-height>",
-          "desc": "[WinDuel] If the target has 2+ [AttackDown], Base Power +1\n[WhenUse] If the target has [DefenseDown], ทำ  30% ของความเสียหายที่ทำไปเป็นbonus Blunt ความเสียหาย",
+          "desc": "[WinDuel] หากเป้าหมายมี 2+ [AttackDown], Base Power +1\n[WhenUse] หากเป้าหมายมี [DefenseDown], ทำ  30% ของความเสียหายที่ทำไปเป็นbonus Blunt ความเสียหาย",
           "coinlist": [
             {},
             {
@@ -247,7 +247,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>... ove You\u200B</line-height>",
-          "desc": "Prioritizes targets with the most negative effects\n[WinDuel] แต้มเหรียญ +1 for every 3 [DefenseDown]บนtarget (max 3)",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most negative effects\n[WinDuel] แต้มเหรียญ +1 for every 3 [DefenseDown]บนtarget (max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -268,7 +268,7 @@
                   "desc": "[OnSucceedAttack] ทำ  +30% more ความเสียหาย for every 2 [AttackDown]บนtarget (max 120%)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] If the target has 3+ negative effects, reuse this เหรียญ (once)"
+                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 3+ negative effects, reuse this เหรียญ (once)"
                 }
               ]
             }
@@ -320,7 +320,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>...te\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 2+ negative effects, Base Power +1",
+          "desc": "[WhenUse] หากเป้าหมายมี 2+ negative effects, Base Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -339,7 +339,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Fl...he\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 4+ negative effects, แต้มเหรียญ +1",
+          "desc": "[WhenUse] หากเป้าหมายมี 4+ negative effects, แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -368,7 +368,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Cou...oit\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 5+ negative effects, Base Power +2\n[WhenUse] If the target has 5+ negative effects, ทำ  +30% more ความเสียหาย",
+          "desc": "[WhenUse] หากเป้าหมายมี 5+ negative effects, Base Power +2\n[WhenUse] หากเป้าหมายมี 5+ negative effects, ทำ  +30% more ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -383,7 +383,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Vulnerable] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 5+ negative effects, reuse this เหรียญ (2 times max)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ negative effects, reuse this เหรียญ (2 times max)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Remove 1 random removable negative effect appliedบนtarget"

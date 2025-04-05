@@ -599,7 +599,7 @@
                   "desc": "[OnSucceedAttack] มอบ 6 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟู ไป 50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -617,7 +617,7 @@
                   "desc": "[OnSucceedAttack] มอบ 8 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -2316,7 +2316,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 Gluttony Fragility"
+                  "desc": "[OnSucceedAttack] มอบ 2 ความตะกละ Fragility"
                 }
               ]
             }
@@ -2360,7 +2360,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Gluttony Fragility"
+                  "desc": "[OnSucceedAttack] มอบ 3 ความตะกละ Fragility"
                 }
               ]
             }
@@ -3172,7 +3172,7 @@
           "level": 1,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nTargets a random unit\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ  more ความเสียหาย (Max 50%)",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ  more ความเสียหาย (Max 50%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3190,7 +3190,7 @@
           "level": 3,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nTargets a random unit\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ  more ความเสียหาย (Max <style=\"highlight\">75</style>%)",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ  more ความเสียหาย (Max <style=\"highlight\">75</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3211,7 +3211,7 @@
           "level": 4,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nTargets a random unit\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ  more ความเสียหาย (Max 75%)<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n\n[BeforeAttack]จ่าย[Charge] Count to ทำ  more ความเสียหาย (Max 75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [

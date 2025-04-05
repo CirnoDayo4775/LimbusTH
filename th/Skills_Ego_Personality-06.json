@@ -136,7 +136,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] ไป (Gluttony Reson. /2)"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] ไป (ความตะกละ Reson. /2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
@@ -154,10 +154,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] ไป (Gluttony Reson. /2)"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] ไป (ความตะกละ Reson. /2)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ 2 Gluttony Fragility ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] มอบ 2 ความตะกละ Fragility ในเทิร์นหน้า"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า<style=\"highlight\"></style>"
@@ -175,10 +175,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] ไป (Gluttony Reson. /2)"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] ไป (ความตะกละ Reson. /2)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 Gluttony Fragility ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 2 ความตะกละ Fragility ในเทิร์นหน้า"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า<style=\"highlight\"></style>"
@@ -201,7 +201,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] Count ไป (Gluttony Reson. /3)"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] Count ไป (ความตะกละ Reson. /3)"
                 },
                 {
                   "desc": "[OnSucceedAttack] ฟื้นฟู 20% ของความเสียหายที่ทำไป"
@@ -222,7 +222,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] Count ไป (Gluttony Reson. /3)"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] Count ไป (ความตะกละ Reson. /3)"
                 },
                 {
                   "desc": "[OnSucceedAttack] ฟื้นฟู 30% ของความเสียหายที่ทำไป"
@@ -243,7 +243,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] Count ไป (Gluttony Reson. /3)"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] Count ไป (ความตะกละ Reson. /3)"
                 },
                 {
                   "desc": "[OnSucceedAttack] ฟื้นฟู 50% ของความเสียหายที่ทำไป"
@@ -419,7 +419,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น for every 2 Gluttony Reson. (max 3)"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น for every 2 ความตะกละ Reson. (max 3)"
                 }
               ]
             },
@@ -458,7 +458,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น for every 2 Gluttony Reson. (max 3)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น for every 2 ความตะกละ Reson. (max 3)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -500,7 +500,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] มอบ 2 [TakeHpHealReduce] ในเทิร์นหน้า</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น for every 2 Gluttony Reson. (max 3)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น for every 2 ความตะกละ Reson. (max 3)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -537,7 +537,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
@@ -572,7 +572,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น<style=\"highlight\"></style>"
@@ -595,7 +595,7 @@
           "level": 4,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the sum of this unit และ the target's Speed is 6 or greater, แต้มเหรียญ +1\nแต้มเหรียญ +1 for every 7 [Burst]บนtarget (max 2)\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\n<style=\"highlight\">[BeforeAttack] เมื่อมี 4+ Gluttony or Lust Reson., ได้รับ +1 Atk Weight</style>",
+          "desc": "[CantIdentify]\nTargets randomly\nIf the sum of this unit และ the target's Speed is 6 or greater, แต้มเหรียญ +1\nแต้มเหรียญ +1 for every 7 [Burst]บนtarget (max 2)\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\n<style=\"highlight\">[BeforeAttack] เมื่อมี 4+ ความตะกละ or Lust Reson., ได้รับ +1 Atk Weight</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -610,7 +610,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] มอบ 3 [TakeHpHealReduce] ในเทิร์นหน้า</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น<style=\"highlight\"></style>"

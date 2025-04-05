@@ -141,7 +141,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Wingbeat\u200B</line-height>",
+          "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
           "desc": "",
           "coinlist": [
@@ -158,7 +158,7 @@
                   "desc": "[OnSucceedAttackHead] เสีย 1~2 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Reuse this เหรียญ (5 times per Skill)"
+                  "desc": "[OnSucceedAttackHead] Reuse this เหรียญ (5 ครั้งต่อสกิล)"
                 },
                 {
                   "desc": "[OnSucceedAttack] ฟื้นฟู self ไป 4~8% ของความเสียหายที่ทำไป"
@@ -175,7 +175,7 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Wingbeat\u200B</line-height>",
+          "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
           "desc": "If this Skill's ฟื้นฟูing exceeds this unit's max HP, redirect the excess ฟื้นฟูing to 1 ally with the least HP percentage instead",
           "coinlist": [
@@ -192,7 +192,7 @@
                   "desc": "[OnSucceedAttackHead] เสีย 1~2 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Reuse this เหรียญ (5 times per Skill)"
+                  "desc": "[OnSucceedAttackHead] Reuse this เหรียญ (5 ครั้งต่อสกิล)"
                 },
                 {
                   "desc": "[OnSucceedAttack] ฟื้นฟู self ไป <style=\"highlight\">6~10</style>% ของความเสียหายที่ทำไป"
@@ -209,7 +209,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Wingbeat\u200B</line-height>",
+          "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
           "desc": "If this Skill's ฟื้นฟูing exceeds this unit's max HP, redirect the excess ฟื้นฟูing to 1 ally with the least HP percentage instead",
           "coinlist": [
@@ -226,7 +226,7 @@
                   "desc": "[OnSucceedAttackHead] เสีย 1~2 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Reuse this เหรียญ (5 times per Skill)"
+                  "desc": "[OnSucceedAttackHead] Reuse this เหรียญ (5 ครั้งต่อสกิล)"
                 },
                 {
                   "desc": "[OnSucceedAttack] ฟื้นฟู self ไป <style=\"highlight\">8~12</style>% ของความเสียหายที่ทำไป"
@@ -248,7 +248,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Wingbeat\u200B</line-height>",
+          "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
           "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ทำ  5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HPบนself equal to the ความเสียหาย ทำ t to allies.\n- If this unit ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] this turn, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(Once per turn. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to Shield HP. This effect can kill allies.)",
           "coinlist": [
@@ -266,7 +266,7 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Wingbeat\u200B</line-height>",
+          "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
           "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n<style=\"highlight\">[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (max 1)</style>\n[BeforeAttack] ทำ  5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HPบนself equal to the ความเสียหาย ทำ t to allies.\n- If this unit ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] this turn, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(Once per turn. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to Shield HP. This effect can kill allies.)\n<style=\"highlight\">[EndSkill] If this Skill's ฟื้นฟูing exceeds this unit's max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (max 3 per turn)</style>",
           "coinlist": [
@@ -284,7 +284,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Wingbeat\u200B</line-height>",
+          "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
           "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (max <style=\"highlight\">2</style>)\n[BeforeAttack] ทำ  5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HPบนself equal to the ความเสียหาย ทำ t to allies.\n- If this unit ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] this turn, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(Once per turn. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to Shield HP. This effect can kill allies.)\n[EndSkill] If this Skill's ฟื้นฟูing exceeds this unit's max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (max <style=\"highlight\">6</style> per turn)",
           "coinlist": [
@@ -386,7 +386,7 @@
           "level": 1,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "[CantIdentify]\nPrioritizes targets with the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HP สูงสุด (does not get Staggered due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (5 + (sum of [Sinking] Potency และ Countบนthe main target)/3)% HP (max 10%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟู 1 additional ally",
+          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HP สูงสุด (does not get Staggered due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (5 + (sum of [Sinking] Potency และ Countบนthe main target)/3)% HP (max 10%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟู 1 additional ally",
           "coinlist": [
             {
               "coindescs": [
@@ -410,7 +410,7 @@
           "level": 3,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "[CantIdentify]\nPrioritizes targets with the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HP สูงสุด (does not get Staggered due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (<style=\"highlight\">10</style> + (sum of [Sinking] Potency และ Countบนthe main target)/3)% HP (max <style=\"highlight\">15</style>%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟู 1 additional ally",
+          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HP สูงสุด (does not get Staggered due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (<style=\"highlight\">10</style> + (sum of [Sinking] Potency และ Countบนthe main target)/3)% HP (max <style=\"highlight\">15</style>%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟู 1 additional ally",
           "coinlist": [
             {
               "coindescs": [
@@ -437,7 +437,7 @@
           "level": 4,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "[CantIdentify]\nPrioritizes targets with the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HP สูงสุด (does not get Staggered due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (10 + (sum of [Sinking] Potency และ Countบนthe main target)/3)% HP (max 15%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟู 1 additional ally\n<style=\"highlight\">- If the said Reson. was a Gloom Reson., ฟื้นฟู an additional 5% HP</style>",
+          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HP สูงสุด (does not get Staggered due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (10 + (sum of [Sinking] Potency และ Countบนthe main target)/3)% HP (max 15%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟู 1 additional ally\n<style=\"highlight\">- If the said Reson. was a Gloom Reson., ฟื้นฟู an additional 5% HP</style>",
           "coinlist": [
             {
               "coindescs": [

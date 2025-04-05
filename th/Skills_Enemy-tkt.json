@@ -293,7 +293,7 @@
                   "desc": "[OnSucceedAttack] เมื่อมี 10+ [Vibration] Countบนself, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 15+ [Vibration] Potency, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 15+ [Vibration] Potency, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
                 }
               ]
             }
@@ -340,7 +340,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ready For A Beating?\u200B</line-height>",
-          "desc": "Prioritizes targets with [VibrationCollapse]\n[WhenUse] มอบ [Vibration] Count equal to [Vibration] Countบนself to all other allies\n[WhenUse] Trigger [Switch_Vibration]บนall allies(including this unit) to convert their [Vibration] to [VibrationDistribution]",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [VibrationCollapse]\n[WhenUse] มอบ [Vibration] Count equal to [Vibration] Countบนself to all other allies\n[WhenUse] Trigger [Switch_Vibration]บนall allies(including this unit) to convert their [Vibration] to [VibrationDistribution]",
           "coinlist": [
             {},
             {},
@@ -437,14 +437,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 4+ [Vibration] Count, มอบ 1 [[InterlockingTime]]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Vibration] Count, มอบ 1 [[InterlockingTime]]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 4+ [Vibration] Count, มอบ 1 [[InterlockingTime]]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Vibration] Count, มอบ 1 [[InterlockingTime]]"
                 },
                 {
                   "desc": "[OnSucceedAttack] ได้รับ [Vibration] +1 ขั้น"
@@ -504,7 +504,7 @@
                   "desc": "[OnSucceedAttack] ได้รับ [Vibration] +2 ขั้น ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 8+ [Vibration], มอบ 1 [[InterlockingTime]]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 8+ [Vibration], มอบ 1 [[InterlockingTime]]"
                 },
                 {
                   "desc": "[OnSucceedAttack] เมื่อมี 4+ [Vibration] Count, มอบ 8 [Vibration]"
@@ -517,7 +517,7 @@
                   "desc": "[OnSucceedAttack] ได้รับ [Vibration] +2 ขั้น ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 4+ [Vibration] Count, มอบ 1 [[InterlockingTime]]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Vibration] Count, มอบ 1 [[InterlockingTime]]"
                 },
                 {
                   "desc": "[OnSucceedAttack] เมื่อมี 4+ [Vibration] Count, มอบ 5 [Vibration] Count"

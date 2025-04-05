@@ -32,15 +32,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Focus Strike\u200B</line-height>",
-          "desc": "If the target has 7+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ได้รับ 1 [SlashDamageUp] ในเทิร์นหน้า",
+          "desc": "หากเป้าหมายมี 7+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ได้รับ 1 [SlashDamageUp] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "If the target has [Laceration], ทำ  +50% ความเสียหาย"
+                  "desc": "หากเป้าหมายมี [Laceration], ทำ  +50% ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -54,26 +54,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>Lenticular Scatter\u200B</line-height>",
-          "desc": "If the target has 5+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ได้รับ 1 [SlashResultUp] ในเทิร์นหน้า",
+          "desc": "หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ได้รับ 1 [SlashResultUp] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "If the target has [Laceration], ทำ  +20% ความเสียหาย"
+                  "desc": "หากเป้าหมายมี [Laceration], ทำ  +20% ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If the target has [Laceration], ทำ  +10% ความเสียหาย"
+                  "desc": "หากเป้าหมายมี [Laceration], ทำ  +10% ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If the target has [Laceration], ทำ  +40% ความเสียหาย"
+                  "desc": "หากเป้าหมายมี [Laceration], ทำ  +40% ความเสียหาย"
                 }
               ]
             }
@@ -130,10 +130,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "If the target has [Laceration], ทำ  +30% ความเสียหาย"
+                  "desc": "หากเป้าหมายมี [Laceration], ทำ  +30% ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -152,21 +152,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "If the target has [Laceration], ทำ  +10% ความเสียหาย"
+                  "desc": "หากเป้าหมายมี [Laceration], ทำ  +10% ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If the target has [Laceration], ทำ  +10% ความเสียหาย"
+                  "desc": "หากเป้าหมายมี [Laceration], ทำ  +10% ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If the target has [Laceration], ทำ  +20% ความเสียหาย"
+                  "desc": "หากเป้าหมายมี [Laceration], ทำ  +20% ความเสียหาย"
                 }
               ]
             }
@@ -322,12 +322,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Keen Strike\u200B</line-height>",
-          "desc": "If the target has 7+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ได้รับ 1 [Protection] ในเทิร์นหน้า",
+          "desc": "หากเป้าหมายมี 7+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ได้รับ 1 [Protection] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า"
@@ -344,19 +344,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Focus Strike\u200B</line-height>",
-          "desc": "If the target has 5+ [Laceration], แต้มเหรียญ +1\n[StartBattle] ได้รับ 1 [Protection]\n[WinDuel] ได้รับ 1 [Protection] ในเทิร์นหน้า",
+          "desc": "หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[StartBattle] ได้รับ 1 [Protection]\n[WinDuel] ได้รับ 1 [Protection] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -389,19 +389,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Shadow Cloud\u200B</line-height>",
-          "desc": "[WhenUse] If the target has [Laceration], ทำ  +10% ความเสียหาย",
+          "desc": "[WhenUse] หากเป้าหมายมี [Laceration], ทำ  +10% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and [Laceration] +1 ขั้น"
                 }
               ]
             }
@@ -466,7 +466,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 }
               ]
             }
@@ -500,7 +500,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Sky-clearing Cut\u200B</line-height>",
-          "desc": "[StartBattle] If the main target has 10+ [Laceration], Atk Weight +1\n[StartBattle] If this unit will use 5+ Attack Skills this turn, แต้มรวม +5\n[WinDuel] All allies ฟื้นฟู 10 SP\nIf the target has 7+ [Laceration], ทำ  +30% more ความเสียหาย",
+          "desc": "[StartBattle] If the main target has 10+ [Laceration], Atk Weight +1\n[StartBattle] If this unit will use 5+ Attack Skills this turn, แต้มรวม +5\n[WinDuel] All allies ฟื้นฟู 10 SP\nหากเป้าหมายมี 7+ [Laceration], ทำ  +30% more ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -522,7 +522,7 @@
                   "desc": "หากเป้าหมายมี 7+ [Laceration], ทำ  +50% ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +10 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +10 ขั้น"
                 }
               ]
             }
@@ -541,7 +541,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 },
                 {
                   "desc": "[EnemyKill] All allies ฟื้นฟู 20 SP"

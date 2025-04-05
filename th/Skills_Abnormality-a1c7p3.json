@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>This Unforgivable Sin...\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 20 [Laceration]and +1 [Laceration]Count",
+          "desc": "[WhenUse] ได้รับ 20 [Laceration]and [Laceration] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>The Deserved Penance...\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 20 [Laceration]and +1 [Laceration]Count",
+          "desc": "[WhenUse] ได้รับ 20 [Laceration]and [Laceration] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -37,7 +37,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -85,7 +85,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] เมื่อมี 50%+ HP, activate [Laceration]บนself. เสีย 1 [Laceration]Countบนself"
@@ -131,7 +131,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>How Bountiful...\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] Consume up to 30 [BloodDinner]: ได้รับ แต้มเหรียญ +1 for every 10 [BloodDinner] consumed (effect expires after the first เหรียญ attack)\n[DefeatDuel] ได้รับ 1 [Vulnerable] ในเทิร์นหน้า",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] Consume up to 30 [BloodDinner]: ได้รับ แต้มเหรียญ +1 for every 10 [BloodDinner] consumed (effect expires after the first เหรียญ attack)\n[DefeatDuel] ได้รับ 1 [Vulnerable] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -146,7 +146,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
@@ -156,7 +156,7 @@
                   "desc": "[OnSucceedAttack] ฟื้นฟู HP equal to ความเสียหาย ทำ t (Max 30)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this Skill consumed 30 [BloodDinner], และ if this unit is at 30+ [BloodyHand_3rd], Reuse this เหรียญ once"
+                  "desc": "[OnSucceedAttack] If this Skill consumed 30 [BloodDinner], และ if this unit is at 30+ [BloodyHand_3rd], Reuse this เหรียญ อีกครั้ง"
                 },
                 {
                   "desc": "- If this unit failed to consume [BloodDinner] with this Skill, ได้รับ 20 [Laceration]"
@@ -192,7 +192,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Blood...\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], ทำ  +20% more ความเสียหาย",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], ทำ  +20% more ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -204,7 +204,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -218,7 +218,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Expression of Love\u200B</line-height>",
-          "desc": "Prioritizes targets with the least number of negative effects\n[WhenUse] If the target does not have any negative effects, use 'Rough Expression of Love' ในเทิร์นหน้า\n\n[WhenUse] If the target has more negative effects than [FaintMemory]บนself, use 'A Sad Embrace' ในเทิร์นหน้า",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the least number of negative effects\n[WhenUse] If the target does not have any negative effects, use 'Rough Expression of Love' ในเทิร์นหน้า\n\n[WhenUse] หากเป้าหมายมี more negative effects than [FaintMemory]บนself, use 'A Sad Embrace' ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -243,7 +243,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ข่วนing\u200B</line-height>",
-          "desc": "Prioritizes targets with the least number of negative effects\n[WinDuel] มอบ 3 [AffectionTeddy] ในเทิร์นหน้า\n[DefeatDuel] มอบ 1 [AffectionTeddy] ในเทิร์นหน้า",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the least number of negative effects\n[WinDuel] มอบ 3 [AffectionTeddy] ในเทิร์นหน้า\n[DefeatDuel] มอบ 1 [AffectionTeddy] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -265,12 +265,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Violent ข่วนing\u200B</line-height>",
-          "desc": "Prioritizes targets with the least number of negative effects\n[WinDuel] มอบ 3 [AffectionTeddy] ในเทิร์นหน้า\n[DefeatDuel] มอบ 1 [AffectionTeddy] ในเทิร์นหน้า",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the least number of negative effects\n[WinDuel] มอบ 3 [AffectionTeddy] ในเทิร์นหน้า\n[DefeatDuel] มอบ 1 [AffectionTeddy] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
@@ -299,10 +299,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [AffectionTeddy], consume [AffectionTeddy] และ มอบ [Curse] และ [NailPersonality] equal to the value of [AffectionTeddy] consumed (consumes up to 4)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [AffectionTeddy], consume [AffectionTeddy] และ มอบ [Curse] และ [NailPersonality] equal to the value of [AffectionTeddy] consumed (consumes up to 4)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 4+ [Curse], consume 4 [Curse]บนthe target และ มอบ 1 [CursePackage]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Curse], consume 4 [Curse]บนthe target และ มอบ 1 [CursePackage]"
                 }
               ]
             }
@@ -403,7 +403,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -417,12 +417,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Impaled Desire\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 4+ [Laceration], แต้มเหรียญ +1",
+          "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 }
               ]
             },
@@ -443,7 +443,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Repressed Desire\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 4+ [Laceration], Base Power +2",
+          "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], Base Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -623,14 +623,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -652,7 +652,7 @@
                   "desc": "[OnSucceedAttack] ทำ  +10% more ความเสียหาย for every [Laceration]บนthe target (max 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -674,7 +674,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             },
@@ -684,7 +684,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             },
@@ -705,7 +705,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Don Quixote Hardblood Arts 4 - Sundering\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], แต้มเหรียญ +1\n[WinDuel] With this Skill, ทำ  +20% more ความเสียหาย with every Stage of [BloodArmor] (max 60%)\n[DefeatDuel] Consume 4 [BloodArmor] to ได้รับ 20 Shield HP",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WinDuel] With this Skill, ทำ  +20% more ความเสียหาย with every Stage of [BloodArmor] (max 60%)\n[DefeatDuel] Consume 4 [BloodArmor] to ได้รับ 20 Shield HP",
           "coinlist": [
             {
               "coindescs": [
@@ -736,14 +736,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
@@ -793,7 +793,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and +3 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +3 ขั้น"
                 }
               ]
             }
@@ -807,7 +807,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Variant Don Quixote Style: Sancho Arts 4 - Track\u200B</line-height>",
-          "desc": "Prioritizes targets with the most [Laceration]\n[BeforeAttack] If the target is the one with the most [Laceration], ได้รับ Atk Weight +2 และ แต้มปะทะ +3\n[WhenUse] Consume up to 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 for every 15 [BloodDinner] consumed (max 2)\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration], และ activate [Laceration]immediately. เสีย 2 [Laceration]Count\n[EndSkill] Increase [BloodDinner] equal to the ความเสียหาย this Skill ทำ t",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Laceration]\n[BeforeAttack] If the target is the one with the most [Laceration], ได้รับ Atk Weight +2 และ แต้มปะทะ +3\n[WhenUse] Consume up to 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 for every 15 [BloodDinner] consumed (max 2)\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration], และ activate [Laceration]immediately. เสีย 2 [Laceration]Count\n[EndSkill] Increase [BloodDinner] equal to the ความเสียหาย this Skill ทำ t",
           "coinlist": [
             {
               "coindescs": [
@@ -833,19 +833,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>ศาสตราดัดแปลงแห่งดอน กิโฮเต้: ศิลป์ซานโซที่ 3 - ซุ่มประจัน\u200B</line-height>",
-          "desc": "Prioritizes targets with the most [Laceration]\n[BeforeAttack] If the target is the one with the most [Laceration], ได้รับ Atk Weight +2 และ แต้มปะทะ +3\n[WhenUse] Consume up to 50 [BloodDinner]: ได้รับ 1 [BloodArmor] และ Base Power +1 for every 10 [BloodDinner] consumed (max 5)\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration], และ activate [Laceration]immediately. เสีย 1 [Laceration]Count\n[EndSkill] Increase [BloodDinner] equal to the ความเสียหาย this Skill ทำ t",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Laceration]\n[BeforeAttack] If the target is the one with the most [Laceration], ได้รับ Atk Weight +2 และ แต้มปะทะ +3\n[WhenUse] Consume up to 50 [BloodDinner]: ได้รับ 1 [BloodArmor] และ Base Power +1 for every 10 [BloodDinner] consumed (max 5)\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration], และ activate [Laceration]immediately. เสีย 1 [Laceration]Count\n[EndSkill] Increase [BloodDinner] equal to the ความเสียหาย this Skill ทำ t",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
@@ -877,7 +877,7 @@
                   "desc": "[OnSucceedAttackHead] มอบ 8 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟู ไป ความเสียหาย ทำ t"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟูHP เท่ากับความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -905,7 +905,7 @@
                   "desc": "[OnSucceedAttack] ทำ  +10% more ความเสียหาย for every [BloodDinner] (max 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -1018,7 +1018,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Spiked Whip\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 6+ [Burst], แต้มปะทะ +1",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Burst], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1037,19 +1037,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Whip Crack\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 6+ [Burst], แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +2 ขั้น",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has less than 5 [Burst] Count, มอบ [Burst] +2 ขั้น\n- เมื่อมี 5+ [Burst] Count, มอบ 2 [Burst] instead"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี less than 5 [Burst] Count, มอบ [Burst] +2 ขั้น\n- เมื่อมี 5+ [Burst] Count, มอบ 2 [Burst] instead"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has less than 5 [Burst] Count, มอบ [Burst] +2 ขั้น\n- เมื่อมี 5+ [Burst] Count, มอบ 2 [Burst] instead"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี less than 5 [Burst] Count, มอบ [Burst] +2 ขั้น\n- เมื่อมี 5+ [Burst] Count, มอบ 2 [Burst] instead"
                 }
               ]
             }
@@ -1063,12 +1063,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Strangling Crown of Thorns\u200B</line-height>",
-          "desc": "Prioritizes targets with the lowest SP\n[WhenUse] If the target has 0- SP, แต้มปะทะ +3\n[WhenUse] แต้มเหรียญ +1 for every 4 [Burst]บนthe target (max 3)",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the lowest SP\n[WhenUse] หากเป้าหมายมี 0- SP, แต้มปะทะ +3\n[WhenUse] แต้มเหรียญ +1 for every 4 [Burst]บนthe target (max 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ  10 ความเสียหายค่าสติ\n- If the target has 0- SP, ทำ  20 ความเสียหายค่าสติ instead"
+                  "desc": "[OnSucceedAttack] ทำ  10 ความเสียหายค่าสติ\n- หากเป้าหมายมี 0- SP, ทำ  20 ความเสียหายค่าสติ instead"
                 }
               ]
             }
@@ -1082,26 +1082,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>Withdraw Whip\u200B</line-height>",
-          "desc": "Prioritizes targets with [ThornNoose]\nIf the target does not have [ThornNoose], ทำ  -50% less ความเสียหาย",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [ThornNoose]\nIf the target does not have [ThornNoose], ทำ  -50% less ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]If the target has [ThornNoose], มอบ 2 [Burst]\n- If the target has 10+ [Burst], มอบ [Burst] +2 ขั้น instead"
+                  "desc": "[OnSucceedAttack]หากเป้าหมายมี [ThornNoose], มอบ 2 [Burst]\n- หากเป้าหมายมี 10+ [Burst], มอบ [Burst] +2 ขั้น instead"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]If the target has [ThornNoose], มอบ 2 [Burst]\n- If the target has 10+ [Burst], มอบ [Burst] +2 ขั้น instead"
+                  "desc": "[OnSucceedAttack]หากเป้าหมายมี [ThornNoose], มอบ 2 [Burst]\n- หากเป้าหมายมี 10+ [Burst], มอบ [Burst] +2 ขั้น instead"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]If the target has [ThornNoose], มอบ 2 [Burst]\n- If the target has 10+ [Burst], มอบ [Burst] +2 ขั้น instead"
+                  "desc": "[OnSucceedAttack]หากเป้าหมายมี [ThornNoose], มอบ 2 [Burst]\n- หากเป้าหมายมี 10+ [Burst], มอบ [Burst] +2 ขั้น instead"
                 }
               ]
             },
@@ -1197,7 +1197,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Thorns\u200B</line-height>",
-          "desc": "[CantChangeTarget]\nPrioritizes targets with Barbed Lasso",
+          "desc": "[CantChangeTarget]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี Barbed Lasso",
           "coinlist": [
             {
               "coindescs": [
@@ -1216,7 +1216,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Gracefully...\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], แต้มเหรียญ +1",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1461,7 +1461,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 },
                 {
                   "desc": "[WinDuelAttack] มอบ 3 [Burst]"
@@ -1496,7 +1496,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
@@ -1506,7 +1506,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
@@ -1516,7 +1516,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
@@ -1608,14 +1608,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -1634,14 +1634,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },

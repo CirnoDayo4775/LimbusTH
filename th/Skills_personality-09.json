@@ -807,7 +807,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 [DefenseDown] for every 10 [DevyatDimensionalSack]บนself or for every 5 [Burst]บนtarget (max 2, once per turn)"
+                  "desc": "[OnSucceedAttack] มอบ 1 [DefenseDown] for every 10 [DevyatDimensionalSack]บนself or for every 5 [Burst]บนtarget (max 2, อีกครั้ง per turn)"
                 }
               ]
             }
@@ -835,7 +835,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 [DefenseDown] for every <style=\"highlight\">5</style> [DevyatDimensionalSack]บนself or for every 5 [Burst]บนtarget (max <style=\"highlight\">4</style>, once per turn)"
+                  "desc": "[OnSucceedAttack] มอบ 1 [DefenseDown] for every <style=\"highlight\">5</style> [DevyatDimensionalSack]บนself or for every 5 [Burst]บนtarget (max <style=\"highlight\">4</style>, อีกครั้ง per turn)"
                 }
               ]
             }
@@ -863,7 +863,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 [DefenseDown] for every 5 [DevyatDimensionalSack]บนself or for every 5 [Burst]บนtarget (max <style=\"highlight\">6</style>, once per turn)"
+                  "desc": "[OnSucceedAttack] มอบ 1 [DefenseDown] for every 5 [DevyatDimensionalSack]บนself or for every 5 [Burst]บนtarget (max <style=\"highlight\">6</style>, อีกครั้ง per turn)"
                 }
               ]
             }
@@ -932,7 +932,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Courier Support & Control Sequence\u200B</line-height>",
-          "desc": "[StartBattle] เมื่อมี 15+ [DevyatDimensionalSack], activate 'Just... a Strategic Time Off!' instead (once per turn)\n[StartBattle] If this Skill is to be activated, ได้รับ ([DevyatDimensionalSack]/2)% of this unit's max HPเป็นShield (max 15%, once per turn)\n[WhenUse] ได้รับ 2 [DevyatDimensionalSack] (once per turn)\n- เมื่อมี less than 15 [DevyatDimensionalSack], ได้รับ 1 additional [DevyatDimensionalSack]",
+          "desc": "[StartBattle] เมื่อมี 15+ [DevyatDimensionalSack], activate 'Just... a Strategic Time Off!' instead (once per turn)\n[StartBattle] If this Skill is to be activated, ได้รับ ([DevyatDimensionalSack]/2)% of this unit's max HPเป็นShield (max 15%, อีกครั้ง per turn)\n[WhenUse] ได้รับ 2 [DevyatDimensionalSack] (once per turn)\n- เมื่อมี less than 15 [DevyatDimensionalSack], ได้รับ 1 additional [DevyatDimensionalSack]",
           "coinlist": [
             {}
           ]
@@ -940,7 +940,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Courier Support & Control Sequence\u200B</line-height>",
-          "desc": "[StartBattle] เมื่อมี 15+ [DevyatDimensionalSack], activate 'Just... a Strategic Time Off!' instead (once per turn)\n[StartBattle] If this Skill is to be activated, ได้รับ <style=\"highlight\">([DevyatDimensionalSack])%</style> of this unit's max HPเป็นShield (max <style=\"highlight\">25%</style>, once per turn)\n[WhenUse] ได้รับ 2 [DevyatDimensionalSack] (once per turn)\n- เมื่อมี less than 15 [DevyatDimensionalSack], ได้รับ 1 additional [DevyatDimensionalSack]",
+          "desc": "[StartBattle] เมื่อมี 15+ [DevyatDimensionalSack], activate 'Just... a Strategic Time Off!' instead (once per turn)\n[StartBattle] If this Skill is to be activated, ได้รับ <style=\"highlight\">([DevyatDimensionalSack])%</style> of this unit's max HPเป็นShield (max <style=\"highlight\">25%</style>, อีกครั้ง per turn)\n[WhenUse] ได้รับ 2 [DevyatDimensionalSack] (once per turn)\n- เมื่อมี less than 15 [DevyatDimensionalSack], ได้รับ 1 additional [DevyatDimensionalSack]",
           "coinlist": [
             {}
           ]
@@ -953,7 +953,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Just... a Strategic Time Off!\u200B</line-height>",
-          "desc": "[StartBattle] If this Skill is to be activated, ได้รับ ([DevyatDimensionalSack]/2)% of this unit's max HPเป็นShield (max 15%, once per turn)\n[EndBattle] Activate [Retreat]",
+          "desc": "[StartBattle] If this Skill is to be activated, ได้รับ ([DevyatDimensionalSack]/2)% of this unit's max HPเป็นShield (max 15%, อีกครั้ง per turn)\n[EndBattle] Activate [Retreat]",
           "coinlist": [
             {}
           ]
@@ -961,7 +961,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Just... a Strategic Time Off!\u200B</line-height>",
-          "desc": "[StartBattle] If this Skill is to be activated, ได้รับ <style=\"highlight\">([DevyatDimensionalSack])%</style> of this unit's max HPเป็นShield (max <style=\"highlight\">25%</style>, once per turn)\n[EndBattle] Activate [Retreat]",
+          "desc": "[StartBattle] If this Skill is to be activated, ได้รับ <style=\"highlight\">([DevyatDimensionalSack])%</style> of this unit's max HPเป็นShield (max <style=\"highlight\">25%</style>, อีกครั้ง per turn)\n[EndBattle] Activate [Retreat]",
           "coinlist": [
             {}
           ]
@@ -1041,7 +1041,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
@@ -1097,7 +1097,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1130,7 +1130,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },
@@ -1167,7 +1167,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1213,7 +1213,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             }
@@ -1234,7 +1234,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1256,7 +1256,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 }
               ]
             },

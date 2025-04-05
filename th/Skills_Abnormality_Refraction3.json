@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and [Laceration] +1 ขั้น"
                 }
               ]
             }
@@ -30,7 +30,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 4 [Laceration]"
@@ -52,14 +52,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป ([MRcAfBa] x 5)% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ([MRcAfBa] x 5)% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป ([MRcAfBa] x 5)% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ([MRcAfBa] x 5)% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -85,7 +85,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 8 [Laceration]and +4 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 8 [Laceration]and [Laceration] +4 ขั้น"
                 }
               ]
             }
@@ -104,14 +104,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -125,7 +125,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Scattering Wind\u200B</line-height>",
-          "desc": "[OnSucceedEvade] มอบ 3 [Laceration]and +1 [Laceration]Count",
+          "desc": "[OnSucceedEvade] มอบ 3 [Laceration]and [Laceration] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -164,12 +164,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Scattering Red-stained Gossypium\u200B</line-height>",
-          "desc": "Prioritizes the target with the most [Laceration]\n[WhenUse] If the main target is the target with the most [Laceration], Base Power +10\nIf the target has 10+ [Laceration], ทำ  +50% more ความเสียหาย",
+          "desc": "Prioritizes the target with the most [Laceration]\n[WhenUse] If the main target is the target with the most [Laceration], Base Power +10\nหากเป้าหมายมี 10+ [Laceration], ทำ  +50% more ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and +4 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +4 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] ฟื้นฟู HP equal to [Laceration]บนtarget"
@@ -179,7 +179,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and +4 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +4 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] ฟื้นฟู HP equal to [Laceration]บนtarget"
@@ -239,7 +239,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 3+ [MRcAiBb], มอบ [Combustion] +2 ขั้น, 10 [Combustion], และ 2 [MRcAiBc]."
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [MRcAiBb], มอบ [Combustion] +2 ขั้น, 10 [Combustion], และ 2 [MRcAiBc]."
                 }
               ]
             },
@@ -385,7 +385,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttackHead] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -404,7 +404,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and [Laceration] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 1 [Vulnerable] ในเทิร์นหน้า"
@@ -420,7 +420,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -503,7 +503,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 8 [Laceration]and +3 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 8 [Laceration]and [Laceration] +3 ขั้น"
                 }
               ]
             },
@@ -532,14 +532,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 10 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 10 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 8 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 8 [Laceration]and [Laceration] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] ทำ  15 ความเสียหายค่าสติ"
@@ -632,7 +632,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Insidious Pallidification\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 10% ของ HP สูงสุดเป็นShield. For every Queequeg's Ego, ได้รับ additional 0.3% ของ HP สูงสุดเป็นadditional Shield.\nWhen attacked while Shielded, attacker เสีย 5 SP\nWhen attacked, use this Skill once for every 10 Queequeg's Ego",
+          "desc": "[StartBattle] ได้รับ 10% ของ HP สูงสุดเป็นShield. For every Queequeg's Ego, ได้รับ additional 0.3% ของ HP สูงสุดเป็นadditional Shield.\nWhen attacked while Shielded, attacker เสีย 5 SP\nWhen attacked, use this Skill อีกครั้ง for every 10 Queequeg's Ego",
           "coinlist": [
             {
               "coindescs": [

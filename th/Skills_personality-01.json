@@ -915,10 +915,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 20% chance to Reuse เหรียญ once. +20% more chance to Reuse เหรียญ for every type of negative effectบนtarget"
+                  "desc": "[OnSucceedAttack] 20% chance to ใช้เหรียญซ้ำ อีกครั้ง. +20% more chance to ใช้เหรียญซ้ำ for every type of negative effectบนtarget"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ +2 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random."
@@ -935,10 +935,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 20% chance to Reuse เหรียญ once. +20% more chance to Reuse เหรียญ for every type of negative effectบนtarget"
+                  "desc": "[OnSucceedAttack] 20% chance to ใช้เหรียญซ้ำ อีกครั้ง. +20% more chance to ใช้เหรียญซ้ำ for every type of negative effectบนtarget"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ +3 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random."
@@ -955,10 +955,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to Reuse เหรียญ for every type of negative effectบนtarget (2 times max per Skill)"
+                  "desc": "[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to ใช้เหรียญซ้ำ for every type of negative effectบนtarget (2 times max per Skill)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ +3 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random."
@@ -981,7 +981,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count. หากเป้าหมายมี 4+ types of negative effects, มอบ +2 additional [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น. หากเป้าหมายมี 4+ types of negative effects, มอบ +2 additional [Laceration]Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ +3 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random."
@@ -1019,7 +1019,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +1 [Laceration]Count. หากเป้าหมายมี 3+ types of negative effects, มอบ +2 additional [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น. หากเป้าหมายมี 3+ types of negative effects, มอบ +2 additional [Laceration]Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ +3 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random."
@@ -1885,7 +1885,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Flame Counter\u200B</line-height>",
-          "desc": "[BeforeHit] ได้รับ Shield equal to [Combustion]บนtarget (max 10, once per turn)",
+          "desc": "[BeforeHit] ได้รับ Shield equal to [Combustion]บนtarget (max 10, อีกครั้ง per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1906,7 +1906,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flame Counter\u200B</line-height>",
-          "desc": "[BeforeHit] ได้รับ Shield equal to [Combustion]บนtarget (max 15, once per turn)\n[WhenUse] หากเป้าหมายมี 10+ [Combustion], ทำ  +10% more ความเสียหาย",
+          "desc": "[BeforeHit] ได้รับ Shield equal to [Combustion]บนtarget (max 15, อีกครั้ง per turn)\n[WhenUse] หากเป้าหมายมี 10+ [Combustion], ทำ  +10% more ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [

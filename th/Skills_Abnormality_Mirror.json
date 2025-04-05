@@ -1347,7 +1347,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Skim Wounds\u200B</line-height>",
+          "name": "<line-height=120%>แผลถลอก\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1359,7 +1359,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 2+ [Laceration] Count, มอบ 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration] 2+ ขั้น, มอบ 5 [Laceration]"
                 }
               ]
             }
@@ -1372,7 +1372,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>มัดพัวพันd Injury\u200B</line-height>",
+          "name": "<line-height=120%>บาดแผลมัดตรึง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1394,7 +1394,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Smeared Flesh\u200B</line-height>",
+          "name": "<line-height=120%>เนื้อหนังแปดเปื้อน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1410,7 +1410,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 2+ [Laceration] Count, มอบ 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration] 2+ ขั้น, มอบ 5 [Laceration]"
                 }
               ]
             }
@@ -1423,13 +1423,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Casting Shade\u200B</line-height>",
-          "desc": "[WhenUse] Spawn a Giant Clover ในเทิร์นหน้า\n[WhenUse] ทำ  +5% ความเสียหาย per [Laceration] Count\n[DefeatDuel] The Giant Clover spawns with 70% HP",
+          "name": "<line-height=120%>ทอกเงาสูงใหญ่\u200B</line-height>",
+          "desc": "[WhenUse] นำ ต้นโคลเวอร์ยักษ์ เข้าสู่สนาม ในเทิร์นหน้า\n[WhenUse] ทำ  +5% ความเสียหาย ต่อทุกๆขั้นของ [Laceration]\n[DefeatDuel] ต้นโคลเวอร์ยักษ์จะเข้าสนาม ด้วยHP 70%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Remove all [Laceration] Count"
+                  "desc": "[OnSucceedAttack] ลบขั้น [Laceration] ทั้งหมด"
                 }
               ]
             }
@@ -1442,13 +1442,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Churning\u200B</line-height>",
+          "name": "<line-height=120%>กวนดิน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 1% ของ HP สูงสุด per target's [Laceration]\nRemove all [Laceration] Count"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ1% ของ HP สูงสุด ต่อทุก [Laceration] ของเป้าหมาย\nลบขั้น [Laceration] ทั้งหมด"
                 }
               ]
             }

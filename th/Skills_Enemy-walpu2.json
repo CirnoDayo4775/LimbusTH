@@ -148,7 +148,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Pain\u200B</line-height>",
-                    "desc": "Prioritizes targets with [Laceration]\nWhen this unit defeats the target with an attack, enemy with the lowest ค่าสติ เสีย 10 SP.",
+                    "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration]\nWhen this unit defeats the target with an attack, enemy with the lowest ค่าสติ เสีย 10 SP.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -251,7 +251,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Pain\u200B</line-height>",
-                    "desc": "Prioritizes targets with [Laceration]\nWhen this unit defeats the target with an attack, enemy with the lowest ค่าสติ เสีย 10 SP.\nWhen this unit defeats the target with an attack, reuse Skillบนa different target.",
+                    "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration]\nWhen this unit defeats the target with an attack, enemy with the lowest ค่าสติ เสีย 10 SP.\nWhen this unit defeats the target with an attack, reuse Skillบนa different target.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -279,7 +279,7 @@
                                     "desc": "[OnSucceedAttack] มอบ [Laceration] ไป [Laceration]บนtarget"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], Reuse this เหรียญ once"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], Reuse this เหรียญ อีกครั้ง"
                                 }
                             ]
                         }
@@ -377,7 +377,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Pain\u200B</line-height>",
-                    "desc": "Prioritizes targets with [Laceration]\nWhen this unit defeats the target with an attack, enemy with the lowest ค่าสติ เสีย 15 SP.\nWhen this unit defeats the target with an attack, reuse Skillบนa different target.",
+                    "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration]\nWhen this unit defeats the target with an attack, enemy with the lowest ค่าสติ เสีย 15 SP.\nWhen this unit defeats the target with an attack, reuse Skillบนa different target.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -415,7 +415,7 @@
                                     "desc": "[OnSucceedAttack] มอบ [Laceration] ไป [Laceration]บนtarget"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], Reuse this เหรียญ once"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration], Reuse this เหรียญ อีกครั้ง"
                                 }
                             ]
                         }

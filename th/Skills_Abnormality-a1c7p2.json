@@ -30,7 +30,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count\n- If the target is an ally, replace this effect with 3 [DefenseUp] until ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น\n- If the target is an ally, replace this effect with 3 [DefenseUp] until ในเทิร์นหน้า"
                 }
               ]
             }
@@ -44,7 +44,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Beckon the Audience Hither...\u200B</line-height>",
-          "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (max 4)\n[WhenUse] เมื่อมี less than 15 [BloodDinner], ได้รับ 15 [Laceration]and immediately trigger it once, then reduce [Laceration]Count ไป 1 (at less than 10% HP, activate only the part of this effect where this unit ได้รับs [Laceration]Potency และ Count)\n[EndSkill] Consume 15 [BloodDinner]",
+          "desc": "[WhenUse] แต้มรวม +1 for every 5 [FestivalFever]บนself or every 6 [Laceration]บนthe target (max 4)\n[WhenUse] เมื่อมี less than 15 [BloodDinner], ได้รับ 15 [Laceration]and immediately trigger it อีกครั้ง, then reduce [Laceration]Count ไป 1 (at less than 10% HP, activate only the part of this effect where this unit ได้รับs [Laceration]Potency และ Count)\n[EndSkill] Consume 15 [BloodDinner]",
           "coinlist": [
             {
               "coindescs": [
@@ -59,7 +59,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] มอบ +5 [Laceration]Count"
+                  "desc": "[WinDuelAttack] มอบ [Laceration] +5 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] ได้รับ 3 [BloomingThorns]"
@@ -76,7 +76,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Parade of Wonders\u200B</line-height>",
-          "desc": "[CantIdentify]\nPrioritizes enemies for its main target, และ prioritizes allies for its sub-targets. If the target is an ally, แต้มปะทะ +10 และ always fix the ความเสียหาย to 0.\n[WhenUse] แต้มปะทะ +1 for every 20 [BloodDinner_Accumulation] ไป this unit (max 10)\n[WhenUse] เมื่อมี less than 25 [BloodDinner], ได้รับ 25 [Laceration], immediately trigger it once, then เสีย 1 [Laceration]Count (at less than 10% HP, activate only the part of this effect where this unit ได้รับs [Laceration]Potency และ Count)\n[EndSkill] Consume 25 [BloodDinner]\n[EndBattle] Consume all [FestivalFever]",
+          "desc": "[CantIdentify]\nPrioritizes enemies for its main target, และ prioritizes allies for its sub-targets. If the target is an ally, แต้มปะทะ +10 และ always fix the ความเสียหาย to 0.\n[WhenUse] แต้มปะทะ +1 for every 20 [BloodDinner_Accumulation] ไป this unit (max 10)\n[WhenUse] เมื่อมี less than 25 [BloodDinner], ได้รับ 25 [Laceration], immediately trigger it อีกครั้ง, then เสีย 1 [Laceration]Count (at less than 10% HP, activate only the part of this effect where this unit ได้รับs [Laceration]Potency และ Count)\n[EndSkill] Consume 25 [BloodDinner]\n[EndBattle] Consume all [FestivalFever]",
           "coinlist": [
             {
               "coindescs": [
@@ -91,7 +91,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count\n- If the target is an ally, replace this effect with 5 [BloomingThorns]"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น\n- If the target is an ally, replace this effect with 5 [BloomingThorns]"
                 }
               ]
             }
@@ -105,19 +105,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>The Parade Repeats for Eternity\u200B</line-height>",
-          "desc": "[WhenUse] แต้มปะทะ +1 for every 20 [BloodDinner_Accumulation] ไป this unit (max 10)\n[WhenUse] เมื่อมี less than 50 [BloodDinner], ได้รับ 25 [Laceration], +2 [Laceration]Count, immediately trigger it twice, then reduce [Laceration]Count ไป 2 (at less than 10% HP, activate only the part of this effect where this unit ได้รับs [Laceration]Potency และ Count)\n[WhenUse] Consume half of [BloodDinner]\n[EndBattle] Consume all [IncompleteParade]\n[EndBattle] ได้รับ 10 [FestivalFever]",
+          "desc": "[WhenUse] แต้มปะทะ +1 for every 20 [BloodDinner_Accumulation] ไป this unit (max 10)\n[WhenUse] เมื่อมี less than 50 [BloodDinner], ได้รับ 25 [Laceration], [Laceration] +2 ขั้น, immediately trigger it twice, then reduce [Laceration]Count ไป 2 (at less than 10% HP, activate only the part of this effect where this unit ได้รับs [Laceration]Potency และ Count)\n[WhenUse] Consume half of [BloodDinner]\n[EndBattle] Consume all [IncompleteParade]\n[EndBattle] ได้รับ 10 [FestivalFever]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 25% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ25% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 25% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ25% ของความเสียหายที่ทำไป"
                 }
               ]
             },
@@ -127,7 +127,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and 5 [Burst]"
@@ -159,7 +159,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -184,7 +184,7 @@
                   "desc": "[OnSucceedAttack] มอบ 6 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +6 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +6 ขั้น"
                 }
               ]
             },

@@ -159,7 +159,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>...Brea...\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 3+ [Burst] Potency, Base Power +1",
+                    "desc": "[WhenUse] หากเป้าหมายมี 3+ [Burst] Potency, Base Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -191,7 +191,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Weakness...\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has [Burst], Base Power +1 for every 3 [Burst] Potencyบนtarget (max 3)",
+                    "desc": "[WhenUse] หากเป้าหมายมี [Burst], Base Power +1 for every 3 [Burst] Potencyบนtarget (max 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -261,7 +261,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>A-armor Br-\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 3+ [Burst] Count, Base Power +1",
+                    "desc": "[WhenUse] หากเป้าหมายมี 3+ [Burst] Count, Base Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -293,7 +293,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Cut You...\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has [Burst], Base Power +1 for every 2 [Burst] Countบนtarget (max 3)",
+                    "desc": "[WhenUse] หากเป้าหมายมี [Burst], Base Power +1 for every 2 [Burst] Countบนtarget (max 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -363,7 +363,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Remo...ve...\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 3+ [Burst] Potency, Base Power +1",
+                    "desc": "[WhenUse] หากเป้าหมายมี 3+ [Burst] Potency, Base Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -395,7 +395,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Hold... Them Ba...\u200B</line-height>",
-                    "desc": "[WhenUse] มอบ 3 ความเสียหายค่าสติ\n[WhenUse] If the target has [Burst], Base Power +1 for every 4 [Burst] Potencyบนtarget (max 3)",
+                    "desc": "[WhenUse] มอบ 3 ความเสียหายค่าสติ\n[WhenUse] หากเป้าหมายมี [Burst], Base Power +1 for every 4 [Burst] Potencyบนtarget (max 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -427,7 +427,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Cou...\u200B</line-height>",
-                    "desc": "If the target has [Burst], แต้มรวม +1",
+                    "desc": "หากเป้าหมายมี [Burst], แต้มรวม +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -465,7 +465,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Get... Out of My...\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 3+ [Burst] Count, Base Power +1",
+                    "desc": "[WhenUse] หากเป้าหมายมี 3+ [Burst] Count, Base Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -497,7 +497,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Break...through\u200B</line-height>",
-                    "desc": "[WhenUse] มอบ 3 ความเสียหายค่าสติ\n[WhenUse] If the target has [Burst], Base Power +1 for every 3 [Burst] Countบนtarget (max 3)",
+                    "desc": "[WhenUse] มอบ 3 ความเสียหายค่าสติ\n[WhenUse] หากเป้าหมายมี [Burst], Base Power +1 for every 3 [Burst] Countบนtarget (max 3)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -529,7 +529,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>...nter...\u200B</line-height>",
-                    "desc": "If the target has [Burst], แต้มรวม +1",
+                    "desc": "หากเป้าหมายมี [Burst], แต้มรวม +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -870,7 +870,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 15 [Laceration]and +3 [Laceration]Count"
+                                    "desc": "[OnSucceedAttack] มอบ 15 [Laceration]and [Laceration] +3 ขั้น"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] มอบ 2 [Paralysis] ในเทิร์นหน้า"
@@ -921,7 +921,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 1 [Binding] ในเทิร์นหน้า"
@@ -946,14 +946,14 @@
                                     "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] มอบ +2 [Laceration]Count"
+                                    "desc": "[OnSucceedAttackHead] มอบ [Laceration] +2 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 5+ [Laceration]Potency, มอบ 1 [Paralysis] ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration]Potency, มอบ 1 [Paralysis] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -979,7 +979,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 2 [Binding] ในเทิร์นหน้า"
@@ -989,14 +989,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 7+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 7+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         }
@@ -1041,7 +1041,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 2 [Paralysis] ในเทิร์นหน้า"
@@ -1051,14 +1051,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 7+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 7+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 7+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         }
@@ -1084,7 +1084,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
@@ -1109,14 +1109,14 @@
                                     "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] มอบ +2 [Laceration]Count"
+                                    "desc": "[OnSucceedAttackHead] มอบ [Laceration] +2 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 5+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration]Potency, ทำ  20% ของความเสียหายที่ทำไปเป็นbonus ความเสียหาย"
                                 }
                             ]
                         }
@@ -1155,14 +1155,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 12+ [Laceration], มอบ 3 [AttackDown]"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 12+ [Laceration], มอบ 3 [AttackDown]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 15+ [Laceration]Potency, มอบ 2 [Vulnerable] ในเทิร์นหน้า"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 15+ [Laceration]Potency, มอบ 2 [Vulnerable] ในเทิร์นหน้า"
                                 }
                             ]
                         }
@@ -1304,7 +1304,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 8+ [Sinking] Potency, Reuse this เหรียญ (1 time max)"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 8+ [Sinking] Potency, Reuse this เหรียญ (1 time max)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 4 [DefenseDown] 4 และ 1 [Vulnerable]"
@@ -1420,7 +1420,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 4+ [Sinking] Count, Reuse this เหรียญ (1 time max)"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Sinking] Count, Reuse this เหรียญ (1 time max)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 4 [AttackDown] และ 1 [Paralysis] ในเทิร์นหน้า"
@@ -1587,7 +1587,7 @@
                                     "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 3+ [Sinking] Count, Reuse this เหรียญ (twice)"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Sinking] Count, Reuse this เหรียญ (twice)"
                                 }
                             ]
                         }

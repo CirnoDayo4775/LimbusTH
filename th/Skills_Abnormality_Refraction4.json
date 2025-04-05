@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Leave This Place\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 4+ [Sinking], แต้มปะทะ +1",
+          "desc": "[WhenUse] หากเป้าหมายมี 4+ [Sinking], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Don't Make That Face\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 3+ [Sinking] Count, แต้มปะทะ +1",
+          "desc": "[WhenUse] หากเป้าหมายมี 3+ [Sinking] Count, แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -51,7 +51,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Who Might You Be?\u200B</line-height>",
-          "desc": "Prioritizes [UninvitedGuest]\nIf the target has [UninvitedGuest], มอบ +1 more [Sinking] Potency และ Count with this Skill",
+          "desc": "Prioritizes [UninvitedGuest]\nหากเป้าหมายมี [UninvitedGuest], มอบ +1 more [Sinking] Potency และ Count with this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -80,7 +80,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [UninvitedGuest], มอบ 2 [Paralysis] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [UninvitedGuest], มอบ 2 [Paralysis] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -94,7 +94,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Interloper, Are You?\u200B</line-height>",
-          "desc": "Prioritizes [UninvitedGuest]\nIf the target has [UninvitedGuest], มอบ +1 more [Sinking] Potency และ Count with this Skill",
+          "desc": "Prioritizes [UninvitedGuest]\nหากเป้าหมายมี [UninvitedGuest], มอบ +1 more [Sinking] Potency และ Count with this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -112,7 +112,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [UninvitedGuest], มอบ 2 [Paralysis] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [UninvitedGuest], มอบ 2 [Paralysis] ในเทิร์นหน้า"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ [Sinking] +2 ขั้น"
@@ -376,7 +376,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Grounding Refusal\u200B</line-height>",
-          "desc": "Prioritizes targets with [AntiSheepGround]\nแต้มปะทะ +1 for every [ConnectedPlug]\n[StartBattle] ได้รับ 2(3 - [ConnectedPlug]) [Protection]\n[WhenUse] ได้รับ [Charge] +1 ขั้น\n[DefeatDuel] If the target has [AntiSheepGround], ได้รับ 1 [ConnectedPlug]",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AntiSheepGround]\nแต้มปะทะ +1 for every [ConnectedPlug]\n[StartBattle] ได้รับ 2(3 - [ConnectedPlug]) [Protection]\n[WhenUse] ได้รับ [Charge] +1 ขั้น\n[DefeatDuel] หากเป้าหมายมี [AntiSheepGround], ได้รับ 1 [ConnectedPlug]",
           "coinlist": [
             {
               "coindescs": [
@@ -421,7 +421,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Enveloping Resignation\u200B</line-height>",
-          "desc": "If the target has 6+ [Sinking], แต้มเหรียญ +1\n[WinDuel] มอบ [Sinking] +3 ขั้น",
+          "desc": "หากเป้าหมายมี 6+ [Sinking], แต้มเหรียญ +1\n[WinDuel] มอบ [Sinking] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -480,7 +480,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Chainbreaker\u200B</line-height>",
-          "desc": "If the target has [Binding], แต้มปะทะ +1\n[WinDuel] มอบ [Sinking] +4 ขั้น\n[DefeatDuel] Reduce [Sinking] Potency ไป 2",
+          "desc": "หากเป้าหมายมี [Binding], แต้มปะทะ +1\n[WinDuel] มอบ [Sinking] +4 ขั้น\n[DefeatDuel] Reduce [Sinking] Potency ไป 2",
           "coinlist": [
             {
               "coindescs": [
@@ -546,7 +546,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Thou Wilt Sink\u200B</line-height>",
-          "desc": "If the target has [Binding], แต้มปะทะ +1\n[WinDuel] มอบ [Sinking] +2 ขั้น\n[DefeatDuel] Reduce [Sinking] Potency ไป 4",
+          "desc": "หากเป้าหมายมี [Binding], แต้มปะทะ +1\n[WinDuel] มอบ [Sinking] +2 ขั้น\n[DefeatDuel] Reduce [Sinking] Potency ไป 4",
           "coinlist": [
             {
               "coindescs": [

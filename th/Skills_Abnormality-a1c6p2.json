@@ -28,7 +28,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Piling Rocks\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 5+ [Vibration], แต้มปะทะ +1",
+          "desc": "[WhenUse] หากเป้าหมายมี 5+ [Vibration], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -130,7 +130,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Devouring\u200B</line-height>",
-          "desc": "[WhenUse] If the target has [Burst], Base Power +1",
+          "desc": "[WhenUse] หากเป้าหมายมี [Burst], Base Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -182,7 +182,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Ravenous Devouring\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 5+ [Burst], มอบ 2 [DefenseDown]\nได้รับ +1 Base Power for every [TakeHpHealIncrease] valueบนself (max 3)",
+          "desc": "[WhenUse] หากเป้าหมายมี 5+ [Burst], มอบ 2 [DefenseDown]\nได้รับ +1 Base Power for every [TakeHpHealIncrease] valueบนself (max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -322,7 +322,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Upheaval\u200B</line-height>",
-          "desc": "If the target has 5+ [Burst], แต้มปะทะ +1\nIf the target has 5+ [Laceration], แต้มปะทะ +1\n[WinDuel] มอบ [Burst] +3 ขั้น",
+          "desc": "หากเป้าหมายมี 5+ [Burst], แต้มปะทะ +1\nหากเป้าหมายมี 5+ [Laceration], แต้มปะทะ +1\n[WinDuel] มอบ [Burst] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -469,7 +469,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Remove You\u200B</line-height>",
-          "desc": "Core และ Part ฟื้นฟู ไป 10% of the ความเสียหาย ทำ t ไป this Attack Skill",
+          "desc": "Core และ Part ฟื้นฟูHP เท่ากับ10% of the ความเสียหาย ทำ t ไป this Attack Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -503,14 +503,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and [Laceration] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] If this unit's Speed is faster than the target's ไป 3 or more, reuse this เหรียญ (once)"
@@ -527,7 +527,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>This Is My Home!\u200B</line-height>",
-          "desc": "Prioritize targets with the least HP\n[WhenUse] If the target has less than 70% HP, แต้มปะทะ +2",
+          "desc": "Prioritize targets with the least HP\n[WhenUse] หากเป้าหมายมี less than 70% HP, แต้มปะทะ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -542,21 +542,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 20+ [Laceration], ทำ  +100% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 20+ [Laceration], ทำ  +100% more ความเสียหาย"
                 },
                 {
                   "desc": "[EnemyKill] Reuse this Skill (1 time max)"
@@ -625,10 +625,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 5+ [Laceration], ฟื้นฟู ไป 50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -642,7 +642,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>You Little...\u200B</line-height>",
-          "desc": "Prioritizes targets with [AaCfPbBe]\nIf this unit's Speed is faster than the target ไป 3 or more, reuse this Skill (1 time max)",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPbBe]\nIf this unit's Speed is faster than the target ไป 3 or more, reuse this Skill (1 time max)",
           "coinlist": [
             {
               "coindescs": [
@@ -711,31 +711,31 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], ทำ  +30% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ทำ  +30% more ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], ฟื้นฟู ไป 70% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], ฟื้นฟูHP เท่ากับ70% ของความเสียหายที่ทำไป"
                 }
               ]
             }

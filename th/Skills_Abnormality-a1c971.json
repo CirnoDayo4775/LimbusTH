@@ -6,7 +6,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Stoneshower\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Vibration], Base Power +1",
+                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Vibration], Base Power +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -62,7 +62,7 @@
                                     "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] once for every [Vibration] Countบนthe target (max 2); then, reduce target's [Vibration] Count ไป 2"
+                                    "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] อีกครั้ง for every [Vibration] Countบนthe target (max 2); then, reduce target's [Vibration] Count ไป 2"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] มอบ [Vibration] +4 ขั้น"
@@ -98,7 +98,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Decay Collission\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 5+ [Sinking], แต้มเหรียญ +1",
+                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Sinking], แต้มเหรียญ +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -120,7 +120,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Torrent\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has [Sinking], Base Power +2",
+                    "desc": "[WhenUse] หากเป้าหมายมี [Sinking], Base Power +2",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -224,14 +224,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                                 }
                             ]
                         }
@@ -245,7 +245,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Don Quixote Hardblood Arts 4 - Sundering\u200B</line-height>",
-                    "desc": "[WhenUse] If the target has 6+ [Laceration], แต้มเหรียญ +1\n[WinDuel] With this Skill, ทำ  +20% more ความเสียหาย with every Stage of [BloodArmor] (max 60%)\n[DefeatDuel] Consume 4 [BloodArmor]",
+                    "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WinDuel] With this Skill, ทำ  +20% more ความเสียหาย with every Stage of [BloodArmor] (max 60%)\n[DefeatDuel] Consume 4 [BloodArmor]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -276,14 +276,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                                 }
                             ]
                         },
@@ -304,7 +304,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Variant Don Quixote Style: Sancho Arts 4 - Track\u200B</line-height>",
-                    "desc": "Prioritizes targets with the most [Laceration]\n[BeforeAttack] Atk Weight +1 for every 10 [BloodArmor]บนself (max 3)\n[WhenUse] แต้มปะทะ +1 for every 5 [Laceration]บนthe target (max 3)\n[WhenUse] Consume up to 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 for every 15 [BloodDinner] consumed (max 2)\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration], และ activate [Laceration]immediately. เสีย 1 [Laceration]Count\n[EndSkill] Increase [BloodDinner] equal to the ความเสียหาย this Skill ทำ t",
+                    "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Laceration]\n[BeforeAttack] Atk Weight +1 for every 10 [BloodArmor]บนself (max 3)\n[WhenUse] แต้มปะทะ +1 for every 5 [Laceration]บนthe target (max 3)\n[WhenUse] Consume up to 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 for every 15 [BloodDinner] consumed (max 2)\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration], และ activate [Laceration]immediately. เสีย 1 [Laceration]Count\n[EndSkill] Increase [BloodDinner] equal to the ความเสียหาย this Skill ทำ t",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -330,19 +330,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ศาสตราดัดแปลงแห่งดอน กิโฮเต้: ศิลป์ซานโซที่ 3 - ซุ่มประจัน\u200B</line-height>",
-                    "desc": "Prioritizes targets with the most [Laceration]\n[BeforeAttack] Atk Weight +1 for every 10 [BloodArmor]บนself (max 2)\n[WhenUse] แต้มปะทะ +1 for every 5 [Laceration]บนthe target (max 3)\n[WhenUse] Consume up to 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 for every 15 [BloodDinner] consumed (max 2)\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration], และ activate [Laceration]immediately. เสีย 1 [Laceration]Count\n[EndSkill] Increase [BloodDinner] equal to the ความเสียหาย this Skill ทำ t",
+                    "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Laceration]\n[BeforeAttack] Atk Weight +1 for every 10 [BloodArmor]บนself (max 2)\n[WhenUse] แต้มปะทะ +1 for every 5 [Laceration]บนthe target (max 3)\n[WhenUse] Consume up to 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 for every 15 [BloodDinner] consumed (max 2)\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration], และ activate [Laceration]immediately. เสีย 1 [Laceration]Count\n[EndSkill] Increase [BloodDinner] equal to the ความเสียหาย this Skill ทำ t",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                                    "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                                 }
                             ]
                         },
@@ -392,7 +392,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and +3 [Laceration]Count"
+                                    "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +3 ขั้น"
                                 }
                             ]
                         }
@@ -414,10 +414,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 10 [Laceration]and +3 [Laceration]Count"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] มอบ 10 [Laceration]and [Laceration] +3 ขั้น"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and +3 [Laceration]Count to ศัตรูทุกตัว except for the target"
+                                    "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +3 ขั้น to ศัตรูทุกตัว except for the target"
                                 }
                             ]
                         }
@@ -439,7 +439,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "Inflict 10 [Laceration]and +3 [Laceration]Count"
+                                    "desc": "Inflict 10 [Laceration]and [Laceration] +3 ขั้น"
                                 }
                             ]
                         }
@@ -508,7 +508,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 5+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count ไป 1"
                                 },
                                 {
                                     "desc": "[WinDuelAttack] มอบ 5 [Vibration] Potency และ [Vibration] +3 ขั้น"

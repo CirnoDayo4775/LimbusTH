@@ -612,7 +612,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>โอนถ่ายผ้ายันต์\u200B</line-height>",
-          "desc": "[WhenUse] Remove all <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">[WrappedCurseTag]</color></link></u> from target.\nได้รับ [ReattachedCurseTag] equal to number of มัดพัวพันd Curse removed\n[StartBattle] All parts ได้รับ 3 [Protection]",
+          "desc": "[WhenUse] Remove all <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">[WrappedCurseTag]</color></link></u> from target.\nได้รับ [ReattachedCurseTag] equal to number of มัดพัวพันd Curse removed\n[StartBattle] ทุกๆชิ้นส่วน ได้รับ 3 [Protection]",
           "coinlist": [
             {
               "coindescs": [
@@ -649,16 +649,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Skim Wounds\u200B</line-height>",
+          "name": "<line-height=120%>แผลถลอก\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 2+ [Laceration] Count, มอบ 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration] 2+ ขั้น, มอบ 5 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 2+ [Laceration] Count, มอบ 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration] 2+ ขั้น, มอบ 1 [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +4 ขั้น"
@@ -674,7 +674,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>มัดพัวพันd Injury\u200B</line-height>",
+          "name": "<line-height=120%>บาดแผลมัดตรึง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -693,7 +693,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Smeared Flesh\u200B</line-height>",
+          "name": "<line-height=120%>เนื้อหนังแปดเปื้อน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -709,7 +709,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 2+ [Laceration] Count, มอบ 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration] 2+ ขั้น, มอบ 5 [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, ฟื้นฟู 25 HP"
@@ -725,7 +725,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Casting Shade\u200B</line-height>",
+          "name": "<line-height=120%>ทอกเงาสูงใหญ่\u200B</line-height>",
           "desc": "[StartBattle] Spawn a Refracted Clover ในเทิร์นหน้า.\n[DefeatDuel] The Refracted Clover spawns with 50% HP.",
           "coinlist": [
             {
@@ -747,8 +747,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Churning\u200B</line-height>",
-          "desc": "[StartBattle] All parts ได้รับ 3 [Protection].",
+          "name": "<line-height=120%>กวนดิน\u200B</line-height>",
+          "desc": "[StartBattle] ทุกๆชิ้นส่วน ได้รับ 3 [Protection].",
           "coinlist": [
             {
               "coindescs": [
@@ -940,7 +940,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Burrowing Roots\u200B</line-height>",
+          "name": "<line-height=120%>ฝังรากสู่ธรณี\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -962,7 +962,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Expanding Roots\u200B</line-height>",
+          "name": "<line-height=120%>แพร่รากสู่ธรณี\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -984,7 +984,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Encroaching Stems\u200B</line-height>",
+          "name": "<line-height=120%>กิ่งก้านเข้ารุกราน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1003,7 +1003,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Uncovered Abyss\u200B</line-height>",
+          "name": "<line-height=120%>เปิดเผยขุมนรก\u200B</line-height>",
           "desc": "ทำ +100% ความเสียหายแก่เป้าหมายที่มี 5+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>",
           "coinlist": [
             {
@@ -1402,7 +1402,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>5384\u200B</line-height>",
-          "desc": "[WhenUse] All parts ได้รับ 3 [Breath] และ +3 [Breath] Count",
+          "desc": "[WhenUse] ทุกๆชิ้นส่วน ได้รับ 3 [Breath] และ +3 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1417,7 +1417,7 @@
                   "desc": "[OnSucceedAttack] ทำ  +20% more ความเสียหาย per 3 [Breath] (Max 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 4 [Breath] to all Parts"
+                  "desc": "[OnSucceedAttack] ได้รับ 4 [Breath] to ทุกๆชิ้นส่วน"
                 }
               ]
             }
@@ -1439,7 +1439,7 @@
                   "desc": "[OnSucceedAttack] เมื่อมี 5+ [Breath], เพิ่มขีดStagger ไป 50% ของความเสียหายที่ทำไป"
                 },
                 {
-                  "desc": "[OnSucceedAttack] All Parts ได้รับ 8 [Breath] และ +4 [Breath] Count"
+                  "desc": "[OnSucceedAttack] ทุกๆชิ้นส่วน ได้รับ 8 [Breath] และ +4 [Breath] Count"
                 }
               ]
             }
@@ -1829,7 +1829,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Voracious Gluttony\u200B</line-height>",
+          "name": "<line-height=120%>Voracious ความตะกละ\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1848,7 +1848,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Prevalent Gluttony\u200B</line-height>",
+          "name": "<line-height=120%>Prevalent ความตะกละ\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1867,34 +1867,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Restless Gluttony\u200B</line-height>",
+          "name": "<line-height=120%>Restless ความตะกละ\u200B</line-height>",
           "desc": "[WhenUse] หากเป้าหมายมี [Burst], boost HP ฟื้นฟูing ไป +50%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 25% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ25% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 25% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ25% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 25% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ25% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 25% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ25% ของความเสียหายที่ทำไป"
                 }
               ]
             }

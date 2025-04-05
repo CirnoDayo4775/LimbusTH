@@ -4140,8 +4140,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>You're Emptyเป็นWell\u200B</line-height>",
-          "desc": "[WhenUse] มอบ Empty Mark ในเทิร์นหน้า",
+          "name": "<line-height=120%>เธอก็ว่างเปล่าเช่นกัน\u200B</line-height>",
+          "desc": "[WhenUse] มอบ [DistortedDongrangEmptyMark] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -4159,7 +4159,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Prune\u200B</line-height>",
+          "name": "<line-height=120%>เล็มก้าน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -4185,7 +4185,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Prune\u200B</line-height>",
+          "name": "<line-height=120%>เล็มก้าน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -4198,7 +4198,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป ความเสียหาย ทำ t"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -4211,20 +4211,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Thinning\u200B</line-height>",
-          "desc": "ทำ +50% ความเสียหายแก่เป้าหมายที่มี Empty Mark\n[DefeatDuel] ได้รับ 1 [Vulnerable] ในเทิร์นหน้า",
+          "name": "<line-height=120%>เล็มลำต้น\u200B</line-height>",
+          "desc": "ทำ +50% ความเสียหายแก่เป้าหมายที่มี [DistortedDongrangEmptyMark]\n[DefeatDuel] ได้รับ 1 [Vulnerable] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป ความเสียหาย ทำ t\nหากเป้าหมายมี Empty Mark, ได้รับ 1 [Enhancement] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับความเสียหายที่ทำไป\nหากเป้าหมายมี [DistortedDongrangEmptyMark], ได้รับ 1 [Enhancement] ในเทิร์นหน้า"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป ความเสียหาย ทำ t\nหากเป้าหมายมี Empty Mark, ได้รับ 1 [Enhancement] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับความเสียหายที่ทำไป\nหากเป้าหมายมี [DistortedDongrangEmptyMark], ได้รับ 1 [Enhancement] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -4237,7 +4237,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Destruction\u200B</line-height>",
+          "name": "<line-height=120%>บ่อนทำลาย\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -4256,27 +4256,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Still Not Enough...\u200B</line-height>",
+          "name": "<line-height=120%>ยังไม่มากพอ...\u200B</line-height>",
           "desc": "Targets a random friendly unit",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]; ฟื้นฟู ไป 25% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]; ฟื้นฟูHP เท่ากับ25% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]; ฟื้นฟู ไป 25% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]; ฟื้นฟูHP เท่ากับ25% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb 1 random positive status effect from target และ ได้รับ it ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ดูดซับสถานะทางบวกแบบสุ่ม 1 อย่าง ไปจากเป้าหมาย จะได้รับมันมาในเทิร์นหน้า"
                 }
               ]
             }
@@ -4289,13 +4289,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Must Fill...\u200B</line-height>",
-          "desc": "Targets a random unit",
+          "name": "<line-height=120%>ต้องเติมเต็ม...\u200B</line-height>",
+          "desc": "เล็งเป้าหมายแบบสุ่ม",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb 1 random positive status effect from target และ ได้รับ it ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] ดูดซับสถานะทางบวกแบบสุ่ม 1 อย่าง ไปจากเป้าหมาย จะได้รับมันมาในเทิร์นหน้า"
                 }
               ]
             },
@@ -4315,7 +4315,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>It's All Empty\u200B</line-height>",
+          "name": "<line-height=120%>ทุกอย่างมันกลวงเปล่า\u200B</line-height>",
           "desc": "[DefeatDuel] ได้รับ 10 [Burst]",
           "coinlist": [
             {}
@@ -4328,7 +4328,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>It's Too Late Now\u200B</line-height>",
+          "name": "<line-height=120%>มันสายไปแล้วล่ะ\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -4347,13 +4347,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>It's All [Combustion]ed Up\u200B</line-height>",
+          "name": "<line-height=120%>ทุกสิ่งได้มอดไหม้ไปแล้วล่ะ\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Vulnerable], 5 [Burst], และ 5 [Laceration]; ฟื้นฟู ไป 10% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Vulnerable], 5 [Burst], และ 5 [Laceration]; ฟื้นฟูHP เท่ากับ10% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -4366,7 +4366,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>It's No Use\u200B</line-height>",
+          "name": "<line-height=120%>เปล่าประโยชน์\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {}
@@ -4379,7 +4379,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Cultivate\u200B</line-height>",
+          "name": "<line-height=120%>เพาะพืชผล\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -4405,7 +4405,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Dissemination\u200B</line-height>",
+          "name": "<line-height=120%>แพร่พันธุ์พืช\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -4425,7 +4425,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Seeds ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 3 [EgoAwakenDongrangSeed] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -4438,27 +4438,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Facilitate\u200B</line-height>",
+          "name": "<line-height=120%>พรวนหน้าดิน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Seeds; if target already has Seeds, มอบ 1 more"
+                  "desc": "[OnSucceedAttack] มอบ 1 [EgoAwakenDongrangSeed]; หากเป้าหมายมี [EgoAwakenDongrangSeed] อยู่แล้ว, มอบเพิ่มอีก 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Seeds; if target already has Seeds, มอบ 1 more"
+                  "desc": "[OnSucceedAttack] มอบ 1 [EgoAwakenDongrangSeed]; หากเป้าหมายมี [EgoAwakenDongrangSeed] อยู่แล้ว, มอบเพิ่มอีก 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Seeds; if target already has Seeds, มอบ 1 more"
+                  "desc": "[OnSucceedAttack] มอบ 1 [EgoAwakenDongrangSeed]; หากเป้าหมายมี [EgoAwakenDongrangSeed] อยู่แล้ว, มอบเพิ่มอีก 1"
                 }
               ]
             }
@@ -4471,13 +4471,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Overgrowth\u200B</line-height>",
+          "name": "<line-height=120%>เจริญเฟื่องฟู\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 Seeds และ Overheal; ฟื้นฟู target's HP ไป 15"
+                  "desc": "[OnSucceedAttack] มอบ 3 [EgoAwakenDongrangSeed] และ [EgoAwakenDongrangOverHeal]; ฟื้นฟูHP ของเป้าหมายไป 15"
                 }
               ]
             }
@@ -4490,13 +4490,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Time of Harvest\u200B</line-height>",
+          "name": "<line-height=120%>ได้ฤกษ์เก็บเกี่ยว\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Vulnerable] และ 10 [Laceration]\nหากเป้าหมายมี Nutrient Drain, ฟื้นฟู 20 HP, และ ได้รับ 2 [Enhancement] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Vulnerable] และ 10 [Laceration]\nหากเป้าหมายมี [EgoAwakenDongrangSeed], ฟื้นฟู 20 HP, และ ได้รับ 2 [Enhancement] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -4509,13 +4509,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Please Be My Nutrient\u200B</line-height>",
-          "desc": "[WhenUse] All Trees of Desires ฟื้นฟู 15 HP; If there are no Trees of Desires, spawn one",
+          "name": "<line-height=120%>มาเป็นสารอาหารของฉันที\u200B</line-height>",
+          "desc": "[WhenUse] พฤกษาแห่งความปรารถนาทั้งหมด ฟื้นฟู 15 HP; หากไม่มี พฤกษาแห่งความปรารถนา อยู้ในสนาม นำ 1 ต้น เข้าสู่สนาม",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 10 HP; มอบ 3 Seeds"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 10 HP; มอบ 3 [EgoAwakenDongrangSeed]"
                 }
               ]
             }
@@ -4528,20 +4528,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Growing Results\u200B</line-height>",
+          "name": "<line-height=120%>ผลลัพธ์งอกงาม\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Seeds"
+                  "desc": "[OnSucceedAttack] มอบ 1 [EgoAwakenDongrangSeed]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 Seeds"
+                  "desc": "[OnSucceedAttack] มอบ 1 [EgoAwakenDongrangSeed]"
                 }
               ]
             }
@@ -4554,7 +4554,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Expectation\u200B</line-height>",
+          "name": "<line-height=120%>ความคาดหวัง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {}
@@ -4567,7 +4567,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Expanding Roots\u200B</line-height>",
+          "name": "<line-height=120%>แพร่รากสู่ธรณี\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -4589,7 +4589,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Burrowing Roots\u200B</line-height>",
+          "name": "<line-height=120%>ฝังรากสู่ธรณี\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -4611,7 +4611,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Quivering Lure\u200B</line-height>",
+          "name": "<line-height=120%>เสียงล่ออันสั่นเทา\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -4627,7 +4627,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 Defense Down ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Defense Down] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -4640,7 +4640,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Encroaching Stems\u200B</line-height>",
+          "name": "<line-height=120%>กิ่งก้านเข้ารุกราน\u200B</line-height>",
           "desc": "[WinDuel] หากเป้าหมายมี [Burst], มอบ [Burst] +2 ขั้น",
           "coinlist": [
             {
@@ -4659,7 +4659,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Uncovered Abyss\u200B</line-height>",
+          "name": "<line-height=120%>เปิดเผยความมืดมน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -4681,7 +4681,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Hard Branches\u200B</line-height>",
+          "name": "<line-height=120%>กื่งก้านแข็งกล้า\u200B</line-height>",
           "desc": "[StartBattle] ได้รับ 3 [Protection]",
           "coinlist": [
             {}
@@ -4694,7 +4694,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Skim Wounds\u200B</line-height>",
+          "name": "<line-height=120%>แผลถลอก\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -4706,7 +4706,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 2+ [Laceration] Count, มอบ 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration] 2+ ขั้น, มอบ 5 [Laceration]"
                 }
               ]
             }
@@ -4719,7 +4719,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>มัดพัวพันd Injury\u200B</line-height>",
+          "name": "<line-height=120%>บาดแผลมัดตรึง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -4741,7 +4741,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Smeared Flesh\u200B</line-height>",
+          "name": "<line-height=120%>เนื้อหนังแปดเปื้อน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -4757,7 +4757,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 2+ [Laceration] Count, มอบ 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration] 2+ ขั้น, มอบ 5 [Laceration]"
                 }
               ]
             }
@@ -4770,13 +4770,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Casting Shade\u200B</line-height>",
-          "desc": "[WhenUse] Spawn a Giant Clover ในเทิร์นหน้า\n[WhenUse] ทำ  +5% ความเสียหาย per [Laceration] Count\n[DefeatDuel] The Giant Clover spawns with 70% HP",
+          "name": "<line-height=120%>ทอกเงาสูงใหญ่\u200B</line-height>",
+          "desc": "[WhenUse] นำ ต้นโคลเวอร์ยักษ์ เข้าสู่สนาม ในเทิร์นหน้า\n[WhenUse] ทำ  +5% ความเสียหาย ต่อทุกๆขั้นของ [Laceration]\n[DefeatDuel] ต้นโคลเวอร์ยักษ์จะเข้าสนาม ด้วยHP 70%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Remove all [Laceration] Count"
+                  "desc": "[OnSucceedAttack] ลบขั้น [Laceration] ทั้งหมด"
                 }
               ]
             }
@@ -4789,13 +4789,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Churning\u200B</line-height>",
+          "name": "<line-height=120%>กวนดิน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 1% ของ HP สูงสุด per target's [Laceration]\nRemove all [Laceration] Count"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ1% ของ HP สูงสุด ต่อทุกๆ [Laceration] ของเป้าหมาย\nลบขั้น [Laceration] ทั้งหมด"
                 }
               ]
             }
@@ -5011,8 +5011,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Queen's Decree\u200B</line-height>",
-          "desc": "[StartBattle] มอบ 1 [PreparedMeat] to a random ally without [PreparedMeat]",
+          "name": "<line-height=120%>โองการของราชินี\u200B</line-height>",
+          "desc": "[StartBattle] มอบ 1 [PreparedMeat] แก่พันธมิตรแบบสุ่มที่ยังไม่มี [PreparedMeat]",
           "coinlist": [
             {}
           ]
@@ -5024,19 +5024,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Wingbeat\u200B</line-height>",
+          "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -5049,13 +5049,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Predation\u200B</line-height>",
-          "desc": "If the target has 5+ [Laceration], แต้มเหรียญ +1",
+          "name": "<line-height=120%>การล่าเหยื่อ\u200B</line-height>",
+          "desc": "หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 3% ของ HP สูงสุด to the Core"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 3% ของ HP สูงสุด ให้แกนกลาง"
                 }
               ]
             }
@@ -5068,8 +5068,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Starved Fluttering\u200B</line-height>",
-          "desc": "เมื่อมี 3+ [Hunger], แต้มเหรียญ +1\nIf the target has 5+ [Laceration], แต้มเหรียญ +1",
+          "name": "<line-height=120%>คู่ปีกอันหิวโซ\u200B</line-height>",
+          "desc": "เมื่อมี 3+ [Hunger], แต้มเหรียญ +1\nหากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -5101,13 +5101,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Ravening Hunger\u200B</line-height>",
-          "desc": "[CantIdentify]\nPrioritizes targets with [PreparedMeat]\nIf the target has 5 +[Laceration], แต้มเหรียญ +1\nIf the target has [PreparedMeat], แต้มเหรียญ +10\nแต้มเหรียญ -5 for every broken Arm Part\n[TargetKill] All Parts ได้รับ 2 [Enhancement] for the Encounter (stackable)",
+          "name": "<line-height=120%>ความหิวพุ่งทะลัก\u200B</line-height>",
+          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี [PreparedMeat]\nหากเป้าหมายมี 5 +[Laceration], แต้มเหรียญ +1\nหากเป้าหมายมี [PreparedMeat], แต้มเหรียญ +10\nแต้มเหรียญ -5 ต่อทุกๆ ชิ้นส่วนแขนที่พังไป\n[TargetKill] ทุกๆชิ้นส่วน ได้รับ 2 [Enhancement] จนจบการต่อสู้ (ซ้อนทับได้)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Reuse เหรียญ once (3 times per Skill)"
+                  "desc": "[OnSucceedAttackHead] ใช้เหรียญซ้ำ อีกครั้ง (3 ครั้งต่อสกิล)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Core ฟื้นฟู 10 HP"
@@ -5123,7 +5123,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Respite\u200B</line-height>",
+          "name": "<line-height=120%>พักผ่อนกาย\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -5135,8 +5135,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Time to Pay for My Care\u200B</line-height>",
-          "desc": "[StartBattle] มอบ 1 [PreparedMeat] แก่พันธมิตรทุกคน without [PreparedMeat]",
+          "name": "<line-height=120%>ได้เวลาจ่ายค่าคุ้มครองแล้ว\u200B</line-height>",
+          "desc": "[StartBattle] มอบ 1 [PreparedMeat] ที่ไม่มี [PreparedMeat]",
           "coinlist": [
             {}
           ]
@@ -5148,7 +5148,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Munch Munch\u200B</line-height>",
+          "name": "<line-height=120%>หม่ำ หม่ำ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -5173,8 +5173,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Gluttony\u200B</line-height>",
-          "desc": "If the target has 5+ [Laceration], แต้มเหรียญ +1",
+          "name": "<line-height=120%>ความตะกละ\u200B</line-height>",
+          "desc": "หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -5182,7 +5182,7 @@
                   "desc": "[OnSucceedAttack] Core ฟื้นฟู 10 HP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -5195,8 +5195,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Tiny Wingbeat\u200B</line-height>",
-          "desc": "If the target has 5+ [Laceration], แต้มเหรียญ +1",
+          "name": "<line-height=120%>ปีกน้อยกระพือ\u200B</line-height>",
+          "desc": "หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -5228,7 +5228,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Respite\u200B</line-height>",
+          "name": "<line-height=120%>พักผ่อนกาย\u200B</line-height>",
           "coinlist": [
             {}
           ]

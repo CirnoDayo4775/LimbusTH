@@ -172,7 +172,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Up All Pretty!\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 for every 5 [Laceration]บนself (max 3)",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 for every 5 [Laceration]บนself (max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -180,7 +180,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reuse เหรียญ ([BloodScissor] Stage - 1) times (max 2)"
+                  "desc": "[OnSucceedAttack] ใช้เหรียญซ้ำ ([BloodScissor] Stage - 1) times (max 2)"
                 }
               ]
             }
@@ -194,19 +194,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Even Sharper\u200B</line-height>",
-          "desc": "[WhenUse] Consume up to 20 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner] with this Skill, ได้รับ 30 [Laceration]\n[WhenUse] If the target has 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 for every 5 [Laceration]บนself (max 2)",
+          "desc": "[WhenUse] Consume up to 20 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner] with this Skill, ได้รับ 30 [Laceration]\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 for every 5 [Laceration]บนself (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -220,7 +220,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>SNIP!!\u200B</line-height>",
-          "desc": "[WhenUse] Consume up to 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n[WhenUse] If the target has [LineCutting], แต้มปะทะ +5\nHeal 5 SPบนevery hit aได้รับst [LineCutting]",
+          "desc": "[WhenUse] Consume up to 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n[WhenUse] หากเป้าหมายมี [LineCutting], แต้มปะทะ +5\nHeal 5 SPบนevery hit aได้รับst [LineCutting]",
           "coinlist": [
             {
               "coindescs": [
@@ -239,7 +239,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 }
               ]
             }
@@ -253,7 +253,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Up Too!\u200B</line-height>",
-          "desc": "[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor] (max 2)\n[WhenUse] Consume up to 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 6+ [Laceration], แต้มปะทะ +2",
+          "desc": "[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor] (max 2)\n[WhenUse] Consume up to 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -264,7 +264,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [BloodScissorScars] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ 5 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttackHead] มอบ 5 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -278,7 +278,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Now, It's Your Turn\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], แต้มเหรียญ +1",
+          "desc": "[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1",
           "coinlist": [
             {},
             {
@@ -304,7 +304,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Together!\u200B</line-height>",
-          "desc": "[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor]\n[WhenUse] Consume up to 100 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 6+ [Laceration], แต้มปะทะ +2\n[EndSkill] Consume 10 [BloodScissor]",
+          "desc": "[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor]\n[WhenUse] Consume up to 100 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ for every 10 [BloodDinner] consumed\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2\n[EndSkill] Consume 10 [BloodScissor]",
           "coinlist": [
             {
               "coindescs": [
@@ -312,7 +312,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +3 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
                 },
                 {
                   "desc": "[WinDuelAttack] Activate the target's [Laceration](max 10). The target เสีย 1 [Laceration]Count"
@@ -351,7 +351,7 @@
                   "desc": "[OnSucceedAttack] ทำ  +40% more ความเสียหาย for every [BloodScissor] Stage (max 120%)"
                 },
                 {
-                  "desc": "[EnemyKill] If this เหรียญ effect killed the target, ฟื้นฟู ไป 50% of the ความเสียหาย ทำ t aได้รับst the killed target."
+                  "desc": "[EnemyKill] If this เหรียญ effect killed the target, ฟื้นฟูHP เท่ากับ50% of the ความเสียหาย ทำ t aได้รับst the killed target."
                 }
               ]
             }
@@ -370,7 +370,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and +4 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]and [Laceration] +4 ขั้น"
                 }
               ]
             }
@@ -384,7 +384,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I Don't Need Ugly Things!!\u200B</line-height>",
-          "desc": "[CantChangeTarget]\nPrioritizes targets with the least HP percentage",
+          "desc": "[CantChangeTarget]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP percentage",
           "coinlist": [
             {
               "coindescs": [

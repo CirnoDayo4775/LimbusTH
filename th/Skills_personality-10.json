@@ -420,7 +420,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse เหรียญ (once per Skill)",
+                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญซ้ำ (once per Skill)",
                   "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin"
                 }
               ]
@@ -438,7 +438,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse เหรียญ (once per Skill)",
+                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญซ้ำ (once per Skill)",
                   "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin"
                 }
               ]
@@ -456,7 +456,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse เหรียญ (once per Skill)",
+                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญซ้ำ (once per Skill)",
                   "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse this Coin"
                 }
               ]
@@ -656,7 +656,7 @@
                   "desc": "[OnSucceedAttack] มอบ 10 [Combustion]"
                 },
                 {
-                  "desc": "[EnemyKill] Randomly มอบ [Combustion] Potency of the defeated target between ศัตรูทุกตัว (max 10. In Focused Encounters, between all Parts)",
+                  "desc": "[EnemyKill] Randomly มอบ [Combustion] Potency of the defeated target between ศัตรูทุกตัว (max 10. In Focused Encounters, between ทุกๆชิ้นส่วน)",
                   "summary": "[EnemyKill] มอบ [Combustion] to random enemies"
                 }
               ]
@@ -682,7 +682,7 @@
                   "desc": "[OnSucceedAttack] มอบ 10 [Combustion]"
                 },
                 {
-                  "desc": "[EnemyKill] Randomly มอบ [Combustion] Potency of the defeated target between ศัตรูทุกตัว (max 10. In Focused Encounters, between all Parts)",
+                  "desc": "[EnemyKill] Randomly มอบ [Combustion] Potency of the defeated target between ศัตรูทุกตัว (max 10. In Focused Encounters, between ทุกๆชิ้นส่วน)",
                   "summary": "[EnemyKill] มอบ [Combustion] to random enemies"
                 }
               ]
@@ -1145,7 +1145,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Courier Assistance & Crisis Control System\u200B</line-height>",
-          "desc": "[StartBattle] เมื่อมี 15+ [DevyatDimensionalSackSinclair], activate 'W-wait, I need to do some maintenance...!.' instead (once per turn)\n[StartBattle] If this Skill is to be activated, ได้รับ ([DevyatDimensionalSackSinclair] / 2)% of this unit's max HPเป็นShield (max 15%, once per turn)",
+          "desc": "[StartBattle] เมื่อมี 15+ [DevyatDimensionalSackSinclair], activate 'W-wait, I need to do some maintenance...!.' instead (once per turn)\n[StartBattle] If this Skill is to be activated, ได้รับ ([DevyatDimensionalSackSinclair] / 2)% of this unit's max HPเป็นShield (max 15%, อีกครั้ง per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1159,7 +1159,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Courier Assistance & Crisis Control System\u200B</line-height>",
-          "desc": "[StartBattle] เมื่อมี 15+ [DevyatDimensionalSackSinclair], activate 'W-wait, I need to do some maintenance...!' instead (once per turn)\n[StartBattle] If this Skill is to be activated, ได้รับ <style=\"highlight\">([DevyatDimensionalSackSinclair])%</style> of this unit's max HPเป็นShield (max <style=\"highlight\">25%</style>, once per turn)",
+          "desc": "[StartBattle] เมื่อมี 15+ [DevyatDimensionalSackSinclair], activate 'W-wait, I need to do some maintenance...!' instead (once per turn)\n[StartBattle] If this Skill is to be activated, ได้รับ <style=\"highlight\">([DevyatDimensionalSackSinclair])%</style> of this unit's max HPเป็นShield (max <style=\"highlight\">25%</style>, อีกครั้ง per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1178,7 +1178,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>W-wait, I need to do some maintenance...!\u200B</line-height>",
-          "desc": "[StartBattle] If this Skill is to be activated, ได้รับ ([DevyatDimensionalSackSinclair])% of this unit's max HPเป็นShield (max 15%, once per turn)\n[EndBattle] Activate [Retreat]",
+          "desc": "[StartBattle] If this Skill is to be activated, ได้รับ ([DevyatDimensionalSackSinclair])% of this unit's max HPเป็นShield (max 15%, อีกครั้ง per turn)\n[EndBattle] Activate [Retreat]",
           "coinlist": [
             {
               "coindescs": [
@@ -1192,7 +1192,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>W-wait, I need to do some maintenance...!\u200B</line-height>",
-          "desc": "[StartBattle] If this Skill is to be activated, ได้รับ <style=\"highlight\">([DevyatDimensionalSackSinclair])%</style> of this unit's max HPเป็นShield (max <style=\"highlight\">25%</style>, once per turn)\n[EndBattle] Activate [Retreat]",
+          "desc": "[StartBattle] If this Skill is to be activated, ได้รับ <style=\"highlight\">([DevyatDimensionalSackSinclair])%</style> of this unit's max HPเป็นShield (max <style=\"highlight\">25%</style>, อีกครั้ง per turn)\n[EndBattle] Activate [Retreat]",
           "coinlist": [
             {
               "coindescs": [

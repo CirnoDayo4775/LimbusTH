@@ -1712,7 +1712,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Focus Strike\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 2+ [Laceration] Count, ทำ  +20% ความเสียหาย",
+          "desc": "หากเป้าหมายมี [Laceration] 2+ ขั้น, ทำ  +20% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -1776,7 +1776,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Clean Up\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 5+ [Laceration] Count, ทำ  +20% ความเสียหาย",
+          "desc": "หากเป้าหมายมี [Laceration] 5+ ขั้น, ทำ  +20% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -1829,7 +1829,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Lenticular Swirl\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 9+ [Laceration] Count, ทำ  +40% ความเสียหาย",
+          "desc": "หากเป้าหมายมี [Laceration] 9+ ขั้น, ทำ  +40% ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -5996,7 +5996,7 @@
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี [Burst], +10% ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟู ไป 30% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟูHP เท่ากับ30% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -6273,7 +6273,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟู ไป 30% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟูHP เท่ากับ30% ของความเสียหายที่ทำไป"
                 }
               ]
             },
@@ -6288,7 +6288,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟู ไป 50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             },
@@ -6303,7 +6303,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             },
@@ -6340,7 +6340,7 @@
                   "desc": "[OnSucceedAttack] มอบ  5 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟู ไป 50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -6357,7 +6357,7 @@
                   "desc": "[OnSucceedAttack] มอบ  5 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -6432,7 +6432,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู ไป 100% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟูHP เท่ากับ100% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -7991,7 +7991,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Butcher Viand\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 10+ [Laceration] Count, แต้มเหรียญ +1",
+          "desc": "หากเป้าหมายมี [Laceration] 0+ ขั้น, แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -8552,7 +8552,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี  [Charge] 3+ ขั้น, reuse this เหรียญ if it lands Heads (Up to 2 times)\nIf the เหรียญ is reused twice, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, reduce [Vibration] Count ไป 1",
-                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nReuse เหรียญ if conditions are met; มอบ  +2 [Vibration] if reused.\nIf the เหรียญ is reused twice, เปิดใช้ [VibrationExplosion], then reduce [Vibration] Count"
+                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nใช้เหรียญซ้ำ if conditions are met; มอบ  +2 [Vibration] if reused.\nIf the เหรียญ is reused twice, เปิดใช้ [VibrationExplosion], then reduce [Vibration] Count"
                 }
               ]
             }
@@ -8574,7 +8574,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี  [Charge] 3+ ขั้น, reuse this เหรียญ if it lands Heads (Up to 2 times)\nมอบ 2 more [Vibration] each time the เหรียญ is reused\nIf the เหรียญ is reused twice, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, reduce [Vibration] Count ไป 1",
-                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nReuse เหรียญ if conditions are met; มอบ  +2 [Vibration] if reused.\nIf the เหรียญ is reused twice, เปิดใช้ [VibrationExplosion], then reduce [Vibration] Count"
+                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nใช้เหรียญซ้ำ if conditions are met; มอบ  +2 [Vibration] if reused.\nIf the เหรียญ is reused twice, เปิดใช้ [VibrationExplosion], then reduce [Vibration] Count"
                 }
               ]
             }
@@ -8596,7 +8596,7 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี  [Charge] 3+ ขั้น, reuse this เหรียญ if it lands Heads (Up to 2 times)\nมอบ 2 more [Vibration] each time the เหรียญ is reused\nIf the เหรียญ is reused twice, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, reduce [Vibration] Count ไป 1",
-                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nReuse เหรียญ if conditions are met; มอบ  +2 [Vibration] if reused.\nIf the เหรียญ is reused twice, เปิดใช้ [VibrationExplosion], then reduce [Vibration] Count"
+                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nใช้เหรียญซ้ำ if conditions are met; มอบ  +2 [Vibration] if reused.\nIf the เหรียญ is reused twice, เปิดใช้ [VibrationExplosion], then reduce [Vibration] Count"
                 }
               ]
             }
@@ -9633,7 +9633,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>It's Churning...!\u200B</line-height>",
+          "name": "<line-height=120%>It's กวนดิน...!\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -9654,7 +9654,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>It's Churning...!\u200B</line-height>",
+          "name": "<line-height=120%>It's กวนดิน...!\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -9675,7 +9675,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>It's Churning...!\u200B</line-height>",
+          "name": "<line-height=120%>It's กวนดิน...!\u200B</line-height>",
           "desc": "[WhenUse] ได้รับ +4 Aggro to this Skill Slot ในเทิร์นหน้า\n[DefeatDuel] มอบ  3 [Vibration] และ 3 [Burst]",
           "coinlist": [
             {
@@ -9790,14 +9790,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟู ไป 20% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟูHP เท่ากับ20% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟู ไป 20% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟูHP เท่ากับ20% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -9811,14 +9811,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟู ไป 50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟู ไป 50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             }
@@ -9832,14 +9832,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟู ไป 50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟู ไป 50% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] มอบ  2 [Burst]\nหากเป้าหมายมี 10+ [Burst], ฟื้นฟูHP เท่ากับ50% ของความเสียหายที่ทำไป"
                 }
               ]
             }

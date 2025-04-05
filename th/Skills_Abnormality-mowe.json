@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Grovel Before Me\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 4+ [Laceration], แต้มปะทะ +1",
+          "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -25,12 +25,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Pathetic One\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 4+ [Laceration], แต้มปะทะ +1",
+          "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -44,13 +44,13 @@
         {
           "level": 1,
           "name": "<line-height=120%>Go... Go Away...!\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 4+ [Laceration], แต้มปะทะ +1\n[WhenUse] ทำ  +5% more ความเสียหาย for every [Laceration]Countบนthe target (max 20%)",
+          "desc": "[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มปะทะ +1\n[WhenUse] ทำ  +5% more ความเสียหาย for every [Laceration]Countบนthe target (max 20%)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 8 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 8 [Laceration]and [Laceration] +2 ขั้น"
                 }
               ]
             }
@@ -64,19 +64,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>The Parade's Prince\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ Atk Weight equal to the number of targets with [Laceration](max 5)\n[WhenUse] If the target has 4+ [Laceration], Base Power +1\n[WhenUse] If the target has 3+ [Laceration], แต้มเหรียญ +1\n[DefeatDuel] เสีย 1 [KeptBlood]",
+          "desc": "[StartBattle] ได้รับ Atk Weight equal to the number of targets with [Laceration](max 5)\n[WhenUse] หากเป้าหมายมี 4+ [Laceration], Base Power +1\n[WhenUse] หากเป้าหมายมี 3+ [Laceration], แต้มเหรียญ +1\n[DefeatDuel] เสีย 1 [KeptBlood]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 }
               ]
             },
@@ -104,15 +104,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>Blood... Blood... Blood...!\u200B</line-height>",
-          "desc": "[WhenUse] If the target has 8+ [Laceration], แต้มเหรียญ +1\n[DefeatDuel] เสีย 1 [KeptBlood]",
+          "desc": "[WhenUse] หากเป้าหมายมี 8+ [Laceration], แต้มเหรียญ +1\n[DefeatDuel] เสีย 1 [KeptBlood]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and +3 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 5 [Laceration]and [Laceration] +3 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], the next เหรียญ ทำ s +20% more ความเสียหาย"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Laceration], the next เหรียญ ทำ s +20% more ความเสียหาย"
                 }
               ]
             },
@@ -154,28 +154,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and [Laceration] +1 ขั้น"
                 }
               ]
             }
@@ -189,33 +189,33 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'm... Never... Going Back...!\u200B</line-height>",
-          "desc": "[WhenUse] แต้มปะทะ +1 for every 5 [Laceration]บนtarget (max 3)\n[WhenUse] If the target has 4+ [Laceration], แต้มเหรียญ +1\n[WhenUse] ทำ  +5% more ความเสียหาย for every [Laceration]บนtarget (max 20%)\n[WhenUse] Doubleจำนวนhealed ไป Hardblood[TabExplain] Glaive\n[EndSkill] ได้รับ 10 [KeptBlood]",
+          "desc": "[WhenUse] แต้มปะทะ +1 for every 5 [Laceration]บนtarget (max 3)\n[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มเหรียญ +1\n[WhenUse] ทำ  +5% more ความเสียหาย for every [Laceration]บนtarget (max 20%)\n[WhenUse] Doubleจำนวนhealed ไป Hardblood[TabExplain] Glaive\n[EndSkill] ได้รับ 10 [KeptBlood]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and [Laceration] +1 ขั้น"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and +1 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]and [Laceration] +1 ขั้น"
                 }
               ]
             }

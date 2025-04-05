@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Sky-clearing Cut\u200B</line-height>",
-          "desc": "[StartBattle] If the main target has 5+ [Laceration], Atk Weight +1\n[StartBattle] If this unit will use 4+ Attack Skills this turn, แต้มรวม +5\n[WinDuel] All allies ฟื้นฟู 15 SP\nIf the target has 7+ [Laceration], ทำ  +30% more ความเสียหาย",
+          "desc": "[StartBattle] If the main target has 5+ [Laceration], Atk Weight +1\n[StartBattle] If this unit will use 4+ Attack Skills this turn, แต้มรวม +5\n[WinDuel] All allies ฟื้นฟู 15 SP\nหากเป้าหมายมี 7+ [Laceration], ทำ  +30% more ความเสียหาย",
           "coinlist": [
             {
               "coindescs": [
@@ -28,7 +28,7 @@
                   "desc": "หากเป้าหมายมี 7+ [Laceration], ทำ  +50% ความเสียหาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ +10 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +10 ขั้น"
                 }
               ]
             }
@@ -47,7 +47,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]and [Laceration] +2 ขั้น"
                 },
                 {
                   "desc": "[EnemyKill] All allies ฟื้นฟู 20 SP"

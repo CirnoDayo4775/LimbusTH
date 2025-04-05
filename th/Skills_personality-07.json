@@ -880,7 +880,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>โอ้ ดูลาฮานเอ๋ย...!\u200B</line-height>",
-          "desc": "[DuelCounter]\n[BeforeUse] If this unit has [NightPathfinding] และ has 15+ SP, use Lament, Mourn, และ Despairเป็นCounter (once per turn)\n[StartBattle] If this unit does not have [NightPathfinding], ได้รับ 1 [NightPathfinding] ในเทิร์นหน้า (once per turn)\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 for every 3 [Sinking]บนtarget (max 2)</style>\n<style=\"highlight\">[WinDuel] ได้รับ [AttackUp] ในเทิร์นหน้า equal to (# of Clashes/3) (max 3, once per turn)</style>\n[EndBattle] If this unit has [NightPathfinding], เสีย [NightPathfinding]",
+          "desc": "[DuelCounter]\n[BeforeUse] If this unit has [NightPathfinding] และ has 15+ SP, use Lament, Mourn, และ Despairเป็นCounter (once per turn)\n[StartBattle] If this unit does not have [NightPathfinding], ได้รับ 1 [NightPathfinding] ในเทิร์นหน้า (once per turn)\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 for every 3 [Sinking]บนtarget (max 2)</style>\n<style=\"highlight\">[WinDuel] ได้รับ [AttackUp] ในเทิร์นหน้า equal to (# of Clashes/3) (max 3, อีกครั้ง per turn)</style>\n[EndBattle] If this unit has [NightPathfinding], เสีย [NightPathfinding]",
           "coinlist": [
             {},
             {
@@ -1436,7 +1436,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 [Reduction] (once per turn)"
@@ -1463,7 +1463,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 [Reduction] (once per turn)<style=\"highlight\"></style>"
@@ -1490,7 +1490,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ +2 [Laceration]Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 1 [Reduction] (<style=\"highlight\">2 times</style> per turn)"
@@ -1594,10 +1594,10 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has [BlackCloudBlade], Reuse เหรียญ once (once per Skill)"
+                  "desc": "[OnSucceedAttack] If this unit has [BlackCloudBlade], ใช้เหรียญซ้ำ อีกครั้ง (once per Skill)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has [EngageToBattle], Reuse เหรียญ once (once per Skill)"
+                  "desc": "[OnSucceedAttack] If this unit has [EngageToBattle], ใช้เหรียญซ้ำ อีกครั้ง (once per Skill)"
                 }
               ]
             }
@@ -1614,10 +1614,10 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has [BlackCloudBlade], Reuse เหรียญ once (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If this unit has [BlackCloudBlade], ใช้เหรียญซ้ำ อีกครั้ง (once per Skill)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has [EngageToBattle], Reuse เหรียญ once (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If this unit has [EngageToBattle], ใช้เหรียญซ้ำ อีกครั้ง (once per Skill)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1639,10 +1639,10 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has [BlackCloudBlade], Reuse เหรียญ once (once per Skill)"
+                  "desc": "[OnSucceedAttack] If this unit has [BlackCloudBlade], ใช้เหรียญซ้ำ อีกครั้ง (once per Skill)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has [EngageToBattle], Reuse เหรียญ once (once per Skill)"
+                  "desc": "[OnSucceedAttack] If this unit has [EngageToBattle], ใช้เหรียญซ้ำ อีกครั้ง (once per Skill)"
                 }
               ]
             }
@@ -1659,10 +1659,10 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has [BlackCloudBlade], Reuse เหรียญ once (once per Skill)"
+                  "desc": "[OnSucceedAttack] If this unit has [BlackCloudBlade], ใช้เหรียญซ้ำ อีกครั้ง (once per Skill)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has [EngageToBattle], Reuse เหรียญ once (once per Skill)"
+                  "desc": "[OnSucceedAttack] If this unit has [EngageToBattle], ใช้เหรียญซ้ำ อีกครั้ง (once per Skill)"
                 }
               ]
             }
