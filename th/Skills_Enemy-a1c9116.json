@@ -6,12 +6,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>การโจมตีไร้มารยาท\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 1 [Agility] ในเทิร์นหน้า",
+          "desc": "<line-height=110%>[WhenUse] ได้รับ 1 [Agility] ในเทิร์นหน้า</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น</line-height>"
                 }
               ]
             }
@@ -25,22 +25,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>สะบั้นเส้นเอ็น\u200B</line-height>",
-          "desc": "[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 3+ [Laceration], แต้มตั้งต้น +1",
+          "desc": "<line-height=110%>[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 3+ [Laceration], แต้มตั้งต้น +1</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Laceration]</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Laceration]</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า</line-height>"
                 }
               ]
             }
@@ -54,19 +54,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>โจมตีมั่วๆ\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 7+ ความเร็ว, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ทำ ความเสียหายเพิ่มเติ่ม ขึ้นอยู่กับจำนวนการปะทะ (+5% ต่อทุกๆ จำนวนการปะทะ, สูงสุด 50%)\n[WinDuel] มอบ [Laceration] +3 ขั้น",
+          "desc": "<line-height=110%>[WhenUse] เมื่อมี 7+ ความเร็ว, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ทำ ความเสียหายเพิ่มเติ่ม ขึ้นอยู่กับจำนวนการปะทะ (+5% ต่อทุกๆ จำนวนการปะทะ, สูงสุด 50%)\n[WinDuel] มอบ [Laceration] +3 ขั้น</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Laceration]</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Laceration]</line-height>"
                 }
               ]
             }
@@ -80,7 +80,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 3 โล่ ต่อผลด้านลบทุกๆ ประเภท ที่เป้าหมายมี (สูงสุด 10)",
+          "desc": "<line-height=110%>[WhenUse] ได้รับ 3 โล่ ต่อผลด้านลบทุกๆ ประเภท ที่เป้าหมายมี (สูงสุด 10)</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -104,7 +104,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น</line-height>"
                 }
               ]
             }
@@ -118,22 +118,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>ฟันขา\u200B</line-height>",
-          "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 2)",
+          "desc": "<line-height=110%>[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Laceration]</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Laceration]</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า</line-height>"
                 }
               ]
             }
@@ -147,19 +147,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>ปาดหน้า\u200B</line-height>",
-          "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 2)",
+          "desc": "<line-height=110%>[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Laceration]</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Laceration]</line-height>"
                 }
               ]
             }
@@ -173,12 +173,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
-          "desc": "[BeforeHit] ได้รับ 2 โล่ ต่อผลด้านลบทุกๆ ประเภท ที่เป้าหมายมี (สูงสุด 10)",
+          "desc": "<line-height=110%>[BeforeHit] ได้รับ 2 โล่ ต่อผลด้านลบทุกๆ ประเภท ที่เป้าหมายมี (สูงสุด 10)</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากยูนิทนี้ยังมีโล่อยู่ มอบ 1 [Paralysis] แก่เป้าหมาย ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttack] หากยูนิทนี้ยังมีโล่อยู่ มอบ 1 [Paralysis] แก่เป้าหมาย ในเทิร์นหน้า</line-height>"
                 }
               ]
             }
@@ -192,22 +192,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>คัดกรองเชื้อเพลิง\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 2+ [Laceration], แต้มเหรียญ +1",
+          "desc": "<line-height=110%>หากเป้าหมายมี 2+ [Laceration], แต้มเหรียญ +1</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Laceration]</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 2 HP"
+                  "desc": "<line-height=110%>[OnSucceedAttack] ฟื้นฟู 2 HP</line-height>"
                 }
               ]
             }
@@ -221,19 +221,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>กวาดล้างแบ็คสทรีท\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 2+ [Laceration], แต้มเหรียญ +1",
+          "desc": "<line-height=110%>หากเป้าหมายมี 2+ [Laceration], แต้มเหรียญ +1</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Paralysis]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Paralysis]</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Laceration]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Laceration]</line-height>"
                 }
               ]
             }
@@ -247,28 +247,28 @@
         {
           "level": 1,
           "name": "<line-height=120%>ขบวนการเก็บขยะ\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 4+ [Laceration], แต้มเหรียญ +1",
+          "desc": "<line-height=110%>หากเป้าหมายมี 4+ [Laceration], แต้มเหรียญ +1</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 4 [Laceration]</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "<line-height=110%>[SuperCoin]</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Laceration] +1 ขั้น</line-height>"
                 },
                 {
-                  "desc": "เมื่อโจมตีโดนด้วยเหรียญนี้, ฟื้นฟู HP เท่ากับ 30% ของ ความเสียหายHP ที่ทำได้"
+                  "desc": "<line-height=110%>เมื่อโจมตีโดนด้วยเหรียญนี้, ฟื้นฟู HP เท่ากับ 30% ของ ความเสียหายHP ที่ทำได้</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] ใช้เหรียญนี้อีกครั้ง (3 ครั้งต่อสกิล)"
+                  "desc": "<line-height=110%>[OnSucceedAttackHead] ใช้เหรียญนี้อีกครั้ง (3 ครั้งต่อสกิล)</line-height>"
                 }
               ]
             }
@@ -282,25 +282,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>333..1973\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 4 [Persistent]",
+          "desc": "<line-height=110%>[StartBattle] ได้รับ 4 [Persistent]</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "<line-height=110%>[SuperCoin]</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ไป 5"
+                  "desc": "<line-height=110%>[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ไป 5</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "<line-height=110%>[SuperCoin]</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Laceration] +3 ขั้น</line-height>"
                 }
               ]
             }
@@ -314,7 +314,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เพื่อครอบครัว\u200B</line-height>",
-          "desc": "[StartBattle] มอบ 1 [Protection] แก่ 2 พันธมิตรแบบสุ่ม",
+          "desc": "<line-height=110%>[StartBattle] มอบ 1 [Protection] แก่ 2 พันธมิตรแบบสุ่ม</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -333,31 +333,31 @@
         {
           "level": 1,
           "name": "<line-height=120%>ค่ำคืนในแบ็ตสตรีท\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 2+ [Laceration], แต้มเหรียญ +1",
+          "desc": "<line-height=110%>หากเป้าหมายมี 2+ [Laceration], แต้มเหรียญ +1</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 8 HP"
+                  "desc": "<line-height=110%>[OnSucceedAttack] ฟื้นฟู 8 HP</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "<line-height=110%>[SuperCoin]</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 8 HP"
+                  "desc": "<line-height=110%>[OnSucceedAttack] ฟื้นฟู 8 HP</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ไป 8"
+                  "desc": "<line-height=110%>[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ไป 8</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] บังคับใช้งาน [Laceration] บนเป้าหมาย อีกครั้ง (ลดขั้น [Laceration] ไป 1)"
+                  "desc": "<line-height=110%>[OnSucceedAttack] บังคับใช้งาน [Laceration] บนเป้าหมาย อีกครั้ง (ลดขั้น [Laceration] ไป 1)</line-height>"
                 }
               ]
             }
@@ -371,12 +371,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>โจมตีทีเผลอ\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 1 [Agility] ในเทิร์นหน้า",
+          "desc": "<line-height=110%>[WhenUse] ได้รับ 1 [Agility] ในเทิร์นหน้า</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 3 [Laceration]</line-height>"
                 }
               ]
             }
@@ -390,22 +390,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>ผ่ากล้ามเนื้อ\u200B</line-height>",
-          "desc": "[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 3+ [Laceration], แต้มตั้งต้น +1",
+          "desc": "<line-height=110%>[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 3+ [Laceration], แต้มตั้งต้น +1</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า</line-height>"
                 }
               ]
             }
@@ -419,19 +419,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>โจมตีไม่เลือกหน้า\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี 7+ ความเร็ว, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ทำ ความเสียหายเพิ่มเติ่ม ขึ้นอยู่กับจำนวนการปะทะ (+5% ต่อทุกๆ จำนวนการปะทะ, สูงสุด 50%)\n[WinDuel] มอบ 5 [Laceration]",
+          "desc": "<line-height=110%>[WhenUse] เมื่อมี 7+ ความเร็ว, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ทำ ความเสียหายเพิ่มเติ่ม ขึ้นอยู่กับจำนวนการปะทะ (+5% ต่อทุกๆ จำนวนการปะทะ, สูงสุด 50%)\n[WinDuel] มอบ 5 [Laceration]</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น</line-height>"
                 }
               ]
             }
@@ -445,7 +445,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 3 โล่ ต่อผลด้านลบทุกๆ ประเภท ที่เป้าหมายมี (สูงสุด 10)",
+          "desc": "<line-height=110%>[WhenUse] ได้รับ 3 โล่ ต่อผลด้านลบทุกๆ ประเภท ที่เป้าหมายมี (สูงสุด 10)</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -469,7 +469,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 3 [Laceration]</line-height>"
                 }
               ]
             }
@@ -483,22 +483,22 @@
         {
           "level": 1,
           "name": "<line-height=120%>สะบั้นกล้ามเนื้อ\u200B</line-height>",
-          "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 2)",
+          "desc": "<line-height=110%>[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า</line-height>"
                 }
               ]
             }
@@ -512,19 +512,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>จู่โจมฉับไว\u200B</line-height>",
-          "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 2)",
+          "desc": "<line-height=110%>[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +2 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น</line-height>"
                 }
               ]
             }
@@ -538,12 +538,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
-          "desc": "[BeforeHit] ได้รับ 2 โล่ ต่อผลด้านลบทุกๆ ประเภท ที่เป้าหมายมี (สูงสุด 10)",
+          "desc": "<line-height=110%>[BeforeHit] ได้รับ 2 โล่ ต่อผลด้านลบทุกๆ ประเภท ที่เป้าหมายมี (สูงสุด 10)</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากยูนิทนี้ยังมีโล่อยู่ มอบ 1 [Paralysis] แก่เป้าหมาย ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttack] หากยูนิทนี้ยังมีโล่อยู่ มอบ 1 [Paralysis] แก่เป้าหมาย ในเทิร์นหน้า</line-height>"
                 }
               ]
             }
@@ -557,12 +557,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>จู่โจมน่าผวา\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 3+ [Burst], แต้มปะทะ +1",
+          "desc": "<line-height=110%>[WhenUse] หากเป้าหมายมี 3+ [Burst], แต้มปะทะ +1</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Burst] +2 ขั้น</line-height>"
                 }
               ]
             }
@@ -581,20 +581,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Burst]</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "<line-height=110%>[SuperCoin]</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Burst]</line-height>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] ใช้เหรียญนี้อีกครั้ง (ความเร็วของยูนิทนี้ / 4) ครั้ง (สูงสุด 2)"
+                  "desc": "<line-height=110%>[UnBrokenCoinOnSucceedAttack] ใช้เหรียญนี้อีกครั้ง (ความเร็วของยูนิทนี้ / 4) ครั้ง (สูงสุด 2)</line-height>"
                 }
               ]
             }
@@ -608,35 +608,35 @@
         {
           "level": 1,
           "name": "<line-height=120%>ขนนกโจมตี\u200B</line-height>",
-          "desc": "Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 3)\n[WhenUse] หากเป้าหมายมี 4+ [Burst], แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +3 ขั้น",
+          "desc": "<line-height=110%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 3)\n[WhenUse] หากเป้าหมายมี 4+ [Burst], แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +3 ขั้น</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Burst] +1 ขั้น</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Burst]</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [BurstAgility]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [BurstAgility]</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "<line-height=110%>[SuperCoin]</line-height>"
                 },
                 {
-                  "desc": "หากเป้าหมายมี [BurstAgility], ทำ +50% ความเสียหายเพิ่มเติ่ม"
+                  "desc": "<line-height=110%>หากเป้าหมายมี [BurstAgility], ทำ +50% ความเสียหายเพิ่มเติ่ม</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 3 [LegStrength]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] ได้รับ 3 [LegStrength]</line-height>"
                 }
               ]
             }
@@ -650,7 +650,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>มาปิดท้าย\u200B</line-height>",
-          "desc": "[DuelCounter] \n[WinDuel] ได้รับ 3 [Agility] ในเทิร์นหน้า",
+          "desc": "<line-height=110%>[DuelCounter] \n[WinDuel] ได้รับ 3 [Agility] ในเทิร์นหน้า</line-height>",
           "coinlist": [
             {}
           ]
@@ -663,12 +663,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>เข้ารวบ\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 3+ [Burst], แต้มปะทะ +1",
+          "desc": "<line-height=110%>[WhenUse] หากเป้าหมายมี 3+ [Burst], แต้มปะทะ +1</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Burst]</line-height>"
                 }
               ]
             }
@@ -687,20 +687,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Burst] +2 ขั้น</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "<line-height=110%>[SuperCoin]</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Burst]</line-height>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] ใช้เหรียญนี้อีกครั้ง (ความเร็วของยูนิทนี้ / 4) ครั้ง (สูงสุด 2)"
+                  "desc": "<line-height=110%>[UnBrokenCoinOnSucceedAttack] ใช้เหรียญนี้อีกครั้ง (ความเร็วของยูนิทนี้ / 4) ครั้ง (สูงสุด 2)</line-height>"
                 }
               ]
             }
@@ -714,35 +714,35 @@
         {
           "level": 1,
           "name": "<line-height=120%>เงามืดจู่โจม\u200B</line-height>",
-          "desc": "Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 3)\n[WhenUse] หากเป้าหมายมี 4+ [Burst], แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +3 ขั้น",
+          "desc": "<line-height=110%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 3)\n[WhenUse] หากเป้าหมายมี 4+ [Burst], แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +3 ขั้น</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] +3 ขั้น"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Burst] +3 ขั้น</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 [Burst]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 1 [Burst]</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [BurstAgility]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ [BurstAgility]</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "<line-height=110%>[SuperCoin]</line-height>"
                 },
                 {
-                  "desc": "หากเป้าหมายมี [BurstAgility], ทำ +50% ความเสียหายเพิ่มเติ่ม"
+                  "desc": "<line-height=110%>หากเป้าหมายมี [BurstAgility], ทำ +50% ความเสียหายเพิ่มเติ่ม</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ได้รับ 3 [LegStrength]"
+                  "desc": "<line-height=110%>[OnSucceedAttack] ได้รับ 3 [LegStrength]</line-height>"
                 }
               ]
             }
@@ -756,7 +756,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>มาปิดท้าย\u200B</line-height>",
-          "desc": "[DuelCounter] \n[WinDuel] ได้รับ 3 [Agility] ในเทิร์นหน้า",
+          "desc": "<line-height=110%>[DuelCounter] \n[WinDuel] ได้รับ 3 [Agility] ในเทิร์นหน้า</line-height>",
           "coinlist": [
             {}
           ]
@@ -774,7 +774,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า</line-height>"
                 }
               ]
             }
@@ -788,15 +788,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>หมัดเจาะกระบาล\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี [MiddleFingerBook], มอบ 2 [DefenseDown] เพิ่มเติม ด้วยสกิลนี้",
+          "desc": "<line-height=110%>[WhenUse] หากเป้าหมายมี [MiddleFingerBook], มอบ 2 [DefenseDown] เพิ่มเติม ด้วยสกิลนี้</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [DefenseDown] ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [DefenseDown] ในเทิร์นหน้า</line-height>"
                 }
               ]
             }
@@ -810,25 +810,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>ทะลายไส้\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี [MiddleFingerBook], มอบเพิ่มเติมอีก 1 [AttackDown] ด้วยสกิลนี้",
+          "desc": "<line-height=110%>[WhenUse] หากเป้าหมายมี [MiddleFingerBook], มอบเพิ่มเติมอีก 1 [AttackDown] ด้วยสกิลนี้</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ 1 [AttackDown] ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttackHead] มอบ 1 [AttackDown] ในเทิร์นหน้า</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [MiddleFingerBook], ได้รับ 1 [PlusCoinValueUp] ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttack] หากเป้าหมายมี [MiddleFingerBook], ได้รับ 1 [PlusCoinValueUp] ในเทิร์นหน้า</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ 1 [AttackDown] ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttackHead] มอบ 1 [AttackDown] ในเทิร์นหน้า</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [MiddleFingerBook], ได้รับ 1 [PlusCoinValueUp] ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttack] หากเป้าหมายมี [MiddleFingerBook], ได้รับ 1 [PlusCoinValueUp] ในเทิร์นหน้า</line-height>"
                 }
               ]
             }
@@ -842,26 +842,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>ความแค้นรอแกอยู่!\u200B</line-height>",
-          "desc": "ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 [MiddleFingerBook] ที่เป้าหมายมี (สูงสุด 50%)\n[BeforeAttack] เมื่อมี 40% HP หรือต่ำกว่า, ได้รับ Atk Weight +1\n[WhenUse] หากเป้าหมายหลักมี[MiddleFingerBook], เปลี่ยนเหรียญทั้งหมดในสกิลนี้เป็น [SuperCoin]\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 ศัตรูที่มี [MiddleFingerBook] (สูงสุด 2)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 2 [MiddleFingerBook] ที่เป้าหมายหลักมี (สูงสุด 5)\n[EndSkill] หาก ยูนิทนี้ ฆ่าเป้าหมายที่มี [MiddleFingerBook], ได้รับ 1 [PlusCoinValueUp] ในเทิร์นหน้า (2 ครั้ง ต่อเทิร์น)\n[EndSkill] ลบ [MiddleFingerBook] ทั้งหมด บนตัวเป้าหมายที่โดนโจมตี",
+          "desc": "<line-height=110%>ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 [MiddleFingerBook] ที่เป้าหมายมี (สูงสุด 50%)\n[BeforeAttack] เมื่อมี 40% HP หรือต่ำกว่า, ได้รับ Atk Weight +1\n[WhenUse] หากเป้าหมายหลักมี[MiddleFingerBook], เปลี่ยนเหรียญทั้งหมดในสกิลนี้เป็น [SuperCoin]\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 ศัตรูที่มี [MiddleFingerBook] (สูงสุด 2)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 2 [MiddleFingerBook] ที่เป้าหมายหลักมี (สูงสุด 5)\n[EndSkill] หาก ยูนิทนี้ ฆ่าเป้าหมายที่มี [MiddleFingerBook], ได้รับ 1 [PlusCoinValueUp] ในเทิร์นหน้า (2 ครั้ง ต่อเทิร์น)\n[EndSkill] ลบ [MiddleFingerBook] ทั้งหมด บนตัวเป้าหมายที่โดนโจมตี</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 3 [Paralysis] ในเทิร์นหน้า</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Reduction] ในเทิร์นหน้า"
+                  "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Reduction] ในเทิร์นหน้า</line-height>"
                 }
               ]
             }
@@ -875,25 +875,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>โอกาสเอ็งหมดละ\u200B</line-height>",
-          "desc": "[BeforeHit] ได้รับ 5 โล่ ต่อทุกๆ [MiddleFingerBook] ที่เป้าหมายมี (1 ครั้งต่อเทิร์น สูงสุด 50)\n[WhenUse] หากเป้าหมายมี 5+ [MiddleFingerBook], แต้มตั้งต้น +3; มอบ 4 [DefenseDown]",
+          "desc": "<line-height=110%>[BeforeHit] ได้รับ 5 โล่ ต่อทุกๆ [MiddleFingerBook] ที่เป้าหมายมี (1 ครั้งต่อเทิร์น สูงสุด 50)\n[WhenUse] หากเป้าหมายมี 5+ [MiddleFingerBook], แต้มตั้งต้น +3; มอบ 4 [DefenseDown]</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 20"
+                  "desc": "<line-height=110%>[OnSucceedAttack] เพิ่มขีดStagger ไป 20</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ 15 ความเสียหายตรงแก่ HP"
+                  "desc": "<line-height=110%>[OnSucceedAttack] ทำ 15 ความเสียหายตรงแก่ HP</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 20"
+                  "desc": "<line-height=110%>[OnSucceedAttack] เพิ่มขีดStagger ไป 20</line-height>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ 15 ความเสียหายตรงแก่ HP"
+                  "desc": "<line-height=110%>[OnSucceedAttack] ทำ 15 ความเสียหายตรงแก่ HP</line-height>"
                 }
               ]
             }

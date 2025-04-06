@@ -6,13 +6,13 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ไม่ต้องทดสอบแม่งแล้ว\u200B</line-height>",
-                    "desc": "[WhenUse] ได้รับ 3 [HitDamageUp] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายหลักมี3+ [MiddleFingerBook], เปลี่ยนเหรียญทั้งหมดในสกิลนี้เป็น [SuperCoin]",
+                    "desc": "<line-height=110%>[WhenUse] ได้รับ 3 [HitDamageUp] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายหลักมี3+ [MiddleFingerBook], เปลี่ยนเหรียญทั้งหมดในสกิลนี้เป็น [SuperCoin]</line-height>",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า</line-height>"
                                 }
                             ]
                         }
@@ -26,29 +26,29 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>เดียวจะทำตามสัญญา\u200B</line-height>",
-                    "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [MiddleFingerBook] ซ้อนกันมากที่สุด\n[WhenUse] หากเป้าหมายมี 3+ [MiddleFingerBook], เปลี่ยนเหรียญทั้งหมดในสกิลนี้เป็น [SuperCoin]",
+                    "desc": "<line-height=110%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [MiddleFingerBook] ซ้อนกันมากที่สุด\n[WhenUse] หากเป้าหมายมี 3+ [MiddleFingerBook], เปลี่ยนเหรียญทั้งหมดในสกิลนี้เป็น [SuperCoin]</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable] ในเทิร์นนี้ และ ในเทิร์นหน้า"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ 1 [Vulnerable] ในเทิร์นนี้ และ ในเทิร์นหน้า</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 1 [Vulnerable] ในเทิร์นนี้ และ ในเทิร์นหน้า"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ 1 [Vulnerable] ในเทิร์นนี้ และ ในเทิร์นหน้า</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ ([MiddleFingerBook] ที่เป้าหมายมี x 3) ความเสียหายทุบ เพิ่มเติม"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ ([MiddleFingerBook] ที่เป้าหมายมี x 3) ความเสียหายทุบ เพิ่มเติม</line-height>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ลบ [MiddleFingerBook] ที่เป้าหมายมีทั้งหมด"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] ลบ [MiddleFingerBook] ที่เป้าหมายมีทั้งหมด</line-height>"
                                 }
                             ]
                         }
@@ -62,7 +62,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>เล่นสนุกกันพอแล้ว\u200B</line-height>",
-                    "desc": "[StartBattle] ฟื้นฟู พันธมิตรทุกคน' ค่าสติ ไป 10\n[EndBattle] หาก there are Panicked allies, recover them from Panic at the ในเทิร์นหน้า Start และ reset their ค่าสติ to 0\n[EndBattle] มอบ 1 [HitResultUp] แก่พันธมิตรทุกคน, รวมยูนิทนี้ด้วย",
+                    "desc": "<line-height=110%>[StartBattle] ฟื้นฟู ค่าสติพันธมิตรทุกคน 10\n[EndBattle] หากมีพันธมิตรที่กำลังตื่นตระหนก ฟื้นฟูพวกเขาจากอาการนั้นในเทิร์นหน้า และรีเซ็ต ค่าสติ ของพวกเขาไปเป็น 0\n[EndBattle] มอบ 1 [HitResultUp] แก่พันธมิตรทุกคน, รวมยูนิทนี้ด้วย</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -81,15 +81,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><b>ทำลายล้าง ให้สิ้นซาก!!!\u200B<b></line-height>",
-                    "desc": "สามารถปะทะกับสกิลนี้ได้ โดยไม่สนความเร็ว\nหากเป้าหมายหลักมี5+ [MiddleFingerBook], แต้มรวม +5\n[EndSkill] ลบ [MiddleFingerBook] จากศัตรูทุกคนที่ถูกโจมตี",
+                    "desc": "<line-height=110%>สามารถปะทะกับสกิลนี้ได้ โดยไม่สนความเร็ว\nหากเป้าหมายหลักมี5+ [MiddleFingerBook], แต้มรวม +5\n[EndSkill] ลบ [MiddleFingerBook] จากศัตรูทุกคนที่ถูกโจมตี</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[SuperCoin]"
+                                    "desc": "<line-height=110%>[SuperCoin]</line-height>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ ([MiddleFingerBook] ที่เป้าหมายมี x 10) ความเสียหายทุบ เพิ่มเติม"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ ([MiddleFingerBook] ที่เป้าหมายมี x 10) ความเสียหายทุบ เพิ่มเติม</line-height>"
                                 }
                             ]
                         }
@@ -103,12 +103,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>จู่โจมน่าผวา\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Burst], แต้มปะทะ +1",
+                    "desc": "<line-height=110%>[WhenUse] หากเป้าหมายมี 5+ [Burst], แต้มปะทะ +1</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Burst]</line-height>"
                                 }
                             ]
                         }
@@ -122,15 +122,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>แทงเพื่อสังหาร\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Burst], แต้มปะทะ +1\n[WhenUse] ได้รับ 3 [LegStrength]",
+                    "desc": "<line-height=110%>[WhenUse] หากเป้าหมายมี 5+ [Burst], แต้มปะทะ +1\n[WhenUse] ได้รับ 3 [LegStrength]</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Burst] +2 ขั้น</line-height>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี [BurstAgility], ได้รับ 1 [Agility] ในเทิร์นหน้า"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] หากเป้าหมายมี [BurstAgility], ได้รับ 1 [Agility] ในเทิร์นหน้า</line-height>"
                                 }
                             ]
                         }
@@ -144,22 +144,22 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>สลักบาดแผล\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 5+ [Burst], แต้มเหรียญ +1",
+                    "desc": "<line-height=110%>[WhenUse] หากเป้าหมายมี 5+ [Burst], แต้มเหรียญ +1</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Burst]</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 2 [Burst]"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ 2 [Burst]</line-height>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ [BurstAgility]"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ [BurstAgility]</line-height>"
                                 }
                             ]
                         }
@@ -173,38 +173,38 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>บัญชาคำสาป ดาบเฉือนมังสา - ก้าวพริบตา\u200B</line-height>",
-                    "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [BurstAgility]\nทำ +15% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 ผลต่างของความเร็ว ระหว่างยูนิทนี้ และเป้าหมาย (สูงสุด 60%)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Burst] ที่เป้าหมายมี (สูงสุด 2)\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 2 ขั้น [Burst] ที่เป้าหมายมี (สูงสุด 3)\n[EndSkill] เมื่อมี 10+ ความเร็ว, และ หากเป้าหมาย ตาย, ใช้สกิลนี้อีกครั้ง แก่ศัตรู 1 คน แบบสุ่ม (1 ครั้งต่อเทิร์น)",
+                    "desc": "<line-height=110%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [BurstAgility]\nทำ +15% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 ผลต่างของความเร็ว ระหว่างยูนิทนี้ และเป้าหมาย (สูงสุด 60%)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Burst] ที่เป้าหมายมี (สูงสุด 2)\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 2 ขั้น [Burst] ที่เป้าหมายมี (สูงสุด 3)\n[EndSkill] เมื่อมี 10+ ความเร็ว, และ หากเป้าหมาย ตาย, ใช้สกิลนี้อีกครั้ง แก่ศัตรู 1 คน แบบสุ่ม (1 ครั้งต่อเทิร์น)</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[SuperCoin]"
+                                    "desc": "<line-height=110%>[SuperCoin]</line-height>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ [Burst] +3 ขั้น"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Burst] +3 ขั้น</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[SuperCoin]"
+                                    "desc": "<line-height=110%>[SuperCoin]</line-height>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 5 [Burst]"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ 5 [Burst]</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[SuperCoin]"
+                                    "desc": "<line-height=110%>[SuperCoin]</line-height>"
                                 },
                                 {
-                                    "desc": "หากเป้าหมายมี [BurstAgility], ทำ +50% ความเสียหายเพิ่มเติ่ม"
+                                    "desc": "<line-height=110%>หากเป้าหมายมี [BurstAgility], ทำ +50% ความเสียหายเพิ่มเติ่ม</line-height>"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ 5 [Burst]"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ 5 [Burst]</line-height>"
                                 }
                             ]
                         }
@@ -218,26 +218,26 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>บัญชาคำสาป\u200B</line-height>",
-                    "desc": "[DuelCounter]\n[WhenUse] หากเป้าหมายมี [BurstAgility], มอบ +1 more ขั้น [Burst] ด้วยสกิลนี้",
+                    "desc": "<line-height=110%>[DuelCounter]\n[WhenUse] หากเป้าหมายมี [BurstAgility], มอบ +1 more ขั้น [Burst] ด้วยสกิลนี้</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Burst] +2 ขั้น</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Burst] +1 ขั้น</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น"
+                                    "desc": "<line-height=110%>[OnSucceedAttack] มอบ [Burst] +1 ขั้น</line-height>"
                                 }
                             ]
                         }
