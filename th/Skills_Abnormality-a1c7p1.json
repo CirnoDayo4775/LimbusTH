@@ -6,12 +6,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Allez\u200B</line-height>",
-          "desc": "<line-height=120%>[WhenUse] มอบ [DuelDeclaration_Camille]\n[WhenUse] ได้รับ 5 [Breath]\n[WinDuel] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=200%>[WhenUse] มอบ [DuelDeclaration_Camille]\n[WhenUse] ได้รับ 5 [Breath]\n[WinDuel] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>\u200B</line-height>"
+                  "desc": "<line-height=200%>\u200B</line-height>"
                 }
               ]
             }
@@ -25,25 +25,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>Coup Droit\u200B</line-height>",
-          "desc": "<line-height=120%>[WhenUse] ได้รับ 2 [Breath]\u200B</line-height>",
+          "desc": "<line-height=200%>[WhenUse] ได้รับ 2 [Breath]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst]\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst]\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] ได้รับ 3 [Breath]\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] ได้รับ 3 [Breath]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst]\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst]\u200B</line-height>"
                 }
               ]
             }
@@ -57,18 +57,18 @@
         {
           "level": 1,
           "name": "<line-height=120%>Fente\u200B</line-height>",
-          "desc": "<line-height=120%>[WhenUse] เมื่อมี 7+ [Breath], แต้มเหรียญ +2\n[WinDuel] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=200%>[WhenUse] เมื่อมี 7+ [Breath], แต้มเหรียญ +2\n[WinDuel] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] ได้รับ 3 [Breath]\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] ได้รับ 3 [Breath]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 ขั้น [Burst]\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 ขั้น [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[CriticalOnSucceedAttack] +50% ความเสียหายเมื่อติดคริ\u200B</line-height>"
+                  "desc": "<line-height=200%>[CriticalOnSucceedAttack] +50% ความเสียหายเมื่อติดคริ\u200B</line-height>"
                 }
               ]
             }
@@ -82,45 +82,45 @@
         {
           "level": 1,
           "name": "<line-height=120%>Salut\u200B</line-height>",
-          "desc": "<line-height=120%>[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1 (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 3)\u200B</line-height>",
+          "desc": "<line-height=200%>[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1 (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] ได้รับ [Breath] +4 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] ได้รับ [Breath] +4 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst] และ [Burst] +1 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst] และ [Burst] +1 ขั้น\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] ได้รับ 5 [Breath]\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] ได้รับ 5 [Breath]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst] และ [Burst] +1 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst] และ [Burst] +1 ขั้น\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] ได้รับ 5 [Breath]\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] ได้รับ 5 [Breath]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst] และ [Burst] +1 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst] และ [Burst] +1 ขั้น\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[CriticalOnSucceedAttack] +100% ความเสียหายเมื่อติดคริ\u200B</line-height>"
+                  "desc": "<line-height=200%>[CriticalOnSucceedAttack] +100% ความเสียหายเมื่อติดคริ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] ทำ +5% ความเสียหาย ต่อทุกๆ [Burst] ที่เป้าหมายมี (สูงสุด 50%)\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] ทำ +5% ความเสียหาย ต่อทุกๆ [Burst] ที่เป้าหมายมี (สูงสุด 50%)\u200B</line-height>"
                 }
               ]
             }
@@ -134,12 +134,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Parry\u200B</line-height>",
-          "desc": "<line-height=120%>[WinDuel] ทำ ความเสียหายเพิ่มเติ่ม basedบนnumber of Clashes (+10% ความเสียหายเพิ่มเติม ต่อทุกๆ Clash, สูงสุด 50%)\n[WinDuel] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 2 [Binding] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=200%>[WinDuel] ทำ ความเสียหายเพิ่มเติ่ม basedบนnumber of Clashes (+10% ความเสียหายเพิ่มเติม ต่อทุกๆ Clash, สูงสุด 50%)\n[WinDuel] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 2 [Binding] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] มอบ 1 [Vulnerable] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] มอบ 1 [Vulnerable] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -153,12 +153,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Défensive\u200B</line-height>",
-          "desc": "<line-height=120%>[OnSucceedEvade] ได้รับ 1 [Agility] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=200%>[OnSucceedEvade] ได้รับ 1 [Agility] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>\u200B</line-height>"
+                  "desc": "<line-height=200%>\u200B</line-height>"
                 }
               ]
             }
@@ -172,15 +172,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Up All Pretty!\u200B</line-height>",
-          "desc": "<line-height=120%>[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
+          "desc": "<line-height=200%>[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] มอบ 4 [Laceration]\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] มอบ 4 [Laceration]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] ใช้เหรียญซ้ำ ([BloodScissor] Stage - 1) ครั้ง (สูงสุด 2)\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] ใช้เหรียญซ้ำ ([BloodScissor] Stage - 1) ครั้ง (สูงสุด 2)\u200B</line-height>"
                 }
               ]
             }
@@ -194,19 +194,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Even Sharper\u200B</line-height>",
-          "desc": "<line-height=120%>[WhenUse] จ่ายสูงสุด 20 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner] ด้วยสกิลนี้, ได้รับ 30 [Laceration]\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่ตัวเองมี (สูงสุด 2)\u200B</line-height>",
+          "desc": "<line-height=200%>[WhenUse] จ่ายสูงสุด 20 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner] ด้วยสกิลนี้, ได้รับ 30 [Laceration]\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่ตัวเองมี (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
                 }
               ]
             }
@@ -220,26 +220,26 @@
         {
           "level": 1,
           "name": "<line-height=120%>SNIP!!\u200B</line-height>",
-          "desc": "<line-height=120%>[WhenUse] จ่ายสูงสุด 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] หากเป้าหมายมี [LineCutting], แต้มปะทะ +5\nHeal 5 SPบนevery hit aได้รับst [LineCutting]\u200B</line-height>",
+          "desc": "<line-height=200%>[WhenUse] จ่ายสูงสุด 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] หากเป้าหมายมี [LineCutting], แต้มปะทะ +5\nHeal 5 SPบนevery hit aได้รับst [LineCutting]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] มอบ 3 [Laceration]\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] มอบ 3 [Laceration]\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] มอบ 3 [Laceration]\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] มอบ 3 [Laceration]\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] มอบ [Laceration] +3 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] มอบ [Laceration] +3 ขั้น\u200B</line-height>"
                 }
               ]
             }
@@ -253,18 +253,18 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Up Too!\u200B</line-height>",
-          "desc": "<line-height=120%>[BeforeAttack] Atk Weight +1 ต่อทุกๆ Stage of [BloodScissor] (สูงสุด 2)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2\u200B</line-height>",
+          "desc": "<line-height=200%>[BeforeAttack] Atk Weight +1 ต่อทุกๆ Stage of [BloodScissor] (สูงสุด 2)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                  "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] มอบ 1 [BloodScissorScars] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] มอบ 1 [BloodScissorScars] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttackHead] มอบ 5 [Laceration] และ [Laceration] +2 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttackHead] มอบ 5 [Laceration] และ [Laceration] +2 ขั้น\u200B</line-height>"
                 }
               ]
             }
@@ -278,19 +278,19 @@
         {
           "level": 1,
           "name": "<line-height=120%>Now, It's Your Turn\u200B</line-height>",
-          "desc": "<line-height=120%>[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=200%>[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                  "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] มอบ 1 [BloodScissorScars] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] มอบ 1 [BloodScissorScars] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] มอบ [LineCutting] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] มอบ [LineCutting] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -304,54 +304,54 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Together!\u200B</line-height>",
-          "desc": "<line-height=120%>[BeforeAttack] Atk Weight +1 ต่อทุกๆ Stage of [BloodScissor]\n[WhenUse] จ่ายสูงสุด 100 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2\n[EndSkill] จ่าย 10 [BloodScissor]\u200B</line-height>",
+          "desc": "<line-height=200%>[BeforeAttack] Atk Weight +1 ต่อทุกๆ Stage of [BloodScissor]\n[WhenUse] จ่ายสูงสุด 100 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2\n[EndSkill] จ่าย 10 [BloodScissor]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                  "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] มอบ [Laceration] +3 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] มอบ [Laceration] +3 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[WinDuelAttack] เปิดใช้งาน the target's [Laceration](สูงสุด 10). The เป้าหมายเสีย 1 ขั้น [Laceration]\u200B</line-height>"
+                  "desc": "<line-height=200%>[WinDuelAttack] เปิดใช้งาน the target's [Laceration](สูงสุด 10). The เป้าหมายเสีย 1 ขั้น [Laceration]\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                  "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] มอบ 5 [Laceration]\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] มอบ 5 [Laceration]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[WinDuelAttack] เปิดใช้งาน the target's [Laceration](สูงสุด 10). The เป้าหมายเสีย 1 ขั้น [Laceration]\u200B</line-height>"
+                  "desc": "<line-height=200%>[WinDuelAttack] เปิดใช้งาน the target's [Laceration](สูงสุด 10). The เป้าหมายเสีย 1 ขั้น [Laceration]\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                  "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] มอบ 5 [Laceration]\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] มอบ 5 [Laceration]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[WinDuelAttack] เปิดใช้งาน the target's [Laceration](สูงสุด 10). The เป้าหมายเสีย 1 ขั้น [Laceration]\u200B</line-height>"
+                  "desc": "<line-height=200%>[WinDuelAttack] เปิดใช้งาน the target's [Laceration](สูงสุด 10). The เป้าหมายเสีย 1 ขั้น [Laceration]\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] ทำ +40% ความเสียหายเพิ่มเติม ต่อทุกๆ [BloodScissor] Stage (สูงสุด 120%)\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] ทำ +40% ความเสียหายเพิ่มเติม ต่อทุกๆ [BloodScissor] Stage (สูงสุด 120%)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[EnemyKill] หาก this เหรียญ effect killed the target, ฟื้นฟู HP เท่ากับ50% of the ความเสียหาย ทำ t aได้รับst the killed target.\u200B</line-height>"
+                  "desc": "<line-height=200%>[EnemyKill] หาก this เหรียญ effect killed the target, ฟื้นฟู HP เท่ากับ50% of the ความเสียหาย ทำ t aได้รับst the killed target.\u200B</line-height>"
                 }
               ]
             }
@@ -365,12 +365,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>How Discourteous!\u200B</line-height>",
-          "desc": "<line-height=120%>[DuelCounter]\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ [BloodScissor] Stage (สูงสุด 3)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
+          "desc": "<line-height=200%>[DuelCounter]\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ [BloodScissor] Stage (สูงสุด 3)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] มอบ 4 [Laceration] และ [Laceration] +4 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] มอบ 4 [Laceration] และ [Laceration] +4 ขั้น\u200B</line-height>"
                 }
               ]
             }
@@ -384,18 +384,18 @@
         {
           "level": 1,
           "name": "<line-height=120%>I Don't Need Ugly Things!!\u200B</line-height>",
-          "desc": "<line-height=120%>[CantChangeTarget]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP percentage\u200B</line-height>",
+          "desc": "<line-height=200%>[CantChangeTarget]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP percentage\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=120%>[OnSucceedAttack] หากเป้าหมาย is at 30%- HP, kill the target\u200B</line-height>"
+                  "desc": "<line-height=200%>[OnSucceedAttack] หากเป้าหมาย is at 30%- HP, kill the target\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[EnemyKill] เพิ่ม [BloodDinner] ไป 30% of the defeated enemy's max HP\u200B</line-height>"
+                  "desc": "<line-height=200%>[EnemyKill] เพิ่ม [BloodDinner] ไป 30% of the defeated enemy's max HP\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=120%>[EnemyKill] ได้รับ 4 [Vulnerable] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=200%>[EnemyKill] ได้รับ 4 [Vulnerable] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }

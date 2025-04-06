@@ -6,19 +6,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ฝนวารีศิลา\u200B</line-height>",
-                    "desc": "<line-height=120%>[WhenUse] หากเป้าหมายมี 5+ [Vibration], แต้มตั้งต้น +1\u200B</line-height>",
+                    "desc": "<line-height=200%>[WhenUse] หากเป้าหมายมี 5+ [Vibration], แต้มตั้งต้น +1\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 8 [Vibration]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 8 [Vibration]\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ [Vibration] +3 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ [Vibration] +3 ขั้น\u200B</line-height>"
                                 }
                             ]
                         }
@@ -32,15 +32,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>รวบรวมหิน\u200B</line-height>",
-                    "desc": "<line-height=120%>[WinDuel] หากเป้าหมายมี [Vibration], แต้มตั้งต้น +2\u200B</line-height>",
+                    "desc": "<line-height=200%>[WinDuel] หากเป้าหมายมี [Vibration], แต้มตั้งต้น +2\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 8 [Vibration]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 8 [Vibration]\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\u200B</line-height>"
                                 }
                             ]
                         }
@@ -54,18 +54,18 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ความเกรียจคร้านผงาด\u200B</line-height>",
-                    "desc": "<line-height=120%>[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Vibration]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] สกิลนี้ได้รับ Atk Weight +1 ต่อทุกๆ 5 [Vibration] ที่เป้าหมายมี (สูงสุด 2)\u200B</line-height>",
+                    "desc": "<line-height=200%>[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Vibration]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] สกิลนี้ได้รับ Atk Weight +1 ต่อทุกๆ 5 [Vibration] ที่เป้าหมายมี (สูงสุด 2)\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationEcho]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationEcho]\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion] อีกครั้ง ต่อทุกๆ ขั้น [Vibration] ที่เป้าหมายมี (สูงสุด 2); จากนั้น ลดขั้น [Vibration] ของเป้าหมาย ไป 2\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion] อีกครั้ง ต่อทุกๆ ขั้น [Vibration] ที่เป้าหมายมี (สูงสุด 2); จากนั้น ลดขั้น [Vibration] ของเป้าหมาย ไป 2\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ [Vibration] +4 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ [Vibration] +4 ขั้น\u200B</line-height>"
                                 }
                             ]
                         }
@@ -79,12 +79,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-                    "desc": "<line-height=120%>มอบ 2 [Vibration] แก่ผู้ที่โจมตีที่มา ตราบใดที่ยังมี HP โล่ เหลืออยู่\n[WhenUse] ได้รับ 3 [Protection]\u200B</line-height>",
+                    "desc": "<line-height=200%>มอบ 2 [Vibration] แก่ผู้ที่โจมตีที่มา ตราบใดที่ยังมี HP โล่ เหลืออยู่\n[WhenUse] ได้รับ 3 [Protection]\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>\u200B</line-height>"
+                                    "desc": "<line-height=200%>\u200B</line-height>"
                                 }
                             ]
                         }
@@ -98,15 +98,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>กัดกร่อนบุคคล\u200B</line-height>",
-                    "desc": "<line-height=120%>[WhenUse] หากเป้าหมายมี 5+ [Sinking], แต้มเหรียญ +1\u200B</line-height>",
+                    "desc": "<line-height=200%>[WhenUse] หากเป้าหมายมี 5+ [Sinking], แต้มเหรียญ +1\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 2 [Sinking] และ [Sinking] +2 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 2 [Sinking] และ [Sinking] +2 ขั้น\u200B</line-height>"
                                 }
                             ]
                         }
@@ -120,15 +120,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>กระแสน้ำ\u200B</line-height>",
-                    "desc": "<line-height=120%>[WhenUse] หากเป้าหมายมี [Sinking], แต้มตั้งต้น +2\u200B</line-height>",
+                    "desc": "<line-height=200%>[WhenUse] หากเป้าหมายมี [Sinking], แต้มตั้งต้น +2\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 8 [Sinking] และ [Sinking] +2 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 8 [Sinking] และ [Sinking] +2 ขั้น\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 4 [Sinking] และ [Sinking] +2 ขั้น แก่ 2 เป้าหมาย แบบสุ่ม\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 4 [Sinking] และ [Sinking] +2 ขั้น แก่ 2 เป้าหมาย แบบสุ่ม\u200B</line-height>"
                                 }
                             ]
                         }
@@ -142,25 +142,25 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>โทมนัสไหลลาก\u200B</line-height>",
-                    "desc": "<line-height=120%>[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Sinking]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] สกิลนี้ได้รับ Atk Weight +1 ต่อทุกๆ 5 [Sinking] ที่เป้าหมายมี (สูงสุด 2)\u200B</line-height>",
+                    "desc": "<line-height=200%>[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Sinking]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] สกิลนี้ได้รับ Atk Weight +1 ต่อทุกๆ 5 [Sinking] ที่เป้าหมายมี (สูงสุด 2)\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 5 [Sinking] และ [Sinking] +4 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 5 [Sinking] และ [Sinking] +4 ขั้น\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] แต้มเหรียญต่อไป +1 ต่อทุกๆ 3 [Sinking] ที่เป้าหมายมี (สูงสด 3 ครั้ง)\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] แต้มเหรียญต่อไป +1 ต่อทุกๆ 3 [Sinking] ที่เป้าหมายมี (สูงสด 3 ครั้ง)\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[UnBrokenCoinOnSucceedAttack] บังเกิด [SinkingSurge]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[UnBrokenCoinOnSucceedAttack] บังเกิด [SinkingSurge]\u200B</line-height>"
                                 }
                             ]
                         }
@@ -174,12 +174,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-                    "desc": "<line-height=120%>[OnSucceedEvade] เป้าหมายเสีย 5 ค่าสติ\u200B</line-height>",
+                    "desc": "<line-height=200%>[OnSucceedEvade] เป้าหมายเสีย 5 ค่าสติ\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>\u200B</line-height>"
+                                    "desc": "<line-height=200%>\u200B</line-height>"
                                 }
                             ]
                         }
@@ -193,19 +193,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>โค่นล้ม</line-height></size>\u200B</line-height>",
-                    "desc": "<line-height=120%>[WhenUse] จ่าย 20 [BloodDinner]: ได้รับ 1 [BloodArmor] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
+                    "desc": "<line-height=200%>[WhenUse] จ่าย 20 [BloodDinner]: ได้รับ 1 [BloodArmor] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 5 [Laceration]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 5 [Laceration]\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 5 [Laceration]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 5 [Laceration]\u200B</line-height>"
                                 }
                             ]
                         }
@@ -219,19 +219,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>ชก</size></line-height>\u200B</line-height>",
-                    "desc": "<line-height=120%>[WhenUse] จ่าย 20 [BloodDinner]: ได้รับ 1 [BloodArmor] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
+                    "desc": "<line-height=200%>[WhenUse] จ่าย 20 [BloodDinner]: ได้รับ 1 [BloodArmor] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
                                 }
                             ]
                         }
@@ -245,19 +245,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ศาสตราโลหิตแห่งดอน กิโฮเต้ ศาสตร์ที่ 4 - ผ่ากายา\u200B</line-height>",
-                    "desc": "<line-height=120%>[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ด้วยสกิลนี้, ทำ +20% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ ขั้นที่เพิ่มขึ้นของ [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] จ่าย 4 [BloodArmor]\u200B</line-height>",
+                    "desc": "<line-height=200%>[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ด้วยสกิลนี้, ทำ +20% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ ขั้นที่เพิ่มขึ้นของ [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] จ่าย 4 [BloodArmor]\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 5 [Laceration]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 5 [Laceration]\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 5 [Laceration]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 5 [Laceration]\u200B</line-height>"
                                 }
                             ]
                         }
@@ -271,26 +271,26 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ศาสตราโลหิตแห่งดอน กิโฮเต้ ศาสตร์ที่ 11 - แทงทะลุ\u200B</line-height>",
-                    "desc": "<line-height=120%>[WhenUse] ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี, แต้มตั้งต้น +1 (สูงสุด 3)\n[WinDuel] ด้วยสกิลนี้, ทำ +20% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ ขั้นที่เพิ่มขึ้นของ [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] จ่าย 4 [BloodArmor]\u200B</line-height>",
+                    "desc": "<line-height=200%>[WhenUse] ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี, แต้มตั้งต้น +1 (สูงสุด 3)\n[WinDuel] ด้วยสกิลนี้, ทำ +20% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ ขั้นที่เพิ่มขึ้นของ [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] จ่าย 4 [BloodArmor]\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] บังคับใช้งาน [Laceration] บนเป้าหมาย เท่ากับ จำนวนขั้นของมัน ใช้ขั้น [Laceration] ของเป้าหมาย จนเหลือ 1\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] บังคับใช้งาน [Laceration] บนเป้าหมาย เท่ากับ จำนวนขั้นของมัน ใช้ขั้น [Laceration] ของเป้าหมาย จนเหลือ 1\u200B</line-height>"
                                 }
                             ]
                         }
@@ -304,19 +304,19 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ศาสตราดัดแปลงแห่งดอน กิโฮเต้: ศิลป์ซานโซที่ 4 - ไล่ล่า\u200B</line-height>",
-                    "desc": "<line-height=120%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ที่ตัวเองมี (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้งาน [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
+                    "desc": "<line-height=200%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ที่ตัวเองมี (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้งาน [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 8 [Laceration]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 8 [Laceration]\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า\n- หากสกิลนี้จ่ายครบ 30 [BloodDinner], มอบ 2 [Binding] เพิ่มเติม\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า\n- หากสกิลนี้จ่ายครบ 30 [BloodDinner], มอบ 2 [Binding] เพิ่มเติม\u200B</line-height>"
                                 }
                             ]
                         }
@@ -330,26 +330,26 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ศาสตราดัดแปลงแห่งดอน กิโฮเต้: ศิลป์ซานโซที่ 3 - ซุ่มประจัน\u200B</line-height>",
-                    "desc": "<line-height=120%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ที่ตัวเองมี (สูงสุด 2)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้งาน [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
+                    "desc": "<line-height=200%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ที่ตัวเองมี (สูงสุด 2)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้งาน [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า\n- หากสกิลนี้จ่ายครบ 50 [BloodDinner], มอบ 2 [Paralysis] เพิ่มเติม\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 1 [Paralysis] ในเทิร์นหน้า\n- หากสกิลนี้จ่ายครบ 50 [BloodDinner], มอบ 2 [Paralysis] เพิ่มเติม\u200B</line-height>"
                                 }
                             ]
                         }
@@ -363,36 +363,36 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>ศาสตราโลหิตแห่งดอน กิโฮเต้ ศาสตร์ที่ 2 - ผลึกโลหิต</size></line-height>\u200B</line-height>",
-                    "desc": "<line-height=120%>สามารถปะทะกับสกิลนี้ได้ โดยไม่สนความเร็ว\n[StartBattle] ได้รับ 1 [SwirlingBlood]\n[StartBattle] จ่าย 100 [BloodDinner]; ได้รับ 1 [BloodArmor] และ 20 HP โล่ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n- หาก ยูนิทนี้ มี [BloodDinner] ไม่เพียงพอ, ได้รับ 50 [Laceration], และ บังคับใช้งานทันที. เสีย 2 ขั้น [Laceration]. ได้รับ 200 HP โล่ (ความเสียหายนี้จะไม่ลด HP ของยูนิทนี้ ให้เป็น 0)\n[DefeatDuel]ตราบใดที่HP โล่ จากสกิลนี้ยังเหลืออยู่ ได้รับ 3 [Vulnerable]\n[DefeatDuel] สกิลนี้ทำ -50% ความเสียหายน้อยลง\n[EndSkill] จบช่วงต่อสู้นี้ทันที\u200B</line-height>",
+                    "desc": "<line-height=200%>สามารถปะทะกับสกิลนี้ได้ โดยไม่สนความเร็ว\n[StartBattle] ได้รับ 1 [SwirlingBlood]\n[StartBattle] จ่าย 100 [BloodDinner]; ได้รับ 1 [BloodArmor] และ 20 HP โล่ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n- หาก ยูนิทนี้ มี [BloodDinner] ไม่เพียงพอ, ได้รับ 50 [Laceration], และ บังคับใช้งานทันที. เสีย 2 ขั้น [Laceration]. ได้รับ 200 HP โล่ (ความเสียหายนี้จะไม่ลด HP ของยูนิทนี้ ให้เป็น 0)\n[DefeatDuel]ตราบใดที่HP โล่ จากสกิลนี้ยังเหลืออยู่ ได้รับ 3 [Vulnerable]\n[DefeatDuel] สกิลนี้ทำ -50% ความเสียหายน้อยลง\n[EndSkill] จบช่วงต่อสู้นี้ทันที\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 5 [Laceration] และ [Laceration] +3 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 5 [Laceration] และ [Laceration] +3 ขั้น\u200B</line-height>"
                                 }
                             ]
                         }
@@ -406,18 +406,18 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>ลา อเวนทูรา ฮา เทอร์มินาโด</size></line-height>\u200B</line-height>",
-                    "desc": "<line-height=120%>ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 200%)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 3 [BloodArmor] (สูงสุด 100%)\n[StartBattle] จ่าย (45 - ค่าสติปัจจุบัน) [BloodDinner] และ ฟื้นฟู ค่าสติจนถึง 45\n- หากมี [BloodDinner] ไม่เพียงพอ, ได้รับ 20 [Laceration] และ ฟื้นฟู ค่าสติจนถึง 45\n- ได้รับ HP โล่ เท่ากับ [BloodDinner] ที่เหลืออยู่ (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายHP ที่สกิลนี้ทำแก่เป้าหมาย\n[EndSkill] หากเป้าหมาย ตาย, เพิ่ม [BloodDinner] เท่ากับ HPสูงสุด ของเป้าหมาย\u200B</line-height>",
+                    "desc": "<line-height=200%>ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 200%)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 3 [BloodArmor] (สูงสุด 100%)\n[StartBattle] จ่าย (45 - ค่าสติปัจจุบัน) [BloodDinner] และ ฟื้นฟู ค่าสติจนถึง 45\n- หากมี [BloodDinner] ไม่เพียงพอ, ได้รับ 20 [Laceration] และ ฟื้นฟู ค่าสติจนถึง 45\n- ได้รับ HP โล่ เท่ากับ [BloodDinner] ที่เหลืออยู่ (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายHP ที่สกิลนี้ทำแก่เป้าหมาย\n[EndSkill] หากเป้าหมาย ตาย, เพิ่ม [BloodDinner] เท่ากับ HPสูงสุด ของเป้าหมาย\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[UnBrokenCoinOnSucceedAttack] มอบ 10 [Laceration] และ [Laceration] +3 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[UnBrokenCoinOnSucceedAttack] มอบ 10 [Laceration] และ [Laceration] +3 ขั้น\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 5 [Laceration] และ [Laceration] +3 ขั้น แก่ศัตรูทุกคน ยกเว้นเป้าหมายของสกิลนี้\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 5 [Laceration] และ [Laceration] +3 ขั้น แก่ศัตรูทุกคน ยกเว้นเป้าหมายของสกิลนี้\u200B</line-height>"
                                 }
                             ]
                         }
@@ -431,15 +431,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>ลา อเวนทูรา ฮา เทอร์มินาโด...</size></line-height>\u200B</line-height>",
-                    "desc": "<line-height=120%>ทำ +40% ความเสียหายเพิ่มเติม ต่อทุกๆ 10 (ผลรวม [Laceration] ของทุกๆเป้าหมาย]) (สูงสุด 200%)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [BloodDinner] ที่ยูนิทนี้ จ่ายไป (สูงสุด 100%)\n[StartBattle] จ่าย (45 - ค่าสติปัจจุบัน) [BloodDinner] และ ฟื้นฟู ค่าสติจนถึง 45\n- หากมี [BloodDinner] ไม่เพียงพอ, ได้รับ 20 [Laceration] และ ฟื้นฟู ค่าสติจนถึง 45\n- ได้รับ HP โล่ เท่ากับ [BloodDinner] ที่เหลืออยู่ (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายHP ที่สกิลนี้ทำแก่เป้าหมาย\n[EndSkill] หากเป้าหมาย ตาย, เพิ่ม [BloodDinner] เท่ากับ HPสูงสุด ของเป้าหมาย\u200B</line-height>",
+                    "desc": "<line-height=200%>ทำ +40% ความเสียหายเพิ่มเติม ต่อทุกๆ 10 (ผลรวม [Laceration] ของทุกๆเป้าหมาย]) (สูงสุด 200%)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [BloodDinner] ที่ยูนิทนี้ จ่ายไป (สูงสุด 100%)\n[StartBattle] จ่าย (45 - ค่าสติปัจจุบัน) [BloodDinner] และ ฟื้นฟู ค่าสติจนถึง 45\n- หากมี [BloodDinner] ไม่เพียงพอ, ได้รับ 20 [Laceration] และ ฟื้นฟู ค่าสติจนถึง 45\n- ได้รับ HP โล่ เท่ากับ [BloodDinner] ที่เหลืออยู่ (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายHP ที่สกิลนี้ทำแก่เป้าหมาย\n[EndSkill] หากเป้าหมาย ตาย, เพิ่ม [BloodDinner] เท่ากับ HPสูงสุด ของเป้าหมาย\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>มอบ 10 [Laceration] และ [Laceration] +3 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>มอบ 10 [Laceration] และ [Laceration] +3 ขั้น\u200B</line-height>"
                                 }
                             ]
                         }
@@ -453,15 +453,15 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>เพิ่มแรงกดดัน\u200B</line-height>",
-                    "desc": "<line-height=120%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
+                    "desc": "<line-height=200%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 2 ปริมาณ [Vibration]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 2 ปริมาณ [Vibration]\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[CriticalOnSucceedAttack] มอบ 3 ปริมาณ [Vibration] และ [Vibration] +2 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[CriticalOnSucceedAttack] มอบ 3 ปริมาณ [Vibration] และ [Vibration] +2 ขั้น\u200B</line-height>"
                                 }
                             ]
                         }
@@ -475,18 +475,18 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ปลดเปลื้อง\u200B</line-height>",
-                    "desc": "<line-height=120%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 3 ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 5)\u200B</line-height>",
+                    "desc": "<line-height=200%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 3 ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 5)\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] มอบ 3 ปริมาณ [Vibration]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] มอบ 3 ปริมาณ [Vibration]\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[WinDuelAttack] มอบ [Vibration] +3 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[WinDuelAttack] มอบ [Vibration] +3 ขั้น\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[CriticalOnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\u200B</line-height>"
+                                    "desc": "<line-height=200%>[CriticalOnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\u200B</line-height>"
                                 }
                             ]
                         }
@@ -500,21 +500,21 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>กำกับ การประเมิน\u200B</line-height>",
-                    "desc": "<line-height=120%>[WhenUse] เมื่อมี 10+ ปริมาณ [Breath], จ่าย ปริมาณ [Breath] to ได้รับ +2 แต้มรวม ต่อทุกๆ 3 ปริมาณ [Breath] ที่จ่ายไป (สูงสุด 4)\u200B</line-height>",
+                    "desc": "<line-height=200%>[WhenUse] เมื่อมี 10+ ปริมาณ [Breath], จ่าย ปริมาณ [Breath] to ได้รับ +2 แต้มรวม ต่อทุกๆ 3 ปริมาณ [Breath] ที่จ่ายไป (สูงสุด 4)\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[OnSucceedAttack] หากเป้าหมายมี 5+ ขั้น [Vibration], เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\u200B</line-height>"
+                                    "desc": "<line-height=200%>[OnSucceedAttack] หากเป้าหมายมี 5+ ขั้น [Vibration], เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[WinDuelAttack] มอบ 5 ปริมาณ [Vibration] และ [Vibration] +3 ขั้น\u200B</line-height>"
+                                    "desc": "<line-height=200%>[WinDuelAttack] มอบ 5 ปริมาณ [Vibration] และ [Vibration] +3 ขั้น\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[CriticalOnSucceedAttack] เปิดใช้ [VibrationExplosion] 2 ครั้ง; จากนั้น ลดขั้น [Vibration] ของเป้าหมาย ไป 2\u200B</line-height>"
+                                    "desc": "<line-height=200%>[CriticalOnSucceedAttack] เปิดใช้ [VibrationExplosion] 2 ครั้ง; จากนั้น ลดขั้น [Vibration] ของเป้าหมาย ไป 2\u200B</line-height>"
                                 }
                             ]
                         }
@@ -528,21 +528,21 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>เปิดใช้อนุกรมการสูญพันธ์\u200B</line-height>",
-                    "desc": "<line-height=120%>[WhenUse] จ่ายครึ่งหนึ่งของ ปริมาณ และขั้นของ [Breath] ที่ตัวเองมี\n- ได้รับ (ผลรวมของปริมาณ และขั้นของ [Breath] ที่จ่ายไป / 2)+ แต้มรวม (สูงสุด 20)\n- ทำ +(ผลรวมของปริมาณ และขั้นของ [Breath] ที่จ่ายไป x 2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n- +(ผลรวมของปริมาณ และขั้นของ [Breath] ที่จ่ายไป x 4)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด 100%)\n[DefeatDuel] ลดขั้น [Breath] ที่เหลืออยู่ไปครึ่งหนึ่ง\u200B</line-height>",
+                    "desc": "<line-height=200%>[WhenUse] จ่ายครึ่งหนึ่งของ ปริมาณ และขั้นของ [Breath] ที่ตัวเองมี\n- ได้รับ (ผลรวมของปริมาณ และขั้นของ [Breath] ที่จ่ายไป / 2)+ แต้มรวม (สูงสุด 20)\n- ทำ +(ผลรวมของปริมาณ และขั้นของ [Breath] ที่จ่ายไป x 2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n- +(ผลรวมของปริมาณ และขั้นของ [Breath] ที่จ่ายไป x 4)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด 100%)\n[DefeatDuel] ลดขั้น [Breath] ที่เหลืออยู่ไปครึ่งหนึ่ง\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=120%>[SuperCoin]\u200B</line-height>"
+                                    "desc": "<line-height=200%>[SuperCoin]\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>หากเป้าหมายไม่ได้รับ ความเสียหายHP เลยในเทิร์นก่อน, การันตีการติดคริ\u200B</line-height>"
+                                    "desc": "<line-height=200%>หากเป้าหมายไม่ได้รับ ความเสียหายHP เลยในเทิร์นก่อน, การันตีการติดคริ\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>หากผู้ใช้ได้รับ ความเสียหายHP ในเทิร์นก่อน, จะไม่ติดคริ; แทนที่ด้วย ทำ -80% ความเสียหายน้อยลง\u200B</line-height>"
+                                    "desc": "<line-height=200%>หากผู้ใช้ได้รับ ความเสียหายHP ในเทิร์นก่อน, จะไม่ติดคริ; แทนที่ด้วย ทำ -80% ความเสียหายน้อยลง\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=120%>[CriticalOnSucceedAttack] เปิดใช้ [VibrationExplosion] 3 ครั้ง; จากนั้น ลดขั้น [Vibration] ของเป้าหมาย ไป 3\u200B</line-height>"
+                                    "desc": "<line-height=200%>[CriticalOnSucceedAttack] เปิดใช้ [VibrationExplosion] 3 ครั้ง; จากนั้น ลดขั้น [Vibration] ของเป้าหมาย ไป 3\u200B</line-height>"
                                 }
                             ]
                         }
@@ -556,7 +556,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ไตร่ตรองให้ถี่ถ้วน\u200B</line-height>",
-                    "desc": "<line-height=120%>[WhenUse] แต้มรวม +1 ต่อ ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 5)\n[WhenUse] ได้รับ 4 ปริมาณ [Breath]\n- หากยูนิทนี้ยังมีโล่อยู่ ได้รับ [Breath] +2 ขั้นเช่นกัน\u200B</line-height>",
+                    "desc": "<line-height=200%>[WhenUse] แต้มรวม +1 ต่อ ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 5)\n[WhenUse] ได้รับ 4 ปริมาณ [Breath]\n- หากยูนิทนี้ยังมีโล่อยู่ ได้รับ [Breath] +2 ขั้นเช่นกัน\u200B</line-height>",
                     "coinlist": [
                         {}
                     ]
