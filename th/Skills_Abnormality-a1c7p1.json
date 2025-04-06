@@ -33,7 +33,7 @@
                   "desc": "[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 7+ Speed, มอบ 3 [Burst]"
+                  "desc": "[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst]"
                 }
               ]
             },
@@ -43,7 +43,7 @@
                   "desc": "[OnSucceedAttack] ได้รับ 3 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 7+ Speed, มอบ 3 [Burst]"
+                  "desc": "[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst]"
                 }
               ]
             }
@@ -65,7 +65,7 @@
                   "desc": "[OnSucceedAttack] ได้รับ 3 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 7+ Speed, มอบ 3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 ขั้น [Burst]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] +50% ความเสียหายเมื่อติดคริ"
@@ -82,7 +82,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Salut\u200B</line-height>",
-          "desc": "[WhenUse] หาก ยูนิทนี้'s Speed is faster than the target's, แต้มเหรียญ +1 (แต้มเหรียญ +1 ต่อทุกๆ 2 Speed difference; max 3)",
+          "desc": "[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1 (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -90,7 +90,7 @@
                   "desc": "[OnSucceedAttack] ได้รับ [Breath] +4 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 7+ Speed, มอบ 3 [Burst] และ [Burst] +1 ขั้น"
+                  "desc": "[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst] และ [Burst] +1 ขั้น"
                 }
               ]
             },
@@ -100,7 +100,7 @@
                   "desc": "[OnSucceedAttack] ได้รับ 5 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 7+ Speed, มอบ 3 [Burst] และ [Burst] +1 ขั้น"
+                  "desc": "[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst] และ [Burst] +1 ขั้น"
                 }
               ]
             },
@@ -110,7 +110,7 @@
                   "desc": "[OnSucceedAttack] ได้รับ 5 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 7+ Speed, มอบ 3 [Burst] และ [Burst] +1 ขั้น"
+                  "desc": "[OnSucceedAttack] เมื่อมี 7+ ความเร็ว, มอบ 3 [Burst] และ [Burst] +1 ขั้น"
                 }
               ]
             },
@@ -120,7 +120,7 @@
                   "desc": "[CriticalOnSucceedAttack] +100% ความเสียหายเมื่อติดคริ"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ +5% ความเสียหาย ต่อทุกๆ [Burst]บนthe target (สูงสุด 50%)"
+                  "desc": "[OnSucceedAttack] ทำ +5% ความเสียหาย ต่อทุกๆ [Burst] ที่เป้าหมายมี (สูงสุด 50%)"
                 }
               ]
             }
@@ -134,7 +134,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Parry\u200B</line-height>",
-          "desc": "[WinDuel] ทำ ความเสียหายเพิ่มเติ่ม basedบนnumber of Clashes (+10% ความเสียหายเพิ่มเติม ต่อทุกๆ Clash, max 50%)\n[WinDuel] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 2 [Binding] ในเทิร์นหน้า",
+          "desc": "[WinDuel] ทำ ความเสียหายเพิ่มเติ่ม basedบนnumber of Clashes (+10% ความเสียหายเพิ่มเติม ต่อทุกๆ Clash, สูงสุด 50%)\n[WinDuel] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 2 [Binding] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -180,7 +180,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ใช้เหรียญซ้ำ ([BloodScissor] Stage - 1) times (สูงสุด 2)"
+                  "desc": "[OnSucceedAttack] ใช้เหรียญซ้ำ ([BloodScissor] Stage - 1) ครั้ง (สูงสุด 2)"
                 }
               ]
             }
@@ -194,7 +194,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Even Sharper\u200B</line-height>",
-          "desc": "[WhenUse] จ่าย up to 20 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] จ่ายd\n- หาก ยูนิทนี้ failed to จ่าย [BloodDinner] ด้วยสกิลนี้, ได้รับ 30 [Laceration]\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่ตัวเองมี (สูงสุด 2)",
+          "desc": "[WhenUse] จ่ายสูงสุด 20 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner] ด้วยสกิลนี้, ได้รับ 30 [Laceration]\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่ตัวเองมี (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -220,7 +220,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>SNIP!!\u200B</line-height>",
-          "desc": "[WhenUse] จ่าย up to 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] จ่ายd\n[WhenUse] หากเป้าหมายมี [LineCutting], แต้มปะทะ +5\nHeal 5 SPบนevery hit aได้รับst [LineCutting]",
+          "desc": "[WhenUse] จ่ายสูงสุด 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] หากเป้าหมายมี [LineCutting], แต้มปะทะ +5\nHeal 5 SPบนevery hit aได้รับst [LineCutting]",
           "coinlist": [
             {
               "coindescs": [
@@ -253,7 +253,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Up Too!\u200B</line-height>",
-          "desc": "[BeforeAttack] Atk Weight +1 ต่อทุกๆ Stage of [BloodScissor] (สูงสุด 2)\n[WhenUse] จ่าย up to 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] จ่ายd\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2",
+          "desc": "[BeforeAttack] Atk Weight +1 ต่อทุกๆ Stage of [BloodScissor] (สูงสุด 2)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -304,7 +304,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Cut You Together!\u200B</line-height>",
-          "desc": "[BeforeAttack] Atk Weight +1 ต่อทุกๆ Stage of [BloodScissor]\n[WhenUse] จ่าย up to 100 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] จ่ายd\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2\n[EndSkill] จ่าย 10 [BloodScissor]",
+          "desc": "[BeforeAttack] Atk Weight +1 ต่อทุกๆ Stage of [BloodScissor]\n[WhenUse] จ่ายสูงสุด 100 [BloodDinner]; ได้รับ 1 [BloodScissor] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2\n[EndSkill] จ่าย 10 [BloodScissor]",
           "coinlist": [
             {
               "coindescs": [
@@ -389,10 +389,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก the target is at 30%- HP, kill the target"
+                  "desc": "[OnSucceedAttack] หากเป้าหมาย is at 30%- HP, kill the target"
                 },
                 {
-                  "desc": "[EnemyKill] Increase [BloodDinner] ไป 30% of the defeated enemy's max HP"
+                  "desc": "[EnemyKill] เพิ่ม [BloodDinner] ไป 30% of the defeated enemy's max HP"
                 },
                 {
                   "desc": "[EnemyKill] ได้รับ 4 [Vulnerable] ในเทิร์นหน้า"

@@ -172,7 +172,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Crab Bastards...!\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 1 [Burst] [Protection] (3 times ต่อทุกๆ turn)",
+          "desc": "[WhenUse] ได้รับ 1 [Burst] [Protection] (3 ครั้ง ต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -233,7 +233,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Remise\u200B</line-height>",
-          "desc": "If ยูนิทนี้'s Speed is faster than the target's ไป 2 or more, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น",
+          "desc": "Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 or more, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -281,7 +281,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Engagement\u200B</line-height>",
-          "desc": "If ยูนิทนี้'s Speed is faster than the target's ไป 2 or more, แต้มเหรียญ +1\n[WinDuel] ได้รับ [Breath] +2 ขั้น",
+          "desc": "Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 or more, แต้มเหรียญ +1\n[WinDuel] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -303,7 +303,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Engagement\u200B</line-height>",
-          "desc": "If ยูนิทนี้'s Speed is faster than the target's, แต้มเหรียญ +1 ต่อทุกๆ 2 Speed difference (สูงสุด 2)\n[WinDuel] ได้รับ [Breath] +2 ขั้น",
+          "desc": "Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว (สูงสุด 2)\n[WinDuel] ได้รับ [Breath] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -330,7 +330,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Contre Attaque\u200B</line-height>",
-          "desc": "If ยูนิทนี้'s Speed is faster than the target's ไป 2 or more, แต้มเหรียญ +1\n[WinDuel] จ่าย 10 [Breath] Count. ได้รับ [Breath] เท่ากับ [Breath] Count จ่ายd.\n[WinDuel] หาก ยูนิทนี้ conducted a [OneOnOneDuel] with the target Slot's Attack Skill, มอบ 1 [Vulnerable]บนHit (Twice ต่อทุกๆ turn)",
+          "desc": "Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 or more, แต้มเหรียญ +1\n[WinDuel] จ่าย 10 [Breath] Count. ได้รับ [Breath] เท่ากับ [Breath] Count ที่จ่ายไป.\n[WinDuel] หาก ยูนิทนี้ conducted a [OneOnOneDuel] with the target Slot's Attack Skill, มอบ 1 [Vulnerable]บนHit (2 ครั้ง ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -352,7 +352,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Contre Attaque\u200B</line-height>",
-          "desc": "If ยูนิทนี้'s Speed is faster than the target's, แต้มเหรียญ +1 ต่อทุกๆ 2 Speed difference (สูงสุด 3)\n[WinDuel] จ่าย 10 [Breath] Count. ได้รับ [Breath] เท่ากับ [Breath] Count จ่ายd. Aได้รับst targets with [DuelDeclaration_Sinclair], ได้รับ [Breath] เท่ากับ ([Breath] Count จ่ายd x 2) instead\n[WinDuel] หาก ยูนิทนี้ conducted a [OneOnOneDuel] with the target Slot's Attack Skill, มอบ 1 [Vulnerable]บนHit (Twice ต่อทุกๆ turn)",
+          "desc": "Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว (สูงสุด 3)\n[WinDuel] จ่าย 10 [Breath] Count. ได้รับ [Breath] เท่ากับ [Breath] Count ที่จ่ายไป. Aได้รับst targets with [DuelDeclaration_Sinclair], ได้รับ [Breath] เท่ากับ ([Breath] Count ที่จ่ายไป x 2) instead\n[WinDuel] หาก ยูนิทนี้ conducted a [OneOnOneDuel] with the target Slot's Attack Skill, มอบ 1 [Vulnerable]บนHit (2 ครั้ง ต่อทุกๆ turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -675,7 +675,7 @@
                   "summary": "ทำ ความเสียหายเพิ่มเติ่ม basedบน[Combustion]บนเป้าหมาย"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Combustion], มอบ 2 [Combustion] aได้รับst (# of highest Reson.) random enemies\n<style=\"highlight\">- หาก the above Reson. was a Wrath Reson., มอบ [Combustion] +1 ขั้นเป็นwell</style>",
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 10+ [Combustion], มอบ 2 [Combustion] aได้รับst (# of highest Reson.) random enemies\n<style=\"highlight\">- หาก the above Reson. was a Wrath Reson., มอบ [Combustion] +1 ขั้นเช่นกัน</style>",
                   "summary": "[OnSucceedAttack] มอบ [Combustion] basedบนReson."
                 },
                 {
@@ -846,7 +846,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] จ่าย up to 8 ขั้น [Vibration] ที่ตัวเองมี, และ มอบ the same amount of ขั้น [Vibration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] จ่ายสูงสุด 8 ขั้น [Vibration] ที่ตัวเองมี, และ มอบ the same amount of ขั้น [Vibration]บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
@@ -877,7 +877,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] จ่าย up to 8 ขั้น [Vibration] ที่ตัวเองมี, และ มอบ the same amount of ขั้น [Vibration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] จ่ายสูงสุด 8 ขั้น [Vibration] ที่ตัวเองมี, และ มอบ the same amount of ขั้น [Vibration]บนเป้าหมาย"
                 },
                 {
                   "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1"
@@ -927,7 +927,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Courier Trunk - Decay Hammer\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] ด้วยสกิลนี้'sบนHit effects; instead, it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)",
+          "desc": "[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] ด้วยสกิลนี้'sบนHit effects; แทนที่ด้วย it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)",
           "coinlist": [
             {
               "coindescs": [
@@ -948,7 +948,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Courier Trunk - Decay Hammer\u200B</line-height>",
-          "desc": "เมื่อมี 10+ [DevyatDimensionalSackSinclair], or หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Count with itsบนHit effects; instead, it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)",
+          "desc": "เมื่อมี 10+ [DevyatDimensionalSackSinclair], or หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)",
           "coinlist": [
             {
               "coindescs": [
@@ -960,7 +960,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น\n- เมื่อมี 15+ [DevyatDimensionalSackSinclair], มอบ +เพิ่มเติมอีก 1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น\n- เมื่อมี 15+ [DevyatDimensionalSackSinclair], มอบ +เพิ่มเติมอีก 1 ขั้น [Burst]"
                 }
               ]
             }
@@ -969,7 +969,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Courier Trunk - Decay Hammer\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSackSinclair]บนself or ต่อทุกๆ 6 [Burst]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Count with itsบนHit effects; instead, it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)",
+          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSackSinclair]บนself or ต่อทุกๆ 6 [Burst]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)",
           "coinlist": [
             {
               "coindescs": [
@@ -981,7 +981,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น\n- เมื่อมี 15+ [DevyatDimensionalSackSinclair], มอบ +เพิ่มเติมอีก 1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +2 ขั้น\n- เมื่อมี 15+ [DevyatDimensionalSackSinclair], มอบ +เพิ่มเติมอีก 1 ขั้น [Burst]"
                 }
               ]
             }
@@ -995,7 +995,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Courier Trunk - Demolition Gadget\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] or [Burst] Count ด้วยสกิลนี้'sบนHit effects; instead, it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)",
+          "desc": "[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] or ขั้น [Burst] ด้วยสกิลนี้'sบนHit effects; แทนที่ด้วย it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)",
           "coinlist": [
             {
               "coindescs": [
@@ -1023,7 +1023,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Courier Trunk - Demolition Gadget\u200B</line-height>",
-          "desc": "เมื่อมี 10+ [DevyatDimensionalSackSinclair], or หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] or [Burst] Count with itsบนHit effects; instead, it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)\n[WhenUse] เมื่อมี 20- [DevyatDimensionalSackSinclair], ได้รับ 1 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)",
+          "desc": "เมื่อมี 10+ [DevyatDimensionalSackSinclair], or หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ [Burst] or ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)\n[WhenUse] เมื่อมี 20- [DevyatDimensionalSackSinclair], ได้รับ 1 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -1051,7 +1051,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Courier Trunk - Demolition Gadget\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSackSinclair]บนself or ต่อทุกๆ 6 [Burst]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] or [Burst] Count with itsบนHit effects; instead, it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)\n[WhenUse] เมื่อมี 30- [DevyatDimensionalSackSinclair], ได้รับ 1 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)",
+          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSackSinclair]บนself or ต่อทุกๆ 6 [Burst]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ [Burst] or ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)\n[WhenUse] เมื่อมี 30- [DevyatDimensionalSackSinclair], ได้รับ 1 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -1063,14 +1063,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]\n- เมื่อมี 15+ [DevyatDimensionalSackSinclair], มอบ +<style=\"highlight\">2</style> [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst]\n- เมื่อมี 15+ [DevyatDimensionalSackSinclair], มอบ +<style=\"highlight\">2</style> ขั้น [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Burst]\n- เมื่อมี 15+ [DevyatDimensionalSackSinclair], มอบ +<style=\"highlight\">2</style> [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Burst]\n- เมื่อมี 15+ [DevyatDimensionalSackSinclair], มอบ +<style=\"highlight\">2</style> ขั้น [Burst]"
                 }
               ]
             }
@@ -1084,12 +1084,12 @@
         {
           "level": 3,
           "name": "<line-height=120%>Poludnitsa... I trust you!\u200B</line-height>",
-          "desc": "เมื่อมี 10+ [DevyatDimensionalSackSinclair], or หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] or [Burst] Count with itsบนHit effects; instead, the final เหรียญ ได้รับs +2 เหรียญ Power\n[WhenUse] หากเป้าหมายมี 15+ [Burst], ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ [DevyatDimensionalSackSinclair] (สูงสุด 90%)",
+          "desc": "เมื่อมี 10+ [DevyatDimensionalSackSinclair], or หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ [Burst] or ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย the final เหรียญ ได้รับs +2 เหรียญ Power\n[WhenUse] หากเป้าหมายมี 15+ [Burst], ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ [DevyatDimensionalSackSinclair] (สูงสุด 90%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น\n- มอบ +เพิ่มเติมอีก 1 [Burst] Count ต่อทุกๆ 10 [DevyatDimensionalSackSinclair] (สูงสุด 2)"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น\n- มอบ +เพิ่มเติมอีก 1 ขั้น [Burst] ต่อทุกๆ 10 [DevyatDimensionalSackSinclair] (สูงสุด 2)"
                 }
               ]
             },
@@ -1103,7 +1103,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก this Skill failed to increase the final เหรียญ Power, ได้รับ 1 [Agility] ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] หาก this Skill failed to เพิ่ม the final เหรียญ Power, ได้รับ 1 [Agility] ในเทิร์นหน้า"
                 }
               ]
             }
@@ -1112,12 +1112,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Poludnitsa... I trust you!\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSackSinclair]บนself or ต่อทุกๆ 6 [Burst]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] or [Burst] Count with itsบนHit effects; instead, the final เหรียญ ได้รับs +4 เหรียญ Power\n[WhenUse] หากเป้าหมายมี 15+ [Burst], ทำ +4% ความเสียหายเพิ่มเติม ต่อทุกๆ [DevyatDimensionalSackSinclair] (สูงสุด 120%)",
+          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSackSinclair]บนself or ต่อทุกๆ 6 [Burst]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ [Burst] or ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย the final เหรียญ ได้รับs +4 เหรียญ Power\n[WhenUse] หากเป้าหมายมี 15+ [Burst], ทำ +4% ความเสียหายเพิ่มเติม ต่อทุกๆ [DevyatDimensionalSackSinclair] (สูงสุด 120%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น\n- มอบ +เพิ่มเติมอีก 1 [Burst] Count ต่อทุกๆ 10 [DevyatDimensionalSackSinclair] (สูงสุด <style=\"highlight\">3</style>)"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] +1 ขั้น\n- มอบ +เพิ่มเติมอีก 1 ขั้น [Burst] ต่อทุกๆ 10 [DevyatDimensionalSackSinclair] (สูงสุด <style=\"highlight\">3</style>)"
                 }
               ]
             },
@@ -1279,7 +1279,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ล้างแค้น with Interest\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 [Aggro] to this Skill Slot ในเทิร์นหน้า\n[StartBattle] This Skill ได้รับs (highest Reson. / 3) Offense Level (สูงสุด 2, rounded down)",
+          "desc": "[WhenUse] ได้รับ +2 [Aggro] to this Skill Slot ในเทิร์นหน้า\n[StartBattle] สกิลนี้ได้รับ (highest Reson. / 3) Offense Level (สูงสุด 2, rounded down)",
           "coinlist": [
             {},
             {
@@ -1301,7 +1301,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>ล้างแค้น with Interest\u200B</line-height>",
-          "desc": "<style=\"highlight\">หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\n[WhenUse] This Skill Slot ได้รับs <style=\"highlight\">3</style> [Aggro] ในเทิร์นหน้า\n[StartBattle] This Skill ได้รับs (highest Reson. / <style=\"highlight\">2</style>) Offense Level (สูงสุด <style=\"highlight\">3</style>, rounded down)",
+          "desc": "<style=\"highlight\">หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\n[WhenUse] This Skill Slot ได้รับs <style=\"highlight\">3</style> [Aggro] ในเทิร์นหน้า\n[StartBattle] สกิลนี้ได้รับ (highest Reson. / <style=\"highlight\">2</style>) Offense Level (สูงสุด <style=\"highlight\">3</style>, rounded down)",
           "coinlist": [
             {},
             {
@@ -1323,7 +1323,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ล้างแค้น with Interest\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] This Skill Slot ได้รับs <style=\"highlight\">5</style> [Aggro] ในเทิร์นหน้า\n[StartBattle] This Skill ได้รับs (highest Reson. / 2) Offense Level (สูงสุด 3, rounded down)\n<style=\"highlight\">- หาก the said Reson. includes an A-Reson., double the Offense Level ได้รับed from the above effect</style>",
+          "desc": "หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] This Skill Slot ได้รับs <style=\"highlight\">5</style> [Aggro] ในเทิร์นหน้า\n[StartBattle] สกิลนี้ได้รับ (highest Reson. / 2) Offense Level (สูงสุด 3, rounded down)\n<style=\"highlight\">- หาก the said Reson. includes an A-Reson., double the Offense Level ได้รับed from the above effect</style>",
           "coinlist": [
             {},
             {
@@ -1350,7 +1350,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Write 'em all down\u200B</line-height>",
-          "desc": "ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 [VengeanceBookSinclair] (สูงสุด 15%)\nหากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[StartBattle] This Skill ได้รับs (highest Reson. / 2) Offense Level (สูงสุด 3, rounded down)",
+          "desc": "ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 [VengeanceBookSinclair] (สูงสุด 15%)\nหากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[StartBattle] สกิลนี้ได้รับ (highest Reson. / 2) Offense Level (สูงสุด 3, rounded down)",
           "coinlist": [
             {},
             {
@@ -1375,7 +1375,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Write 'em all down\u200B</line-height>",
-          "desc": "ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ <style=\"highlight\">1</style> [VengeanceBookSinclair] (สูงสุด <style=\"highlight\">30%</style>)\n<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration]บนเป้าหมาย (สูงสุด 2)</style>\n[StartBattle] This Skill ได้รับs (highest Reson. / 2) Offense Level (สูงสุด 3, rounded down)\n<style=\"highlight\">- หาก the said Reson. includes an A-Reson., double the Offense Level ได้รับed from the above effect</style>",
+          "desc": "ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ <style=\"highlight\">1</style> [VengeanceBookSinclair] (สูงสุด <style=\"highlight\">30%</style>)\n<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</style>\n[StartBattle] สกิลนี้ได้รับ (highest Reson. / 2) Offense Level (สูงสุด 3, rounded down)\n<style=\"highlight\">- หาก the said Reson. includes an A-Reson., double the Offense Level ได้รับed from the above effect</style>",
           "coinlist": [
             {},
             {
@@ -1426,7 +1426,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Warmup in the East\u200B</line-height>",
-          "desc": "<style=\"highlight\">[StartBattle] Skill behavior changes basedบนthe sum of Envy A-Reson.:\n- เมื่อมี 4+ sum of A-Reson., use 'ล้างแค้น with Interest'เป็นCounter\n- เมื่อมี 6+ sum of A-Reson., use 'Write 'em all down'เป็นCounter\n(Activates from the leftmost Skill Slot. Activates 2 times ต่อทุกๆ turn)</style>\n[StartBattle] ได้รับ <style=\"highlight\">30%</style> of missing HPมาเป็นโล่ (1 ครั้งต่อเทิร์น)",
+          "desc": "<style=\"highlight\">[StartBattle] Skill behavior changes basedบนthe sum of Envy A-Reson.:\n- เมื่อมี 4+ sum of A-Reson., use 'ล้างแค้น with Interest'เป็นCounter\n- เมื่อมี 6+ sum of A-Reson., use 'Write 'em all down'เป็นCounter\n(Activates from the leftmost Skill Slot. Activates 2 ครั้ง ต่อเทิร์น)</style>\n[StartBattle] ได้รับ <style=\"highlight\">30%</style> of missing HPมาเป็นโล่ (1 ครั้งต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [

@@ -93,7 +93,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Crimson Spring\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ +1 Atk Weight ต่อทุกๆ 4 negative effectบนเป้าหมาย (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 5+ negative effects, แต้มตั้งต้น +5\n[WhenUse] หาก the sum of the target's [Burst] และ [Burst] Count is at 15+, แต้มเหรียญ +5\n[WinDuel] มอบ [Burst] +2 ขั้น",
+          "desc": "[StartBattle] ได้รับ +1 Atk Weight ต่อทุกๆ 4 negative effectบนเป้าหมาย (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 5+ negative effects, แต้มตั้งต้น +5\n[WhenUse] หาก the sum of the target's [Burst] และ ขั้น [Burst] is at 15+, แต้มเหรียญ +5\n[WinDuel] มอบ [Burst] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -121,7 +121,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Adept Evasion\u200B</line-height>",
-          "desc": "[OnSucceedEvade] ได้รับ 1 [Breath] ในเทิร์นหน้า. (3 times ต่อทุกๆ turn)"
+          "desc": "[OnSucceedEvade] ได้รับ 1 [Breath] ในเทิร์นหน้า. (3 ครั้ง ต่อเทิร์น)"
         }
       ]
     }

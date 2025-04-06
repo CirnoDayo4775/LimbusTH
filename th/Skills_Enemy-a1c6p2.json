@@ -224,7 +224,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Punishment Execution\u200B</line-height>",
-          "desc": "[WinDuel] หากเป้าหมายมี 5+ [Laceration], reuse this Skill (once)",
+          "desc": "[WinDuel] หากเป้าหมายมี 5+ [Laceration], ใช้สกิลนี้อีกครั้ง (once)",
           "coinlist": [
             {
               "coindescs": [
@@ -275,7 +275,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Violated Clause\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 3 [Laceration]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] หากเป้าหมายมี 6+ [Laceration], ทำ +40% ความเสียหายเพิ่มเติ่ม",
+          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WinDuel] หากเป้าหมายมี 6+ [Laceration], ทำ +40% ความเสียหายเพิ่มเติ่ม",
           "coinlist": [
             {
               "coindescs": [
@@ -290,13 +290,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] เท่ากับ [Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] เท่ากับ [Laceration] ที่เป้าหมายมี"
                 },
                 {
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration], ฟื้นฟู 10 ค่าสติ"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 5+ [Laceration], reuse this Skill (once)"
+                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 5+ [Laceration], ใช้สกิลนี้อีกครั้ง (once)"
                 }
               ]
             }
@@ -387,7 +387,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] เท่ากับ [Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] เท่ากับ [Laceration] ที่เป้าหมายมี"
                 }
               ]
             }
@@ -426,7 +426,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], reuse this Skill (สูงสุด 1 ครั้ง)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ใช้สกิลนี้อีกครั้ง (สูงสุด 1 ครั้ง)"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 2 [DefenseDown]"
@@ -520,7 +520,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] เท่ากับ [Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] เท่ากับ [Laceration] ที่เป้าหมายมี"
                 }
               ]
             }
@@ -559,7 +559,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ ขั้น [Laceration], reuse this Skill (สูงสุด 1 ครั้ง)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ ขั้น [Laceration], ใช้สกิลนี้อีกครั้ง (สูงสุด 1 ครั้ง)"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 2 [DefenseDown]"
@@ -595,7 +595,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Coloring\u200B</line-height>",
-          "desc": "[WinDuel] หากเป้าหมายมี 5+ [Laceration], reuse this Skillบนa random enemy After Attack (once)",
+          "desc": "[WinDuel] หากเป้าหมายมี 5+ [Laceration], ใช้สกิลนี้อีกครั้งบนa random enemy After Attack (once)",
           "coinlist": [
             {
               "coindescs": [
@@ -653,7 +653,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] เท่ากับ [Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] เท่ากับ [Laceration] ที่เป้าหมายมี"
                 }
               ]
             }
@@ -667,7 +667,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Pointillism\u200B</line-height>",
-          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 3 [Laceration]บนเป้าหมาย (สูงสุด 4)\n[WinDuel] หากเป้าหมายมี 6+ [Laceration], ทำ +40% ความเสียหายเพิ่มเติ่ม",
+          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 4)\n[WinDuel] หากเป้าหมายมี 6+ [Laceration], ทำ +40% ความเสียหายเพิ่มเติ่ม",
           "coinlist": [
             {
               "coindescs": [
@@ -679,14 +679,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] Count เท่ากับ ขั้น [Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] มอบ ขั้น [Burst] เท่ากับ ขั้น [Laceration] ที่เป้าหมายมี"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] เท่ากับ [Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] มอบ [Burst] เท่ากับ [Laceration] ที่เป้าหมายมี"
                 }
               ]
             }
@@ -719,10 +719,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], reuse this Skill (3 times max)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ [Laceration], ใช้สกิลนี้อีกครั้ง (สูงสด 3 ครั้ง)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce ขั้น [Laceration]บนเป้าหมาย ไป 1"
+                  "desc": "[OnSucceedAttack] ลดขั้น [Laceration] ที่เป้าหมายมี ไป 1"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 2 [DefenseDown]"
@@ -889,7 +889,7 @@
                   "desc": "[OnSucceedAttack] ทำ +20% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 [AttackDown]บนเป้าหมาย (สูงสุด 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 3+ negative effects, reuse this เหรียญ (สูงสุด 1 ครั้ง)"
+                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 3+ negative effects, ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)"
                 }
               ]
             }
@@ -947,7 +947,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>I'll Remove You\u200B</line-height>",
+          "name": "<line-height=120%>I'll ลบ You\u200B</line-height>",
           "desc": "[WinDuel] แต้มตั้งต้น +1",
           "coinlist": [
             {
@@ -1029,7 +1029,7 @@
                   "desc": "[OnSucceedAttack] ทำ +30% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 [AttackDown]บนเป้าหมาย (สูงสุด 120%)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 3+ negative effects, reuse this เหรียญ (สูงสุด 1 ครั้ง)"
+                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 3+ negative effects, ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)"
                 }
               ]
             }

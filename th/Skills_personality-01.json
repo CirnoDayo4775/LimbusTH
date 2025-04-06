@@ -337,10 +337,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 2 [Burst] ต่อทุกๆ [Charge] 5 ขั้น จ่ายd ไป the Skill (สูงสุด 6)"
+                  "desc": "[OnSucceedAttack] มอบ 2 [Burst] ต่อทุกๆ [Charge] 5 ขั้น ที่จ่ายไป ไป the Skill (สูงสุด 6)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หาก the Skill จ่ายd [Charge] 15 ขั้น เมื่อ use, มอบ 2 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] หาก the Skill ที่จ่ายไป [Charge] 15 ขั้น เมื่อ use, มอบ 2 Dimensional Rift"
                 },
                 {
                   "desc": "[EnemyKill] ได้รับ 3[Charge] Barrier"
@@ -352,7 +352,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Dimensional Rift\u200B</line-height>",
-          "desc": "[WhenUse] เมื่อมี less than [Charge] 15 ขั้น, จ่าย [Charge] 10 ขั้น to ได้รับ +1 เหรียญ Power\n[WhenUse] จ่าย [Charge] 15 ขั้น to ได้รับ +2 เหรียญ Power\n[BeforeAttack] หาก [Charge] 15 ขั้น has been จ่ายd, มอบ [Burst] +3 ขั้น",
+          "desc": "[WhenUse] เมื่อมี less than [Charge] 15 ขั้น, จ่าย [Charge] 10 ขั้น to ได้รับ +1 เหรียญ Power\n[WhenUse] จ่าย [Charge] 15 ขั้น to ได้รับ +2 เหรียญ Power\n[BeforeAttack] หาก [Charge] 15 ขั้น has been ที่จ่ายไป, มอบ [Burst] +3 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -371,10 +371,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Burst] ต่อทุกๆ [Charge] 5 ขั้น จ่ายd ไป the Skill (สูงสุด 9)"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Burst] ต่อทุกๆ [Charge] 5 ขั้น ที่จ่ายไป ไป the Skill (สูงสุด 9)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หาก the Skill จ่ายd [Charge] 15 ขั้น เมื่อ use, มอบ 2 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] หาก the Skill ที่จ่ายไป [Charge] 15 ขั้น เมื่อ use, มอบ 2 Dimensional Rift"
                 },
                 {
                   "desc": "[EnemyKill] ได้รับ 5[Charge] Barrier"
@@ -504,7 +504,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Reuse this เหรียญ (สูงสุด 1 ครั้ง)"
+                  "desc": "[CriticalOnSucceedAttack] ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)"
                 }
               ]
             }
@@ -528,7 +528,7 @@
                   "desc": "[OnSucceedAttack] มอบ 1 [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Reuse this เหรียญ (3 times max)"
+                  "desc": "[CriticalOnSucceedAttack] ใช้เหรียญนี้อีกครั้ง (สูงสด 3 ครั้ง)"
                 }
               ]
             }
@@ -654,14 +654,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold ไป [KnowledgeExplored]"
+                  "desc": "[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ไป [KnowledgeExplored]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold ไป [KnowledgeExplored]"
+                  "desc": "[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ไป [KnowledgeExplored]"
                 }
               ]
             }
@@ -675,14 +675,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold ไป [KnowledgeExplored]"
+                  "desc": "[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ไป [KnowledgeExplored]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold ไป [KnowledgeExplored]"
+                  "desc": "[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ไป [KnowledgeExplored]"
                 }
               ]
             }
@@ -950,12 +950,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>Sanguine Pointillism\u200B</line-height>",
-          "desc": "แต้มปะทะ +1 ต่อทุกๆ 3 [Laceration]บนเป้าหมาย (สูงสุด 2)\nแต้มเหรียญ +1 ต่อทุกๆ 3 ขั้น [Laceration]บนเป้าหมาย (สูงสุด 2)",
+          "desc": "แต้มปะทะ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\nแต้มเหรียญ +1 ต่อทุกๆ 3 ขั้น [Laceration] ที่เป้าหมายมี (สูงสุด 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to ใช้เหรียญซ้ำ ต่อทุกๆ type of negative effectบนเป้าหมาย (2 times max ต่อทุกๆ Skill)"
+                  "desc": "[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to ใช้เหรียญซ้ำ ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสด 2 ครั้ง ต่อทุกๆ Skill)"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ [Laceration] +1 ขั้น"
@@ -1004,7 +1004,7 @@
                   "desc": "ทำ +15% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 75%)"
                 },
                 {
-                  "desc": "[EndSkill] หาก target is Staggered or Defeated, มอบ 2 Potency for 1 of the following effectsบน1 enemy with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
+                  "desc": "[EndSkill] หาก target is Staggered or Defeated, มอบ 2 Potency for 1 of the following effectsบน1 ศัตรูที่มี the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
                 }
               ]
             }
@@ -1013,7 +1013,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Hematic Coloring\u200B</line-height>",
-          "desc": "แต้มปะทะ +1 ต่อทุกๆ 3 [Laceration]บนเป้าหมาย (สูงสุด 2)\nแต้มเหรียญ +1 ต่อทุกๆ 3 ขั้น [Laceration]บนเป้าหมาย (สูงสุด 2)",
+          "desc": "แต้มปะทะ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\nแต้มเหรียญ +1 ต่อทุกๆ 3 ขั้น [Laceration] ที่เป้าหมายมี (สูงสุด 2)",
           "coinlist": [
             {},
             {
@@ -1070,7 +1070,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Beat the Brush\u200B</line-height>",
-          "desc": "แต้มตั้งต้น +1 ต่อทุกๆ 1 [Laceration]บนเป้าหมาย (สูงสุด 10)",
+          "desc": "แต้มตั้งต้น +1 ต่อทุกๆ 1 [Laceration] ที่เป้าหมายมี (สูงสุด 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -1097,7 +1097,7 @@
                   "desc": "Consume 1 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             },
@@ -1107,7 +1107,7 @@
                   "desc": "Consume 1 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             }
@@ -1124,7 +1124,7 @@
                   "desc": "Consume 1 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             },
@@ -1134,7 +1134,7 @@
                   "desc": "Consume 1 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             }
@@ -1151,7 +1151,7 @@
                   "desc": "Consume 1 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             },
@@ -1161,7 +1161,7 @@
                   "desc": "Consume 1 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             }
@@ -1183,7 +1183,7 @@
                   "desc": "Consume 5 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             },
@@ -1193,7 +1193,7 @@
                   "desc": "Consume 1 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             }
@@ -1210,7 +1210,7 @@
                   "desc": "Consume 5 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             },
@@ -1220,7 +1220,7 @@
                   "desc": "Consume 1 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             }
@@ -1237,7 +1237,7 @@
                   "desc": "Consume 5 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             },
@@ -1247,7 +1247,7 @@
                   "desc": "Consume 1 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             }
@@ -1269,7 +1269,7 @@
                   "desc": "Consume 1 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             },
@@ -1279,7 +1279,7 @@
                   "desc": "Consume 6 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             },
@@ -1289,10 +1289,10 @@
                   "desc": "Consume all of [BulletLament]บนself"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ value of [BulletLament] จ่ายd ไป this Skill"
+                  "desc": "[OnSucceedAttack] ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ value of [BulletLament] ที่จ่ายไป ไป this Skill"
                 }
               ]
             },
@@ -1316,7 +1316,7 @@
                   "desc": "Consume 1 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             },
@@ -1326,7 +1326,7 @@
                   "desc": "Consume 6 of [BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 }
               ]
             },
@@ -1336,10 +1336,10 @@
                   "desc": "Consume all of [BulletLament]บนself"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] จ่ายd"
+                  "desc": "[OnSucceedAttack] มอบ [SinkingWhite] เท่ากับ [BulletLament] ที่จ่ายไป"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ +4% ความเสียหายเพิ่มเติม ต่อทุกๆ value of [BulletLament] จ่ายd ไป this Skill"
+                  "desc": "[OnSucceedAttack] ทำ +4% ความเสียหายเพิ่มเติม ต่อทุกๆ value of [BulletLament] ที่จ่ายไป ไป this Skill"
                 }
               ]
             },
@@ -1393,7 +1393,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Though it must be prefaced that E.G.O gears are standardized equipment,\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] with its effects",
+          "desc": "[WhenUse] ได้รับ +2 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] with its effects",
           "coinlist": [
             {
               "coindescs": [
@@ -1420,7 +1420,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Though it must be prefaced that E.G.O gears are standardized equipment,\u200B</line-height>",
-          "desc": "[StartBattle]บนClash เสีย, ได้รับ แต้มรวม เท่ากับ the number of Skills targeting ยูนิทนี้ (สูงสุด 2)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted ไป this Skill +1",
+          "desc": "[StartBattle]บนClash เสีย, ได้รับ แต้มรวม เท่ากับ the number of Skills targeting ยูนิทนี้ (สูงสุด 2)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted ไป this Skill +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1447,7 +1447,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Though it must be prefaced that E.G.O gears are standardized equipment,\u200B</line-height>",
-          "desc": "[StartBattle]บนClash เสีย, ได้รับ แต้มรวม เท่ากับ the number of Skills targeting ยูนิทนี้ (สูงสุด 3)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted ไป this Skill +2",
+          "desc": "[StartBattle]บนClash เสีย, ได้รับ แต้มรวม เท่ากับ the number of Skills targeting ยูนิทนี้ (สูงสุด 3)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted ไป this Skill +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1479,7 +1479,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>when juxtaposed with E.G.O gear from L Corp., dependingบนthe degree of attunement to the Abnormality,\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +2 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] Count with its effects",
+          "desc": "[WhenUse] ได้รับ +2 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ ขั้น [Burst] with its effects",
           "coinlist": [
             {
               "coindescs": [
@@ -1496,7 +1496,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>when juxtaposed with E.G.O gear from L Corp., dependingบนthe degree of attunement to the Abnormality,\u200B</line-height>",
-          "desc": "[StartBattle]บนClash เสีย, ได้รับ แต้มรวม เท่ากับ the number of Skills targeting ยูนิทนี้ (สูงสุด 3)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted ไป this Skill +1",
+          "desc": "[StartBattle]บนClash เสีย, ได้รับ แต้มรวม เท่ากับ the number of Skills targeting ยูนิทนี้ (สูงสุด 3)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ ขั้น [Burst] with its effects\n[DefeatDuel] ขั้น [Burst] inflicted ไป this Skill +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1513,7 +1513,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>when juxtaposed with E.G.O gear from L Corp., dependingบนthe degree of attunement to the Abnormality,\u200B</line-height>",
-          "desc": "[StartBattle] <style=\"highlight\">On Clash เสีย, ได้รับ (# of Skills targeting ยูนิทนี้ x 2) แต้มรวม (สูงสุด 6)</style>\n[WhenUse] ได้รับ +4 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted ไป this Skill +2",
+          "desc": "[StartBattle] <style=\"highlight\">On Clash เสีย, ได้รับ (# of Skills targeting ยูนิทนี้ x 2) แต้มรวม (สูงสุด 6)</style>\n[WhenUse] ได้รับ +4 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ ขั้น [Burst] with its effects\n[DefeatDuel] ขั้น [Burst] inflicted ไป this Skill +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1535,7 +1535,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>the idiosyncrasies of the source may be utilized with greater flexibility\u200B</line-height>",
-          "desc": "ทำ +0.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 1% missing HP บนตัวเอง\n[StartBattle] แต้มตั้งต้น +1 ต่อทุกๆ Skill that targets ยูนิทนี้ (สูงสุด 2)\n[WhenUse] ได้รับ 2 [GlowingLantern] (1 ครั้งต่อเทิร์น)\n[WhenUse] ได้รับ +6 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Potency or Count with its effects; instead, ได้รับ แต้มตั้งต้น +1\n[EndSkill] ฟื้นฟู 30 ค่าสติ",
+          "desc": "ทำ +0.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 1% missing HP บนตัวเอง\n[StartBattle] แต้มตั้งต้น +1 ต่อทุกๆ Skill that targets ยูนิทนี้ (สูงสุด 2)\n[WhenUse] ได้รับ 2 [GlowingLantern] (1 ครั้งต่อเทิร์น)\n[WhenUse] ได้รับ +6 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ [Burst] Potency or Count with its effects; แทนที่ด้วย ได้รับ แต้มตั้งต้น +1\n[EndSkill] ฟื้นฟู 30 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -1566,7 +1566,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>the idiosyncrasies of the source may be utilized with greater flexibility\u200B</line-height>",
-          "desc": "ทำ +0.8% ความเสียหายเพิ่มเติม ต่อทุกๆ 1% missing HP บนตัวเอง\n[StartBattle] แต้มตั้งต้น +1 ต่อทุกๆ Skill that targets ยูนิทนี้ (สูงสุด 3)\n[WhenUse] ได้รับ 3 [GlowingLantern] (1 ครั้งต่อเทิร์น)\n[WhenUse] ได้รับ +8 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Potency or Count with its effects; instead, ได้รับ แต้มตั้งต้น +1\n[EndSkill] ฟื้นฟู 30 ค่าสติ",
+          "desc": "ทำ +0.8% ความเสียหายเพิ่มเติม ต่อทุกๆ 1% missing HP บนตัวเอง\n[StartBattle] แต้มตั้งต้น +1 ต่อทุกๆ Skill that targets ยูนิทนี้ (สูงสุด 3)\n[WhenUse] ได้รับ 3 [GlowingLantern] (1 ครั้งต่อเทิร์น)\n[WhenUse] ได้รับ +8 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ [Burst] Potency or Count with its effects; แทนที่ด้วย ได้รับ แต้มตั้งต้น +1\n[EndSkill] ฟื้นฟู 30 ค่าสติ",
           "coinlist": [
             {
               "coindescs": [
@@ -1602,7 +1602,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Yet, the degree to which that attunement และ synchronization are achieved may resultantly allow theผู้ใช้to be devoured\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 2 [GlowingLantern] (1 ครั้งต่อเทิร์น)\n[WhenUse] ได้รับ +6 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Count with its effects; instead, ได้รับ แต้มตั้งต้น +3",
+          "desc": "[StartBattle] ได้รับ 2 [GlowingLantern] (1 ครั้งต่อเทิร์น)\n[WhenUse] ได้รับ +6 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ ขั้น [Burst] with its effects; แทนที่ด้วย ได้รับ แต้มตั้งต้น +3",
           "coinlist": [
             {
               "coindescs": [
@@ -1616,7 +1616,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Yet, the degree to which that attunement และ synchronization are achieved may resultantly allow theผู้ใช้to be devoured\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ 3 [GlowingLantern] (1 ครั้งต่อเทิร์น)\n[WhenUse] ได้รับ +8 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count, this Skill does not มอบ [Burst] Count with its effects; instead, ได้รับ แต้มตั้งต้น +3",
+          "desc": "[StartBattle] ได้รับ 3 [GlowingLantern] (1 ครั้งต่อเทิร์น)\n[WhenUse] ได้รับ +8 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ ขั้น [Burst] with its effects; แทนที่ด้วย ได้รับ แต้มตั้งต้น +3",
           "coinlist": [
             {
               "coindescs": [

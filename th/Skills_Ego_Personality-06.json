@@ -201,7 +201,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] Count ไป (ความตะกละ Reson. /3)"
+                  "desc": "[OnSucceedAttack] มอบ ขั้น [Burst] ไป (ความตะกละ Reson. /3)"
                 },
                 {
                   "desc": "[OnSucceedAttack] ฟื้นฟู 20% ของความเสียหายที่ทำไป"
@@ -222,10 +222,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] Count ไป (ความตะกละ Reson. /3)"
+                  "desc": "[OnSucceedAttack] มอบ ขั้น [Burst] ไป (ความตะกละ Reson. /3)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 30% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ 30% ของความเสียหายที่ทำไป"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
@@ -243,7 +243,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Burst] Count ไป (ความตะกละ Reson. /3)"
+                  "desc": "[OnSucceedAttack] มอบ ขั้น [Burst] ไป (ความตะกละ Reson. /3)"
                 },
                 {
                   "desc": "[OnSucceedAttack] ฟื้นฟู 50% ของความเสียหายที่ทำไป"
@@ -465,10 +465,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Randomly มอบ [Laceration]เท่ากับ (ยูนิทนี้'s Speed/2) between the targets (สูงสุด 3)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Randomly มอบ [Laceration]เท่ากับ (ความเร็วของยูนิทนี้/2) between the targets (สูงสุด 3)</style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Randomly มอบ [Burst] เท่ากับ (ยูนิทนี้'s Speed/2) between the targets (สูงสุด 3)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Randomly มอบ [Burst] เท่ากับ (ความเร็วของยูนิทนี้/2) between the targets (สูงสุด 3)</style>"
                 }
               ]
             }
@@ -507,10 +507,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Randomly มอบ [Laceration]เท่ากับ ยูนิทนี้'s Speed between the targets (สูงสุด 7)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Randomly มอบ [Laceration]เท่ากับ ความเร็วของยูนิทนี้ between the targets (สูงสุด 7)</style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Randomly มอบ [Burst] เท่ากับ ยูนิทนี้'s Speed between the targets (สูงสุด 7)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Randomly มอบ [Burst] เท่ากับ ความเร็วของยูนิทนี้ between the targets (สูงสุด 7)</style>"
                 }
               ]
             }
@@ -547,7 +547,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration]บนเป้าหมาย (สูงสุด 20%)"
+                  "desc": "[OnSucceedAttack] ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 20%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ [Burst]บนเป้าหมาย (สูงสุด 20%)"
@@ -582,7 +582,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration]บนเป้าหมาย <style=\"highlight\">(สูงสุด 30%)</style>"
+                  "desc": "[OnSucceedAttack] ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ที่เป้าหมายมี <style=\"highlight\">(สูงสุด 30%)</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ [Burst]บนเป้าหมาย <style=\"highlight\">(สูงสุด 30%)</style>"
@@ -620,7 +620,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration]บนเป้าหมาย (สูงสุด 30%)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 30%)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ [Burst]บนเป้าหมาย (สูงสุด 30%)<style=\"highlight\"></style>"

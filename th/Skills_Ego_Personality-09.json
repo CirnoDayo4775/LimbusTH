@@ -77,7 +77,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 30% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ 30% ของความเสียหายที่ทำไป"
                 },
                 {
                   "desc": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]"
@@ -95,7 +95,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 30% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ 30% ของความเสียหายที่ทำไป"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 3 [DefenseDown]"
@@ -116,7 +116,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 30% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ 30% ของความเสียหายที่ทำไป"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ 5 [DefenseDown]"
@@ -267,13 +267,13 @@
           "level": 1,
           "name": "<line-height=120%>Sanguine Desire\u200B</line-height>",
           "abName": "The Red Shoes",
-          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 2 [Laceration]บนเป้าหมาย (สูงสุด 6)\n[StartBattle] The main target for this Skill does not เสีย ขั้น [Laceration] ภายในเทิร์นนี้.\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End.",
+          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 2 [Laceration] ที่เป้าหมายมี (สูงสุด 6)\n[StartBattle] The main target for this Skill does not เสีย ขั้น [Laceration] ภายในเทิร์นนี้.\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Lust Affinity ความเสียหาย เท่ากับ ปริมาณ [Laceration]บนเป้าหมาย.\n- เมื่อมี 4+ Lust Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration]บนเป้าหมาย x 1.2).\n(ปริมาณ [Laceration] up to only 99 will be used to calculate for this Skill.)",
-                  "summary": "[OnSucceedAttack] ทำ Lust Affinity ความเสียหาย basedบน[Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] มอบ Lust Affinity ความเสียหาย เท่ากับ ปริมาณ [Laceration] ที่เป้าหมายมี.\n- เมื่อมี 4+ Lust Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration] ที่เป้าหมายมี x 1.2).\n(ปริมาณ [Laceration] up to only 99 will be used to calculate for this Skill.)",
+                  "summary": "[OnSucceedAttack] ทำ Lust Affinity ความเสียหาย basedบน[Laceration] ที่เป้าหมายมี"
                 },
                 {
                   "desc": "[EnemyKill] หาก this Skill or its เหรียญ effects ทำ t ความเสียหาย that exceeds the target's(In Focused Encounters, the Core's) remaining HP, ทำ the excess ความเสียหายเป็น ความเสียหายตรง between all enemies.",
@@ -287,13 +287,13 @@
           "level": 3,
           "name": "<line-height=120%>Sanguine Desire\u200B</line-height>",
           "abName": "The Red Shoes",
-          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 2 [Laceration]บนเป้าหมาย (สูงสุด <style=\"highlight\">9</style>)\n[StartBattle] The main target for this Skill does not เสีย ขั้น [Laceration] ภายในเทิร์นนี้.\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End.",
+          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 2 [Laceration] ที่เป้าหมายมี (สูงสุด <style=\"highlight\">9</style>)\n[StartBattle] The main target for this Skill does not เสีย ขั้น [Laceration] ภายในเทิร์นนี้.\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Lust Affinity ความเสียหาย เท่ากับ <style=\"highlight\">(ปริมาณ [Laceration]บนเป้าหมาย x 1.2)</style>.\n- เมื่อมี 4+ Lust Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration]บนเป้าหมาย x <style=\"highlight\">1.5</style>).\n<style=\"highlight\">- เมื่อมี 4+ Lust A-Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration]บนเป้าหมาย x 1.8).</style>\n(ปริมาณ [Laceration] up to only 99 will be used to calculate for this Skill.)",
-                  "summary": "[OnSucceedAttack] ทำ Lust Affinity ความเสียหาย basedบน[Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] มอบ Lust Affinity ความเสียหาย เท่ากับ <style=\"highlight\">(ปริมาณ [Laceration] ที่เป้าหมายมี x 1.2)</style>.\n- เมื่อมี 4+ Lust Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration] ที่เป้าหมายมี x <style=\"highlight\">1.5</style>).\n<style=\"highlight\">- เมื่อมี 4+ Lust A-Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration] ที่เป้าหมายมี x 1.8).</style>\n(ปริมาณ [Laceration] up to only 99 will be used to calculate for this Skill.)",
+                  "summary": "[OnSucceedAttack] ทำ Lust Affinity ความเสียหาย basedบน[Laceration] ที่เป้าหมายมี"
                 },
                 {
                   "desc": "[EnemyKill] หาก this Skill or its เหรียญ effects ทำ t ความเสียหาย that exceeds the target's(In Focused Encounters, the Core's) remaining HP, ทำ the excess ความเสียหายเป็น ความเสียหายตรง between all enemies.",
@@ -307,13 +307,13 @@
           "level": 4,
           "name": "<line-height=120%>Sanguine Desire\u200B</line-height>",
           "abName": "The Red Shoes",
-          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 2 [Laceration]บนเป้าหมาย (สูงสุด <style=\"highlight\">13</style>)\n[StartBattle] The main target for this Skill does not เสีย ขั้น [Laceration] ภายในเทิร์นนี้.\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End.",
+          "desc": "แต้มเหรียญ +1 ต่อทุกๆ 2 [Laceration] ที่เป้าหมายมี (สูงสุด <style=\"highlight\">13</style>)\n[StartBattle] The main target for this Skill does not เสีย ขั้น [Laceration] ภายในเทิร์นนี้.\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration]บนเป้าหมาย x <style=\"highlight\">1.5</style>)\n- เมื่อมี 4+ Lust Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration]บนเป้าหมาย x <style=\"highlight\">1.8</style>).\n- เมื่อมี 4+ Lust A-Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration]บนเป้าหมาย x <style=\"highlight\">2</style>).\n(ปริมาณ [Laceration] up to only 99 will be used to calculate for this Skill.)",
-                  "summary": "[OnSucceedAttack] ทำ Lust Affinity ความเสียหาย basedบน[Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration] ที่เป้าหมายมี x <style=\"highlight\">1.5</style>)\n- เมื่อมี 4+ Lust Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration] ที่เป้าหมายมี x <style=\"highlight\">1.8</style>).\n- เมื่อมี 4+ Lust A-Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration] ที่เป้าหมายมี x <style=\"highlight\">2</style>).\n(ปริมาณ [Laceration] up to only 99 will be used to calculate for this Skill.)",
+                  "summary": "[OnSucceedAttack] ทำ Lust Affinity ความเสียหาย basedบน[Laceration] ที่เป้าหมายมี"
                 },
                 {
                   "desc": "[EnemyKill] หาก this Skill or its เหรียญ effects ทำ t ความเสียหาย that exceeds the target's(In Focused Encounters, the Core's) remaining HP, ทำ the excess ความเสียหายเป็น ความเสียหายตรง between all enemies.",

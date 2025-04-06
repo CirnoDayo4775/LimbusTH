@@ -60,7 +60,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Slothful Press\u200B</line-height>",
-          "desc": "[WhenUse] หาก ยูนิทนี้'s Speed is faster than the target's, แต้มปะทะ +1 for each Speed difference (สูงสุด 3)",
+          "desc": "[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มปะทะ +1 for each Speed difference (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -363,7 +363,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 ขั้น [Laceration] และ 3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] มอบ 3 ขั้น [Laceration] และ 3 ขั้น [Burst]"
                 }
               ]
             },
@@ -398,7 +398,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>You Must Suffer More!\u200B</line-height>",
-          "desc": "[CantChangeTarget]\n[WinDuel] มอบ 3 [Burst] Count",
+          "desc": "[CantChangeTarget]\n[WinDuel] มอบ 3 ขั้น [Burst]",
           "coinlist": [
             {
               "coindescs": [
@@ -468,7 +468,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>I'll Remove You\u200B</line-height>",
+          "name": "<line-height=120%>I'll ลบ You\u200B</line-height>",
           "desc": "Core และ Part ฟื้นฟู HP เท่ากับ10% of the ความเสียหาย ทำ t ไป this Attack Skill",
           "coinlist": [
             {
@@ -498,7 +498,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bloody Bastard!\u200B</line-height>",
-          "desc": "If ยูนิทนี้'s Speed is faster than the target's แต้มปะทะ +2",
+          "desc": "Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย แต้มปะทะ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -513,7 +513,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Laceration] และ [Laceration] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้'s Speed is faster than the target's ไป 3 or more, reuse this เหรียญ (once)"
+                  "desc": "[OnSucceedAttack] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 or more, ใช้เหรียญนี้อีกครั้ง (once)"
                 }
               ]
             }
@@ -559,7 +559,7 @@
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 20+ [Laceration], ทำ +100% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
-                  "desc": "[EnemyKill] Reuse this Skill (สูงสุด 1 ครั้ง)"
+                  "desc": "[EnemyKill] ใช้สกิลนี้อีกครั้ง (สูงสุด 1 ครั้ง)"
                 }
               ]
             }
@@ -573,7 +573,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>I'll Get You...!\u200B</line-height>",
-          "desc": "Prioritizes Heathcliff\n[WhenUse] หาก the target is the enemy with the slowest Speed, แต้มตั้งต้น +3\n[WhenUse] มอบ [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], และ 5 [Binding] ในเทิร์นหน้า",
+          "desc": "Prioritizes Heathcliff\n[WhenUse] หากเป้าหมาย is the ศัตรูที่มี the slowest Speed, แต้มตั้งต้น +3\n[WhenUse] มอบ [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], และ 5 [Binding] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -642,7 +642,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>You Little...\u200B</line-height>",
-          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPbBe]\nIf ยูนิทนี้'s Speed is faster than the target ไป 3 or more, reuse this Skill (สูงสุด 1 ครั้ง)",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPbBe]\nIf ความเร็วของยูนิทนี้ is faster than the target ไป 3 or more, ใช้สกิลนี้อีกครั้ง (สูงสุด 1 ครั้ง)",
           "coinlist": [
             {
               "coindescs": [
@@ -687,7 +687,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>หลบหลีก\u200B</line-height>",
-          "desc": "[OnSucceedEvade] มอบ 1 [Binding] ในเทิร์นหน้า (2 times max)",
+          "desc": "[OnSucceedEvade] มอบ 1 [Binding] ในเทิร์นหน้า (สูงสด 2 ครั้ง)",
           "coinlist": [
             {
               "coindescs": [
@@ -706,7 +706,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>This is My Place!\u200B</line-height>",
-          "desc": "If ยูนิทนี้'s Speed is faster than the target's, แต้มเหรียญ +1",
+          "desc": "Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [

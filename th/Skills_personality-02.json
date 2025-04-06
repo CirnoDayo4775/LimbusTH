@@ -56,7 +56,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Client [Protection]\u200B</line-height>",
-          "desc": "[WhenUse] มอบ 2 [DefenseUp] to the ally with the lowest HP percentage (3 times ต่อทุกๆ turn)",
+          "desc": "[WhenUse] มอบ 2 [DefenseUp] to the ally with the lowest HP percentage (3 ครั้ง ต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -84,7 +84,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Client [Protection]\u200B</line-height>",
-          "desc": "[WhenUse] มอบ 3 [DefenseUp] to the ally with the lowest HP percentage (3 times ต่อทุกๆ turn)\nเมื่อมี 5+ [DefenseUp], แต้มปะทะ +1",
+          "desc": "[WhenUse] มอบ 3 [DefenseUp] to the ally with the lowest HP percentage (3 ครั้ง ต่อเทิร์น)\nเมื่อมี 5+ [DefenseUp], แต้มปะทะ +1",
           "coinlist": [
             {
               "coindescs": [
@@ -112,7 +112,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Client [Protection]\u200B</line-height>",
-          "desc": "[WhenUse] มอบ 4 [DefenseUp] to the ally with the lowest HP percentage (3 times ต่อทุกๆ turn)\nเมื่อมี 5+ [DefenseUp], แต้มปะทะ +2",
+          "desc": "[WhenUse] มอบ 4 [DefenseUp] to the ally with the lowest HP percentage (3 ครั้ง ต่อเทิร์น)\nเมื่อมี 5+ [DefenseUp], แต้มปะทะ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -570,7 +570,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Red Plum Blossoms Scatter\u200B</line-height>",
-          "desc": "ทำ +3% ความเสียหาย ต่อทุกๆ [RedApricotBlossom]บนเป้าหมาย\n[WinDuel] จ่าย half the [Breath] Countบนself, then ได้รับ [Breath] เท่ากับ the [Breath] Count จ่ายd. (สูงสุด 10)",
+          "desc": "ทำ +3% ความเสียหาย ต่อทุกๆ [RedApricotBlossom]บนเป้าหมาย\n[WinDuel] จ่าย half the [Breath] Countบนself, then ได้รับ [Breath] เท่ากับ the [Breath] Count ที่จ่ายไป. (สูงสุด 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -591,7 +591,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Red Plum Blossoms Scatter\u200B</line-height>",
-          "desc": "ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ [RedApricotBlossom]บนเป้าหมาย\n<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 7 [Breath] ที่ตัวเองมี (สูงสุด 3)</style>\n[WinDuel] จ่าย half the [Breath] Countบนself, then ได้รับ [Breath] เท่ากับ the [Breath] Count จ่ายd. (สูงสุด 10)\n<style=\"highlight\">This Skill does not จ่าย [RedApricotBlossom]บนCrit</style>",
+          "desc": "ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ [RedApricotBlossom]บนเป้าหมาย\n<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 7 [Breath] ที่ตัวเองมี (สูงสุด 3)</style>\n[WinDuel] จ่าย half the [Breath] Countบนself, then ได้รับ [Breath] เท่ากับ the [Breath] Count ที่จ่ายไป. (สูงสุด 10)\n<style=\"highlight\">This Skill does not จ่าย [RedApricotBlossom]บนCrit</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -879,7 +879,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "เมื่อมี 3+ Reson. including this Skill, จ่าย ขั้น [Charge] ทั้งหมด ที่ตัวเองมี และ ทำ +([Charge])% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  จ่ายd ไป this Skill (สูงสุด 60%)"
+                  "desc": "เมื่อมี 3+ Reson. including this Skill, จ่าย ขั้น [Charge] ทั้งหมด ที่ตัวเองมี และ ทำ +([Charge])% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  ที่จ่ายไป ไป this Skill (สูงสุด 60%)"
                 }
               ]
             }
@@ -895,7 +895,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "เมื่อมี 3+ Reson. including this Skill, จ่าย ขั้น [Charge] ทั้งหมด ที่ตัวเองมี และ ทำ +<style=\"highlight\">([Charge] + 3)</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  จ่ายd ไป this Skill (สูงสุด <style=\"highlight\">120%</style>)"
+                  "desc": "เมื่อมี 3+ Reson. including this Skill, จ่าย ขั้น [Charge] ทั้งหมด ที่ตัวเองมี และ ทำ +<style=\"highlight\">([Charge] + 3)</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  ที่จ่ายไป ไป this Skill (สูงสุด <style=\"highlight\">120%</style>)"
                 }
               ]
             }
@@ -911,7 +911,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "เมื่อมี 3+ Reson. including this Skill, จ่าย ขั้น [Charge] ทั้งหมด ที่ตัวเองมี และ ทำ +<style=\"highlight\">([Charge] + 4)</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  จ่ายd ไป this Skill (สูงสุด <style=\"highlight\">180%</style>)"
+                  "desc": "เมื่อมี 3+ Reson. including this Skill, จ่าย ขั้น [Charge] ทั้งหมด ที่ตัวเองมี และ ทำ +<style=\"highlight\">([Charge] + 4)</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  ที่จ่ายไป ไป this Skill (สูงสุด <style=\"highlight\">180%</style>)"
                 }
               ]
             }
@@ -991,7 +991,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Charge\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ [Charge] +2 ขั้น (2 times ต่อทุกๆ turn)",
+          "desc": "[WhenUse] ได้รับ [Charge] +2 ขั้น (2 ครั้ง ต่อเทิร์น)",
           "coinlist": [
             {}
           ]
@@ -999,7 +999,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Charge\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ +<style=\"highlight\">4</style> ขั้น [Charge]  (2 times ต่อทุกๆ turn)",
+          "desc": "[WhenUse] ได้รับ +<style=\"highlight\">4</style> ขั้น [Charge]  (2 ครั้ง ต่อเทิร์น)",
           "coinlist": [
             {}
           ]

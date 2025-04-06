@@ -38,7 +38,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>...to Clean\u200B</line-height>",
-          "desc": "[WhenUse] หาก the target is at 10 or less SP, มอบ 2 [AttackDown]\n[WinDuel] มอบ 1 [Vulnerable]",
+          "desc": "[WhenUse] หากเป้าหมาย is at 10 or less SP, มอบ 2 [AttackDown]\n[WinDuel] มอบ 1 [Vulnerable]",
           "coinlist": [
             {
               "coindescs": [
@@ -134,7 +134,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Sinking] Count, Reuse this เหรียญ (twice)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Sinking] Count, ใช้เหรียญนี้อีกครั้ง (2 ครั้ง)"
                 }
               ]
             }
@@ -268,7 +268,7 @@
                   "desc": "[OnSucceedAttack] ทำ +30% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 [AttackDown]บนเป้าหมาย (สูงสุด 120%)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 3+ negative effects, reuse this เหรียญ (once)"
+                  "desc": "[OnSucceedAttackHead] หากเป้าหมายมี 3+ negative effects, ใช้เหรียญนี้อีกครั้ง (once)"
                 }
               ]
             }
@@ -383,10 +383,10 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Vulnerable] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ negative effects, reuse this เหรียญ (2 times max)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ negative effects, ใช้เหรียญนี้อีกครั้ง (สูงสด 2 ครั้ง)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Remove 1 random removable negative effect appliedบนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] ลบ 1 random removable negative effect appliedบนเป้าหมาย"
                 }
               ]
             }
@@ -400,7 +400,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>...\u200B</line-height>",
-          "desc": "[OnSucceedEvade] ฟื้นฟู 5 ค่าสติ (2 times max)",
+          "desc": "[OnSucceedEvade] ฟื้นฟู 5 ค่าสติ (สูงสด 2 ครั้ง)",
           "coinlist": [
             {
               "coindescs": [

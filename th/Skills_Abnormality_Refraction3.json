@@ -73,7 +73,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Flourishing Gossypium\u200B</line-height>",
-          "desc": "Attacks the target with the most [Laceration]\n[WhenUse] หาก the main target is the target with the most [Laceration], แต้มตั้งต้น +5, มอบ x2 the effects",
+          "desc": "Attacks the target with [Laceration] มากที่สุด\n[WhenUse] หาก the main target is the target with [Laceration] มากที่สุด, แต้มตั้งต้น +5, มอบ x2 the effects",
           "coinlist": [
             {
               "coindescs": [
@@ -99,7 +99,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Scattering Gossypium\u200B</line-height>",
-          "desc": "Among targets with [MRcAfBa], attack the unit with the least HP\n[WhenUse] หาก the main target is the target with the most [Laceration], แต้มตั้งต้น +5\n[EndBattle] [MRcAfBb] state expires ในเทิร์นหน้า.",
+          "desc": "Among targets with [MRcAfBa], attack the unit with the least HP\n[WhenUse] หาก the main target is the target with [Laceration] มากที่สุด, แต้มตั้งต้น +5\n[EndBattle] [MRcAfBb] state expires ในเทิร์นหน้า.",
           "coinlist": [
             {
               "coindescs": [
@@ -164,7 +164,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Scattering Red-stained Gossypium\u200B</line-height>",
-          "desc": "Prioritizes the target with the most [Laceration]\n[WhenUse] หาก the main target is the target with the most [Laceration], แต้มตั้งต้น +10\nหากเป้าหมายมี 10+ [Laceration], ทำ +50% ความเสียหายเพิ่มเติ่ม",
+          "desc": "Prioritizes the target with [Laceration] มากที่สุด\n[WhenUse] หาก the main target is the target with [Laceration] มากที่สุด, แต้มตั้งต้น +10\nหากเป้าหมายมี 10+ [Laceration], ทำ +50% ความเสียหายเพิ่มเติ่ม",
           "coinlist": [
             {
               "coindescs": [
@@ -172,7 +172,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Laceration] และ [Laceration] +4 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ [Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ [Laceration] ที่เป้าหมายมี"
                 }
               ]
             },
@@ -182,7 +182,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Laceration] และ [Laceration] +4 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ [Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ [Laceration] ที่เป้าหมายมี"
                 }
               ]
             }
@@ -263,7 +263,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dust Explosion\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 7+ [Combustion], this Skill ได้รับs แต้มปะทะ +2",
+          "desc": "[WhenUse] หากเป้าหมายมี 7+ [Combustion], สกิลนี้ได้รับ แต้มปะทะ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -271,7 +271,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Combustion] Count เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Aได้รับst the enemy with the lowest Speed, มอบ [Combustion] Count เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
+                  "desc": "[OnSucceedAttackHead] Aได้รับst the ศัตรูที่มี the lowest Speed, มอบ [Combustion] Count เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 }
               ]
             },
@@ -281,7 +281,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Aได้รับst the enemy with the lowest Speed, มอบ [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
+                  "desc": "[OnSucceedAttackHead] Aได้รับst the ศัตรูที่มี the lowest Speed, มอบ [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 }
               ]
             }
@@ -303,7 +303,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Aได้รับst the enemy with the lowest Speed, มอบ [Combustion] และ [Combustion] Count เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
+                  "desc": "[OnSucceedAttackHead] Aได้รับst the ศัตรูที่มี the lowest Speed, มอบ [Combustion] และ [Combustion] Count เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 }
               ]
             },
@@ -313,7 +313,7 @@
                   "desc": "[OnSucceedAttack] มอบ [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Aได้รับst the enemy with the lowest Speed, มอบ [Combustion] และ [Combustion] Count เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
+                  "desc": "[OnSucceedAttackHead] Aได้รับst the ศัตรูที่มี the lowest Speed, มอบ [Combustion] และ [Combustion] Count เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will use ในเทิร์นนี้"
                 }
               ]
             },
@@ -527,7 +527,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>And it Shall Contempt All\u200B</line-height>",
-          "desc": "If there is a surviving 'Grasp' unit, แต้มรวม +5\n[EndBattle] Remove [MRcAmBc] from all enemies",
+          "desc": "If there is a surviving 'Grasp' unit, แต้มรวม +5\n[EndBattle] ลบ [MRcAmBc] from all enemies",
           "coinlist": [
             {
               "coindescs": [

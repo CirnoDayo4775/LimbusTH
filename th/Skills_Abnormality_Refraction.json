@@ -30,7 +30,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[AlwaysUse] ทำ ความเสียหายค่าสติ ไป half of ความเสียหาย displayed"
+                                    "desc": "[AlwaysUse] ทำ ความเสียหายค่าสติ ไปครึ่งหนึ่งของ ความเสียหาย displayed"
                                 },
                                 {
                                     "desc": "[AlwaysUse] No HP ความเสียหาย is ทำ t"
@@ -73,7 +73,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Gushing Gloom\u200B</line-height>",
-                    "desc": "[WhenUse] เป้าหมายเสีย 5 SP\nTargets the enemy with the most [Sinking]",
+                    "desc": "[WhenUse] เป้าหมายเสีย 5 SP\nTargets the ศัตรูที่มี the most [Sinking]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -625,14 +625,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Remove 3 E.G.O resources of a random Affinity"
+                                    "desc": "[OnSucceedAttack] ลบ 3 E.G.O resources of a random Affinity"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Remove 3 E.G.O resources of a random Affinity"
+                                    "desc": "[OnSucceedAttack] ลบ 3 E.G.O resources of a random Affinity"
                                 }
                             ]
                         }

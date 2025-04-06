@@ -448,7 +448,7 @@
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ 0 ความเสียหาย.\nFairy Gentleman will be Staggered ในเทิร์นหน้า."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Remove all <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>."
+                  "desc": "[OnSucceedAttack] ลบ all <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>."
                 }
               ]
             }
@@ -612,7 +612,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>โอนถ่ายผ้ายันต์\u200B</line-height>",
-          "desc": "[WhenUse] Remove all <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">[WrappedCurseTag]</color></link></u> from target.\nได้รับ [ReattachedCurseTag] เท่ากับ number of มัดพัวพันd Curse removed\n[StartBattle] ทุกๆชิ้นส่วน ได้รับ 3 [Protection]",
+          "desc": "[WhenUse] ลบ all <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">[WrappedCurseTag]</color></link></u> from target.\nได้รับ [ReattachedCurseTag] เท่ากับ number of มัดพัวพันd Curse removed\n[StartBattle] ทุกๆชิ้นส่วน ได้รับ 3 [Protection]",
           "coinlist": [
             {
               "coindescs": [
@@ -731,7 +731,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ +5% ความเสียหาย ต่อทุกๆ [Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] ทำ +5% ความเสียหาย ต่อทุกๆ [Laceration] ที่เป้าหมายมี"
                 },
                 {
                   "desc": "[OnSucceedAttack]จ่าย all of target's [Laceration]"
@@ -753,7 +753,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 1% ของ HPสูงสุด ต่อทุกๆ [Laceration]บนเป้าหมาย"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 1% ของ HPสูงสุด ต่อทุกๆ [Laceration] ที่เป้าหมายมี"
                 },
                 {
                   "desc": "[OnSucceedAttack]จ่าย 1 [Laceration] Count from target"
@@ -848,7 +848,7 @@
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ 0 ความเสียหาย.\nFairy Gentleman will be Staggered ในเทิร์นหน้า."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Remove all <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>."
+                  "desc": "[OnSucceedAttack] ลบ all <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>."
                 }
               ]
             }

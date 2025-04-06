@@ -1689,7 +1689,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "มอบ [Combustion] ไป half of Wrath Reson."
+                  "desc": "มอบ [Combustion] ไปครึ่งหนึ่งของ Wrath Reson."
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 3 [Combustion]บน3 random enemies"
@@ -2695,7 +2695,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ฟื้นฟู 30% ของความเสียหายที่ทำไป"
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เท่ากับ 30% ของความเสียหายที่ทำไป"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] มอบ 5 [Burst]"
@@ -2854,7 +2854,7 @@
                   "desc": "[OnSucceedAttack] ได้รับ [Charge] +7 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] มอบ 1 Envy Power Up และ 1 [Agility] to 2 random allies ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttackHead] มอบ 1 Envy Power Up และ 1 [Agility] แก่ 2 พันธมิตรแบบสุ่ม ในเทิร์นหน้า"
                 }
               ]
             }
@@ -2875,7 +2875,7 @@
                   "desc": "[EndSkill] ได้รับ [Charge] +7 ขั้น"
                 },
                 {
-                  "desc": "[EndSkillHead] มอบ 1 Envy Power Up และ 1 [Agility] to 2 random allies ในเทิร์นหน้า, และ ยูนิทนี้ ได้รับs [Charge] +3 ขั้น"
+                  "desc": "[EndSkillHead] มอบ 1 Envy Power Up และ 1 [Agility] แก่ 2 พันธมิตรแบบสุ่ม ในเทิร์นหน้า, และ ยูนิทนี้ ได้รับs [Charge] +3 ขั้น"
                 }
               ]
             }
@@ -3121,7 +3121,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x 7.5)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (สูงสุด 75%)"
+                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x 7.5)% of the ความเสียหาย ทำ t, และ reduce ขั้น [Burst] ไป 5 (สูงสุด 75%)"
                 }
               ]
             }
@@ -3139,7 +3139,7 @@
                   "desc": "[OnSucceedAttack] <style=\"highlight\">Ifขั้น [Charge]  was spent, มอบ 3 [DimensionRift]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x <style=\"highlight\">10</style>)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (สูงสุด <style=\"highlight\">100</style>%)"
+                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x <style=\"highlight\">10</style>)% of the ความเสียหาย ทำ t, และ reduce ขั้น [Burst] ไป 5 (สูงสุด <style=\"highlight\">100</style>%)"
                 }
               ]
             }
@@ -3157,7 +3157,7 @@
                   "desc": "[OnSucceedAttack] Ifขั้น [Charge]  was spent, มอบ <style=\"highlight\">5</style> [DimensionRift]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x 10)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (สูงสุด 100)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x 10)% of the ความเสียหาย ทำ t, และ reduce ขั้น [Burst] ไป 5 (สูงสุด 100)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3180,7 +3180,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x 7.5)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (สูงสุด 75%)"
+                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x 7.5)% of the ความเสียหาย ทำ t, และ reduce ขั้น [Burst] ไป 5 (สูงสุด 75%)"
                 }
               ]
             }
@@ -3201,7 +3201,7 @@
                   "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">6</style> [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x <style=\"highlight\">10</style>)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (สูงสุด <style=\"highlight\">100</style>%)"
+                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x <style=\"highlight\">10</style>)% of the ความเสียหาย ทำ t, และ reduce ขั้น [Burst] ไป 5 (สูงสุด <style=\"highlight\">100</style>%)"
                 }
               ]
             }
@@ -3222,7 +3222,7 @@
                   "desc": "[OnSucceedAttack] มอบ 6 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x 10)% of the ความเสียหาย ทำ t, และ reduce [Burst] Count ไป 5 (สูงสุด 100)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x 10)% of the ความเสียหาย ทำ t, และ reduce ขั้น [Burst] ไป 5 (สูงสุด 100)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3640,7 +3640,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] เปิดใช้ [VibrationExplosion]; มอบ [Sinking] +2 ขั้น และ [Burst] Count"
+                  "desc": "[CriticalOnSucceedAttack] เปิดใช้ [VibrationExplosion]; มอบ [Sinking] +2 ขั้น และ ขั้น [Burst]"
                 }
               ]
             }
@@ -3664,7 +3664,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] เปิดใช้ [VibrationExplosion]; มอบ [Sinking] +3 ขั้น และ [Burst] Count"
+                  "desc": "[CriticalOnSucceedAttack] เปิดใช้ [VibrationExplosion]; มอบ [Sinking] +3 ขั้น และ ขั้น [Burst]"
                 }
               ]
             }

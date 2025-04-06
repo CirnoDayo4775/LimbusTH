@@ -7,7 +7,7 @@
           "level": 1,
           "name": "<line-height=120%>Regret\u200B</line-height>",
           "abName": "Forsaken Murderer",
-          "desc": "[BeforeAttack] Remove 1 random removable negative effect applied to self",
+          "desc": "[BeforeAttack] ลบ 1 random removable negative effect applied to self",
           "coinlist": [
             {
               "coindescs": [
@@ -25,7 +25,7 @@
           "level": 3,
           "name": "<line-height=120%>Regret\u200B</line-height>",
           "abName": "Forsaken Murderer",
-          "desc": "[BeforeAttack] Remove 1 random removable negative effect applied to self",
+          "desc": "[BeforeAttack] ลบ 1 random removable negative effect applied to self",
           "coinlist": [
             {
               "coindescs": [
@@ -43,7 +43,7 @@
           "level": 4,
           "name": "<line-height=120%>Regret\u200B</line-height>",
           "abName": "Forsaken Murderer",
-          "desc": "[BeforeAttack] Remove 2 random removable negative effects applied to self",
+          "desc": "[BeforeAttack] ลบ 2 random removable negative effects applied to self",
           "coinlist": [
             {
               "coindescs": [
@@ -175,7 +175,7 @@
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด 2)\n[BeforeAttack] หาก ยูนิทนี้ has 10+ ขั้น [Charge] ,จ่าย up to 20 ขั้น [Charge] ; ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  จ่ายd (สูงสุด 40%)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด 2)\n[BeforeAttack] หาก ยูนิทนี้ has 10+ ขั้น [Charge] ,จ่ายสูงสุด 20 ขั้น [Charge] ; ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  ที่จ่ายไป (สูงสุด 40%)",
           "coinlist": [
             {
               "coindescs": [
@@ -193,7 +193,7 @@
           "level": 3,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด <style=\"highlight\">3</style>)\n[BeforeAttack] หาก ยูนิทนี้ has 10+ ขั้น [Charge] ,จ่าย up to 20 ขั้น [Charge] ; ทำ +<style=\"highlight\">2.5</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  จ่ายd (สูงสุด <style=\"highlight\">50</style>%)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด <style=\"highlight\">3</style>)\n[BeforeAttack] หาก ยูนิทนี้ has 10+ ขั้น [Charge] ,จ่ายสูงสุด 20 ขั้น [Charge] ; ทำ +<style=\"highlight\">2.5</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  ที่จ่ายไป (สูงสุด <style=\"highlight\">50</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -211,7 +211,7 @@
           "level": 4,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด 3)\n<style=\"highlight\">[BeforeAttack] เมื่อมี 10+ ขั้น [Charge] , มอบ the effects applied from 'On Hit' twice</style>\n[BeforeAttack] หาก ยูนิทนี้ has 10+ ขั้น [Charge] ,จ่าย up to 20 ขั้น [Charge] ; ทำ +<style=\"highlight\">3</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  จ่ายd (สูงสุด <style=\"highlight\">60</style>%)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด 3)\n<style=\"highlight\">[BeforeAttack] เมื่อมี 10+ ขั้น [Charge] , มอบ the effects applied from 'On Hit' 2 ครั้ง</style>\n[BeforeAttack] หาก ยูนิทนี้ has 10+ ขั้น [Charge] ,จ่ายสูงสุด 20 ขั้น [Charge] ; ทำ +<style=\"highlight\">3</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  ที่จ่ายไป (สูงสุด <style=\"highlight\">60</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -269,7 +269,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] เปิดใช้งาน [Laceration]บนเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])"
+                  "desc": "[WinDuelAttack] บังคับใช้งาน [Laceration] ที่เป้าหมายมี อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])"
                 }
               ]
             }
@@ -287,7 +287,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., เปิดใช้งาน [Laceration]บนเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., บังคับใช้งาน [Laceration] ที่เป้าหมายมี อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])</style>"
                 }
               ]
             },
@@ -297,7 +297,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., เปิดใช้งาน [Laceration]บนเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., บังคับใช้งาน [Laceration] ที่เป้าหมายมี อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])</style>"
                 }
               ]
             },
@@ -320,7 +320,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration]<style=\"highlight\">(1 + (highest Reson./2)) times. (3 times max; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)"
+                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration]<style=\"highlight\">(1 + (highest Reson./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)"
                 }
               ]
             }
@@ -330,7 +330,7 @@
           "level": 4,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration]บนเป้าหมาย (สูงสุด 2)</style>\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
+          "desc": "<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</style>\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End",
           "coinlist": [
             {
               "coindescs": [
@@ -338,7 +338,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., เปิดใช้งาน [Laceration]บนเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., บังคับใช้งาน [Laceration] ที่เป้าหมายมี อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -348,7 +348,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., เปิดใช้งาน [Laceration]บนเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] เมื่อมี 4+ highest Reson., บังคับใช้งาน [Laceration] ที่เป้าหมายมี อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -371,7 +371,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration](1 + (highest Reson./2)) times. (3 times max; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration](1 + (highest Reson./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[EnemyKill] When ทำ ing excess ความเสียหาย past the enemy's remaining HP, ทำ the excess ความเสียหายเป็น ความเสียหายตรง between all enemies. (min 1)</style>"
@@ -389,7 +389,7 @@
           "level": 1,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] จ่าย up to 10% of ยูนิทนี้'s max HP และ ทำ (HP จ่ายd / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of ยูนิทนี้'s max HP, มอบ และ เปิดใช้งาน 5 [Laceration]บนพันธมิตรทุกคน อีกครั้ง instead (lose 1 ขั้น [Laceration]). ฟื้นฟู HP เท่ากับจำนวนof [Laceration]ความเสียหายทำ t to allies",
+          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] จ่ายสูงสุด 10% of ยูนิทนี้'s max HP และ ทำ (HP ที่จ่ายไป / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of ยูนิทนี้'s max HP, มอบ และ เปิดใช้งาน 5 [Laceration]บนพันธมิตรทุกคน อีกครั้ง instead (lose 1 ขั้น [Laceration]). ฟื้นฟู HP เท่ากับจำนวนof [Laceration]ความเสียหายทำ t to allies",
           "coinlist": [
             {
               "coindescs": [
@@ -427,7 +427,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] เปิดใช้งาน [Laceration]บนเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])"
+                  "desc": "[WinDuelAttack] บังคับใช้งาน [Laceration] ที่เป้าหมายมี อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])"
                 }
               ]
             }
@@ -437,7 +437,7 @@
           "level": 3,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">เมื่อมี 6+ (sum of [Laceration] ที่ตัวเองมี และ the target), แต้มเหรียญ +1</style>\n[WhenUse] จ่าย up to 10% of ยูนิทนี้'s max HP และ ทำ (HP จ่ายd / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of ยูนิทนี้'s max HP, มอบ และ เปิดใช้งาน 5 [Laceration]บนพันธมิตรทุกคน อีกครั้ง instead (lose 1 ขั้น [Laceration]). ฟื้นฟู HP เท่ากับจำนวนof [Laceration]ความเสียหายทำ t to allies",
+          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">เมื่อมี 6+ (sum of [Laceration] ที่ตัวเองมี และ the target), แต้มเหรียญ +1</style>\n[WhenUse] จ่ายสูงสุด 10% of ยูนิทนี้'s max HP และ ทำ (HP ที่จ่ายไป / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of ยูนิทนี้'s max HP, มอบ และ เปิดใช้งาน 5 [Laceration]บนพันธมิตรทุกคน อีกครั้ง instead (lose 1 ขั้น [Laceration]). ฟื้นฟู HP เท่ากับจำนวนof [Laceration]ความเสียหายทำ t to allies",
           "coinlist": [
             {
               "coindescs": [
@@ -475,7 +475,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration]<style=\"highlight\">(1 + (highest Reson./2)) times. (3 times max; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)</style>"
+                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration]<style=\"highlight\">(1 + (highest Reson./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)</style>"
                 }
               ]
             }
@@ -485,7 +485,7 @@
           "level": 4,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\nแต้มเหรียญ +1 ต่อทุกๆ 6 (sum of [Laceration] ที่ตัวเองมี และ the target) <style=\"highlight\">(สูงสุด 3)</style>\n[WhenUse] จ่าย up to 10% of ยูนิทนี้'s max HP และ ทำ (HP จ่ายd / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of ยูนิทนี้'s max HP, มอบ และ เปิดใช้งาน 5 [Laceration]บนพันธมิตรทุกคน instead (lose 1 ขั้น [Laceration]). ฟื้นฟู HP เท่ากับจำนวนof [Laceration]ความเสียหายทำ t to allies",
+          "desc": "[CantIdentify]\nTargets randomly\nแต้มเหรียญ +1 ต่อทุกๆ 6 (sum of [Laceration] ที่ตัวเองมี และ the target) <style=\"highlight\">(สูงสุด 3)</style>\n[WhenUse] จ่ายสูงสุด 10% of ยูนิทนี้'s max HP และ ทำ (HP ที่จ่ายไป / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of ยูนิทนี้'s max HP, มอบ และ เปิดใช้งาน 5 [Laceration]บนพันธมิตรทุกคน instead (lose 1 ขั้น [Laceration]). ฟื้นฟู HP เท่ากับจำนวนof [Laceration]ความเสียหายทำ t to allies",
           "coinlist": [
             {
               "coindescs": [
@@ -493,7 +493,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Laceration] ที่ตัวเองมี และ the target<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] เปิดใช้งาน [Laceration] ที่ตัวเองมี และ the target อีกครั้ง (both เสีย 1 ขั้น [Laceration])</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] บังคับใช้งาน [Laceration] ที่ตัวเองมี และ the target อีกครั้ง (both เสีย 1 ขั้น [Laceration])</style>"
                 }
               ]
             },
@@ -503,7 +503,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [Laceration] ที่ตัวเองมี และ the target<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] เปิดใช้งาน [Laceration] ที่ตัวเองมี และ the target อีกครั้ง (both เสีย 1 ขั้น [Laceration])</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] บังคับใช้งาน [Laceration] ที่ตัวเองมี และ the target อีกครั้ง (both เสีย 1 ขั้น [Laceration])</style>"
                 }
               ]
             },
@@ -529,7 +529,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration](1 + (highest Reson./2)) times. (3 times max; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] เปิดใช้งาน the target's [Laceration](1 + (highest Reson./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[EnemyKill] When ทำ ing excess ความเสียหาย past the enemy's remaining HP, ทำ the excess ความเสียหายเป็น ความเสียหายตรง between all enemies. (min 1)</style>"

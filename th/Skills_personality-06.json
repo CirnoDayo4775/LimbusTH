@@ -179,7 +179,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (3 times ต่อทุกๆ turn)",
+          "desc": "[WhenUse] ได้รับ 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (3 ครั้ง ต่อเทิร์น)",
           "coinlist": [
             {}
           ]
@@ -187,7 +187,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "[WhenUse] ได้รับ <style=\"highlight\">3</style> <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (3 times ต่อทุกๆ turn)",
+          "desc": "[WhenUse] ได้รับ <style=\"highlight\">3</style> <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (3 ครั้ง ต่อเทิร์น)",
           "coinlist": [
             {}
           ]
@@ -315,7 +315,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Goin' First\u200B</line-height>",
-          "desc": "เมื่อมี 6+ Speed, แต้มเหรียญ +1\n[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า",
+          "desc": "เมื่อมี 6+ ความเร็ว, แต้มเหรียญ +1\n[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -348,12 +348,12 @@
         {
           "level": 3,
           "name": "<line-height=120%>พุ่งชนpage\u200B</line-height>",
-          "desc": "เมื่อมี 8+ Speed, แต้มเหรียญ +1\nทำ ความเสียหายเพิ่มเติ่ม basedบนเป้าหมาย's missing HP (+0.3% ความเสียหาย ต่อทุกๆ 1% missing HP)",
+          "desc": "เมื่อมี 8+ ความเร็ว, แต้มเหรียญ +1\nทำ ความเสียหายเพิ่มเติ่ม basedบนเป้าหมาย's missing HP (+0.3% ความเสียหาย ต่อทุกๆ 1% missing HP)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟู 1 ค่าสติ ต่อทุกๆ [Laceration]บนเป้าหมาย (สูงสุด 5)"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟู 1 ค่าสติ ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 5)"
                 }
               ]
             },
@@ -377,12 +377,12 @@
         {
           "level": 4,
           "name": "<line-height=120%>พุ่งชนpage\u200B</line-height>",
-          "desc": "เมื่อมี 6+ Speed, แต้มเหรียญ +1\nทำ ความเสียหายเพิ่มเติ่ม basedบนเป้าหมาย's missing HP (+0.5% ความเสียหาย ต่อทุกๆ 1% missing HP)",
+          "desc": "เมื่อมี 6+ ความเร็ว, แต้มเหรียญ +1\nทำ ความเสียหายเพิ่มเติ่ม basedบนเป้าหมาย's missing HP (+0.5% ความเสียหาย ต่อทุกๆ 1% missing HP)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ฟื้นฟู 1 ค่าสติ ต่อทุกๆ [Laceration]บนเป้าหมาย (สูงสุด 10)"
+                  "desc": "[OnSucceedAttackHead] ฟื้นฟู 1 ค่าสติ ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 10)"
                 }
               ]
             },
@@ -411,7 +411,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Quickness\u200B</line-height>",
-          "desc": "[OnSucceedEvade] ได้รับ 1 [Agility] ในเทิร์นหน้า (3 times ต่อทุกๆ turn)",
+          "desc": "[OnSucceedEvade] ได้รับ 1 [Agility] ในเทิร์นหน้า (3 ครั้ง ต่อเทิร์น)",
           "coinlist": [
             {}
           ]
@@ -419,7 +419,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Quickness\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 7+ [Laceration], ได้รับ +2 เหรียญ Power\n[OnSucceedEvade] ได้รับ 1 [Agility] ในเทิร์นหน้า (3 times ต่อทุกๆ turn)",
+          "desc": "หากเป้าหมายมี 7+ [Laceration], ได้รับ +2 เหรียญ Power\n[OnSucceedEvade] ได้รับ 1 [Agility] ในเทิร์นหน้า (3 ครั้ง ต่อเทิร์น)",
           "coinlist": [
             {}
           ]
@@ -764,7 +764,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก this Skill จ่ายd ขั้น [Vibration]บนuse, เปิดใช้ [FusionVibration] แปลงเป็น[VibrationEcho]"
+                  "desc": "[OnSucceedAttack] หากสกิลนี้จ่ายครบ ขั้น [Vibration]บนuse, เปิดใช้ [FusionVibration] แปลงเป็น[VibrationEcho]"
                 }
               ]
             },
@@ -793,7 +793,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก this Skill จ่ายd ขั้น [Vibration]บนuse, เปิดใช้ [FusionVibration] แปลงเป็น[VibrationEcho]"
+                  "desc": "[OnSucceedAttack] หากสกิลนี้จ่ายครบ ขั้น [Vibration]บนuse, เปิดใช้ [FusionVibration] แปลงเป็น[VibrationEcho]"
                 }
               ]
             },
@@ -807,14 +807,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก this Skill จ่ายd 10+ ขั้น [Vibration]บนSkill Use, เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] หากสกิลนี้จ่ายครบ 10+ ขั้น [Vibration]บนSkill Use, เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] หาก this Skill จ่ายd 10+ ขั้น [Vibration]บนSkill Use, เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- หาก ยูนิทนี้ จ่ายd less than 15 ขั้น [Vibration], เปิดใช้ [VibrationExplosion]บนself after activating the above effect</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] หากสกิลนี้จ่ายครบ 10+ ขั้น [Vibration]บนSkill Use, เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- หาก ยูนิทนี้ ที่จ่ายไป less than 15 ขั้น [Vibration], เปิดใช้ [VibrationExplosion]บนself after activating the above effect</style>"
                 }
               ]
             }
@@ -944,7 +944,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Bonecrusher\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] or [Burst] Count; instead, ได้รับ แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +1 ขั้น",
+          "desc": "[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] or ขั้น [Burst]; แทนที่ด้วย ได้รับ แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -968,7 +968,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Bonecrusher\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] or [Burst] Count; instead, ได้รับ แต้มเหรียญ +1\n- หาก target is a <Bloodfiend> or a <Bloodbag>, ได้รับ an additional แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +1 ขั้น",
+          "desc": "หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] or ขั้น [Burst]; แทนที่ด้วย ได้รับ แต้มเหรียญ +1\n- หาก target is a <Bloodfiend> or a <Bloodbag>, ได้รับ an additional แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1000,7 +1000,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>A Cheerful Hunt's End\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] or [Burst] Count; instead, ได้รับ แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +1 ขั้น",
+          "desc": "[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] or ขั้น [Burst]; แทนที่ด้วย ได้รับ แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +1 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1022,7 +1022,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>A Cheerful Hunt's End\u200B</line-height>",
-          "desc": "หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ [Burst] Count: this Skill does not มอบ [Burst] or [Burst] Count; instead, ได้รับ แต้มเหรียญ +1\n- หาก target is a <Bloodfiend> or a <Bloodbag>, ได้รับ an additional แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +2 ขั้น",
+          "desc": "หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] or ขั้น [Burst]; แทนที่ด้วย ได้รับ แต้มเหรียญ +1\n- หาก target is a <Bloodfiend> or a <Bloodbag>, ได้รับ an additional แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +2 ขั้น",
           "coinlist": [
             {
               "coindescs": [
@@ -1041,7 +1041,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 15+ [Burst], or has less than 30% HP, Reuse this เหรียญ (once ต่อทุกๆ Skill)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 15+ [Burst], or has less than 30% HP, ใช้เหรียญนี้อีกครั้ง (once ต่อทุกๆ Skill)"
                 }
               ]
             }
@@ -1069,7 +1069,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Emergency Styptics\u200B</line-height>",
-          "desc": "[StartBattle] เสีย 2 ปริมาณ [Laceration] ที่ตัวเองมี (3 times ต่อทุกๆ turn. หาก ปริมาณ [Laceration] drops to 0 or less, the [Laceration] effect expires)",
+          "desc": "[StartBattle] เสีย 2 ปริมาณ [Laceration] ที่ตัวเองมี (3 ครั้ง ต่อเทิร์น. หาก ปริมาณ [Laceration] drops to 0 or less, the [Laceration] effect expires)",
           "coinlist": [
             {
               "coindescs": [
@@ -1402,7 +1402,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Combat [Breath]\u200B</line-height>",
-          "desc": "Turn Start: at 0 [Bullet], เปิดใช้งาน 'Beyond the Shadow' instead\n[OnSucceedEvade] ได้รับ 1 [Breath] (3 times ต่อทุกๆ turn)",
+          "desc": "Turn Start: at 0 [Bullet], เปิดใช้งาน 'Beyond the Shadow' instead\n[OnSucceedEvade] ได้รับ 1 [Breath] (3 ครั้ง ต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [
@@ -1416,7 +1416,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Combat [Breath]\u200B</line-height>",
-          "desc": "Turn Start: at 0 [Bullet], เปิดใช้งาน 'Beyond the Shadow' instead\n[OnSucceedEvade] ได้รับ 1 [Breath] (<style=\"highlight\">5</style> times ต่อทุกๆ turn)",
+          "desc": "Turn Start: at 0 [Bullet], เปิดใช้งาน 'Beyond the Shadow' instead\n[OnSucceedEvade] ได้รับ 1 [Breath] (<style=\"highlight\">5</style> ครั้ง ต่อเทิร์น)",
           "coinlist": [
             {
               "coindescs": [

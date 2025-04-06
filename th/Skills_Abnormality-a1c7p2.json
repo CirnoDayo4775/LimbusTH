@@ -6,12 +6,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Walk With Grace...\u200B</line-height>",
-          "desc": "Prioritize an unstaggered ally. หาก the target is an ally, ได้รับ แต้มปะทะ +10, และ fix the ความเสียหาย to 0 at all times\nแต้มปะทะ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 3)",
+          "desc": "Prioritize an unstaggered ally. หากเป้าหมาย is an ally, ได้รับ แต้มปะทะ +10, และ fix the ความเสียหาย to 0 at all times\nแต้มปะทะ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]\n- หาก the target is an ally, replace this effect with 3 [AttackUp] until ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ 3 [Laceration]\n- หากเป้าหมาย is an ally, replace this effect with 3 [AttackUp] until ในเทิร์นหน้า"
                 }
               ]
             }
@@ -25,12 +25,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Move With Beauty...\u200B</line-height>",
-          "desc": "Prioritize an unstaggered ally. หาก the target is an ally, ได้รับ แต้มปะทะ +10, และ fix the ความเสียหาย to 0 at all times\nแต้มปะทะ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 3)",
+          "desc": "Prioritize an unstaggered ally. หากเป้าหมาย is an ally, ได้รับ แต้มปะทะ +10, และ fix the ความเสียหาย to 0 at all times\nแต้มปะทะ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น\n- หาก the target is an ally, replace this effect with 3 [DefenseUp] until ในเทิร์นหน้า"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น\n- หากเป้าหมาย is an ally, replace this effect with 3 [DefenseUp] until ในเทิร์นหน้า"
                 }
               ]
             }
@@ -44,7 +44,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Beckon the Audience Hither...\u200B</line-height>",
-          "desc": "[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever]บนself or every 6 [Laceration] ที่เป้าหมายมี (สูงสุด 4)\n[WhenUse] เมื่อมี less than 15 [BloodDinner], ได้รับ 15 [Laceration] และ immediately เปิดใช้ it อีกครั้ง, then reduce ขั้น [Laceration] ไป 1 (at less than 10% HP, เปิดใช้งาน only the part of this effect where ยูนิทนี้ ได้รับs ปริมาณ และ ขั้น [Laceration])\n[EndSkill] จ่าย 15 [BloodDinner]",
+          "desc": "[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever]บนself or every 6 [Laceration] ที่เป้าหมายมี (สูงสุด 4)\n[WhenUse] เมื่อมี less than 15 [BloodDinner], ได้รับ 15 [Laceration] และ immediately เปิดใช้ it อีกครั้ง, then ลดขั้น [Laceration] ไป 1 (at less than 10% HP, เปิดใช้งาน only the part of this effect where ยูนิทนี้ ได้รับs ปริมาณ และ ขั้น [Laceration])\n[EndSkill] จ่าย 15 [BloodDinner]",
           "coinlist": [
             {
               "coindescs": [
@@ -76,7 +76,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Parade of Wonders\u200B</line-height>",
-          "desc": "[CantIdentify]\nPrioritizes enemies for its main target, และ prioritizes allies for its sub-targets. หาก the target is an ally, แต้มปะทะ +10 และ always fix the ความเสียหาย to 0.\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 20 [BloodDinner_Accumulation] ไป ยูนิทนี้ (สูงสุด 10)\n[WhenUse] เมื่อมี less than 25 [BloodDinner], ได้รับ 25 [Laceration], immediately เปิดใช้ it อีกครั้ง, then เสีย 1 ขั้น [Laceration] (at less than 10% HP, เปิดใช้งาน only the part of this effect where ยูนิทนี้ ได้รับs ปริมาณ และ ขั้น [Laceration])\n[EndSkill] จ่าย 25 [BloodDinner]\n[EndBattle] จ่าย all [FestivalFever]",
+          "desc": "[CantIdentify]\nPrioritizes enemies for its main target, และ prioritizes allies for its sub-targets. หากเป้าหมาย is an ally, แต้มปะทะ +10 และ always fix the ความเสียหาย to 0.\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 20 [BloodDinner_Accumulation] ไป ยูนิทนี้ (สูงสุด 10)\n[WhenUse] เมื่อมี less than 25 [BloodDinner], ได้รับ 25 [Laceration], immediately เปิดใช้ it อีกครั้ง, then เสีย 1 ขั้น [Laceration] (at less than 10% HP, เปิดใช้งาน only the part of this effect where ยูนิทนี้ ได้รับs ปริมาณ และ ขั้น [Laceration])\n[EndSkill] จ่าย 25 [BloodDinner]\n[EndBattle] จ่าย all [FestivalFever]",
           "coinlist": [
             {
               "coindescs": [
@@ -91,7 +91,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น\n- หาก the target is an ally, replace this effect with 5 [BloomingThorns]"
+                  "desc": "[OnSucceedAttack] มอบ [Laceration] +3 ขั้น\n- หากเป้าหมาย is an ally, replace this effect with 5 [BloomingThorns]"
                 }
               ]
             }
@@ -105,7 +105,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>The Parade Repeats for Eternity\u200B</line-height>",
-          "desc": "[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 20 [BloodDinner_Accumulation] ไป ยูนิทนี้ (สูงสุด 10)\n[WhenUse] เมื่อมี less than 50 [BloodDinner], ได้รับ 25 [Laceration], [Laceration] +2 ขั้น, immediately เปิดใช้ it twice, then reduce ขั้น [Laceration] ไป 2 (at less than 10% HP, เปิดใช้งาน only the part of this effect where ยูนิทนี้ ได้รับs ปริมาณ และ ขั้น [Laceration])\n[WhenUse] จ่าย half of [BloodDinner]\n[EndBattle] จ่าย all [IncompleteParade]\n[EndBattle] ได้รับ 10 [FestivalFever]",
+          "desc": "[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 20 [BloodDinner_Accumulation] ไป ยูนิทนี้ (สูงสุด 10)\n[WhenUse] เมื่อมี less than 50 [BloodDinner], ได้รับ 25 [Laceration], [Laceration] +2 ขั้น, immediately เปิดใช้ it 2 ครั้ง, then ลดขั้น [Laceration] ไป 2 (at less than 10% HP, เปิดใช้งาน only the part of this effect where ยูนิทนี้ ได้รับs ปริมาณ และ ขั้น [Laceration])\n[WhenUse] จ่ายครึ่งหนึ่งของ [BloodDinner]\n[EndBattle] จ่าย all [IncompleteParade]\n[EndBattle] ได้รับ 10 [FestivalFever]",
           "coinlist": [
             {
               "coindescs": [
@@ -133,7 +133,7 @@
                   "desc": "[OnSucceedAttack] มอบ 5 [Laceration] และ 5 [Burst]"
                 },
                 {
-                  "desc": "[EndCoin] ได้รับ 1 [BloomingThorns] ต่อทุกๆ 10 [BloodDinner] จ่ายd ไป this Skill (สูงสุด 10)"
+                  "desc": "[EndCoin] ได้รับ 1 [BloomingThorns] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป ไป this Skill (สูงสุด 10)"
                 }
               ]
             }
@@ -173,7 +173,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>The Finale\u200B</line-height>",
-          "desc": "[WhenUse] จ่าย half of [BloodDinner]\n[WinDuel] ทำ +([BloodDinner] จ่ายd ไป this Skill)% ความเสียหายเพิ่มเติ่ม (สูงสุด 150%)\n[DefeatDuel] ทำ -50% less ความเสียหาย, และ the ความเสียหาย from this Skill does not Stagger the target\n[EndSkill] ยูนิทนี้'s ค่าสติ drops to -45",
+          "desc": "[WhenUse] จ่ายครึ่งหนึ่งของ [BloodDinner]\n[WinDuel] ทำ +([BloodDinner] ที่จ่ายไป ไป this Skill)% ความเสียหายเพิ่มเติ่ม (สูงสุด 150%)\n[DefeatDuel] ทำ -50% ความเสียหายน้อยลง, และ the ความเสียหาย from this Skill does not Stagger the target\n[EndSkill] ยูนิทนี้'s ค่าสติ drops to -45",
           "coinlist": [
             {
               "coindescs": [
@@ -207,7 +207,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[EndCoin] ได้รับ 1 [BloomingThorns] ต่อทุกๆ 10 [BloodDinner] จ่ายd ไป this Skill (สูงสุด 10)"
+                  "desc": "[EndCoin] ได้รับ 1 [BloomingThorns] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป ไป this Skill (สูงสุด 10)"
                 }
               ]
             }

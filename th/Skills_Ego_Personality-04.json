@@ -295,7 +295,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ +(the sum of ปริมาณ และ ขั้น [Laceration]บนเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 20%)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ +(the sum of ปริมาณ และ ขั้น [Laceration] ที่เป้าหมายมี)% ความเสียหายเพิ่มเติ่ม (สูงสุด 20%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ (1 + (highest Reson. x 1.5)) [Laceration](สูงสุด 10, rounded down)"
@@ -316,7 +316,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ +(the sum of ปริมาณ และ ขั้น [Laceration]บนเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">40%</style>)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ +(the sum of ปริมาณ และ ขั้น [Laceration] ที่เป้าหมายมี)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">40%</style>)"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">(3 + (highest Reson. x 2))</style> [Laceration](สูงสุด <style=\"highlight\">15</style>, rounded down)"
@@ -337,7 +337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ +(the sum of ปริมาณ และ ขั้น [Laceration]บนเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">60%</style>)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ +(the sum of ปริมาณ และ ขั้น [Laceration] ที่เป้าหมายมี)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">60%</style>)"
                 },
                 {
                   "desc": "[OnSucceedAttack] มอบ <style=\"highlight\">(10 + (highest Reson. x 2.5))</style> [Laceration](สูงสุด <style=\"highlight\">25</style>, rounded down)"
@@ -358,7 +358,7 @@
           "level": 1,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] ได้รับ (highest Reson.) [Breath] (สูงสุด 4)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(highest Reson.) instead (สูงสุด 4)\n[BeforeAttack] ได้รับ (highest Reson. / 2) [Breath] Count (สูงสุด 2)\n- เมื่อมี 5+ [Breath] Count, ได้รับ แต้มเหรียญ +(highest Reson. / 2) instead (สูงสุด 2)\n[TargetKill] ได้รับ 1 [HoldingBreath] ในเทิร์นหน้า (2 times ต่อทุกๆ turn)",
+          "desc": "[BeforeAttack] ได้รับ (highest Reson.) [Breath] (สูงสุด 4)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(highest Reson.) instead (สูงสุด 4)\n[BeforeAttack] ได้รับ (highest Reson. / 2) [Breath] Count (สูงสุด 2)\n- เมื่อมี 5+ [Breath] Count, ได้รับ แต้มเหรียญ +(highest Reson. / 2) instead (สูงสุด 2)\n[TargetKill] ได้รับ 1 [HoldingBreath] ในเทิร์นหน้า (2 ครั้ง ต่อเทิร์น)",
           "coinlist": [
             {},
             {
@@ -374,7 +374,7 @@
           "level": 3,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] ได้รับ (highest Reson.) [Breath] (สูงสุด <style=\"highlight\">6</style>)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(highest Reson.) instead (สูงสุด <style=\"highlight\">6</style>)\n[BeforeAttack] ได้รับ (highest Reson. / 2) [Breath] Count (สูงสุด 2)\n- เมื่อมี 5+ [Breath] Count, ได้รับ แต้มเหรียญ +(highest Reson. / 2) instead (สูงสุด 2)\n[TargetKill] ได้รับ <style=\"highlight\">2</style> [HoldingBreath] ในเทิร์นหน้า (<style=\"highlight\">4</style> times ต่อทุกๆ turn)",
+          "desc": "[BeforeAttack] ได้รับ (highest Reson.) [Breath] (สูงสุด <style=\"highlight\">6</style>)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(highest Reson.) instead (สูงสุด <style=\"highlight\">6</style>)\n[BeforeAttack] ได้รับ (highest Reson. / 2) [Breath] Count (สูงสุด 2)\n- เมื่อมี 5+ [Breath] Count, ได้รับ แต้มเหรียญ +(highest Reson. / 2) instead (สูงสุด 2)\n[TargetKill] ได้รับ <style=\"highlight\">2</style> [HoldingBreath] ในเทิร์นหน้า (<style=\"highlight\">4</style> ครั้ง ต่อเทิร์น)",
           "coinlist": [
             {},
             {
@@ -393,7 +393,7 @@
           "level": 4,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] ได้รับ (highest Reson.) [Breath] (สูงสุด 6)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(highest Reson.) instead (สูงสุด 6)\n[BeforeAttack] ได้รับ (highest Reson. / 2) [Breath] Count (สูงสุด <style=\"highlight\">3</style>)\n- เมื่อมี 5+ [Breath] Count, ได้รับ แต้มเหรียญ +(highest Reson. / 2) instead (สูงสุด <style=\"highlight\">3</style>)\n[TargetKill] ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า (<style=\"highlight\">6</style> times ต่อทุกๆ turn)",
+          "desc": "[BeforeAttack] ได้รับ (highest Reson.) [Breath] (สูงสุด 6)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(highest Reson.) instead (สูงสุด 6)\n[BeforeAttack] ได้รับ (highest Reson. / 2) [Breath] Count (สูงสุด <style=\"highlight\">3</style>)\n- เมื่อมี 5+ [Breath] Count, ได้รับ แต้มเหรียญ +(highest Reson. / 2) instead (สูงสุด <style=\"highlight\">3</style>)\n[TargetKill] ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า (<style=\"highlight\">6</style> ครั้ง ต่อเทิร์น)",
           "coinlist": [
             {},
             {
@@ -417,7 +417,7 @@
           "level": 1,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ +30% ความเสียหายเพิ่มเติ่ม\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], จ่าย 10% HP to ได้รับ 5 [Breath] และ [Breath] +5 ขั้น\n- ไม่สามารถถูก Stagger ได้or defeated due to this effect\n\n[EndSkill] หาก target is defeated, ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า. (1 ครั้งต่อเทิร์น) หาก the said target was an ally, เปิดใช้งาน the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ 2 [Breath] และ [Breath] +2 ขั้น",
+          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ +30% ความเสียหายเพิ่มเติ่ม\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], จ่าย 10% HP to ได้รับ 5 [Breath] และ [Breath] +5 ขั้น\n- ไม่สามารถถูก Stagger ได้or defeated due to this effect\n\n[EndSkill] หาก target ตาย, ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า. (1 ครั้งต่อเทิร์น) หาก the said target was an ally, เปิดใช้งาน the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ 2 [Breath] และ [Breath] +2 ขั้น",
           "coinlist": [
             {},
             {
@@ -433,7 +433,7 @@
           "level": 3,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ +30% ความเสียหายเพิ่มเติ่ม\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], จ่าย 10% HP to ได้รับ 5 [Breath] และ [Breath] +5 ขั้น\n- ไม่สามารถถูก Stagger ได้or defeated due to this effect\n<style=\"highlight\">- ได้รับ 1 [Breath] ต่อทุกๆ ally targeted ไป this Skill (สูงสุด 2)</style>\n\n[EndSkill] หาก target is defeated, ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า. (1 ครั้งต่อเทิร์น) หาก the said target was an ally, เปิดใช้งาน the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ <style=\"highlight\">4</style> [Breath] และ [Breath] +2 ขั้น\n<style=\"highlight\">- Recover half of ค่าสติ used ไป this Skill</style>",
+          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ +30% ความเสียหายเพิ่มเติ่ม\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], จ่าย 10% HP to ได้รับ 5 [Breath] และ [Breath] +5 ขั้น\n- ไม่สามารถถูก Stagger ได้or defeated due to this effect\n<style=\"highlight\">- ได้รับ 1 [Breath] ต่อทุกๆ ally targeted ไป this Skill (สูงสุด 2)</style>\n\n[EndSkill] หาก target ตาย, ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า. (1 ครั้งต่อเทิร์น) หาก the said target was an ally, เปิดใช้งาน the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ <style=\"highlight\">4</style> [Breath] และ [Breath] +2 ขั้น\n<style=\"highlight\">- Recoverครึ่งหนึ่งของ ค่าสติ used ไป this Skill</style>",
           "coinlist": [
             {},
             {
@@ -452,7 +452,7 @@
           "level": 4,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ +30% ความเสียหายเพิ่มเติ่ม\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], จ่าย 10% HP to ได้รับ 5 [Breath] และ [Breath] +5 ขั้น\n- ไม่สามารถถูก Stagger ได้or defeated due to this effect\n- ได้รับ <style=\"highlight\">2</style> [Breath] ต่อทุกๆ ally targeted ไป this Skill (สูงสุด <style=\"highlight\">4</style>)\n\n[EndSkill] หาก target is defeated, ได้รับ 3 [HoldingBreath] ในเทิร์นหน้า. (1 ครั้งต่อเทิร์น) หาก the said target was an ally, เปิดใช้งาน the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ 4 [Breath] และ +<style=\"highlight\">4</style> [Breath] Count\n<style=\"highlight\">- Recover ค่าสติ used ไป this Skill และ reได้รับ 1 of each E.G.O resources จ่ายd</style>",
+          "desc": "[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, ทำ +30% ความเสียหายเพิ่มเติ่ม\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], จ่าย 10% HP to ได้รับ 5 [Breath] และ [Breath] +5 ขั้น\n- ไม่สามารถถูก Stagger ได้or defeated due to this effect\n- ได้รับ <style=\"highlight\">2</style> [Breath] ต่อทุกๆ ally targeted ไป this Skill (สูงสุด <style=\"highlight\">4</style>)\n\n[EndSkill] หาก target ตาย, ได้รับ 3 [HoldingBreath] ในเทิร์นหน้า. (1 ครั้งต่อเทิร์น) หาก the said target was an ally, เปิดใช้งาน the followingเป็นwell:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ 4 [Breath] และ +<style=\"highlight\">4</style> [Breath] Count\n<style=\"highlight\">- Recover ค่าสติ used ไป this Skill และ reได้รับ 1 of each E.G.O resources ที่จ่ายไป</style>",
           "coinlist": [
             {},
             {

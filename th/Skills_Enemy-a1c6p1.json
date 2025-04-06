@@ -261,7 +261,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>A-armor Br-\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 3+ [Burst] Count, แต้มตั้งต้น +1",
+                    "desc": "[WhenUse] หากเป้าหมายมี 3+ ขั้น [Burst], แต้มตั้งต้น +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -465,7 +465,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Get... Out of แหม...\u200B</line-height>",
-                    "desc": "[WhenUse] หากเป้าหมายมี 3+ [Burst] Count, แต้มตั้งต้น +1",
+                    "desc": "[WhenUse] หากเป้าหมายมี 3+ ขั้น [Burst], แต้มตั้งต้น +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -570,7 +570,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Grasping Vulnerabilities\u200B</line-height>",
-                    "desc": "[WhenUse] หาก ยูนิทนี้'s Speed is faster than the target's, ฟื้นฟู 3 แก่ตัวเอง",
+                    "desc": "[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ฟื้นฟู 3 แก่ตัวเอง",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -602,7 +602,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Armor Fracture\u200B</line-height>",
-                    "desc": "[WhenUse] หาก ยูนิทนี้'s Speed is faster than the target's, มอบ 1 [SlashResistDown]",
+                    "desc": "[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, มอบ 1 [SlashResistDown]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -679,7 +679,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Neutralization Technique\u200B</line-height>",
-                    "desc": "[WhenUse] หาก ยูนิทนี้'s Speed is faster than the target's, ฟื้นฟู 3 แก่ตัวเอง",
+                    "desc": "[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ฟื้นฟู 3 แก่ตัวเอง",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -711,7 +711,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Immobilisation\u200B</line-height>",
-                    "desc": "[WhenUse] หาก ยูนิทนี้'s Speed is faster than the target's, มอบ 1 [SlashResistDown]",
+                    "desc": "[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, มอบ 1 [SlashResistDown]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -788,7 +788,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Suppression\u200B</line-height>",
-                    "desc": "[WhenUse] หาก ยูนิทนี้'s Speed is faster than the target's, ฟื้นฟู 5 แก่ตัวเอง",
+                    "desc": "[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ฟื้นฟู 5 แก่ตัวเอง",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -820,7 +820,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ยับยั้งing Technique\u200B</line-height>",
-                    "desc": "[WhenUse] หาก ยูนิทนี้'s Speed is faster than the target's, มอบ 2 [SlashResistDown]",
+                    "desc": "[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, มอบ 2 [SlashResistDown]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -865,7 +865,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Housekeeping\u200B</line-height>",
-                    "desc": "[WhenUse] หาก ยูนิทนี้'s Speed is faster than the target's, แต้มปะทะ +3",
+                    "desc": "[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มปะทะ +3",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -876,7 +876,7 @@
                                     "desc": "[OnSucceedAttack] มอบ 2 [Paralysis] ในเทิร์นหน้า"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] หาก ยูนิทนี้'s Speed is faster than the target's ไป 3 or more, reuse this Skill (once)"
+                                    "desc": "[OnSucceedAttack] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 or more, ใช้สกิลนี้อีกครั้ง (once)"
                                 }
                             ]
                         }
@@ -938,7 +938,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Twisting\u200B</line-height>",
-                    "desc": "[WinDuel] หาก the target's HP is at 100%, ทำ +30% ความเสียหายเพิ่มเติ่ม\n[DefeatDuel] ได้รับ 3 [DefenseDown]",
+                    "desc": "[WinDuel] หากเป้าหมาย's HP is at 100%, ทำ +30% ความเสียหายเพิ่มเติ่ม\n[DefeatDuel] ได้รับ 3 [DefenseDown]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1101,7 +1101,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Rat Herding\u200B</line-height>",
-                    "desc": "[WinDuel] หาก the target's HP is at 80%+, ทำ +50% ความเสียหายเพิ่มเติ่ม\n[DefeatDuel] ได้รับ 2 [DefenseDown]",
+                    "desc": "[WinDuel] หากเป้าหมาย's HP is at 80%+, ทำ +50% ความเสียหายเพิ่มเติ่ม\n[DefeatDuel] ได้รับ 2 [DefenseDown]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1130,7 +1130,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Interloper Banishment\u200B</line-height>",
-                    "desc": "[WhenUse] หาก ยูนิทนี้'s Speed is faster than target's ไป 3 or more, reuse this Skill (once)",
+                    "desc": "[WhenUse] หาก ความเร็วของยูนิทนี้ is faster than target's ไป 3 or more, ใช้สกิลนี้อีกครั้ง (once)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1145,7 +1145,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Raise target's Stagger Threshold ไป value เท่ากับ [Laceration]บนเป้าหมาย"
+                                    "desc": "[OnSucceedAttack] Raise target's Stagger Threshold ไป value เท่ากับ [Laceration] ที่เป้าหมายมี"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 2 [Paralysis] ในเทิร์นหน้า"
@@ -1176,7 +1176,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Box Conferment\u200B</line-height>",
-                    "desc": "[WhenUse] หาก ยูนิทนี้'s Speed is faster than the target's ไป 3 or more, แต้มปะทะ +2\n[WinDuel] ฟื้นฟู 10 แก่ตัวเอง",
+                    "desc": "[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 or more, แต้มปะทะ +2\n[WinDuel] ฟื้นฟู 10 แก่ตัวเอง",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1304,7 +1304,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 8+ ความรุนแรง [Sinking] , Reuse this เหรียญ (สูงสุด 1 ครั้ง)"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 8+ ความรุนแรง [Sinking] , ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 4 [DefenseDown] 4 และ 1 [Vulnerable]"
@@ -1420,7 +1420,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Sinking] Count, Reuse this เหรียญ (สูงสุด 1 ครั้ง)"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 4+ [Sinking] Count, ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] มอบ 4 [AttackDown] และ 1 [Paralysis] ในเทิร์นหน้า"
@@ -1488,7 +1488,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>Time to Clean!\u200B</line-height>",
-                    "desc": "[WhenUse] หาก the target is at 10 or less SP, มอบ 2 [AttackDown]\n[WinDuel] มอบ 1 [Vulnerable]",
+                    "desc": "[WhenUse] หากเป้าหมาย is at 10 or less SP, มอบ 2 [AttackDown]\n[WinDuel] มอบ 1 [Vulnerable]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -1587,7 +1587,7 @@
                                     "desc": "[OnSucceedAttack] มอบ 4 [Sinking]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Sinking] Count, Reuse this เหรียญ (twice)"
+                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ [Sinking] Count, ใช้เหรียญนี้อีกครั้ง (2 ครั้ง)"
                                 }
                             ]
                         }

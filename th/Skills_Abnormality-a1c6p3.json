@@ -58,7 +58,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Erupting Wrath\u200B</line-height>",
-          "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Combustion]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] หากเป้าหมายมี 9+ [Combustion], this Skill ได้รับs Atk Weight +1",
+          "desc": "[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Combustion]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] หากเป้าหมายมี 9+ [Combustion], สกิลนี้ได้รับ Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
@@ -80,7 +80,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
-          "desc": "[WhenUse] หากเป้าหมายมี 5+ [Combustion], แต้มเหรียญ +2\n[WhenUse] หากเป้าหมายมี 6+ [Combustion], reuse this Skill (2 times max)",
+          "desc": "[WhenUse] หากเป้าหมายมี 5+ [Combustion], แต้มเหรียญ +2\n[WhenUse] หากเป้าหมายมี 6+ [Combustion], ใช้สกิลนี้อีกครั้ง (สูงสด 2 ครั้ง)",
           "coinlist": [
             {
               "coindescs": [
@@ -204,7 +204,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ negative effects, reuse this เหรียญ (สูงสุด 1 ครั้ง)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ negative effects, ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)"
                 }
               ]
             }
@@ -218,7 +218,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bodysack\u200B</line-height>",
-          "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Laceration]บนเป้าหมาย (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ negative effectบนเป้าหมาย (สูงสุด 2)\n[DefeatDuel] ได้รับ 20 [DefenseDown]\n[DefeatDuel] ได้รับ 1 Fettered Woe",
+          "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ negative effectบนเป้าหมาย (สูงสุด 2)\n[DefeatDuel] ได้รับ 20 [DefenseDown]\n[DefeatDuel] ได้รับ 1 Fettered Woe",
           "coinlist": [
             {
               "coindescs": [
@@ -267,7 +267,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Lunacy of the Frenzied Wolf\u200B</line-height>",
-          "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Laceration]บนเป้าหมาย (สูงสุด 4)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ negative effectบนเป้าหมาย (สูงสุด 2)\n[DefeatDuel] หากเป้าหมายมี [AaCfPcBg], raise ยูนิทนี้'s Stagger Threshold ไป 100 ในเทิร์นหน้า. หาก ยูนิทนี้ ไม่มี a Stagger threshold, create a new Stagger threshold at 0.",
+          "desc": "[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 4)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ negative effectบนเป้าหมาย (สูงสุด 2)\n[DefeatDuel] หากเป้าหมายมี [AaCfPcBg], raise ยูนิทนี้'s Stagger Threshold ไป 100 ในเทิร์นหน้า. หาก ยูนิทนี้ ไม่มี a Stagger threshold, create a new Stagger threshold at 0.",
           "coinlist": [
             {
               "coindescs": [
@@ -293,7 +293,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก every เหรียญ of this Skill hits, reuse this เหรียญ (สูงสุด 1 ครั้ง)"
+                  "desc": "[OnSucceedAttack] หาก every เหรียญ of this Skill hits, ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)"
                 }
               ]
             }
@@ -426,7 +426,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Overwhelm Interloper\u200B</line-height>",
-          "desc": "[WhenUse] หาก ยูนิทนี้'s Speed is faster than the target's, แต้มปะทะ +2",
+          "desc": "[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มปะทะ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -448,7 +448,7 @@
                   "desc": "[OnSucceedAttack] มอบ 2 [DefenseDown] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ negative effects, reuse this เหรียญ (สูงสุด 1 ครั้ง)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ negative effects, ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)"
                 }
               ]
             }
@@ -467,7 +467,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] หาก the target ไม่มี a Stagger Threshold, ทำ 200 HP ความเสียหาย."
+                  "desc": "[OnSucceedAttack] หากเป้าหมาย ไม่มี a Stagger Threshold, ทำ 200 HP ความเสียหาย."
                 },
                 {
                   "desc": "[OnSucceedAttack] เพิ่มขีดStagger ไป 200"
@@ -484,7 +484,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Receiving Arts 7: Capture\u200B</line-height>",
-          "desc": "[StartBattle] ได้รับ Atk Weight เท่ากับ the number of enemies with [AaCfPcBb]\n[WhenUse] หาก ยูนิทนี้'s Speed is faster than the main target's ไป 3 or more, มอบ 2 Slash Resist Down\n[WhenUse] หากเป้าหมายมี [AaCfPcBb], แต้มปะทะ +8\n[EndBattle] All [AaCfPcBb] expires",
+          "desc": "[StartBattle] ได้รับ Atk Weight เท่ากับ the number of enemies with [AaCfPcBb]\n[WhenUse] หาก ความเร็วของยูนิทนี้ is faster than the main target's ไป 3 or more, มอบ 2 Slash Resist Down\n[WhenUse] หากเป้าหมายมี [AaCfPcBb], แต้มปะทะ +8\n[EndBattle] All [AaCfPcBb] expires",
           "coinlist": [
             {
               "coindescs": [
@@ -541,7 +541,7 @@
                   "desc": "[OnSucceedAttack] มอบ 6 [DefenseDown] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้'s Speed is faster than the target's ไป 3 or more, reuse this เหรียญ (สูงสุด 1 ครั้ง)"
+                  "desc": "[OnSucceedAttack] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 or more, ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)"
                 }
               ]
             }
@@ -590,7 +590,7 @@
                   "desc": "[OnSucceedAttack] มอบ 3 [DefenseDown] ในเทิร์นหน้า"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ negative effects, reuse this เหรียญ (สูงสุด 1 ครั้ง)"
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 3+ negative effects, ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)"
                 }
               ]
             }
@@ -623,7 +623,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Receiving Arts 9: Dissolution\u200B</line-height>",
-          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPcBc]\nหากเป้าหมายมี [AaCfPcBc], แต้มตั้งต้น +10\nIf the target ไม่มี [AaCfPcBc], this Skill ทำ s 0 ความเสียหาย.",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPcBc]\nหากเป้าหมายมี [AaCfPcBc], แต้มตั้งต้น +10\nIf the target ไม่มี [AaCfPcBc], สกิลนี้ทำ 0 ความเสียหาย.",
           "coinlist": [
             {
               "coindescs": [
@@ -723,7 +723,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ความแค้นอำมหิต หวนคืน\u200B</line-height>",
-          "desc": "[CantChangeTarget]\n[WhenUse] หาก the target ไม่มี [AaCfPbBa], แต้มปะทะ +10\n[DefeatDuel] ได้รับ 3 [Vulnerable] ในเทิร์นหน้า",
+          "desc": "[CantChangeTarget]\n[WhenUse] หากเป้าหมาย ไม่มี [AaCfPbBa], แต้มปะทะ +10\n[DefeatDuel] ได้รับ 3 [Vulnerable] ในเทิร์นหน้า",
           "coinlist": [
             {
               "coindescs": [
@@ -745,7 +745,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ควบสู่มรณา ดูลาฮาน\u200B</line-height>",
-          "desc": "[CantDuel]\n[WhenUse] หากเป้าหมายมี [AaCfPbBb], ทำ -100% less ความเสียหาย",
+          "desc": "[CantDuel]\n[WhenUse] หากเป้าหมายมี [AaCfPbBb], ทำ -100% ความเสียหายน้อยลง",
           "coinlist": [
             {},
             {
@@ -772,7 +772,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ล่าชีพในความรกร้าง\u200B</line-height>",
-          "desc": "[CantDuel]\n[WhenUse] หากเป้าหมายมี [AaCfPbBc], ทำ -100% less ความเสียหาย\n[WhenUse] ทำ +25% ความเสียหายเพิ่มเติ่ม ต่อพันธมิตรทุกๆคนที่อยู่ในสนาม",
+          "desc": "[CantDuel]\n[WhenUse] หากเป้าหมายมี [AaCfPbBc], ทำ -100% ความเสียหายน้อยลง\n[WhenUse] ทำ +25% ความเสียหายเพิ่มเติ่ม ต่อพันธมิตรทุกๆคนที่อยู่ในสนาม",
           "coinlist": [
             {}
           ]
@@ -1286,7 +1286,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>... ชาติชั่ว\u200B</line-height>",
-          "desc": "If ยูนิทนี้'s Speed is faster than the target's แต้มปะทะ +2",
+          "desc": "Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย แต้มปะทะ +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1301,7 +1301,7 @@
                   "desc": "[OnSucceedAttack] มอบ 4 [Laceration] และ [Laceration] +2 ขั้น"
                 },
                 {
-                  "desc": "[OnSucceedAttack] หาก ยูนิทนี้'s Speed is faster than the target's ไป 3 or more, reuse this เหรียญ (once)"
+                  "desc": "[OnSucceedAttack] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 or more, ใช้เหรียญนี้อีกครั้ง (once)"
                 }
               ]
             }
@@ -1347,7 +1347,7 @@
                   "desc": "[OnSucceedAttack] หากเป้าหมายมี 20+ [Laceration], ทำ +100% ความเสียหายเพิ่มเติ่ม"
                 },
                 {
-                  "desc": "[EnemyKill] Reuse this Skill (สูงสุด 1 ครั้ง)"
+                  "desc": "[EnemyKill] ใช้สกิลนี้อีกครั้ง (สูงสุด 1 ครั้ง)"
                 }
               ]
             }
@@ -1361,7 +1361,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ออก...\u200B</line-height>",
-          "desc": "Prioritizes Heathcliff\n[WhenUse] หาก the target is the enemy with the slowest Speed, แต้มตั้งต้น +3\n[WhenUse] มอบ [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], และ 5 [Binding]",
+          "desc": "Prioritizes Heathcliff\n[WhenUse] หากเป้าหมาย is the ศัตรูที่มี the slowest Speed, แต้มตั้งต้น +3\n[WhenUse] มอบ [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], และ 5 [Binding]",
           "coinlist": [
             {
               "coindescs": [
@@ -1430,7 +1430,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>สวะ...\u200B</line-height>",
-          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPbBe]\nIf ยูนิทนี้'s Speed is faster than the target ไป 3 or more, reuse this Skill (สูงสุด 1 ครั้ง)",
+          "desc": "เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPbBe]\nIf ความเร็วของยูนิทนี้ is faster than the target ไป 3 or more, ใช้สกิลนี้อีกครั้ง (สูงสุด 1 ครั้ง)",
           "coinlist": [
             {
               "coindescs": [
@@ -1475,7 +1475,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>... ลีก\u200B</line-height>",
-          "desc": "[OnSucceedEvade] มอบ 1 [Binding] ในเทิร์นหน้า (2 times max)",
+          "desc": "[OnSucceedEvade] มอบ 1 [Binding] ในเทิร์นหน้า (สูงสด 2 ครั้ง)",
           "coinlist": [
             {
               "coindescs": [
@@ -1494,7 +1494,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ที่นี่...!\u200B</line-height>",
-          "desc": "If ยูนิทนี้'s Speed is faster than the target's, แต้มเหรียญ +1",
+          "desc": "Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1",
           "coinlist": [
             {
               "coindescs": [
