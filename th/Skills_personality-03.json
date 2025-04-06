@@ -500,7 +500,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 10 HP.\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู additional HP basedบน[Burst]บนเป้าหมาย (1 HP ฟื้นฟูed ต่อทุกๆ 1 [Burst]. Max 20)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู additional HP basedบน[Burst] ที่เป้าหมายมี (1 HP ฟื้นฟูed ต่อทุกๆ 1 [Burst]. Max 20)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>เมื่อมี 50%- HP, ใช้เหรียญซ้ำ อีกครั้ง\u200B</line-height>"
@@ -528,7 +528,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 15 HP. ฟื้นฟู HP เท่ากับ+50% more HP when reusing Coin.\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู additional HP basedบน[Burst]บนเป้าหมาย (2 HP ฟื้นฟูed ต่อทุกๆ 1 [Burst]. Max 40)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู additional HP basedบน[Burst] ที่เป้าหมายมี (2 HP ฟื้นฟูed ต่อทุกๆ 1 [Burst]. Max 40)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>เมื่อมี 50%- HP, ใช้เหรียญซ้ำ อีกครั้ง\u200B</line-height>"
@@ -1582,7 +1582,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Fa Jin\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 or more, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 หรือมากกว่า, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1603,7 +1603,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Fa Jin\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป <style=\"highlight\">2</style> or more, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป <style=\"highlight\">2</style> หรือมากกว่า, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1624,7 +1624,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Fa Jin\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 2)</style>\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Breath] Count\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 2)</style>\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Breath] Count\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1653,7 +1653,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Virescent Flame Palm\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 or more, แต้มเหรียญ +1\n[WinDuel] ได้รับ 3 [Breath]\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 หรือมากกว่า, แต้มเหรียญ +1\n[WinDuel] ได้รับ 3 [Breath]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1684,7 +1684,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Virescent Flame Palm\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป <style=\"highlight\">2</style> or more, แต้มเหรียญ +1\n[WinDuel] ได้รับ 3 [Breath]\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป <style=\"highlight\">2</style> หรือมากกว่า, แต้มเหรียญ +1\n[WinDuel] ได้รับ 3 [Breath]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1715,7 +1715,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Virescent Flame Palm\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 2)</style>\n[WinDuel] ได้รับ 3 [Breath]\n<style=\"highlight\">- ได้รับ additional [Breath] Count เท่ากับ [DianxueDonQuixote]บนเป้าหมาย</style>\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 2)</style>\n[WinDuel] ได้รับ 3 [Breath]\n<style=\"highlight\">- ได้รับ additional [Breath] Count เท่ากับ [DianxueDonQuixote]บนเป้าหมาย</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1751,7 +1751,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Prithee, let this be an enlightening bout\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 1 [DianxueDonQuixote]บนเป้าหมาย (สูงสุด 30%)\nIfความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 or more, แต้มเหรียญ +1\n[WinDuel] ได้รับ 5 [Breath]\n- หากเป้าหมายมี [DianxueDonQuixote], ได้รับ 3 additional [Breath]\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 1 [DianxueDonQuixote]บนเป้าหมาย (สูงสุด 30%)\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 หรือมากกว่า, แต้มเหรียญ +1\n[WinDuel] ได้รับ 5 [Breath]\n- หากเป้าหมายมี [DianxueDonQuixote], ได้รับ 3 additional [Breath]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1786,7 +1786,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Prithee, let this be an enlightening bout\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ <style=\"highlight\">+15%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ 1 [DianxueDonQuixote]บนเป้าหมาย (สูงสุด <style=\"highlight\">45%</style>)\n<style=\"highlight\">Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 2)</style>\n[WinDuel] ได้รับ 5 [Breath]\n- หากเป้าหมายมี [DianxueDonQuixote], ได้รับ 3 additional [Breath]\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ <style=\"highlight\">+15%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ 1 [DianxueDonQuixote]บนเป้าหมาย (สูงสุด <style=\"highlight\">45%</style>)\n<style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 2)</style>\n[WinDuel] ได้รับ 5 [Breath]\n- หากเป้าหมายมี [DianxueDonQuixote], ได้รับ 3 additional [Breath]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1837,7 +1837,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Thou'rt in dire need of a lesson in table manners!\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ +1 แต้มเหรียญ ต่อทุกๆ 2 ผลต่างของความเร็ว (สูงสุด 2)</style>\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ +1 แต้มเหรียญ ต่อทุกๆ 2 ผลต่างของความเร็ว (สูงสุด 2)</style>\u200B</line-height>",
           "coinlist": [
             {}
           ]

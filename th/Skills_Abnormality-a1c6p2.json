@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Grasp\u200B</line-height>",
+          "name": "<line-height=120%>จับตัว\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -27,7 +27,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Piling Rocks\u200B</line-height>",
+          "name": "<line-height=120%>กองศิลา\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 5+ [Vibration], แต้มปะทะ +1\u200B</line-height>",
           "coinlist": [
             {
@@ -59,8 +59,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Slothful Press\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มปะทะ +1 for each Speed difference (สูงสุด 3)\u200B</line-height>",
+          "name": "<line-height=120%>กดความเกรียจคร้าน\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มปะทะ +1 ต่อทุกๆ ผลต่างความเร็ว (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -103,8 +103,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Maul\u200B</line-height>",
-          "desc": "<line-height=130%>When this Attack Skill hits, ได้รับ [TakeHpHealIncrease] ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>ทุบตี\u200B</line-height>",
+          "desc": "<line-height=130%>เมื่อสกิลโจมตีนี้ โจมตีโดน ได้รับ [TakeHpHealIncrease] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -129,7 +129,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Devouring\u200B</line-height>",
+          "name": "<line-height=120%>เขมือบ\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี [Burst], แต้มตั้งต้น +1\u200B</line-height>",
           "coinlist": [
             {
@@ -138,7 +138,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Burst] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] Core และ Part both ได้รับ 3 HP\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] ทั้งแกนกลาง และชิ้นส่วนนี้ ได้รับ 3 HP\u200B</line-height>"
                 }
               ]
             },
@@ -148,7 +148,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Burst] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] Core และ Part both ได้รับ 3 HP\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] ทั้งแกนกลาง และชิ้นส่วนนี้ ได้รับ 3 HP\u200B</line-height>"
                 }
               ]
             },
@@ -158,7 +158,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Burst] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] Core และ Part both ได้รับ 3 HP\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] ทั้งแกนกลาง และชิ้นส่วนนี้ ได้รับ 3 HP\u200B</line-height>"
                 }
               ]
             },
@@ -168,7 +168,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Burst] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] Core และ Part both ได้รับ 3 HP\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] ทั้งแกนกลาง และชิ้นส่วนนี้ ได้รับ 3 HP\u200B</line-height>"
                 }
               ]
             }
@@ -181,8 +181,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Ravenous Devouring\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 5+ [Burst], มอบ 2 [DefenseDown]\nได้รับ +1 แต้มตั้งต้น ต่อทุกๆ [TakeHpHealIncrease] valueบนself (สูงสุด 3)\u200B</line-height>",
+          "name": "<line-height=120%>เขมือบอย่างหิวโซ\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 5+ [Burst], มอบ 2 [DefenseDown]\nได้รับ +1 แต้มตั้งต้น ต่อทุกๆ ค่า [TakeHpHealIncrease] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -190,7 +190,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Burst] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] Core และ Part both ได้รับ 5 HP\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] ทั้งแกนกลาง และชิ้นส่วนนี้ ได้รับ 5 HP\u200B</line-height>"
                 }
               ]
             },
@@ -200,7 +200,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 5 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] Core และ Part both ได้รับ 5 HP\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] ทั้งแกนกลาง และชิ้นส่วนนี้ ได้รับ 5 HP\u200B</line-height>"
                 }
               ]
             },
@@ -210,7 +210,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Burst] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] Core และ Part both ได้รับ 5 HP\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] ทั้งแกนกลาง และชิ้นส่วนนี้ ได้รับ 5 HP\u200B</line-height>"
                 }
               ]
             },
@@ -220,7 +220,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 5 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] Core และ Part both ได้รับ 5 HP\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] ทั้งแกนกลาง และชิ้นส่วนนี้ ได้รับ 5 HP\u200B</line-height>"
                 }
               ]
             }
@@ -234,7 +234,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
-          "desc": "<line-height=130%>เมื่อมี less than 50% Core HP, Core และ Part ฟื้นฟูบนเหรียญ Hit\u200B</line-height>",
+          "desc": "<line-height=130%>เมื่อแกนกลางมี HP น้อยกว่า 50% , ฟื้นฟู HP ของแกนกลางและชิ้นส่วนนี้ เมื่อโจมตีโดน\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -259,7 +259,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Bat Bash\u200B</line-height>",
+          "name": "<line-height=120%>ทุบกระบอง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -308,7 +308,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Laceration]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Laceration]เท่ากับ [Burst]บนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Laceration]เท่ากับ [Burst] ที่เป้าหมายมี\u200B</line-height>"
                 }
               ]
             }
@@ -321,20 +321,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Upheaval\u200B</line-height>",
+          "name": "<line-height=120%>พลิกหน้ามือ\u200B</line-height>",
           "desc": "<line-height=130%>หากเป้าหมายมี 5+ [Burst], แต้มปะทะ +1\nหากเป้าหมายมี 5+ [Laceration], แต้มปะทะ +1\n[WinDuel] มอบ [Burst] +3 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] Next เหรียญ has +1 Power\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] เหรียญต่อไป ได้รับแต้ม +1\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] Next เหรียญ has +2 Power\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] เหรียญต่อไป ได้รับแต้ม +2\u200B</line-height>"
                 }
               ]
             },
@@ -357,7 +357,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Time to Repent\u200B</line-height>",
+          "name": "<line-height=120%>ได้เวลาชดใช้บาป\u200B</line-height>",
           "desc": "<line-height=130%>[CantChangeTarget]\u200B</line-height>",
           "coinlist": [
             {
@@ -397,20 +397,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>You Must Suffer More!\u200B</line-height>",
+          "name": "<line-height=120%>แกต้องทรมาณมากกว่านี้อีก!\u200B</line-height>",
           "desc": "<line-height=130%>[CantChangeTarget]\n[WinDuel] มอบ 3 ขั้น [Burst]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] Next เหรียญ has +1 Power\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] เหรียญต่อไป ได้รับแต้ม +1\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] Next เหรียญ has +2 Power\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] เหรียญต่อไป ได้รับแต้ม +2\u200B</line-height>"
                 }
               ]
             },
@@ -468,8 +468,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>I'll ลบ You\u200B</line-height>",
-          "desc": "<line-height=130%>Core และ Part ฟื้นฟู HP เท่ากับ10% of the ความเสียหาย ทำ t ไป this Attack Skill\u200B</line-height>",
+          "name": "<line-height=120%>ฉันจะกำจัดแก\u200B</line-height>",
+          "desc": "<line-height=130%>ฟื้นฟู HPแกนกลางและชิ้นส่วนนี้ เท่ากับ10% ของความเสียหายที่ทำได้ จากสกิลนี้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -497,8 +497,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Bloody Bastard!\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย แต้มปะทะ +2\u200B</line-height>",
+          "name": "<line-height=120%>ไอ้ชาติระยำเอ้ย!\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย แต้มปะทะ +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -513,7 +513,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Laceration] และ [Laceration] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 or more, ใช้เหรียญนี้อีกครั้ง (once)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 หรือมากกว่า, ใช้เหรียญนี้อีกครั้ง (ครั้งเดียว)\u200B</line-height>"
                 }
               ]
             }
@@ -526,8 +526,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>This Is My Home!\u200B</line-height>",
-          "desc": "<line-height=130%>Prioritize targets with the least HP\n[WhenUse] หากเป้าหมายมี less than 70% HP, แต้มปะทะ +2\u200B</line-height>",
+          "name": "<line-height=120%>ที่นี่คือบ้านกู!\u200B</line-height>",
+          "desc": "<line-height=130%>เล็งเป้าหมายที่มี HP ต่ำที่สุด เป็นหลัก\n[WhenUse] หากเป้าหมายมีHP ต่ำกว่า 70% , แต้มปะทะ +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -572,8 +572,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>I'll Get You...!\u200B</line-height>",
-          "desc": "<line-height=130%>Prioritizes Heathcliff\n[WhenUse] หากเป้าหมาย is the ศัตรูที่มี the slowest Speed, แต้มตั้งต้น +3\n[WhenUse] มอบ [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], และ 5 [Binding] ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>กูจะเอาชีวิตมึง...!\u200B</line-height>",
+          "desc": "<line-height=130%>เล็งฮีธคลิฟฟ์เป็นหลัก\n[WhenUse] หากเป้าหมาย มีความเร็วที่ต่ำที่สุดในหมู่ศัตรู แต้มตั้งต้น +3\n[WhenUse] มอบ [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], และ 5 [Binding] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -598,7 +598,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Give It Back...!!\u200B</line-height>",
+          "name": "<line-height=120%>เอาคืนมา...!!\u200B</line-height>",
           "desc": "<line-height=130%>[CantDuel]\u200B</line-height>",
           "coinlist": [
             {
@@ -641,20 +641,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>You Little...\u200B</line-height>",
-          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPbBe]\nIf ความเร็วของยูนิทนี้ is faster than the target ไป 3 or more, ใช้สกิลนี้อีกครั้ง (สูงสุด 1 ครั้ง)\u200B</line-height>",
+          "name": "<line-height=120%>ไอ้เศษสวะ...\u200B</line-height>",
+          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [AaCfPbBe]\nหากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 หรือมากกว่า, ใช้สกิลนี้อีกครั้ง (สูงสุด 1 ครั้ง)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู Core และ Part ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู HP แกนกลาง และ ชิ้นส่วนนี้ ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู Core และ Part ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู HP แกนกลาง และ ชิ้นส่วนนี้ ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             }
@@ -668,7 +668,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้ายูนิทนี้มี remaining HP โล่ at Turn End, ได้รับ 4 [Protection] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้ายูนิทนี้มี HP โล่ เหลือตอนจบเทิร์น, ได้รับ 4 [Protection] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -705,8 +705,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>This is My Place!\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\u200B</line-height>",
+          "name": "<line-height=120%>ที่นี่คือที่ของกู!\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

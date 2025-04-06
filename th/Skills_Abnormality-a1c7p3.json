@@ -218,7 +218,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Expression of Love\u200B</line-height>",
-          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี the least number of negative effects\n[WhenUse] หากเป้าหมาย ไม่มี any negative effects, use 'Rough Expression of Love' ในเทิร์นหน้า\n\n[WhenUse] หากเป้าหมายมี more negative effects than [FaintMemory]บนself, use 'A Sad Embrace' ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี the least number of negative effects\n[WhenUse] หากเป้าหมาย ไม่มี any ผลด้านลบ use 'Rough Expression of Love' ในเทิร์นหน้า\n\n[WhenUse] หากเป้าหมายมี more negative effects than [FaintMemory]บนself, use 'A Sad Embrace' ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -324,7 +324,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>If the target ไม่มี any negative effects, ทำ +100% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
+                  "desc": "<line-height=130%>หากเป้าหมายไม่มี any ผลด้านลบ ทำ +100% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Curse]\u200B</line-height>"
@@ -591,7 +591,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Topple\u200B</line-height>",
+          "name": "<line-height=120%>ล้มร่าง\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] จ่าย 10 [BloodDinner]: ได้รับ 1 [BloodArmor]\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
@@ -1082,7 +1082,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Withdraw Whip\u200B</line-height>",
-          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [ThornNoose]\nIf the target ไม่มี [ThornNoose], ทำ -50% ความเสียหายน้อยลง\u200B</line-height>",
+          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [ThornNoose]\nหากเป้าหมายไม่มี [ThornNoose], ทำ -50% ความเสียหายน้อยลง\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1242,7 +1242,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>The Infinite Parade\u200B</line-height>",
-          "desc": "<line-height=130%>[CantDuel]\nIf the target used a Defense Skill, ทำ -100% ความเสียหายน้อยลง\n[WhenUse] Generate 1 Gondola ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantDuel]\nหากเป้าหมายused a Defense Skill, ทำ -100% ความเสียหายน้อยลง\n[WhenUse] Generate 1 Gondola ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1259,7 +1259,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>The Eternal Festival\u200B</line-height>",
-          "desc": "<line-height=130%>[CantDuel]\nIf the target used a Defense Skill, ทำ -100% ความเสียหายน้อยลง\n[WhenUse] Generate 4 Gondola ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantDuel]\nหากเป้าหมายused a Defense Skill, ทำ -100% ความเสียหายน้อยลง\n[WhenUse] Generate 4 Gondola ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

@@ -333,7 +333,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Punition\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WhenUse] This Skill Slot ได้รับs 2 Aggro ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WhenUse] This Skill Slot ได้รับs 2 Aggro ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -354,7 +354,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Punition\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +2\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WhenUse] This Skill Slot ได้รับs 4 Aggro ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +2\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WhenUse] This Skill Slot ได้รับs 4 Aggro ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -425,7 +425,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Retraite\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[OnSucceedEvade] ได้รับ 1 [Breath] (สูงสุด 5)\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[OnSucceedEvade] ได้รับ 1 [Breath] (สูงสุด 5)\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -433,7 +433,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Retraite\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ Speed difference สูงสุด 3)\n[OnSucceedEvade] ได้รับ 1 [Breath] (สูงสุด 10)\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ Speed difference สูงสุด 3)\n[OnSucceedEvade] ได้รับ 1 [Breath] (สูงสุด 10)\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -635,7 +635,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Knocking\u200B</line-height>",
+          "name": "<line-height=120%>เขกกระบาล\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {},
@@ -650,7 +650,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Knocking\u200B</line-height>",
+          "name": "<line-height=120%>เขกกระบาล\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 7+ [Sinking], แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {},
@@ -665,7 +665,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Knocking\u200B</line-height>",
+          "name": "<line-height=120%>เขกกระบาล\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 5+ [Sinking], แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {},
@@ -768,7 +768,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [EchoOfMansion] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [EchoOfMansion], มอบ Gloom Affinity ความเสียหาย เท่ากับครึ่งหนึ่งของ ความรุนแรง [Sinking] บนเป้าหมาย (สูงสุด 20)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [EchoOfMansion], มอบ Gloom Affinity ความเสียหาย เท่ากับครึ่งหนึ่งของ ปริมาณ [Sinking] ที่เป้าหมายมี (สูงสุด 20)\u200B</line-height>"
                 }
               ]
             }
@@ -788,7 +788,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [EchoOfMansion] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [EchoOfMansion], มอบ Gloom Affinity ความเสียหาย เท่ากับ ความรุนแรง [Sinking] บนเป้าหมาย (สูงสุด 30)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [EchoOfMansion], มอบ Gloom Affinity ความเสียหาย เท่ากับ ปริมาณ [Sinking] ที่เป้าหมายมี (สูงสุด 30)\u200B</line-height>"
                 }
               ]
             }
@@ -897,7 +897,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] 20% chance to ใช้เหรียญซ้ำ อีกครั้ง. +20% more chance to ใช้เหรียญซ้ำ ต่อทุกๆ type of negative effectบนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] 20% chance to ใช้เหรียญซ้ำ อีกครั้ง. +20% more chance to ใช้เหรียญซ้ำ ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Laceration] +1 ขั้น\u200B</line-height>"
@@ -915,7 +915,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] 20% chance to ใช้เหรียญซ้ำ อีกครั้ง. +20% more chance to ใช้เหรียญซ้ำ ต่อทุกๆ type of negative effectบนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] 20% chance to ใช้เหรียญซ้ำ อีกครั้ง. +20% more chance to ใช้เหรียญซ้ำ ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Laceration] +1 ขั้น\nWhen Reusing เหรียญ with ยูนิทนี้'s เหรียญ effects, มอบ +1 more ขั้น [Laceration]\u200B</line-height>"
@@ -933,7 +933,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to ใช้เหรียญซ้ำ ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสด 2 ครั้ง ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] 40% chance to ใช้เหรียญนี้ซ้ำ. +20% more chance to ใช้เหรียญซ้ำ ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี (สูงสด 2 ครั้ง ต่อทุกๆ Skill)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Laceration] +1 ขั้น\nWhen Reusing เหรียญ with ยูนิทนี้'s เหรียญ effects, มอบ +1 more ขั้น [Laceration]\u200B</line-height>"
@@ -950,7 +950,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Artwork Inspection\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 30%)\n[WhenUse] มอบ 1 [Agility] ในเทิร์นหน้า to 2 allies adjacent to ยูนิทนี้บนthe Dashboard\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี (สูงสุด 30%)\n[WhenUse] มอบ 1 [Agility] ในเทิร์นหน้า to 2 allies adjacent to ยูนิทนี้บนthe Dashboard\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -971,7 +971,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Artwork Inspection\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\nทำ +12.5% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 50%)\n[WhenUse] มอบ 1 [Agility] ในเทิร์นหน้า to 2 allies adjacent to ยูนิทนี้บนthe Dashboard\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\nทำ +12.5% ความเสียหายเพิ่มเติม ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี (สูงสุด 50%)\n[WhenUse] มอบ 1 [Agility] ในเทิร์นหน้า to 2 allies adjacent to ยูนิทนี้บนthe Dashboard\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -1599,7 +1599,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ก้าวพริบตา\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 or more, แต้มเหรียญ +1</style>\n[WhenUse] หากเป้าหมายมี 4+ [Burst], แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 หรือมากกว่า, แต้มเหรียญ +1</style>\n[WhenUse] หากเป้าหมายมี 4+ [Burst], แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1670,7 +1670,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>แทงเพื่อสังหาร\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 or more, แต้มเหรียญ +1</style>\n[WhenUse] หากเป้าหมายมี 4+ [Burst], แต้มเหรียญ +1\n[OnDirectAttack] มอบ [Burst] +1 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 หรือมากกว่า, แต้มเหรียญ +1</style>\n[WhenUse] หากเป้าหมายมี 4+ [Burst], แต้มเหรียญ +1\n[OnDirectAttack] มอบ [Burst] +1 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1702,7 +1702,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>บัญชาคำสาป ดาบเฉือนมังสา\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (Speed difference x [Burst] Potencyบนเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\nIfความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 or more, แต้มเหรียญ +1\n[WhenUse] ได้รับ 3 [LegStrength]\n[OnDirectAttack] มอบ [Burst] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (Speed difference x ปริมาณ [Burst] ที่เป้าหมายมี)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 หรือมากกว่า, แต้มเหรียญ +1\n[WhenUse] ได้รับ 3 [LegStrength]\n[OnDirectAttack] มอบ [Burst] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1736,7 +1736,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>บัญชาคำสาป ดาบเฉือนมังสา\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (Speed difference x [Burst] Potencyบนเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n<style=\"highlight\">Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ 3 [LegStrength]\n[OnDirectAttack] มอบ [Burst] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (Speed difference x ปริมาณ [Burst] ที่เป้าหมายมี)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n<style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ 3 [LegStrength]\n[OnDirectAttack] มอบ [Burst] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1778,7 +1778,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Partial Heishou Mutation\u200B</line-height>",
-          "desc": "<line-height=130%>[DuelCounter]\n[WhenUse] ได้รับ 3 [LegStrength]\n[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 or more, แต้มตั้งต้น +1\u200B</line-height>",
+          "desc": "<line-height=130%>[DuelCounter]\n[WhenUse] ได้รับ 3 [LegStrength]\n[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 หรือมากกว่า, แต้มตั้งต้น +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

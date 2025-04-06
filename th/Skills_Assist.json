@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Crimson Strike\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 5+ negative effects, แต้มปะทะ +1\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 3 [Burst]บนเป้าหมาย (สูงสุด 2)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 5+ ผลด้านลบ แต้มปะทะ +1\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 3 [Burst] ที่เป้าหมายมี (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -38,7 +38,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Crimson Phoenix\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 5+ negative effects, แต้มเหรียญ +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Burst]บนเป้าหมาย (สูงสุด 2)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 5+ ผลด้านลบ แต้มเหรียญ +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Burst] ที่เป้าหมายมี (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -63,7 +63,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ [Breath] เท่ากับ [Burst]บนเป้าหมาย (สูงสุด 5)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ [Breath] เท่ากับ [Burst] ที่เป้าหมายมี (สูงสุด 5)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttackHead] ได้รับ [Breath] Count เท่ากับ ขั้น [Burst] บนเป้าหมาย (สูงสุด 2)\u200B</line-height>"
@@ -93,7 +93,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Crimson Spring\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] ได้รับ +1 Atk Weight ต่อทุกๆ 4 negative effectบนเป้าหมาย (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 5+ negative effects, แต้มตั้งต้น +5\n[WhenUse] หาก the sum of the target's [Burst] และ ขั้น [Burst] is at 15+, แต้มเหรียญ +5\n[WinDuel] มอบ [Burst] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] ได้รับ +1 Atk Weight ต่อทุกๆ 4 ผลด้านลบ ที่เป้าหมายมี (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 5+ ผลด้านลบ แต้มตั้งต้น +5\n[WhenUse] หาก the sum of the target's [Burst] และ ขั้น [Burst] is at 15+, แต้มเหรียญ +5\n[WinDuel] มอบ [Burst] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

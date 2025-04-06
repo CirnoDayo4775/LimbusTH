@@ -502,7 +502,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Sweeping Redirection\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -530,7 +530,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Housekeeping\u200B</line-height>",
+          "name": "<line-height=120%>ทำงานบ้าน\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -554,7 +554,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Housekeeping\u200B</line-height>",
+          "name": "<line-height=120%>ทำงานบ้าน\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WinDuel] ได้รับ 2 [Breath]\u200B</line-height>",
           "coinlist": [
             {
@@ -578,8 +578,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Housekeeping\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WinDuel] ได้รับ 2 [Breath]\u200B</line-height>",
+          "name": "<line-height=120%>ทำงานบ้าน\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WinDuel] ได้รับ 2 [Breath]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -610,7 +610,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "<line-height=120%>ยับยั้งing Technique\u200B</line-height>",
+          "name": "<line-height=120%>วิชายับยั้งบุคคล\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ 6 [Breath]\u200B</line-height>",
           "coinlist": [
             {
@@ -644,8 +644,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>ยับยั้งing Technique\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[WhenUse] ได้รับ 6 [Breath]\u200B</line-height>",
+          "name": "<line-height=120%>วิชายับยั้งบุคคล\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[WhenUse] ได้รับ 6 [Breath]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1049,7 +1049,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>เช็ดล้าง\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 30%)</style>\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี (สูงสุด 30%)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1126,7 +1126,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Sharpened Blade\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 50%)</style>\n[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: มอบ 2 [AttackDmgUp] (1 ครั้งต่อเทิร์น)\n- หาก there are 6+ Kurokumo Clan units, รวมยูนิทนี้ด้วย, มอบ 4 [AttackDmgUp] to 5 allies instead\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\nทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี (สูงสุด 50%)</style>\n[StartBattle]บน2 other allied Kurokumo Clan Identities with the fastest Speed: มอบ 2 [AttackDmgUp] (1 ครั้งต่อเทิร์น)\n- หาก there are 6+ Kurokumo Clan units, รวมยูนิทนี้ด้วย, มอบ 4 [AttackDmgUp] to 5 allies instead\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1208,7 +1208,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 100%)</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี (สูงสุด 100%)</style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] บังคับใช้งาน [Laceration] ที่เป้าหมายมี 3 times; then, reduce their ขั้น [Laceration] ไป 3<style=\"highlight\"></style>\u200B</line-height>"

@@ -250,7 +250,7 @@
           "level": 1,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ทำ 5% ความเสียหาย HP to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -268,7 +268,7 @@
           "level": 3,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the least Core HP\n<style=\"highlight\">[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด 1)</style>\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n<style=\"highlight\">[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด 3 ต่อทุกๆ turn)</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the least Core HP\n<style=\"highlight\">[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด 1)</style>\n[BeforeAttack] ทำ 5% ความเสียหาย HP to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n<style=\"highlight\">[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด 3 ต่อทุกๆ turn)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -286,7 +286,7 @@
           "level": 4,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด <style=\"highlight\">2</style>)\n[BeforeAttack] ทำ 5% HP ความเสียหาย to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด <style=\"highlight\">6</style> ต่อทุกๆ turn)\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด <style=\"highlight\">2</style>)\n[BeforeAttack] ทำ 5% ความเสียหาย HP to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด <style=\"highlight\">6</style> ต่อทุกๆ turn)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -312,7 +312,7 @@
           "level": 1,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n[EndSkill] ฟื้นฟู 2 allies with the lowest HP percentages ไป (5 + (sum of ความรุนแรง [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด 15%)\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n[EndSkill] ฟื้นฟู 2 allies with the lowest HP percentages ไป (5 + (sum of ปริมาณ [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด 15%)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -333,7 +333,7 @@
           "level": 3,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n<style=\"highlight\">- หาก the said Reson. was a Gloom Reson., ได้รับ +1 Atk Weight</style>\n[EndSkill] ฟื้นฟู 2 allies with the lowest HP percentages ไป (<style=\"highlight\">10</style> + (sum of ความรุนแรง [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด 15%)\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n<style=\"highlight\">- หาก the said Reson. was a Gloom Reson., ได้รับ +1 Atk Weight</style>\n[EndSkill] ฟื้นฟู 2 allies with the lowest HP percentages ไป (<style=\"highlight\">10</style> + (sum of ปริมาณ [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด 15%)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -357,12 +357,12 @@
           "level": 4,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n- หาก the said Reson. was a Gloom Reson., ได้รับ +1 Atk Weight\n[EndSkill] ฟื้นฟู 2 allies with the lowest HP percentages ไป (10 + (sum of ความรุนแรง [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด <style=\"highlight\">20</style>%)\n<style=\"highlight\">- หาก the highest Reson. was a 4+ Gloom Reson., ฟื้นฟู 10% more of the max HP</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ highest Reson., ได้รับ +1 Atk Weight\n- หาก the said Reson. was a Gloom Reson., ได้รับ +1 Atk Weight\n[EndSkill] ฟื้นฟู 2 allies with the lowest HP percentages ไป (10 + (sum of ปริมาณ [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด <style=\"highlight\">20</style>%)\n<style=\"highlight\">- หาก the highest Reson. was a 4+ Gloom Reson., ฟื้นฟู 10% more of the max HP</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">+3</style> [Sinking] Count\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">+3</style> ขั้น [Sinking]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">2</style> [Curse]\u200B</line-height>"
@@ -386,7 +386,7 @@
           "level": 1,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (5 + (sum of ความรุนแรง [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด 10%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟูเพิ่มเติมอีก 1 ally\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (5 + (sum of ปริมาณ [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด 10%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟูเพิ่มเติมอีก 1 ally\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -410,7 +410,7 @@
           "level": 3,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (<style=\"highlight\">10</style> + (sum of ความรุนแรง [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด <style=\"highlight\">15</style>%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟูเพิ่มเติมอีก 1 ally\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (<style=\"highlight\">10</style> + (sum of ปริมาณ [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด <style=\"highlight\">15</style>%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟูเพิ่มเติมอีก 1 ally\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -437,12 +437,12 @@
           "level": 4,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (10 + (sum of ความรุนแรง [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด 15%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟูเพิ่มเติมอีก 1 ally\n<style=\"highlight\">- หาก the said Reson. was a Gloom Reson., ฟื้นฟู an additional 5% HP</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (10 + (sum of ปริมาณ [Sinking]  และ Countบนthe main target)/3)% HP (สูงสุด 15%)\n- เมื่อมี 4+ highest Reson., ฟื้นฟูเพิ่มเติมอีก 1 ally\n<style=\"highlight\">- หาก the said Reson. was a Gloom Reson., ฟื้นฟู an additional 5% HP</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">+3</style> [Sinking] Count\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">+3</style> ขั้น [Sinking]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\u200B</line-height>"

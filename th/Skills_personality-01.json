@@ -909,13 +909,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Sanguine Pointillism\u200B</line-height>",
+          "name": "<line-height=120%>วิชาผสานจุดสีเลือด\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] 20% chance to ใช้เหรียญซ้ำ อีกครั้ง. +20% more chance to ใช้เหรียญซ้ำ ต่อทุกๆ type of negative effectบนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] 20% chance to ใช้เหรียญซ้ำ อีกครั้ง. +20% more chance to ใช้เหรียญซ้ำ ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Laceration] +1 ขั้น\u200B</line-height>"
@@ -929,13 +929,13 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Sanguine Pointillism\u200B</line-height>",
+          "name": "<line-height=120%>วิชาผสานจุดสีเลือด\u200B</line-height>",
           "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] 20% chance to ใช้เหรียญซ้ำ อีกครั้ง. +20% more chance to ใช้เหรียญซ้ำ ต่อทุกๆ type of negative effectบนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] 20% chance to ใช้เหรียญซ้ำ อีกครั้ง. +20% more chance to ใช้เหรียญซ้ำ ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Laceration] +1 ขั้น\u200B</line-height>"
@@ -949,13 +949,13 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Sanguine Pointillism\u200B</line-height>",
+          "name": "<line-height=120%>วิชาผสานจุดสีเลือด\u200B</line-height>",
           "desc": "<line-height=130%>แต้มปะทะ +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\nแต้มเหรียญ +1 ต่อทุกๆ 3 ขั้น [Laceration] ที่เป้าหมายมี (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to ใช้เหรียญซ้ำ ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสด 2 ครั้ง ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] 40% chance to ใช้เหรียญนี้ซ้ำ. +20% more chance to ใช้เหรียญซ้ำ ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี (สูงสด 2 ครั้ง ต่อทุกๆ Skill)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Laceration] +1 ขั้น\u200B</line-height>"
@@ -981,7 +981,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Laceration] +1 ขั้น. หากเป้าหมายมี 4+ types of negative effects, มอบ +2 additional ขั้น [Laceration]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Laceration] +1 ขั้น. หากเป้าหมายมี 4+ types of ผลด้านลบ มอบ +2 additional ขั้น [Laceration]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ +3 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\u200B</line-height>"
@@ -991,7 +991,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Laceration]. หากเป้าหมายมี 4+ types of negative effects, มอบ 2 additional [Laceration]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Laceration]. หากเป้าหมายมี 4+ types of ผลด้านลบ มอบ 2 additional [Laceration]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 Potency for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\u200B</line-height>"
@@ -1001,7 +1001,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>ทำ +15% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 75%)\u200B</line-height>"
+                  "desc": "<line-height=130%>ทำ +15% ความเสียหายเพิ่มเติม ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี (สูงสุด 75%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[EndSkill] หาก target is Staggered or Defeated, มอบ 2 Potency for 1 of the following effectsบน1 ศัตรูที่มี the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random.\u200B</line-height>"
@@ -1019,7 +1019,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Laceration] +1 ขั้น. หากเป้าหมายมี 3+ types of negative effects, มอบ +2 additional ขั้น [Laceration]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Laceration] +1 ขั้น. หากเป้าหมายมี 3+ types of ผลด้านลบ มอบ +2 additional ขั้น [Laceration]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ +3 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\u200B</line-height>"
@@ -1029,7 +1029,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Laceration]. หากเป้าหมายมี 3+ types of negative effects, มอบ 2 additional [Laceration]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Laceration]. หากเป้าหมายมี 3+ types of ผลด้านลบ มอบ 2 additional [Laceration]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 Potency for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\u200B</line-height>"
@@ -1039,7 +1039,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>ทำ +25% ความเสียหายเพิ่มเติม ต่อทุกๆ type of negative effectบนเป้าหมาย (สูงสุด 125%)\u200B</line-height>"
+                  "desc": "<line-height=130%>ทำ +25% ความเสียหายเพิ่มเติม ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี (สูงสุด 125%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[EndSkill] หาก target is Staggered or Defeated, มอบ 2 Potency for 1 of the following effectsบน2 enemies with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random.\u200B</line-height>"
@@ -1420,7 +1420,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Though it must be prefaced that E.G.O gears are standardized equipment,\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle]บนClash เสีย, ได้รับ แต้มรวม เท่ากับ the number of Skills targeting ยูนิทนี้ (สูงสุด 2)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted ไป this Skill +1\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle]บนClash เสีย, ได้รับ แต้มรวม เท่ากับ the number of Skills targeting ยูนิทนี้ (สูงสุด 2)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] with its effects\n[DefeatDuel] ปริมาณ [Burst] inflicted ไป this Skill +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1447,7 +1447,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Though it must be prefaced that E.G.O gears are standardized equipment,\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle]บนClash เสีย, ได้รับ แต้มรวม เท่ากับ the number of Skills targeting ยูนิทนี้ (สูงสุด 3)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted ไป this Skill +2\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle]บนClash เสีย, ได้รับ แต้มรวม เท่ากับ the number of Skills targeting ยูนิทนี้ (สูงสุด 3)\n[WhenUse] ได้รับ +3 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] with its effects\n[DefeatDuel] ปริมาณ [Burst] inflicted ไป this Skill +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1535,7 +1535,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>the idiosyncrasies of the source may be utilized with greater flexibility\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ +0.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 1% missing HP บนตัวเอง\n[StartBattle] แต้มตั้งต้น +1 ต่อทุกๆ Skill that targets ยูนิทนี้ (สูงสุด 2)\n[WhenUse] ได้รับ 2 [GlowingLantern] (1 ครั้งต่อเทิร์น)\n[WhenUse] ได้รับ +6 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ [Burst] Potency or Count with its effects; แทนที่ด้วย ได้รับ แต้มตั้งต้น +1\n[EndSkill] ฟื้นฟู 30 ค่าสติ\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ +0.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 1% missing HP บนตัวเอง\n[StartBattle] แต้มตั้งต้น +1 ต่อทุกๆ Skill that targets ยูนิทนี้ (สูงสุด 2)\n[WhenUse] ได้รับ 2 [GlowingLantern] (1 ครั้งต่อเทิร์น)\n[WhenUse] ได้รับ +6 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ ปริมาณ [Burst] or Count with its effects; แทนที่ด้วย ได้รับ แต้มตั้งต้น +1\n[EndSkill] ฟื้นฟู 30 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1566,7 +1566,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>the idiosyncrasies of the source may be utilized with greater flexibility\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ +0.8% ความเสียหายเพิ่มเติม ต่อทุกๆ 1% missing HP บนตัวเอง\n[StartBattle] แต้มตั้งต้น +1 ต่อทุกๆ Skill that targets ยูนิทนี้ (สูงสุด 3)\n[WhenUse] ได้รับ 3 [GlowingLantern] (1 ครั้งต่อเทิร์น)\n[WhenUse] ได้รับ +8 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ [Burst] Potency or Count with its effects; แทนที่ด้วย ได้รับ แต้มตั้งต้น +1\n[EndSkill] ฟื้นฟู 30 ค่าสติ\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ +0.8% ความเสียหายเพิ่มเติม ต่อทุกๆ 1% missing HP บนตัวเอง\n[StartBattle] แต้มตั้งต้น +1 ต่อทุกๆ Skill that targets ยูนิทนี้ (สูงสุด 3)\n[WhenUse] ได้รับ 3 [GlowingLantern] (1 ครั้งต่อเทิร์น)\n[WhenUse] ได้รับ +8 [Aggro] ในเทิร์นหน้า\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ ปริมาณ [Burst] or Count with its effects; แทนที่ด้วย ได้รับ แต้มตั้งต้น +1\n[EndSkill] ฟื้นฟู 30 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Don't Make That Face\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 3+ [Sinking] Count, แต้มปะทะ +1\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 3+ ขั้น [Sinking], แต้มปะทะ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -51,7 +51,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Who Might You Be?\u200B</line-height>",
-          "desc": "<line-height=130%>Prioritizes [UninvitedGuest]\nหากเป้าหมายมี [UninvitedGuest], มอบ +1 more ความรุนแรง [Sinking]  และ Count ด้วยสกิลนี้\u200B</line-height>",
+          "desc": "<line-height=130%>Prioritizes [UninvitedGuest]\nหากเป้าหมายมี [UninvitedGuest], มอบ +1 more ปริมาณ [Sinking]  และ Count ด้วยสกิลนี้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -94,7 +94,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Interloper, Are You?\u200B</line-height>",
-          "desc": "<line-height=130%>Prioritizes [UninvitedGuest]\nหากเป้าหมายมี [UninvitedGuest], มอบ +1 more ความรุนแรง [Sinking]  และ Count ด้วยสกิลนี้\u200B</line-height>",
+          "desc": "<line-height=130%>Prioritizes [UninvitedGuest]\nหากเป้าหมายมี [UninvitedGuest], มอบ +1 more ปริมาณ [Sinking]  และ Count ด้วยสกิลนี้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -447,7 +447,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Strangling Despair\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 6 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[WinDuel] มอบ [Sinking] +3 ขั้น\n[DefeatDuel] Reduce [Sinking] Count ไป 1\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 6 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[WinDuel] มอบ [Sinking] +3 ขั้น\n[DefeatDuel] Reduce ขั้น [Sinking] ไป 1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -480,7 +480,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Chainbreaker\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายมี [Binding], แต้มปะทะ +1\n[WinDuel] มอบ [Sinking] +4 ขั้น\n[DefeatDuel] Reduce ความรุนแรง [Sinking]  ไป 2\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี [Binding], แต้มปะทะ +1\n[WinDuel] มอบ [Sinking] +4 ขั้น\n[DefeatDuel] Reduce ปริมาณ [Sinking]  ไป 2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -519,8 +519,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Chains of [Binding]ing\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มเหรียญ + ต่อทุกๆ 6 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[DefeatDuel] Reduce [Sinking] Count ไป 2\n[DefeatDuel] มอบ [BandageOfTheBoundKing]\u200B</line-height>",
+          "name": "<line-height=120%>Chains of  [Binding]\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มเหรียญ + ต่อทุกๆ 6 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[DefeatDuel] Reduce ขั้น [Sinking] ไป 2\n[DefeatDuel] มอบ [BandageOfTheBoundKing]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -546,7 +546,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Thou Wilt Sink\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายมี [Binding], แต้มปะทะ +1\n[WinDuel] มอบ [Sinking] +2 ขั้น\n[DefeatDuel] Reduce ความรุนแรง [Sinking]  ไป 4\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี [Binding], แต้มปะทะ +1\n[WinDuel] มอบ [Sinking] +2 ขั้น\n[DefeatDuel] Reduce ปริมาณ [Sinking]  ไป 4\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

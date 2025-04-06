@@ -233,7 +233,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Remise\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 or more, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 หรือมากกว่า, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -281,7 +281,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Engagement\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 or more, แต้มเหรียญ +1\n[WinDuel] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 หรือมากกว่า, แต้มเหรียญ +1\n[WinDuel] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -303,7 +303,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Engagement\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว (สูงสุด 2)\n[WinDuel] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว (สูงสุด 2)\n[WinDuel] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -330,7 +330,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Contre Attaque\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 or more, แต้มเหรียญ +1\n[WinDuel] จ่าย 10 [Breath] Count. ได้รับ [Breath] เท่ากับ [Breath] Count ที่จ่ายไป.\n[WinDuel] หาก ยูนิทนี้ conducted a [OneOnOneDuel] with the target Slot's Attack Skill, มอบ 1 [Vulnerable]บนHit (2 ครั้ง ต่อทุกๆ turn)\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 หรือมากกว่า, แต้มเหรียญ +1\n[WinDuel] จ่าย 10 [Breath] Count. ได้รับ [Breath] เท่ากับ [Breath] Count ที่จ่ายไป.\n[WinDuel] หาก ยูนิทนี้ conducted a [OneOnOneDuel] with the target Slot's Attack Skill, มอบ 1 [Vulnerable]บนHit (2 ครั้ง ต่อทุกๆ turn)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -352,7 +352,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Contre Attaque\u200B</line-height>",
-          "desc": "<line-height=130%>Ifความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว (สูงสุด 3)\n[WinDuel] จ่าย 10 [Breath] Count. ได้รับ [Breath] เท่ากับ [Breath] Count ที่จ่ายไป. Aได้รับst targets with [DuelDeclaration_Sinclair], ได้รับ [Breath] เท่ากับ ([Breath] Count ที่จ่ายไป x 2) instead\n[WinDuel] หาก ยูนิทนี้ conducted a [OneOnOneDuel] with the target Slot's Attack Skill, มอบ 1 [Vulnerable]บนHit (2 ครั้ง ต่อทุกๆ turn)\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว (สูงสุด 3)\n[WinDuel] จ่าย 10 [Breath] Count. ได้รับ [Breath] เท่ากับ [Breath] Count ที่จ่ายไป. กับเป้าหมายที่มี [DuelDeclaration_Sinclair], ได้รับ [Breath] เท่ากับ ([Breath] Count ที่จ่ายไป x 2) instead\n[WinDuel] หาก ยูนิทนี้ conducted a [OneOnOneDuel] with the target Slot's Attack Skill, มอบ 1 [Vulnerable]บนHit (2 ครั้ง ต่อทุกๆ turn)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -421,7 +421,7 @@
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญซ้ำ (once ต่อทุกๆ Skill)\u200B</line-height>",
-                  "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin"
+                  "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญนี้ซ้ำ"
                 }
               ]
             }
@@ -439,7 +439,7 @@
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญซ้ำ (once ต่อทุกๆ Skill)\u200B</line-height>",
-                  "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin"
+                  "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญนี้ซ้ำ"
                 }
               ]
             }
@@ -969,7 +969,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Courier Trunk - Decay Hammer\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSackSinclair]บนself or ต่อทุกๆ 6 [Burst]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSackSinclair]บนself or ต่อทุกๆ 6 [Burst] ที่เป้าหมายมี (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1051,7 +1051,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Courier Trunk - Demolition Gadget\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSackSinclair]บนself or ต่อทุกๆ 6 [Burst]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ [Burst] or ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)\n[WhenUse] เมื่อมี 30- [DevyatDimensionalSackSinclair], ได้รับ 1 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSackSinclair]บนself or ต่อทุกๆ 6 [Burst] ที่เป้าหมายมี (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ [Burst] or ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย it inflicts 2 [DefenseDown] (once ต่อทุกๆ Coin)\n[WhenUse] เมื่อมี 30- [DevyatDimensionalSackSinclair], ได้รับ 1 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1112,7 +1112,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Poludnitsa... I trust you!\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSackSinclair]บนself or ต่อทุกๆ 6 [Burst]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ [Burst] or ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย the final เหรียญ ได้รับs +4 เหรียญ Power\n[WhenUse] หากเป้าหมายมี 15+ [Burst], ทำ +4% ความเสียหายเพิ่มเติม ต่อทุกๆ [DevyatDimensionalSackSinclair] (สูงสุด 120%)\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSackSinclair]บนself or ต่อทุกๆ 6 [Burst] ที่เป้าหมายมี (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ [Burst] or ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย the final เหรียญ ได้รับs +4 เหรียญ Power\n[WhenUse] หากเป้าหมายมี 15+ [Burst], ทำ +4% ความเสียหายเพิ่มเติม ต่อทุกๆ [DevyatDimensionalSackSinclair] (สูงสุด 120%)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
