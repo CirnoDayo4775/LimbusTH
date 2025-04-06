@@ -316,7 +316,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ขดตัว\u200B</line-height>",
-          "desc": "<line-height=119%>If this Skill isบนa slot, head ได้รับs 50 HP โล่ ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>.\nIf the head is broken, ได้รับ 25 HP โล่ ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-พุ่งเข้าใส่stead.</color></link></u>\nSpend 1 [SelfCharge] ต่อทุกๆ amount of HP โล่ lost เท่ากับ the HP โล่ ได้รับed ต่อทุกๆ [SelfCharge]\u200B</line-height>",
+          "desc": "<line-height=119%>If this Skill isบนa slot, head ได้รับs 50 HP โล่ ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>.\nIf the head is broken, ได้รับ 25 HP โล่ ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-พุ่งเข้าใส่stead.</color></link></u>\nSpend 1 [SelfCharge] ต่อทุกๆ amount ของHP  โล่ lost เท่ากับ the HP โล่ ได้รับed ต่อทุกๆ [SelfCharge]\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -990,7 +990,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] ทำ +5% ความเสียหาย ต่อทุกๆ 5 ขั้น [Burst] บนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] ทำ +5% ความเสียหาย ต่อทุกๆ 5 ขั้น [Burst] ที่เป้าหมายมี\u200B</line-height>"
                 }
               ]
             }
@@ -1106,7 +1106,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Rip Space\u200B</line-height>",
-          "desc": "<line-height=119%>เมื่อมี  [Charge] 10+ ขั้น,จ่าย [Charge] 10 ขั้น และ ได้รับ แต้มปะทะ +5 และ ทำ +100% ความเสียหาย\nเมื่อมี 10-ขั้น [Charge] ,จ่าย 100 Core HP และ ทำ +80% ความเสียหาย\nThis skill does not reduce the unit's HP to 0.\u200B</line-height>",
+          "desc": "<line-height=119%>เมื่อมี [Charge] 10+ ขั้น,จ่าย [Charge] 10 ขั้น และ ได้รับ แต้มปะทะ +5 และ ทำ +100% ความเสียหาย\nเมื่อมี 10-ขั้น [Charge] ,จ่าย 100 Core HP และ ทำ +80% ความเสียหาย\nThis skill does not reduce the unit's HP to 0.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -2062,7 +2062,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Spreading Envy\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse]จ่าย 10[Charge] to ได้รับ +4 เหรียญ Power\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse]จ่าย 10[Charge] เพื่อได้รับ +4 เหรียญ Power\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

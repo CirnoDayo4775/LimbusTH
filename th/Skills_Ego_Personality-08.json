@@ -177,7 +177,7 @@
           "level": 3,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "<line-height=119%>If this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, redirect the excess ฟื้นฟูing to 1 ally with the least HP percentage instead\u200B</line-height>",
+          "desc": "<line-height=119%>If this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, redirect the excess ฟื้นฟูing แก่ 1 พันธมิตร with เปอร์เซนต์ HP น้อยที่สุด แทน\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -211,7 +211,7 @@
           "level": 4,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "<line-height=119%>If this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, redirect the excess ฟื้นฟูing to 1 ally with the least HP percentage instead\u200B</line-height>",
+          "desc": "<line-height=119%>If this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, redirect the excess ฟื้นฟูing แก่ 1 พันธมิตร with เปอร์เซนต์ HP น้อยที่สุด แทน\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -250,7 +250,7 @@
           "level": 1,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "<line-height=119%>[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ทำ 5% ความเสียหาย HP to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\u200B</line-height>",
+          "desc": "<line-height=119%>[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ทำ 5% ความเสียหาย HP to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ ความเสียหายที่ทำได้ to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -268,7 +268,7 @@
           "level": 3,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "<line-height=119%>[CantIdentify]\nTargets the unit with the least Core HP\n<style=\"highlight\">[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด 1)</style>\n[BeforeAttack] ทำ 5% ความเสียหาย HP to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n<style=\"highlight\">[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด 3 ต่อทุกๆ turn)</style>\u200B</line-height>",
+          "desc": "<line-height=119%>[CantIdentify]\nTargets the unit with the least Core HP\n<style=\"highlight\">[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด 1)</style>\n[BeforeAttack] ทำ 5% ความเสียหาย HP to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ ความเสียหายที่ทำได้ to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n<style=\"highlight\">[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด 3 ต่อทุกๆ turn)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -286,7 +286,7 @@
           "level": 4,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "<line-height=119%>[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด <style=\"highlight\">2</style>)\n[BeforeAttack] ทำ 5% ความเสียหาย HP to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ the ความเสียหาย ทำ t to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด <style=\"highlight\">6</style> ต่อทุกๆ turn)\u200B</line-height>",
+          "desc": "<line-height=119%>[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด <style=\"highlight\">2</style>)\n[BeforeAttack] ทำ 5% ความเสียหาย HP to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ ความเสียหายที่ทำได้ to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด <style=\"highlight\">6</style> ต่อทุกๆ turn)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -448,7 +448,7 @@
                   "desc": "<line-height=119%>[OnSucceedAttack] มอบ 2 [Curse]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] <style=\"highlight\">For every 3</style> Gloom Reson., มอบ 1 [AzureTakeDamageUp] <style=\"highlight\">(สูงสุด 2)</style>\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] <style=\"highlight\">Fหรือต่อทุกๆ 3</style> Gloom Reson., มอบ 1 [AzureTakeDamageUp] <style=\"highlight\">(สูงสุด 2)</style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>[OnSucceedAttack] มอบ 2 [UninvitedGuestPersonality]\u200B</line-height>"

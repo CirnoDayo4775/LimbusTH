@@ -80,7 +80,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttackHead] เมื่อมี  [Charge] 10+ ขั้น, ได้รับ 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttackHead] เมื่อมี [Charge] 10+ ขั้น, ได้รับ 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -101,7 +101,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี  [Charge] 10+ ขั้น, ได้รับ 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี [Charge] 10+ ขั้น, ได้รับ 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -122,7 +122,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี  [Charge] 5+ ขั้น, ได้รับ 1 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> ต่อทุกๆ [Charge] 5 ขั้น ในเทิร์นหน้า (สูงสุด 4)\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี [Charge] 5+ ขั้น, ได้รับ 1 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> ต่อทุกๆ [Charge] 5 ขั้น ในเทิร์นหน้า (สูงสุด 4)\u200B</line-height>"
                 }
               ]
             }
@@ -136,7 +136,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Deploy[Charge] Barrier\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] เมื่อมี  [Charge] 10+ ขั้น, จ่ายขั้น [Charge] ทั้งหมดto มอบ (Consumedขั้น [Charge]  / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (Rounded Down) to 2 allies with the lowest HP percentage\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] เมื่อมี [Charge] 10+ ขั้น, จ่ายขั้น [Charge] ทั้งหมดเพื่อมอบ (Consumedขั้น [Charge]  / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (เศษปัดลง) to 2 allies with the lowest HP percentage\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -155,7 +155,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Deploy[Charge] Barrier\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] เมื่อมี  [Charge] 10+ ขั้น, จ่ายขั้น [Charge] ทั้งหมดto มอบ (Consumedขั้น [Charge]  / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (Rounded Down) to 2 allies with the lowest HP percentage\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] เมื่อมี [Charge] 10+ ขั้น, จ่ายขั้น [Charge] ทั้งหมดเพื่อมอบ (Consumedขั้น [Charge]  / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (เศษปัดลง) to 2 allies with the lowest HP percentage\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -1156,7 +1156,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Take the Shot\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Breath] Count\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] ได้รับ +<style=\"highlight\">3</style> ขั้น [Breath]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1226,7 +1226,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Target Marked\u200B</line-height>",
-          "desc": "<line-height=119%>แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the highest Reson. adds 20% chance that ยูนิทนี้ activates [CoveringFire]\n[WhenUse] ได้รับ +<style=\"highlight\">2</style> [Breath] Count\u200B</line-height>",
+          "desc": "<line-height=119%>แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the highest Reson. adds 20% chance that ยูนิทนี้ activates [CoveringFire]\n[WhenUse] ได้รับ +<style=\"highlight\">2</style> ขั้น [Breath]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1260,7 +1260,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Target Marked\u200B</line-height>",
-          "desc": "<line-height=119%>แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the highest Reson. adds 25% chance that ยูนิทนี้ activates [CoveringFire]\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Breath] Count\u200B</line-height>",
+          "desc": "<line-height=119%>แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the highest Reson. adds 25% chance that ยูนิทนี้ activates [CoveringFire]\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> ขั้น [Breath]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1316,7 +1316,7 @@
                   "desc": "<line-height=119%>ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] Raise the target's Stagger Threshold ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เพิ่มขีด Stagger ของเป้าหมาย ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             },
@@ -1329,7 +1329,7 @@
                   "desc": "<line-height=119%>ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] Raise the target's Stagger Threshold ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เพิ่มขีด Stagger ของเป้าหมาย ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             },
@@ -1362,7 +1362,7 @@
                   "desc": "<line-height=119%>ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] Raise the target's Stagger Threshold ไป <style=\"highlight\">15</style>% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เพิ่มขีด Stagger ของเป้าหมาย ไป <style=\"highlight\">15</style>% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             },
@@ -1375,7 +1375,7 @@
                   "desc": "<line-height=119%>ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] Raise the target's Stagger Threshold ไป <style=\"highlight\">15</style>% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เพิ่มขีด Stagger ของเป้าหมาย ไป <style=\"highlight\">15</style>% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             },
@@ -1402,7 +1402,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Combat [Breath]\u200B</line-height>",
-          "desc": "<line-height=119%>Turn Start: at 0 [Bullet], เปิดใช้งาน 'Beyond the Shadow' instead\n[OnSucceedEvade] ได้รับ 1 [Breath] (3 ครั้ง ต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=119%>Turn Start: at 0 [Bullet], เปิดใช้งาน 'Beyond the Shadow' แทน\n[OnSucceedEvade] ได้รับ 1 [Breath] (3 ครั้ง ต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1416,7 +1416,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Combat [Breath]\u200B</line-height>",
-          "desc": "<line-height=119%>Turn Start: at 0 [Bullet], เปิดใช้งาน 'Beyond the Shadow' instead\n[OnSucceedEvade] ได้รับ 1 [Breath] (<style=\"highlight\">5</style> ครั้ง ต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=119%>Turn Start: at 0 [Bullet], เปิดใช้งาน 'Beyond the Shadow' แทน\n[OnSucceedEvade] ได้รับ 1 [Breath] (<style=\"highlight\">5</style> ครั้ง ต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1479,7 +1479,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Combo: Target Marked\u200B</line-height>",
-          "desc": "<line-height=119%>แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Breath] Count\n[DefeatDuel] แต้มรวม +5\u200B</line-height>",
+          "desc": "<line-height=119%>แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> ขั้น [Breath]\n[DefeatDuel] แต้มรวม +5\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1545,7 +1545,7 @@
                   "desc": "<line-height=119%>ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] Raise the target's Stagger Threshold ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เพิ่มขีด Stagger ของเป้าหมาย ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             },
@@ -1558,7 +1558,7 @@
                   "desc": "<line-height=119%>ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] Raise the target's Stagger Threshold ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เพิ่มขีด Stagger ของเป้าหมาย ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             },
@@ -1604,7 +1604,7 @@
                   "desc": "<line-height=119%>ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] Raise the target's Stagger Threshold ไป <style=\"highlight\">15</style>% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เพิ่มขีด Stagger ของเป้าหมาย ไป <style=\"highlight\">15</style>% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             },
@@ -1617,7 +1617,7 @@
                   "desc": "<line-height=119%>ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] Raise the target's Stagger Threshold ไป <style=\"highlight\">15</style>% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เพิ่มขีด Stagger ของเป้าหมาย ไป <style=\"highlight\">15</style>% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             },

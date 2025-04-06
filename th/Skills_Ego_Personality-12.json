@@ -37,7 +37,7 @@
           "level": 4,
           "name": "<line-height=120%>Garden of Thorns\u200B</line-height>",
           "abName": "Sign of Roses",
-          "desc": "<line-height=119%>[BeforeAttack] ได้รับ (# of highest Reson. - 2) Atk Weight (สูงสุด 3)\n[WhenUse] มอบ 1 '(Corresponding Sin Affinity) [AttackDmgUp]' และ '1 (Corresponding Sin Affinity) Power Up' to (4 + # of highest Reson.) allies.\n- เมื่อมี 4+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) [AttackDmgUp]'\n- เมื่อมี 5+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) Power Up'\n- เมื่อมี 6+ Corresponding A-Reson., มอบ the above effects ในเทิร์นหน้าเป็นwell\u200B</line-height>",
+          "desc": "<line-height=119%>[BeforeAttack] ได้รับ (# of highest Reson. - 2) Atk Weight (สูงสุด 3)\n[WhenUse] มอบ 1 '(Corresponding Sin Affinity) [AttackDmgUp]' และ '1 (Corresponding Sin Affinity) Power Up' to (4 + # of highest Reson.) allies.\n- เมื่อมี 4+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) [AttackDmgUp]'\n- เมื่อมี 5+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) Power Up'\n- เมื่อมี 6+ Corresponding A-Reson., มอบ the above effects ในเทิร์นหน้า เช่นกัน\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -101,7 +101,7 @@
                   "desc": "<line-height=119%>[OnSucceedAttack] มอบ 1 [AttackDmgDown]. มอบ 2 [Binding] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ 1 'Fragility' และ 1 'Power Down' for the Sin Affinity with the highest Resonance count\n- เมื่อมี 4+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) Fragility'\n- เมื่อมี 5+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) Power Down'\n- เมื่อมี 6+ Corresponding A-Reson., มอบ the above effects ในเทิร์นหน้าเป็นwell\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ 1 'Fragility' และ 1 'Power Down' for the Sin Affinity with the highest Resonance count\n- เมื่อมี 4+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) Fragility'\n- เมื่อมี 5+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) Power Down'\n- เมื่อมี 6+ Corresponding A-Reson., มอบ the above effects ในเทิร์นหน้า เช่นกัน\u200B</line-height>"
                 }
               ]
             }
@@ -228,7 +228,7 @@
           "level": 1,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "<line-height=119%>When this Skill flips Coins, each เหรียญ flips แก่ศัตรู 1 คน แบบสุ่ม among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects และ all ความเสียหาย ทำ t ไป each เหรียญ are inflicted only aได้รับst the random target the เหรียญ selected.\nWhen inflicting [SinkingWhite] ด้วยสกิลนี้ effects: (Chance to flip Heads)% chance to มอบ The Departed. หาก ยูนิทนี้ did not มอบ The Departed, มอบ The Living instead. (calculates every [SinkingWhite] stack independently)\u200B</line-height>",
+          "desc": "<line-height=119%>When this Skill flips Coins, each เหรียญ flips แก่ศัตรู 1 คน แบบสุ่ม among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects และ all ความเสียหาย ทำ t ไป each เหรียญ are inflicted only aได้รับst the random target the เหรียญ selected.\nเมื่อทำการมอบ [SinkingWhite] ด้วยสกิลนี้ effects: (Chance to flip Heads)% chance เพื่อมอบ The Departed. หาก ยูนิทนี้ did not มอบ The Departed, มอบ The Living instead. (calculates every [SinkingWhite] stack independently)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -253,7 +253,7 @@
                   "desc": "<line-height=119%>[OnSucceedAttack] เสีย 2~6 ค่าสติ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี 0+ SP, ใช้เหรียญนี้อีกครั้ง (สูงสด 5 ครั้ง ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี 0+ ค่าสติ ใช้เหรียญนี้อีกครั้ง (สูงสด 5 ครั้ง ต่อทุกๆ Skill)\u200B</line-height>"
                 }
               ]
             }
@@ -263,7 +263,7 @@
           "level": 3,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "<line-height=119%>When this Skill flips Coins, each เหรียญ flips แก่ศัตรู 1 คน แบบสุ่ม among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects และ all ความเสียหาย ทำ t ไป each เหรียญ are inflicted only aได้รับst the random target the เหรียญ selected.\nWhen inflicting [SinkingWhite] ด้วยสกิลนี้ effects: (Chance to flip Heads)% chance to มอบ The Departed. หาก ยูนิทนี้ did not มอบ The Departed, มอบ The Living instead. (calculates every [SinkingWhite] stack independently)\n<style=\"highlight\">[EndSkill] ฟื้นฟู (# of เหรียญ 3 hits x 2) SP</style>\u200B</line-height>",
+          "desc": "<line-height=119%>When this Skill flips Coins, each เหรียญ flips แก่ศัตรู 1 คน แบบสุ่ม among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects และ all ความเสียหาย ทำ t ไป each เหรียญ are inflicted only aได้รับst the random target the เหรียญ selected.\nเมื่อทำการมอบ [SinkingWhite] ด้วยสกิลนี้ effects: (Chance to flip Heads)% chance เพื่อมอบ The Departed. หาก ยูนิทนี้ did not มอบ The Departed, มอบ The Living instead. (calculates every [SinkingWhite] stack independently)\n<style=\"highlight\">[EndSkill] ฟื้นฟู (# of เหรียญ 3 hits x 2) SP</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -288,7 +288,7 @@
                   "desc": "<line-height=119%>[OnSucceedAttack] เสีย 2~6 SP<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี 0+ SP, ใช้เหรียญนี้อีกครั้ง (สูงสด 5 ครั้ง ต่อทุกๆ Skill)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี 0+ ค่าสติ ใช้เหรียญนี้อีกครั้ง (สูงสด 5 ครั้ง ต่อทุกๆ Skill)<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -298,7 +298,7 @@
           "level": 4,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "<line-height=119%>When this Skill flips Coins, each เหรียญ flips แก่ศัตรู 1 คน แบบสุ่ม among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects และ all ความเสียหาย ทำ t ไป each เหรียญ are inflicted only aได้รับst the random target the เหรียญ selected.\nWhen inflicting [SinkingWhite] ด้วยสกิลนี้ effects: (Chance to flip Heads)% chance to มอบ The Departed. หาก ยูนิทนี้ did not มอบ The Departed, มอบ The Living instead. (calculates every [SinkingWhite] stack independently)\n[EndSkill] ฟื้นฟู <style=\"highlight\">(# of เหรียญ 3 hits x 3)</style> ค่าสติ\u200B</line-height>",
+          "desc": "<line-height=119%>When this Skill flips Coins, each เหรียญ flips แก่ศัตรู 1 คน แบบสุ่ม among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects และ all ความเสียหาย ทำ t ไป each เหรียญ are inflicted only aได้รับst the random target the เหรียญ selected.\nเมื่อทำการมอบ [SinkingWhite] ด้วยสกิลนี้ effects: (Chance to flip Heads)% chance เพื่อมอบ The Departed. หาก ยูนิทนี้ did not มอบ The Departed, มอบ The Living instead. (calculates every [SinkingWhite] stack independently)\n[EndSkill] ฟื้นฟู <style=\"highlight\">(# of เหรียญ 3 hits x 3)</style> ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -323,7 +323,7 @@
                   "desc": "<line-height=119%>[OnSucceedAttack] เสีย 2~6 SP<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี 0+ SP, ใช้เหรียญนี้อีกครั้ง (สูงสด 5 ครั้ง ต่อทุกๆ Skill)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี 0+ ค่าสติ ใช้เหรียญนี้อีกครั้ง (สูงสด 5 ครั้ง ต่อทุกๆ Skill)<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -338,7 +338,7 @@
           "level": 1,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "<line-height=119%>[CantIdentify]\nTargets randomly\nหากเป้าหมายมี ค่าสติต่ำกว่า 0, ทำ ความเสียหายเพิ่มเติ่ม the further their ค่าสติ value is from 0 (+1% ความเสียหายเพิ่มเติม ต่อทุกๆ missing SP, max 45%)\nกับเป้าหมายที่มีout SP: ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 [Sinking]บนเป้าหมาย (สูงสุด 45%)\u200B</line-height>",
+          "desc": "<line-height=119%>[CantIdentify]\nTargets randomly\nหากเป้าหมายมี ค่าสติต่ำกว่า 0, ทำ ความเสียหายเพิ่มเติ่ม the further their ค่าสติ value is from 0 (+1% ความเสียหายเพิ่มเติม ต่อทุกๆ missing ค่าสติ max 45%)\nกับเป้าหมายที่มีout SP: ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 [Sinking]บนเป้าหมาย (สูงสุด 45%)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -356,7 +356,7 @@
           "level": 3,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "<line-height=119%>[CantIdentify]\nTargets randomly\nหากเป้าหมายมี ค่าสติต่ำกว่า 0, ทำ ความเสียหายเพิ่มเติ่ม the further their ค่าสติ value is from 0 (+1% ความเสียหายเพิ่มเติม ต่อทุกๆ missing SP, max 45%)\nกับเป้าหมายที่มีout SP: ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 [Sinking]บนเป้าหมาย (สูงสุด 45%)\n<style=\"highlight\">[EnemyKill] ฟื้นฟู 5 SP</style>\u200B</line-height>",
+          "desc": "<line-height=119%>[CantIdentify]\nTargets randomly\nหากเป้าหมายมี ค่าสติต่ำกว่า 0, ทำ ความเสียหายเพิ่มเติ่ม the further their ค่าสติ value is from 0 (+1% ความเสียหายเพิ่มเติม ต่อทุกๆ missing ค่าสติ max 45%)\nกับเป้าหมายที่มีout SP: ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 [Sinking]บนเป้าหมาย (สูงสุด 45%)\n<style=\"highlight\">[EnemyKill] ฟื้นฟู 5 SP</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -377,7 +377,7 @@
           "level": 4,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "<line-height=119%>[CantIdentify]\nTargets randomly\nหากเป้าหมายมี ค่าสติต่ำกว่า 0, ทำ ความเสียหายเพิ่มเติ่ม the further their ค่าสติ value is from 0 (+1% ความเสียหายเพิ่มเติม ต่อทุกๆ missing SP, max 45%)\nกับเป้าหมายที่มีout SP: ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 [Sinking]บนเป้าหมาย (สูงสุด 45%)\n[EnemyKill] ฟื้นฟู 5 SP<style=\"highlight\"></style>\u200B</line-height>",
+          "desc": "<line-height=119%>[CantIdentify]\nTargets randomly\nหากเป้าหมายมี ค่าสติต่ำกว่า 0, ทำ ความเสียหายเพิ่มเติ่ม the further their ค่าสติ value is from 0 (+1% ความเสียหายเพิ่มเติม ต่อทุกๆ missing ค่าสติ max 45%)\nกับเป้าหมายที่มีout SP: ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ 2 [Sinking]บนเป้าหมาย (สูงสุด 45%)\n[EnemyKill] ฟื้นฟู 5 SP<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

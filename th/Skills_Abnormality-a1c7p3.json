@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>This Unforgivable Sin...\u200B</line-height>",
+          "name": "<line-height=120%>บาปอันมิอาจไม่อภัย...\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] ได้รับ 20 [Laceration] และ [Laceration] +1 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -24,7 +24,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>The Deserved Penance...\u200B</line-height>",
+          "name": "<line-height=120%>ชดใช้กรรมอย่างสาสม\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] ได้รับ 20 [Laceration] และ [Laceration] +1 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -50,8 +50,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Did you think about blood today?\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] ได้รับ 10 [Laceration]\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ฟื้นฟู the Core และ the Part of the ally with the least HP ไป ([BloodDinner] ที่จ่ายไป x 2). (excludes self; rounded down)\u200B</line-height>",
+          "name": "<line-height=120%>วันนี้เจ้าได้คิดถึงเลือดบ้างไหม?\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] ได้รับ 10 [Laceration]\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ฟื้นฟู HP ของแกนกลาง และชิ้นส่วนของพันธมิตรที่มี HP ต่ำที่สุด ไป ([BloodDinner] ที่จ่ายไป x 2) HP. (ไม่รวมตัวเอง; เศษปัดลง)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -76,8 +76,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Are you still thinking about blood?\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] ได้รับ 10 [Laceration]\n[WhenUse] จ่ายสูงสุด 20 [BloodDinner]: ฟื้นฟู self และ the ally(the Core และ the Part) with the least HP ไป ([BloodDinner] ที่จ่ายไป x 2).\n- หาก there are no remaining allies, double the ฟื้นฟูingบนself\u200B</line-height>",
+          "name": "<line-height=120%>เจ้ายังคิดถึงเลือดอยู่อีกไหม?\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] ได้รับ 10 [Laceration]\n[WhenUse] จ่ายสูงสุด 20 [BloodDinner]: ฟื้นฟู HP ของตัวเองและ 1 พันธมิตรที่มี HP ต่ำที่สุด (แกนกลาง และชิ้นส่วน) ไป ([BloodDinner] ที่จ่ายไป x 2) HP.\n- หากไม่มีพันธมิตรเหลืออยู่เลย, ฟื้นฟูตัวเองเพิ่มเป็น 2 เท่า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -88,7 +88,7 @@
                   "desc": "<line-height=119%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี 50%+ HP, บังคับใช้งาน [Laceration] ที่ตัวเองมี. เสีย 1 ขั้น [Laceration] ที่ตัวเองมี\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี 50%+ HP, บังคับใช้ผลของ [Laceration] ที่ตัวเองมีทันที. เสีย 1 ขั้น [Laceration] ที่ตัวเองมี\u200B</line-height>"
                 }
               ]
             },
@@ -98,7 +98,7 @@
                   "desc": "<line-height=119%>[OnSucceedAttack] ได้รับ 3 [WornHeart] และ [BloodyHand]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี 10 [WornHeart], ได้รับ 3 additional [BloodyHand] และ ได้รับ 1 [AttackUp] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี 10 [WornHeart], ได้รับ 3 [BloodyHand] เพิ่มเติม และ ได้รับ 1 [AttackUp] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -111,7 +111,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>More, more blood...!\u200B</line-height>",
+          "name": "<line-height=120%>เลือด ขอเลือดอีก...!\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] จ่ายสูงสุด 50 [BloodDinner] และ ได้รับ 1 [BloodyHand] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] ได้รับ 10 [Laceration]\n[WhenUse] ได้รับ 3 [BloodyHand]\u200B</line-height>",
           "coinlist": [
             {
@@ -130,8 +130,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>How Bountiful...\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป (effect expires after the first เหรียญ attack)\n[DefeatDuel] ได้รับ 1 [Vulnerable] ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>ช่างใจบุญเสียจริง...\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป (ความสามารถนี้จะจบลง หลังเหรียญแรกโจมตีเสร็จ)\n[DefeatDuel] ได้รับ 1 [Vulnerable] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -156,7 +156,7 @@
                   "desc": "<line-height=119%>[OnSucceedAttack] ฟื้นฟู HP เท่ากับ ความเสียหายที่ทำได้ (สูงสุด 30)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] หากสกิลนี้จ่ายครบ 30 [BloodDinner], และ หาก ยูนิทนี้ is at 30+ [BloodyHand_3rd], ใช้เหรียญนี้ใหม่อีกครั้ง\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] หากสกิลนี้จ่ายครบ 30 [BloodDinner], และ หาก ยูนิทนี้มี 30+ [BloodyHand_3rd], ใช้เหรียญนี้ใหม่อีกครั้ง\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner] ด้วยสกิลนี้, ได้รับ 20 [Laceration]\u200B</line-height>"
@@ -172,8 +172,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Sacrifice for the Family\u200B</line-height>",
-          "desc": "<line-height=119%>[StartBattle] เมื่อมี 50%+ HP, บังคับใช้งาน [Laceration] ที่ตัวเองมี (สูงสุด 3 times; reduce [Laceration] Count every time it is activated; ไม่สามารถถูก Stagger ได้from this ความเสียหาย)\n[StartBattle] พันธมิตรทุกคน ฟื้นฟู 5 ค่าสติ (including self)\u200B</line-height>",
+          "name": "<line-height=120%>สละชีพเพื่อครอบครัว\u200B</line-height>",
+          "desc": "<line-height=119%>[StartBattle] เมื่อมี 50%+ HP, บังคับใช้ผลของ [Laceration] ที่ตัวเองมีทันที (สูงสุด 3 ครั้ง ลดขั้น [Laceration] ต่อทุกๆ ครั้งที่ใช้ผลไป ไม่สามารถถูก Stagger ได้จากความเสียหายนี้)\n[StartBattle] พันธมิตรทุกคน ฟื้นฟู 5 ค่าสติ (รวมตัวเอง)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -191,7 +191,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Blood...\u200B</line-height>",
+          "name": "<line-height=120%>เลือด...\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] หากเป้าหมายมี 6+ [Laceration], ทำ +20% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
           "coinlist": [
             {
@@ -217,8 +217,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Expression of Love\u200B</line-height>",
-          "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี the least number of negative effects\n[WhenUse] หากเป้าหมาย ไม่มี any ผลด้านลบ use 'Rough Expression of Love' ในเทิร์นหน้า\n\n[WhenUse] หากเป้าหมายมี more negative effects than [FaintMemory]บนself, use 'A Sad Embrace' ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>วิธีแสดงความรัก\u200B</line-height>",
+          "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี จำนวนผลด้านลบ น้อยที่สุด\n[WhenUse] หากเป้าหมาย ไม่มีผลด้านลบอะไรเลย ใช้ 'แสดงความรักรุนแรง' ในเทิร์นหน้า\n\n[WhenUse] หากเป้าหมายมี ผลด้านลบมากกว่า [FaintMemory] ที่ตัวเองมี, ใช้ 'อ้อมกอดแสนเศร้า' ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -242,8 +242,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>ข่วนing\u200B</line-height>",
-          "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี the least number of negative effects\n[WinDuel] มอบ 3 [AffectionTeddy] ในเทิร์นหน้า\n[DefeatDuel] มอบ 1 [AffectionTeddy] ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>ขีดข่วน\u200B</line-height>",
+          "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี จำนวนผลด้านลบ น้อยที่สุด\n[WinDuel] มอบ 3 [AffectionTeddy] ในเทิร์นหน้า\n[DefeatDuel] มอบ 1 [AffectionTeddy] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -264,8 +264,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Violent ข่วนing\u200B</line-height>",
-          "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี the least number of negative effects\n[WinDuel] มอบ 3 [AffectionTeddy] ในเทิร์นหน้า\n[DefeatDuel] มอบ 1 [AffectionTeddy] ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>ขีดข่วนรุนแรง\u200B</line-height>",
+          "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี จำนวนผลด้านลบ น้อยที่สุด\n[WinDuel] มอบ 3 [AffectionTeddy] ในเทิร์นหน้า\n[DefeatDuel] มอบ 1 [AffectionTeddy] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -290,7 +290,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Timid Expression of Love\u200B</line-height>",
+          "name": "<line-height=120%>พี่หมีขี้อายแสดงความรัก\u200B</line-height>",
           "desc": "<line-height=119%>[DuelCounter]\n[WhenUse] มอบ 2 [Disarming] ในเทิร์นหน้า\n[WhenUse] มอบ 1 [Curse]\u200B</line-height>",
           "coinlist": [
             {
@@ -299,10 +299,10 @@
                   "desc": "<line-height=119%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] หากเป้าหมายมี [AffectionTeddy], จ่าย [AffectionTeddy] และ มอบ [Curse] และ [NailPersonality] เท่ากับ the value of [AffectionTeddy] ที่จ่ายไป (consumes up to 4)\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] หากเป้าหมายมี [AffectionTeddy], จ่าย [AffectionTeddy] และ มอบ [Curse] และ [NailPersonality] เท่ากับ จำนวนของ [AffectionTeddy] ที่จ่ายไป (จ่ายได้สูงสุด 4)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] หากเป้าหมายมี 4+ [Curse], จ่าย 4 [Curse]บนthe target และ มอบ 1 [CursePackage]\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] หากเป้าหมายมี 4+ [Curse], จ่าย 4 [Curse] ที่เป้าหมายมี และ มอบ 1 [CursePackage]\u200B</line-height>"
                 }
               ]
             }
@@ -315,8 +315,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Rough Expression of Love\u200B</line-height>",
-          "desc": "<line-height=119%>[CantChangeTarget]\nTargets the target ยูนิทนี้ Clashed with 'Expression of Love'ในเทิร์นก่อน\u200B</line-height>",
+          "name": "<line-height=120%>แสดงความรักรุนแรง\u200B</line-height>",
+          "desc": "<line-height=119%>[CantChangeTarget]\nจะเล็งเป้าหมายที่ปะทะกับ 'วิธีแสดงความรัก' ในเทิร์นก่อน\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -324,7 +324,7 @@
                   "desc": "<line-height=119%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>หากเป้าหมายไม่มี any ผลด้านลบ ทำ +100% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
+                  "desc": "<line-height=119%>หากเป้าหมายไม่มีผลด้านลบอะไรเลย ทำ +100% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>[OnSucceedAttack] มอบ 3 [Curse]\u200B</line-height>"
@@ -343,8 +343,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>A Sad Embrace\u200B</line-height>",
-          "desc": "<line-height=119%>[CantChangeTarget]\nTargets the target ยูนิทนี้ Clashed with 'Expression of Love'ในเทิร์นก่อน\nFix the ความเสียหาย ทำ t aได้รับst that target to 0\n[StartBattle] ได้รับ 2 [Vulnerable] until ในเทิร์นหน้า\n[EndBattle] Enter Staggered state\u200B</line-height>",
+          "name": "<line-height=120%>อ้อมกอดแสนเศร้า\u200B</line-height>",
+          "desc": "<line-height=119%>[CantChangeTarget]\nจะเล็งเป้าหมายที่ปะทะกับ 'วิธีแสดงความรัก' ในเทิร์นก่อน\nปรับความเสียหาย ที่จะทำแก่เป้าหมายให้เป็น 0\n[StartBattle] ได้รับ 2 [Vulnerable] จนถึงเทิร์นหน้า\n[EndBattle] เข้าสถานา ติด Stagger\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -352,7 +352,7 @@
                   "desc": "<line-height=119%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] Fully ฟื้นฟู the target's ค่าสติ\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] ฟื้นฟู ค่าสติ ของเป้าหมายจนเต็ม\u200B</line-height>"
                 }
               ]
             }
@@ -365,8 +365,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>And Old, Nostalgic Embrace\u200B</line-height>",
-          "desc": "<line-height=119%>[DefeatDuel] ทำ only half ความเสียหาย aได้รับst the enemy ด้วยสกิลนี้\u200B</line-height>",
+          "name": "<line-height=120%>อ้อมกอดอันน่าหวนคิดถึง\u200B</line-height>",
+          "desc": "<line-height=119%>[DefeatDuel] ทำความเสียหายต่อศัตรู เพียงครึ่งเดียว ด้วยสกิลนี้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -384,7 +384,7 @@
                   "desc": "<line-height=119%>[OnSucceedAttack] มอบ 4 [NailPersonality]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] จ่าย all [AffectionTeddy]บนthe target\n- หาก ยูนิทนี้ won the Clash, raise the target's Stagger Threshold ไป ([AffectionTeddy] ที่จ่ายไป x 10)\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] จ่าย [AffectionTeddy] ที่เป้าหมายมีทั้งหมด\n- หาก ยูนิทนี้ชนะการปะทะ, เพิ่มขีด Stagger ของเป้าหมาย ไป ([AffectionTeddy] ที่จ่ายไป x 10)\u200B</line-height>"
                 }
               ]
             }
@@ -416,7 +416,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>เสียบแทงd Desire\u200B</line-height>",
+          "name": "<line-height=120%>ปรารถนาจะเสียบแทง\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
@@ -442,13 +442,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Repressed Desire\u200B</line-height>",
+          "name": "<line-height=120%>กักเก็บตัญหา\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] หากเป้าหมายมี 4+ [Laceration], แต้มตั้งต้น +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[WinDuelAttack] มอบ ขั้น [Laceration] เท่ากับ the ขั้น [Laceration] the target lost during the Clash\u200B</line-height>"
+                  "desc": "<line-height=119%>[WinDuelAttack] มอบ ขั้น [Laceration] เท่ากับ ขั้น [Laceration] ที่เป้าหมายเสียไประหว่างการปะทะ\u200B</line-height>"
                 }
               ]
             },
@@ -491,7 +491,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>บดing\u200B</line-height>",
+          "name": "<line-height=120%>บดเนื้อ\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -520,7 +520,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Crush\u200B</line-height>",
+          "name": "<line-height=120%>ขับชน\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] ได้รับ 5 [Breath]\u200B</line-height>",
           "coinlist": [
             {},
@@ -550,7 +550,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Prideful Crush\u200B</line-height>",
+          "name": "<line-height=120%>ขับชนแล้วหนี\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] เมื่อมี 5+ [Breath], แต้มเหรียญ +2\u200B</line-height>",
           "coinlist": [
             {
@@ -617,7 +617,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%><line-height=120%><size=40>ชก</size></line-height>\u200B</line-height>",
+          "name": "<line-height=120%><line-height=120%>ชก</line-height>\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] จ่ายสูงสุด 20 [BloodDinner]: ได้รับ 1 [BloodArmor] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
@@ -643,8 +643,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Sanguine Joy\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] จ่าย 4 [BloodArmor] เพื่อฟื้นฟู HP 10 SP\n[WhenUse] จ่าย 10 [BloodDinner] to ได้รับ 1 [BloodArmor] และ ฟื้นฟู 10 SP\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 3 [Laceration].\u200B</line-height>",
+          "name": "<line-height=120%>หมัดคลื่นโลหิต\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] จ่าย 4 [BloodArmor] เพื่อฟื้นฟู 10 SP\n[WhenUse] จ่าย 10 [BloodDinner] เพื่อได้รับ 1 [BloodArmor] และ ฟื้นฟู 10 SP\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 3 [Laceration].\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -665,8 +665,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Ecstasy of Blood\u200B</line-height>",
-          "desc": "<line-height=119%>สามารถปะทะกับสกิลนี้ได้ โดยไม่สนความเร็ว\n[StartBattle] หาก there are enemies with [Laceration], บังคับใช้งาน [Laceration]บนall enemies. ศัตรูทุกตัว เสีย 2 ขั้น [Laceration]\n[WhenUse] หาก this effect did not เปิดใช้งาน at Combat Start, ได้รับ 30 [Laceration].\n[WinDuel] จ่ายสูงสุด 40 [BloodDinner]: ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป, ได้รับ 1 [BloodArmor] และ ทำ +25% ความเสียหายเพิ่มเติ่ม (สูงสุด 100%)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 5 [Laceration], และ บังคับใช้งาน [Laceration] นั้นทันที. เสีย 2 ขั้น [Laceration]\n[EndSkill] Ends ในเทิร์นนี้\u200B</line-height>",
+          "name": "<line-height=120%>ประสงค์ต่อโลหิต\u200B</line-height>",
+          "desc": "<line-height=119%>สามารถปะทะกับสกิลนี้ได้ โดยไม่สนความเร็ว\n[StartBattle] หากมีศัตรูในสนามที่มี [Laceration], บังคับใช้ผลของ [Laceration] บนศัตรูทุกคน. ศัตรูทุกตัว เสีย 2 ขั้น [Laceration]\n[WhenUse] หากความสามารถข้างต้น ไม่ได้ออกผล ตอนเริ่มการต่อสู้, ได้รับ 30 [Laceration].\n[WinDuel] จ่ายสูงสุด 40 [BloodDinner]: ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป, ได้รับ 1 [BloodArmor] และ ทำ +25% ความเสียหายเพิ่มเติ่ม (สูงสุด 100%)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 5 [Laceration], และ บังคับใช้ผลของ [Laceration] นั้นทันที. เสีย 2 ขั้น [Laceration]\n[EndSkill] จบเทิร์นนี้ทันที\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -705,7 +705,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ศาสตราโลหิตแห่งดอน กิโฮเต้ ศาสตร์ที่ 4 - ผ่ากายา\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ด้วยสกิลนี้, ทำ +20% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ ขั้นที่เพิ่มขึ้นของ [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] จ่าย 4 [BloodArmor] to ได้รับ 20 HP โล่\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WinDuel] ด้วยสกิลนี้, ทำ +20% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ ขั้นที่เพิ่มขึ้นของ [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] จ่าย 4 [BloodArmor] เพื่อได้รับ 20 HP โล่\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -731,7 +731,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ศาสตราโลหิตแห่งดอน กิโฮเต้ ศาสตร์ที่ 11 - แทงทะลุ\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WinDuel] ด้วยสกิลนี้, ทำ +20% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ ขั้นที่เพิ่มขึ้นของ [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] จ่าย 4 [BloodArmor] to ได้รับ 20 HP โล่\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WinDuel] ด้วยสกิลนี้, ทำ +20% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ ขั้นที่เพิ่มขึ้นของ [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] จ่าย 4 [BloodArmor] เพื่อได้รับ 20 HP โล่\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -750,7 +750,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] บังคับใช้งาน [Laceration] บนเป้าหมาย เท่ากับ จำนวนขั้นของมัน ใช้ขั้น [Laceration] ของเป้าหมาย จนเหลือ 1\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] บังคับใช้ผลของ [Laceration] บนเป้าหมาย เท่ากับ จำนวนขั้นของมัน ใช้ขั้น [Laceration] ของเป้าหมาย จนเหลือ 1\u200B</line-height>"
                 }
               ]
             }
@@ -763,8 +763,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%><line-height=120%><size=40>ศิลป์ผลึกโลหิตแห่งดอนกิโฮเต้ บทที่2 - ผลึกโลหิต</size></line-height>\u200B</line-height>",
-          "desc": "<line-height=119%>สามารถปะทะกับสกิลนี้ได้ โดยไม่สนความเร็ว\n[StartBattle] จ่าย 200 [BloodDinner], ได้รับ 500 HP โล่, 5 [BloodArmor], และ 1 [SwirlingBlood]\n- หาก ยูนิทนี้ มี [BloodDinner] ไม่เพียงพอ, ได้รับ 50 [Laceration], และ บังคับใช้งาน [Laceration] นั้นทันที. เสีย 2 ขั้น [Laceration]. ได้รับ 500 HP โล่ และ 1 [SwirlingBlood] (this ความเสียหาย does not reduce ยูนิทนี้'s HP to 1)\n[WinDuel] ได้รับ 200 HP โล่\n[DefeatDuel] ได้รับ 3 [Vulnerable]ตราบใดที่the โล่ ได้รับed due to this Skill is active\n[DefeatDuel] ทำ -50% ความเสียหายน้อยลง, และ the ความเสียหาย from this Skill does not Stagger the target\n[EndSkill] Ends ในเทิร์นนี้\u200B</line-height>",
+          "name": "<line-height=120%><line-height=120%>ศิลป์ผลึกโลหิตแห่งดอนกิโฮเต้ บทที่2 - ผลึกโลหิต</line-height>\u200B</line-height>",
+          "desc": "<line-height=119%>สามารถปะทะกับสกิลนี้ได้ โดยไม่สนความเร็ว\n[StartBattle] จ่าย 200 [BloodDinner], ได้รับ 500 HP โล่, 5 [BloodArmor], และ 1 [SwirlingBlood]\n- หาก ยูนิทนี้ มี [BloodDinner] ไม่เพียงพอ, ได้รับ 50 [Laceration], และ บังคับใช้ผลของ [Laceration] นั้นทันที. เสีย 2 ขั้น [Laceration]. ได้รับ 500 HP โล่ และ 1 [SwirlingBlood] (ความเสียหายนี้จะไม่ลด HP ของยูนิทนี้ให้ต่ำกว่า 1)\n[WinDuel] ได้รับ 200 HP โล่\n[DefeatDuel] ได้รับ 3 [Vulnerable] ไปเรื่อยๆ ตราบใดที่โล่ที่ได้รับจากสกิลนี้ ยังคงเหลืออยู่\n[DefeatDuel] ทำ -50% ความเสียหายน้อยลง, และ ความเสียหายของสกิลนี้ ไม่สามารถ Stagger เป้าหมายได้\n[EndSkill] จบเทิร์นนี้ทันที\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -807,7 +807,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ศาสตราดัดแปลงแห่งดอน กิโฮเต้: ศิลป์ซานโซที่ 4 - ไล่ล่า\u200B</line-height>",
-          "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] หากเป้าหมาย is the one with [Laceration] มากที่สุด, ได้รับ Atk Weight +2 และ แต้มปะทะ +3\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้งาน [Laceration] นั้นทันที. เสีย 2 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
+          "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] หากเป้าหมาย มี [Laceration] มากที่สุด, ได้รับ Atk Weight +2 และ แต้มปะทะ +3\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้ผลของ [Laceration] นั้นทันที. เสีย 2 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -833,7 +833,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ศาสตราดัดแปลงแห่งดอน กิโฮเต้: ศิลป์ซานโซที่ 3 - ซุ่มประจัน\u200B</line-height>",
-          "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] หากเป้าหมาย is the one with [Laceration] มากที่สุด, ได้รับ Atk Weight +2 และ แต้มปะทะ +3\n[WhenUse] จ่ายสูงสุด 50 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มตั้งต้น +1 ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป (สูงสุด 5)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้งาน [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
+          "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] หากเป้าหมาย มี [Laceration] มากที่สุด, ได้รับ Atk Weight +2 และ แต้มปะทะ +3\n[WhenUse] จ่ายสูงสุด 50 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มตั้งต้น +1 ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป (สูงสุด 5)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้ผลของ [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -865,8 +865,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Variant Don Quixote Style: Sancho Arts 2 - La Sangre\u200B</line-height>",
-          "desc": "<line-height=119%>สามารถปะทะกับสกิลนี้ได้ โดยไม่สนความเร็ว\n[WhenUse] จ่าย 50 [BloodDinner] to มอบ 1 [Paralysis] aได้รับst the target และ self\n[WhenUse] จ่าย 100 [BloodDinner] to ได้รับ แต้มปะทะ +5\n- หากมี [BloodDinner] ไม่เพียงพอ, จ่าย 100 HP from ยูนิทนี้ to ได้รับ แต้มปะทะ +5\n[EndSkill] Ends ในเทิร์นนี้\u200B</line-height>",
+          "name": "<line-height=120%>ศาสตราดัดแปลงแห่งดอน กิโฮเต้: ศิลป์ซานโซที่ 2 - ลา ซานเกร\u200B</line-height>",
+          "desc": "<line-height=119%>สามารถปะทะกับสกิลนี้ได้ โดยไม่สนความเร็ว\n[WhenUse] จ่าย 50 [BloodDinner] เพื่อมอบ 1 [Paralysis] แก่เป้าหมาย และตัวเอง\n[WhenUse] จ่าย 100 [BloodDinner] เพื่อได้รับ แต้มปะทะ +5\n- หากมี [BloodDinner] ไม่เพียงพอ, จ่าย 100 HP จากยูนิทนี้ เพื่อได้รับ แต้มปะทะ +5\n[EndSkill] จบเทิร์นนี้ทันที\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -890,8 +890,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>La Aventura Ha Terminado\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] จ่าย (45 - ค่าสติปัจจุบัน) [BloodDinner] เพื่อฟื้นฟู HP ค่าสติจนถึง 45\n- หากมี [BloodDinner] ไม่เพียงพอ, จ่ายสูงสุด (45 - ค่าสติปัจจุบัน) HP เพื่อฟื้นฟู HP up to 45 ค่าสติ (this ความเสียหาย does not lower ยูนิทนี้'s HP below 1)\n- ได้รับ HP โล่ เท่ากับ the [BloodDinner] ที่เหลืออยู่ (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[DefeatDuel] จ่าย 100 [BloodDinner]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ the ความเสียหาย ทำ t\u200B</line-height>",
+          "name": "<line-height=120%>ลา อเวนทูรา ฮา เทอร์มินาโด\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] จ่าย (45 - ค่าสติปัจจุบัน) [BloodDinner] เพื่อฟื้นฟู HP ค่าสติจนถึง 45\n- หากมี [BloodDinner] ไม่เพียงพอ, จ่ายสูงสุด (45 - ค่าสติปัจจุบัน) HP เพื่อฟื้นฟูค่าสติจนถึง 45 (ความเสียหายนี้จะไม่ลด HP ของยูนิทนี้ให้ต่ำกว่า 1)\n- ได้รับ HP โล่ เท่ากับ [BloodDinner] ที่เหลืออยู่ (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[DefeatDuel] จ่าย 100 [BloodDinner]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่ทำได้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -918,7 +918,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Keeehhhhnnhhh\u200B</line-height>",
+          "name": "<line-height=120%>เคเหะเหะเหะเหะ\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] ได้รับ 3 [DefenseUp]\n[DefeatDuel] ได้รับ 3 [DefenseUp]\u200B</line-height>",
           "coinlist": [
             {
@@ -944,8 +944,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Knnhgh nhhnnh\u200B</line-height>",
-          "desc": "<line-height=119%>[WinDuel] มอบ 1 [Binding] ในเทิร์นหน้า\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 4 [DefenseUp]บนself (สูงสุด 2)\n[WhenUse] ได้รับ 3 [DefenseUp]\u200B</line-height>",
+          "name": "<line-height=120%>เคเหะ เหะเหะ\u200B</line-height>",
+          "desc": "<line-height=119%>[WinDuel] มอบ 1 [Binding] ในเทิร์นหน้า\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 4 [DefenseUp] ที่ตัวเองมี (สูงสุด 2)\n[WhenUse] ได้รับ 3 [DefenseUp]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -977,8 +977,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Knngghh\u200B</line-height>",
-          "desc": "<line-height=119%>[StartBattle] มอบ 3 [DefenseUp] to 1 ally, รวมยูนิทนี้ด้วย, with the least HP percentage\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [DefenseUp]บนself (สูงสุด 4)\u200B</line-height>",
+          "name": "<line-height=120%>เคเหะเหะฤ\u200B</line-height>",
+          "desc": "<line-height=119%>[StartBattle] มอบ 3 [DefenseUp] แก่ 1 พันธมิตรที่มีเปอร์เซนต์ HP น้อยที่สุด รวมยูนิทนี้ด้วย\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [DefenseUp] ที่ตัวเองมี (สูงสุด 4)\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -998,8 +998,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Knnh\u200B</line-height>",
-          "desc": "<line-height=119%>[StartBattle] ได้รับ 2 x ([DefenseUp]บนself) HP โล่ (สูงสุด 20, 2 ครั้ง ต่อเทิร์น)\u200B</line-height>",
+          "name": "<line-height=120%>เคเหะ\u200B</line-height>",
+          "desc": "<line-height=119%>[StartBattle] ได้รับ 2 x ([DefenseUp] ที่ตัวเองมี) HP โล่ (สูงสุด 20, 2 ครั้ง ต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1017,7 +1017,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Spiked Whip\u200B</line-height>",
+          "name": "<line-height=120%>แส้หนามกุหลาบ\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] หากเป้าหมายมี 6+ [Burst], แต้มปะทะ +1\u200B</line-height>",
           "coinlist": [
             {
@@ -1036,20 +1036,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Whip Crack\u200B</line-height>",
+          "name": "<line-height=120%>แส้กระทบ\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] หากเป้าหมายมี less than 5 ขั้น [Burst], มอบ [Burst] +2 ขั้น\n- เมื่อมี 5+ ขั้น [Burst], มอบ 2 [Burst] instead\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] หากเป้าหมายมี [Burst] น้อยกว่า 5 ขั้น , มอบ [Burst] +2 ขั้น\n- เมื่อมี 5+ ขั้น [Burst], มอบ 2 [Burst] แทน\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] หากเป้าหมายมี less than 5 ขั้น [Burst], มอบ [Burst] +2 ขั้น\n- เมื่อมี 5+ ขั้น [Burst], มอบ 2 [Burst] instead\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] หากเป้าหมายมี [Burst] น้อยกว่า 5 ขั้น , มอบ [Burst] +2 ขั้น\n- เมื่อมี 5+ ขั้น [Burst], มอบ 2 [Burst] แทน\u200B</line-height>"
                 }
               ]
             }
@@ -1062,13 +1062,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Strangling Crown of Thorns\u200B</line-height>",
-          "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี the lowest SP\n[WhenUse] หากเป้าหมายมี 0- SP, แต้มปะทะ +3\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 4 [Burst] ที่เป้าหมายมี (สูงสุด 3)\u200B</line-height>",
+          "name": "<line-height=120%>มงกุฏหนามกุหลาบ\u200B</line-height>",
+          "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี ค่าสติ ต่ำที่สุด\n[WhenUse] หากเป้าหมายมี 0- ค่าสติ แต้มปะทะ +3\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 4 [Burst] ที่เป้าหมายมี (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] ทำ 10 ความเสียหายค่าสติ\n- หากเป้าหมายมี 0- SP, ทำ 20 ความเสียหายค่าสติ instead\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] ทำ 10 ความเสียหายค่าสติ\n- หากเป้าหมายมี 0- ค่าสติ ทำ 20 ความเสียหายค่าสติ แทน\u200B</line-height>"
                 }
               ]
             }
@@ -1081,27 +1081,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Withdraw Whip\u200B</line-height>",
+          "name": "<line-height=120%>หวดแส้กลับ\u200B</line-height>",
           "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [ThornNoose]\nหากเป้าหมายไม่มี [ThornNoose], ทำ -50% ความเสียหายน้อยลง\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]หากเป้าหมายมี [ThornNoose], มอบ 2 [Burst]\n- หากเป้าหมายมี 10+ [Burst], มอบ [Burst] +2 ขั้น instead\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]หากเป้าหมายมี [ThornNoose], มอบ 2 [Burst]\n- หากเป้าหมายมี 10+ [Burst], มอบ [Burst] +2 ขั้น แทน\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]หากเป้าหมายมี [ThornNoose], มอบ 2 [Burst]\n- หากเป้าหมายมี 10+ [Burst], มอบ [Burst] +2 ขั้น instead\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]หากเป้าหมายมี [ThornNoose], มอบ 2 [Burst]\n- หากเป้าหมายมี 10+ [Burst], มอบ [Burst] +2 ขั้น แทน\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]หากเป้าหมายมี [ThornNoose], มอบ 2 [Burst]\n- หากเป้าหมายมี 10+ [Burst], มอบ [Burst] +2 ขั้น instead\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]หากเป้าหมายมี [ThornNoose], มอบ 2 [Burst]\n- หากเป้าหมายมี 10+ [Burst], มอบ [Burst] +2 ขั้น แทน\u200B</line-height>"
                 }
               ]
             },
@@ -1124,7 +1124,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Barbed Lasso\u200B</line-height>",
+          "name": "<line-height=120%>แส้หนามพันธนา\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มปะทะ +5\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 4 [Burst] ที่เป้าหมายมี (สูงสุด 2)\n[WhenUse] ได้รับ แต้มตั้งต้น ไป จำนวนเป้าหมายที่มี [ThornNoose]\u200B</line-height>",
           "coinlist": [
             {},
@@ -1139,10 +1139,10 @@
                   "desc": "<line-height=119%>[OnSucceedAttack] มอบ 4 [Burst] และ [Burst] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] หาก target is Staggered or has [ThornNoose], ทำ +30% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] หากเป้าหมาย Stagger หรือ มี [ThornNoose] อยู่, ทำ +30% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[EnemyKill] มอบ (ขั้น [Burst] ที่เป้าหมายมี x 2) [Burst] aได้รับst ศัตรูทุกตัว (สูงสุด 10)\u200B</line-height>"
+                  "desc": "<line-height=119%>[EnemyKill] มอบ (ขั้น [Burst] ที่เป้าหมายมี x 2) [Burst] แก่ศัตรูทุกคน (สูงสุด 10)\u200B</line-height>"
                 }
               ]
             }
@@ -1155,8 +1155,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Whip Wreath\u200B</line-height>",
-          "desc": "<line-height=119%>[StartBattle] ได้รับ (number of enemies with [ThornNoose])% of HPมาเป็นโล่\u200B</line-height>",
+          "name": "<line-height=120%>พวงหรีดหนาม\u200B</line-height>",
+          "desc": "<line-height=119%>[StartBattle] ได้รับ (จำนวนศัตรูที่มี [ThornNoose])% ของHP มาเป็นโล่\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1174,8 +1174,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Snaring Lasso\u200B</line-height>",
-          "desc": "<line-height=119%>[StartBattle] หาก there are 3- enemies with [ThornNoose], มอบ 1 [ThornNoose]\u200B</line-height>",
+          "name": "<line-height=120%>แส้หนามรัดเหยื่อ\u200B</line-height>",
+          "desc": "<line-height=119%>[StartBattle] หากมี 3- ศัตรูที่มี [ThornNoose], มอบ 1 [ThornNoose]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1196,8 +1196,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Thorns\u200B</line-height>",
-          "desc": "<line-height=119%>[CantChangeTarget]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี Barbed Lasso\u200B</line-height>",
+          "name": "<line-height=120%>หนาม\u200B</line-height>",
+          "desc": "<line-height=119%>[CantChangeTarget]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี [ThornNoose]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1215,7 +1215,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Gracefully...\u200B</line-height>",
+          "name": "<line-height=120%>สง่าผ่าเผย...\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
@@ -1241,8 +1241,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>The Infinite Parade\u200B</line-height>",
-          "desc": "<line-height=119%>[CantDuel]\nหากเป้าหมายused a Defense Skill, ทำ -100% ความเสียหายน้อยลง\n[WhenUse] Generate 1 Gondola ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>ขบวนพาเหรดชั่วกาล\u200B</line-height>",
+          "desc": "<line-height=119%>[CantDuel]\nหากเป้าหมายใช้สกิลป้องกัน, ทำ -100% ความเสียหายน้อยลง\n[WhenUse] สร้าง 1 Gondola เข้าสู่สนาม ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1258,8 +1258,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>The Eternal Festival\u200B</line-height>",
-          "desc": "<line-height=119%>[CantDuel]\nหากเป้าหมายused a Defense Skill, ทำ -100% ความเสียหายน้อยลง\n[WhenUse] Generate 4 Gondola ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>เทศกาลนิรันดร\u200B</line-height>",
+          "desc": "<line-height=119%>[CantDuel]\nหากเป้าหมายใช้สกิลป้องกัน, ทำ -100% ความเสียหายน้อยลง\n[WhenUse] สร้าง 4 Gondola เข้าสู่สนาม ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1290,8 +1290,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>LETMEOUT!!!LETMEOUT!!!\u200B</line-height>",
-          "desc": "<line-height=119%>Uses a self-detonating Skill ในเทิร์นหน้า.\u200B</line-height>",
+          "name": "<line-height=120%>ป ล่ อ ย ฉั น!!!ป ล่ อ ย ฉั น!!!\u200B</line-height>",
+          "desc": "<line-height=119%>ใช้สกิลระเบิดตัวตาย ในเทิร์นหน้า.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1307,13 +1307,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>IT'S ABOUT TO BLOW!!!!!\u200B</line-height>",
+          "name": "<line-height=120%>จ ะ   ร ะ เ บิ ด แ ล้ ว!!!!!\u200B</line-height>",
           "desc": "<line-height=119%>[CantDuel]\n[StartBattle] ได้รับ 3 [Vulnerable]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[EndCoin] ทำ 10 Lust ความเสียหาย aได้รับst the target, then expires\u200B</line-height>"
+                  "desc": "<line-height=119%>[EndCoin] ทำ 10 ความเสียหาย Lust แก่เป้าหมาย, จากนั้น ตาย\u200B</line-height>"
                 }
               ]
             }
@@ -1326,13 +1326,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>The Fanfare!\u200B</line-height>",
+          "name": "<line-height=120%>เสียงเทศกาลนี่!\u200B</line-height>",
           "desc": "<line-height=119%>[CantDuel]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[EndCoin] ทำ 10 Lust ความเสียหาย aได้รับst the target, then dies.\u200B</line-height>"
+                  "desc": "<line-height=119%>[EndCoin] ทำ 10 ความเสียหาย Lust แก่เป้าหมาย, จากนั้น ตาย.\u200B</line-height>"
                 }
               ]
             }
@@ -1345,8 +1345,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Burning Thirst\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [Reได้รับedStrength] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[DefeatDuel] เสีย 3 ค่าสติ\u200B</line-height>",
+          "name": "<line-height=120%>ความกระหายเผาตน\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [RegainedStrength] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[DefeatDuel] เสีย 3 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1371,20 +1371,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Be Impaled\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] จ่ายสูงสุด 40 [BloodDinner]: ได้รับ 1 [Reได้รับedStrength] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n\n[DefeatDuel] เสีย 3 SP\n[DefeatDuel] จ่าย 3 [Reได้รับedStrength]. ได้รับ 3 [DefenseDown] ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>จงถูกเสียบ\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] จ่ายสูงสุด 40 [BloodDinner]: ได้รับ 1 [RegainedStrength] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n\n[DefeatDuel] เสีย 3 SP\n[DefeatDuel] จ่าย 3 [RegainedStrength]. ได้รับ 3 [DefenseDown] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] ทำ Lust ความเสียหาย เท่ากับ 20% of the target's max HP\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] ทำ ความเสียหาย Lust เท่ากับ 20% ของ HPสูงสุด เป้าหมาย\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] ทำ Lust ความเสียหาย เท่ากับ 20% of the target's max HP\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] ทำ ความเสียหาย Lust เท่ากับ 20% ของ HPสูงสุด เป้าหมาย\u200B</line-height>"
                 }
               ]
             }
@@ -1397,8 +1397,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Don Quixote Hardblood Arts 2 - Stake\u200B</line-height>",
-          "desc": "<line-height=119%>Attacks the target with [Laceration] มากที่สุด\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\u200B</line-height>",
+          "name": "<line-height=120%>ศาสตราโลหิตแห่งดอน กิโฮเต้ ศาสตร์ที่ 2 - ฝังหอก\u200B</line-height>",
+          "desc": "<line-height=119%>โจมตีศัครูที่มี [Laceration] มากที่สุด\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1423,7 +1423,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] ทำ Lust ความเสียหาย เท่ากับ (ปริมาณ [Laceration] x Count)\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] ทำ ความเสียหาย Lust เท่ากับ (ปริมาณ [Laceration] x ขั้น [Laceration])\u200B</line-height>"
                 }
               ]
             }
@@ -1436,8 +1436,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Hardblood Wedge\u200B</line-height>",
-          "desc": "<line-height=119%>[StartBattle] ได้รับ Atk Weight +1 ต่อทุกๆ 3 [Reได้รับedStrength]บนself (สูงสุด 2)\n[EndSkill] จ่าย 3 [Reได้รับedStrength]\u200B</line-height>",
+          "name": "<line-height=120%>หอกผลึกโลหิต\u200B</line-height>",
+          "desc": "<line-height=119%>[StartBattle] ได้รับ Atk Weight +1 ต่อทุกๆ 3 [RegainedStrength] ที่ตัวเองมี (สูงสุด 2)\n[EndSkill] จ่าย 3 [RegainedStrength]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1451,7 +1451,7 @@
                   "desc": "<line-height=119%>[WinDuelAttack] มอบ 3 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[DefeatDuelAttack] จ่าย 1 [Reได้รับedStrength]\u200B</line-height>"
+                  "desc": "<line-height=119%>[DefeatDuelAttack] จ่าย 1 [RegainedStrength]\u200B</line-height>"
                 }
               ]
             },
@@ -1467,7 +1467,7 @@
                   "desc": "<line-height=119%>[WinDuelAttack] มอบ 3 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[DefeatDuelAttack] จ่าย 1 [Reได้รับedStrength]\u200B</line-height>"
+                  "desc": "<line-height=119%>[DefeatDuelAttack] จ่าย 1 [RegainedStrength]\u200B</line-height>"
                 }
               ]
             },
@@ -1487,8 +1487,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Desire for Blood\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] จ่ายสูงสุด 40 [BloodDinner]: ได้รับ 1 [Reได้รับedStrength] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\u200B</line-height>",
+          "name": "<line-height=120%>ปรารถนาโลหิต\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] จ่ายสูงสุด 40 [BloodDinner]: ได้รับ 1 [RegainedStrength] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1539,8 +1539,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Moment of Bloodfeast\u200B</line-height>",
-          "desc": "<line-height=119%>[CantIdentify]\n[WhenUse] จ่ายสูงสุด 300 [BloodDinner]: ได้รับ 1 [Reได้รับedStrength] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] หาก ยูนิทนี้ ที่จ่ายไป [BloodDinner], ฟื้นฟู 30 ค่าสติ\u200B</line-height>",
+          "name": "<line-height=120%>เวลาแห่งงานเลี้ยงนองเลือด\u200B</line-height>",
+          "desc": "<line-height=119%>[CantIdentify]\n[WhenUse] จ่ายสูงสุด 300 [BloodDinner]: ได้รับ 1 [RegainedStrength] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] หาก ยูนิทนี้ จ่าย [BloodDinner], ฟื้นฟู 30 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1559,7 +1559,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ศาสตราโลหิตแห่งดอน กิโฮเต้ ศาสตร์ที่ 4 - ผ่ากายา\u200B</line-height>",
-          "desc": "<line-height=119%>ไม่สามารถถูก Stagger ได้until he uses this Skill.\n[WhenUse] จ่ายสูงสุด 100 [BloodDinner]: ได้รับ 1 [Reได้รับedStrength] และ ฟื้นฟู 15 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ [BloodDinner_Accumulation] ไป ยูนิทนี้ (สูงสุด 15)\n[DefeatDuel] ทำ -50% ความเสียหายน้อยลง, และ the ความเสียหาย from this Skill does not Stagger the target.\n[EndSkill] ภายในเทิร์นนี้ และ ในเทิร์นหน้า, ได้รับ [AttackDown] และ [DefenseDown] เท่ากับ the แต้มปะทะ ได้รับed ด้วยสกิลนี้. (สูงสุด 15)\u200B</line-height>",
+          "desc": "<line-height=119%>ไม่สามารถถูก Stagger ได้จนกว่าจะใช้สกิลนี้เสร็จ\n[WhenUse] จ่ายสูงสุด 100 [BloodDinner]: ได้รับ 1 [RegainedStrength] และ ฟื้นฟู 15 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ [BloodDinner_Accumulation] โดยยูนิทนี้ (สูงสุด 15)\n[DefeatDuel] ทำ -50% ความเสียหายน้อยลง, และ ความเสียหายของสกิลนี้ ไม่สามารถ Stagger เป้าหมายได้.\n[EndSkill] ภายในเทิร์นนี้ และ ในเทิร์นหน้า, ได้รับ [AttackDown] และ [DefenseDown] เท่ากับแต้มปะทะ ที่ได้รับด้วยสกิลนี้. (สูงสุด 15)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1570,7 +1570,7 @@
                   "desc": "<line-height=119%>[OnSucceedAttack] มอบ 8 [Laceration]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] จ่าย 2 [Reได้รับedStrength]\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] จ่าย 2 [RegainedStrength]\u200B</line-height>"
                 }
               ]
             }
@@ -1583,8 +1583,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Don Quixote Hardblood Arts 14: Mantle\u200B</line-height>",
-          "desc": "<line-height=119%>[DuelGuard]\n[WinDuel] มอบ 4 [Laceration] และ [Burst]\n[DefeatDuel] จ่าย 2 [Reได้รับedStrength]\u200B</line-height>",
+          "name": "<line-height=120%>ศาสตราโลหิตแห่งดอน กิโฮเต้ ศาสตร์ที่ 14: ห่อหุ้ม\u200B</line-height>",
+          "desc": "<line-height=119%>[DuelGuard]\n[WinDuel] มอบ 4 [Laceration] และ [Burst]\n[DefeatDuel] จ่าย 2 [RegainedStrength]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1602,8 +1602,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Frail, So Frail\u200B</line-height>",
-          "desc": "<line-height=119%>[DuelCounter]\nแต้มตั้งต้น +1 ต่อทุกๆ 10 [Reได้รับedStrength]\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\n[DefeatDuel] เสีย 3 ค่าสติ\u200B</line-height>",
+          "name": "<line-height=120%>บอบบาง ซะเหลือเกิน\u200B</line-height>",
+          "desc": "<line-height=119%>[DuelCounter]\nแต้มตั้งต้น +1 ต่อทุกๆ 10 [RegainedStrength]\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\n[DefeatDuel] เสีย 3 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1628,8 +1628,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Bloody-Merry-Go-Round\u200B</line-height>",
-          "desc": "<line-height=119%>[CantDuel]\n[WhenUse] Generate Coagulated Dream ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>ม้าหมุนโลหิต\u200B</line-height>",
+          "desc": "<line-height=119%>[CantDuel]\n[WhenUse] สร้าง Coagulated Dream เข้าสู่สนาม ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1668,7 +1668,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Be Impaled\u200B</line-height>",
+          "name": "<line-height=120%>จงถูกเสียบ\u200B</line-height>",
           "desc": "<line-height=119%>[DefeatDuel] เสีย 3 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
@@ -1682,10 +1682,10 @@
                   "desc": "<line-height=119%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] The target becomes staggered, then becomes [Penetration] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เป้าหมายถูก Stagger, จากนั้น ติด [Penetration] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[EndCoin] The เป้าหมายเสีย 25 ปริมาณ [Laceration]. ได้รับ [Laceration] และ เพิ่ม [BloodDinner] เท่ากับ that value\u200B</line-height>"
+                  "desc": "<line-height=119%>[EndCoin] เป้าหมายเสีย 25 ปริมาณ [Laceration]. ได้รับ [Laceration] และ เพิ่ม [BloodDinner] เท่ากับปริมาณนั้น\u200B</line-height>"
                 }
               ]
             }
@@ -1698,8 +1698,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Ascendant Don Quixote Hardblood Arts - The Sphere\u200B</line-height>",
-          "desc": "<line-height=119%>ไม่สามารถถูก Stagger ได้until he uses this Skill.\nทำ ความเสียหายเพิ่มเติ่ม เท่ากับ [BloodDinner_Common_Accumulation]. (สูงสุด 300%)\n[WhenUse] ฟื้นฟู 30 SP\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 10 [Reได้รับedStrength]\n[EndSkill] จ่าย all [Reได้รับedStrength]. ได้รับ 5 [Vulnerable] ในเทิร์นนี้ และ ในเทิร์นหน้า. ได้รับ 2 [Binding] ในเทิร์นหน้า.\u200B</line-height>",
+          "name": "<line-height=120%>ศาสตราโลหิตขั้นสูง แห่งดอน กิโฮเต้ - ทรงกลมมรณะ\u200B</line-height>",
+          "desc": "<line-height=119%>ไม่สามารถถูก Stagger ได้จนกว่าจะใช้สกิลนี้เสร็จ\nทำ ความเสียหายเพิ่มเติ่ม เท่ากับ [BloodDinner_Common_Accumulation]. (สูงสุด 300%)\n[WhenUse] ฟื้นฟู 30 SP\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 10 [RegainedStrength]\n[EndSkill] จ่าย RegainedStrength] ทั้งหมด. ได้รับ 5 [Vulnerable] ในเทิร์นนี้ และ ในเทิร์นหน้า. ได้รับ 2 [Binding] ในเทิร์นหน้า.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1724,7 +1724,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Ksssh\u200B</line-height>",
+          "name": "<line-height=120%>เคเหะ\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] มอบ [DuelDeclaration_Camille]\n[WhenUse] ได้รับ 5 [Breath]\n[WinDuel] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -1743,7 +1743,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Hnnnhhhhhh\u200B</line-height>",
+          "name": "<line-height=120%>เหะเหหหหหห\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] ได้รับ 2 [Breath]\u200B</line-height>",
           "coinlist": [
             {
@@ -1775,7 +1775,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Kihh\u200B</line-height>",
+          "name": "<line-height=120%>เคะ\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] เมื่อมี 7+ [Breath], แต้มเหรียญ +2\n[WinDuel] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -1800,7 +1800,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Ksssh\u200B</line-height>",
+          "name": "<line-height=120%>เคเหะ\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1 (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
@@ -1852,8 +1852,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Knnh\u200B</line-height>",
-          "desc": "<line-height=119%>[WinDuel] ทำ ความเสียหายเพิ่มเติ่ม basedบนnumber of Clashes (+10% ความเสียหายเพิ่มเติม ต่อทุกๆ Clash, สูงสุด 50%)\n[WinDuel] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 2 [Binding] ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>เคเหะ\u200B</line-height>",
+          "desc": "<line-height=119%>[WinDuel] ทำ ความเสียหายเพิ่มเติ่มขึ้นอยู่กับจำนวนการปะทะ (+10% ความเสียหายเพิ่มเติม ต่อทุกๆ การปะทะ, สูงสุด 50%)\n[WinDuel] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 2 [Binding] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1871,7 +1871,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Knhhh\u200B</line-height>",
+          "name": "<line-height=120%>เคะเอะ\u200B</line-height>",
           "desc": "<line-height=119%>[OnSucceedEvade] ได้รับ 1 [Agility] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
@@ -1890,7 +1890,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Ascendant Don Quixote Hardblood Arts - La Sangre\u200B</line-height>",
+          "name": "<line-height=120%>ศาสตราโลหิตขั้นสูง แห่งดอน กิโฮเต้ ศาสตร์สุดท้าย - ลา ซานเกร\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1907,8 +1907,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Shining Memories of the Adventure\u200B</line-height>",
-          "desc": "<line-height=119%>[StartBattle] มอบ 1 [ParryingResultUp] และ 1 [AttackDmgUp] to a random Sinner\n[StartBattle] มอบ 1 [Vulnerable] aได้รับst both Don Quixote และ his Coagulated Dream\u200B</line-height>",
+          "name": "<line-height=120%>ความทรงจำประกายฟ้า แห่งการผจญภัยแสนสุขสันต์\u200B</line-height>",
+          "desc": "<line-height=119%>[StartBattle] มอบ 1 [ParryingResultUp] และ 1 [AttackDmgUp] to a random Sinner\n[StartBattle] มอบ 1 [Vulnerable] แก่ดอน กิโฮเต้ ทั้ง 2 คน และ Coagulated Dream ของเขา\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

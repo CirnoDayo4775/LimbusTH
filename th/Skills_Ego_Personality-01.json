@@ -124,7 +124,7 @@
                   "desc": "<line-height=119%>This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target.\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>If the main target is an ally, ทำ +8% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 56%)\u200B</line-height>"
+                  "desc": "<line-height=119%>If the main targetเป็นพันธมิตร, ทำ +8% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 56%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>[AllyKill] มอบ 2 [Breath] to self และ 2 random allies\u200B</line-height>"
@@ -161,7 +161,7 @@
                   "desc": "<line-height=119%>This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target.<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>If the main target is an ally, ทำ <style=\"highlight\">+10%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">70%</style>)\u200B</line-height>"
+                  "desc": "<line-height=119%>If the main targetเป็นพันธมิตร, ทำ <style=\"highlight\">+10%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">70%</style>)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>[AllyKill] มอบ 3 [Breath] to self และ 2 random allies<style=\"highlight\"></style>\u200B</line-height>"
@@ -193,7 +193,7 @@
           "level": 4,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n<style=\"highlight\">- หาก the said Reson. was a Pride Reson., ได้รับ (highest Reson. x 2) [BoseProjektil] instead (สูงสุด 7)</style>\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด 7)\n[EndSkill] เสีย every [BoseProjektil]\u200B</line-height>",
+          "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n<style=\"highlight\">- หาก the said Reson. was a Pride Reson., ได้รับ (highest Reson. x 2) [BoseProjektil] แทน (สูงสุด 7)</style>\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด 7)\n[EndSkill] เสีย every [BoseProjektil]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -201,7 +201,7 @@
                   "desc": "<line-height=119%>This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target.<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>If the main target is an ally, ทำ <style=\"highlight\">+15%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">105%</style>)\u200B</line-height>"
+                  "desc": "<line-height=119%>If the main targetเป็นพันธมิตร, ทำ <style=\"highlight\">+15%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">105%</style>)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>[AllyKill] มอบ 3 [Breath] to self และ 2 random allies<style=\"highlight\"></style>\u200B</line-height>"
@@ -246,10 +246,10 @@
                   "desc": "<line-height=119%>This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target.\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>If the main target is an ally, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 70%)\u200B</line-height>"
+                  "desc": "<line-height=119%>If the main targetเป็นพันธมิตร, ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 70%)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>If the main target is an ally, ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [Breath] ที่ตัวเองมี (สูงสุด 50%)\u200B</line-height>"
+                  "desc": "<line-height=119%>If the main targetเป็นพันธมิตร, ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [Breath] ที่ตัวเองมี (สูงสุด 50%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>[AllyKill] มอบ 2 [Breath] to self และ 3 random allies\u200B</line-height>"
@@ -292,10 +292,10 @@
                   "desc": "<line-height=119%>This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target.<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>If the main target is an ally, ทำ <style=\"highlight\">+12%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">84%</style>)\u200B</line-height>"
+                  "desc": "<line-height=119%>If the main targetเป็นพันธมิตร, ทำ <style=\"highlight\">+12%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">84%</style>)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>If the main target is an ally, ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [Breath] ที่ตัวเองมี (สูงสุด 50%)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=119%>If the main targetเป็นพันธมิตร, ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [Breath] ที่ตัวเองมี (สูงสุด 50%)<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>[AllyKill] มอบ 3 [Breath] to self และ <style=\"highlight\">3</style> random allies\u200B</line-height>"
@@ -330,7 +330,7 @@
           "level": 4,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "<line-height=119%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n<style=\"highlight\">- หาก the said Reson. was a Pride Reson., ได้รับ (highest Reson. x 2) [BoseProjektil] instead (สูงสุด 7)</style>\n[BeforeAttack] ทำ <style=\"highlight\">+4%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 28%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด 7)\n[EndSkill] เสีย every [BoseProjektil]\u200B</line-height>",
+          "desc": "<line-height=119%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n<style=\"highlight\">- หาก the said Reson. was a Pride Reson., ได้รับ (highest Reson. x 2) [BoseProjektil] แทน (สูงสุด 7)</style>\n[BeforeAttack] ทำ <style=\"highlight\">+4%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 28%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด 7)\n[EndSkill] เสีย every [BoseProjektil]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -338,10 +338,10 @@
                   "desc": "<line-height=119%>This เหรียญ ทำ s ความเสียหาย only aได้รับst the main target.<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>If the main target is an ally, ทำ +15% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 105%)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=119%>If the main targetเป็นพันธมิตร, ทำ +15% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 105%)<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>If the main target is an ally, ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [Breath] ที่ตัวเองมี (สูงสุด 50%)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=119%>If the main targetเป็นพันธมิตร, ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [Breath] ที่ตัวเองมี (สูงสุด 50%)<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%><style=\"highlight\">+30% ความเสียหายเมื่อติดคริ</style>\u200B</line-height>"

@@ -116,7 +116,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Chains of Loyalty\u200B</line-height>",
-          "desc": "<line-height=119%>[StartBattle] มอบ 1 Envy Power Up to 2 allies adjacent to ยูนิทนี้บนthe Dashboard\nApply 1 Envy DMG Upเป็นwell when selecting Envy affinity Skills from the affected Skill Slots\u200B</line-height>",
+          "desc": "<line-height=119%>[StartBattle] มอบ 1 Envy Power Up to 2 allies adjacent to ยูนิทนี้บนthe Dashboard\nApply 1 Envy DMG Up เช่นกัน when selecting Envy affinity Skills from the affected Skill Slots\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -428,7 +428,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>สละเลือดเนื้อ\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] ได้รับ +3 Aggro to this Skill Slot ในเทิร์นหน้า\n[WhenUse] Until this Skill ends, ยูนิทนี้ ไม่สามารถถูก Stagger ได้from taking ความเสียหาย\n[WinDuel] ได้รับ 5 [Breath]\n[DefeatDuel] After getting hit, use 'เพื่อลากกระดูกออกมังสา' Skill\n[CriticalActivated] ทำ +2% ความเสียหายเพิ่มเติ่มเมื่อติดคริ ต่อทุกๆ ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 50%)\n+15% ความเสียหายเมื่อติดคริ\nทำ +0.5% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ 1% missing HP บนตัวเอง (สูงสุด 25%)\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] ได้รับ +3 Aggro to this Skill Slot ในเทิร์นหน้า\n[WhenUse] Until this Skill ends, ยูนิทนี้ ไม่สามารถถูก Stagger ได้from taking ความเสียหาย\n[WinDuel] ได้รับ 5 [Breath]\n[DefeatDuel] After getting hit, ใช้ 'เพื่อลากกระดูกออกมังสา' Skill\n[CriticalActivated] ทำ +2% ความเสียหายเพิ่มเติ่มเมื่อติดคริ ต่อทุกๆ ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 50%)\n+15% ความเสียหายเมื่อติดคริ\nทำ +0.5% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ 1% missing HP บนตัวเอง (สูงสุด 25%)\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -436,7 +436,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>สละเลือดเนื้อ\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] ได้รับ +3 Aggro to this Skill Slot ในเทิร์นหน้า\n[WhenUse] Until this Skill ends, ยูนิทนี้ ไม่สามารถถูก Stagger ได้from taking ความเสียหาย\n[WinDuel] ได้รับ 5 [Breath]\n[DefeatDuel] After getting hit, use 'เพื่อลากกระดูกออกมังสา' Skill\n[CriticalActivated] ทำ +3% ความเสียหายเพิ่มเติ่มเมื่อติดคริ ต่อทุกๆ ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 75%)\n+30% ความเสียหายเมื่อติดคริ\nทำ +0.5% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ 1% missing HP บนตัวเอง (สูงสุด 25%)\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] ได้รับ +3 Aggro to this Skill Slot ในเทิร์นหน้า\n[WhenUse] Until this Skill ends, ยูนิทนี้ ไม่สามารถถูก Stagger ได้from taking ความเสียหาย\n[WinDuel] ได้รับ 5 [Breath]\n[DefeatDuel] After getting hit, ใช้ 'เพื่อลากกระดูกออกมังสา' Skill\n[CriticalActivated] ทำ +3% ความเสียหายเพิ่มเติ่มเมื่อติดคริ ต่อทุกๆ ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 75%)\n+30% ความเสียหายเมื่อติดคริ\nทำ +0.5% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ 1% missing HP บนตัวเอง (สูงสุด 25%)\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -811,14 +811,14 @@
         {
           "level": 3,
           "name": "<line-height=120%>Scorch Knowledge\u200B</line-height>",
-          "desc": "<line-height=119%>ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ [KnowledgeExplored]บนself (สูงสุด 18%)\n[WhenUse] หากเป้าหมายมี 6+ [Sinking], แต้มเหรียญ +1\n[BeforeAttack] จ่าย all [KnowledgeTraining]บนself และ ได้รับครึ่งหนึ่งของ that valueเป็นadditional [KnowledgeExplored] (rounded down)\n[EndSkill] เมื่อมี 4+ [KnowledgeExplored], reset value to 1 (if this Skill defeats an enemy, reset value to 3 instead)\u200B</line-height>",
+          "desc": "<line-height=119%>ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ [KnowledgeExplored]บนself (สูงสุด 18%)\n[WhenUse] หากเป้าหมายมี 6+ [Sinking], แต้มเหรียญ +1\n[BeforeAttack] จ่าย all [KnowledgeTraining]บนself และ ได้รับครึ่งหนึ่งของปริมาณนั้นเป็นadditional [KnowledgeExplored] (เศษปัดลง)\n[EndSkill] เมื่อมี 4+ [KnowledgeExplored], reset value to 1 (if this Skill defeats an enemy, reset value to 3 instead)\u200B</line-height>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ ปริมาณ [Sinking] /Count เท่ากับ [KnowledgeExplored] value aได้รับst the target (how much of thเมื่อมี  [Sinking] is Potency or Count is randomly determined)\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ ปริมาณ [Sinking] /Count เท่ากับ [KnowledgeExplored] value แก่เป้าหมาย (how much of thเมื่อมี [Sinking] is Potency or Count is randomly determined)\u200B</line-height>"
                 }
               ]
             }
@@ -834,7 +834,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ ปริมาณ [Sinking] /Count เท่ากับ [KnowledgeExplored] value aได้รับst the target (how much of thเมื่อมี  [Sinking] is Potency or Count is randomly determined)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ ปริมาณ [Sinking] /Count เท่ากับ [KnowledgeExplored] value แก่เป้าหมาย (how much of thเมื่อมี [Sinking] is Potency or Count is randomly determined)<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -880,7 +880,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Allez\u200B</line-height>",
+          "name": "<line-height=120%>อัลเลซ\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -895,7 +895,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Allez\u200B</line-height>",
+          "name": "<line-height=120%>อัลเลซ\u200B</line-height>",
           "desc": "<line-height=119%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 หรือมากกว่า, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ ปริมาณ [Burst] with its effects, but does not จ่าย ขั้น [Burst]บนHit\n[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -916,7 +916,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Allez\u200B</line-height>",
+          "name": "<line-height=120%>อัลเลซ\u200B</line-height>",
           "desc": "<line-height=119%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 3 Speed difference สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ ปริมาณ [Burst] with its effects, but does not จ่าย ขั้น [Burst]บนHit\n[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -945,7 +945,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Fente\u200B</line-height>",
+          "name": "<line-height=120%>เฟนเต้\u200B</line-height>",
           "desc": "<line-height=119%>[WinDuel] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -973,7 +973,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Fente\u200B</line-height>",
+          "name": "<line-height=120%>เฟนเต้\u200B</line-height>",
           "desc": "<line-height=119%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 หรือมากกว่า, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ ปริมาณ [Burst] or Count with its effects, but does not จ่าย ขั้น [Burst]บนHit\n[WinDuel] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -1004,7 +1004,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Fente\u200B</line-height>",
+          "name": "<line-height=120%>เฟนเต้\u200B</line-height>",
           "desc": "<line-height=119%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 หรือมากกว่า, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not มอบ ปริมาณ [Burst] or Count with its effects, but does not จ่าย ขั้น [Burst]บนHit\n[WinDuel] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -1043,7 +1043,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "<line-height=120%>Salut\u200B</line-height>",
+          "name": "<line-height=120%>ซาลุท\u200B</line-height>",
           "desc": "<line-height=119%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 หรือมากกว่า, แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not จ่าย ขั้น [Burst]บนHit\n[WinDuel] ได้รับ 5 [Breath]\n- หากเป้าหมายมี [ConcentratedAttackMeursault], ได้รับ 5 additional [Breath]\u200B</line-height>",
           "coinlist": [
             {
@@ -1074,7 +1074,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Salut\u200B</line-height>",
+          "name": "<line-height=120%>ซาลุท\u200B</line-height>",
           "desc": "<line-height=119%><style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 3)</style>\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], this Skill does not จ่าย ขั้น [Burst]บนHit\n[WinDuel] ได้รับ 5 [Breath]\n- หากเป้าหมายมี [ConcentratedAttackMeursault], ได้รับ 5 additional [Breath]\u200B</line-height>",
           "coinlist": [
             {
@@ -1116,7 +1116,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Défensive\u200B</line-height>",
+          "name": "<line-height=120%>ดีเฟนซีฟ\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1130,7 +1130,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Défensive\u200B</line-height>",
+          "name": "<line-height=120%>ดีเฟนซีฟ\u200B</line-height>",
           "desc": "<line-height=119%>[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 หรือมากกว่า, แต้มเหรียญ +2\u200B</line-height>",
           "coinlist": [
             {

@@ -149,7 +149,7 @@
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "<line-height=119%>[BeforeAttack] ได้รับ (Envy Reson. - 2) Atk Weight (สูงสุด 1)\n[BeforeAttack] หาก ยูนิทนี้ has 20+ ขั้น [Charge] ,จ่าย 20 ขั้น [Charge] เพื่อทำ +30% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
+          "desc": "<line-height=119%>[BeforeAttack] ได้รับ (Envy Reson. - 2) Atk Weight (สูงสุด 1)\n[BeforeAttack] หาก ยูนิทนี้มี 20+ ขั้น [Charge] ,จ่าย 20 ขั้น [Charge] เพื่อทำ +30% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -164,7 +164,7 @@
           "level": 3,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "<line-height=119%>[BeforeAttack] ได้รับ (Envy Reson. - 2) Atk Weight (สูงสุด 2)\n[BeforeAttack] ทำ ((Envy Reson. - 3) x 5)% ความเสียหายเพิ่มเติ่ม (สูงสุด 15%)\n[BeforeAttack] หาก ยูนิทนี้ has 20+ ขั้น [Charge] ,จ่าย 20 ขั้น [Charge] เพื่อทำ +35% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
+          "desc": "<line-height=119%>[BeforeAttack] ได้รับ (Envy Reson. - 2) Atk Weight (สูงสุด 2)\n[BeforeAttack] ทำ ((Envy Reson. - 3) x 5)% ความเสียหายเพิ่มเติ่ม (สูงสุด 15%)\n[BeforeAttack] หาก ยูนิทนี้มี 20+ ขั้น [Charge] ,จ่าย 20 ขั้น [Charge] เพื่อทำ +35% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -179,7 +179,7 @@
           "level": 4,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "<line-height=119%>[BeforeAttack] ได้รับ (Envy Reson. - 2) Atk Weight (สูงสุด 3)\n[BeforeAttack] ทำ +((Envy Reson. - 3) x 10)% ความเสียหายเพิ่มเติ่ม (สูงสุด 30%)\n[BeforeAttack] หาก ยูนิทนี้ has 20+ ขั้น [Charge] ,จ่าย 20 ขั้น [Charge] เพื่อทำ +40% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
+          "desc": "<line-height=119%>[BeforeAttack] ได้รับ (Envy Reson. - 2) Atk Weight (สูงสุด 3)\n[BeforeAttack] ทำ +((Envy Reson. - 3) x 10)% ความเสียหายเพิ่มเติ่ม (สูงสุด 30%)\n[BeforeAttack] หาก ยูนิทนี้มี 20+ ขั้น [Charge] ,จ่าย 20 ขั้น [Charge] เพื่อทำ +40% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -249,7 +249,7 @@
           "level": 1,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "<line-height=119%>ยูนิทนี้'s HP does not drop below 1 whileใช้สกิลนี้.\nแต้มปะทะ +1 ต่อทุกๆ 100 [BloodDinner_Accumulation] ไป ยูนิทนี้ (สูงสุด 2)\n[BeforeAttack] เมื่อมี less than 50 [BloodDinner], มอบ 1 [Laceration]with every Hit\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End.\u200B</line-height>",
+          "desc": "<line-height=119%>ยูนิทนี้'s HP จะไม่ลดลงต่ำกว่า 1 whileใช้สกิลนี้.\nแต้มปะทะ +1 ต่อทุกๆ 100 [BloodDinner_Accumulation] โดยยูนิทนี้ (สูงสุด 2)\n[BeforeAttack] เมื่อมี [BloodDinner] ต่ำกว่า 50 , มอบ 1 [Laceration]with every Hit\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -300,7 +300,7 @@
           "level": 3,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "<line-height=119%>ยูนิทนี้'s HP does not drop below 1 whileใช้สกิลนี้.\n<style=\"highlight\">หากเป้าหมายมี 10+ [Laceration], แต้มเหรียญ +1</style>\nแต้มปะทะ +1 ต่อทุกๆ 100 [BloodDinner_Accumulation] ไป ยูนิทนี้ (สูงสุด <style=\"highlight\">3</style>)\n[BeforeAttack] เมื่อมี less than <style=\"highlight\">75</style> [BloodDinner], มอบ 1 [Laceration]with every Hit\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End.\u200B</line-height>",
+          "desc": "<line-height=119%>ยูนิทนี้'s HP จะไม่ลดลงต่ำกว่า 1 whileใช้สกิลนี้.\n<style=\"highlight\">หากเป้าหมายมี 10+ [Laceration], แต้มเหรียญ +1</style>\nแต้มปะทะ +1 ต่อทุกๆ 100 [BloodDinner_Accumulation] โดยยูนิทนี้ (สูงสุด <style=\"highlight\">3</style>)\n[BeforeAttack] เมื่อมี less than <style=\"highlight\">75</style> [BloodDinner], มอบ 1 [Laceration]with every Hit\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -351,7 +351,7 @@
           "level": 4,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "<line-height=119%>ยูนิทนี้'s HP does not drop below 1 whileใช้สกิลนี้.\n<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 10 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</style>\nแต้มปะทะ +1 ต่อทุกๆ 100 [BloodDinner_Accumulation] ไป ยูนิทนี้ (สูงสุด <style=\"highlight\">5</style>)\n[BeforeAttack] เมื่อมี less than <style=\"highlight\">100</style> [BloodDinner], มอบ 1 [Laceration]with every Hit\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End.\u200B</line-height>",
+          "desc": "<line-height=119%>ยูนิทนี้'s HP จะไม่ลดลงต่ำกว่า 1 whileใช้สกิลนี้.\n<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 10 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</style>\nแต้มปะทะ +1 ต่อทุกๆ 100 [BloodDinner_Accumulation] โดยยูนิทนี้ (สูงสุด <style=\"highlight\">5</style>)\n[BeforeAttack] เมื่อมี less than <style=\"highlight\">100</style> [BloodDinner], มอบ 1 [Laceration]with every Hit\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -407,12 +407,12 @@
           "level": 1,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "<line-height=119%>[CantIdentify]\nTargets randomly\nยูนิทนี้'s HP does not drop below 1 whileใช้สกิลนี้.\nหากเป้าหมายมี 10+ [Laceration], แต้มเหรียญ -1\n[BeforeAttack] เมื่อมี less than 150 [BloodDinner], มอบ 1 [Laceration]with every hit\n[BeforeAttack] ได้รับ 20 [Laceration], และ บังคับใช้งาน [Laceration] ที่ตัวเองมี immediately. เสีย 2 ขั้น [Laceration]\u200B</line-height>",
+          "desc": "<line-height=119%>[CantIdentify]\nTargets randomly\nยูนิทนี้'s HP จะไม่ลดลงต่ำกว่า 1 whileใช้สกิลนี้.\nหากเป้าหมายมี 10+ [Laceration], แต้มเหรียญ -1\n[BeforeAttack] เมื่อมี less than 150 [BloodDinner], มอบ 1 [Laceration]with every hit\n[BeforeAttack] ได้รับ 20 [Laceration], และ บังคับใช้ผลของ [Laceration] ที่ตัวเองมีทันที immediately. เสีย 2 ขั้น [Laceration]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ 1 [Laceration]for every 50 [BloodDinner_Common_Accumulation] (สูงสุด 10)\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ 1 [Laceration]fหรือต่อทุกๆ 50 [BloodDinner_Common_Accumulation] (สูงสุด 10)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี 100- [BloodDinner], มอบ 10 [Laceration]\u200B</line-height>"
@@ -438,12 +438,12 @@
           "level": 3,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "<line-height=119%>[CantIdentify]\nTargets randomly\nยูนิทนี้'s HP does not drop below 1 whileใช้สกิลนี้.\nหากเป้าหมายมี 10+ [Laceration], แต้มเหรียญ -1\n<style=\"highlight\">เมื่อมี 200+ [BloodDinner_Accumulation] ไป ยูนิทนี้, แต้มเหรียญ -1</style>\n[BeforeAttack] เมื่อมี less than 150 [BloodDinner], มอบ 1 [Laceration]with every hit\n[BeforeAttack] ได้รับ 20 [Laceration], และ บังคับใช้งาน [Laceration] ที่ตัวเองมี immediately. เสีย 2 ขั้น [Laceration]\u200B</line-height>",
+          "desc": "<line-height=119%>[CantIdentify]\nTargets randomly\nยูนิทนี้'s HP จะไม่ลดลงต่ำกว่า 1 whileใช้สกิลนี้.\nหากเป้าหมายมี 10+ [Laceration], แต้มเหรียญ -1\n<style=\"highlight\">เมื่อมี 200+ [BloodDinner_Accumulation] โดยยูนิทนี้, แต้มเหรียญ -1</style>\n[BeforeAttack] เมื่อมี less than 150 [BloodDinner], มอบ 1 [Laceration]with every hit\n[BeforeAttack] ได้รับ 20 [Laceration], และ บังคับใช้ผลของ [Laceration] ที่ตัวเองมีทันที immediately. เสีย 2 ขั้น [Laceration]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ 1 [Laceration]for every 50 [BloodDinner_Common_Accumulation] (สูงสุด 10)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ 1 [Laceration]fหรือต่อทุกๆ 50 [BloodDinner_Common_Accumulation] (สูงสุด 10)<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี 100- [BloodDinner], มอบ 10 [Laceration]<style=\"highlight\"></style>\u200B</line-height>"
@@ -469,12 +469,12 @@
           "level": 4,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "<line-height=119%>[CantIdentify]\nTargets randomly\nยูนิทนี้'s HP does not drop below 1 whileใช้สกิลนี้.\nหากเป้าหมายมี 10+ [Laceration], แต้มเหรียญ -1\nเมื่อมี 200+ [BloodDinner_Accumulation] ไป ยูนิทนี้, แต้มเหรียญ -1\n[BeforeAttack] เมื่อมี less than 150 [BloodDinner], มอบ 1 [Laceration]with every hit\n[BeforeAttack] ได้รับ 20 [Laceration], และ บังคับใช้งาน [Laceration] ที่ตัวเองมี immediately. เสีย 2 ขั้น [Laceration]<style=\"highlight\"></style>\u200B</line-height>",
+          "desc": "<line-height=119%>[CantIdentify]\nTargets randomly\nยูนิทนี้'s HP จะไม่ลดลงต่ำกว่า 1 whileใช้สกิลนี้.\nหากเป้าหมายมี 10+ [Laceration], แต้มเหรียญ -1\nเมื่อมี 200+ [BloodDinner_Accumulation] โดยยูนิทนี้, แต้มเหรียญ -1\n[BeforeAttack] เมื่อมี less than 150 [BloodDinner], มอบ 1 [Laceration]with every hit\n[BeforeAttack] ได้รับ 20 [Laceration], และ บังคับใช้ผลของ [Laceration] ที่ตัวเองมีทันที immediately. เสีย 2 ขั้น [Laceration]<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ 1 [Laceration]for every 50 [BloodDinner_Common_Accumulation] (สูงสุด 10)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ 1 [Laceration]fหรือต่อทุกๆ 50 [BloodDinner_Common_Accumulation] (สูงสุด 10)<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>[OnSucceedAttack] เมื่อมี 100- [BloodDinner], มอบ 10 [Laceration]<style=\"highlight\"></style>\u200B</line-height>"

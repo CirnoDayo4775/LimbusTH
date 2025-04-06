@@ -731,7 +731,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 3 ขั้น to มอบ  4 [Binding] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 3 ขั้น เพื่อมอบ  4 [Binding] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -746,7 +746,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 3 ขั้น to มอบ  4 [Binding] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 3 ขั้น เพื่อมอบ  4 [Binding] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -767,7 +767,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 3 ขั้น to มอบ  4 [Binding] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 3 ขั้น เพื่อมอบ  4 [Binding] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -788,7 +788,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 5 ขั้น to มอบ  2 [Reduction] และ 3 [Paralysis] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 5 ขั้น เพื่อมอบ  2 [Reduction] และ 3 [Paralysis] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -797,14 +797,14 @@
         {
           "level": 4,
           "name": "<line-height=120%>Overcharge\u200B</line-height>",
-          "desc": "<line-height=119%>เมื่อมี  [Charge] 5+ ขั้น, แต้มปะทะ +2\u200B</line-height>",
+          "desc": "<line-height=119%>เมื่อมี [Charge] 5+ ขั้น, แต้มปะทะ +2\u200B</line-height>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 5 ขั้น to มอบ  2 [Reduction] และ 3 [Paralysis] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 5 ขั้น เพื่อมอบ  2 [Reduction] และ 3 [Paralysis] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -1146,7 +1146,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>กระชาก\u200B</line-height>",
-          "desc": "<line-height=119%>เมื่อมี  [Charge] 5+ ขั้น, แต้มเหรียญ +2\u200B</line-height>",
+          "desc": "<line-height=119%>เมื่อมี [Charge] 5+ ขั้น, แต้มเหรียญ +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1212,7 +1212,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Leap\u200B</line-height>",
-          "desc": "<line-height=119%>เมื่อมี  [Charge] 7+ ขั้น, แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=119%>เมื่อมี [Charge] 7+ ขั้น, แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1245,7 +1245,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Rip Space\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse]จ่าย [Charge] 10 ขั้น to ได้รับ +4 เหรียญ Power\nเมื่อมี less than [Charge] 10 ขั้น, เสีย 20% HP\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse]จ่าย [Charge] 10 ขั้น เพื่อได้รับ +4 เหรียญ Power\nเมื่อมี less than [Charge] 10 ขั้น, เสีย 20% HP\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -2340,7 +2340,7 @@
                   "desc": "<line-height=119%>[OnSucceedAttack] มอบ  3 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 3 ขั้น to มอบ  2 [SlashTakeDamageUp]\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 3 ขั้น เพื่อมอบ  2 [SlashTakeDamageUp]\u200B</line-height>"
                 }
               ]
             }
@@ -2349,7 +2349,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Energy Cycle\u200B</line-height>",
-          "desc": "<line-height=119%>If เมื่อมี  [Charge] 5+ ขั้น, แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=119%>If เมื่อมี [Charge] 5+ ขั้น, แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -2371,7 +2371,7 @@
                   "desc": "<line-height=119%>[OnSucceedAttack] มอบ  3 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 3 ขั้น to มอบ  2 [SlashTakeDamageUp]\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 3 ขั้น เพื่อมอบ  2 [SlashTakeDamageUp]\u200B</line-height>"
                 }
               ]
             }
@@ -2390,28 +2390,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น เพื่อมอบ  2 [DefenseDown]\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น เพื่อมอบ  2 [DefenseDown]\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น เพื่อมอบ  2 [DefenseDown]\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น เพื่อมอบ  2 [DefenseDown]\u200B</line-height>"
                 }
               ]
             }
@@ -2420,33 +2420,33 @@
         {
           "level": 4,
           "name": "<line-height=120%>Energy Current\u200B</line-height>",
-          "desc": "<line-height=119%>If เมื่อมี  [Charge] 5+ ขั้น, แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=119%>If เมื่อมี [Charge] 5+ ขั้น, แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น เพื่อมอบ  2 [DefenseDown]\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น เพื่อมอบ  2 [DefenseDown]\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น เพื่อมอบ  2 [DefenseDown]\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น to มอบ  2 [DefenseDown]\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack]จ่าย [Charge] 2 ขั้น เพื่อมอบ  2 [DefenseDown]\u200B</line-height>"
                 }
               ]
             }
@@ -2708,7 +2708,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Cloud Cutter\u200B</line-height>",
-          "desc": "<line-height=119%>[BeforeAttack] หากเป้าหมายมี less than 4 [Laceration] Count, use เหรียญ 1 และ 2 an additional time\u200B</line-height>",
+          "desc": "<line-height=119%>[BeforeAttack] หากเป้าหมายมี less than 4 [Laceration] Count, ใช้ เหรียญ 1 และ 2 an additional time\u200B</line-height>",
           "keywords": [],
           "coinlist": [
             {
@@ -2730,7 +2730,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Cloud Cutter\u200B</line-height>",
-          "desc": "<line-height=119%>[BeforeAttack] หากเป้าหมายมี less than 4 [Laceration] Count, use เหรียญ 1 และ 2 an additional time\u200B</line-height>",
+          "desc": "<line-height=119%>[BeforeAttack] หากเป้าหมายมี less than 4 [Laceration] Count, ใช้ เหรียญ 1 และ 2 an additional time\u200B</line-height>",
           "keywords": [],
           "coinlist": [
             {
@@ -2877,7 +2877,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttackHead] หาก target ต่ำกว่า 25% HP, use this เหรียญ an additional time หาก target survives\nHeads: +50% ความเสียหาย for this Coin\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttackHead] หาก target ต่ำกว่า 25% HP, ใช้ this เหรียญ an additional time หาก target survives\nHeads: +50% ความเสียหาย for this Coin\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>[ReUseOnSucceedAttackHead] +50% ความเสียหาย for this Coin\u200B</line-height>"
@@ -2908,7 +2908,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttackHead] หาก target ต่ำกว่า 25% HP, use this เหรียญ an additional time หาก target survives\nHeads: +50% ความเสียหาย for this Coin\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttackHead] หาก target ต่ำกว่า 25% HP, ใช้ this เหรียญ an additional time หาก target survives\nHeads: +50% ความเสียหาย for this Coin\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>[ReUseOnSucceedAttackHead] +50% ความเสียหาย for this Coin\u200B</line-height>"
@@ -2925,7 +2925,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>ฆ่าไม่เลี้ยง\u200B</line-height>",
-          "desc": "<line-height=119%>[EnemyKill] Use this skill 1 more time\u200B</line-height>",
+          "desc": "<line-height=119%>[EnemyKill] ใช้ this skill 1 more time\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -2942,7 +2942,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ฆ่าไม่เลี้ยง\u200B</line-height>",
-          "desc": "<line-height=119%>[EnemyKill] Use this skill 1 more time\u200B</line-height>",
+          "desc": "<line-height=119%>[EnemyKill] ใช้ this skill 1 more time\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3186,7 +3186,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flashing Strike\u200B</line-height>",
-          "desc": "<line-height=119%>เมื่อมี 10+ [Breath] Count, แต้มสกิล +2\nเมื่อมี HP น้อยกว่า 50%  Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=119%>เมื่อมี 10+ ขั้น [Breath], แต้มสกิล +2\nเมื่อมี HP น้อยกว่า 50%  Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3220,7 +3220,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] เสีย 5 HP\nเมื่อมี 3+ [Breath] Count, ความเสียหาย +50%\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] เสีย 5 HP\nเมื่อมี 3+ ขั้น [Breath], ความเสียหาย +50%\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -3655,7 +3655,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Mind Whip\u200B</line-height>",
-          "desc": "<line-height=119%>[StartBattle]จ่าย allขั้น [Charge] \nIf at less than [Charge] 10 ขั้น at Combat Start, target a random unit for an unopposed attack\u200B</line-height>",
+          "desc": "<line-height=119%>[StartBattle]จ่าย allขั้น [Charge] \nIf เมื่อมีต่ำกว่า [Charge] 10 ขั้น at Combat Start, target a random unit for an unopposed attack\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3702,7 +3702,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Mind Whip\u200B</line-height>",
-          "desc": "<line-height=119%>[StartBattle]จ่าย [Charge] 8 ขั้น\nIf at less than [Charge] 8 ขั้น at Combat Start, target a random unit for an unopposed attack\u200B</line-height>",
+          "desc": "<line-height=119%>[StartBattle]จ่าย [Charge] 8 ขั้น\nIf เมื่อมีต่ำกว่า [Charge] 8 ขั้น at Combat Start, target a random unit for an unopposed attack\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3868,7 +3868,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Flashing Strike\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] เมื่อมี HP น้อยกว่า 50%  use เหรียญ 1 และ 2 an additional time\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] เมื่อมี HP น้อยกว่า 50%  ใช้ เหรียญ 1 และ 2 an additional time\u200B</line-height>",
           "keywords": [],
           "coinlist": [
             {
@@ -3890,7 +3890,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flashing Strike\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] เมื่อมี HP น้อยกว่า 50%  use เหรียญ 1 และ 2 an additional time\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] เมื่อมี HP น้อยกว่า 50%  ใช้ เหรียญ 1 และ 2 an additional time\u200B</line-height>",
           "keywords": [],
           "coinlist": [
             {
@@ -3939,7 +3939,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Catch Breath\u200B</line-height>",
-          "desc": "<line-height=119%>เมื่อมี 5+ [Breath] Count, +50% Critical ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=119%>เมื่อมี 5+ ขั้น [Breath], +50% Critical ความเสียหาย\u200B</line-height>",
           "keywords": [],
           "coinlist": [
             {
@@ -3976,7 +3976,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>สวนกลับ\u200B</line-height>",
-          "desc": "<line-height=119%>เมื่อมี 5+ [Breath] Count, +50% Critical ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=119%>เมื่อมี 5+ ขั้น [Breath], +50% Critical ความเสียหาย\u200B</line-height>",
           "keywords": [],
           "coinlist": [
             {
@@ -4901,7 +4901,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Slice then Stab\u200B</line-height>",
-          "desc": "<line-height=119%>If at 3+ [Breath] Count, แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=119%>If at 3+ ขั้น [Breath], แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -4977,7 +4977,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Slash Series\u200B</line-height>",
-          "desc": "<line-height=119%>[DefeatDuel] ได้รับ 2 [Enhancement] ในเทิร์นหน้า\n[WinDuel] Do notจ่าย [Breath] Count with critical attacks landed ด้วยสกิลนี้\u200B</line-height>",
+          "desc": "<line-height=119%>[DefeatDuel] ได้รับ 2 [Enhancement] ในเทิร์นหน้า\n[WinDuel] Do notจ่าย ขั้น [Breath] with critical attacks landed ด้วยสกิลนี้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -5027,7 +5027,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>เพื่อลากกระดูกออกมังสา\u200B</line-height>",
-          "desc": "<line-height=119%>เมื่อมี 10+ [Breath] Count, +150% Critical ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=119%>เมื่อมี 10+ ขั้น [Breath], +150% Critical ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -5404,7 +5404,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Pañata Party\u200B</line-height>",
-          "desc": "<line-height=119%>หากค่าสติของเป้าหมาย ต่ำกว่า 0, boost crit chance proportional แก่เป้าหมาย's SP\nIfผู้ใช้has 5+ [Breath] Count, +30% Critical ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=119%>หากค่าสติของเป้าหมาย ต่ำกว่า 0, boost crit chance proportional แก่เป้าหมาย's SP\nIfผู้ใช้has 5+ ขั้น [Breath], +30% Critical ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -7213,21 +7213,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttackHead] ทำ bonus ความเสียหาย ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติม ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttackHead] ทำ bonus ความเสียหาย ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติม ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttackHead] ทำ bonus ความเสียหาย ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติม ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             }
@@ -7413,7 +7413,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] ทำ bonus ความเสียหายฟัน ไป 15% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] ทำ ความเสียหายเพิ่มเติมฟัน ไป 15% ของความเสียหายที่ทำไป\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>[OnSucceedAttack] มอบ  Weakness Analyzed ในเทิร์นหน้า\u200B</line-height>"
@@ -7438,7 +7438,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] ทำ bonus ความเสียหายฟัน ไป 15% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] ทำ ความเสียหายเพิ่มเติมฟัน ไป 15% ของความเสียหายที่ทำไป\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=119%>[OnSucceedAttack] มอบ  Weakness Analyzed ในเทิร์นหน้า\u200B</line-height>"
@@ -7536,7 +7536,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ  [Combustion] +1 ขั้น; at 30+ SP, มอบ  1 more; at 45+ SP, มอบ  2 more\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ  [Combustion] +1 ขั้น; at 30+ ค่าสติ มอบ  1 more; at 45+ ค่าสติ มอบ  2 more\u200B</line-height>"
                 }
               ]
             }
@@ -7557,7 +7557,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ  [Combustion] +1 ขั้น; at 30+ SP, มอบ  1 more; at 45+ SP, มอบ  2 more\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ  [Combustion] +1 ขั้น; at 30+ ค่าสติ มอบ  1 more; at 45+ ค่าสติ มอบ  2 more\u200B</line-height>"
                 }
               ]
             }
@@ -7937,7 +7937,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>You Fresh Enough?\u200B</line-height>",
-          "desc": "<line-height=119%>If user's Speed เร็วกว่าของเป้าหมาย ไป 3+, แต้มเหรียญ +3\u200B</line-height>",
+          "desc": "<line-height=119%>หากความเร็วของผู้ใช้ เร็วกว่าของเป้าหมาย ไป 3+, แต้มเหรียญ +3\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -8551,8 +8551,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี  [Charge] 3+ ขั้น, ใช้เหรียญนี้อีกครั้ง หาก it lands Heads (มากสุด 2 ครั้ง)\nIf the เหรียญ is reused 2 ครั้ง, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, ลดขั้น [Vibration] ไป 1\u200B</line-height>",
-                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nใช้เหรียญซ้ำ หาก conditions are met; มอบ  +2 [Vibration] หาก reused.\nIf the เหรียญ is reused 2 ครั้ง, เปิดใช้ [VibrationExplosion], then ลดขั้น [Vibration]"
+                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี [Charge] 3+ ขั้น, ใช้เหรียญนี้อีกครั้ง หาก it lands Heads (มากสุด 2 ครั้ง)\nIf the เหรียญ is reused 2 ครั้ง, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, ลดขั้น [Vibration] ไป 1\u200B</line-height>",
+                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nใช้เหรียญซ้ำ หาก conditions are met; มอบ  +2 [Vibration] หาก reused.\nIf the เหรียญ is reused 2 ครั้ง, เปิดใช้ [VibrationExplosion], จากนั้น ลดขั้น [Vibration]"
                 }
               ]
             }
@@ -8573,8 +8573,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี  [Charge] 3+ ขั้น, ใช้เหรียญนี้อีกครั้ง หาก it lands Heads (มากสุด 2 ครั้ง)\nมอบ 2 more [Vibration] each time the เหรียญ is reused\nIf the เหรียญ is reused 2 ครั้ง, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, ลดขั้น [Vibration] ไป 1\u200B</line-height>",
-                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nใช้เหรียญซ้ำ หาก conditions are met; มอบ  +2 [Vibration] หาก reused.\nIf the เหรียญ is reused 2 ครั้ง, เปิดใช้ [VibrationExplosion], then ลดขั้น [Vibration]"
+                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี [Charge] 3+ ขั้น, ใช้เหรียญนี้อีกครั้ง หาก it lands Heads (มากสุด 2 ครั้ง)\nมอบ 2 more [Vibration] each time the เหรียญ is reused\nIf the เหรียญ is reused 2 ครั้ง, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, ลดขั้น [Vibration] ไป 1\u200B</line-height>",
+                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nใช้เหรียญซ้ำ หาก conditions are met; มอบ  +2 [Vibration] หาก reused.\nIf the เหรียญ is reused 2 ครั้ง, เปิดใช้ [VibrationExplosion], จากนั้น ลดขั้น [Vibration]"
                 }
               ]
             }
@@ -8595,8 +8595,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี  [Charge] 3+ ขั้น, ใช้เหรียญนี้อีกครั้ง หาก it lands Heads (มากสุด 2 ครั้ง)\nมอบ 2 more [Vibration] each time the เหรียญ is reused\nIf the เหรียญ is reused 2 ครั้ง, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, ลดขั้น [Vibration] ไป 1\u200B</line-height>",
-                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nใช้เหรียญซ้ำ หาก conditions are met; มอบ  +2 [Vibration] หาก reused.\nIf the เหรียญ is reused 2 ครั้ง, เปิดใช้ [VibrationExplosion], then ลดขั้น [Vibration]"
+                  "desc": "<line-height=119%>[OnSucceedAttack] มอบ  2 [Vibration]\nเมื่อมี [Charge] 3+ ขั้น, ใช้เหรียญนี้อีกครั้ง หาก it lands Heads (มากสุด 2 ครั้ง)\nมอบ 2 more [Vibration] each time the เหรียญ is reused\nIf the เหรียญ is reused 2 ครั้ง, มอบ  [Vibration], then เปิดใช้ [VibrationExplosion]\nAfter [Vibration] Burst, ลดขั้น [Vibration] ไป 1\u200B</line-height>",
+                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nใช้เหรียญซ้ำ หาก conditions are met; มอบ  +2 [Vibration] หาก reused.\nIf the เหรียญ is reused 2 ครั้ง, เปิดใช้ [VibrationExplosion], จากนั้น ลดขั้น [Vibration]"
                 }
               ]
             }
@@ -8825,7 +8825,7 @@
               "coindescs": [
                 {
                   "desc": "<line-height=119%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nWhen เปิดใช้ing [VibrationExplosion], ลดขั้น [Vibration] ไป 3, thenจ่ายขั้น [Charge] ทั้งหมดto further เพิ่มขีด Stagger ไป (Charge Count x 5)% (สูงสุด 50%)\u200B</line-height>",
-                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion], then ลดขั้น [Vibration] ไป 3;จ่ายขั้น [Charge]  to further เพิ่มขีด Stagger"
+                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion], จากนั้น ลดขั้น [Vibration] ไป 3;จ่ายขั้น [Charge]  to further เพิ่มขีด Stagger"
                 }
               ]
             }
@@ -8870,7 +8870,7 @@
               "coindescs": [
                 {
                   "desc": "<line-height=119%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nWhen เปิดใช้ing [VibrationExplosion], ลดขั้น [Vibration] ไป 3, thenจ่ายขั้น [Charge] ทั้งหมดto further เพิ่มขีด Stagger ไป (Charge Count x 5)% (สูงสุด 50%)\u200B</line-height>",
-                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion], then ลดขั้น [Vibration] ไป 3;จ่ายขั้น [Charge]  to further เพิ่มขีด Stagger"
+                  "summary": "[OnSucceedAttack] เปิดใช้ [VibrationExplosion], จากนั้น ลดขั้น [Vibration] ไป 3;จ่ายขั้น [Charge]  to further เพิ่มขีด Stagger"
                 }
               ]
             }
@@ -9011,7 +9011,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion], then ลดขั้น [Vibration] ไป 2;\nSpend up to [Charge] 4 ขั้น to มอบ  ขั้น [Burst] เท่ากับขั้น [Charge]  spent\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion], จากนั้น ลดขั้น [Vibration] ไป 2;\nSpend up to [Charge] 4 ขั้น เพื่อมอบ  ขั้น [Burst] เท่ากับขั้น [Charge]  spent\u200B</line-height>"
                 }
               ]
             },
@@ -9045,7 +9045,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=119%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion], then ลดขั้น [Vibration] ไป 2;\nSpend up to [Charge] 4 ขั้น to มอบ  ขั้น [Burst] เท่ากับขั้น [Charge]  spent\u200B</line-height>"
+                  "desc": "<line-height=119%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion], จากนั้น ลดขั้น [Vibration] ไป 2;\nSpend up to [Charge] 4 ขั้น เพื่อมอบ  ขั้น [Burst] เท่ากับขั้น [Charge]  spent\u200B</line-height>"
                 }
               ]
             },
@@ -10386,7 +10386,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Weighty Bash\u200B</line-height>",
-          "desc": "<line-height=119%>เมื่อมี  [Charge] 10+ ขั้น, แต้มรวม +1\u200B</line-height>",
+          "desc": "<line-height=119%>เมื่อมี [Charge] 10+ ขั้น, แต้มรวม +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -10400,7 +10400,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Weighty Bash\u200B</line-height>",
-          "desc": "<line-height=119%>เมื่อมี  [Charge] 10+ ขั้น, แต้มรวม +1\nเมื่อมี 7+ ความเร็ว, ทำ +25% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=119%>เมื่อมี [Charge] 10+ ขั้น, แต้มรวม +1\nเมื่อมี 7+ ความเร็ว, ทำ +25% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -10414,7 +10414,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Weighty Bash\u200B</line-height>",
-          "desc": "<line-height=119%>เมื่อมี  [Charge] 10+ ขั้น, แต้มรวม +2\nเมื่อมี 7+ ความเร็ว, ทำ +25% ความเสียหาย\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=119%>เมื่อมี [Charge] 10+ ขั้น, แต้มรวม +2\nเมื่อมี 7+ ความเร็ว, ทำ +25% ความเสียหาย\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -10522,7 +10522,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Rhino Ram\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] เมื่อมี  [Charge] 10+ ขั้น, แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] เมื่อมี [Charge] 10+ ขั้น, แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -10556,7 +10556,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Rhino Ram\u200B</line-height>",
-          "desc": "<line-height=119%>[WhenUse] เมื่อมี  [Charge] 10+ ขั้น, แต้มเหรียญ +2\u200B</line-height>",
+          "desc": "<line-height=119%>[WhenUse] เมื่อมี [Charge] 10+ ขั้น, แต้มเหรียญ +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -10896,7 +10896,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "<line-height=120%>Salut!\u200B</line-height>",
+          "name": "<line-height=120%>ซาลุท!\u200B</line-height>",
           "desc": "<line-height=119%>เมื่อมี 10+ ความเร็ว, แต้มเหรียญ +2\n[WinDuel] ทำ ความเสียหายเพิ่มเติ่ม ขึ้นอยู่กับจำนวนการปะทะ (+5% ต่อทุกๆ จำนวนการปะทะ, สูงสุด 50%)\u200B</line-height>",
           "coinlist": [
             {
@@ -10911,7 +10911,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Salut!\u200B</line-height>",
+          "name": "<line-height=120%>ซาลุท!\u200B</line-height>",
           "desc": "<line-height=119%>เมื่อมี 10+ ความเร็ว, แต้มเหรียญ +3\n[WinDuel] ทำ ความเสียหายเพิ่มเติ่ม ขึ้นอยู่กับจำนวนการปะทะ (+10% ต่อทุกๆ จำนวนการปะทะ, Max 100%)\u200B</line-height>",
           "coinlist": [
             {
@@ -10937,7 +10937,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Défensive\u200B</line-height>",
+          "name": "<line-height=120%>ดีเฟนซีฟ\u200B</line-height>",
           "desc": "<line-height=119%>[OnSucceedEvade] เป้าหมายเสีย 3 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {}
@@ -10945,7 +10945,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Défensive\u200B</line-height>",
+          "name": "<line-height=120%>ดีเฟนซีฟ\u200B</line-height>",
           "desc": "<line-height=119%>[OnSucceedEvade] เป้าหมายเสีย 3 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {}

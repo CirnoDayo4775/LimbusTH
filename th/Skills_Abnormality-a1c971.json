@@ -290,7 +290,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=119%>[OnSucceedAttack] บังคับใช้งาน [Laceration] บนเป้าหมาย เท่ากับ จำนวนขั้นของมัน ใช้ขั้น [Laceration] ของเป้าหมาย จนเหลือ 1\u200B</line-height>"
+                                    "desc": "<line-height=119%>[OnSucceedAttack] บังคับใช้ผลของ [Laceration] บนเป้าหมาย เท่ากับ จำนวนขั้นของมัน ใช้ขั้น [Laceration] ของเป้าหมาย จนเหลือ 1\u200B</line-height>"
                                 }
                             ]
                         }
@@ -304,7 +304,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ศาสตราดัดแปลงแห่งดอน กิโฮเต้: ศิลป์ซานโซที่ 4 - ไล่ล่า\u200B</line-height>",
-                    "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ที่ตัวเองมี (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้งาน [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
+                    "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ที่ตัวเองมี (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้ผลของ [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -330,7 +330,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ศาสตราดัดแปลงแห่งดอน กิโฮเต้: ศิลป์ซานโซที่ 3 - ซุ่มประจัน\u200B</line-height>",
-                    "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ที่ตัวเองมี (สูงสุด 2)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้งาน [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
+                    "desc": "<line-height=119%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ที่ตัวเองมี (สูงสุด 2)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้ผลของ [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -363,7 +363,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>ศาสตราโลหิตแห่งดอน กิโฮเต้ ศาสตร์ที่ 2 - ผลึกโลหิต</size></line-height>\u200B</line-height>",
-                    "desc": "<line-height=119%>สามารถปะทะกับสกิลนี้ได้ โดยไม่สนความเร็ว\n[StartBattle] ได้รับ 1 [SwirlingBlood]\n[StartBattle] จ่าย 100 [BloodDinner]; ได้รับ 1 [BloodArmor] และ 20 HP โล่ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n- หาก ยูนิทนี้ มี [BloodDinner] ไม่เพียงพอ, ได้รับ 50 [Laceration], และ บังคับใช้งานทันที. เสีย 2 ขั้น [Laceration]. ได้รับ 200 HP โล่ (ความเสียหายนี้จะไม่ลด HP ของยูนิทนี้ ให้เป็น 0)\n[DefeatDuel]ตราบใดที่HP โล่ จากสกิลนี้ยังเหลืออยู่ ได้รับ 3 [Vulnerable]\n[DefeatDuel] สกิลนี้ทำ -50% ความเสียหายน้อยลง\n[EndSkill] จบช่วงต่อสู้นี้ทันที\u200B</line-height>",
+                    "desc": "<line-height=119%>สามารถปะทะกับสกิลนี้ได้ โดยไม่สนความเร็ว\n[StartBattle] ได้รับ 1 [SwirlingBlood]\n[StartBattle] จ่าย 100 [BloodDinner]; ได้รับ 1 [BloodArmor] และ 20 HP โล่ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n- หาก ยูนิทนี้ มี [BloodDinner] ไม่เพียงพอ, ได้รับ 50 [Laceration], และ บังคับใช้ผลของมันทันที. เสีย 2 ขั้น [Laceration]. ได้รับ 200 HP โล่ (ความเสียหายนี้จะไม่ลด HP ของยูนิทนี้ ให้เป็น 0)\n[DefeatDuel]ตราบใดที่HP โล่ จากสกิลนี้ยังเหลืออยู่ ได้รับ 3 [Vulnerable]\n[DefeatDuel] สกิลนี้ทำ -50% ความเสียหายน้อยลง\n[EndSkill] จบช่วงต่อสู้นี้ทันที\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -500,7 +500,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>กำกับ การประเมิน\u200B</line-height>",
-                    "desc": "<line-height=119%>[WhenUse] เมื่อมี 10+ ปริมาณ [Breath], จ่าย ปริมาณ [Breath] to ได้รับ +2 แต้มรวม ต่อทุกๆ 3 ปริมาณ [Breath] ที่จ่ายไป (สูงสุด 4)\u200B</line-height>",
+                    "desc": "<line-height=119%>[WhenUse] เมื่อมี 10+ ปริมาณ [Breath], จ่าย ปริมาณ [Breath] เพื่อได้รับ +2 แต้มรวม ต่อทุกๆ 3 ปริมาณ [Breath] ที่จ่ายไป (สูงสุด 4)\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
