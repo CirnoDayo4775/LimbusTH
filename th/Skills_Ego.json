@@ -318,7 +318,7 @@
                   "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 10 ค่าสติ แก่พันธมิตรทุกคน\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู พันธมิตรทุกคน for 10% ของ HPสูงสุด\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] พันธมิตรทุกคน ฟื้นฟู 10% ของ HPสูงสุด\u200B</line-height>"
                 }
               ]
             }
@@ -336,7 +336,7 @@
                   "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 15 ค่าสติ แก่พันธมิตรทุกคน\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู พันธมิตรทุกคน for 15% ของ HPสูงสุด\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] พันธมิตรทุกคน ฟื้นฟู 15% ของ HPสูงสุด\u200B</line-height>"
                 }
               ]
             }
@@ -354,7 +354,7 @@
                   "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 15 ค่าสติ แก่พันธมิตรทุกคน\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู พันธมิตรทุกคน for 15% ของ HPสูงสุด\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] พันธมิตรทุกคน ฟื้นฟู 15% ของ HPสูงสุด\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[EndSkillHead] ฟื้นฟู 10 ค่าสติ แก่พันธมิตรทุกคน\u200B</line-height>"
@@ -487,7 +487,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttackHead] มอบ 3 Curse\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] มอบ 3 Nails\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] มอบ 3 [Nail]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี Curse, +50% ความเสียหาย\u200B</line-height>"
@@ -558,7 +558,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 Curse\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 Nails\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Nail]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี Curse, +50% ความเสียหาย\u200B</line-height>"
@@ -824,7 +824,7 @@
           "level": 1,
           "name": "<line-height=120%>4th Match Flame\u200B</line-height>",
           "abName": "Scorched Girl",
-          "desc": "<line-height=130%>แต้มสกิล +2 aได้รับst units with [Combustion]\n[EnemyKill] ได้รับ 1 [Enhancement] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มสกิล +2 กับยูนิทที่มี [Combustion]\n[EnemyKill] ได้รับ 1 [Enhancement] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -839,7 +839,7 @@
           "level": 3,
           "name": "<line-height=120%>4th Match Flame\u200B</line-height>",
           "abName": "Scorched Girl",
-          "desc": "<line-height=130%>แต้มสกิล +2 aได้รับst units with [Combustion]\n[EnemyKill] ได้รับ 2 [Enhancement] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มสกิล +2 กับยูนิทที่มี [Combustion]\n[EnemyKill] ได้รับ 2 [Enhancement] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -854,7 +854,7 @@
           "level": 4,
           "name": "<line-height=120%>4th Match Flame\u200B</line-height>",
           "abName": "Scorched Girl",
-          "desc": "<line-height=130%>แต้มสกิล +2 aได้รับst units with [Combustion]\nทำ +5% ความเสียหาย ต่อทุกๆ 1 [Combustion]บนเป้าหมาย (สูงสุด 100%)\n[EnemyKill] ได้รับ +2 [Enhancement] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มสกิล +2 กับยูนิทที่มี [Combustion]\nทำ ความเสียหาย +5% ต่อทุกๆ 1 [Combustion]บนเป้าหมาย (สูงสุด 100%)\n[EnemyKill] ได้รับ +2 [Enhancement] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -874,7 +874,7 @@
           "level": 1,
           "name": "<line-height=120%>4th Match Flame\u200B</line-height>",
           "abName": "Scorched Girl",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nแต้มสกิล +2 aได้รับst units with [Combustion]\n[EnemyKill] ได้รับ 2 [Enhancement] ในเทิร์นหน้า\n[EnemyKillFail] ได้รับ 10 [Combustion] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nแต้มสกิล +2 กับยูนิทที่มี [Combustion]\n[EnemyKill] ได้รับ 2 [Enhancement] ในเทิร์นหน้า\n[EnemyKillFail] ได้รับ 10 [Combustion] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -889,7 +889,7 @@
           "level": 3,
           "name": "<line-height=120%>4th Match Flame\u200B</line-height>",
           "abName": "Scorched Girl",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nแต้มสกิล +4 aได้รับst units with [Combustion]\n[EnemyKill] ได้รับ 3 [Enhancement] ในเทิร์นหน้า\n[EnemyKillFail] ได้รับ 3 [Enhancement] และ 10 [Combustion] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nแต้มสกิล +4 กับยูนิทที่มี [Combustion]\n[EnemyKill] ได้รับ 3 [Enhancement] ในเทิร์นหน้า\n[EnemyKillFail] ได้รับ 3 [Enhancement] และ 10 [Combustion] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -904,7 +904,7 @@
           "level": 4,
           "name": "<line-height=120%>4th Match Flame\u200B</line-height>",
           "abName": "Scorched Girl",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nแต้มสกิล +4 aได้รับst units with [Combustion]\nทำ +5% ความเสียหาย ต่อทุกๆ 1 [Combustion]บนเป้าหมาย (สูงสุด 100%)\n[EnemyKill] ได้รับ 3 [Enhancement] ในเทิร์นหน้า\n[EnemyKillFail] ได้รับ 3 [Enhancement] และ 10 [Combustion] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nแต้มสกิล +4 กับยูนิทที่มี [Combustion]\nทำ ความเสียหาย +5% ต่อทุกๆ 1 [Combustion]บนเป้าหมาย (สูงสุด 100%)\n[EnemyKill] ได้รับ 3 [Enhancement] ในเทิร์นหน้า\n[EnemyKillFail] ได้รับ 3 [Enhancement] และ 10 [Combustion] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1392,7 +1392,7 @@
           "level": 1,
           "name": "<line-height=120%>Telepole\u200B</line-height>",
           "abName": "Alleyway Watchdog",
-          "desc": "<line-height=130%>Spend [Charge] 5 ขั้น เพื่อได้รับ +3 แต้มสกิล\u200B</line-height>",
+          "desc": "<line-height=130%>จ่าย [Charge] 5 ขั้น เพื่อได้รับ +3 แต้มสกิล\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1407,7 +1407,7 @@
           "level": 3,
           "name": "<line-height=120%>Telepole\u200B</line-height>",
           "abName": "Alleyway Watchdog",
-          "desc": "<line-height=130%>[WhenUse] ได้รับขั้น [Charge]  ไป Envy Reson.\nSpend [Charge] 5 ขั้น เพื่อได้รับ +3 แต้มสกิล\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับขั้น [Charge]  ไป Envy Reson.\nจ่าย [Charge] 5 ขั้น เพื่อได้รับ +3 แต้มสกิล\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1422,7 +1422,7 @@
           "level": 4,
           "name": "<line-height=120%>Telepole\u200B</line-height>",
           "abName": "Alleyway Watchdog",
-          "desc": "<line-height=130%>[WhenUse] ได้รับขั้น [Charge]  ไป Envy Reson.\nSpend [Charge] 5 ขั้น เพื่อได้รับ +3 แต้มสกิล (สูงสุด 12)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับขั้น [Charge]  ไป Envy Reson.\nจ่าย [Charge] 5 ขั้น เพื่อได้รับ +3 แต้มสกิล (สูงสุด 12)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1805,7 +1805,7 @@
           "level": 1,
           "name": "<line-height=120%>What is Cast\u200B</line-height>",
           "abName": "Rodion",
-          "desc": "<line-height=130%>If target’s HP is above 50%, ทำ +10% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี HP สูงกว่า 50%, ทำ +10% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1820,7 +1820,7 @@
           "level": 3,
           "name": "<line-height=120%>What is Cast\u200B</line-height>",
           "abName": "Rodion",
-          "desc": "<line-height=130%>If target’s HP is above 50%, ทำ +30% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี HP สูงกว่า 50%, ทำ +30% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1835,7 +1835,7 @@
           "level": 4,
           "name": "<line-height=120%>What is Cast\u200B</line-height>",
           "abName": "Rodion",
-          "desc": "<line-height=130%>If target’s HP is above 50%, ทำ +30% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี HP สูงกว่า 50%, ทำ +30% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1937,7 +1937,7 @@
           "level": 1,
           "name": "<line-height=120%>Rime Shank\u200B</line-height>",
           "abName": "Baba Yaga",
-          "desc": "<line-height=130%>If target’s HP is above 50%, ทำ +10% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี HP สูงกว่า 50%, ทำ +10% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1955,7 +1955,7 @@
           "level": 3,
           "name": "<line-height=120%>Rime Shank\u200B</line-height>",
           "abName": "Baba Yaga",
-          "desc": "<line-height=130%>If target’s HP is above 50%, ทำ +30% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี HP สูงกว่า 50%, ทำ +30% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1973,7 +1973,7 @@
           "level": 4,
           "name": "<line-height=120%>Rime Shank\u200B</line-height>",
           "abName": "Baba Yaga",
-          "desc": "<line-height=130%>If target’s HP is above 50%, ทำ +30% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี HP สูงกว่า 50%, ทำ +30% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1996,7 +1996,7 @@
           "level": 1,
           "name": "<line-height=120%>Rime Shank\u200B</line-height>",
           "abName": "Baba Yaga",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\nIf target’s HP is above 50%, +10% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\nหากเป้าหมายมี HP สูงกว่า 50%, +10% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -2014,7 +2014,7 @@
           "level": 3,
           "name": "<line-height=120%>Rime Shank\u200B</line-height>",
           "abName": "Baba Yaga",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\nIf target’s HP is above 50%, +30% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\nหากเป้าหมายมี HP สูงกว่า 50%, +30% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -2032,7 +2032,7 @@
           "level": 4,
           "name": "<line-height=120%>Rime Shank\u200B</line-height>",
           "abName": "Baba Yaga",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\nIf target’s HP is above 50%, +30% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\nหากเป้าหมายมี HP สูงกว่า 50%, +30% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -2127,7 +2127,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EnemyKill] ฟื้นฟู พันธมิตรทุกคน for 10% of their Max HP\u200B</line-height>"
+                  "desc": "<line-height=130%>[EnemyKill] พันธมิตรทุกคน ฟื้นฟู 10% of their Max HP\u200B</line-height>"
                 }
               ]
             }
@@ -2145,7 +2145,7 @@
                   "desc": "<line-height=130%>[EnemyKill] ได้รับ 1 [Enhancement] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EnemyKill] ฟื้นฟู พันธมิตรทุกคน for 15% of their Max HP\u200B</line-height>"
+                  "desc": "<line-height=130%>[EnemyKill] พันธมิตรทุกคน ฟื้นฟู 15% of their Max HP\u200B</line-height>"
                 }
               ]
             }
@@ -2163,7 +2163,7 @@
                   "desc": "<line-height=130%>[EnemyKill] ได้รับ 1 [Enhancement] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EnemyKill] ฟื้นฟู พันธมิตรทุกคน for 15% of their Max HP\u200B</line-height>"
+                  "desc": "<line-height=130%>[EnemyKill] พันธมิตรทุกคน ฟื้นฟู 15% of their Max HP\u200B</line-height>"
                 }
               ]
             }
@@ -2390,7 +2390,7 @@
           "level": 3,
           "name": "<line-height=120%>Ya Śūnyatā Tad Rūpam\u200B</line-height>",
           "abName": "My Form Empties",
-          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 18 SP\n[EndSkill] มอบ 1 [Enhancement] to 2 random other allies\u200B</line-height>",
+          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 18 ค่าสติ\n[EndSkill] มอบ 1 [Enhancement] to 2 random other allies\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -2955,7 +2955,7 @@
           "level": 1,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "<line-height=130%>[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (มากสุด 25%)\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] เพิ่มความเสียหาย basedบนcurrent Lust resources (มากสุด 25%)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -2970,7 +2970,7 @@
           "level": 3,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "<line-height=130%>[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (มากสุด 50%)\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] เพิ่มความเสียหาย basedบนcurrent Lust resources (มากสุด 50%)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -2990,7 +2990,7 @@
           "level": 1,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (มากสุด 25%)\nThenจ่าย Lust resources ไป (Lust Reson.); further boost ความเสียหาย ไป 5% ต่อทุกๆ resource spent\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] เพิ่มความเสียหาย basedบนcurrent Lust resources (มากสุด 25%)\nThenจ่าย Lust resources ไป (Lust Reson.); further เพิ่มความเสียหาย ไป 5% ต่อทุกๆ resource spent\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3005,7 +3005,7 @@
           "level": 3,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] Boost ความเสียหาย basedบนcurrent Lust resources (มากสุด 50%)\nThenจ่าย Lust resources ไป (Lust Reson.); further boost ความเสียหาย ไป 10% ต่อทุกๆ resource spent\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] เพิ่มความเสียหาย basedบนcurrent Lust resources (มากสุด 50%)\nThenจ่าย Lust resources ไป (Lust Reson.); further เพิ่มความเสียหาย ไป 10% ต่อทุกๆ resource spent\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3066,7 +3066,7 @@
           "level": 1,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP ต่ำที่สุด\n\n[BeforeAttack]จ่าย 3 random E.G.O resources to boost ความเสียหาย ไป 10%\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP ต่ำที่สุด\n\n[BeforeAttack]จ่าย 3 random E.G.O resources to เพิ่มความเสียหาย ไป 10%\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3081,7 +3081,7 @@
           "level": 3,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP ต่ำที่สุด\n\n[BeforeAttack]จ่าย 3 random E.G.O resources to boost ความเสียหาย ไป 20%\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP ต่ำที่สุด\n\n[BeforeAttack]จ่าย 3 random E.G.O resources to เพิ่มความเสียหาย ไป 20%\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3096,7 +3096,7 @@
           "level": 4,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP ต่ำที่สุด\n\n[BeforeAttack]จ่าย 3 random E.G.O resources to boost ความเสียหาย ไป 30%\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP ต่ำที่สุด\n\n[BeforeAttack]จ่าย 3 random E.G.O resources to เพิ่มความเสียหาย ไป 30%\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3272,7 +3272,7 @@
           "level": 1,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\nSpend [Charge] 10 ขั้น เพื่อมอบ +1 more [Vulnerable] และ Dimensional RiftบนHit ด้วยสกิลนี้\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\nจ่าย [Charge] 10 ขั้น เพื่อมอบ +1 more [Vulnerable] และ Dimensional RiftบนHit ด้วยสกิลนี้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3287,7 +3287,7 @@
           "level": 3,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] ได้รับ <style=\"highlight\">3</style> [Agility] ในเทิร์นหน้า\nSpend [Charge] 10 ขั้น เพื่อมอบ <style=\"highlight\">+2</style> more [Vulnerable] และ Dimensional RiftบนHit ด้วยสกิลนี้\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] ได้รับ <style=\"highlight\">3</style> [Agility] ในเทิร์นหน้า\nจ่าย [Charge] 10 ขั้น เพื่อมอบ <style=\"highlight\">+2</style> more [Vulnerable] และ Dimensional RiftบนHit ด้วยสกิลนี้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3307,7 +3307,7 @@
           "level": 1,
           "name": "<line-height=120%>Capote\u200B</line-height>",
           "abName": "Brazen Bull",
-          "desc": "<line-height=130%>[EndSkill] ได้รับ 1 [Agility], 1 Wrath Power Up, และ 1 Blunt Power Up ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[EndSkill] ได้รับ 1 [Agility], 1 Wrath Power Up, และ 1 [HitResultUp] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3328,7 +3328,7 @@
           "level": 3,
           "name": "<line-height=120%>Capote\u200B</line-height>",
           "abName": "Brazen Bull",
-          "desc": "<line-height=130%>[EndSkill] ได้รับ 2 [Agility], 1 Wrath Power Up, และ 1 Blunt Power Up ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[EndSkill] ได้รับ 2 [Agility], 1 Wrath Power Up, และ 1 [HitResultUp] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3352,7 +3352,7 @@
           "level": 4,
           "name": "<line-height=120%>Capote\u200B</line-height>",
           "abName": "Brazen Bull",
-          "desc": "<line-height=130%>[EndSkill] ได้รับ 2 [Agility], 1 Wrath Power Up, และ 1 Blunt Power Up ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[EndSkill] ได้รับ 2 [Agility], 1 Wrath Power Up, และ 1 [HitResultUp] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3381,7 +3381,7 @@
           "level": 1,
           "name": "<line-height=120%>Capote\u200B</line-height>",
           "abName": "Brazen Bull",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[EndSkill] ได้รับ 1 [Agility], 1 Wrath Power Up, และ 1 Blunt Power Up ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[EndSkill] ได้รับ 1 [Agility], 1 Wrath Power Up, และ 1 [HitResultUp] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3402,7 +3402,7 @@
           "level": 3,
           "name": "<line-height=120%>Capote\u200B</line-height>",
           "abName": "Brazen Bull",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[EndSkill] ได้รับ 2 [Agility], 1 Wrath Power Up, และ 1 Blunt Power Up ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[EndSkill] ได้รับ 2 [Agility], 1 Wrath Power Up, และ 1 [HitResultUp] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3426,7 +3426,7 @@
           "level": 4,
           "name": "<line-height=120%>Capote\u200B</line-height>",
           "abName": "Brazen Bull",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[EndSkill] ได้รับ 2 [Agility], 1 Wrath Power Up, และ 1 Blunt Power Up ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[EndSkill] ได้รับ 2 [Agility], 1 Wrath Power Up, และ 1 [HitResultUp] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3507,7 +3507,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ 7 ความเสียหายค่าสติ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion], then reduce target's ขั้น [Vibration] ไป 2\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion], จากนั้น reduce target's ขั้น [Vibration] ไป 2\u200B</line-height>"
                 }
               ]
             }
@@ -3819,7 +3819,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (Charge Count * 1.5)% ของความเสียหายที่ทำไป (สูงสุด 30%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (ขั้น [Charge] * 1.5)% ของความเสียหายที่ทำไป (สูงสุด 30%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttackTail] After the attack, เสีย 10% ของ HPสูงสุดเพื่อได้รับ [Charge] +7 ขั้น\u200B</line-height>"
@@ -3837,7 +3837,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (Charge Count * 2.5)% ของความเสียหายที่ทำไป (สูงสุด 50%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (ขั้น [Charge] * 2.5)% ของความเสียหายที่ทำไป (สูงสุด 50%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttackTail] After the attack, เสีย 10% ของ HPสูงสุดเพื่อได้รับ [Charge] +10 ขั้น\u200B</line-height>"
@@ -3855,10 +3855,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (Charge Count * 2.5)% ของความเสียหายที่ทำไป (สูงสุด 50%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (ขั้น [Charge] * 2.5)% ของความเสียหายที่ทำไป (สูงสุด 50%)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill]จ่าย allขั้น [Charge] \u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill]จ่ายขั้น [Charge] ทั้งหมด \u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[EndSkillTail] เสีย HP ไป 10% ของ HPสูงสุดเพื่อได้รับ [Charge] +10 ขั้น\u200B</line-height>"

@@ -74,7 +74,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion].\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 30% of [Vibration]บนเป้าหมาย.\nลดขั้น [Vibration] ไป 1\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ได้รับ 3 [Binding] และ 1 Blunt Power Up ในเทิร์นหน้า.\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ได้รับ 3 [Binding] และ 1 [HitResultUp] ในเทิร์นหน้า.\u200B</line-height>"
                 }
               ]
             }
@@ -92,7 +92,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 40% of [Vibration]บนเป้าหมาย.\nหากเป้าหมายไม่มี a Stagger Threshold เมื่อ [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nลดขั้น [Vibration] ไป 1\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ได้รับ 3 [Binding] และ 1 Blunt Power Up ในเทิร์นหน้า.\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ได้รับ 3 [Binding] และ 1 [HitResultUp] ในเทิร์นหน้า.\u200B</line-height>"
                 }
               ]
             }
@@ -110,7 +110,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 50% of [Vibration]บนเป้าหมาย.\nหากเป้าหมายไม่มี a Stagger Threshold เมื่อ [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nลดขั้น [Vibration] ไป 1\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ได้รับ 3 [Binding] และ 1 Blunt Power Up ในเทิร์นหน้า.\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ได้รับ 3 [Binding] และ 1 [HitResultUp] ในเทิร์นหน้า.\u200B</line-height>"
                 }
               ]
             }
@@ -175,7 +175,7 @@
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด 2)\n[BeforeAttack] หาก ยูนิทนี้มี 10+ ขั้น [Charge] ,จ่ายสูงสุด 20 ขั้น [Charge] ; ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  ที่จ่ายไป (สูงสุด 40%)\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด 2)\n[BeforeAttack] หาก ยูนิทนี้มี 10+ ขั้น [Charge] ,จ่ายสูงสุด 20 ขั้น [Charge] ; ทำ ความเสียหายเพิ่มเติม +2%  ต่อทุกๆ ขั้น [Charge]  ที่จ่ายไป (สูงสุด 40%)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

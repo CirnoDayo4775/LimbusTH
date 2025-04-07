@@ -268,7 +268,7 @@
           "level": 3,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the least Core HP\n<style=\"highlight\">[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด 1)</style>\n[BeforeAttack] ทำ 5% ความเสียหาย HP to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ ความเสียหายที่ทำได้ to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n<style=\"highlight\">[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด 3 ต่อทุกๆ turn)</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the least Core HP\n<style=\"highlight\">[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด 1)</style>\n[BeforeAttack] ทำ 5% ความเสียหาย HP to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ ความเสียหายที่ทำได้ to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n<style=\"highlight\">[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด 3 ต่อทุกๆ เทิร์น)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -286,7 +286,7 @@
           "level": 4,
           "name": "<line-height=120%>ปีกกระพือ\u200B</line-height>",
           "abName": "Fairy Festival",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด <style=\"highlight\">2</style>)\n[BeforeAttack] ทำ 5% ความเสียหาย HP to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ ความเสียหายที่ทำได้ to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด <style=\"highlight\">6</style> ต่อทุกๆ turn)\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] ได้รับ (# of highest Reson. -2) Atk Weight (สูงสุด <style=\"highlight\">2</style>)\n[BeforeAttack] ทำ 5% ความเสียหาย HP to at most 5 random other allies\n- ฟื้นฟู HP บนตัวเอง เท่ากับ ความเสียหายที่ทำได้ to allies.\n- หาก ยูนิทนี้ ทำ t ความเสียหาย to an ally, ได้รับ 2 [Enhancement] ในเทิร์นนี้, และ ได้รับ 2 [Agility] ในเทิร์นหน้า.\n(1 ครั้งต่อเทิร์น. The 'dealt ความเสียหาย' includes ความเสียหาย ทำ t to HP โล่. This effect can kill allies.)\n[EndSkill] หาก this Skill's ฟื้นฟูing exceeds ยูนิทนี้'s max HP, ได้รับ (excess ฟื้นฟู/max HP) x 10 [AttackUp] ในเทิร์นหน้า. (สูงสุด <style=\"highlight\">6</style> ต่อทุกๆ เทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -491,7 +491,7 @@
           "level": 3,
           "name": "<line-height=120%>Christmas Nightmare\u200B</line-height>",
           "abName": "Cozy Bed",
-          "desc": "<line-height=130%><style=\"highlight\">หากเป้าหมายมี ค่าสติต่ำกว่า 0, ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ ค่าสติ value below 0 (สูงสุด 45%)</style>\n[BeforeAttack] ได้รับ (highest Reson. + 5) ขั้น [Vibration] (สูงสุด 10)\n[EndSkill] หาก there are any targets in Staggered, Low Morale, or Panic states, ฟื้นฟู 10 ค่าสติ\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">หากเป้าหมายมี ค่าสติต่ำกว่า 0, ทำ ความเสียหายเพิ่มเติม +1%  ต่อทุกๆ ค่าสติ value below 0 (สูงสุด 45%)</style>\n[BeforeAttack] ได้รับ (highest Reson. + 5) ขั้น [Vibration] (สูงสุด 10)\n[EndSkill] หาก there are any targets in Staggered, Low Morale, or Panic states, ฟื้นฟู 10 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -519,7 +519,7 @@
           "level": 4,
           "name": "<line-height=120%>Christmas Nightmare\u200B</line-height>",
           "abName": "Cozy Bed",
-          "desc": "<line-height=130%>หากเป้าหมายมี ค่าสติต่ำกว่า 0, ทำ +1% ความเสียหายเพิ่มเติม ต่อทุกๆ ค่าสติ value below 0 (สูงสุด 45%)\n[BeforeAttack] ได้รับ (highest Reson. + 5) ขั้น [Vibration] (สูงสุด 10)\n[EndSkill] หาก there are any targets in Staggered, Low Morale, or Panic states, ฟื้นฟู 10 SP<style=\"highlight\"></style>\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี ค่าสติต่ำกว่า 0, ทำ ความเสียหายเพิ่มเติม +1%  ต่อทุกๆ ค่าสติ value below 0 (สูงสุด 45%)\n[BeforeAttack] ได้รับ (highest Reson. + 5) ขั้น [Vibration] (สูงสุด 10)\n[EndSkill] หาก there are any targets in Staggered, Low Morale, or Panic states, ฟื้นฟู 10 SP<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

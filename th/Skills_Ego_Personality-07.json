@@ -63,7 +63,7 @@
           "level": 1,
           "name": "<line-height=120%>Holiday\u200B</line-height>",
           "abName": "Sandolph",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the Most SP\n[BeforeAttack] เป้าหมายเสีย 10 ค่าสติ\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the Most ค่าสติ\n[BeforeAttack] เป้าหมายเสีย 10 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -78,7 +78,7 @@
           "level": 3,
           "name": "<line-height=120%>Holiday\u200B</line-height>",
           "abName": "Sandolph",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the Most SP\n[BeforeAttack] เป้าหมายเสีย 10 ค่าสติ\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the Most ค่าสติ\n[BeforeAttack] เป้าหมายเสีย 10 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -93,7 +93,7 @@
           "level": 4,
           "name": "<line-height=120%>Holiday\u200B</line-height>",
           "abName": "Sandolph",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the Most SP\nIf the main target's ค่าสติ is higher than 15, Atk Weight +1\n[BeforeAttack] เป้าหมายเสีย 10 ค่าสติ\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets the unit with the Most ค่าสติ\nIf the main target's ค่าสติ is higher than 15, Atk Weight +1\n[BeforeAttack] เป้าหมายเสีย 10 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -344,7 +344,7 @@
           "level": 1,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] แทน\n[BeforeAttack] ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 14%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด 3)\n[BeforeAttack] ทำ +3% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด 15%)\n[BeforeAttack] จ่าย 5 [Breath] ที่ตัวเองมี\n[EndSkill] เสีย every [BoseProjektil]\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] แทน\n[BeforeAttack] ทำ ความเสียหายเพิ่มเติม +2%  ต่อทุกๆ [BoseProjektil] (สูงสุด 14%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด 3)\n[BeforeAttack] ทำ ความเสียหายเพิ่มเติม +3%  ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด 15%)\n[BeforeAttack] จ่าย 5 [Breath] ที่ตัวเองมี\n[EndSkill] เสีย every [BoseProjektil]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -359,7 +359,7 @@
           "level": 3,
           "name": "<line-height=120%>Fell Bullet\u200B</line-height>",
           "abName": "Der Fluchschütze",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] แทน\n<style=\"highlight\">[BeforeAttack] เมื่อมี 3+ [BoseProjektil], ได้รับ 1 Atk Weight</style>\n[BeforeAttack] ทำ +2% ความเสียหายเพิ่มเติม ต่อทุกๆ [BoseProjektil] (สูงสุด 14%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">4</style>)\n[BeforeAttack] ทำ +<style=\"highlight\">4</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด <style=\"highlight\">20</style>%)\n[BeforeAttack] จ่าย 5 [Breath] ที่ตัวเองมี\n[EndSkill] เสีย every [BoseProjektil]\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (highest Reson. + 1) [BoseProjektil] (สูงสุด 7)\n- หาก it was an A-Reson., ได้รับ (highest Reson. + 2) [BoseProjektil] แทน\n<style=\"highlight\">[BeforeAttack] เมื่อมี 3+ [BoseProjektil], ได้รับ 1 Atk Weight</style>\n[BeforeAttack] ทำ ความเสียหายเพิ่มเติม +2%  ต่อทุกๆ [BoseProjektil] (สูงสุด 14%)\n[BeforeAttack] ได้รับ 1 [Breath] ต่อทุกๆ [BoseProjektil] (สูงสุด <style=\"highlight\">4</style>)\n[BeforeAttack] ทำ +<style=\"highlight\">4</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด <style=\"highlight\">20</style>%)\n[BeforeAttack] จ่าย 5 [Breath] ที่ตัวเองมี\n[EndSkill] เสีย every [BoseProjektil]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -394,7 +394,7 @@
           "level": 1,
           "name": "<line-height=120%>Asymmetrical Inertia\u200B</line-height>",
           "abName": "Clockwork-Time-Roly-Poly",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (highest Reson.) ขั้น [Vibration] (สูงสุด 6, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (highest Reson.) ขั้น [Vibration] (สูงสุด 6, 20 ต่อทุกๆ เทิร์น)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -422,7 +422,7 @@
           "level": 3,
           "name": "<line-height=120%>Asymmetrical Inertia\u200B</line-height>",
           "abName": "Clockwork-Time-Roly-Poly",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (<style=\"highlight\">2 +</style> highest Reson.) ขั้น [Vibration] (สูงสุด <style=\"highlight\">8</style>, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (<style=\"highlight\">2 +</style> highest Reson.) ขั้น [Vibration] (สูงสุด <style=\"highlight\">8</style>, 20 ต่อทุกๆ เทิร์น)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -450,7 +450,7 @@
           "level": 4,
           "name": "<line-height=120%>Asymmetrical Inertia\u200B</line-height>",
           "abName": "Clockwork-Time-Roly-Poly",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (<style=\"highlight\">4 +</style> highest Reson.) ขั้น [Vibration] (สูงสุด 8, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (<style=\"highlight\">4 +</style> highest Reson.) ขั้น [Vibration] (สูงสุด 8, 20 ต่อทุกๆ เทิร์น)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -483,7 +483,7 @@
           "level": 1,
           "name": "<line-height=120%>Asymmetrical Inertia\u200B</line-height>",
           "abName": "Clockwork-Time-Roly-Poly",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (2 + highest Reson.) ขั้น [Vibration] (สูงสุด 8, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (2 + highest Reson.) ขั้น [Vibration] (สูงสุด 8, 20 ต่อทุกๆ เทิร์น)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -514,7 +514,7 @@
           "level": 3,
           "name": "<line-height=120%>Asymmetrical Inertia\u200B</line-height>",
           "abName": "Clockwork-Time-Roly-Poly",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (<style=\"highlight\">4 +</style> highest Reson.) ขั้น [Vibration] (สูงสุด 8, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (<style=\"highlight\">4 +</style> highest Reson.) ขั้น [Vibration] (สูงสุด 8, 20 ต่อทุกๆ เทิร์น)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -545,7 +545,7 @@
           "level": 4,
           "name": "<line-height=120%>Asymmetrical Inertia\u200B</line-height>",
           "abName": "Clockwork-Time-Roly-Poly",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (4 + highest Reson.) ขั้น [Vibration] (สูงสุด <style=\"highlight\">10</style>, 20 ต่อทุกๆ turn)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ (4 + highest Reson.) ขั้น [Vibration] (สูงสุด <style=\"highlight\">10</style>, 20 ต่อทุกๆ เทิร์น)\n- หาก the said Reson. was a Sloth Reson., เปิดใช้ [Switch_Vibration]บน[Vibration] ที่ตัวเองมี into [VibrationSpring]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

@@ -106,7 +106,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ร้องเรียกหาบางสิ่ง\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มปะทะ +2 ต่อทุกๆ surviving Old Umbrella\nทำ +25% ความเสียหาย ต่อทุกๆ Old Umbrella\nเมื่อมี the end of the turn, all Old Umbrella expire\nเมื่อมี the end of the turn, ได้รับ <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> เท่ากับ the number of <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> ได้รับed in the first turn\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มปะทะ +2 ต่อทุกๆ surviving Old Umbrella\nทำ ความเสียหาย +25% ต่อทุกๆ Old Umbrella\nเมื่อมี the end of the turn, all Old Umbrella expire\nเมื่อมี the end of the turn, ได้รับ <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> เท่ากับ the number of <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> ได้รับed in the first turn\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -316,7 +316,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ขดตัว\u200B</line-height>",
-          "desc": "<line-height=130%>If this Skill isบนa slot, head ได้รับs 50 HP โล่ ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>.\nIf the head is broken, ได้รับ 25 HP โล่ ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-พุ่งเข้าใส่stead.</color></link></u>\nSpend 1 [SelfCharge] ต่อทุกๆ amount ของHP  โล่ lost เท่ากับ the HP โล่ ได้รับed ต่อทุกๆ [SelfCharge]\u200B</line-height>",
+          "desc": "<line-height=130%>If this Skill isบนa slot, head ได้รับs 50 HP โล่ ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>.\nIf the head is broken, ได้รับ 25 HP โล่ ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-พุ่งเข้าใส่stead.</color></link></u>\nจ่าย 1 [SelfCharge] ต่อทุกๆ amount ของHP  โล่ lost เท่ากับ the HP โล่ ได้รับed ต่อทุกๆ [SelfCharge]\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -731,7 +731,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ +5% ความเสียหาย ต่อทุกๆ [Laceration] ที่เป้าหมายมี\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +5% ต่อทุกๆ [Laceration] ที่เป้าหมายมี\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack]จ่าย all of target's [Laceration]\u200B</line-height>"
@@ -916,7 +916,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Snagged Lure\u200B</line-height>",
-          "desc": "<line-height=130%>[CantDuel] +1 Atk Weight ต่อทุกๆ turn Fairy is alive.\nPrioritizes Identities with <sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">Charmed</color></link></u>.\u200B</line-height>",
+          "desc": "<line-height=130%>[CantDuel] +1 Atk Weight ต่อทุกๆ เทิร์น Fairy is alive.\nPrioritizes Identities with <sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">Charmed</color></link></u>.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -990,7 +990,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ +5% ความเสียหาย ต่อทุกๆ 5 ขั้น [Burst] ที่เป้าหมายมี\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +5% ต่อทุกๆ 5 ขั้น [Burst] ที่เป้าหมายมี\u200B</line-height>"
                 }
               ]
             }
@@ -1004,7 +1004,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เปิดเผยขุมนรก\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ +100% ความเสียหายแก่เป้าหมายที่มี 5+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ +100% ความเสียหายแก่เป้าหมายที่มี 5+ [Burst]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1105,7 +1105,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Rip Space\u200B</line-height>",
+          "name": "<line-height=120%>กระฉากมิติ\u200B</line-height>",
           "desc": "<line-height=130%>เมื่อมี [Charge] 10+ ขั้น,จ่าย [Charge] 10 ขั้น และ ได้รับ แต้มปะทะ +5 และ ทำ +100% ความเสียหาย\nเมื่อมี 10-ขั้น [Charge] ,จ่าย 100 Core HP และ ทำ +80% ความเสียหาย\nThis skill does not reduce the unit's HP to 0.\u200B</line-height>",
           "coinlist": [
             {
@@ -1182,8 +1182,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>High-speed Rip Space\u200B</line-height>",
-          "desc": "<line-height=130%>ได้รับ แต้มปะทะ เท่ากับ the number of Dimensional Rift effect with the highest stack\nทำ +10% ความเสียหาย ต่อทุกๆ Dimensional Rift effectบนself\u200B</line-height>",
+          "name": "<line-height=120%>High-speed กระฉากมิติ\u200B</line-height>",
+          "desc": "<line-height=130%>ได้รับ แต้มปะทะ เท่ากับ the number of Dimensional Rift effect with the highest stack\nทำ ความเสียหาย +10% ต่อทุกๆ Dimensional Rift effectบนself\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1299,7 +1299,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ +20% ความเสียหาย ต่อทุกๆ <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +20% ต่อทุกๆ <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ [Charge] +4 ขั้น\u200B</line-height>"
@@ -1335,7 +1335,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>6463\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1354,7 +1354,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>6753\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1388,7 +1388,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] เพิ่มขีดStagger ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ +1% ความเสียหาย ต่อทุกๆ <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (สูงสุด 50%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +1% ต่อทุกๆ <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (สูงสุด 50%)\u200B</line-height>"
                 }
               ]
             }
@@ -1458,7 +1458,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ +1% ความเสียหาย ต่อทุกๆ <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (สูงสุด 200%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +1% ต่อทุกๆ <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (สูงสุด 200%)\u200B</line-height>"
                 }
               ]
             }
@@ -1617,7 +1617,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Here, With You\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] มอบ 1 Defense Power Up to 1 random Rose ในเทิร์นหน้า\nหากถูกโจมตีขณะยังมีโล่อยู่, มอบ 1 [Sinking] แก่ผู้โจมตี\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] มอบ 1 [Endurance] to 1 random Rose ในเทิร์นหน้า\nหากถูกโจมตีขณะยังมีโล่อยู่, มอบ 1 [Sinking] แก่ผู้โจมตี\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

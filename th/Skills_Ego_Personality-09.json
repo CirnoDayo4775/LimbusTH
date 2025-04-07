@@ -46,7 +46,7 @@
           "level": 4,
           "name": "<line-height=120%>Effervescent Corrosion\u200B</line-height>",
           "abName": "Ambling Pearl",
-          "desc": "<line-height=130%>[BeforeAttack] หาก main target has 50%+ HP, Atk Weight +1;\nIf main target has 75%+ HP, additional Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] หาก main target has 50%+ HP, Atk Weight +1;\nหากเป้าหมายหลักมี 75%+ HP, additional Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -111,7 +111,7 @@
           "level": 4,
           "name": "<line-height=120%>Effervescent Corrosion\u200B</line-height>",
           "abName": "Ambling Pearl",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] หาก main target has 50%+ HP, Atk Weight +1;\nIf main target has 75%+ HP, additional Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] หาก main target has 50%+ HP, Atk Weight +1;\nหากเป้าหมายหลักมี 75%+ HP, additional Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -166,7 +166,7 @@
                   "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 2 other allies with เปอร์เซนต์ HP น้อยที่สุด for 25% of ยูนิทนี้'s Max HP\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkillHead] หาก target is Staggered or defeated, มอบ 10% of ยูนิทนี้'s Max HPมาเป็นโล่ to allies that ยูนิทนี้ ฟื้นฟูed\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkillHead] หากเป้าหมาย Stagger หรือ ตาย, มอบ 10% of ยูนิทนี้'s Max HPมาเป็นโล่ to allies that ยูนิทนี้ ฟื้นฟูed\u200B</line-height>"
                 }
               ]
             }
@@ -187,7 +187,7 @@
                   "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 2 other allies with เปอร์เซนต์ HP น้อยที่สุด for 30% of ยูนิทนี้'s Max HP\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkillHead] หาก target is Staggered or defeated, มอบ 15% of ยูนิทนี้'s Max HPมาเป็นโล่ to allies that ยูนิทนี้ ฟื้นฟูed\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkillHead] หากเป้าหมาย Stagger หรือ ตาย, มอบ 15% of ยูนิทนี้'s Max HPมาเป็นโล่ to allies that ยูนิทนี้ ฟื้นฟูed\u200B</line-height>"
                 }
               ]
             }
@@ -231,7 +231,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ 20 ความเสียหายค่าสติ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackTail] หาก target is Staggered or defeated, ฟื้นฟู 5 แก่ตัวเอง\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackTail] หากเป้าหมาย Stagger หรือ ตาย, ฟื้นฟู 5 แก่ตัวเอง\u200B</line-height>"
                 }
               ]
             }
@@ -252,7 +252,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ 20 ความเสียหายค่าสติ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก target is Staggered or defeated, ฟื้นฟู 7 แก่ตัวเอง\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมาย Stagger หรือ ตาย, ฟื้นฟู 7 แก่ตัวเอง\u200B</line-height>"
                 }
               ]
             }

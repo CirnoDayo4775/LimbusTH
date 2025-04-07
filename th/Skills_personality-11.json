@@ -142,7 +142,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Daring Decision\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] Discard ยูนิทนี้'s Skills in descending order of ranks from all of its Skill Slots\nSpend 10 ขั้น [Vibration] เพื่อได้รับ แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] Discard ยูนิทนี้'s Skills in descending order of ranks from all of its Skill Slots\nจ่าย 10 ขั้น [Vibration] เพื่อได้รับ แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -157,21 +157,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] เปิดใช้ [VibrationExplosion]; after [Vibration] Burst, reduce target's ขั้น [Vibration] ไป 1\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] เปิดใช้ [VibrationExplosion]; หลังจาก [VibrationExplosion], reduce target's ขั้น [Vibration] ไป 1\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] เปิดใช้ [VibrationExplosion]; after [Vibration] Burst, reduce target's ขั้น [Vibration] ไป 1\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] เปิดใช้ [VibrationExplosion]; หลังจาก [VibrationExplosion], reduce target's ขั้น [Vibration] ไป 1\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] เปิดใช้ [VibrationExplosion]; after [Vibration] Burst, reduce target's ขั้น [Vibration] ไป 1\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] เปิดใช้ [VibrationExplosion]; หลังจาก [VibrationExplosion], reduce target's ขั้น [Vibration] ไป 1\u200B</line-height>"
                 }
               ]
             }
@@ -180,7 +180,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Daring Decision\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] Discard ยูนิทนี้'s Skills in descending order of ranks from all of its Skill Slots\nSpend 10 ขั้น [Vibration] เพื่อได้รับ แต้มเหรียญ +2\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] Discard ยูนิทนี้'s Skills in descending order of ranks from all of its Skill Slots\nจ่าย 10 ขั้น [Vibration] เพื่อได้รับ แต้มเหรียญ +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -195,21 +195,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; after [Vibration] Burst, reduce target's ขั้น [Vibration] ไป 1\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; หลังจาก [VibrationExplosion], reduce target's ขั้น [Vibration] ไป 1\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; after [Vibration] Burst, reduce target's ขั้น [Vibration] ไป 1\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; หลังจาก [VibrationExplosion], reduce target's ขั้น [Vibration] ไป 1\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; after [Vibration] Burst, reduce target's ขั้น [Vibration] ไป 1\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; หลังจาก [VibrationExplosion], reduce target's ขั้น [Vibration] ไป 1\u200B</line-height>"
                 }
               ]
             }
@@ -582,7 +582,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Magic Bullet Fire\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ +0.5% ความเสียหาย ต่อทุกๆ [Combustion]บนเป้าหมาย (สูงสุด 15%)\n\n[BeforeAttack] ได้รับ 1 [FreischutzShotCount]\n- เสีย (([FreischutzShotCount] -1)x5) SP\n- Atk Weight becomes เท่ากับ [FreischutzShotCount] value\n- เมื่อมี 10 or less ค่าสติ 50% chance to attack indiscriminately\n\n[EndSkill] หาก at 7 [FreischutzShotCount], reset to 0 (Counts asจ่ายing the last Ammo)\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ +0.5% ความเสียหาย ต่อทุกๆ [Combustion]บนเป้าหมาย (สูงสุด 15%)\n\n[BeforeAttack] ได้รับ 1 [FreischutzShotCount]\n- เสีย (([FreischutzShotCount] -1)x5) ค่าสติ\n- Atk Weight becomes เท่ากับ [FreischutzShotCount] value\n- เมื่อมี 10 or less ค่าสติ 50% chance to attack indiscriminately\n\n[EndSkill] หาก at 7 [FreischutzShotCount], reset to 0 (Counts asจ่ายing the last [Bullet])\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -596,7 +596,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Magic Bullet Fire\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">ทำ +1% ความเสียหาย ต่อทุกๆ [Combustion]บนเป้าหมาย (สูงสุด 30%)</style>\n\n[BeforeAttack] ได้รับ 1 [FreischutzShotCount]\n- เสีย (([FreischutzShotCount] -1)x5) SP\n- Atk Weight becomes เท่ากับ [FreischutzShotCount] value\n- เมื่อมี 10 or less ค่าสติ 50% chance to attack indiscriminately\n\n[EndSkill] หาก at 7 [FreischutzShotCount], reset to 0 (Counts asจ่ายing the last Ammo)\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">ทำ ความเสียหาย +1% ต่อทุกๆ [Combustion]บนเป้าหมาย (สูงสุด 30%)</style>\n\n[BeforeAttack] ได้รับ 1 [FreischutzShotCount]\n- เสีย (([FreischutzShotCount] -1)x5) ค่าสติ\n- Atk Weight becomes เท่ากับ [FreischutzShotCount] value\n- เมื่อมี 10 or less ค่าสติ 50% chance to attack indiscriminately\n\n[EndSkill] หาก at 7 [FreischutzShotCount], reset to 0 (Counts asจ่ายing the last [Bullet])\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -890,7 +890,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Sanguine Painting\u200B</line-height>",
+          "name": "<line-height=120%>Sanguine ระบายing\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {},
@@ -908,7 +908,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Sanguine Painting\u200B</line-height>",
+          "name": "<line-height=120%>Sanguine ระบายing\u200B</line-height>",
           "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +1\u200B</line-height>",
           "coinlist": [
             {},
@@ -926,7 +926,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Sanguine Painting\u200B</line-height>",
+          "name": "<line-height=120%>Sanguine ระบายing\u200B</line-height>",
           "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Laceration], แต้มปะทะ +2\u200B</line-height>",
           "coinlist": [
             {},
@@ -950,7 +950,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Artwork Inspection\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี (สูงสุด 30%)\n[WhenUse] มอบ 1 [Agility] ในเทิร์นหน้า to 2 allies adjacent to ยูนิทนี้บนthe Dashboard\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ type of ผลด้านลบ ที่เป้าหมายมี (สูงสุด 30%)\n[WhenUse] มอบ 1 [Agility] ในเทิร์นหน้า to 2 allies adjacent to ยูนิทนี้บนthe Dashboard\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -962,7 +962,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 Potency for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] หาก target is Staggered or defeated, มอบ 1 [PenetrateDamageUp] ในเทิร์นหน้า to 1 other ally with the highest ค่าสติ\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] หากเป้าหมาย Stagger หรือ ตาย, มอบ 1 [PenetrateDamageUp] ในเทิร์นหน้า to 1 other ally with the highest ค่าสติ\u200B</line-height>"
                 }
               ]
             }
@@ -983,7 +983,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 Potency for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] หาก target is Staggered or defeated, มอบ 1 [PenetrateDamageUp] ในเทิร์นหน้า to 1 other ally with the highest ค่าสติ <style=\"highlight\">If the affected ally is a member of the Ring, มอบ 1 [PenetrateResultUp] เช่นกัน</style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] หากเป้าหมาย Stagger หรือ ตาย, มอบ 1 [PenetrateDamageUp] ในเทิร์นหน้า to 1 other ally with the highest ค่าสติ <style=\"highlight\">If the affected ally is a member of the Ring, มอบ 1 [PenetrateResultUp] เช่นกัน</style>\u200B</line-height>"
                 }
               ]
             }
@@ -1092,7 +1092,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Charged Leap\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่าย 6 ขั้น [Charge] ที่ตัวเองมี เพื่อได้รับ แต้มตั้งต้น +1\n- หาก ยูนิทนี้ ที่จ่ายไป ขั้น [Charge] , มอบ ([Charge] + 1) [ChargeForceField] to self และ 2 other allies with the least ขั้น [Charge] . (สูงสุด 7 [ChargeForceField] ต่อทุกๆ ally. Activates อีกครั้ง ต่อทุกๆ turn max)\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่าย 6 ขั้น [Charge] ที่ตัวเองมี เพื่อได้รับ แต้มตั้งต้น +1\n- หาก ยูนิทนี้ ที่จ่ายไป ขั้น [Charge] , มอบ ([Charge] + 1) [ChargeForceField] to self และ 2 other allies with the least ขั้น [Charge] . (สูงสุด 7 [ChargeForceField] ต่อทุกๆ ally. Activates อีกครั้ง ต่อทุกๆ เทิร์น max)\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1119,7 +1119,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Charged Leap\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่าย 6 ขั้น [Charge] ที่ตัวเองมี เพื่อได้รับ แต้มเหรียญ +1\n- หาก ยูนิทนี้ ที่จ่ายไป ขั้น [Charge] , มอบ ([Charge] + <style=\"highlight\">2</style>) [ChargeForceField] to self และ 2 other allies with the least ขั้น [Charge] . (สูงสุด <style=\"highlight\">8</style> [ChargeForceField] ต่อทุกๆ ally. Activates <style=\"highlight\">2 times</style> ต่อทุกๆ turn max)\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่าย 6 ขั้น [Charge] ที่ตัวเองมี เพื่อได้รับ แต้มเหรียญ +1\n- หาก ยูนิทนี้ ที่จ่ายไป ขั้น [Charge] , มอบ ([Charge] + <style=\"highlight\">2</style>) [ChargeForceField] to self และ 2 other allies with the least ขั้น [Charge] . (สูงสุด <style=\"highlight\">8</style> [ChargeForceField] ต่อทุกๆ ally. Activates <style=\"highlight\">2 times</style> ต่อทุกๆ เทิร์น max)\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

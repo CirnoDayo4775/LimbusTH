@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Energy Cycle\u200B</line-height>",
+          "name": "<line-height=120%>หมุนเวียนพลังงาน\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -26,7 +26,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Energy Cycle\u200B</line-height>",
+          "name": "<line-height=120%>หมุนเวียนพลังงาน\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Charge] +3 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -47,7 +47,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Energy Cycle\u200B</line-height>",
+          "name": "<line-height=120%>หมุนเวียนพลังงาน\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Charge] +4 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -548,7 +548,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Sinking] +3 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] หาก target is Staggered or defeated, ฟื้นฟู 10 ค่าสติ\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] หากเป้าหมาย Stagger หรือ ตาย, ฟื้นฟู 10 ค่าสติ\u200B</line-height>"
                 }
               ]
             }
@@ -567,7 +567,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Sinking] +4 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] หาก target is Staggered or defeated, ฟื้นฟู 10 ค่าสติ\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] หากเป้าหมาย Stagger หรือ ตาย, ฟื้นฟู 10 ค่าสติ\u200B</line-height>"
                 }
               ]
             }
@@ -779,7 +779,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- หาก ยูนิทนี้ did not จ่าย ขั้น [Vibration] with Skill use, เปิดใช้งาน the above effect, then เปิดใช้ [VibrationExplosion]บนself\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- หาก ยูนิทนี้ did not จ่าย ขั้น [Vibration] with Skill use, เปิดใช้งาน the above effect, จากนั้น เปิดใช้ [VibrationExplosion]บนself\u200B</line-height>"
                 }
               ]
             }
@@ -1093,14 +1093,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend 1 [Bullet]\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่าย 1 [Bullet]\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend 1 [Bullet]\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่าย 1 [Bullet]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [Breath]\u200B</line-height>"
@@ -1110,7 +1110,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend 1 [Bullet]\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่าย 1 [Bullet]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [Breath]\u200B</line-height>"
@@ -1127,14 +1127,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่าย 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่าย 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ <style=\"highlight\">2</style> [Breath]\u200B</line-height>"
@@ -1144,7 +1144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่าย 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ <style=\"highlight\">2</style> [Breath]\u200B</line-height>"
@@ -1161,14 +1161,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่าย 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่าย 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 2 [Breath]<style=\"highlight\"></style>\u200B</line-height>"
@@ -1178,7 +1178,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่าย 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 2 [Breath]<style=\"highlight\"></style>\u200B</line-height>"
@@ -1207,7 +1207,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend up to 3 [Bullet]\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่ายสูงสุด 3 [Bullet]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
@@ -1238,7 +1238,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend up to 3 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่ายสูงสุด 3 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม<style=\"highlight\"></style>\u200B</line-height>"
@@ -1272,7 +1272,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend up to 3 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่ายสูงสุด 3 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม<style=\"highlight\"></style>\u200B</line-height>"
@@ -1310,7 +1310,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend 1 [Bullet]\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่าย 1 [Bullet]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
@@ -1323,7 +1323,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend up to 2 [Bullet]\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่ายสูงสุด 2 [Bullet]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
@@ -1356,7 +1356,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่าย 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
@@ -1369,7 +1369,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend up to 2 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่ายสูงสุด 2 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
@@ -1447,7 +1447,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend up to 3 [Bullet]\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่ายสูงสุด 3 [Bullet]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
@@ -1491,7 +1491,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend up to 3 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่ายสูงสุด 3 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม<style=\"highlight\"></style>\u200B</line-height>"
@@ -1539,7 +1539,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend 1 [Bullet]\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่าย 1 [Bullet]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
@@ -1552,7 +1552,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend up to 2 [Bullet]\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่ายสูงสุด 2 [Bullet]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +([Bullet] spent x 10)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
@@ -1598,7 +1598,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่าย 1 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
@@ -1611,7 +1611,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Spend up to 2 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>จ่ายสูงสุด 2 [Bullet]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +([Bullet] spent x <style=\"highlight\">15</style>)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"

@@ -644,12 +644,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>หมัดคลื่นโลหิต\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่าย 4 [BloodArmor] เพื่อฟื้นฟู 10 SP\n[WhenUse] จ่าย 10 [BloodDinner] เพื่อได้รับ 1 [BloodArmor] และ ฟื้นฟู 10 SP\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 3 [Laceration].\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่าย 4 [BloodArmor] เพื่อฟื้นฟู 10 ค่าสติ\n[WhenUse] จ่าย 10 [BloodDinner] เพื่อได้รับ 1 [BloodArmor] และ ฟื้นฟู 10 ค่าสติ\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 3 [Laceration].\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 100%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 100%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Laceration] และ [Laceration] +2 ขั้น\u200B</line-height>"
@@ -899,10 +899,10 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 200%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 200%)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ +10% ความเสียหายเพิ่มเติม ต่อทุกๆ [BloodDinner] (สูงสุด 100%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ [BloodDinner] (สูงสุด 100%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Laceration] และ [Laceration] +2 ขั้น\u200B</line-height>"
@@ -1372,7 +1372,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>จงถูกเสียบ\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่ายสูงสุด 40 [BloodDinner]: ได้รับ 1 [RegainedStrength] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n\n[DefeatDuel] เสีย 3 SP\n[DefeatDuel] จ่าย 3 [RegainedStrength]. ได้รับ 3 [DefenseDown] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่ายสูงสุด 40 [BloodDinner]: ได้รับ 1 [RegainedStrength] และ ฟื้นฟู 3 ค่าสติ ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n\n[DefeatDuel] เสีย 3 ค่าสติ\n[DefeatDuel] จ่าย 3 [RegainedStrength]. ได้รับ 3 [DefenseDown] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1699,7 +1699,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ศาสตราโลหิตขั้นสูง แห่งดอน กิโฮเต้ - ทรงกลมมรณะ\u200B</line-height>",
-          "desc": "<line-height=130%>ไม่สามารถถูก Stagger ได้จนกว่าจะใช้สกิลนี้เสร็จ\nทำ ความเสียหายเพิ่มเติ่ม เท่ากับ [BloodDinner_Common_Accumulation]. (สูงสุด 300%)\n[WhenUse] ฟื้นฟู 30 SP\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 10 [RegainedStrength]\n[EndSkill] จ่าย RegainedStrength] ทั้งหมด. ได้รับ 5 [Vulnerable] ในเทิร์นนี้ และ ในเทิร์นหน้า. ได้รับ 2 [Binding] ในเทิร์นหน้า.\u200B</line-height>",
+          "desc": "<line-height=130%>ไม่สามารถถูก Stagger ได้จนกว่าจะใช้สกิลนี้เสร็จ\nทำ ความเสียหายเพิ่มเติ่ม เท่ากับ [BloodDinner_Common_Accumulation]. (สูงสุด 300%)\n[WhenUse] ฟื้นฟู 30 ค่าสติ\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 10 [RegainedStrength]\n[EndSkill] จ่าย RegainedStrength] ทั้งหมด. ได้รับ 5 [Vulnerable] ในเทิร์นนี้ และ ในเทิร์นหน้า. ได้รับ 2 [Binding] ในเทิร์นหน้า.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1839,7 +1839,7 @@
                   "desc": "<line-height=130%>[CriticalOnSucceedAttack] +100% ความเสียหายเมื่อติดคริ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ +5% ความเสียหาย ต่อทุกๆ [Burst] ที่เป้าหมายมี (สูงสุด 50%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +5% ต่อทุกๆ [Burst] ที่เป้าหมายมี (สูงสุด 50%)\u200B</line-height>"
                 }
               ]
             }
@@ -1853,7 +1853,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เคเหะ\u200B</line-height>",
-          "desc": "<line-height=130%>[WinDuel] ทำ ความเสียหายเพิ่มเติ่มขึ้นอยู่กับจำนวนการปะทะ (+10% ความเสียหายเพิ่มเติม ต่อทุกๆ การปะทะ, สูงสุด 50%)\n[WinDuel] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 2 [Binding] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[WinDuel] ทำ ความเสียหายเพิ่มเติ่มขึ้นอยู่กับจำนวนการปะทะ (ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ การปะทะ, สูงสุด 50%)\n[WinDuel] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 2 [Binding] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
