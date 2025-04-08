@@ -263,7 +263,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EndSkill] มอบ 10% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ 1 other ally with the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] มอบ 10% of ยูนิทนี้'s สูงสุด HPมาเป็นโล่ แก่ตัวเอง และ 1 other ally with the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>- เมื่อมี 4+ Reson สูงสุด., มอบ it to 1 more ally\u200B</line-height>"
@@ -272,7 +272,7 @@
                   "desc": "<line-height=130%>- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'มอบ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.\u200B</line-height>"
                 }
               ]
             }
@@ -287,13 +287,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">14%</style> of ยูนิทนี้'s max HPมาเป็นโล่ to self และ <style=\"highlight\">(1 + (Reson สูงสุด. - 2))</style> allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n<style=\"highlight\">(สูงสุด # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)</style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">14%</style> of ยูนิทนี้'s สูงสุด HPมาเป็นโล่ แก่ตัวเอง และ <style=\"highlight\">(1 + (Reson สูงสุด. - 2))</style> allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n<style=\"highlight\">(สูงสุด # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)</style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'มอบ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -308,13 +308,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">20%</style> of ยูนิทนี้'s max HPมาเป็นโล่ to self และ (1 + (Reson สูงสุด. - 2)) allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n(สูงสุด # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">20%</style> of ยูนิทนี้'s สูงสุด HPมาเป็นโล่ แก่ตัวเอง และ (1 + (Reson สูงสุด. - 2)) allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n(สูงสุด # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'มอบ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -337,10 +337,10 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Sinking]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ได้รับ (15 + 2.5(Reson สูงสุด.))% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด 25%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ได้รับ (15 + 2.5(Reson สูงสุด.))% of ยูนิทนี้'s สูงสุด HPมาเป็นโล่ แก่ตัวเอง และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด 25%)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หาก ยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2\u200B</line-height>"
+                  "desc": "<line-height=130%>- หากยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'ได้รับ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.\u200B</line-height>"
@@ -361,13 +361,13 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Sinking]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ได้รับ (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(Reson สูงสุด.))% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">30%</style>)\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ได้รับ (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(Reson สูงสุด.))% of ยูนิทนี้'s สูงสุด HPมาเป็นโล่ แก่ตัวเอง และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">30%</style>)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หาก ยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- หากยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'มอบ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -385,16 +385,16 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Sinking] และ <style=\"highlight\">[Sinking] +3 ขั้น</style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ได้รับ (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(Reson สูงสุด.))% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">40%</style>)\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ได้รับ (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(Reson สูงสุด.))% of ยูนิทนี้'s สูงสุด HPมาเป็นโล่ แก่ตัวเอง และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">40%</style>)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หาก ยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- หากยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'มอบ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">- เมื่อมี 4+ Gloom Reson., ได้รับ additional โล่ เท่ากับ 10% of ยูนิทนี้'s max HP</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">- เมื่อมี 4+ Gloom Reson., ได้รับ additional โล่ เท่ากับ 10% of ยูนิทนี้'s สูงสุด HP</style>\u200B</line-height>"
                 }
               ]
             }

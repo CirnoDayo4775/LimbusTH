@@ -36,7 +36,7 @@
                   "desc": "<line-height=130%>[EndSkillTail] ฟื้นฟู 12 ค่าสติ for 2 allies with the least ค่าสติ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[CriticalEndSkill] ฟื้นฟู the ally with the lowest HP percentage for 6 HP; ฟื้นฟู the ally with the least ค่าสติ for 6 ค่าสติ\u200B</line-height>"
+                  "desc": "<line-height=130%>[CriticalEndSkill] ฟื้นฟู the ally with the lowest HP percentage for 6 HP; ฟื้นฟู the พันธมิตรที่มีค่าสติต่ำที่สุด for 6 ค่าสติ\u200B</line-height>"
                 }
               ]
             }
@@ -57,7 +57,7 @@
                   "desc": "<line-height=130%>[EndSkillTail] ฟื้นฟู 15 ค่าสติ for 2 allies with the least ค่าสติ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[CriticalEndSkill] ฟื้นฟู the ally with the lowest HP percentage for 8 HP; ฟื้นฟู the ally with the least ค่าสติ for 8 ค่าสติ\u200B</line-height>"
+                  "desc": "<line-height=130%>[CriticalEndSkill] ฟื้นฟู the ally with the lowest HP percentage for 8 HP; ฟื้นฟู the พันธมิตรที่มีค่าสติต่ำที่สุด for 8 ค่าสติ\u200B</line-height>"
                 }
               ]
             }
@@ -264,7 +264,7 @@
           "level": 1,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%>หากเป้าหมายมี [Vibration], ทำ +((the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 20%)\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี [Vibration], ทำ +((the ผลรวมของ ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 20%)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -282,7 +282,7 @@
           "level": 3,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%>หากเป้าหมายมี [Vibration], ทำ +((the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">25%</style>)\n<style=\"highlight\">- เมื่อมี 4+ Reson สูงสุด., ทำ +(5 + (the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด 35%)</style>\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี [Vibration], ทำ +((the ผลรวมของ ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">25%</style>)\n<style=\"highlight\">- เมื่อมี 4+ Reson สูงสุด., ทำ +(5 + (the ผลรวมของ ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด 35%)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -303,7 +303,7 @@
           "level": 4,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%>หากเป้าหมายมี [Vibration], ทำ +(<style=\"highlight\">5 +</style> (the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">30%</style>)\n- เมื่อมี 4+ Reson สูงสุด., ทำ +(<style=\"highlight\">7.5 +</style> (the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/<style=\"highlight\">1.5</style>)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด <style=\"highlight\">40%</style>)\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี [Vibration], ทำ +(<style=\"highlight\">5 +</style> (the ผลรวมของ ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">30%</style>)\n- เมื่อมี 4+ Reson สูงสุด., ทำ +(<style=\"highlight\">7.5 +</style> (the ผลรวมของ ปริมาณ [Vibration] และ Countบนเป้าหมาย)/<style=\"highlight\">1.5</style>)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด <style=\"highlight\">40%</style>)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -329,7 +329,7 @@
           "level": 1,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nหากเป้าหมายมี [Vibration], ทำ +((the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 25%)\n- เมื่อมี 4+ Reson สูงสุด., raise the above cap to (สูงสุด 35%)\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nหากเป้าหมายมี [Vibration], ทำ +((the ผลรวมของ ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 25%)\n- เมื่อมี 4+ Reson สูงสุด., raise the above cap to (สูงสุด 35%)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -347,7 +347,7 @@
           "level": 3,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nหากเป้าหมายมี [Vibration], ทำ +((the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">30%</style>)\n- เมื่อมี 4+ Reson สูงสุด., <style=\"highlight\">ทำ +(5 + (the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด 40%)</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nหากเป้าหมายมี [Vibration], ทำ +((the ผลรวมของ ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">30%</style>)\n- เมื่อมี 4+ Reson สูงสุด., <style=\"highlight\">ทำ +(5 + (the ผลรวมของ ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด 40%)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -371,7 +371,7 @@
           "level": 4,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nหากเป้าหมายมี [Vibration], ทำ +(<style=\"highlight\">5</style> + (the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">40%</style>)\n- เมื่อมี 4+ Reson สูงสุด., ทำ +(<style=\"highlight\">7.5</style> + (the sum of ปริมาณ [Vibration] และ Countบนเป้าหมาย)/<style=\"highlight\">1.5</style>)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด <style=\"highlight\">50%</style>)\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nหากเป้าหมายมี [Vibration], ทำ +(<style=\"highlight\">5</style> + (the ผลรวมของ ปริมาณ [Vibration] และ Countบนเป้าหมาย)/2)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">40%</style>)\n- เมื่อมี 4+ Reson สูงสุด., ทำ +(<style=\"highlight\">7.5</style> + (the ผลรวมของ ปริมาณ [Vibration] และ Countบนเป้าหมาย)/<style=\"highlight\">1.5</style>)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด <style=\"highlight\">50%</style>)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -439,7 +439,7 @@
           "level": 3,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "<line-height=130%><style=\"highlight\">If the sum of ยูนิทนี้ และ the target's Speed is 6 or greater, แต้มเหรียญ +1</style>\nแต้มเหรียญ +1 ต่อทุกๆ 7 [Burst] ของเป้าหมาย (สูงสุด 2)\n<style=\"highlight\">[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">If the ผลรวมของ ยูนิทนี้ และ the target's Speed is 6 or greater, แต้มเหรียญ +1</style>\nแต้มเหรียญ +1 ต่อทุกๆ 7 [Burst] ของเป้าหมาย (สูงสุด 2)\n<style=\"highlight\">[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -478,7 +478,7 @@
           "level": 4,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "<line-height=130%>If the sum of ยูนิทนี้ และ the target's Speed is 6 or greater, แต้มเหรียญ +1\nแต้มเหรียญ +1 ต่อทุกๆ 7 [Burst] ของเป้าหมาย (สูงสุด 2)\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า<style=\"highlight\"></style>\u200B</line-height>",
+          "desc": "<line-height=130%>If the ผลรวมของ ยูนิทนี้ และ the target's Speed is 6 or greater, แต้มเหรียญ +1\nแต้มเหรียญ +1 ต่อทุกๆ 7 [Burst] ของเป้าหมาย (สูงสุด 2)\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -560,7 +560,7 @@
           "level": 3,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n<style=\"highlight\">If the sum of ยูนิทนี้ และ the target's Speed is 6 or greater, แต้มเหรียญ +1</style>\nแต้มเหรียญ +1 ต่อทุกๆ 7 [Burst] ของเป้าหมาย (สูงสุด 2)\n<style=\"highlight\">[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n<style=\"highlight\">If the ผลรวมของ ยูนิทนี้ และ the target's Speed is 6 or greater, แต้มเหรียญ +1</style>\nแต้มเหรียญ +1 ต่อทุกๆ 7 [Burst] ของเป้าหมาย (สูงสุด 2)\n<style=\"highlight\">[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -595,7 +595,7 @@
           "level": 4,
           "name": "<line-height=120%>Lasso\u200B</line-height>",
           "abName": "Rose Hunter",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nIf the sum of ยูนิทนี้ และ the target's Speed is 6 or greater, แต้มเหรียญ +1\nแต้มเหรียญ +1 ต่อทุกๆ 7 [Burst] ของเป้าหมาย (สูงสุด 2)\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\n<style=\"highlight\">[BeforeAttack] เมื่อมี 4+ ความตะกละ or Lust Reson., ได้รับ +1 Atk Weight</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nIf the ผลรวมของ ยูนิทนี้ และ the target's Speed is 6 or greater, แต้มเหรียญ +1\nแต้มเหรียญ +1 ต่อทุกๆ 7 [Burst] ของเป้าหมาย (สูงสุด 2)\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\n<style=\"highlight\">[BeforeAttack] เมื่อมี 4+ ความตะกละ or Lust Reson., ได้รับ +1 Atk Weight</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

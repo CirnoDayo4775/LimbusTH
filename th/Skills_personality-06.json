@@ -136,7 +136,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Deploy [ChargeForceField]\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เมื่อมี [Charge] 10+ ขั้น, จ่ายขั้น [Charge] ทั้งหมดเพื่อมอบ (Consumedขั้น [Charge] / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (เศษปัดลง) to 2 allies with the lowest HP percentage\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เมื่อมี [Charge] 10+ ขั้น, จ่ายขั้น [Charge] ทั้งหมดเพื่อมอบ (Consumedขั้น [Charge] / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (เศษปัดลง) แก่ 2 พันธมิตร with the lowest HP percentage\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -155,7 +155,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Deploy [ChargeForceField]\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เมื่อมี [Charge] 10+ ขั้น, จ่ายขั้น [Charge] ทั้งหมดเพื่อมอบ (Consumedขั้น [Charge] / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (เศษปัดลง) to 2 allies with the lowest HP percentage\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เมื่อมี [Charge] 10+ ขั้น, จ่ายขั้น [Charge] ทั้งหมดเพื่อมอบ (Consumedขั้น [Charge] / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (เศษปัดลง) แก่ 2 พันธมิตร with the lowest HP percentage\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -278,7 +278,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก ยูนิทนี้ เร็วกว่าของเป้าหมาย, มอบ [Laceration] Count เท่ากับ their Speed difference (สูงสุด 2)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้ เร็วกว่าของเป้าหมาย, มอบ [Laceration] Count เท่ากับ their Speed difference (สูงสุด 2)\u200B</line-height>"
                 }
               ]
             }
@@ -306,7 +306,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก ยูนิทนี้ เร็วกว่าของเป้าหมาย, มอบ [Laceration] Count เท่ากับ their Speed difference (สูงสุด 3)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้ เร็วกว่าของเป้าหมาย, มอบ [Laceration] Count เท่ากับ their Speed difference (สูงสุด 3)\u200B</line-height>"
                 }
               ]
             }
@@ -334,7 +334,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก ยูนิทนี้ เร็วกว่าของเป้าหมาย, มอบ [Laceration] Count เท่ากับ their Speed difference (สูงสุด 4)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้ เร็วกว่าของเป้าหมาย, มอบ [Laceration] Count เท่ากับ their Speed difference (สูงสุด 4)\u200B</line-height>"
                 }
               ]
             }
@@ -779,7 +779,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- หาก ยูนิทนี้ did not จ่าย ขั้น [Vibration] with Skill use, เปิดใช้งาน the above effect, จากนั้น เปิดใช้ [VibrationExplosion]บนself\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- หากยูนิทนี้ did not จ่าย ขั้น [Vibration] with Skill use, เปิดใช้งานความสามารถดังกล่าว จากนั้น เปิดใช้ [VibrationExplosion]บนself\u200B</line-height>"
                 }
               ]
             }
@@ -788,7 +788,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>You're the Culprit!\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มปะทะ +1 ต่อทุกๆ <style=\"highlight\">6</style> [Vibration]บนเป้าหมาย <style=\"highlight\">(สูงสุด 2)</style>\n[WhenUse] เมื่อมี <style=\"highlight\"> less than 15 ขั้น [Vibration] ของตัวเอง</style>, จ่าย 10 ขั้น [Vibration] เพื่อได้รับ แต้มเหรียญ +2\n<style=\"highlight\">[WhenUse] จ่าย 15 ขั้น [Vibration] ของตัวเอง เพื่อได้รับ แต้มเหรียญ +3</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มปะทะ +1 ต่อทุกๆ <style=\"highlight\">6</style> [Vibration] ของเป้าหมาย <style=\"highlight\">(สูงสุด 2)</style>\n[WhenUse] เมื่อมี <style=\"highlight\"> less than 15 ขั้น [Vibration] ของตัวเอง</style>, จ่าย 10 ขั้น [Vibration] เพื่อได้รับ แต้มเหรียญ +2\n<style=\"highlight\">[WhenUse] จ่าย 15 ขั้น [Vibration] ของตัวเอง เพื่อได้รับ แต้มเหรียญ +3</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -814,7 +814,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] หากสกิลนี้จ่ายครบ 10+ ขั้น [Vibration]บนSkill Use, เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- หาก ยูนิทนี้ ที่จ่ายไป less than 15 ขั้น [Vibration], เปิดใช้ [VibrationExplosion]บนself after activating the above effect</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] หากสกิลนี้จ่ายครบ 10+ ขั้น [Vibration]บนSkill Use, เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\n- หากยูนิทนี้ ที่จ่ายไป less than 15 ขั้น [Vibration], เปิดใช้ [VibrationExplosion]บนself after activating the above effect</style>\u200B</line-height>"
                 }
               ]
             }
@@ -828,7 +828,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wait?!\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ 2 x (ขั้น [Vibration]บนเป้าหมาย)มาเป็นHP โล่ (สูงสุด 7)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ 2 x (ขั้น [Vibration] ของเป้าหมาย)มาเป็นHP โล่ (สูงสุด 7)\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -836,7 +836,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Wait?!\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ 2 x (ขั้น [Vibration]บนเป้าหมาย)มาเป็นHP โล่ (สูงสุด <style=\"highlight\">13</style>)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ 2 x (ขั้น [Vibration] ของเป้าหมาย)มาเป็นHP โล่ (สูงสุด <style=\"highlight\">13</style>)\u200B</line-height>",
           "coinlist": [
             {}
           ]

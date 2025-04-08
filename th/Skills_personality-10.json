@@ -330,7 +330,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Contre Attaque\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 หรือมากกว่า, แต้มเหรียญ +1\n[WinDuel] จ่าย 10 ขั้น [Breath]. ได้รับ [Breath] เท่ากับ ขั้น [Breath] ที่จ่ายไป.\n[WinDuel] หาก ยูนิทนี้ conducted a [OneOnOneDuel] with the target Slot's Attack Skill, มอบ 1 [Vulnerable]บนHit (2 ครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 หรือมากกว่า, แต้มเหรียญ +1\n[WinDuel] จ่าย 10 ขั้น [Breath]. ได้รับ [Breath] เท่ากับ ขั้น [Breath] ที่จ่ายไป.\n[WinDuel] หากยูนิทนี้ conducted a [OneOnOneDuel] with the target Slot's Attack Skill, มอบ 1 [Vulnerable]บนHit (2 ครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -352,7 +352,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Contre Attaque\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว (สูงสุด 3)\n[WinDuel] จ่าย 10 ขั้น [Breath]. ได้รับ [Breath] เท่ากับ ขั้น [Breath] ที่จ่ายไป. กับเป้าหมายที่มี [DuelDeclaration_Sinclair], ได้รับ [Breath] เท่ากับ (ขั้น [Breath] ที่จ่ายไป x 2) แทน\n[WinDuel] หาก ยูนิทนี้ conducted a [OneOnOneDuel] with the target Slot's Attack Skill, มอบ 1 [Vulnerable]บนHit (2 ครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว (สูงสุด 3)\n[WinDuel] จ่าย 10 ขั้น [Breath]. ได้รับ [Breath] เท่ากับ ขั้น [Breath] ที่จ่ายไป. กับเป้าหมายที่มี [DuelDeclaration_Sinclair], ได้รับ [Breath] เท่ากับ (ขั้น [Breath] ที่จ่ายไป x 2) แทน\n[WinDuel] หากยูนิทนี้ conducted a [OneOnOneDuel] with the target Slot's Attack Skill, มอบ 1 [Vulnerable]บนHit (2 ครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -640,7 +640,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Blazing Strike\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 4 (sum of [Combustion] Potencyบนall enemies) (สูงสุด 8)\n[WinDuel] ฟื้นฟู 10 ค่าสติ\n[DefeatDuel] เสีย 30 ค่าสติ\nทำ ความเสียหายเพิ่มเติม +5%  ต่อทุกๆ Wrath Reson. (สูงสุด 30%)\n[EndSkill] เสีย 15 ค่าสติ\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 4 (ผลรวมของ [Combustion] Potencyบนall enemies) (สูงสุด 8)\n[WinDuel] ฟื้นฟู 10 ค่าสติ\n[DefeatDuel] เสีย 30 ค่าสติ\nทำ ความเสียหายเพิ่มเติม +5%  ต่อทุกๆ Wrath Reson. (สูงสุด 30%)\n[EndSkill] เสีย 15 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -649,7 +649,7 @@
                   "summary": "ทำ ความเสียหายเพิ่มเติ่ม basedบน[Combustion] ของเป้าหมาย"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 10+ [Combustion], มอบ 2 [Combustion] aได้รับst (# of Reson สูงสุด.) random enemies\u200B</line-height>",
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 10+ [Combustion], มอบ 2 [Combustion] แก่ (# of Reson สูงสุด.) random enemies\u200B</line-height>",
                   "summary": "[OnSucceedAttack] มอบ [Combustion] basedบนReson."
                 },
                 {
@@ -666,7 +666,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Blazing Strike\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มเหรียญ +<style=\"highlight\">2</style> ต่อทุกๆ 4 (sum of [Combustion] Potencyบนall enemies) (สูงสุด 8)\n[WinDuel] ฟื้นฟู 10 ค่าสติ\n[DefeatDuel] เสีย 30 ค่าสติ\nทำ +<style=\"highlight\">10</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ Wrath Reson. (สูงสุด <style=\"highlight\">60</style>%)\n<style=\"highlight\">หากมี 4+ highest Wrath A-Reson., ทำ ความเสียหายเพิ่มเติม +20%  ต่อทุกๆ Wrath Reson. instead (สูงสุด 120%)</style>\n[EndSkill] เสีย 15 ค่าสติ\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มเหรียญ +<style=\"highlight\">2</style> ต่อทุกๆ 4 (ผลรวมของ [Combustion] Potencyบนall enemies) (สูงสุด 8)\n[WinDuel] ฟื้นฟู 10 ค่าสติ\n[DefeatDuel] เสีย 30 ค่าสติ\nทำ +<style=\"highlight\">10</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ Wrath Reson. (สูงสุด <style=\"highlight\">60</style>%)\n<style=\"highlight\">หากมี 4+ highest Wrath A-Reson., ทำ ความเสียหายเพิ่มเติม +20%  ต่อทุกๆ Wrath Reson. instead (สูงสุด 120%)</style>\n[EndSkill] เสีย 15 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -675,7 +675,7 @@
                   "summary": "ทำ ความเสียหายเพิ่มเติ่ม basedบน[Combustion] ของเป้าหมาย"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 10+ [Combustion], มอบ 2 [Combustion] aได้รับst (# of Reson สูงสุด.) random enemies\n<style=\"highlight\">- หาก the above Reson. was a Wrath Reson., มอบ [Combustion] +1 ขั้นเช่นกัน</style>\u200B</line-height>",
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 10+ [Combustion], มอบ 2 [Combustion] แก่ (# of Reson สูงสุด.) random enemies\n<style=\"highlight\">- หาก the above Reson. was a Wrath Reson., มอบ [Combustion] +1 ขั้นเช่นกัน</style>\u200B</line-height>",
                   "summary": "[OnSucceedAttack] มอบ [Combustion] basedบนReson."
                 },
                 {
@@ -771,7 +771,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]บน1 other ally with [DefenseUp], มอบ (([DefenseUp]บนthe ally)/3) [AttackUp] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น, max 3)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]บน1 other ally with [DefenseUp], มอบ (([DefenseUp]บนthe ally)/3) [AttackUp] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น, สูงสุด 3)\u200B</line-height>"
                 }
               ]
             }
@@ -792,7 +792,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]บน1 other ally with [DefenseUp], มอบ (([DefenseUp]บนthe ally)/<style=\"highlight\">2</style>) [AttackUp] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น, max 3)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]บน1 other ally with [DefenseUp], มอบ (([DefenseUp]บนthe ally)/<style=\"highlight\">2</style>) [AttackUp] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น, สูงสุด 3)\u200B</line-height>"
                 }
               ]
             }
@@ -813,7 +813,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]บน<style=\"highlight\">2 other allies</style> with [DefenseUp], มอบ (([DefenseUp]บนthe ally)/2) [AttackUp] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น, max 3)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]บน<style=\"highlight\">2 other allies</style> with [DefenseUp], มอบ (([DefenseUp]บนthe ally)/2) [AttackUp] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น, สูงสุด 3)\u200B</line-height>"
                 }
               ]
             }
@@ -846,7 +846,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 8 ขั้น [Vibration] ของตัวเอง, และ มอบ the same amount of ขั้น [Vibration]บนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 8 ขั้น [Vibration] ของตัวเอง, และ มอบ the same amount of ขั้น [Vibration] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\u200B</line-height>"
@@ -877,7 +877,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 8 ขั้น [Vibration] ของตัวเอง, และ มอบ the same amount of ขั้น [Vibration]บนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 8 ขั้น [Vibration] ของตัวเอง, และ มอบ the same amount of ขั้น [Vibration] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\u200B</line-height>"
@@ -932,7 +932,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [DevyatDimensionalSackSinclair]\n- หาก ยูนิทนี้มี less than 15 [DevyatDimensionalSackSinclair], ได้รับเพิ่มเติมอีก 1 [DevyatDimensionalSackSinclair]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [DevyatDimensionalSackSinclair]\n- หากยูนิทนี้มี less than 15 [DevyatDimensionalSackSinclair], ได้รับเพิ่มเติมอีก 1 [DevyatDimensionalSackSinclair]\u200B</line-height>"
                 }
               ]
             },
@@ -953,7 +953,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [DevyatDimensionalSackSinclair]\n- หาก ยูนิทนี้มี less than 15 [DevyatDimensionalSackSinclair], ได้รับเพิ่มเติมอีก 1 [DevyatDimensionalSackSinclair]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [DevyatDimensionalSackSinclair]\n- หากยูนิทนี้มี less than 15 [DevyatDimensionalSackSinclair], ได้รับเพิ่มเติมอีก 1 [DevyatDimensionalSackSinclair]\u200B</line-height>"
                 }
               ]
             },
@@ -974,7 +974,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [DevyatDimensionalSackSinclair]\n- หาก ยูนิทนี้มี less than 15 [DevyatDimensionalSackSinclair], ได้รับเพิ่มเติมอีก 1 [DevyatDimensionalSackSinclair]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [DevyatDimensionalSackSinclair]\n- หากยูนิทนี้มี less than 15 [DevyatDimensionalSackSinclair], ได้รับเพิ่มเติมอีก 1 [DevyatDimensionalSackSinclair]\u200B</line-height>"
                 }
               ]
             },
@@ -1000,7 +1000,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [DevyatDimensionalSackSinclair]\n- หาก ยูนิทนี้มี less than 15 [DevyatDimensionalSackSinclair], ได้รับ 2 additional [DevyatDimensionalSackSinclair]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [DevyatDimensionalSackSinclair]\n- หากยูนิทนี้มี less than 15 [DevyatDimensionalSackSinclair], ได้รับเพิ่มเติมอีก 2 [DevyatDimensionalSackSinclair]\u200B</line-height>"
                 }
               ]
             },
@@ -1028,7 +1028,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [DevyatDimensionalSackSinclair]\n- หาก ยูนิทนี้มี less than 15 [DevyatDimensionalSackSinclair], ได้รับ 2 additional [DevyatDimensionalSackSinclair]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [DevyatDimensionalSackSinclair]\n- หากยูนิทนี้มี less than 15 [DevyatDimensionalSackSinclair], ได้รับเพิ่มเติมอีก 2 [DevyatDimensionalSackSinclair]\u200B</line-height>"
                 }
               ]
             },
@@ -1056,7 +1056,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [DevyatDimensionalSackSinclair]\n- หาก ยูนิทนี้มี less than 15 [DevyatDimensionalSackSinclair], ได้รับ 2 additional [DevyatDimensionalSackSinclair]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [DevyatDimensionalSackSinclair]\n- หากยูนิทนี้มี less than 15 [DevyatDimensionalSackSinclair], ได้รับเพิ่มเติมอีก 2 [DevyatDimensionalSackSinclair]\u200B</line-height>"
                 }
               ]
             },
@@ -1145,7 +1145,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Courier Assistance & Crisis Control System\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] เมื่อมี 15+ [DevyatDimensionalSackSinclair], เปิดใช้งาน 'W-wait, I need to do some maintenance...!.' instead (1 ครั้งต่อเทิร์น)\n[StartBattle] หาก this Skill is to be activated, ได้รับ ([DevyatDimensionalSackSinclair] / 2)% of ยูนิทนี้'s max HPมาเป็นโล่ (สูงสุด 15%, อีกครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] เมื่อมี 15+ [DevyatDimensionalSackSinclair], เปิดใช้งาน 'W-wait, I need to do some maintenance...!.' instead (1 ครั้งต่อเทิร์น)\n[StartBattle] หาก this Skill is to be activated, ได้รับ ([DevyatDimensionalSackSinclair] / 2)% of ยูนิทนี้'s สูงสุด HPมาเป็นโล่ (สูงสุด 15%, ครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1159,7 +1159,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Courier Assistance & Crisis Control System\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] เมื่อมี 15+ [DevyatDimensionalSackSinclair], เปิดใช้งาน 'W-wait, I need to do some maintenance...!' instead (1 ครั้งต่อเทิร์น)\n[StartBattle] หาก this Skill is to be activated, ได้รับ <style=\"highlight\">([DevyatDimensionalSackSinclair])%</style> of ยูนิทนี้'s max HPมาเป็นโล่ (สูงสุด <style=\"highlight\">25%</style>, อีกครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] เมื่อมี 15+ [DevyatDimensionalSackSinclair], เปิดใช้งาน 'W-wait, I need to do some maintenance...!' instead (1 ครั้งต่อเทิร์น)\n[StartBattle] หาก this Skill is to be activated, ได้รับ <style=\"highlight\">([DevyatDimensionalSackSinclair])%</style> of ยูนิทนี้'s สูงสุด HPมาเป็นโล่ (สูงสุด <style=\"highlight\">25%</style>, ครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1178,7 +1178,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>W-wait, I need to do some maintenance...!\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] หาก this Skill is to be activated, ได้รับ ([DevyatDimensionalSackSinclair])% of ยูนิทนี้'s max HPมาเป็นโล่ (สูงสุด 15%, อีกครั้ง ต่อทุกๆ เทิร์น)\n[EndBattle] เปิดใช้งาน [Retreat]\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] หาก this Skill is to be activated, ได้รับ ([DevyatDimensionalSackSinclair])% of ยูนิทนี้'s สูงสุด HPมาเป็นโล่ (สูงสุด 15%, ครั้ง ต่อทุกๆ เทิร์น)\n[EndBattle] เปิดใช้งาน [Retreat]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1192,7 +1192,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>W-wait, I need to do some maintenance...!\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] หาก this Skill is to be activated, ได้รับ <style=\"highlight\">([DevyatDimensionalSackSinclair])%</style> of ยูนิทนี้'s max HPมาเป็นโล่ (สูงสุด <style=\"highlight\">25%</style>, อีกครั้ง ต่อทุกๆ เทิร์น)\n[EndBattle] เปิดใช้งาน [Retreat]\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] หาก this Skill is to be activated, ได้รับ <style=\"highlight\">([DevyatDimensionalSackSinclair])%</style> of ยูนิทนี้'s สูงสุด HPมาเป็นโล่ (สูงสุด <style=\"highlight\">25%</style>, ครั้ง ต่อทุกๆ เทิร์น)\n[EndBattle] เปิดใช้งาน [Retreat]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1211,7 +1211,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Is it You?!\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ +2 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[WhenUse] ฟื้นฟู 5 แก่ตัวเอง\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ +2 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[WhenUse] ฟื้นฟู 5 ค่าสติ แก่ตัวเอง\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1232,7 +1232,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Is it You?!\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[WhenUse] ฟื้นฟู 5 แก่ตัวเอง\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[WhenUse] ฟื้นฟู 5 ค่าสติ แก่ตัวเอง\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1253,7 +1253,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Is it You?!\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] ได้รับ +<style=\"highlight\">5</style> [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[WhenUse] ฟื้นฟู 5 แก่ตัวเอง\n<style=\"highlight\">- เมื่อมี max ค่าสติ ได้รับ แต้มปะทะ +1 instead</style>\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] ได้รับ +<style=\"highlight\">5</style> [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[WhenUse] ฟื้นฟู 5 ค่าสติ แก่ตัวเอง\n<style=\"highlight\">- เมื่อมี สูงสุด ค่าสติ ได้รับ แต้มปะทะ +1 instead</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1323,7 +1323,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ล้างแค้น with Interest\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] This Skill Slot ได้รับs <style=\"highlight\">5</style> [Aggro] ในเทิร์นหน้า\n[StartBattle] สกิลนี้ได้รับ (Reson สูงสุด. / 2) Offense Level (สูงสุด 3, เศษปัดลง)\n<style=\"highlight\">- หากReson ดังกล่าว. includes an A-Reson., double the Offense Level ได้รับed from the above effect</style>\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] This Skill Slot ได้รับs <style=\"highlight\">5</style> [Aggro] ในเทิร์นหน้า\n[StartBattle] สกิลนี้ได้รับ (Reson สูงสุด. / 2) Offense Level (สูงสุด 3, เศษปัดลง)\n<style=\"highlight\">- หากReson ดังกล่าว. includes an A-Reson., double the Offense Level ที่ได้รับ from the above effect</style>\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -1375,7 +1375,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Write 'em all down\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +1%  ต่อทุกๆ <style=\"highlight\">1</style> [VengeanceBookSinclair] (สูงสุด <style=\"highlight\">30%</style>)\n<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 2)</style>\n[StartBattle] สกิลนี้ได้รับ (Reson สูงสุด. / 2) Offense Level (สูงสุด 3, เศษปัดลง)\n<style=\"highlight\">- หากReson ดังกล่าว. includes an A-Reson., double the Offense Level ได้รับed from the above effect</style>\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +1%  ต่อทุกๆ <style=\"highlight\">1</style> [VengeanceBookSinclair] (สูงสุด <style=\"highlight\">30%</style>)\n<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 2)</style>\n[StartBattle] สกิลนี้ได้รับ (Reson สูงสุด. / 2) Offense Level (สูงสุด 3, เศษปัดลง)\n<style=\"highlight\">- หากReson ดังกล่าว. includes an A-Reson., double the Offense Level ที่ได้รับ from the above effect</style>\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -1426,7 +1426,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Warmup in the East\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">[StartBattle] Skill behavior changes basedบนthe sum of Envy A-Reson.:\n- เมื่อมี 4+ sum of A-Reson., ใช้ 'ล้างแค้น with Interest'เป็นCounter\n- เมื่อมี 6+ sum of A-Reson., ใช้ 'Write 'em all down'เป็นCounter\n(Activates from the leftmost Skill Slot. Activates 2 ครั้ง ต่อเทิร์น)</style>\n[StartBattle] ได้รับ <style=\"highlight\">30%</style> of missing HPมาเป็นโล่ (1 ครั้งต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">[StartBattle] Skill behavior changes basedบนthe ผลรวมของ Envy A-Reson.:\n- เมื่อมี 4+ ผลรวมของ A-Reson., ใช้ 'ล้างแค้น with Interest' เป็นการสวนกลับ\n- เมื่อมี 6+ ผลรวมของ A-Reson., ใช้ 'Write 'em all down' เป็นการสวนกลับ\n(Activates from the leftmost Skill Slot. เปิดใช้ได้ 2 ครั้ง ต่อเทิร์น)</style>\n[StartBattle] ได้รับ <style=\"highlight\">30%</style> of missing HPมาเป็นโล่ (1 ครั้งต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

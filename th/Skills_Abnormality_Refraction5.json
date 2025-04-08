@@ -61,7 +61,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only aได้รับst the main target.\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only แก่ the main target.\u200B</line-height>"
                 }
               ]
             },
@@ -71,7 +71,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only aได้รับst the sub-targets\n- หาก the first เหรียญ failed to kill the ally or หากเป้าหมาย wasn't Staggered, 1 random sub-target ได้รับs ความเสียหาย\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only แก่ the sub-targets\n- หาก the first เหรียญ failed to kill the ally or หากเป้าหมาย wasn't Staggered, 1 random sub-target ได้รับs ความเสียหาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Sinking]\u200B</line-height>"
@@ -110,7 +110,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>See Through Defenses\u200B</line-height>",
-          "desc": "<line-height=130%>[DefeatDuel] Halve [Breath] ของตัวเอง\n- Any [Breath] ได้รับed during ในเทิร์นนี้ are halved เช่นกัน\n- ได้รับ 4 [Paralysis] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[DefeatDuel] Halve [Breath] ของตัวเอง\n- Any [Breath] ที่ได้รับ during ในเทิร์นนี้ are halved เช่นกัน\n- ได้รับ 4 [Paralysis] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -140,7 +140,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only aได้รับst the main target.\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only แก่ the main target.\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>หากเป้าหมายมี [FellBulletMark], ทำ +100% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
@@ -156,7 +156,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only aได้รับst the sub-targets\n- หาก the first เหรียญ failed to ฆ่าเป้าหมายทันที, 2 random sub-targets ได้รับ ความเสียหาย\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only แก่ the sub-targets\n- หาก the first เหรียญ failed to ฆ่าเป้าหมายทันที, 2 random sub-targets ได้รับ ความเสียหาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[UnBrokenCoinOnSucceedAttack] มอบ 5 [Sinking] และ 5 [Laceration]\u200B</line-height>"
@@ -181,7 +181,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only aได้รับst the main target\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only แก่ the main target\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[UnBrokenCoinOnSucceedAttack] หากเป้าหมายมี [FellBulletMark], ฆ่าเป้าหมายทันที\u200B</line-height>"
@@ -197,7 +197,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only aได้รับst the sub-targets\n- หาก the first เหรียญ failed to ฆ่าเป้าหมายทันที, 1 random sub-target ได้รับs ความเสียหาย\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only แก่ the sub-targets\n- หาก the first เหรียญ failed to ฆ่าเป้าหมายทันที, 1 random sub-target ได้รับs ความเสียหาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[UnBrokenCoinOnSucceedAttack] มอบ 5 [Sinking] และ 5 [Laceration]\u200B</line-height>"
@@ -480,7 +480,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Polydipsic Petals\u200B</line-height>",
-          "desc": "<line-height=130%>โจมตีศัครูที่มี the highest sum of ปริมาณ [Laceration] + Count\n[WhenUse] หากเป้าหมายมี 6+ ปริมาณ [Laceration], แต้มรวม +2\u200B</line-height>",
+          "desc": "<line-height=130%>โจมตีศัครูที่มี the highest ผลรวมของ ปริมาณ [Laceration] + Count\n[WhenUse] หากเป้าหมายมี 6+ ปริมาณ [Laceration], แต้มรวม +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -506,7 +506,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Bursting Petals\u200B</line-height>",
-          "desc": "<line-height=130%>โจมตีศัครูที่มี the highest sum of ปริมาณ [Laceration] + Count\n[WhenUse] หากเป้าหมายมี 6+ ปริมาณ [Laceration], แต้มรวม +2\u200B</line-height>",
+          "desc": "<line-height=130%>โจมตีศัครูที่มี the highest ผลรวมของ ปริมาณ [Laceration] + Count\n[WhenUse] หากเป้าหมายมี 6+ ปริมาณ [Laceration], แต้มรวม +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -602,7 +602,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Endless Spring of Blood\u200B</line-height>",
-          "desc": "<line-height=130%>[DuelCounter]\n[WhenUse] Targets that clash aได้รับst this Skill do not เสีย ขั้น [Laceration] while clashing\u200B</line-height>",
+          "desc": "<line-height=130%>[DuelCounter]\n[WhenUse] Targets that clash แก่ this Skill do not เสีย ขั้น [Laceration] while clashing\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

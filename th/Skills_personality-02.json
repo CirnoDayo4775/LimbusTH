@@ -36,7 +36,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ลาดตระเวน\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ +2 Aggro แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 3 [DefenseUp]\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ +2[Aggro]แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[DefeatDuel] ได้รับ 3 [DefenseUp]\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -151,7 +151,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Apply 1 [Agility] และ 2 [DefenseUp] แก่พันธมิตรที่มี เปอร์เซนต์HP ต่ำที่สุด ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>มอบ 1 [Agility] และ 2 [DefenseUp] แก่พันธมิตรที่มี เปอร์เซนต์HP ต่ำที่สุด ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -166,7 +166,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>Apply 1 [Agility] และ 2 [DefenseUp] แก่พันธมิตรที่มี เปอร์เซนต์HP ต่ำที่สุด ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>มอบ 1 [Agility] และ 2 [DefenseUp] แก่พันธมิตรที่มี เปอร์เซนต์HP ต่ำที่สุด ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>หากพันธมิตรเป็น Zwei Association Fixer, มอบ เพิ่มเติมอีก 1 [Agility], 1 [DefenseUp]\u200B</line-height>"
@@ -191,7 +191,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ +3 Aggro แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ +3[Aggro]แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -1205,7 +1205,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>ถูกล่อโดยเปลวเพลิง\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] ได้รับ 7 [Combustion] และ [Combustion] +1 ขั้น\n[BeforeUse] เมื่อมี 30+ [Combustion], เปิดใช้งาน 'A.B.S ความเข็มข้นสูงสุด 【การกัดกร่อนแบบเสื่อมฤทธิ์】’ แทน\n[WhenUse] ทำ +7.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Combustion] บนตัวเอง (สูงสุด 30%)\n[WhenUse] เมื่อมี 10+ ([Combustion] บนตัวเอง + [Combustion] ของเป้าหมาย), แต้มตั้งต้น +1\n[WhenUse] หาก ยูนิทนี้มี HP ที่หากไปถึง 30%+ HP, แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] ได้รับ 7 [Combustion] และ [Combustion] +1 ขั้น\n[BeforeUse] เมื่อมี 30+ [Combustion], เปิดใช้งาน 'A.B.S ความเข็มข้นสูงสุด 【การกัดกร่อนแบบเสื่อมฤทธิ์】’ แทน\n[WhenUse] ทำ +7.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Combustion] บนตัวเอง (สูงสุด 30%)\n[WhenUse] เมื่อมี 10+ ([Combustion] บนตัวเอง + [Combustion] ของเป้าหมาย), แต้มตั้งต้น +1\n[WhenUse] หากยูนิทนี้มี HP ที่หากไปถึง 30%+ HP, แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1227,7 +1227,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ถูกล่อโดยเปลวเพลิง\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] ได้รับ 7 [Combustion] และ [Combustion] +1 ขั้น\n[BeforeUse] เมื่อมี 30+ [Combustion], เปิดใช้งาน 'A.B.S ความเข็มข้นสูงสุด 【การกัดกร่อนแบบเสื่อมฤทธิ์】’ แทน\n[WhenUse] ทำ +12.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Combustion] บนตัวเอง (สูงสุด 50%)\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 10 ([Combustion] บนตัวเอง + [Combustion] ของเป้าหมาย) (สูงสุด 2)\n[WhenUse] หาก ยูนิทนี้มี HP ที่หากไปถึง 30%+ HP, แต้มเหรียญ +1 (สูงสุด 2)\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] ได้รับ 7 [Combustion] และ [Combustion] +1 ขั้น\n[BeforeUse] เมื่อมี 30+ [Combustion], เปิดใช้งาน 'A.B.S ความเข็มข้นสูงสุด 【การกัดกร่อนแบบเสื่อมฤทธิ์】’ แทน\n[WhenUse] ทำ +12.5% ความเสียหายเพิ่มเติม ต่อทุกๆ 5 [Combustion] บนตัวเอง (สูงสุด 50%)\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 10 ([Combustion] บนตัวเอง + [Combustion] ของเป้าหมาย) (สูงสุด 2)\n[WhenUse] หากยูนิทนี้มี HP ที่หากไปถึง 30%+ HP, แต้มเหรียญ +1 (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

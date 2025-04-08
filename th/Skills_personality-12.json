@@ -85,7 +85,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Flexible Suppression\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ 3 [DefenseUp]\n[WhenUse] ได้รับ +2 Aggro แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ 3 [DefenseUp]\n[WhenUse] ได้รับ +2[Aggro]แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -114,7 +114,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Flexible Suppression\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ 3 [DefenseUp]\n[WhenUse] ได้รับ +3 Aggro แก่สล็อตสกิลนี้ ในเทิร์นหน้า\nเมื่อมี 6+ [DefenseUp], แต้มปะทะ +1\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ 3 [DefenseUp]\n[WhenUse] ได้รับ +3[Aggro]แก่สล็อตสกิลนี้ ในเทิร์นหน้า\nเมื่อมี 6+ [DefenseUp], แต้มปะทะ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -193,7 +193,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>The Best Defense\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] ได้รับ โล่ ไป (2 * [DefenseUp] ของตัวเอง)\n[WhenUse] ได้รับ +5 Aggro แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] ได้รับ โล่ ไป (2 * [DefenseUp] ของตัวเอง)\n[WhenUse] ได้รับ +5[Aggro]แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -794,7 +794,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Nightmare Hunt\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 3 ขั้น [Sinking]บนเป้าหมาย (สูงสุด 2)\n[EndSkill] หากเป้าหมาย หาก Stagger, มอบ [Sinking] +3 ขั้น\n[EndSkill] หาก target ตาย, มอบ [Sinking] +3 ขั้นบน1 random enemy\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 3 ขั้น [Sinking]บนเป้าหมาย (สูงสุด 2)\n[EndSkill] หากเป้าหมาย หาก Stagger, มอบ [Sinking] +3 ขั้น\n[EndSkill] หากเป้าหมายตาย, มอบ [Sinking] +3 ขั้นบน1 random enemy\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -829,7 +829,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Nightmare Hunt\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 3 ขั้น [Sinking]บนเป้าหมาย (สูงสุด 3)\n[EndSkill] หากเป้าหมาย หาก Stagger, มอบ [Sinking] +3 ขั้น\n[EndSkill] หาก target ตาย, มอบ [Sinking] +3 ขั้น แก่ 2 ศัตรูแบบสุ่ม\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 3 ขั้น [Sinking]บนเป้าหมาย (สูงสุด 3)\n[EndSkill] หากเป้าหมาย หาก Stagger, มอบ [Sinking] +3 ขั้น\n[EndSkill] หากเป้าหมายตาย, มอบ [Sinking] +3 ขั้น แก่ 2 ศัตรูแบบสุ่ม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1044,7 +1044,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>The Unforgivable Sin\u200B</line-height>",
-          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู 50% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 100 ต่อทุกๆ Skill)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +1%  ต่อทุกๆ 1% HP ที่เสียไปของตัวเอง (สูงสุด 60%)\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] จ่าย every excess Stack of [BloodyHandGregFirst] past 10 Stack เพื่อได้รับ the following effects:\n- ฟื้นฟู (Stacks ที่จ่ายไป x 3) HP บนตัวเอง\n- หาก ยูนิทนี้ ที่จ่ายไป 10+ Stack, แต้มเหรียญ +1\n[WhenUse] ได้รับ 10 [Laceration]\n[EndSkill] ฟื้นฟู 10% HP บนตัวเอง\u200B</line-height>",
+          "desc": "<line-height=130%>เมื่อโจมตีโดนด้วยสกิลนี้: ฟื้นฟู HP 50% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 100 ต่อทุกๆ Skill)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +1%  ต่อทุกๆ 1% HP ที่เสียไปของตัวเอง (สูงสุด 60%)\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] จ่าย every excess Stack of [BloodyHandGregFirst] past 10 Stack เพื่อได้รับ the following effects:\n- ฟื้นฟู (Stacks ที่จ่ายไป x 3) HP บนตัวเอง\n- หากยูนิทนี้ ที่จ่ายไป 10+ Stack, แต้มเหรียญ +1\n[WhenUse] ได้รับ 10 [Laceration]\n[EndSkill] ฟื้นฟู 10% HP บนตัวเอง\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1078,7 +1078,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>The Unforgivable Sin\u200B</line-height>",
-          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู 50% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 100 ต่อทุกๆ Skill)\n[WhenUse] ทำ <style=\"highlight\">+1.5%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ 1% HP ที่เสียไปของตัวเอง <style=\"highlight\">(สูงสุด 90%)</style>\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] จ่าย every excess Stack of [BloodyHandGregFirst] past 10 Stack เพื่อได้รับ the following effects:\n- ฟื้นฟู (Stacks ที่จ่ายไป x 3) HP บนตัวเอง\n- หาก ยูนิทนี้ ที่จ่ายไป 10+ Stack, แต้มเหรียญ +1\n<style=\"highlight\">- หาก ยูนิทนี้ ที่จ่ายไป 20 Stack, Reuse the final Coin</style>\n[WhenUse] ได้รับ 10 [Laceration]\n[EndSkill] ฟื้นฟู 10% HP บนตัวเอง\u200B</line-height>",
+          "desc": "<line-height=130%>เมื่อโจมตีโดนด้วยสกิลนี้: ฟื้นฟู HP 50% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 100 ต่อทุกๆ Skill)\n[WhenUse] ทำ <style=\"highlight\">+1.5%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ 1% HP ที่เสียไปของตัวเอง <style=\"highlight\">(สูงสุด 90%)</style>\n[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] จ่าย every excess Stack of [BloodyHandGregFirst] past 10 Stack เพื่อได้รับ the following effects:\n- ฟื้นฟู (Stacks ที่จ่ายไป x 3) HP บนตัวเอง\n- หากยูนิทนี้ ที่จ่ายไป 10+ Stack, แต้มเหรียญ +1\n<style=\"highlight\">- หากยูนิทนี้ ที่จ่ายไป 20 Stack, Reuse the final Coin</style>\n[WhenUse] ได้รับ 10 [Laceration]\n[EndSkill] ฟื้นฟู 10% HP บนตัวเอง\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1226,7 +1226,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย 10 [FirePunchFuel] และ มอบ 1 [Combustion] aได้รับst 2 enemies with the least [Combustion] Potency\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย 10 [FirePunchFuel] และ มอบ 1 [Combustion] แก่ 2 enemies with the least [Combustion] Potency\u200B</line-height>"
                 }
               ]
             },
@@ -1236,7 +1236,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Combustion] +1 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย 10 [FirePunchFuel] และ มอบ [Combustion] +1 ขั้น aได้รับst 1 ศัตรูที่มี the least ขั้น [Combustion]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย 10 [FirePunchFuel] และ มอบ [Combustion] +1 ขั้น แก่ 1 ศัตรูที่มี the least ขั้น [Combustion]\u200B</line-height>"
                 }
               ]
             }
@@ -1253,7 +1253,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย 10 [FirePunchFuel] และ มอบ 1 [Combustion] aได้รับst 2 enemies with the least [Combustion] Potency<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย 10 [FirePunchFuel] และ มอบ 1 [Combustion] แก่ 2 enemies with the least [Combustion] Potency<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             },
@@ -1263,7 +1263,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Combustion] +1 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย 10 [FirePunchFuel] และ มอบ [Combustion] +1 ขั้น aได้รับst <style=\"highlight\">2 enemies</style> with the least ขั้น [Combustion]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย 10 [FirePunchFuel] และ มอบ [Combustion] +1 ขั้น แก่ <style=\"highlight\">2 enemies</style> with the least ขั้น [Combustion]\u200B</line-height>"
                 }
               ]
             }
@@ -1280,7 +1280,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย 10 [FirePunchFuel] และ มอบ <style=\"highlight\">2</style> [Combustion] aได้รับst 2 enemies with the least [Combustion] Potency\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย 10 [FirePunchFuel] และ มอบ <style=\"highlight\">2</style> [Combustion] แก่ 2 enemies with the least [Combustion] Potency\u200B</line-height>"
                 }
               ]
             },
@@ -1290,7 +1290,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">+2</style> ขั้น [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย 10 [FirePunchFuel] และ มอบ [Combustion] +1 ขั้น aได้รับst 2 enemies with the least ขั้น [Combustion]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย 10 [FirePunchFuel] และ มอบ [Combustion] +1 ขั้น แก่ 2 enemies with the least ขั้น [Combustion]\u200B</line-height>"
                 }
               ]
             }
@@ -1304,19 +1304,19 @@
         {
           "level": 3,
           "name": "<line-height=120%>Firefist\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายมี 3+ ขั้น [Combustion], แต้มเหรียญ +1\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 6 [Combustion] ของเป้าหมาย (สูงสุด 2)\n[WhenUse] จ่ายสูงสุด 25 [FirePunchFuel] และ ทำ ความเสียหายเพิ่มเติม +1%  ต่อทุกๆ [FirePunchFuel] ที่จ่ายไป (สูงสุด 25%)\n- When in [FirePunchFuelOverheated] state, ทำ ความเสียหายเพิ่มเติม +3%  ต่อทุกๆ [FirePunchFuel] ที่จ่ายไป instead (สูงสุด 75%)\n[EndSkill] หาก target ตาย, หรือ หากสกิลนี้จ่ายครบ [FirePunchFuel], ได้รับ 1 [HitDamageUp] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี 3+ ขั้น [Combustion], แต้มเหรียญ +1\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 6 [Combustion] ของเป้าหมาย (สูงสุด 2)\n[WhenUse] จ่ายสูงสุด 25 [FirePunchFuel] และ ทำ ความเสียหายเพิ่มเติม +1%  ต่อทุกๆ [FirePunchFuel] ที่จ่ายไป (สูงสุด 25%)\n- When in [FirePunchFuelOverheated] state, ทำ ความเสียหายเพิ่มเติม +3%  ต่อทุกๆ [FirePunchFuel] ที่จ่ายไป instead (สูงสุด 75%)\n[EndSkill] หากเป้าหมายตาย, หรือ หากสกิลนี้จ่ายครบ [FirePunchFuel], ได้รับ 1 [HitDamageUp] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก ยูนิทนี้ ที่จ่ายไป [FirePunchFuel], มอบ 1 [Combustion] และ [Combustion] +1 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้ ที่จ่ายไป [FirePunchFuel], มอบ 1 [Combustion] และ [Combustion] +1 ขั้น\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก ยูนิทนี้ ที่จ่ายไป [FirePunchFuel], มอบ 1 [Combustion] และ [Combustion] +1 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้ ที่จ่ายไป [FirePunchFuel], มอบ 1 [Combustion] และ [Combustion] +1 ขั้น\u200B</line-height>"
                 }
               ]
             },
@@ -1332,19 +1332,19 @@
         {
           "level": 4,
           "name": "<line-height=120%>Firefist\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 3 ขั้น [Combustion] ของเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 6 [Combustion] ของเป้าหมาย (สูงสุด <style=\"highlight\">3</style>)\n[WhenUse] จ่ายสูงสุด 25 [FirePunchFuel] และ ทำ +<style=\"highlight\">2</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [FirePunchFuel] ที่จ่ายไป (สูงสุด <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, ทำ +<style=\"highlight\">4</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [FirePunchFuel] ที่จ่ายไป (สูงสุด <style=\"highlight\">100</style>%)\n[EndSkill] หาก target ตาย, หรือ หากสกิลนี้จ่ายครบ [FirePunchFuel], ได้รับ <style=\"highlight\">2</style> [HitDamageUp] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 3 ขั้น [Combustion] ของเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 6 [Combustion] ของเป้าหมาย (สูงสุด <style=\"highlight\">3</style>)\n[WhenUse] จ่ายสูงสุด 25 [FirePunchFuel] และ ทำ +<style=\"highlight\">2</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [FirePunchFuel] ที่จ่ายไป (สูงสุด <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, ทำ +<style=\"highlight\">4</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [FirePunchFuel] ที่จ่ายไป (สูงสุด <style=\"highlight\">100</style>%)\n[EndSkill] หากเป้าหมายตาย, หรือ หากสกิลนี้จ่ายครบ [FirePunchFuel], ได้รับ <style=\"highlight\">2</style> [HitDamageUp] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก ยูนิทนี้ ที่จ่ายไป [FirePunchFuel], มอบ <style=\"highlight\">2</style> [Combustion] และ [Combustion] +1 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้ ที่จ่ายไป [FirePunchFuel], มอบ <style=\"highlight\">2</style> [Combustion] และ [Combustion] +1 ขั้น\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก ยูนิทนี้ ที่จ่ายไป [FirePunchFuel], มอบ <style=\"highlight\">2</style> [Combustion] และ [Combustion] +1 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้ ที่จ่ายไป [FirePunchFuel], มอบ <style=\"highlight\">2</style> [Combustion] และ [Combustion] +1 ขั้น\u200B</line-height>"
                 }
               ]
             },

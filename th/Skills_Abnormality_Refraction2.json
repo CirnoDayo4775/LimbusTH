@@ -106,7 +106,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ร้องเรียกหาบางสิ่ง\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มปะทะ +2 ต่อทุกๆ surviving Old Umbrella\nทำ ความเสียหาย +25% ต่อทุกๆ Old Umbrella\nเมื่อมี the end of the turn, all Old Umbrella expire\nเมื่อมี the end of the turn, ได้รับ <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> เท่ากับ the number of <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> ได้รับed in the first turn\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มปะทะ +2 ต่อทุกๆ surviving Old Umbrella\nทำ ความเสียหาย +25% ต่อทุกๆ Old Umbrella\nเมื่อมี the end of the turn, all Old Umbrella expire\nเมื่อมี the end of the turn, ได้รับ <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> เท่ากับ the number of <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> ที่ได้รับ in the first turn\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -316,7 +316,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ขดตัว\u200B</line-height>",
-          "desc": "<line-height=130%>If this Skill isบนa slot, head ได้รับs 50 HP โล่ ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>.\nIf the head is broken, ได้รับ 25 HP โล่ ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-พุ่งเข้าใส่stead.</color></link></u>\nจ่าย 1 [SelfCharge] ต่อทุกๆ amount ของHP  โล่ lost เท่ากับ the HP โล่ ได้รับed ต่อทุกๆ [SelfCharge]\u200B</line-height>",
+          "desc": "<line-height=130%>If this Skill isบนa slot, head ได้รับs 50 HP โล่ ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>.\nIf the head is broken, ได้รับ 25 HP โล่ ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-พุ่งเข้าใส่stead.</color></link></u>\nจ่าย 1 [SelfCharge] ต่อทุกๆ amount ของHP  โล่ lost เท่ากับ the HP โล่ ที่ได้รับ ต่อทุกๆ [SelfCharge]\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -1579,7 +1579,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Wall Of Separation\u200B</line-height>",
-          "desc": "<line-height=130%>Power +2 for each surviving Rose\nIf there are no surviving Roses, Self-apply 2 [Vulnerable]\u200B</line-height>",
+          "desc": "<line-height=130%>Power +2 for each surviving Rose\nIf there are no surviving Roses, Self-มอบ 2 [Vulnerable]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -2094,7 +2094,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dimensional Leap\u200B</line-height>",
-          "desc": "<line-height=130%>If this [DimensionRift] remains, Max HP +20%\u200B</line-height>",
+          "desc": "<line-height=130%>If this [DimensionRift] remains, สูงสุด HP +20%\u200B</line-height>",
           "coinlist": [
             {}
           ]
