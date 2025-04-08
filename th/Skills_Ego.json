@@ -661,7 +661,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ 25 ความเสียหายค่าสติ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>If target is Staggered, in Low Morale, or in Panic, ทำ 30% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
+                  "desc": "<line-height=130%>If target is Staggered, in Low Morale, หรือ in Panic, ทำ 30% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
                 }
               ]
             }
@@ -682,7 +682,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ 25 ความเสียหายค่าสติ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>If target is Staggered, in Low Morale, or in Panic, ทำ 30% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
+                  "desc": "<line-height=130%>If target is Staggered, in Low Morale, หรือ in Panic, ทำ 30% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Sinking]\u200B</line-height>"
@@ -854,7 +854,7 @@
           "level": 4,
           "name": "<line-height=120%>4th Match Flame\u200B</line-height>",
           "abName": "Scorched Girl",
-          "desc": "<line-height=130%>แต้มสกิล +2 กับยูนิทที่มี [Combustion]\nทำ ความเสียหาย +5% ต่อทุกๆ 1 [Combustion]บนเป้าหมาย (สูงสุด 100%)\n[EnemyKill] ได้รับ +2 [Enhancement] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มสกิล +2 กับยูนิทที่มี [Combustion]\nทำ ความเสียหาย +5% ต่อทุกๆ 1 [Combustion] ของเป้าหมาย (สูงสุด 100%)\n[EnemyKill] ได้รับ +2 [Enhancement] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -904,7 +904,7 @@
           "level": 4,
           "name": "<line-height=120%>4th Match Flame\u200B</line-height>",
           "abName": "Scorched Girl",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nแต้มสกิล +4 กับยูนิทที่มี [Combustion]\nทำ ความเสียหาย +5% ต่อทุกๆ 1 [Combustion]บนเป้าหมาย (สูงสุด 100%)\n[EnemyKill] ได้รับ 3 [Enhancement] ในเทิร์นหน้า\n[EnemyKillFail] ได้รับ 3 [Enhancement] และ 10 [Combustion] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nแต้มสกิล +4 กับยูนิทที่มี [Combustion]\nทำ ความเสียหาย +5% ต่อทุกๆ 1 [Combustion] ของเป้าหมาย (สูงสุด 100%)\n[EnemyKill] ได้รับ 3 [Enhancement] ในเทิร์นหน้า\n[EnemyKillFail] ได้รับ 3 [Enhancement] และ 10 [Combustion] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3242,7 +3242,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Vulnerable] และ 2 Dimensional Rift\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Vulnerable] และ 2 [DimensionRift]\u200B</line-height>"
                 }
               ]
             }
@@ -3257,7 +3257,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Vulnerable] และ 4 Dimensional Rift\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Vulnerable] และ 4 [DimensionRift]\u200B</line-height>"
                 }
               ]
             }
@@ -3272,12 +3272,12 @@
           "level": 1,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\nจ่าย [Charge] 10 ขั้น เพื่อมอบ +1 more [Vulnerable] และ Dimensional RiftบนHit ด้วยสกิลนี้\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] ได้รับ 2 [Agility] ในเทิร์นหน้า\nจ่าย [Charge] 10 ขั้น เพื่อมอบ +1 more [Vulnerable] และ [DimensionRift]บนHit ด้วยสกิลนี้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Vulnerable] และ 3 Dimensional Rift\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Vulnerable] และ 3 [DimensionRift]\u200B</line-height>"
                 }
               ]
             }
@@ -3287,12 +3287,12 @@
           "level": 3,
           "name": "<line-height=120%>Dimension Shredder\u200B</line-height>",
           "abName": "Wayward Passenger",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] ได้รับ <style=\"highlight\">3</style> [Agility] ในเทิร์นหน้า\nจ่าย [Charge] 10 ขั้น เพื่อมอบ <style=\"highlight\">+2</style> more [Vulnerable] และ Dimensional RiftบนHit ด้วยสกิลนี้\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] ได้รับ <style=\"highlight\">3</style> [Agility] ในเทิร์นหน้า\nจ่าย [Charge] 10 ขั้น เพื่อมอบ <style=\"highlight\">+2</style> more [Vulnerable] และ [DimensionRift]บนHit ด้วยสกิลนี้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Vulnerable] และ 4 Dimensional Rift\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Vulnerable] และ 4 [DimensionRift]\u200B</line-height>"
                 }
               ]
             }
@@ -3315,7 +3315,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] ไป [Combustion] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion], จากนั้น ลดขั้น [Vibration] ไป 3; หาก the [VibrationExplosion] Staggered the target, มอบ [Combustion] +1 ขั้นบน5 random enemies\u200B</line-height>"
@@ -3336,7 +3336,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 7 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] ไป [Combustion] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Combustion]บน5 random enemies\u200B</line-height>"
@@ -3360,7 +3360,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 10 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] ไป [Combustion] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Combustion]บน5 random enemies\u200B</line-height>"
@@ -3389,7 +3389,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 6 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] ไป [Combustion] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion], จากนั้น ลดขั้น [Vibration] ไป 3; หาก the [VibrationExplosion] Staggered the target, มอบ [Combustion] +2 ขั้นบน5 random units\u200B</line-height>"
@@ -3410,7 +3410,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 10 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] ไป [Combustion] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Combustion]บน5 random units\u200B</line-height>"
@@ -3434,7 +3434,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 12 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] ไป [Combustion]บนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] ไป [Combustion] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Combustion]บน5 random units\u200B</line-height>"
@@ -3507,7 +3507,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ 7 ความเสียหายค่าสติ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion], จากนั้น reduce target's ขั้น [Vibration] ไป 2\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion], จากนั้น ลดขั้น [Vibration] ของเป้าหมาย ไป 2\u200B</line-height>"
                 }
               ]
             }
@@ -3819,7 +3819,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (ขั้น [Charge] * 1.5)% ของความเสียหายที่ทำไป (สูงสุด 30%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus ความเสียหาย Gloom ไป (ขั้น [Charge] * 1.5)% ของความเสียหายที่ทำไป (สูงสุด 30%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttackTail] After the attack, เสีย 10% ของ HPสูงสุดเพื่อได้รับ [Charge] +7 ขั้น\u200B</line-height>"
@@ -3837,7 +3837,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (ขั้น [Charge] * 2.5)% ของความเสียหายที่ทำไป (สูงสุด 50%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus ความเสียหาย Gloom ไป (ขั้น [Charge] * 2.5)% ของความเสียหายที่ทำไป (สูงสุด 50%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttackTail] After the attack, เสีย 10% ของ HPสูงสุดเพื่อได้รับ [Charge] +10 ขั้น\u200B</line-height>"
@@ -3855,7 +3855,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus Gloom ความเสียหาย ไป (ขั้น [Charge] * 2.5)% ของความเสียหายที่ทำไป (สูงสุด 50%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]จ่ายขั้น [Charge] ทั้งหมดto ทำ bonus ความเสียหาย Gloom ไป (ขั้น [Charge] * 2.5)% ของความเสียหายที่ทำไป (สูงสุด 50%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[EndSkill]จ่ายขั้น [Charge] ทั้งหมด \u200B</line-height>"

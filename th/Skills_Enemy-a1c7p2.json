@@ -336,7 +336,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ([Laceration] ที่เป้าหมายมี)% HP (สูงสุด 20%)\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ([Laceration] ของเป้าหมาย)% HP (สูงสุด 20%)\u200B</line-height>"
                                 }
                             ]
                         }
@@ -445,7 +445,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ([Laceration] ที่เป้าหมายมี)% HP (สูงสุด 20%)\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ([Laceration] ของเป้าหมาย)% HP (สูงสุด 20%)\u200B</line-height>"
                                 }
                             ]
                         }
@@ -577,7 +577,7 @@
                                     "desc": "<line-height=130%>[OnSucceedAttack] จ่าย [HardenedBlood] ทั้งหมด ที่ตัวเองมีเพื่อ เพิ่ม [BloodDinner] ไป ([HardenedBlood] ที่จ่ายไป x 3) และ ได้รับ 5 [Laceration]\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ([Laceration] ที่เป้าหมายมี)% HP (สูงสุด 30%)\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ([Laceration] ของเป้าหมาย)% HP (สูงสุด 30%)\u200B</line-height>"
                                 }
                             ]
                         }
@@ -709,7 +709,7 @@
                                     "desc": "<line-height=130%>[OnSucceedAttack] จ่าย [HardenedBlood] ทั้งหมด ที่ตัวเองมีเพื่อ เพิ่ม [BloodDinner] ไป ([HardenedBlood] ที่จ่ายไป x 3) และ ได้รับ 5 [Laceration]\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ([Laceration] ที่เป้าหมายมี)% HP (สูงสุด 30%)\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ([Laceration] ของเป้าหมาย)% HP (สูงสุด 30%)\u200B</line-height>"
                                 }
                             ]
                         }
@@ -764,7 +764,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>สลักผลึกเลือด\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever] ที่ตัวเองมี หรือต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\n[WhenUse] ได้รับ 15 [Laceration], บังคับใช้ผลของ [Laceration] 1 ครั้ง ทันที, และ ลดขั้น [Laceration] ไป 1\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever] ที่ตัวเองมี หรือต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 2)\n[WhenUse] ได้รับ 15 [Laceration], บังคับใช้ผลของ [Laceration] 1 ครั้ง ทันที, และ ลดขั้น [Laceration] ไป 1\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -861,7 +861,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>กระหน่ำแทงผลึกเลือด\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever] ที่ตัวเองมี หรือต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\n[WhenUse] ได้รับ 15 [Laceration], บังคับใช้ผลของ [Laceration] 1 ครั้ง ทันที, และ ลดขั้น [Laceration] ไป 1\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever] ที่ตัวเองมี หรือต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 2)\n[WhenUse] ได้รับ 15 [Laceration], บังคับใช้ผลของ [Laceration] 1 ครั้ง ทันที, และ ลดขั้น [Laceration] ไป 1\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -958,12 +958,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>มาร่วมพาเหรดอันสุขสันต์กัน!\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever] ที่ตัวเองมี หรือต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] เมื่อมี [BloodDinner] น้อยกว่า 20 , ได้รับ 20 [Laceration] และ บังคับใช้ผลของ [Laceration] 1 ครั้ง ทันที, จากนั้น ลดขั้น [Laceration] ไป 1\n[EndSkill] จ่าย 20 [BloodDinner]\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever] ที่ตัวเองมี หรือต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 3)\n[WhenUse] เมื่อมี [BloodDinner] น้อยกว่า 20 , ได้รับ 20 [Laceration] และ บังคับใช้ผลของ [Laceration] 1 ครั้ง ทันที, จากนั้น ลดขั้น [Laceration] ไป 1\n[EndSkill] จ่าย 20 [BloodDinner]\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [HardenedBlood] ต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [HardenedBlood] ต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 2)\u200B</line-height>"
                                 }
                             ]
                         },
@@ -1084,12 +1084,12 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ดูปลายเท้าเราให้ตรงกัน แล้วเต้นรำ!\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever] ที่ตัวเองมี หรือต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] เมื่อมี [BloodDinner] น้อยกว่า 20 , ได้รับ 20 [Laceration] และ บังคับใช้ผลของ [Laceration] 1 ครั้ง ทันที, จากนั้น ลดขั้น [Laceration] ไป 1\n[EndSkill] จ่าย 20 [BloodDinner]\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 [FestivalFever] ที่ตัวเองมี หรือต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 3)\n[WhenUse] เมื่อมี [BloodDinner] น้อยกว่า 20 , ได้รับ 20 [Laceration] และ บังคับใช้ผลของ [Laceration] 1 ครั้ง ทันที, จากนั้น ลดขั้น [Laceration] ไป 1\n[EndSkill] จ่าย 20 [BloodDinner]\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [HardenedBlood] ต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [HardenedBlood] ต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 2)\u200B</line-height>"
                                 }
                             ]
                         },

@@ -135,7 +135,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "<line-height=120%>Deploy[Charge] Barrier\u200B</line-height>",
+          "name": "<line-height=120%>Deploy [ChargeForceField]\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] เมื่อมี [Charge] 10+ ขั้น, จ่ายขั้น [Charge] ทั้งหมดเพื่อมอบ (Consumedขั้น [Charge]  / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (เศษปัดลง) to 2 allies with the lowest HP percentage\u200B</line-height>",
           "coinlist": [
             {},
@@ -154,7 +154,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Deploy[Charge] Barrier\u200B</line-height>",
+          "name": "<line-height=120%>Deploy [ChargeForceField]\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] เมื่อมี [Charge] 10+ ขั้น, จ่ายขั้น [Charge] ทั้งหมดเพื่อมอบ (Consumedขั้น [Charge]  / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (เศษปัดลง) to 2 allies with the lowest HP percentage\u200B</line-height>",
           "coinlist": [
             {},
@@ -353,7 +353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] ฟื้นฟู 1 ค่าสติ ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 5)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] ฟื้นฟู 1 ค่าสติ ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 5)\u200B</line-height>"
                 }
               ]
             },
@@ -382,7 +382,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] ฟื้นฟู 1 ค่าสติ ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 10)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] ฟื้นฟู 1 ค่าสติ ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 10)\u200B</line-height>"
                 }
               ]
             },
@@ -419,7 +419,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Quickness\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายมี 7+ [Laceration], ได้รับ +2 เหรียญ Power\n[OnSucceedEvade] ได้รับ 1 [Agility] ในเทิร์นหน้า (3 ครั้ง ต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี 7+ [Laceration], ได้รับ +2 แต้มเหรียญ\n[OnSucceedEvade] ได้รับ 1 [Agility] ในเทิร์นหน้า (3 ครั้ง ต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -431,8 +431,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Expend Knowledge\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] Discard 1 Skill of the highest rank in all of ยูนิทนี้'s Skill Slots\u200B</line-height>",
+          "name": "<line-height=120%>ขยายเขตความรู้\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ทิ้ง 1 สกิล ที่มีระดับสูงที่สุดจากสล็อตสกิลของยูนิทนี้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -445,8 +445,8 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Expend Knowledge\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] Discard 1 Skill of the highest rank in all of ยูนิทนี้'s Skill Slots\n[WhenUse] เมื่อมี 3+ [KnowledgeExplored], แต้มปะทะ +1\u200B</line-height>",
+          "name": "<line-height=120%>ขยายเขตความรู้\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ทิ้ง 1 สกิล ที่มีระดับสูงที่สุดจากสล็อตสกิลของยูนิทนี้\n[WhenUse] เมื่อมี 3+ [KnowledgeExplored], แต้มปะทะ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -462,8 +462,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Expend Knowledge\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] Discard 1 Skill of the highest rank in all of ยูนิทนี้'s Skill Slots\n[WhenUse] แต้มปะทะ +([KnowledgeExplored] - 1)\u200B</line-height>",
+          "name": "<line-height=120%>ขยายเขตความรู้\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ทิ้ง 1 สกิล ที่มีระดับสูงที่สุดจากสล็อตสกิลของยูนิทนี้\n[WhenUse] แต้มปะทะ +([KnowledgeExplored] - 1)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -485,7 +485,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Unveil\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] Randomly Discard 2 of ยูนิทนี้'s Skills in ascending order of ranks from all of its Skill Slots\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ทิ้ง 2 สกิล ของยูนิทนี้แบบสุ่ม โดยเรียงลำดับตามระดับของสกิล จากน้อยไปมาก ไปจากสล็อตสกิล\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -501,7 +501,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Unveil\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] Randomly Discard 2 of ยูนิทนี้'s Skills in ascending order of ranks from all of its Skill Slots\n[WhenUse] เมื่อมี 3+ [KnowledgeExplored], แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ทิ้ง 2 สกิล ของยูนิทนี้แบบสุ่ม โดยเรียงลำดับตามระดับของสกิล จากน้อยไปมาก ไปจากสล็อตสกิล\n[WhenUse] เมื่อมี 3+ [KnowledgeExplored], แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -517,7 +517,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Unveil\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] Randomly Discard 2 of ยูนิทนี้'s Skills in ascending order of ranks from all of its Skill Slots\n[WhenUse] แต้มเหรียญ +([KnowledgeExplored] - 1)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ทิ้ง 2 สกิล ของยูนิทนี้แบบสุ่ม โดยเรียงลำดับตามระดับของสกิล จากน้อยไปมาก ไปจากสล็อตสกิล\n[WhenUse] แต้มเหรียญ +([KnowledgeExplored] - 1)\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -581,7 +581,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Guiding Steps\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] Randomly Discard 2 of ยูนิทนี้'s Skills in ascending order of ranks from all of its Skill Slots\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ทิ้ง 2 สกิล ของยูนิทนี้แบบสุ่ม โดยเรียงลำดับตามระดับของสกิล จากน้อยไปมาก ไปจากสล็อตสกิล\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -589,7 +589,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Guiding Steps\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] Randomly Discard 2 of ยูนิทนี้'s Skills in ascending order of ranks from all of its Skill Slots\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ทิ้ง 2 สกิล ของยูนิทนี้แบบสุ่ม โดยเรียงลำดับตามระดับของสกิล จากน้อยไปมาก ไปจากสล็อตสกิล\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -944,7 +944,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Bonecrusher\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] or ขั้น [Burst]; แทนที่ด้วย ได้รับ แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +1 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: สกิลนี้จะไม่มอบ [Burst] or ขั้น [Burst]; แทนที่ด้วย ได้รับ แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +1 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -968,7 +968,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Bonecrusher\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] or ขั้น [Burst]; แทนที่ด้วย ได้รับ แต้มเหรียญ +1\n- หาก target is a <Bloodfiend> or a <Bloodbag>, ได้รับ an additional แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +1 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: สกิลนี้จะไม่มอบ [Burst] or ขั้น [Burst]; แทนที่ด้วย ได้รับ แต้มเหรียญ +1\n- หาก target is a <Bloodfiend> or a <Bloodbag>, ได้รับ an additional แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +1 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1000,7 +1000,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>A Cheerful Hunt's End\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] or ขั้น [Burst]; แทนที่ด้วย ได้รับ แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +1 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: สกิลนี้จะไม่มอบ [Burst] or ขั้น [Burst]; แทนที่ด้วย ได้รับ แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +1 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1022,7 +1022,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>A Cheerful Hunt's End\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: this Skill does not มอบ [Burst] or ขั้น [Burst]; แทนที่ด้วย ได้รับ แต้มเหรียญ +1\n- หาก target is a <Bloodfiend> or a <Bloodbag>, ได้รับ an additional แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: สกิลนี้จะไม่มอบ [Burst] or ขั้น [Burst]; แทนที่ด้วย ได้รับ แต้มเหรียญ +1\n- หาก target is a <Bloodfiend> or a <Bloodbag>, ได้รับ an additional แต้มเหรียญ +1\n[WinDuel] มอบ [Burst] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1041,7 +1041,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 15+ [Burst], or has less than 30% HP, ใช้เหรียญนี้อีกครั้ง (once ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 15+ [Burst], หรือ has less than 30% HP, ใช้เหรียญนี้อีกครั้ง (once ต่อทุกๆ Skill)\u200B</line-height>"
                 }
               ]
             }
@@ -1195,7 +1195,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Target Marked\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the highest Reson. adds 20% chance that ยูนิทนี้ activates [CoveringFire]\n[WhenUse] ได้รับ [Breath] +1 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the Reson สูงสุด. adds 20% chance that ยูนิทนี้ activates [CoveringFire]\n[WhenUse] ได้รับ [Breath] +1 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1226,7 +1226,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Target Marked\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the highest Reson. adds 20% chance that ยูนิทนี้ activates [CoveringFire]\n[WhenUse] ได้รับ +<style=\"highlight\">2</style> ขั้น [Breath]\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the Reson สูงสุด. adds 20% chance that ยูนิทนี้ activates [CoveringFire]\n[WhenUse] ได้รับ +<style=\"highlight\">2</style> ขั้น [Breath]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1260,7 +1260,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Target Marked\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the highest Reson. adds 25% chance that ยูนิทนี้ activates [CoveringFire]\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> ขั้น [Breath]\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มตั้งต้น +1 ต่อทุกๆ [Bullet] about to be spent ไป this Skill\n[WhenUse] หาก Full-Stop Office Fixer Heathcliff isบนthe field, every Reson. of the Reson สูงสุด. adds 25% chance that ยูนิทนี้ activates [CoveringFire]\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> ขั้น [Breath]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

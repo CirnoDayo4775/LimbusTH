@@ -269,7 +269,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ที่เป้าหมายมี อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])\u200B</line-height>"
+                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])\u200B</line-height>"
                 }
               ]
             }
@@ -287,7 +287,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., บังคับใช้ผลของ [Laceration] ที่เป้าหมายมี อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ Reson สูงสุด., บังคับใช้ผลของ [Laceration] ของเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])</style>\u200B</line-height>"
                 }
               ]
             },
@@ -297,7 +297,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ highest Reson., บังคับใช้ผลของ [Laceration] ที่เป้าหมายมี อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] เมื่อมี 4+ Reson สูงสุด., บังคับใช้ผลของ [Laceration] ของเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])</style>\u200B</line-height>"
                 }
               ]
             },
@@ -320,7 +320,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย<style=\"highlight\">(1 + (highest Reson./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)\u200B</line-height>"
+                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย<style=\"highlight\">(1 + (Reson สูงสุด./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)\u200B</line-height>"
                 }
               ]
             }
@@ -330,7 +330,7 @@
           "level": 4,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "<line-height=130%><style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</style>\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 2)</style>\n[EndSkill] For 3 turns, เสีย 10 ค่าสติ at Turn End\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -338,7 +338,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 4+ highest Reson., บังคับใช้ผลของ [Laceration] ที่เป้าหมายมี อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 4+ Reson สูงสุด., บังคับใช้ผลของ [Laceration] ของเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             },
@@ -348,7 +348,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 4+ highest Reson., บังคับใช้ผลของ [Laceration] ที่เป้าหมายมี อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 4+ Reson สูงสุด., บังคับใช้ผลของ [Laceration] ของเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             },
@@ -371,7 +371,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย(1 + (highest Reson./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย(1 + (Reson สูงสุด./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%><style=\"highlight\">[EnemyKill] When ทำ ing excess ความเสียหาย past the enemy's remaining HP, ทำ the excess ความเสียหายเป็น ความเสียหายตรง between all enemies. (min 1)</style>\u200B</line-height>"
@@ -427,7 +427,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ที่เป้าหมายมี อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])\u200B</line-height>"
+                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])\u200B</line-height>"
                 }
               ]
             }
@@ -475,7 +475,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย<style=\"highlight\">(1 + (highest Reson./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)</style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย<style=\"highlight\">(1 + (Reson สูงสุด./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)</style>\u200B</line-height>"
                 }
               ]
             }
@@ -529,7 +529,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย(1 + (highest Reson./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย(1 + (Reson สูงสุด./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%><style=\"highlight\">[EnemyKill] When ทำ ing excess ความเสียหาย past the enemy's remaining HP, ทำ the excess ความเสียหายเป็น ความเสียหายตรง between all enemies. (min 1)</style>\u200B</line-height>"

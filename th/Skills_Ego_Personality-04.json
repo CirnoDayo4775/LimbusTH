@@ -237,7 +237,7 @@
           "level": 1,
           "name": "<line-height=120%>Contempt, Awe\u200B</line-height>",
           "abName": "Spiral of Contempt",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (highest Reson.) Atk Weight (สูงสุด 2)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [GazePersonality] (สูงสุด 7)\n[EndSkill] For 2 turns, เสีย 10 ค่าสติ at Turn End\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (Reson สูงสุด.) Atk Weight (สูงสุด 2)\n[BeforeAttack] ได้รับ (Reson สูงสุด. + 1) [GazePersonality] (สูงสุด 7)\n[EndSkill] For 2 turns, เสีย 10 ค่าสติ at Turn End\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -253,7 +253,7 @@
           "level": 3,
           "name": "<line-height=120%>Contempt, Awe\u200B</line-height>",
           "abName": "Spiral of Contempt",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (highest Reson.) Atk Weight (สูงสุด <style=\"highlight\">4</style>)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [GazePersonality] (สูงสุด 7)\n[EndSkill] For 2 turns, เสีย 10 ค่าสติ at Turn End\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (Reson สูงสุด.) Atk Weight (สูงสุด <style=\"highlight\">4</style>)\n[BeforeAttack] ได้รับ (Reson สูงสุด. + 1) [GazePersonality] (สูงสุด 7)\n[EndSkill] For 2 turns, เสีย 10 ค่าสติ at Turn End\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -269,7 +269,7 @@
           "level": 4,
           "name": "<line-height=120%>Contempt, Awe\u200B</line-height>",
           "abName": "Spiral of Contempt",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (highest Reson.) Atk Weight (สูงสุด <style=\"highlight\">6</style>)\n[BeforeAttack] ได้รับ (highest Reson. + 1) [GazePersonality] <style=\"highlight\">ในเทิร์นนี้ และ ในเทิร์นหน้า</style> (สูงสุด 7)\n<style=\"highlight\">[EndSkill] หาก this Skill was part of a Lust Reson., ได้รับ 1 E.G.O resource in Affinities corresponding to each of ยูนิทนี้'s Attack Skills</style>\n[EndSkill] For 2 turns, เสีย 10 ค่าสติ at Turn End\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (Reson สูงสุด.) Atk Weight (สูงสุด <style=\"highlight\">6</style>)\n[BeforeAttack] ได้รับ (Reson สูงสุด. + 1) [GazePersonality] <style=\"highlight\">ในเทิร์นนี้ และ ในเทิร์นหน้า</style> (สูงสุด 7)\n<style=\"highlight\">[EndSkill] หาก this Skill was part of a Lust Reson., ได้รับ 1 E.G.O resource in Affinities corresponding to each of ยูนิทนี้'s Attack Skills</style>\n[EndSkill] For 2 turns, เสีย 10 ค่าสติ at Turn End\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -295,10 +295,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ +(the sum of ปริมาณ และ ขั้น [Laceration] ที่เป้าหมายมี)% ความเสียหายเพิ่มเติ่ม (สูงสุด 20%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ +(the sum of ปริมาณ และ ขั้น [Laceration] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 20%)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ (1 + (highest Reson. x 1.5)) [Laceration](สูงสุด 10, เศษปัดลง)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ (1 + (Reson สูงสุด. x 1.5)) [Laceration](สูงสุด 10, เศษปัดลง)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
@@ -316,10 +316,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ +(the sum of ปริมาณ และ ขั้น [Laceration] ที่เป้าหมายมี)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">40%</style>)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ +(the sum of ปริมาณ และ ขั้น [Laceration] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">40%</style>)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">(3 + (highest Reson. x 2))</style> [Laceration](สูงสุด <style=\"highlight\">15</style>, เศษปัดลง)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">(3 + (Reson สูงสุด. x 2))</style> [Laceration](สูงสุด <style=\"highlight\">15</style>, เศษปัดลง)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ +<style=\"highlight\">3</style> ขั้น [Laceration]\u200B</line-height>"
@@ -337,10 +337,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ +(the sum of ปริมาณ และ ขั้น [Laceration] ที่เป้าหมายมี)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">60%</style>)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ +(the sum of ปริมาณ และ ขั้น [Laceration] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">60%</style>)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">(10 + (highest Reson. x 2.5))</style> [Laceration](สูงสุด <style=\"highlight\">25</style>, เศษปัดลง)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">(10 + (Reson สูงสุด. x 2.5))</style> [Laceration](สูงสุด <style=\"highlight\">25</style>, เศษปัดลง)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ +<style=\"highlight\">5</style> ขั้น [Laceration]\u200B</line-height>"
@@ -358,7 +358,7 @@
           "level": 1,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (highest Reson.) [Breath] (สูงสุด 4)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(highest Reson.) instead (สูงสุด 4)\n[BeforeAttack] ได้รับ (highest Reson. / 2) ขั้น [Breath] (สูงสุด 2)\n- เมื่อมี 5+ ขั้น [Breath], ได้รับ แต้มเหรียญ +(highest Reson. / 2) instead (สูงสุด 2)\n[TargetKill] ได้รับ 1 [HoldingBreath] ในเทิร์นหน้า (2 ครั้ง ต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (Reson สูงสุด.) [Breath] (สูงสุด 4)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(Reson สูงสุด.) instead (สูงสุด 4)\n[BeforeAttack] ได้รับ (Reson สูงสุด. / 2) ขั้น [Breath] (สูงสุด 2)\n- เมื่อมี 5+ ขั้น [Breath], ได้รับ แต้มเหรียญ +(Reson สูงสุด. / 2) instead (สูงสุด 2)\n[TargetKill] ได้รับ 1 [HoldingBreath] ในเทิร์นหน้า (2 ครั้ง ต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -374,7 +374,7 @@
           "level": 3,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (highest Reson.) [Breath] (สูงสุด <style=\"highlight\">6</style>)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(highest Reson.) instead (สูงสุด <style=\"highlight\">6</style>)\n[BeforeAttack] ได้รับ (highest Reson. / 2) ขั้น [Breath] (สูงสุด 2)\n- เมื่อมี 5+ ขั้น [Breath], ได้รับ แต้มเหรียญ +(highest Reson. / 2) instead (สูงสุด 2)\n[TargetKill] ได้รับ <style=\"highlight\">2</style> [HoldingBreath] ในเทิร์นหน้า (<style=\"highlight\">4</style> ครั้ง ต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (Reson สูงสุด.) [Breath] (สูงสุด <style=\"highlight\">6</style>)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(Reson สูงสุด.) instead (สูงสุด <style=\"highlight\">6</style>)\n[BeforeAttack] ได้รับ (Reson สูงสุด. / 2) ขั้น [Breath] (สูงสุด 2)\n- เมื่อมี 5+ ขั้น [Breath], ได้รับ แต้มเหรียญ +(Reson สูงสุด. / 2) instead (สูงสุด 2)\n[TargetKill] ได้รับ <style=\"highlight\">2</style> [HoldingBreath] ในเทิร์นหน้า (<style=\"highlight\">4</style> ครั้ง ต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -393,7 +393,7 @@
           "level": 4,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (highest Reson.) [Breath] (สูงสุด 6)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(highest Reson.) instead (สูงสุด 6)\n[BeforeAttack] ได้รับ (highest Reson. / 2) ขั้น [Breath] (สูงสุด <style=\"highlight\">3</style>)\n- เมื่อมี 5+ ขั้น [Breath], ได้รับ แต้มเหรียญ +(highest Reson. / 2) instead (สูงสุด <style=\"highlight\">3</style>)\n[TargetKill] ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า (<style=\"highlight\">6</style> ครั้ง ต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (Reson สูงสุด.) [Breath] (สูงสุด 6)\n- เมื่อมี 15+ [Breath], ได้รับ แต้มรวม +(Reson สูงสุด.) instead (สูงสุด 6)\n[BeforeAttack] ได้รับ (Reson สูงสุด. / 2) ขั้น [Breath] (สูงสุด <style=\"highlight\">3</style>)\n- เมื่อมี 5+ ขั้น [Breath], ได้รับ แต้มเหรียญ +(Reson สูงสุด. / 2) instead (สูงสุด <style=\"highlight\">3</style>)\n[TargetKill] ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า (<style=\"highlight\">6</style> ครั้ง ต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {},
             {

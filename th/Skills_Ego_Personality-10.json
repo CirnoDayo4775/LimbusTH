@@ -258,7 +258,7 @@
           "level": 1,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ highest Reson., Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ Reson สูงสุด., Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -266,13 +266,13 @@
                   "desc": "<line-height=130%>[EndSkill] มอบ 10% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ 1 other ally with the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Reson., มอบ it to 1 more ally\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ Reson สูงสุด., มอบ it to 1 more ally\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2\u200B</line-height>"
+                  "desc": "<line-height=130%>- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead.\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.\u200B</line-height>"
                 }
               ]
             }
@@ -282,18 +282,18 @@
           "level": 3,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%><style=\"highlight\">[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (สูงสุด 2)</style>\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">[BeforeAttack] ได้รับ (Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">14%</style> of ยูนิทนี้'s max HPมาเป็นโล่ to self และ <style=\"highlight\">(1 + (highest Reson. - 2))</style> allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n<style=\"highlight\">(สูงสุด # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)</style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">14%</style> of ยูนิทนี้'s max HPมาเป็นโล่ to self และ <style=\"highlight\">(1 + (Reson สูงสุด. - 2))</style> allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n<style=\"highlight\">(สูงสุด # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)</style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -303,18 +303,18 @@
           "level": 4,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (สูงสุด 2)<style=\"highlight\"></style>\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">20%</style> of ยูนิทนี้'s max HPมาเป็นโล่ to self และ (1 + (highest Reson. - 2)) allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n(สูงสุด # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">20%</style> of ยูนิทนี้'s max HPมาเป็นโล่ to self และ (1 + (Reson สูงสุด. - 2)) allies with the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n(สูงสุด # of other allies that ได้รับ [ShieldManagerCryingToad]: 3)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -329,7 +329,7 @@
           "level": 1,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] เมื่อมี 4+ highest Reson., Atk Weight +1\n[BeforeAttack] ได้รับ +5 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] เมื่อมี 4+ Reson สูงสุด., Atk Weight +1\n[BeforeAttack] ได้รับ +5 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -337,13 +337,13 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Sinking]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ได้รับ (15 + 2.5(highest Reson.))% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด 25%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ได้รับ (15 + 2.5(Reson สูงสุด.))% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด 25%)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หาก ยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2\u200B</line-height>"
+                  "desc": "<line-height=130%>- หาก ยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'ได้รับ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead.\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'ได้รับ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.\u200B</line-height>"
                 }
               ]
             }
@@ -353,7 +353,7 @@
           "level": 3,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n<style=\"highlight\">[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (สูงสุด 2)</style>\n[BeforeAttack] ได้รับ <style=\"highlight\">+10 [Aggro]</style> แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n<style=\"highlight\">[BeforeAttack] ได้รับ (Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)</style>\n[BeforeAttack] ได้รับ <style=\"highlight\">+10 [Aggro]</style> แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -361,13 +361,13 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Sinking]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ได้รับ (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(highest Reson.))% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">30%</style>)\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ได้รับ (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(Reson สูงสุด.))% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">30%</style>)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หาก ยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- หาก ยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -377,7 +377,7 @@
           "level": 4,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ (highest Reson. - 2) Atk Weight (สูงสุด 2)\n[BeforeAttack] ได้รับ +10 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า<style=\"highlight\"></style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ (Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\n[BeforeAttack] ได้รับ +10 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -385,13 +385,13 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Sinking] และ <style=\"highlight\">[Sinking] +3 ขั้น</style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ได้รับ (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(highest Reson.))% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">40%</style>)\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ได้รับ (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(Reson สูงสุด.))% of ยูนิทนี้'s max HPมาเป็นโล่ to self และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">40%</style>)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หาก ยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- หาก ยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' instead.<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%><style=\"highlight\">- เมื่อมี 4+ Gloom Reson., ได้รับ additional โล่ เท่ากับ 10% of ยูนิทนี้'s max HP</style>\u200B</line-height>"
@@ -421,7 +421,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ 3 ผลด้านลบ ที่เป้าหมายมี that aren't [Curse] or [NailPersonality] (สูงสุด 2)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ 3 ผลด้านลบ ของเป้าหมาย that aren't [Curse] or [NailPersonality] (สูงสุด 2)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [NailPersonality]\u200B</line-height>"
@@ -446,7 +446,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ 3 ผลด้านลบ ที่เป้าหมายมี that aren't [Curse] or [NailPersonality] (สูงสุด 2)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ 3 ผลด้านลบ ของเป้าหมาย that aren't [Curse] or [NailPersonality] (สูงสุด 2)<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">3</style> [NailPersonality]\u200B</line-height>"
@@ -474,7 +474,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ <style=\"highlight\">2</style> ผลด้านลบ ที่เป้าหมายมี that aren't [Curse] or [NailPersonality] (สูงสุด 2)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ <style=\"highlight\">2</style> ผลด้านลบ ของเป้าหมาย that aren't [Curse] or [NailPersonality] (สูงสุด 2)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [NailPersonality]<style=\"highlight\"></style>\u200B</line-height>"

@@ -117,7 +117,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [BloodyHand] ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 5)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [BloodyHand] ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 5)\u200B</line-height>"
                 }
               ]
             }
@@ -302,7 +302,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [AffectionTeddy], จ่าย [AffectionTeddy] และ มอบ [Curse] และ [NailPersonality] เท่ากับ จำนวนของ [AffectionTeddy] ที่จ่ายไป (จ่ายได้สูงสุด 4)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 4+ [Curse], จ่าย 4 [Curse] ที่เป้าหมายมี และ มอบ 1 [CursePackage]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 4+ [Curse], จ่าย 4 [Curse] ของเป้าหมาย และ มอบ 1 [CursePackage]\u200B</line-height>"
                 }
               ]
             }
@@ -384,7 +384,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [NailPersonality]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย [AffectionTeddy] ที่เป้าหมายมีทั้งหมด\n- หาก ยูนิทนี้ชนะการปะทะ, เพิ่มขีด Stagger ของเป้าหมาย ไป ([AffectionTeddy] ที่จ่ายไป x 10)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย [AffectionTeddy] ของเป้าหมายทั้งหมด\n- หาก ยูนิทนี้ชนะการปะทะ, เพิ่มขีด Stagger ของเป้าหมาย ไป ([AffectionTeddy] ที่จ่ายไป x 10)\u200B</line-height>"
                 }
               ]
             }
@@ -473,7 +473,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ป้องกัน\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] HP โล่ +10 ต่อทุกๆ 4 [Laceration] ที่เป้าหมายมี (สูงสุด 30)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] HP โล่ +10 ต่อทุกๆ 4 [Laceration] ของเป้าหมาย (สูงสุด 30)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -649,7 +649,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 100%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 100%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Laceration] และ [Laceration] +2 ขั้น\u200B</line-height>"
@@ -731,7 +731,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ศาสตราโลหิตแห่งดอน กิโฮเต้ ศาสตร์ที่ 11 - แทงทะลุ\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WinDuel] ด้วยสกิลนี้, ทำ +20% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ ขั้นที่เพิ่มขึ้นของ [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] จ่าย 4 [BloodArmor] เพื่อได้รับ 20 HP โล่\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 3 [Laceration] ของเป้าหมาย (สูงสุด 3)\n[WinDuel] ด้วยสกิลนี้, ทำ +20% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ ขั้นที่เพิ่มขึ้นของ [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] จ่าย 4 [BloodArmor] เพื่อได้รับ 20 HP โล่\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -899,7 +899,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 200%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 200%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ [BloodDinner] (สูงสุด 100%)\u200B</line-height>"
@@ -1063,7 +1063,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>มงกุฏหนามกุหลาบ\u200B</line-height>",
-          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี ค่าสติ ต่ำที่สุด\n[WhenUse] หากเป้าหมายมี 0- ค่าสติ แต้มปะทะ +3\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 4 [Burst] ที่เป้าหมายมี (สูงสุด 3)\u200B</line-height>",
+          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี ค่าสติ ต่ำที่สุด\n[WhenUse] หากเป้าหมายมี 0- ค่าสติ แต้มปะทะ +3\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 4 [Burst] ของเป้าหมาย (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1125,7 +1125,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>แส้หนามพันธนา\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มปะทะ +5\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 4 [Burst] ที่เป้าหมายมี (สูงสุด 2)\n[WhenUse] ได้รับ แต้มตั้งต้น ไป จำนวนเป้าหมายที่มี [ThornNoose]\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มปะทะ +5\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 4 [Burst] ของเป้าหมาย (สูงสุด 2)\n[WhenUse] ได้รับ แต้มตั้งต้น ไป จำนวนเป้าหมายที่มี [ThornNoose]\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -1142,7 +1142,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมาย Stagger หรือ มี [ThornNoose] อยู่, ทำ +30% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EnemyKill] มอบ (ขั้น [Burst] ที่เป้าหมายมี x 2) [Burst] แก่ศัตรูทุกคน (สูงสุด 10)\u200B</line-height>"
+                  "desc": "<line-height=130%>[EnemyKill] มอบ (ขั้น [Burst] ของเป้าหมาย x 2) [Burst] แก่ศัตรูทุกคน (สูงสุด 10)\u200B</line-height>"
                 }
               ]
             }
@@ -1346,7 +1346,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ความกระหายเผาตน\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [RegainedStrength] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[DefeatDuel] เสีย 3 ค่าสติ\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [RegainedStrength] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[DefeatDuel] เสีย 3 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1398,7 +1398,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ศาสตราโลหิตแห่งดอน กิโฮเต้ ศาสตร์ที่ 2 - ฝังหอก\u200B</line-height>",
-          "desc": "<line-height=130%>โจมตีศัครูที่มี [Laceration] มากที่สุด\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\u200B</line-height>",
+          "desc": "<line-height=130%>โจมตีศัครูที่มี [Laceration] มากที่สุด\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1603,7 +1603,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>บอบบาง ซะเหลือเกิน\u200B</line-height>",
-          "desc": "<line-height=130%>[DuelCounter]\nแต้มตั้งต้น +1 ต่อทุกๆ 10 [RegainedStrength]\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\n[DefeatDuel] เสีย 3 ค่าสติ\u200B</line-height>",
+          "desc": "<line-height=130%>[DuelCounter]\nแต้มตั้งต้น +1 ต่อทุกๆ 10 [RegainedStrength]\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 2)\n[DefeatDuel] เสีย 3 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1839,7 +1839,7 @@
                   "desc": "<line-height=130%>[CriticalOnSucceedAttack] +100% ความเสียหายเมื่อติดคริ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +5% ต่อทุกๆ [Burst] ที่เป้าหมายมี (สูงสุด 50%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +5% ต่อทุกๆ [Burst] ของเป้าหมาย (สูงสุด 50%)\u200B</line-height>"
                 }
               ]
             }

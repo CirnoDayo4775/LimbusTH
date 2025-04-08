@@ -54,7 +54,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ความเกรียจคร้านผงาด\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Vibration]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] สกิลนี้ได้รับ Atk Weight +1 ต่อทุกๆ 5 [Vibration] ที่เป้าหมายมี (สูงสุด 2)\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Vibration]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] สกิลนี้ได้รับ Atk Weight +1 ต่อทุกๆ 5 [Vibration] ของเป้าหมาย (สูงสุด 2)\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -62,7 +62,7 @@
                                     "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [Switch_Vibration] แปลงเป็น [VibrationEcho]\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion] อีกครั้ง ต่อทุกๆ ขั้น [Vibration] ที่เป้าหมายมี (สูงสุด 2); จากนั้น ลดขั้น [Vibration] ของเป้าหมาย ไป 2\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion] อีกครั้ง ต่อทุกๆ ขั้น [Vibration] ของเป้าหมาย (สูงสุด 2); จากนั้น ลดขั้น [Vibration] ของเป้าหมาย ไป 2\u200B</line-height>"
                                 },
                                 {
                                     "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] +4 ขั้น\u200B</line-height>"
@@ -142,7 +142,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>โทมนัสไหลลาก\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Sinking]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] สกิลนี้ได้รับ Atk Weight +1 ต่อทุกๆ 5 [Sinking] ที่เป้าหมายมี (สูงสุด 2)\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [Sinking]บนเป้าหมาย (สูงสุด 3)\n[WinDuel] สกิลนี้ได้รับ Atk Weight +1 ต่อทุกๆ 5 [Sinking] ของเป้าหมาย (สูงสุด 2)\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -150,7 +150,7 @@
                                     "desc": "<line-height=130%>[OnSucceedAttack] มอบ 5 [Sinking] และ [Sinking] +4 ขั้น\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] แต้มเหรียญต่อไป +1 ต่อทุกๆ 3 [Sinking] ที่เป้าหมายมี (สูงสด 3 ครั้ง)\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] แต้มเหรียญต่อไป +1 ต่อทุกๆ 3 [Sinking] ของเป้าหมาย (สูงสด 3 ครั้ง)\u200B</line-height>"
                                 }
                             ]
                         },
@@ -271,7 +271,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ศาสตราโลหิตแห่งดอน กิโฮเต้ ศาสตร์ที่ 11 - แทงทะลุ\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] ต่อทุกๆ 3 [Laceration] ที่เป้าหมายมี, แต้มตั้งต้น +1 (สูงสุด 3)\n[WinDuel] ด้วยสกิลนี้, ทำ +20% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ ขั้นที่เพิ่มขึ้นของ [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] จ่าย 4 [BloodArmor]\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] ต่อทุกๆ 3 [Laceration] ของเป้าหมาย, แต้มตั้งต้น +1 (สูงสุด 3)\n[WinDuel] ด้วยสกิลนี้, ทำ +20% ความเสียหายเพิ่มเติ่ม ต่อทุกๆ ขั้นที่เพิ่มขึ้นของ [BloodArmor] (สูงสุด 60%)\n[DefeatDuel] จ่าย 4 [BloodArmor]\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -304,7 +304,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ศาสตราดัดแปลงแห่งดอน กิโฮเต้: ศิลป์ซานโซที่ 4 - ไล่ล่า\u200B</line-height>",
-                    "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ที่ตัวเองมี (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้ผลของ [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
+                    "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ที่ตัวเองมี (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้ผลของ [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -330,7 +330,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ศาสตราดัดแปลงแห่งดอน กิโฮเต้: ศิลป์ซานโซที่ 3 - ซุ่มประจัน\u200B</line-height>",
-                    "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ที่ตัวเองมี (สูงสุด 2)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้ผลของ [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
+                    "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ที่ตัวเองมี (สูงสุด 2)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้ผลของ [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -406,7 +406,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>ลา อเวนทูรา ฮา เทอร์มินาโด</size></line-height>\u200B</line-height>",
-                    "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 200%)\nทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 3 [BloodArmor] (สูงสุด 100%)\n[StartBattle] จ่าย (45 - ค่าสติปัจจุบัน) [BloodDinner] และ ฟื้นฟู ค่าสติจนถึง 45\n- หากมี [BloodDinner] ไม่เพียงพอ, ได้รับ 20 [Laceration] และ ฟื้นฟู ค่าสติจนถึง 45\n- ได้รับ HP โล่ เท่ากับ [BloodDinner] ที่เหลืออยู่ (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายHP ที่สกิลนี้ทำแก่เป้าหมาย\n[EndSkill] หากเป้าหมาย ตาย, เพิ่ม [BloodDinner] เท่ากับ HPสูงสุด ของเป้าหมาย\u200B</line-height>",
+                    "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 200%)\nทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 3 [BloodArmor] (สูงสุด 100%)\n[StartBattle] จ่าย (45 - ค่าสติปัจจุบัน) [BloodDinner] และ ฟื้นฟู ค่าสติจนถึง 45\n- หากมี [BloodDinner] ไม่เพียงพอ, ได้รับ 20 [Laceration] และ ฟื้นฟู ค่าสติจนถึง 45\n- ได้รับ HP โล่ เท่ากับ [BloodDinner] ที่เหลืออยู่ (สูงสุด 100)\n[WinDuel] มอบ 10 [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายHP ที่สกิลนี้ทำแก่เป้าหมาย\n[EndSkill] หากเป้าหมาย ตาย, เพิ่ม [BloodDinner] เท่ากับ HPสูงสุด ของเป้าหมาย\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [

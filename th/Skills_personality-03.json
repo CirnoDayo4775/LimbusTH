@@ -500,7 +500,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 10 HP.\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู additional HP basedบน[Burst] ที่เป้าหมายมี (1 HP ฟื้นฟูed ต่อทุกๆ 1 [Burst]. Max 20)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู additional HP basedบน[Burst] ของเป้าหมาย (1 HP ฟื้นฟูed ต่อทุกๆ 1 [Burst]. Max 20)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>เมื่อมี 50%- HP, ใช้เหรียญซ้ำ อีกครั้ง\u200B</line-height>"
@@ -528,7 +528,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 15 HP. ฟื้นฟู HP เท่ากับ+50% more HP when reusing Coin.\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู additional HP basedบน[Burst] ที่เป้าหมายมี (2 HP ฟื้นฟูed ต่อทุกๆ 1 [Burst]. Max 40)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู additional HP basedบน[Burst] ของเป้าหมาย (2 HP ฟื้นฟูed ต่อทุกๆ 1 [Burst]. Max 40)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>เมื่อมี 50%- HP, ใช้เหรียญซ้ำ อีกครั้ง\u200B</line-height>"
@@ -1074,7 +1074,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Enough is Enough\u200B</line-height>",
-          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู HP เท่ากับ 30% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 10)\n[WhenUse] จ่ายสูงสุด 50 [BloodDinner] และ ได้รับ 1 [BloodArmorPersonalityFirst] ต่อทุกๆ 5 [BloodDinner] ยูนิทนี้ ที่จ่ายไป\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 5 [Laceration]\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</style>\u200B</line-height>",
+          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู HP เท่ากับ 30% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 10)\n[WhenUse] จ่ายสูงสุด 50 [BloodDinner] และ ได้รับ 1 [BloodArmorPersonalityFirst] ต่อทุกๆ 5 [BloodDinner] ยูนิทนี้ ที่จ่ายไป\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 5 [Laceration]\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 2)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1112,7 +1112,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>ทำ +2.5% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 25%)\u200B</line-height>"
+                  "desc": "<line-height=130%>ทำ +2.5% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 25%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +5%  ต่อทุกๆ 100 [BloodDinner_Accumulation] ไป self (สูงสุด 25%)\u200B</line-height>"
@@ -1136,7 +1136,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>ทำ +2.5% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 25%)\u200B</line-height>"
+                  "desc": "<line-height=130%>ทำ +2.5% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 25%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +<style=\"highlight\">10</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 100 [BloodDinner_Accumulation] ไป self (สูงสุด <style=\"highlight\">50</style>%)\u200B</line-height>"
@@ -1148,7 +1148,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Let All Blossom Free\u200B</line-height>",
-          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู HP เท่ากับ 30% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 10)\n[WhenUse] จ่ายสูงสุด 50 [BloodDinner] และ ได้รับ 1 [BloodArmorPersonalityFirst] ต่อทุกๆ 10 [BloodDinner] ยูนิทนี้ ที่จ่ายไป\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 5 [Laceration]\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</style>\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmorPersonalityFirst]บนself (สูงสุด 2)\u200B</line-height>",
+          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู HP เท่ากับ 30% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 10)\n[WhenUse] จ่ายสูงสุด 50 [BloodDinner] และ ได้รับ 1 [BloodArmorPersonalityFirst] ต่อทุกๆ 10 [BloodDinner] ยูนิทนี้ ที่จ่ายไป\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 5 [Laceration]\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 2)</style>\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmorPersonalityFirst]บนself (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1160,7 +1160,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>ทำ +2.5% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 25%)\u200B</line-height>"
+                  "desc": "<line-height=130%>ทำ +2.5% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 25%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +<style=\"highlight\">15</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 100 [BloodDinner_Accumulation] ไป self (สูงสุด <style=\"highlight\">75</style>%)\u200B</line-height>"
@@ -1177,7 +1177,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>I Shall Impale\u200B</line-height>",
-          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู 50% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 10)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 10 [BloodArmorPersonalityFirst] (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 10+ [Laceration], แต้มเหรียญ +1\n[WhenUse] จ่ายสูงสุด 50 [BloodDinner] และ ได้รับ 1 [BloodArmorPersonalityFirst] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration]\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +5%  ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 50%)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 100 [BloodDinner_Accumulation] ไป self (สูงสุด 50%)\n[EndSkill] หาก target ตาย, เพิ่ม [BloodDinner] ไป 30; ได้รับ 10 [BloodArmorPersonalityFirst] (1 ครั้งต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู 50% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 10)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 10 [BloodArmorPersonalityFirst] (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 10+ [Laceration], แต้มเหรียญ +1\n[WhenUse] จ่ายสูงสุด 50 [BloodDinner] และ ได้รับ 1 [BloodArmorPersonalityFirst] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration]\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +5%  ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 50%)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 100 [BloodDinner_Accumulation] ไป self (สูงสุด 50%)\n[EndSkill] หาก target ตาย, เพิ่ม [BloodDinner] ไป 30; ได้รับ 10 [BloodArmorPersonalityFirst] (1 ครั้งต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -1193,7 +1193,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>I Shall Impale\u200B</line-height>",
-          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู 50% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 10)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 10 [BloodArmorPersonalityFirst] (สูงสุด 2)\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</style>\n[WhenUse] จ่ายสูงสุด 50 [BloodDinner] และ ได้รับ 1 [BloodArmorPersonalityFirst] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration]\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +5%  ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 50%)\n[WhenUse] ทำ +<style=\"highlight\">20</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 100 [BloodDinner_Accumulation] ไป self (สูงสุด <style=\"highlight\">100</style>%)\n[EndSkill] หาก target ตาย, เพิ่ม [BloodDinner] ไป <style=\"highlight\">60</style>; ได้รับ 10 [BloodArmorPersonalityFirst] (1 ครั้งต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู 50% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 10)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 10 [BloodArmorPersonalityFirst] (สูงสุด 2)\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] จ่ายสูงสุด 50 [BloodDinner] และ ได้รับ 1 [BloodArmorPersonalityFirst] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration]\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +5%  ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 50%)\n[WhenUse] ทำ +<style=\"highlight\">20</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 100 [BloodDinner_Accumulation] ไป self (สูงสุด <style=\"highlight\">100</style>%)\n[EndSkill] หาก target ตาย, เพิ่ม [BloodDinner] ไป <style=\"highlight\">60</style>; ได้รับ 10 [BloodArmorPersonalityFirst] (1 ครั้งต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -1311,7 +1311,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Variant Sancho Hardblood Arts 6 - Whip\u200B</line-height>",
-          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู 50% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 20)\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</style>\n[WhenUse] ได้รับ 20 [Laceration]\n[WhenUse] มอบ +1 more [Laceration]บนHit ต่อทุกๆ 10 [BloodArmorPersonalityFirst]. (สูงสุด 2) After Attack, จ่าย 10 [BloodArmorPersonalityFirst]\u200B</line-height>",
+          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู 50% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 20)\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] ได้รับ 20 [Laceration]\n[WhenUse] มอบ +1 more [Laceration]บนHit ต่อทุกๆ 10 [BloodArmorPersonalityFirst]. (สูงสุด 2) After Attack, จ่าย 10 [BloodArmorPersonalityFirst]\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -1333,7 +1333,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] บังคับใช้ผลของ [Laceration] ที่เป้าหมายมี อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย อีกครั้ง (เป้าหมายเสีย 1 ขั้น [Laceration])</style>\u200B</line-height>"
                 }
               ]
             }
@@ -1369,7 +1369,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>ทำ +2.5% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 25%)\u200B</line-height>"
+                  "desc": "<line-height=130%>ทำ +2.5% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 25%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +5%  ต่อทุกๆ 100 [BloodDinner_Common_Accumulation] (สูงสุด 25%)\u200B</line-height>"
@@ -1381,7 +1381,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Variant Sancho Hardblood Arts 8 - Split Apart\u200B</line-height>",
-          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู HP เท่ากับ 30% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 10)\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</style>\n[BeforeAttack] <style=\"highlight\">ได้รับ Atk Weight +1 ต่อทุกๆ 10 [BloodArmorPersonalityFirst] (สูงสุด 2)</style>\n[EndSkill] จ่าย 10 [BloodArmorPersonalityFirst] ต่อทุกๆ Atk Weight ได้รับed\u200B</line-height>",
+          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู HP เท่ากับ 30% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 10)\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 2)</style>\n[BeforeAttack] <style=\"highlight\">ได้รับ Atk Weight +1 ต่อทุกๆ 10 [BloodArmorPersonalityFirst] (สูงสุด 2)</style>\n[EndSkill] จ่าย 10 [BloodArmorPersonalityFirst] ต่อทุกๆ Atk Weight ได้รับed\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1403,7 +1403,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>ทำ +2.5% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 25%)\u200B</line-height>"
+                  "desc": "<line-height=130%>ทำ +2.5% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 25%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +<style=\"highlight\">10</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 100 [BloodDinner_Common_Accumulation] (สูงสุด <style=\"highlight\">50</style>%)\u200B</line-height>"
@@ -1415,7 +1415,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Variant Sancho Hardblood Arts 8 - Split Apart\u200B</line-height>",
-          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู HP เท่ากับ 30% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 10)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ที่เป้าหมายมี (สูงสุด 2)\n[BeforeAttack] ได้รับ Atk Weight +1 ต่อทุกๆ 10 [BloodArmorPersonalityFirst] (สูงสุด 2)\n[EndSkill] จ่าย 10 [BloodArmorPersonalityFirst] ต่อทุกๆ Atk Weight ได้รับed<style=\"highlight\"></style>\u200B</line-height>",
+          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู HP เท่ากับ 30% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 10)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 2)\n[BeforeAttack] ได้รับ Atk Weight +1 ต่อทุกๆ 10 [BloodArmorPersonalityFirst] (สูงสุด 2)\n[EndSkill] จ่าย 10 [BloodArmorPersonalityFirst] ต่อทุกๆ Atk Weight ได้รับed<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1437,7 +1437,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>ทำ +2.5% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 25%)\u200B</line-height>"
+                  "desc": "<line-height=130%>ทำ +2.5% ความเสียหายเพิ่มเติม ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 25%)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>ทำ +<style=\"highlight\">15</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ 100 [BloodDinner_Common_Accumulation] (สูงสุด <style=\"highlight\">75</style>%)\u200B</line-height>"
@@ -1454,7 +1454,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Ascendant Sancho Hardblood Arts - ลา ซานเกร\u200B</line-height>",
-          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู 50% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 20)\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 10 [BloodArmorPersonalityFirst]บนself (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 10+ [Laceration], แต้มเหรียญ +1\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +5%  ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 50%)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +20%  ต่อทุกๆ 100 [BloodDinner_Common_Accumulation] (สูงสุด 100%)\n[EndSkill] จ่าย 10 [BloodArmorPersonalityFirst] ต่อทุกๆ 10 [BloodArmorPersonalityFirst]\n[EndSkill] หาก target ตาย, เพิ่ม [BloodDinner] ไป 50. Reได้รับครึ่งหนึ่งของ [BloodArmorPersonalityFirst] ที่จ่ายไป ด้วยสกิลนี้ (1 ครั้งต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู 50% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 20)\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 10 [BloodArmorPersonalityFirst]บนself (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 10+ [Laceration], แต้มเหรียญ +1\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +5%  ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 50%)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +20%  ต่อทุกๆ 100 [BloodDinner_Common_Accumulation] (สูงสุด 100%)\n[EndSkill] จ่าย 10 [BloodArmorPersonalityFirst] ต่อทุกๆ 10 [BloodArmorPersonalityFirst]\n[EndSkill] หาก target ตาย, เพิ่ม [BloodDinner] ไป 50. Reได้รับครึ่งหนึ่งของ [BloodArmorPersonalityFirst] ที่จ่ายไป ด้วยสกิลนี้ (1 ครั้งต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1495,7 +1495,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Ascendant Sancho Hardblood Arts - ลา ซานเกร\u200B</line-height>",
-          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู 50% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 20)\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 10 [BloodArmorPersonalityFirst]บนself (สูงสุด <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่เป้าหมายมี (สูงสุด 2)</style>\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +5%  ต่อทุกๆ [Laceration] ที่เป้าหมายมี (สูงสุด 50%)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +20%  ต่อทุกๆ 100 [BloodDinner_Common_Accumulation] (สูงสุด 100%)\n[EndSkill] จ่าย 10 [BloodArmorPersonalityFirst] ต่อทุกๆ 10 [BloodArmorPersonalityFirst]\n[EndSkill] หาก target ตาย, เพิ่ม [BloodDinner] ไป <style=\"highlight\">100</style>. Reได้รับครึ่งหนึ่งของ [BloodArmorPersonalityFirst] ที่จ่ายไป ด้วยสกิลนี้ (1 ครั้งต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>On Hit ด้วยสกิลนี้: ฟื้นฟู 50% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 20)\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 10 [BloodArmorPersonalityFirst]บนself (สูงสุด <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +5%  ต่อทุกๆ [Laceration] ของเป้าหมาย (สูงสุด 50%)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +20%  ต่อทุกๆ 100 [BloodDinner_Common_Accumulation] (สูงสุด 100%)\n[EndSkill] จ่าย 10 [BloodArmorPersonalityFirst] ต่อทุกๆ 10 [BloodArmorPersonalityFirst]\n[EndSkill] หาก target ตาย, เพิ่ม [BloodDinner] ไป <style=\"highlight\">100</style>. Reได้รับครึ่งหนึ่งของ [BloodArmorPersonalityFirst] ที่จ่ายไป ด้วยสกิลนี้ (1 ครั้งต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1541,7 +1541,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Variant Sancho Hardblood Arts 15 - Buildup to Finale\u200B</line-height>",
-          "desc": "<line-height=130%>[DuelCounter]\n[StartBattle] To (3 + (highest Reson. / 2)) allies with the least HP: มอบ (1 + ([BloodArmorPersonalityFirst] / 15)) [SwirlingBloodPersonality] ต่อทุกๆ 40 [BloodDinner_Common_Accumulation], จากนั้น จ่ายครึ่งหนึ่งของ [BloodArmorPersonalityFirst]บนself. (once ต่อทุกๆ ally; เศษปัดลง)\u200B</line-height>",
+          "desc": "<line-height=130%>[DuelCounter]\n[StartBattle] To (3 + (Reson สูงสุด. / 2)) allies with the least HP: มอบ (1 + ([BloodArmorPersonalityFirst] / 15)) [SwirlingBloodPersonality] ต่อทุกๆ 40 [BloodDinner_Common_Accumulation], จากนั้น จ่ายครึ่งหนึ่งของ [BloodArmorPersonalityFirst]บนself. (once ต่อทุกๆ ally; เศษปัดลง)\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -1559,7 +1559,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Variant Sancho Hardblood Arts 15 - Buildup to Finale\u200B</line-height>",
-          "desc": "<line-height=130%>[DuelCounter]\n[StartBattle] To (3 + (highest Reson. / 2)) allies with the least HP: มอบ (1 + ([BloodArmorPersonalityFirst] / <style=\"highlight\">10</style>)) [SwirlingBloodPersonality] ต่อทุกๆ 40 [BloodDinner_Common_Accumulation], จากนั้น จ่ายครึ่งหนึ่งของ [BloodArmorPersonalityFirst]บนself. (once ต่อทุกๆ ally; เศษปัดลง)\u200B</line-height>",
+          "desc": "<line-height=130%>[DuelCounter]\n[StartBattle] To (3 + (Reson สูงสุด. / 2)) allies with the least HP: มอบ (1 + ([BloodArmorPersonalityFirst] / <style=\"highlight\">10</style>)) [SwirlingBloodPersonality] ต่อทุกๆ 40 [BloodDinner_Common_Accumulation], จากนั้น จ่ายครึ่งหนึ่งของ [BloodArmorPersonalityFirst]บนself. (once ต่อทุกๆ ally; เศษปัดลง)\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -1675,7 +1675,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [DefenseDown] ต่อทุกๆ 6 [Combustion]บนเป้าหมาย (สูงสุด 2, อีกครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [DefenseDown] ต่อทุกๆ 6 [Combustion] ของเป้าหมาย (สูงสุด 2, อีกครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>"
                 }
               ]
             }
@@ -1706,7 +1706,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Combustion]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [DefenseDown] ต่อทุกๆ 6 [Combustion]บนเป้าหมาย (สูงสุด <style=\"highlight\">3</style>, อีกครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [DefenseDown] ต่อทุกๆ 6 [Combustion] ของเป้าหมาย (สูงสุด <style=\"highlight\">3</style>, อีกครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>"
                 }
               ]
             }
@@ -1737,7 +1737,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Combustion]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [DefenseDown] ต่อทุกๆ 6 [Combustion]บนเป้าหมาย (สูงสุด <style=\"highlight\">5</style>, อีกครั้ง ต่อทุกๆ เทิร์น)\n<style=\"highlight\">- มอบ [DefenseDown] เพิ่มเติม เท่ากับ [DianxueDonQuixote]บนเป้าหมาย</style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [DefenseDown] ต่อทุกๆ 6 [Combustion] ของเป้าหมาย (สูงสุด <style=\"highlight\">5</style>, อีกครั้ง ต่อทุกๆ เทิร์น)\n<style=\"highlight\">- มอบ [DefenseDown] เพิ่มเติม เท่ากับ [DianxueDonQuixote]บนเป้าหมาย</style>\u200B</line-height>"
                 }
               ]
             }
@@ -1777,7 +1777,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>ทำ +([Breath] ที่ตัวเองมี + [Combustion]บนเป้าหมาย)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด 30%)\u200B</line-height>"
+                  "desc": "<line-height=130%>ทำ +([Breath] ที่ตัวเองมี + [Combustion] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด 30%)\u200B</line-height>"
                 }
               ]
             }
@@ -1812,7 +1812,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>ทำ +([Breath] ที่ตัวเองมี + [Combustion]บนเป้าหมาย)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด <style=\"highlight\">50%</style>)\u200B</line-height>"
+                  "desc": "<line-height=130%>ทำ +([Breath] ที่ตัวเองมี + [Combustion] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด <style=\"highlight\">50%</style>)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] หากเป้าหมายมี [DianxueDonQuixote], มอบ 3 [DefenseDown]</style>\u200B</line-height>"

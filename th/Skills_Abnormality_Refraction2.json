@@ -562,7 +562,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เพื่อมิให้ใครร่ำไห้\u200B</line-height>",
-          "desc": "<line-height=130%>[EndBattle] ลบ [ReattachedCurseTag] ทั้งหมด\n[WhenUse] หาก at 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">[ReattachedCurseTag]</color></link></u>, -1 เหรียญ Power\u200B</line-height>",
+          "desc": "<line-height=130%>[EndBattle] ลบ [ReattachedCurseTag] ทั้งหมด\n[WhenUse] หาก at 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">[ReattachedCurseTag]</color></link></u>, -1 แต้มเหรียญ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -731,7 +731,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +5% ต่อทุกๆ [Laceration] ที่เป้าหมายมี\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +5% ต่อทุกๆ [Laceration] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack]จ่าย all of target's [Laceration]\u200B</line-height>"
@@ -753,7 +753,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 1% ของ HPสูงสุด ต่อทุกๆ [Laceration] ที่เป้าหมายมี\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 1% ของ HPสูงสุด ต่อทุกๆ [Laceration] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack]จ่าย 1 [Laceration] Count from target\u200B</line-height>"
@@ -990,7 +990,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +5% ต่อทุกๆ 5 ขั้น [Burst] ที่เป้าหมายมี\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +5% ต่อทุกๆ 5 ขั้น [Burst] ของเป้าหมาย\u200B</line-height>"
                 }
               ]
             }
@@ -1066,14 +1066,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 Dimensional Rift\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [DimensionRift]\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 Dimensional Rift\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [DimensionRift]\u200B</line-height>"
                 }
               ]
             }
@@ -1114,7 +1114,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttackHead] ได้รับ [Charge] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 Dimensional Rift\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [DimensionRift]\u200B</line-height>"
                 }
               ]
             },
@@ -1124,7 +1124,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttackHead] ได้รับ [Charge] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 Dimensional Rift\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [DimensionRift]\u200B</line-height>"
                 }
               ]
             }
@@ -1164,12 +1164,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Vomit Byproducts\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี Dimensional Rift, ทำ +10% ความเสียหาย\n[DefeatDuel]จ่าย [Charge] 2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี [DimensionRift], ทำ +10% ความเสียหาย\n[DefeatDuel]จ่าย [Charge] 2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 5 Dimensional Rift\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 5 [DimensionRift]\u200B</line-height>"
                 }
               ]
             }
@@ -1183,7 +1183,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>High-speed กระฉากมิติ\u200B</line-height>",
-          "desc": "<line-height=130%>ได้รับ แต้มปะทะ เท่ากับ the number of Dimensional Rift effect with the highest stack\nทำ ความเสียหาย +10% ต่อทุกๆ Dimensional Rift effectบนself\u200B</line-height>",
+          "desc": "<line-height=130%>ได้รับ แต้มปะทะ เท่ากับ the number of [DimensionRift] effect with the highest stack\nทำ ความเสียหาย +10% ต่อทุกๆ [DimensionRift] effectบนself\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1202,12 +1202,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Opportunity Spotted\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี Dimensional Rift, +20% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี [DimensionRift], +20% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 Dimensional Rift\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [DimensionRift]\u200B</line-height>"
                 }
               ]
             }
@@ -1221,12 +1221,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Rift Attack\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี Dimensional Rift, +10% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี [DimensionRift], +10% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 Dimensional Rift\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [DimensionRift]\u200B</line-height>"
                 }
               ]
             }
@@ -1703,7 +1703,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] Lower ขีด Stagger ของผู้ใช้ ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             },
@@ -1713,7 +1713,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] Lower ขีด Stagger ของผู้ใช้ ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             },
@@ -1723,7 +1723,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] Lower ขีด Stagger ของผู้ใช้ ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             }
@@ -2062,7 +2062,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Spreading Envy\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse]จ่าย 10[Charge] เพื่อได้รับ +4 เหรียญ Power\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse]จ่าย 10[Charge] เพื่อได้รับ +4 แต้มเหรียญ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -2081,7 +2081,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dimensional Leap\u200B</line-height>",
-          "desc": "<line-height=130%>If this Dimensional Rift remains, ทำ +10% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=130%>If this [DimensionRift] remains, ทำ +10% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -2094,7 +2094,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dimensional Leap\u200B</line-height>",
-          "desc": "<line-height=130%>If this Dimensional Rift remains, Max HP +20%\u200B</line-height>",
+          "desc": "<line-height=130%>If this [DimensionRift] remains, Max HP +20%\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -2107,7 +2107,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dimensional Leap\u200B</line-height>",
-          "desc": "<line-height=130%>If this Dimensional Rift remains, ได้รับ 1 Speed\u200B</line-height>",
+          "desc": "<line-height=130%>If this [DimensionRift] remains, ได้รับ 1 Speed\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -2120,7 +2120,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Dimensional Leap\u200B</line-height>",
-          "desc": "<line-height=130%>If this Dimensional Rift remains, แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=130%>If this [DimensionRift] remains, แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -2133,7 +2133,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เพื่อมิให้ใครร่ำไห้\u200B</line-height>",
-          "desc": "<line-height=130%>[EndBattle] ลบ [ReattachedCurseTag] ทั้งหมด\n[WhenUse] หาก at 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">[ReattachedCurseTag]</color></link></u>, -1 เหรียญ Power\u200B</line-height>",
+          "desc": "<line-height=130%>[EndBattle] ลบ [ReattachedCurseTag] ทั้งหมด\n[WhenUse] หาก at 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">[ReattachedCurseTag]</color></link></u>, -1 แต้มเหรียญ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
