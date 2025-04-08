@@ -193,7 +193,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>โค่นล้ม</line-height></size>\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] จ่าย 20 [BloodDinner]: ได้รับ 1 [BloodArmor] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] จ่าย 20 [BloodDinner]: ได้รับ 1 [BloodArmor] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration] ของตัวเอง (สูงสุด 3)\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -219,7 +219,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%><line-height=120%><size=40>ชก</size></line-height>\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] จ่าย 20 [BloodDinner]: ได้รับ 1 [BloodArmor] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] จ่าย 20 [BloodDinner]: ได้รับ 1 [BloodArmor] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration] ของตัวเอง (สูงสุด 3)\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -304,7 +304,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ศาสตราดัดแปลงแห่งดอน กิโฮเต้: ศิลป์ซานโซที่ 4 - ไล่ล่า\u200B</line-height>",
-                    "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ที่ตัวเองมี (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้ผลของ [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
+                    "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ของตัวเอง (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้ผลของ [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -330,7 +330,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ศาสตราดัดแปลงแห่งดอน กิโฮเต้: ศิลป์ซานโซที่ 3 - ซุ่มประจัน\u200B</line-height>",
-                    "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ที่ตัวเองมี (สูงสุด 2)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้ผลของ [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
+                    "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration] มากที่สุด\n[BeforeAttack] Atk Weight +1 ต่อทุกๆ 10 [BloodArmor] ของตัวเอง (สูงสุด 2)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 3)\n[WhenUse] จ่ายสูงสุด 30 [BloodDinner]: ได้รับ 1 [BloodArmor] และ แต้มเหรียญ +1 ต่อทุกๆ 15 [BloodDinner] ที่จ่ายไป (สูงสุด 2)\n- หาก ยูนิทนี้ ไม่สามารถจ่าย [BloodDinner], ได้รับ 10 [Laceration], และ บังคับใช้ผลของ [Laceration] นั้นทันที. เสีย 1 ขั้น [Laceration]\n[EndSkill] เพิ่ม [BloodDinner] เท่ากับ ความเสียหายที่สกิลนี้ทำได้\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -453,7 +453,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>เพิ่มแรงกดดัน\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 5 ปริมาณ [Breath] ของตัวเอง (สูงสุด 3)\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -475,7 +475,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ปลดเปลื้อง\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 3 ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 5)\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 3 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -528,7 +528,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>เปิดใช้อนุกรมการสูญพันธ์\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] จ่ายครึ่งหนึ่งของ ปริมาณ และขั้นของ [Breath] ที่ตัวเองมี\n- ได้รับ (ผลรวมของปริมาณ และขั้นของ [Breath] ที่จ่ายไป / 2)+ แต้มรวม (สูงสุด 20)\n- ทำ +(ผลรวมของปริมาณ และขั้นของ [Breath] ที่จ่ายไป x 2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n- +(ผลรวมของปริมาณ และขั้นของ [Breath] ที่จ่ายไป x 4)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด 100%)\n[DefeatDuel] ลดขั้น [Breath] ที่เหลืออยู่ไปครึ่งหนึ่ง\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] จ่ายครึ่งหนึ่งของ ปริมาณ และขั้นของ [Breath] ของตัวเอง\n- ได้รับ (ผลรวมของปริมาณ และขั้นของ [Breath] ที่จ่ายไป / 2)+ แต้มรวม (สูงสุด 20)\n- ทำ +(ผลรวมของปริมาณ และขั้นของ [Breath] ที่จ่ายไป x 2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n- +(ผลรวมของปริมาณ และขั้นของ [Breath] ที่จ่ายไป x 4)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด 100%)\n[DefeatDuel] ลดขั้น [Breath] ที่เหลืออยู่ไปครึ่งหนึ่ง\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -556,7 +556,7 @@
                 {
                     "level": 1,
                     "name": "<line-height=120%>ไตร่ตรองให้ถี่ถ้วน\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อ ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 5)\n[WhenUse] ได้รับ 4 ปริมาณ [Breath]\n- หากยูนิทนี้ยังมีโล่อยู่ ได้รับ [Breath] +2 ขั้นเช่นกัน\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อ ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\n[WhenUse] ได้รับ 4 ปริมาณ [Breath]\n- หากยูนิทนี้ยังมีโล่อยู่ ได้รับ [Breath] +2 ขั้นเช่นกัน\u200B</line-height>",
                     "coinlist": [
                         {}
                     ]

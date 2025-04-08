@@ -88,7 +88,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Laceration] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 50%+ HP, บังคับใช้ผลของ [Laceration] ที่ตัวเองมีทันที. เสีย 1 ขั้น [Laceration] ที่ตัวเองมี\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 50%+ HP, บังคับใช้ผลของ [Laceration] ของตัวเองทันที. เสีย 1 ขั้น [Laceration] ของตัวเอง\u200B</line-height>"
                 }
               ]
             },
@@ -173,7 +173,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>สละชีพเพื่อครอบครัว\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] เมื่อมี 50%+ HP, บังคับใช้ผลของ [Laceration] ที่ตัวเองมีทันที (สูงสุด 3 ครั้ง ลดขั้น [Laceration] ต่อทุกๆ ครั้งที่ใช้ผลไป ไม่สามารถถูก Stagger ได้จากความเสียหายนี้)\n[StartBattle] พันธมิตรทุกคน ฟื้นฟู 5 ค่าสติ (รวมตัวเอง)\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] เมื่อมี 50%+ HP, บังคับใช้ผลของ [Laceration] ของตัวเองทันที (สูงสุด 3 ครั้ง ลดขั้น [Laceration] ต่อทุกๆ ครั้งที่ใช้ผลไป ไม่สามารถถูก Stagger ได้จากความเสียหายนี้)\n[StartBattle] พันธมิตรทุกคน ฟื้นฟู 5 ค่าสติ (รวมตัวเอง)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -218,7 +218,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>วิธีแสดงความรัก\u200B</line-height>",
-          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี จำนวนผลด้านลบ น้อยที่สุด\n[WhenUse] หากเป้าหมาย ไม่มีผลด้านลบอะไรเลย ใช้ 'แสดงความรักรุนแรง' ในเทิร์นหน้า\n\n[WhenUse] หากเป้าหมายมี ผลด้านลบมากกว่า [FaintMemory] ที่ตัวเองมี, ใช้ 'อ้อมกอดแสนเศร้า' ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี จำนวนผลด้านลบ น้อยที่สุด\n[WhenUse] หากเป้าหมาย ไม่มีผลด้านลบอะไรเลย ใช้ 'แสดงความรักรุนแรง' ในเทิร์นหน้า\n\n[WhenUse] หากเป้าหมายมี ผลด้านลบมากกว่า [FaintMemory] ของตัวเอง, ใช้ 'อ้อมกอดแสนเศร้า' ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -592,7 +592,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ล้มร่าง\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่าย 10 [BloodDinner]: ได้รับ 1 [BloodArmor]\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่าย 10 [BloodDinner]: ได้รับ 1 [BloodArmor]\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration] ของตัวเอง (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -618,7 +618,7 @@
         {
           "level": 1,
           "name": "<line-height=120%><line-height=120%>ชก</line-height>\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่ายสูงสุด 20 [BloodDinner]: ได้รับ 1 [BloodArmor] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration] ที่ตัวเองมี (สูงสุด 3)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่ายสูงสุด 20 [BloodDinner]: ได้รับ 1 [BloodArmor] ต่อทุกๆ 10 [BloodDinner] ที่จ่ายไป\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 10 [BloodArmor] (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 15 [Laceration] ของตัวเอง (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -945,7 +945,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เคเหะ เหะเหะ\u200B</line-height>",
-          "desc": "<line-height=130%>[WinDuel] มอบ 1 [Binding] ในเทิร์นหน้า\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 4 [DefenseUp] ที่ตัวเองมี (สูงสุด 2)\n[WhenUse] ได้รับ 3 [DefenseUp]\u200B</line-height>",
+          "desc": "<line-height=130%>[WinDuel] มอบ 1 [Binding] ในเทิร์นหน้า\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 4 [DefenseUp] ของตัวเอง (สูงสุด 2)\n[WhenUse] ได้รับ 3 [DefenseUp]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -978,7 +978,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เคเหะเหะฤ\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] มอบ 3 [DefenseUp] แก่ 1 พันธมิตรที่มีเปอร์เซนต์ HP น้อยที่สุด รวมยูนิทนี้ด้วย\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [DefenseUp] ที่ตัวเองมี (สูงสุด 4)\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] มอบ 3 [DefenseUp] แก่ 1 พันธมิตรที่มีเปอร์เซนต์ HP น้อยที่สุด รวมยูนิทนี้ด้วย\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [DefenseUp] ของตัวเอง (สูงสุด 4)\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -999,7 +999,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เคเหะ\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] ได้รับ 2 x ([DefenseUp] ที่ตัวเองมี) HP โล่ (สูงสุด 20, 2 ครั้ง ต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] ได้รับ 2 x ([DefenseUp] ของตัวเอง) HP โล่ (สูงสุด 20, 2 ครั้ง ต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1437,7 +1437,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>หอกผลึกโลหิต\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] ได้รับ Atk Weight +1 ต่อทุกๆ 3 [RegainedStrength] ที่ตัวเองมี (สูงสุด 2)\n[EndSkill] จ่าย 3 [RegainedStrength]\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] ได้รับ Atk Weight +1 ต่อทุกๆ 3 [RegainedStrength] ของตัวเอง (สูงสุด 2)\n[EndSkill] จ่าย 3 [RegainedStrength]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

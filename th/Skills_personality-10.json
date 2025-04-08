@@ -153,7 +153,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>เดิมพัน\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 10 ขั้น [Vibration] ที่ตัวเองมี (สูงสุด 2)\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 10 ขั้น [Vibration] ของตัวเอง (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -780,7 +780,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Combat Preparation\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ +3 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n<style=\"highlight\">[WhenUse] ได้รับ 1 [DefenseUp] ต่อทุกๆ 2 ขั้น [Vibration] ที่ตัวเองมี (สูงสุด 3)\n[WhenUse] เมื่อมี 4+ [DefenseUp], แต้มเหรียญ +1</style>\n[WinDuel] ได้รับ +<style=\"highlight\">3</style> ขั้น [Vibration]\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ +3 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n<style=\"highlight\">[WhenUse] ได้รับ 1 [DefenseUp] ต่อทุกๆ 2 ขั้น [Vibration] ของตัวเอง (สูงสุด 3)\n[WhenUse] เมื่อมี 4+ [DefenseUp], แต้มเหรียญ +1</style>\n[WinDuel] ได้รับ +<style=\"highlight\">3</style> ขั้น [Vibration]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -801,7 +801,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Combat Preparation\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ +3 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [DefenseUp] ต่อทุกๆ 2 ขั้น [Vibration] ที่ตัวเองมี (สูงสุด 3)\n[WhenUse] เมื่อมี 4+ [DefenseUp], แต้มเหรียญ +1\n[WinDuel] ได้รับ [Vibration] +3 ขั้น<style=\"highlight\"></style>\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ +3 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[WhenUse] ได้รับ 1 [DefenseUp] ต่อทุกๆ 2 ขั้น [Vibration] ของตัวเอง (สูงสุด 3)\n[WhenUse] เมื่อมี 4+ [DefenseUp], แต้มเหรียญ +1\n[WinDuel] ได้รับ [Vibration] +3 ขั้น<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -827,7 +827,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Fence\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ 1 [DefenseUp] ต่อทุกๆ 2 ขั้น [Vibration] ที่ตัวเองมี (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [DefenseUp] ที่ตัวเองมี (สูงสุด 2)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ 1 [DefenseUp] ต่อทุกๆ 2 ขั้น [Vibration] ของตัวเอง (สูงสุด 2)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [DefenseUp] ของตัวเอง (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -846,7 +846,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 8 ขั้น [Vibration] ที่ตัวเองมี, และ มอบ the same amount of ขั้น [Vibration]บนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 8 ขั้น [Vibration] ของตัวเอง, และ มอบ the same amount of ขั้น [Vibration]บนเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\u200B</line-height>"
@@ -858,7 +858,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Fence\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ 1 [DefenseUp] ต่อทุกๆ 2 ขั้น [Vibration] ที่ตัวเองมี (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [DefenseUp] ที่ตัวเองมี (สูงสุด <style=\"highlight\">3</style>)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ 1 [DefenseUp] ต่อทุกๆ 2 ขั้น [Vibration] ของตัวเอง (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 3 [DefenseUp] ของตัวเอง (สูงสุด <style=\"highlight\">3</style>)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -877,7 +877,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 8 ขั้น [Vibration] ที่ตัวเองมี, และ มอบ the same amount of ขั้น [Vibration]บนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 8 ขั้น [Vibration] ของตัวเอง, และ มอบ the same amount of ขั้น [Vibration]บนเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\u200B</line-height>"
@@ -1131,7 +1131,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก this Skill's effect to raise its final แต้มเหรียญ did not activate, ได้รับ 2 [Agility] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หาก this Skill's effect เพื่อเพิ่ม its final แต้มเหรียญ did not activate, ได้รับ 2 [Agility] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }

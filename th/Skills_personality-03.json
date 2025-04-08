@@ -620,7 +620,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ชักดาบออกจากฝัก\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">เมื่อมี 5+ [Breath] ที่ตัวเองมี, แต้มเหรียญ +1\n</style>[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">เมื่อมี 5+ [Breath] ของตัวเอง, แต้มเหรียญ +1\n</style>[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -688,7 +688,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Blade Arc\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">เมื่อมี 7+ [Breath] ที่ตัวเองมี, แต้มเหรียญ +1\n</style>[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">เมื่อมี 7+ [Breath] ของตัวเอง, แต้มเหรียญ +1\n</style>[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -746,7 +746,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Fare Thee Well!\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">เมื่อมี 10+ [Breath] ที่ตัวเองมี, แต้มเหรียญ +1\n</style>[WhenUse] ได้รับ 5 [Breath]\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">เมื่อมี 10+ [Breath] ของตัวเอง, แต้มเหรียญ +1\n</style>[WhenUse] ได้รับ 5 [Breath]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -880,7 +880,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 3 [Vibration]บนเป้าหมาย, และ ได้รับ the same amount of ขั้น [Vibration] ที่ตัวเองมี\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 3 [Vibration]บนเป้าหมาย, และ ได้รับ the same amount of ขั้น [Vibration] ของตัวเอง\u200B</line-height>"
                 }
               ]
             },
@@ -901,7 +901,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 3 [Vibration]บนเป้าหมาย, และ ได้รับ the same amount of ขั้น [Vibration] ที่ตัวเองมี\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 3 [Vibration]บนเป้าหมาย, และ ได้รับ the same amount of ขั้น [Vibration] ของตัวเอง\u200B</line-height>"
                 }
               ]
             },
@@ -929,7 +929,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 3 [Vibration]บนเป้าหมาย, และ ได้รับ <style=\"highlight\">doubleจำนวนconsumed</style>เป็นขั้น [Vibration] ที่ตัวเองมี\n<style=\"highlight\">มอบ ([Vibration] ที่จ่ายไป - 1) [Binding] ในเทิร์นหน้า</style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 3 [Vibration]บนเป้าหมาย, และ ได้รับ <style=\"highlight\">doubleจำนวนconsumed</style>เป็นขั้น [Vibration] ของตัวเอง\n<style=\"highlight\">มอบ ([Vibration] ที่จ่ายไป - 1) [Binding] ในเทิร์นหน้า</style>\u200B</line-height>"
                 }
               ]
             },
@@ -957,7 +957,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>I Command Thee, Halt!\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 6+ [Vibration], แต้มปะทะ +1\n[WhenUse] จ่าย 10 ขั้น [Vibration] ที่ตัวเองมี เพื่อได้รับ แต้มเหรียญ +2\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 6+ [Vibration], แต้มปะทะ +1\n[WhenUse] จ่าย 10 ขั้น [Vibration] ของตัวเอง เพื่อได้รับ แต้มเหรียญ +2\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -983,7 +983,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>I Command Thee, Halt!\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] <style=\"highlight\">แต้มปะทะ +1 ต่อทุกๆ 6 [Vibration]บนเป้าหมาย (สูงสุด 2)</style>\n<style=\"highlight\">[WhenUse] หากเป้าหมายมี [Binding], ได้รับ แต้มปะทะ +1</style>\n[WhenUse] จ่าย 10 ขั้น [Vibration] ที่ตัวเองมี เพื่อได้รับ แต้มเหรียญ +2\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] <style=\"highlight\">แต้มปะทะ +1 ต่อทุกๆ 6 [Vibration]บนเป้าหมาย (สูงสุด 2)</style>\n<style=\"highlight\">[WhenUse] หากเป้าหมายมี [Binding], ได้รับ แต้มปะทะ +1</style>\n[WhenUse] จ่าย 10 ขั้น [Vibration] ของตัวเอง เพื่อได้รับ แต้มเหรียญ +2\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -1777,7 +1777,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>ทำ +([Breath] ที่ตัวเองมี + [Combustion] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด 30%)\u200B</line-height>"
+                  "desc": "<line-height=130%>ทำ +([Breath] ของตัวเอง + [Combustion] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด 30%)\u200B</line-height>"
                 }
               ]
             }
@@ -1812,7 +1812,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>ทำ +([Breath] ที่ตัวเองมี + [Combustion] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด <style=\"highlight\">50%</style>)\u200B</line-height>"
+                  "desc": "<line-height=130%>ทำ +([Breath] ของตัวเอง + [Combustion] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่มเมื่อติดคริ (สูงสุด <style=\"highlight\">50%</style>)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] หากเป้าหมายมี [DianxueDonQuixote], มอบ 3 [DefenseDown]</style>\u200B</line-height>"

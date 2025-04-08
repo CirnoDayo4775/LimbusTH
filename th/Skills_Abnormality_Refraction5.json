@@ -50,7 +50,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Punch Through\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ 2 [Breath]\n[WhenUse] เมื่อมี 10+ [Breath], แต้มตั้งต้น +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 ขั้น [Breath]บนself (สูงสุด 2)\n[WinDuel] จากสกิลนี้ ทำ s +50% ความเสียหายเพิ่มเติ่มเมื่อติดคริ\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ 2 [Breath]\n[WhenUse] เมื่อมี 10+ [Breath], แต้มตั้งต้น +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 ขั้น [Breath] ของตัวเอง (สูงสุด 2)\n[WinDuel] จากสกิลนี้ ทำ s +50% ความเสียหายเพิ่มเติ่มเมื่อติดคริ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -91,7 +91,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Reload, Fire\u200B</line-height>",
-          "desc": "<line-height=130%>สกิลนี้ทำ +50% ความเสียหายเมื่อติดคริ\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 ขั้น [Breath]บนself (สูงสุด 3)\n[WhenUse] ได้รับ 3 [Breath]\u200B</line-height>",
+          "desc": "<line-height=130%>สกิลนี้ทำ +50% ความเสียหายเมื่อติดคริ\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 ขั้น [Breath] ของตัวเอง (สูงสุด 3)\n[WhenUse] ได้รับ 3 [Breath]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -110,7 +110,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>See Through Defenses\u200B</line-height>",
-          "desc": "<line-height=130%>[DefeatDuel] Halve [Breath] ที่ตัวเองมี\n- Any [Breath] ได้รับed during ในเทิร์นนี้ are halved เช่นกัน\n- ได้รับ 4 [Paralysis] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[DefeatDuel] Halve [Breath] ของตัวเอง\n- Any [Breath] ได้รับed during ในเทิร์นนี้ are halved เช่นกัน\n- ได้รับ 4 [Paralysis] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -132,7 +132,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Designated Target Fire\u200B</line-height>",
-          "desc": "<line-height=130%>โจมตีศัครูที่มี [FellBulletMark]\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด 2)\nแต้มตั้งต้น +1 ต่อทุกๆ 3 ขั้น [Breath]บนself (สูงสุด 3)\n[WhenUse] หาก the main target ไม่มี [FellBulletMark], ได้รับ 1 [Paralysis] และ 3 [Vulnerable]\n[EndSkill] หากเป้าหมาย ตาย, ได้รับ 10 [Breath] และ lower every enemy's ค่าสติ ไป 15\u200B</line-height>",
+          "desc": "<line-height=130%>โจมตีศัครูที่มี [FellBulletMark]\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Breath] ของตัวเอง (สูงสุด 2)\nแต้มตั้งต้น +1 ต่อทุกๆ 3 ขั้น [Breath] ของตัวเอง (สูงสุด 3)\n[WhenUse] หาก the main target ไม่มี [FellBulletMark], ได้รับ 1 [Paralysis] และ 3 [Vulnerable]\n[EndSkill] หากเป้าหมาย ตาย, ได้รับ 10 [Breath] และ lower every enemy's ค่าสติ ไป 15\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -173,7 +173,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Target Readjustment Fire\u200B</line-height>",
-          "desc": "<line-height=130%>[CantIdentify]\n[CantChangeTarget]\nPrioritizes the target with [FellBulletMark]\nIf ยูนิทนี้ failed to attack the Stigmatized target, cancel this Skill.\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Breath] ที่ตัวเองมี (สูงสุด 2)\nแต้มตั้งต้น +1 ต่อทุกๆ 3 ขั้น [Breath]บนself (สูงสุด 3)\n[EndSkill] หากเป้าหมาย ตาย, ได้รับ 10 [Breath] และ lower every enemy's ค่าสติ ไป 15\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\n[CantChangeTarget]\nPrioritizes the target with [FellBulletMark]\nIf ยูนิทนี้ failed to attack the Stigmatized target, cancel this Skill.\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Breath] ของตัวเอง (สูงสุด 2)\nแต้มตั้งต้น +1 ต่อทุกๆ 3 ขั้น [Breath] ของตัวเอง (สูงสุด 3)\n[EndSkill] หากเป้าหมาย ตาย, ได้รับ 10 [Breath] และ lower every enemy's ค่าสติ ไป 15\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -214,7 +214,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ทุบตี\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 4 ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 5)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 4 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -236,7 +236,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Devastate\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 4 ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 5)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 4 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -268,7 +268,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Labored Breathing\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 8 ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 5)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 8 ขั้น [Breath]บนself (สูงสุด 5)\n[DefeatDuel] Halve ปริมาณ [Breath] ที่ตัวเองมี\n[EndSkill] Halve ปริมาณ และขั้นของ [Breath] ที่ตัวเองมี\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 8 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 8 ขั้น [Breath] ของตัวเอง (สูงสุด 5)\n[DefeatDuel] Halve ปริมาณ [Breath] ของตัวเอง\n[EndSkill] Halve ปริมาณ และขั้นของ [Breath] ของตัวเอง\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -292,7 +292,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Prone\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 4 ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 5)\n[WhenUse] ได้รับ 4 ปริมาณ [Breath]\n- เมื่อมี 50%- HP, also ได้รับ [Breath] +4 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 4 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\n[WhenUse] ได้รับ 4 ปริมาณ [Breath]\n- เมื่อมี 50%- HP, also ได้รับ [Breath] +4 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -311,7 +311,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>That's... MINE!\u200B</line-height>",
-          "desc": "<line-height=130%>[CantChangeTarget]\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 4 ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 4 ขั้น [Breath]บนself (สูงสุด 3)\u200B</line-height>",
+          "desc": "<line-height=130%>[CantChangeTarget]\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 4 ปริมาณ [Breath] ของตัวเอง (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 4 ขั้น [Breath] ของตัวเอง (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -336,7 +336,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Share the Pain\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 8 ปริมาณ [Breath] ที่ตัวเองมี (สูงสุด 5)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 8 ขั้น [Breath]บนself (สูงสุด 5)\n[DefeatDuel] ทำ -75% ความเสียหายน้อยลง และ ความเสียหาย ทำ t ไป this Skill cannot Stagger the target\n[EndSkill] Halve ปริมาณ และขั้นของ [Breath] ที่ตัวเองมี\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 8 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 8 ขั้น [Breath] ของตัวเอง (สูงสุด 5)\n[DefeatDuel] ทำ -75% ความเสียหายน้อยลง และ ความเสียหาย ทำ t ไป this Skill cannot Stagger the target\n[EndSkill] Halve ปริมาณ และขั้นของ [Breath] ของตัวเอง\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

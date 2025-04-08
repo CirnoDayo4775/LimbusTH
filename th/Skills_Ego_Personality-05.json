@@ -33,7 +33,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] +2 ขั้น; มอบ (Wrath A-Reson. /3) additional ขั้น [Vibration]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nหากเป้าหมายไม่มี a Stagger Threshold เมื่อ [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nหากเป้าหมายไม่มี a Stagger Threshold เมื่อ [Vibration] Burst,\nทำ ความเสียหาย Wrath ไป (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\u200B</line-height>"
                 }
               ]
             }
@@ -51,7 +51,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Vibration] +3 ขั้น; มอบ (Wrath A-Reson. /3) additional ขั้น [Vibration]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nหากเป้าหมายไม่มี a Stagger Threshold เมื่อ [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised.\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nหากเป้าหมายไม่มี a Stagger Threshold เมื่อ [Vibration] Burst,\nทำ ความเสียหาย Wrath ไป (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised.\u200B</line-height>"
                 }
               ]
             }
@@ -89,7 +89,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 40% of [Vibration]บนเป้าหมาย.\nหากเป้าหมายไม่มี a Stagger Threshold เมื่อ [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nลดขั้น [Vibration] ไป 1\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 40% of [Vibration]บนเป้าหมาย.\nหากเป้าหมายไม่มี a Stagger Threshold เมื่อ [Vibration] Burst,\nทำ ความเสียหาย Wrath ไป (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nลดขั้น [Vibration] ไป 1\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[EndSkill] ได้รับ 3 [Binding] และ 1 [HitResultUp] ในเทิร์นหน้า.\u200B</line-height>"
@@ -107,7 +107,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 50% of [Vibration]บนเป้าหมาย.\nหากเป้าหมายไม่มี a Stagger Threshold เมื่อ [Vibration] Burst,\nทำ Wrath ความเสียหาย ไป (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nลดขั้น [Vibration] ไป 1\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\nAmount of Stagger Threshold raised ไป [Vibration] Burst increases ไป 50% of [Vibration]บนเป้าหมาย.\nหากเป้าหมายไม่มี a Stagger Threshold เมื่อ [Vibration] Burst,\nทำ ความเสียหาย Wrath ไป (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nลดขั้น [Vibration] ไป 1\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[EndSkill] ได้รับ 3 [Binding] และ 1 [HitResultUp] ในเทิร์นหน้า.\u200B</line-height>"
@@ -175,7 +175,7 @@
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด 2)\n[BeforeAttack] หาก ยูนิทนี้มี 10+ ขั้น [Charge] ,จ่ายสูงสุด 20 ขั้น [Charge] ; ทำ ความเสียหายเพิ่มเติม +2%  ต่อทุกๆ ขั้น [Charge]  ที่จ่ายไป (สูงสุด 40%)\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด 2)\n[BeforeAttack] หาก ยูนิทนี้มี 10+ ขั้น [Charge] ,จ่ายสูงสุด 20 ขั้น [Charge] ; ทำ ความเสียหายเพิ่มเติม +2%  ต่อทุกๆ ขั้น [Charge] ที่จ่ายไป (สูงสุด 40%)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -193,7 +193,7 @@
           "level": 3,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด <style=\"highlight\">3</style>)\n[BeforeAttack] หาก ยูนิทนี้มี 10+ ขั้น [Charge] ,จ่ายสูงสุด 20 ขั้น [Charge] ; ทำ +<style=\"highlight\">2.5</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  ที่จ่ายไป (สูงสุด <style=\"highlight\">50</style>%)\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด <style=\"highlight\">3</style>)\n[BeforeAttack] หาก ยูนิทนี้มี 10+ ขั้น [Charge] ,จ่ายสูงสุด 20 ขั้น [Charge] ; ทำ +<style=\"highlight\">2.5</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge] ที่จ่ายไป (สูงสุด <style=\"highlight\">50</style>%)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -211,7 +211,7 @@
           "level": 4,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด 3)\n<style=\"highlight\">[BeforeAttack] เมื่อมี 10+ ขั้น [Charge] , มอบ the effects applied from 'On Hit' 2 ครั้ง</style>\n[BeforeAttack] หาก ยูนิทนี้มี 10+ ขั้น [Charge] ,จ่ายสูงสุด 20 ขั้น [Charge] ; ทำ +<style=\"highlight\">3</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge]  ที่จ่ายไป (สูงสุด <style=\"highlight\">60</style>%)\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ Atk Weight เท่ากับ (highest Envy Reson. - 2) (สูงสุด 3)\n<style=\"highlight\">[BeforeAttack] เมื่อมี 10+ ขั้น [Charge] , มอบ the effects applied from 'On Hit' 2 ครั้ง</style>\n[BeforeAttack] หาก ยูนิทนี้มี 10+ ขั้น [Charge] ,จ่ายสูงสุด 20 ขั้น [Charge] ; ทำ +<style=\"highlight\">3</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ ขั้น [Charge] ที่จ่ายไป (สูงสุด <style=\"highlight\">60</style>%)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -394,14 +394,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration] ที่ตัวเองมี และ the target\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration] ของตัวเอง และ the target\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration] ที่ตัวเองมี และ the target\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration] ของตัวเอง และ the target\u200B</line-height>"
                 }
               ]
             },
@@ -437,19 +437,19 @@
           "level": 3,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n<style=\"highlight\">เมื่อมี 6+ (sum of [Laceration] ที่ตัวเองมี และ the target), แต้มเหรียญ +1</style>\n[WhenUse] จ่ายสูงสุด 10% of ยูนิทนี้'s max HP และ ทำ (HP ที่จ่ายไป / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of ยูนิทนี้'s max HP, มอบ และ เปิดใช้งาน 5 [Laceration]บนพันธมิตรทุกคน อีกครั้ง instead (lose 1 ขั้น [Laceration]). ฟื้นฟู HP เท่ากับจำนวนof [Laceration]ความเสียหายทำ t to allies\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n<style=\"highlight\">เมื่อมี 6+ (sum of [Laceration] ของตัวเอง และ the target), แต้มเหรียญ +1</style>\n[WhenUse] จ่ายสูงสุด 10% of ยูนิทนี้'s max HP และ ทำ (HP ที่จ่ายไป / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of ยูนิทนี้'s max HP, มอบ และ เปิดใช้งาน 5 [Laceration]บนพันธมิตรทุกคน อีกครั้ง instead (lose 1 ขั้น [Laceration]). ฟื้นฟู HP เท่ากับจำนวนof [Laceration]ความเสียหายทำ t to allies\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">3</style> [Laceration] ที่ตัวเองมี และ the target\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">3</style> [Laceration] ของตัวเอง และ the target\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">3</style> [Laceration] ที่ตัวเองมี และ the target\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">3</style> [Laceration] ของตัวเอง และ the target\u200B</line-height>"
                 }
               ]
             },
@@ -485,25 +485,25 @@
           "level": 4,
           "name": "<line-height=120%>Yearning - Mircalla\u200B</line-height>",
           "abName": "Four-hundred Roses",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nแต้มเหรียญ +1 ต่อทุกๆ 6 (sum of [Laceration] ที่ตัวเองมี และ the target) <style=\"highlight\">(สูงสุด 3)</style>\n[WhenUse] จ่ายสูงสุด 10% of ยูนิทนี้'s max HP และ ทำ (HP ที่จ่ายไป / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of ยูนิทนี้'s max HP, มอบ และ เปิดใช้งาน 5 [Laceration]บนพันธมิตรทุกคน instead (lose 1 ขั้น [Laceration]). ฟื้นฟู HP เท่ากับจำนวนof [Laceration]ความเสียหายทำ t to allies\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\nแต้มเหรียญ +1 ต่อทุกๆ 6 (sum of [Laceration] ของตัวเอง และ the target) <style=\"highlight\">(สูงสุด 3)</style>\n[WhenUse] จ่ายสูงสุด 10% of ยูนิทนี้'s max HP และ ทำ (HP ที่จ่ายไป / 2) ความเสียหาย to ศัตรูทุกตัว และ allies\n- เมื่อมี less than 50% of ยูนิทนี้'s max HP, มอบ และ เปิดใช้งาน 5 [Laceration]บนพันธมิตรทุกคน instead (lose 1 ขั้น [Laceration]). ฟื้นฟู HP เท่ากับจำนวนof [Laceration]ความเสียหายทำ t to allies\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Laceration] ที่ตัวเองมี และ the target<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Laceration] ของตัวเอง และ the target<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] บังคับใช้ผลของ [Laceration] ที่ตัวเองมีทันที และ the target อีกครั้ง (both เสีย 1 ขั้น [Laceration])</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] บังคับใช้ผลของ [Laceration] ของตัวเองทันที และ the target อีกครั้ง (both เสีย 1 ขั้น [Laceration])</style>\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Laceration] ที่ตัวเองมี และ the target<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Laceration] ของตัวเอง และ the target<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] บังคับใช้ผลของ [Laceration] ที่ตัวเองมีทันที และ the target อีกครั้ง (both เสีย 1 ขั้น [Laceration])</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] บังคับใช้ผลของ [Laceration] ของตัวเองทันที และ the target อีกครั้ง (both เสีย 1 ขั้น [Laceration])</style>\u200B</line-height>"
                 }
               ]
             },

@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] ลดขีด Stagger ของผู้ใช้ ต่อทุกๆ ขั้น [Vibration] ที่ตัวเองมี (สูงสุด 10) \u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] ลดขีด Stagger ของผู้ใช้ ต่อทุกๆ ขั้น [Vibration] ของตัวเอง (สูงสุด 10) \u200B</line-height>"
                 }
               ]
             }
@@ -25,7 +25,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ต่อทุกๆ ขั้น [Vibration] ที่ตัวเองมี (สูงสุด 10) \u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ต่อทุกๆ ขั้น [Vibration] ของตัวเอง (สูงสุด 10) \u200B</line-height>"
                 }
               ]
             }
@@ -39,7 +39,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ต่อทุกๆ ขั้น [Vibration] ที่ตัวเองมี (สูงสุด 10) \u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ลดขีด Stagger ของผู้ใช้ ต่อทุกๆ ขั้น [Vibration] ของตัวเอง (สูงสุด 10) \u200B</line-height>"
                 }
               ]
             }
@@ -445,7 +445,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Ignition\u200B</line-height>",
+          "name": "<line-height=120%>จุดประกาย\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -466,7 +466,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Ignition\u200B</line-height>",
+          "name": "<line-height=120%>จุดประกาย\u200B</line-height>",
           "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 3 [Combustion] ของเป้าหมาย (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
@@ -487,7 +487,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Ignition\u200B</line-height>",
+          "name": "<line-height=120%>จุดประกาย\u200B</line-height>",
           "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 3 [Combustion] ของเป้าหมาย (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
@@ -1048,7 +1048,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Ripple\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เมื่อมี 4+ ขั้น [Charge] , แต้มตั้งต้น +1\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 ขั้น [Charge] ที่ตัวเองมี (สูงสุด 2)\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เมื่อมี 4+ ขั้น [Charge] , แต้มตั้งต้น +1\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 5 ขั้น [Charge] ของตัวเอง (สูงสุด 2)\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -1068,7 +1068,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Charged Leap\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่าย 6 ขั้น [Charge] ที่ตัวเองมี เพื่อได้รับ แต้มตั้งต้น +1\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่าย 6 ขั้น [Charge] ของตัวเอง เพื่อได้รับ แต้มตั้งต้น +1\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1092,7 +1092,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Charged Leap\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่าย 6 ขั้น [Charge] ที่ตัวเองมี เพื่อได้รับ แต้มตั้งต้น +1\n- หาก ยูนิทนี้ ที่จ่ายไป ขั้น [Charge] , มอบ ([Charge] + 1) [ChargeForceField] to self และ 2 other allies with the least ขั้น [Charge] . (สูงสุด 7 [ChargeForceField] ต่อทุกๆ ally. Activates อีกครั้ง ต่อทุกๆ เทิร์น max)\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่าย 6 ขั้น [Charge] ของตัวเอง เพื่อได้รับ แต้มตั้งต้น +1\n- หาก ยูนิทนี้ ที่จ่ายไป ขั้น [Charge] , มอบ ([Charge] + 1) [ChargeForceField] to self และ 2 other allies with the least ขั้น [Charge] . (สูงสุด 7 [ChargeForceField] ต่อทุกๆ ally. Activates อีกครั้ง ต่อทุกๆ เทิร์น max)\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1119,7 +1119,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Charged Leap\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่าย 6 ขั้น [Charge] ที่ตัวเองมี เพื่อได้รับ แต้มเหรียญ +1\n- หาก ยูนิทนี้ ที่จ่ายไป ขั้น [Charge] , มอบ ([Charge] + <style=\"highlight\">2</style>) [ChargeForceField] to self และ 2 other allies with the least ขั้น [Charge] . (สูงสุด <style=\"highlight\">8</style> [ChargeForceField] ต่อทุกๆ ally. Activates <style=\"highlight\">2 times</style> ต่อทุกๆ เทิร์น max)\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่าย 6 ขั้น [Charge] ของตัวเอง เพื่อได้รับ แต้มเหรียญ +1\n- หาก ยูนิทนี้ ที่จ่ายไป ขั้น [Charge] , มอบ ([Charge] + <style=\"highlight\">2</style>) [ChargeForceField] to self และ 2 other allies with the least ขั้น [Charge] . (สูงสุด <style=\"highlight\">8</style> [ChargeForceField] ต่อทุกๆ ally. Activates <style=\"highlight\">2 times</style> ต่อทุกๆ เทิร์น max)\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1151,7 +1151,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Rip Dimension\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] To self และ (Reson สูงสุด.) allies with [Charge]: มอบ [ChargeLoad] เท่ากับ [Charge]บนself\n(สูงสุด 5 other allies)\n[WhenUse] เมื่อมี 2+ [Charge] และ 7~14 ขั้น [Charge] , จ่าย ขั้น [Charge] ทั้งหมด ที่ตัวเองมี เพื่อได้รับ แต้มเหรียญ +1\n[WhenUse] จ่าย 15 ขั้น [Charge]  เพื่อได้รับ แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] To self และ (Reson สูงสุด.) allies with [Charge]: มอบ [ChargeLoad] เท่ากับ [Charge]บนself\n(สูงสุด 5 other allies)\n[WhenUse] เมื่อมี 2+ [Charge] และ 7~14 ขั้น [Charge] , จ่าย ขั้น [Charge] ทั้งหมด ของตัวเอง เพื่อได้รับ แต้มเหรียญ +1\n[WhenUse] จ่าย 15 ขั้น [Charge] เพื่อได้รับ แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -1174,7 +1174,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] หากสกิลนี้จ่ายครบ 15 ขั้น [Charge] บนuse, มอบ 2 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ (5 - [Charge]) ขั้น [Charge]  (Min 0)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ (5 - [Charge]) ขั้น [Charge] (Min 0)\u200B</line-height>"
                 }
               ]
             }
@@ -1183,7 +1183,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Rip Dimension\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] To self และ (Reson สูงสุด.) allies with [Charge]: มอบ [ChargeLoad] เท่ากับ [Charge]บนself\n(สูงสุด 5 other allies)\n[WhenUse] เมื่อมี 2+ [Charge] และ 7~14 ขั้น [Charge] , จ่าย ขั้น [Charge] ทั้งหมด ที่ตัวเองมี เพื่อได้รับ แต้มเหรียญ +2\n[WhenUse] จ่าย 15 ขั้น [Charge]  เพื่อได้รับ แต้มเหรียญ +2\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] To self และ (Reson สูงสุด.) allies with [Charge]: มอบ [ChargeLoad] เท่ากับ [Charge]บนself\n(สูงสุด 5 other allies)\n[WhenUse] เมื่อมี 2+ [Charge] และ 7~14 ขั้น [Charge] , จ่าย ขั้น [Charge] ทั้งหมด ของตัวเอง เพื่อได้รับ แต้มเหรียญ +2\n[WhenUse] จ่าย 15 ขั้น [Charge] เพื่อได้รับ แต้มเหรียญ +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1212,7 +1212,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] หากสกิลนี้จ่ายครบ 15 ขั้น [Charge] บนuse, มอบ 3 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ (5 - [Charge]) ขั้น [Charge]  (Min 0)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ (5 - [Charge]) ขั้น [Charge] (Min 0)\u200B</line-height>"
                 }
               ]
             }
@@ -1226,7 +1226,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Deploy Plasma\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 2 ขั้น [Charge] ที่ตัวเองมี (สูงสุด 5)\n[WhenUse] ได้รับ [Charge] +2 ขั้น (2 ครั้ง ต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 2 ขั้น [Charge] ของตัวเอง (สูงสุด 5)\n[WhenUse] ได้รับ [Charge] +2 ขั้น (2 ครั้ง ต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1240,7 +1240,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Deploy Plasma\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มตั้งต้น +1 for <style=\"highlight\">every</style> ขั้น [Charge] ที่ตัวเองมี (สูงสุด <style=\"highlight\">10</style>)\n[WhenUse] ได้รับ [Charge] +2 ขั้น (<style=\"highlight\">3</style> ครั้ง ต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มตั้งต้น +1 for <style=\"highlight\">every</style> ขั้น [Charge] ของตัวเอง (สูงสุด <style=\"highlight\">10</style>)\n[WhenUse] ได้รับ [Charge] +2 ขั้น (<style=\"highlight\">3</style> ครั้ง ต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1535,7 +1535,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Quite Discourteous!\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เมื่อมี 10+ [BloodScissorPersonalityFirst], แต้มตั้งต้น +1<style=\"highlight\">\n- เมื่อมี 20+ [BloodScissorPersonalityFirst], ได้รับ แต้มตั้งต้น +2 instead</style>\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ที่ตัวเองมี (สูงสุด 3)</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เมื่อมี 10+ [BloodScissorPersonalityFirst], แต้มตั้งต้น +1<style=\"highlight\">\n- เมื่อมี 20+ [BloodScissorPersonalityFirst], ได้รับ แต้มตั้งต้น +2 instead</style>\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ของตัวเอง (สูงสุด 3)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

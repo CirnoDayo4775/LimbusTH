@@ -190,7 +190,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ล้างแค้น\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ +2 Aggro แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[StartBattle] ได้รับ [DefenseUp] ต่อทุกๆ [Breath] ที่ตัวเองมี (สูงสุด 10)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ +2 Aggro แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[StartBattle] ได้รับ [DefenseUp] ต่อทุกๆ [Breath] ของตัวเอง (สูงสุด 10)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -204,7 +204,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ล้างแค้น\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ +5 Aggro แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[StartBattle] ได้รับ [DefenseUp] ต่อทุกๆ [Breath] ที่ตัวเองมี (สูงสุด 10)\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ +5 Aggro แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[StartBattle] ได้รับ [DefenseUp] ต่อทุกๆ [Breath] ของตัวเอง (สูงสุด 10)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -434,8 +434,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>40S-2 Activation\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่าย 5 ขั้น [Charge]  เพื่อได้รับ แต้มเหรียญ +1\u200B</line-height>",
+          "name": "<line-height=120%>40S-2 เปิดใช้งาน\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่าย 5 ขั้น [Charge] เพื่อได้รับ แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -449,8 +449,8 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>40S-2 Activation\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่าย 5 ขั้น [Charge]  เพื่อได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>\u200B</line-height>",
+          "name": "<line-height=120%>40S-2 เปิดใช้งาน\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่าย 5 ขั้น [Charge] เพื่อได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -470,8 +470,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>40S-2 Activation\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่าย 5 ขั้น [Charge]  เพื่อได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>\u200B</line-height>",
+          "name": "<line-height=120%>40S-2 เปิดใช้งาน\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่าย 5 ขั้น [Charge] เพื่อได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -497,7 +497,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Photoelectric Mark\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , จ่าย 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] จ่าย 10 ขั้น [Charge]  เพื่อได้รับ แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , จ่าย 2(10 - ขั้น [Charge] ปัจจุบัน)% HP เพื่อเพิ่ม ขั้น [Charge] เป็น 10\n[WhenUse] จ่าย 10 ขั้น [Charge] เพื่อได้รับ แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -513,7 +513,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Photoelectric Mark\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , จ่าย 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] จ่าย 10 ขั้น [Charge]  เพื่อได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , จ่าย 2(10 - ขั้น [Charge] ปัจจุบัน)% HP เพื่อเพิ่ม ขั้น [Charge] เป็น 10\n[WhenUse] จ่าย 10 ขั้น [Charge] เพื่อได้รับ แต้มเหรียญ +1<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -538,7 +538,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Photoelectric Mark\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , จ่าย 2(10 - current ขั้น [Charge] )% HP to raise ขั้น [Charge]  to 10\n[WhenUse] จ่าย 10 ขั้น [Charge]  เพื่อได้รับ แต้มเหรียญ <style=\"highlight\">+2</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เมื่อมี 5~9 ขั้น [Charge] , จ่าย 2(10 - ขั้น [Charge] ปัจจุบัน)% HP เพื่อเพิ่ม ขั้น [Charge] เป็น 10\n[WhenUse] จ่าย 10 ขั้น [Charge] เพื่อได้รับ แต้มเหรียญ <style=\"highlight\">+2</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -587,7 +587,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ +([Charge] x 3) ขั้น [Charge]  (สูงสุด 9)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ +([Charge] x 3) ขั้น [Charge] (สูงสุด 9)\u200B</line-height>"
                 }
               ]
             },
@@ -616,7 +616,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ +([Charge] x 3) ขั้น [Charge]  (สูงสุด 9)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ +([Charge] x 3) ขั้น [Charge] (สูงสุด 9)<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             },
@@ -639,7 +639,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Charge\u200B</line-height>",
+          "name": "<line-height=120%>ชาร์จไฟ\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Charge] +3 ขั้น (1 ครั้งต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {}
@@ -647,7 +647,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Charge\u200B</line-height>",
+          "name": "<line-height=120%>ชาร์จไฟ\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Charge] +3 ขั้น (<style=\"highlight\">2 times</style> ต่อทุกๆ เทิร์น)\u200B</line-height>",
           "coinlist": [
             {}
