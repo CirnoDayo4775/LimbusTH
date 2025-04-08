@@ -1142,7 +1142,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Headshot\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 Speed difference (สูงสุด 30%)</style>\n[WhenUse] ได้รับ 3 [Breath] และ [Breath] +1 ขั้น\n<style=\"highlight\">[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)</style>\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 ผลต่างของความเร็ว (สูงสุด 30%)</style>\n[WhenUse] ได้รับ 3 [Breath] และ [Breath] +1 ขั้น\n<style=\"highlight\">[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1165,7 +1165,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Headshot\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 Speed difference <style=\"highlight\">(สูงสุด 50%)</style>\n[WhenUse] ได้รับ 3 [Breath] และ +<style=\"highlight\">2</style> ขั้น [Breath]\n[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 ผลต่างของความเร็ว <style=\"highlight\">(สูงสุด 50%)</style>\n[WhenUse] ได้รับ 3 [Breath] และ +<style=\"highlight\">2</style> ขั้น [Breath]\n[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1193,7 +1193,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Goin' for the Bullseye\u200B</line-height>",
-          "desc": "<line-height=130%>[BeforeUse] หากยูนิทนี้มี [Bullet_LogicAtelier], เปิดใช้งาน 'AL-HV Pulverisation Round' แทน\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 Speed difference (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 12.5)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeUse] หากยูนิทนี้มี [Bullet_LogicAtelier], เปิดใช้งาน 'AL-HV Pulverisation Round' แทน\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 ผลต่างของความเร็ว (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 12.5)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1213,7 +1213,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Goin' for the Bullseye\u200B</line-height>",
-          "desc": "<line-height=130%>[BeforeUse] หากยูนิทนี้มี [Bullet_LogicAtelier], เปิดใช้งาน 'AL-HV Pulverisation Round' แทน\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 Speed difference (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 12.5)% ความเสียหายเพิ่มเติ่ม\n<style=\"highlight\">[EndSkill] ได้รับ [Breath] +2 ขั้น</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeUse] หากยูนิทนี้มี [Bullet_LogicAtelier], เปิดใช้งาน 'AL-HV Pulverisation Round' แทน\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 ผลต่างของความเร็ว (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 12.5)% ความเสียหายเพิ่มเติ่ม\n<style=\"highlight\">[EndSkill] ได้รับ [Breath] +2 ขั้น</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1266,7 +1266,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>AL-HV Pulverisation Round\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 Speed difference (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 25)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 ผลต่างของความเร็ว (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 25)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1286,7 +1286,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>AL-HV Pulverisation Round\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 Speed difference (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 25)% ความเสียหายเพิ่มเติ่ม\n<style=\"highlight\">[EndSkill] ได้รับ [Breath] +5 ขั้น</style>\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 ผลต่างของความเร็ว (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 25)% ความเสียหายเพิ่มเติ่ม\n<style=\"highlight\">[EndSkill] ได้รับ [Breath] +5 ขั้น</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1594,10 +1594,10 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [BlackCloudBlade], ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [BlackCloudBlade], ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [EngageToBattle], ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [EngageToBattle], ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)\u200B</line-height>"
                 }
               ]
             }
@@ -1614,10 +1614,10 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [BlackCloudBlade], ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [BlackCloudBlade], ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [EngageToBattle], ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [EngageToBattle], ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -1639,10 +1639,10 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [BlackCloudBlade], ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [BlackCloudBlade], ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [EngageToBattle], ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [EngageToBattle], ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)\u200B</line-height>"
                 }
               ]
             }
@@ -1659,10 +1659,10 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Laceration]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [BlackCloudBlade], ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [BlackCloudBlade], ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [EngageToBattle], ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้มี [EngageToBattle], ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)\u200B</line-height>"
                 }
               ]
             }

@@ -144,7 +144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ ขั้น [Vibration],จ่าย ขั้น [Vibration] ทั้งหมด เพื่อมอบ target with the same amount of ขั้น [Vibration]\n[OnSucceedAttack] เมื่อมี less than 10 ขั้น [Vibration], ได้รับ 6 [Vibration] และ เปิดใช้ [VibrationExplosion]บนself\nทำ ความเสียหายทุบ เท่ากับ [Vibration] Burst ความเสียหาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ ขั้น [Vibration],จ่าย ขั้น [Vibration] ทั้งหมด เพื่อมอบ target withจำนวนเดียวกันนั้นของ ขั้น [Vibration]\n[OnSucceedAttack] เมื่อมี less than 10 ขั้น [Vibration], ได้รับ 6 [Vibration] และ เปิดใช้ [VibrationExplosion]บนself\nทำ ความเสียหายทุบ เท่ากับ [Vibration] Burst ความเสียหาย\u200B</line-height>"
                 }
               ]
             }
@@ -158,7 +158,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ ขั้น [Vibration],จ่าย ขั้น [Vibration] ทั้งหมด เพื่อมอบ target with the same amount of ขั้น [Vibration]\n[OnSucceedAttack] เมื่อมี less than 10 ขั้น [Vibration], ได้รับ 10 [Vibration] และ เปิดใช้ [VibrationExplosion]บนself\nทำ ความเสียหายทุบ เท่ากับ [Vibration] Burst ความเสียหาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ ขั้น [Vibration],จ่าย ขั้น [Vibration] ทั้งหมด เพื่อมอบ target withจำนวนเดียวกันนั้นของ ขั้น [Vibration]\n[OnSucceedAttack] เมื่อมี less than 10 ขั้น [Vibration], ได้รับ 10 [Vibration] และ เปิดใช้ [VibrationExplosion]บนself\nทำ ความเสียหายทุบ เท่ากับ [Vibration] Burst ความเสียหาย\u200B</line-height>"
                 }
               ]
             }
@@ -420,7 +420,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญซ้ำ (once ต่อทุกๆ Skill)\u200B</line-height>",
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญซ้ำ (1 ครั้งต่อสกิล)\u200B</line-height>",
                   "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญนี้ซ้ำ"
                 }
               ]
@@ -438,7 +438,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญซ้ำ (once ต่อทุกๆ Skill)\u200B</line-height>",
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญซ้ำ (1 ครั้งต่อสกิล)\u200B</line-height>",
                   "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญนี้ซ้ำ"
                 }
               ]
@@ -456,7 +456,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญซ้ำ (once ต่อทุกๆ Skill)\u200B</line-height>",
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] When in a Volatile E.G.O state, ใช้เหรียญซ้ำ (1 ครั้งต่อสกิล)\u200B</line-height>",
                   "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse this Coin"
                 }
               ]
@@ -771,7 +771,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]บน1 other ally with [DefenseUp], มอบ (([DefenseUp]บนthe ally)/3) [AttackUp] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น, สูงสุด 3)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]บน1 พันธมิตรแบบสุ่ม with [DefenseUp], มอบ (([DefenseUp]บนthe ally)/3) [AttackUp] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น, สูงสุด 3)\u200B</line-height>"
                 }
               ]
             }
@@ -785,14 +785,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[WinDuelAttack]บน1 other ally with the lowest HP percentage, มอบ 2 [DefenseUp] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[WinDuelAttack]บน1 พันธมิตรแบบสุ่ม with the lowest HP percentage, มอบ 2 [DefenseUp] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]บน1 other ally with [DefenseUp], มอบ (([DefenseUp]บนthe ally)/<style=\"highlight\">2</style>) [AttackUp] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น, สูงสุด 3)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]บน1 พันธมิตรแบบสุ่ม with [DefenseUp], มอบ (([DefenseUp]บนthe ally)/<style=\"highlight\">2</style>) [AttackUp] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น, สูงสุด 3)\u200B</line-height>"
                 }
               ]
             }
@@ -832,7 +832,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]บน1 other ally with the lowest HP percentage, มอบ 3 [DefenseUp] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]บน1 พันธมิตรแบบสุ่ม with the lowest HP percentage, มอบ 3 [DefenseUp] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             },
@@ -846,7 +846,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 8 ขั้น [Vibration] ของตัวเอง, และ มอบ the same amount of ขั้น [Vibration] ของเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 8 ขั้น [Vibration] ของตัวเอง, และ มอบจำนวนเดียวกันนั้นให้ขั้น [Vibration] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\u200B</line-height>"
@@ -863,7 +863,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]บน1 other ally with the lowest HP percentage, มอบ <style=\"highlight\">4</style> [DefenseUp] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]บน1 พันธมิตรแบบสุ่ม with the lowest HP percentage, มอบ <style=\"highlight\">4</style> [DefenseUp] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             },
@@ -877,7 +877,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 8 ขั้น [Vibration] ของตัวเอง, และ มอบ the same amount of ขั้น [Vibration] ของเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่ายสูงสุด 8 ขั้น [Vibration] ของตัวเอง, และ มอบจำนวนเดียวกันนั้นให้ขั้น [Vibration] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]; จากนั้น ลดขั้น [Vibration] ของเป้าหมายไป 1\u200B</line-height>"
@@ -1253,7 +1253,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Is it You?!\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] ได้รับ +<style=\"highlight\">5</style> [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[WhenUse] ฟื้นฟู 5 ค่าสติ แก่ตัวเอง\n<style=\"highlight\">- เมื่อมี สูงสุด ค่าสติ ได้รับ แต้มปะทะ +1 instead</style>\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\n[WhenUse] ได้รับ +<style=\"highlight\">5</style> [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\n[WhenUse] ฟื้นฟู 5 ค่าสติ แก่ตัวเอง\n<style=\"highlight\">- เมื่อมีค่าสติเต็ม ได้รับ แต้มปะทะ +1 instead</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

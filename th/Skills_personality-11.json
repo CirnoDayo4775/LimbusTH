@@ -433,7 +433,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Retraite\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ Speed difference สูงสุด 3)\n[OnSucceedEvade] ได้รับ 1 [Breath] (สูงสุด 10)\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ ผลต่างของความเร็ว สูงสุด 3)\n[OnSucceedEvade] ได้รับ 1 [Breath] (สูงสุด 10)\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -962,7 +962,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 มอบ 1 ปริมาณ ของ 1 ในดีบัฟต่อไปนี้ [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]. โดยเลือกผลแบบสุ่ม\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] หากเป้าหมาย Stagger หรือ ตาย, มอบ 1 [PenetrateDamageUp] ในเทิร์นหน้า to 1 other ally with the highest ค่าสติ\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] หากเป้าหมาย Stagger หรือ ตาย, มอบ 1 [PenetrateDamageUp] ในเทิร์นหน้า to 1 พันธมิตรแบบสุ่ม with the highest ค่าสติ\u200B</line-height>"
                 }
               ]
             }
@@ -983,7 +983,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 มอบ 1 ปริมาณ ของ 1 ในดีบัฟต่อไปนี้ [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]. โดยเลือกผลแบบสุ่ม\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] หากเป้าหมาย Stagger หรือ ตาย, มอบ 1 [PenetrateDamageUp] ในเทิร์นหน้า to 1 other ally with the highest ค่าสติ <style=\"highlight\">If the affected ally is a member of the Ring, มอบ 1 [PenetrateResultUp] เช่นกัน</style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] หากเป้าหมาย Stagger หรือ ตาย, มอบ 1 [PenetrateDamageUp] ในเทิร์นหน้า to 1 พันธมิตรแบบสุ่ม with the highest ค่าสติ <style=\"highlight\">If the affected ally is a member of the Ring, มอบ 1 [PenetrateResultUp] เช่นกัน</style>\u200B</line-height>"
                 }
               ]
             }
@@ -1590,7 +1590,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] เมื่อมี 12+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] เมื่อมี 12+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)</style>\u200B</line-height>"
                 }
               ]
             }
@@ -1614,7 +1614,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี <style=\"highlight\">10</style>+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี <style=\"highlight\">10</style>+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)\u200B</line-height>"
                 }
               ]
             }
@@ -1702,7 +1702,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>บัญชาคำสาป ดาบเฉือนมังสา\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (Speed difference x ปริมาณ [Burst] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 หรือมากกว่า, แต้มเหรียญ +1\n[WhenUse] ได้รับ 3 [LegStrength]\n[OnDirectAttack] มอบ [Burst] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (ผลต่างของความเร็ว x ปริมาณ [Burst] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 หรือมากกว่า, แต้มเหรียญ +1\n[WhenUse] ได้รับ 3 [LegStrength]\n[OnDirectAttack] มอบ [Burst] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1727,7 +1727,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)\u200B</line-height>"
                 }
               ]
             }
@@ -1736,7 +1736,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>บัญชาคำสาป ดาบเฉือนมังสา\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (Speed difference x ปริมาณ [Burst] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n<style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ 3 [LegStrength]\n[OnDirectAttack] มอบ [Burst] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (ผลต่างของความเร็ว x ปริมาณ [Burst] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n<style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ 3 [LegStrength]\n[OnDirectAttack] มอบ [Burst] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1761,7 +1761,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%><style=\"highlight\">[ReUseOnSucceedAttack] มอบ [BurstAgility]</style>\u200B</line-height>"

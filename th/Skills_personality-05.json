@@ -811,14 +811,14 @@
         {
           "level": 3,
           "name": "<line-height=120%>Scorch Knowledge\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +3%  ต่อทุกๆ [KnowledgeExplored]บนself (สูงสุด 18%)\n[WhenUse] หากเป้าหมายมี 6+ [Sinking], แต้มเหรียญ +1\n[BeforeAttack] จ่าย all [KnowledgeTraining]บนself และ ได้รับครึ่งหนึ่งของปริมาณนั้นเป็นadditional [KnowledgeExplored] (เศษปัดลง)\n[EndSkill] เมื่อมี 4+ [KnowledgeExplored], reset จำนวน to 1 (if this Skill defeats an enemy, reset จำนวน to 3 instead)\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +3%  ต่อทุกๆ [KnowledgeExplored]บนself (สูงสุด 18%)\n[WhenUse] หากเป้าหมายมี 6+ [Sinking], แต้มเหรียญ +1\n[BeforeAttack] จ่าย all [KnowledgeTraining]บนตัวเอง และ ได้รับครึ่งหนึ่งของปริมาณนั้นเป็นadditional [KnowledgeExplored] (เศษปัดลง)\n[EndSkill] เมื่อมี 4+ [KnowledgeExplored], reset จำนวน to 1 (if this Skill defeats an enemy, reset จำนวน to 3 instead)\u200B</line-height>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ ปริมาณ [Sinking] /Count เท่ากับ [KnowledgeExplored] จำนวน แก่เป้าหมาย (how much of thเมื่อมี [Sinking] is Potency or Count is randomly determined)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ ปริมาณ [Sinking] /Count เท่ากับ [KnowledgeExplored] จำนวน แก่เป้าหมาย (how much of thเมื่อมี [Sinking] เป็น Potency or Count is randomly determined)\u200B</line-height>"
                 }
               ]
             }
@@ -827,14 +827,14 @@
         {
           "level": 4,
           "name": "<line-height=120%>Scorch Knowledge\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ <style=\"highlight\">+5%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [KnowledgeExplored] (สูงสุด <style=\"highlight\">45%</style>)\n<style=\"highlight\">[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Sinking]บนเป้าหมาย (สูงสุด 2)</style>\n[BeforeAttack] จ่าย all [KnowledgeTraining]บนself และ ได้รับ <style=\"highlight\">the same จำนวน</style>เป็นadditional [KnowledgeExplored]\n[EndSkill] เมื่อมี 4+ [KnowledgeExplored], reset จำนวน to 1 (if this Skill defeats an enemy, reset จำนวน to 3 instead)\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ <style=\"highlight\">+5%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [KnowledgeExplored] (สูงสุด <style=\"highlight\">45%</style>)\n<style=\"highlight\">[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Sinking]บนเป้าหมาย (สูงสุด 2)</style>\n[BeforeAttack] จ่าย all [KnowledgeTraining]บนตัวเอง และ ได้รับ <style=\"highlight\">the same จำนวน</style>เป็นadditional [KnowledgeExplored]\n[EndSkill] เมื่อมี 4+ [KnowledgeExplored], reset จำนวน to 1 (if this Skill defeats an enemy, reset จำนวน to 3 instead)\u200B</line-height>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ ปริมาณ [Sinking] /Count เท่ากับ [KnowledgeExplored] จำนวน แก่เป้าหมาย (how much of thเมื่อมี [Sinking] is Potency or Count is randomly determined)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ ปริมาณ [Sinking] /Count เท่ากับ [KnowledgeExplored] จำนวน แก่เป้าหมาย (how much of thเมื่อมี [Sinking] เป็น Potency or Count is randomly determined)<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -917,7 +917,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>อัลเลซ\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 3 Speed difference สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], สกิลนี้จะไม่มอบ ปริมาณ [Burst] ด้วยความสามารถของมัน, but does not จ่าย ขั้น [Burst]บนHit\n[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 3 ผลต่างของความเร็ว สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], สกิลนี้จะไม่มอบ ปริมาณ [Burst] ด้วยความสามารถของมัน, but does not จ่าย ขั้น [Burst]บนHit\n[WhenUse] ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -932,7 +932,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, มอบ [Burst] เท่ากับ their Speed difference (สูงสุด 3)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, มอบ [Burst] เท่ากับ their ผลต่างของความเร็ว (สูงสุด 3)\u200B</line-height>"
                 }
               ]
             }
@@ -1024,7 +1024,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">If ยูนิทนี้ does not มอบ [Burst], +5% ความเสียหายเมื่อติดคริ ต่อทุกๆ ปริมาณ [Burst] และ Count it would have inflicted</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">If ยูนิทนี้ does not มอบ [Burst], +5% ความเสียหายเมื่อติดคริ ต่อทุกๆ ปริมาณ และ ขั้น [Burst]  it would have inflicted</style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Burst]<style=\"highlight\"></style>\u200B</line-height>"
@@ -1103,7 +1103,7 @@
                   "desc": "<line-height=130%><style=\"highlight\">- ทำ +2% ความเสียหายเมื่อติดคริ ต่อทุกๆ [Burst] ของเป้าหมาย (สูงสุด 30%)</style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">[EndSkill] หาก เหรียญนี้defeated the target or destroyed the Part, ใช้สกิลนี้อีกครั้ง อีกครั้ง แก่ a random target (does not activateบนReuse)</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">[EndSkill] หาก เหรียญนี้defeated the target or destroyed the Part, ใช้สกิลนี้อีกครั้ง อีกครั้ง แก่ a random target (จะไม่เกิดในสกิลที่ใช้ใหม่)</style>\u200B</line-height>"
                 }
               ]
             }

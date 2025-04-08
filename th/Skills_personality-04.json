@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>E.C.\u200B</line-height>",
+          "name": "<line-height=120%>ก.พ.\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -26,7 +26,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>E.C.\u200B</line-height>",
+          "name": "<line-height=120%>ก.พ.\u200B</line-height>",
           "desc": "<line-height=130%>เมื่อมี [Charge] 10+ ขั้น, ทำ +10% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
@@ -47,8 +47,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>E.C.\u200B</line-height>",
-          "desc": "<line-height=130%>เมื่อมี [Charge] 10+ ขั้น, ทำ +10% ความเสียหาย\nเมื่อมี [Charge] 15+ ขั้น, ทำ additional +10% ความเสียหาย\u200B</line-height>",
+          "name": "<line-height=120%>ก.พ.\u200B</line-height>",
+          "desc": "<line-height=130%>เมื่อมี [Charge] 10+ ขั้น, ทำ +10% ความเสียหาย\nเมื่อมี [Charge] 15+ ขั้น, ทำความเสียหาย +10% เพิ่มเติม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -121,7 +121,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ย่างก้าว\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ [Charge] +7 ขั้น\nเมื่อมี [Charge] 10+ ขั้น, ได้รับ +1 แต้มเหรียญ\nเมื่อมี [Charge] 15+ ขั้น, ได้รับ additional +1 แต้มเหรียญ\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ [Charge] +7 ขั้น\nเมื่อมี [Charge] 10+ ขั้น, ได้รับ +1 แต้มเหรียญ\nเมื่อมี [Charge] 15+ ขั้น, ได้รับเพิ่มเติม +1 แต้มเหรียญ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -150,8 +150,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "<line-height=120%>D.D.E.D.R.\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เมื่อมี 7~[Charge] 14 ขั้น\nจ่าย allขั้น [Charge] ,\nAnd จ่าย 3 x (15 -ขั้น [Charge] ที่จ่ายไป)% HP เพื่อได้รับ +3 แต้มเหรียญ\n[WhenUse] จ่าย [Charge] 15 ขั้น เพื่อได้รับ +3 แต้มเหรียญ\u200B</line-height>",
+          "name": "<line-height=120%>พ.อ.พ.ส.ม.\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เมื่อมี [Charge] 7~14 ขั้น\nจ่าย ขั้น [Charge] ทั้งหมด ,\nและจ่าย 3 x (15 -ขั้น [Charge] ที่จ่ายไป)% HP เพื่อได้รับ +3 แต้มเหรียญ\n[WhenUse] จ่าย [Charge] 15 ขั้น เพื่อได้รับ +3 แต้มเหรียญ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -177,7 +177,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EnemyKill] หาก หากสกิลนี้จ่ายไปถึง [Charge] 15 ขั้น เมื่อใช้, มอบ 5 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> แก่ตัวเอง และ 1 other ally\u200B</line-height>"
+                  "desc": "<line-height=130%>[EnemyKill] หากสกิลนี้จ่ายไปถึง [Charge] 15 ขั้น เมื่อใช้, มอบ 5 [ChargeForceField] แก่ตัวเอง และ 1 พันธมิตรแบบสุ่ม\u200B</line-height>"
                 }
               ]
             }
@@ -185,8 +185,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>D.D.E.D.R.\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เมื่อมี 7~[Charge] 14 ขั้น\nจ่าย allขั้น [Charge] ,\nAnd จ่าย 3 x (15 -ขั้น [Charge] ที่จ่ายไป)% HP เพื่อได้รับ +5 แต้มเหรียญ\n[WhenUse] จ่าย [Charge] 15 ขั้น เพื่อได้รับ +5 แต้มเหรียญ\u200B</line-height>",
+          "name": "<line-height=120%>พ.อ.พ.ส.ม.\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เมื่อมี [Charge] 7~14 ขั้น\nจ่าย ขั้น [Charge] ทั้งหมด ,\nและจ่าย 3 x (15 -ขั้น [Charge] ที่จ่ายไป)% HP เพื่อได้รับ +5 แต้มเหรียญ\n[WhenUse] จ่าย [Charge] 15 ขั้น เพื่อได้รับ +5 แต้มเหรียญ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -212,7 +212,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EnemyKill] หาก หากสกิลนี้จ่ายไปถึง [Charge] 15 ขั้น เมื่อใช้, มอบ 7 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> แก่ตัวเอง และ 1 other ally\u200B</line-height>"
+                  "desc": "<line-height=130%>[EnemyKill] หากสกิลนี้จ่ายไปถึง [Charge] 15 ขั้น เมื่อใช้, มอบ 7 [ChargeForceField] แก่ตัวเอง และ 1 พันธมิตรแบบสุ่ม\u200B</line-height>"
                 }
               ]
             }
@@ -225,7 +225,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Charged Evade\u200B</line-height>",
+          "name": "<line-height=120%>ประจุหลบหลีก\u200B</line-height>",
           "desc": "<line-height=130%>แต้มตั้งต้น +1 ต่อทุกๆ [Charge] 5 ขั้น (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {}
@@ -233,7 +233,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Charged Evade\u200B</line-height>",
+          "name": "<line-height=120%>ประจุหลบหลีก\u200B</line-height>",
           "desc": "<line-height=130%>แต้มตั้งต้น +1 ต่อทุกๆ [Charge] 5 ขั้น (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {}
@@ -275,7 +275,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ผลัก\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ 2 ขั้น [Breath]\n<style=\"highlight\">เมื่อมี 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></color></link></u>, แต้มเหรียญ +1</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ 2 ขั้น [Breath]\n<style=\"highlight\">เมื่อมี 7+ [Breath], แต้มเหรียญ +1</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -293,7 +293,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>T.N.\u200B</line-height>",
+          "name": "<line-height=120%>ก.ป.\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -320,7 +320,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>T.N.\u200B</line-height>",
+          "name": "<line-height=120%>ก.ป.\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -347,8 +347,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>T.N.\u200B</line-height>",
-          "desc": "<line-height=130%>เมื่อมี 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u>, แต้มเหรียญ +1\u200B</line-height>",
+          "name": "<line-height=120%>ก.ป.\u200B</line-height>",
+          "desc": "<line-height=130%>เมื่อมี 7+ [Breath], แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -379,8 +379,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "<line-height=120%>O.O.F.\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ 4 [Breath]\nเมื่อมี 10+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u>, แต้มเหรียญ +1\u200B</line-height>",
+          "name": "<line-height=120%>ก.ก.น.\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ 4 [Breath]\nเมื่อมี 10+ [Breath], แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -398,7 +398,7 @@
                   "desc": "<line-height=130%>จ่าย 1 [Bullet]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[CriticalOnSucceedAttack] Double the application of [Vibration] & ปริมาณ [Burst] และ Count\u200B</line-height>"
+                  "desc": "<line-height=130%>[CriticalOnSucceedAttack] คูณ 2 การมอบ [Vibration] & ปริมาณ และ ขั้น [Burst] \u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Vibration] และ [Vibration] +1 ขั้น\u200B</line-height>"
@@ -415,7 +415,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>O.O.F.\u200B</line-height>",
+          "name": "<line-height=120%>ก.ก.น.\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ 4 [Breath]\nได้รับ +1 แต้มเหรียญ ต่อทุกๆ 7 [Breath] ของตัวเอง (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
@@ -438,7 +438,7 @@
                   "desc": "<line-height=130%>จ่าย 1 [Bullet]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[CriticalOnSucceedAttack] Double the application of [Vibration] & ปริมาณ [Burst] และ Count\u200B</line-height>"
+                  "desc": "<line-height=130%>[CriticalOnSucceedAttack] คูณ 2 การมอบ [Vibration] & ปริมาณ และ ขั้น [Burst] \u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Vibration] และ [Vibration] +2 ขั้น\u200B</line-height>"
@@ -481,7 +481,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>All-out War\u200B</line-height>",
+          "name": "<line-height=120%>สงครามเต็มกำลัง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -502,7 +502,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>All-out War\u200B</line-height>",
+          "name": "<line-height=120%>สงครามเต็มกำลัง\u200B</line-height>",
           "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Combustion], แต้มปะทะ +1\u200B</line-height>",
           "coinlist": [
             {
@@ -523,7 +523,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>All-out War\u200B</line-height>",
+          "name": "<line-height=120%>สงครามเต็มกำลัง\u200B</line-height>",
           "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Combustion], แต้มปะทะ +1\n<style=\"highlight\">หากเป้าหมายมี 10+ [Combustion], แต้มเหรียญ +1 </style>\u200B</line-height>",
           "coinlist": [
             {
@@ -552,7 +552,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Fiery Knifehand\u200B</line-height>",
+          "name": "<line-height=120%>มีดพกสีเพลิง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -573,7 +573,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Fiery Knifehand\u200B</line-height>",
+          "name": "<line-height=120%>มีดพกสีเพลิง\u200B</line-height>",
           "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Combustion], แต้มปะทะ +1\u200B</line-height>",
           "coinlist": [
             {
@@ -594,7 +594,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Fiery Knifehand\u200B</line-height>",
+          "name": "<line-height=120%>มีดพกสีเพลิง\u200B</line-height>",
           "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Combustion], แต้มปะทะ +1\n<style=\"highlight\">หากเป้าหมายมี 6+ [Combustion], แต้มเหรียญ +1</style>\u200B</line-height>",
           "coinlist": [
             {
@@ -620,7 +620,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "<line-height=120%>Flame Cleave\u200B</line-height>",
+          "name": "<line-height=120%>สะบั้นเพลิง\u200B</line-height>",
           "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Combustion], แต้มปะทะ +1\u200B</line-height>",
           "coinlist": [
             {
@@ -655,7 +655,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Flame Cleave\u200B</line-height>",
+          "name": "<line-height=120%>สะบั้นเพลิง\u200B</line-height>",
           "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Combustion], แต้มปะทะ +1\n<style=\"highlight\">หากเป้าหมายมี 6+ [Combustion], แต้มเหรียญ +1 </style>\u200B</line-height>",
           "coinlist": [
             {
@@ -867,7 +867,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "<line-height=120%>ศิลป์ลับรับแขก บทที่ 2: S.Y.N.C.\u200B</line-height>",
+          "name": "<line-height=120%>ศิลป์ลับรับแขก บทที่ 2: ห.ค.ย.ส.\u200B</line-height>",
           "desc": "<line-height=130%>หากเป้าหมายมี [MarkOfButler], แต้มปะทะ +1\n[WhenUse] ได้รับ [Breath] +7 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -897,7 +897,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>ศิลป์ลับรับแขก บทที่ 2: S.Y.N.C.\u200B</line-height>",
+          "name": "<line-height=120%>ศิลป์ลับรับแขก บทที่ 2: ห.ค.ย.ส.\u200B</line-height>",
           "desc": "<line-height=130%>หากเป้าหมายมี [MarkOfButler], แต้มปะทะ +1\n<style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว (สูงสุด 2)</style>\n[WhenUse] ได้รับ [Breath] +7 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -925,7 +925,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [MarkOfButler]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EnemyKill] Reuse Skill อีกครั้งบนa random target with [MarkOfButler]\n(Does not activateบนReuse. Does not เปิดใช้งาน when there are no remaining targets with [MarkOfButler])\u200B</line-height>"
+                  "desc": "<line-height=130%>[EnemyKill] ใช้สกิลนี้อีกครั้ง ใส่เป้าหมายแบบสุ่มที่มี [MarkOfButler]\n(จะไม่เกิดในสกิลที่ใช้ใหม่. จะไม่เกิดหากไม่มีเป้าหมายที่มี [MarkOfButler])\u200B</line-height>"
                 }
               ]
             }
@@ -938,7 +938,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Mediocre\u200B</line-height>",
+          "name": "<line-height=120%>สามัญชน\u200B</line-height>",
           "desc": "<line-height=130%>[OnSucceedEvade] ฟื้นฟู 3 ค่าสติ (3 ครั้ง ต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
@@ -952,7 +952,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Mediocre\u200B</line-height>",
+          "name": "<line-height=120%>สามัญชน\u200B</line-height>",
           "desc": "<line-height=130%>[OnSucceedEvade] ฟื้นฟู 3 ค่าสติ (<style=\"highlight\">5</style> ครั้ง ต่อเทิร์น)\n<style=\"highlight\">[OnSucceedEvade] ได้รับ [Breath] +1 ขั้น(5 ครั้ง ต่อเทิร์น)</style>\u200B</line-height>",
           "coinlist": [
             {
@@ -971,7 +971,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Got a Screw Loose?\u200B</line-height>",
+          "name": "<line-height=120%>น็อตหลวมรึไง?\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Vibration] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -992,7 +992,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Got a Screw Loose?\u200B</line-height>",
+          "name": "<line-height=120%>น็อตหลวมรึไง?\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Vibration] +2 ขั้น\n<style=\"highlight\">[WhenUse] เมื่อมี 5+ ขั้น [Vibration], แต้มปะทะ +2</style>\u200B</line-height>",
           "coinlist": [
             {
@@ -1013,7 +1013,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Got a Screw Loose?\u200B</line-height>",
+          "name": "<line-height=120%>น็อตหลวมรึไง?\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Vibration] +2 ขั้น\n[WhenUse] เมื่อมี <style=\"highlight\">4</style>+ ขั้น [Vibration], แต้มปะทะ +2\u200B</line-height>",
           "coinlist": [
             {
@@ -1039,7 +1039,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Compression Wind-up Spanner\u200B</line-height>",
+          "name": "<line-height=120%>ประแจไขน็อตให้แน่น\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Vibration] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {},
@@ -1053,7 +1053,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย ขั้น [Vibration] ของตัวเอง, และ มอบ the same amount of ขั้น [Vibration] ของเป้าหมาย (สูงสุด 5)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย ขั้น [Vibration] ของตัวเอง, และ มอบจำนวนเดียวกันนั้นให้ขั้น [Vibration] ของเป้าหมาย (สูงสุด 5)\u200B</line-height>"
                 }
               ]
             }
@@ -1061,7 +1061,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Compression Wind-up Spanner\u200B</line-height>",
+          "name": "<line-height=120%>ประแจไขน็อตให้แน่น\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Vibration] +2 ขั้น\n<style=\"highlight\">เมื่อมี 5+ ขั้น [Vibration], แต้มเหรียญ +1</style>\u200B</line-height>",
           "coinlist": [
             {},
@@ -1075,7 +1075,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย ขั้น [Vibration] ของตัวเอง, และ มอบ the same amount of ขั้น [Vibration] ของเป้าหมาย (สูงสุด 5)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย ขั้น [Vibration] ของตัวเอง, และ มอบจำนวนเดียวกันนั้นให้ขั้น [Vibration] ของเป้าหมาย (สูงสุด 5)\u200B</line-height>"
                 }
               ]
             }
@@ -1083,7 +1083,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Compression Wind-up Spanner\u200B</line-height>",
+          "name": "<line-height=120%>ประแจไขน็อตให้แน่น\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Vibration] +2 ขั้น\n<style=\"highlight\">[WhenUse] เมื่อมี 4+ ขั้น [Vibration], แต้มปะทะ +1</style>\nเมื่อมี <style=\"highlight\">4</style>+ ขั้น [Vibration], แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {},
@@ -1097,7 +1097,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย ขั้น [Vibration] ของตัวเอง, และ มอบ the same amount of ขั้น [Vibration] ของเป้าหมาย (สูงสุด 5)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] จ่าย ขั้น [Vibration] ของตัวเอง, และ มอบจำนวนเดียวกันนั้นให้ขั้น [Vibration] ของเป้าหมาย (สูงสุด 5)\u200B</line-height>"
                 }
               ]
             }
@@ -1110,7 +1110,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "<line-height=120%>Percussive Maintenance\u200B</line-height>",
+          "name": "<line-height=120%>ปรับปรุงระบบสะเทือน\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Vibration] +2 ขั้น\nจ่าย 10 ขั้น [Vibration] ของตัวเอง เพื่อได้รับ แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
@@ -1138,7 +1138,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Percussive Maintenance\u200B</line-height>",
+          "name": "<line-height=120%>ปรับปรุงระบบสะเทือน\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Vibration] +2 ขั้น\nจ่าย <style=\"highlight\">8</style> ขั้น [Vibration] ของตัวเอง เพื่อได้รับ แต้มเหรียญ +1\n<style=\"highlight\">หากเป้าหมายมี 6+ [Vibration], แต้มเหรียญ +1</style>\u200B</line-height>",
           "coinlist": [
             {
@@ -1192,7 +1192,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Both of You, Shut Up\u200B</line-height>",
+          "name": "<line-height=120%>แกสองตัว หุบปาก\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1213,7 +1213,7 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>Both of You, Shut Up\u200B</line-height>",
+          "name": "<line-height=120%>แกสองตัว หุบปาก\u200B</line-height>",
           "desc": "<line-height=130%><style=\"highlight\">เมื่อมี 7+ [RedEyeFirst], แต้มเหรียญ +1\nเมื่อมี 7+ [PenanceFirst], แต้มปะทะ +1</style>\u200B</line-height>",
           "coinlist": [
             {
@@ -1237,7 +1237,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Both of You, Shut Up\u200B</line-height>",
+          "name": "<line-height=120%>แกสองตัว หุบปาก\u200B</line-height>",
           "desc": "<line-height=130%>เมื่อมี 7+ [RedEyeFirst], แต้มเหรียญ +1\nเมื่อมี 7+ [PenanceFirst], แต้มปะทะ <style=\"highlight\">+2</style>\u200B</line-height>",
           "coinlist": [
             {
@@ -1266,8 +1266,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>S.H. / S.F.\u200B</line-height>",
-          "desc": "<line-height=130%>If the ผลรวมของ [RedEyeFirst] และ [PenanceFirst] is 20 หรือมากกว่า, แต้มเหรียญ +1\u200B</line-height>",
+          "name": "<line-height=120%>ห.ม. / ห.ก.\u200B</line-height>",
+          "desc": "<line-height=130%>หากผลรวมของ [RedEyeFirst] และ [PenanceFirst] เป็น 20 หรือมากกว่า, แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1291,8 +1291,8 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>S.H. / S.F.\u200B</line-height>",
-          "desc": "<line-height=130%>If the ผลรวมของ [RedEyeFirst] และ [PenanceFirst] is 20 หรือมากกว่า, แต้มเหรียญ +1\n<style=\"highlight\">หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\u200B</line-height>",
+          "name": "<line-height=120%>ห.ม. / ห.ก.\u200B</line-height>",
+          "desc": "<line-height=130%>หากผลรวมของ [RedEyeFirst] และ [PenanceFirst] เป็น 20 หรือมากกว่า, แต้มเหรียญ +1\n<style=\"highlight\">หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1322,8 +1322,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>S.H. / S.F.\u200B</line-height>",
-          "desc": "<line-height=130%>If the ผลรวมของ [RedEyeFirst] และ [PenanceFirst] is <style=\"highlight\">15</style> หรือมากกว่า, แต้มเหรียญ +1\nหากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\u200B</line-height>",
+          "name": "<line-height=120%>ห.ม. / ห.ก.\u200B</line-height>",
+          "desc": "<line-height=130%>หากผลรวมของ [RedEyeFirst] และ [PenanceFirst] เป็น <style=\"highlight\">15</style> หรือมากกว่า, แต้มเหรียญ +1\nหากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1361,8 +1361,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "<line-height=120%>Skullbuster\u200B</line-height>",
-          "desc": "<line-height=130%>[BeforeUse] หาก [RedEyeFirst] และ [PenanceFirst] are both at 15+, เปิดใช้งาน 'Serious Skullbuster' แทน\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 หรือมากกว่า, แต้มเหรียญ +1\n[WhenUse] เมื่อมี สูงสุด ค่าสติ แต้มเหรียญ +1\n- [EndSkill] หาก this effect activated, เสีย 15 ค่าสติ\u200B</line-height>",
+          "name": "<line-height=120%>ทุบกะโหลก\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeUse] หาก [RedEyeFirst] และ [PenanceFirst] ทั้งคู่มีอยู่ 15+, เปิดใช้งาน 'ทุบกะโหลกจริงจัง' แทน\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 หรือมากกว่า, แต้มเหรียญ +1\n[WhenUse] เมื่อมีค่าสติเต็ม แต้มเหรียญ +1\n- [EndSkill] หากความสามารถนี้ทำงาน, เสีย 15 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1381,10 +1381,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู self และ 1 ally with the lowest HP percentage ไป ([PenanceFirst]/3)% of each unit's สูงสุด HP\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ตัวเอง และ 1 พันธมิตรที่มี HP ต่ำที่สุด ไป ([PenanceFirst]/3)% ของ HPสูงสุด ของทุกยูนิทที่ได้รับ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู self และ 1 พันธมิตรที่มีค่าสติต่ำที่สุด ไป ([PenanceFirst] - 10) ค่าสติ (min 0)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ตัวเอง และ 1 พันธมิตรที่มีค่าสติต่ำที่สุด ไป ([PenanceFirst] - 10) ค่าสติ (min 0)\u200B</line-height>"
                 }
               ]
             }
@@ -1392,8 +1392,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Skullbuster\u200B</line-height>",
-          "desc": "<line-height=130%>[BeforeUse] หาก [RedEyeFirst] และ [PenanceFirst] are both at 15+, เปิดใช้งาน 'Serious Skullbuster' แทน\nหากความเร็วของยูนิทนี้ <style=\"highlight\">เร็วกว่าของเป้าหมาย's</style>, แต้มเหรียญ +1\n[WhenUse] เมื่อมี สูงสุด ค่าสติ <style=\"highlight\">แต้มปะทะ +2</style> และ แต้มเหรียญ +1\n- [EndSkill] หาก this effect activated, เสีย 15 ค่าสติ\u200B</line-height>",
+          "name": "<line-height=120%>ทุบกะโหลก\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeUse] หาก [RedEyeFirst] และ [PenanceFirst] ทั้งคู่มีอยู่ 15+, เปิดใช้งาน 'ทุบกะโหลกจริงจัง' แทน\nหากความเร็วของยูนิทนี้ <style=\"highlight\">เร็วกว่าของเป้าหมาย's</style>, แต้มเหรียญ +1\n[WhenUse] เมื่อมีค่าสติเต็ม <style=\"highlight\">แต้มปะทะ +2</style> และ แต้มเหรียญ +1\n- [EndSkill] หากความสามารถนี้ทำงาน, เสีย 15 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1418,10 +1418,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู self และ 1 ally with the lowest HP percentage ไป ([PenanceFirst]/<style=\"highlight\">2</style>)% of each unit's สูงสุด HP\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ตัวเอง และ 1 พันธมิตรที่มี HP ต่ำที่สุด ไป ([PenanceFirst]/<style=\"highlight\">2</style>)% ของ HPสูงสุด ของทุกยูนิทที่ได้รับ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู self และ 1 พันธมิตรที่มีค่าสติต่ำที่สุด ไป ([PenanceFirst] - 10) ค่าสติ (min 0)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ตัวเอง และ 1 พันธมิตรที่มีค่าสติต่ำที่สุด ไป ([PenanceFirst] - 10) ค่าสติ (min 0)<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -1434,7 +1434,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Mealtime, Bedtime\u200B</line-height>",
+          "name": "<line-height=120%>เวลาอาหาร เวลานอน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1455,20 +1455,20 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Mealtime, Bedtime\u200B</line-height>",
+          "name": "<line-height=120%>เวลาอาหาร เวลานอน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 2 [RedEyeFirst] (1 ครั้งต่อเทิร์น)\n<style=\"highlight\">- เมื่อมี less than 7 [RedEyeFirst], ได้รับ +เพิ่มเติมอีก 1 [RedEyeFirst]</style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 2 [RedEyeFirst] (1 ครั้งต่อเทิร์น)\n<style=\"highlight\">- เมื่อมี [RedEyeFirst] ต่ำกว่า 7, ได้รับ +เพิ่มเติมอีก 1 [RedEyeFirst]</style>\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 2 [PenanceFirst] (1 ครั้งต่อเทิร์น)\n<style=\"highlight\">- เมื่อมี less than 7 [PenanceFirst], ได้รับ +เพิ่มเติมอีก 1 [PenanceFirst]</style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 2 [PenanceFirst] (1 ครั้งต่อเทิร์น)\n<style=\"highlight\">- เมื่อมี [PenanceFirst] ต่ำกว่า 7, ได้รับ +เพิ่มเติมอีก 1 [PenanceFirst]</style>\u200B</line-height>"
                 }
               ]
             }
@@ -1481,8 +1481,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "<line-height=120%>Serious Skullbuster\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่าย all [RedEyeFirst] และ [PenanceFirst]บนself\n- แต้มเหรียญ +1 ต่อทุกๆ 5 [RedEyeFirst] ที่จ่ายไป (สูงสุด 4)\n- แต้มตั้งต้น +1 ต่อทุกๆ 5 [PenanceFirst] ที่จ่ายไป (สูงสุด 4)\n[EndSkill] เสีย 15 ค่าสติ และ ได้รับ [Emptiness] ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>ทุบกะโหลกจริงจัง\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่าย [RedEyeFirst] และ [PenanceFirst] ทั้งหมดของตัวเอง\n- แต้มเหรียญ +1 ต่อทุกๆ 5 [RedEyeFirst] ที่จ่ายไป (สูงสุด 4)\n- แต้มตั้งต้น +1 ต่อทุกๆ 5 [PenanceFirst] ที่จ่ายไป (สูงสุด 4)\n[EndSkill] เสีย 15 ค่าสติ และ ได้รับ [Emptiness] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1498,10 +1498,10 @@
                   "desc": "<line-height=130%>ทำ +2.5% ความเสียหายเพิ่มเติม ต่อทุกๆ [RedEyeFirst] และ [PenanceFirst] ที่จ่ายไป (สูงสุด 100%)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู self และ 1 ally with the lowest HP percentage ไป ([PenanceFirst] ที่จ่ายไป / 2)% of each unit's สูงสุด HP\n- ฟื้นฟูเพิ่มเติมอีก 1 ally ต่อทุกๆ 2 Reson สูงสุด. (สูงสุด 2 more allies)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ตัวเอง และ 1 พันธมิตรที่มี HP ต่ำที่สุด ไป ([PenanceFirst] ที่จ่ายไป / 2)% ของ HPสูงสุด ของทุกยูนิทที่ได้รับ\n- ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร ต่อทุกๆ 2 Reson สูงสุด. (สูงสุด 2 พันธมิตรเพิ่มเติม)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู self และ 1 พันธมิตรที่มีค่าสติต่ำที่สุด ไป ([PenanceFirst] ที่จ่ายไป - 10) ค่าสติ\n- ฟื้นฟูเพิ่มเติมอีก 1 ally ต่อทุกๆ 2 Reson สูงสุด. (สูงสุด 2 more allies)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ตัวเอง และ 1 พันธมิตรที่มีค่าสติต่ำที่สุด ไป ([PenanceFirst] ที่จ่ายไป - 10) ค่าสติ\n- ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร ต่อทุกๆ 2 Reson สูงสุด. (สูงสุด 2 พันธมิตรเพิ่มเติม)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Binding] และ 2 [Reduction] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\u200B</line-height>"
@@ -1512,8 +1512,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Serious Skullbuster\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่าย all [RedEyeFirst] และ [PenanceFirst]บนself\n- แต้มเหรียญ +1 ต่อทุกๆ 5 [RedEyeFirst] ที่จ่ายไป (สูงสุด 4)\n- แต้มตั้งต้น +1 ต่อทุกๆ 5 [PenanceFirst] ที่จ่ายไป (สูงสุด 4)\n[EndSkill] เสีย 15 ค่าสติ และ ได้รับ [Emptiness] ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>ทุบกะโหลกจริงจัง\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่าย [RedEyeFirst] และ [PenanceFirst] ทั้งหมดของตัวเอง\n- แต้มเหรียญ +1 ต่อทุกๆ 5 [RedEyeFirst] ที่จ่ายไป (สูงสุด 4)\n- แต้มตั้งต้น +1 ต่อทุกๆ 5 [PenanceFirst] ที่จ่ายไป (สูงสุด 4)\n[EndSkill] เสีย 15 ค่าสติ และ ได้รับ [Emptiness] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1529,10 +1529,10 @@
                   "desc": "<line-height=130%>ทำ <style=\"highlight\">+4%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [RedEyeFirst] และ [PenanceFirst] ที่จ่ายไป (สูงสุด <style=\"highlight\">160%</style>)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู self และ 1 ally with the lowest HP percentage ไป <style=\"highlight\">([PenanceFirst] ที่จ่ายไป)%</style> of each unit's สูงสุด HP\n- ฟื้นฟูเพิ่มเติมอีก 1 ally ต่อทุกๆ 2 Reson สูงสุด. (สูงสุด 2 more allies)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ตัวเอง และ 1 พันธมิตรที่มี HP ต่ำที่สุด ไป <style=\"highlight\">([PenanceFirst] ที่จ่ายไป)%</style> ของ HPสูงสุด ของทุกยูนิทที่ได้รับ\n- ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร ต่อทุกๆ 2 Reson สูงสุด. (สูงสุด 2 พันธมิตรเพิ่มเติม)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู self และ 1 พันธมิตรที่มีค่าสติต่ำที่สุด ไป ([PenanceFirst] ที่จ่ายไป - <style=\"highlight\">5</style>) ค่าสติ\n- ฟื้นฟูเพิ่มเติมอีก 1 ally ต่อทุกๆ 2 Reson สูงสุด. (สูงสุด 2 more allies)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู ตัวเอง และ 1 พันธมิตรที่มีค่าสติต่ำที่สุด ไป ([PenanceFirst] ที่จ่ายไป - <style=\"highlight\">5</style>) ค่าสติ\n- ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร ต่อทุกๆ 2 Reson สูงสุด. (สูงสุด 2 พันธมิตรเพิ่มเติม)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Binding] และ 2 [Reduction] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)<style=\"highlight\"></style>\u200B</line-height>"
@@ -1585,7 +1585,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Burst] +1 ขั้น<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] เมื่อมี 10+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] เมื่อมี 10+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)</style>\u200B</line-height>"
                 }
               ]
             }
@@ -1609,7 +1609,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Burst] +1 ขั้น<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -1622,8 +1622,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>As Written\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (Speed difference x ปริมาณ [Burst] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n[WhenUse] หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\u200B</line-height>",
+          "name": "<line-height=120%>ดั่งที่ถูกเขียนไว้\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (ผลต่างของความเร็ว x ปริมาณ [Burst] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n[WhenUse] หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1643,8 +1643,8 @@
         },
         {
           "level": 2,
-          "name": "<line-height=120%>As Written\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (Speed difference x ปริมาณ [Burst] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n[WhenUse] หากเป้าหมายมี <style=\"highlight\">4</style>+ [Burst], แต้มเหรียญ +1\n<style=\"highlight\">[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\n[WinDuel] มอบ [Burst] +1 ขั้น</style>\u200B</line-height>",
+          "name": "<line-height=120%>ดั่งที่ถูกเขียนไว้\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (ผลต่างของความเร็ว x ปริมาณ [Burst] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n[WhenUse] หากเป้าหมายมี <style=\"highlight\">4</style>+ [Burst], แต้มเหรียญ +1\n<style=\"highlight\">[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\n[WinDuel] มอบ [Burst] +1 ขั้น</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1667,8 +1667,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>As Written\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (Speed difference x ปริมาณ [Burst] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n<style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 หรือมากกว่า, แต้มเหรียญ +1</style>\n[WhenUse] หากเป้าหมายมี 4+ [Burst], แต้มเหรียญ +1\n[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\n[WinDuel] มอบ [Burst] +1 ขั้น\u200B</line-height>",
+          "name": "<line-height=120%>ดั่งที่ถูกเขียนไว้\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (ผลต่างของความเร็ว x ปริมาณ [Burst] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\n<style=\"highlight\">ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 3 หรือมากกว่า, แต้มเหรียญ +1</style>\n[WhenUse] หากเป้าหมายมี 4+ [Burst], แต้มเหรียญ +1\n[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\n[WinDuel] มอบ [Burst] +1 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1699,8 +1699,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "<line-height=120%>I'll gut you with a curse-engraved blade\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (Speed difference x ปริมาณ [Burst] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 หรือมากกว่า, แต้มเหรียญ +1\n[WhenUse] ได้รับ 3 [LegStrength]\n[WinDuel] มอบ [Burst] +2 ขั้น\u200B</line-height>",
+          "name": "<line-height=120%>ฉันจะคว้านไส้แกด้วยดาบผนึกคำสาป\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (ผลต่างของความเร็ว x ปริมาณ [Burst] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย ไป 2 หรือมากกว่า, แต้มเหรียญ +1\n[WhenUse] ได้รับ 3 [LegStrength]\n[WinDuel] มอบ [Burst] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1728,7 +1728,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)\u200B</line-height>"
                 }
               ]
             }
@@ -1736,8 +1736,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>I'll gut you with a curse-engraved blade\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (Speed difference x ปริมาณ [Burst] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, <style=\"highlight\">ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ 3 [LegStrength]\n[WinDuel] มอบ [Burst] +2 ขั้น\u200B</line-height>",
+          "name": "<line-height=120%>ฉันจะคว้านไส้แกด้วยดาบผนึกคำสาป\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ (ผลต่างของความเร็ว x ปริมาณ [Burst] ของเป้าหมาย)% ความเสียหายเพิ่มเติ่ม (สูงสุด 50%)\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, <style=\"highlight\">ได้รับ แต้มเหรียญ ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มเหรียญ +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst], แต้มเหรียญ +1</style>\n[WhenUse] ได้รับ 3 [LegStrength]\n[WinDuel] มอบ [Burst] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1765,7 +1765,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Burst]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (once ต่อทุกๆ Skill)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ ความเร็ว, ใช้เหรียญซ้ำ อีกครั้ง (1 ครั้งต่อสกิล)<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%><style=\"highlight\">[ReUseOnSucceedAttack] มอบ [BurstAgility]</style>\u200B</line-height>"
@@ -1781,7 +1781,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Strider. Unleashed. Heh\u200B</line-height>",
+          "name": "<line-height=120%>ปลดปล่อย ย่างก้าว แหะ\u200B</line-height>",
           "desc": "<line-height=130%>[DuelCounter]\n[WhenUse] ได้รับ 3 [LegStrength]\u200B</line-height>",
           "coinlist": [
             {
@@ -1795,7 +1795,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Strider. Unleashed. Heh\u200B</line-height>",
+          "name": "<line-height=120%>ปลดปล่อย ย่างก้าว แหะ\u200B</line-height>",
           "desc": "<line-height=130%>[DuelCounter]\n[WhenUse] ได้รับ 3 [LegStrength]\n<style=\"highlight\">[WhenUse] หากความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ได้รับ แต้มตั้งต้น ขึ้นอยู่กับ ผลต่างของความเร็ว (แต้มตั้งต้น +1 ต่อทุกๆ 2 ผลต่างของความเร็ว สูงสุด 2)</style>\u200B</line-height>",
           "coinlist": [
             {
