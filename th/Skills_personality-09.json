@@ -667,7 +667,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Binding] ในเทิร์นหน้า<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] หากยูนิทนี้ ที่จ่ายไป ขั้น [Vibration] with Skill use, มอบ 2 [Binding] ในเทิร์นหน้า</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] หากยูนิทนี้ ที่จ่ายไป ขั้น [Vibration] ตอนใช้สกิล, มอบ 2 [Binding] ในเทิร์นหน้า</style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้อยู่ใน สถานะ [TimeRentalTwoPersonality], มอบ 2 [TimeSuspend]<style=\"highlight\"></style>\u200B</line-height>"
@@ -807,7 +807,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [DefenseDown] ต่อทุกๆ 10 [DevyatDimensionalSack]บนself or ต่อทุกๆ 5 [Burst] ของเป้าหมาย (สูงสุด 2, ครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [DefenseDown] ต่อทุกๆ 10 [DevyatDimensionalSack] ของตัวเอง or ต่อทุกๆ 5 [Burst] ของเป้าหมาย (สูงสุด 2, ครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>"
                 }
               ]
             }
@@ -835,7 +835,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [DefenseDown] ต่อทุกๆ <style=\"highlight\">5</style> [DevyatDimensionalSack]บนself or ต่อทุกๆ 5 [Burst] ของเป้าหมาย (สูงสุด <style=\"highlight\">4</style>, ครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [DefenseDown] ต่อทุกๆ <style=\"highlight\">5</style> [DevyatDimensionalSack] ของตัวเอง or ต่อทุกๆ 5 [Burst] ของเป้าหมาย (สูงสุด <style=\"highlight\">4</style>, ครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>"
                 }
               ]
             }
@@ -844,7 +844,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Courier Trunk - Gadget Reveal\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">ทำ ความเสียหายเพิ่มเติม +2%  ต่อทุกๆ [DevyatDimensionalSack]บนself (สูงสุด 40%)</style>\nแต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSack] or ต่อทุกๆ 6 [Burst] ของเป้าหมาย (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: สกิลนี้จะไม่ลด ขั้น [Burst] เมื่อโจมตีโดน\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">ทำ ความเสียหายเพิ่มเติม +2%  ต่อทุกๆ [DevyatDimensionalSack] ของตัวเอง (สูงสุด 40%)</style>\nแต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSack] or ต่อทุกๆ 6 [Burst] ของเป้าหมาย (สูงสุด 2)\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: สกิลนี้จะไม่ลด ขั้น [Burst] เมื่อโจมตีโดน\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -863,7 +863,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [DefenseDown] ต่อทุกๆ 5 [DevyatDimensionalSack]บนself or ต่อทุกๆ 5 [Burst] ของเป้าหมาย (สูงสุด <style=\"highlight\">6</style>, ครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [DefenseDown] ต่อทุกๆ 5 [DevyatDimensionalSack] ของตัวเอง or ต่อทุกๆ 5 [Burst] ของเป้าหมาย (สูงสุด <style=\"highlight\">6</style>, ครั้ง ต่อทุกๆ เทิร์น)\u200B</line-height>"
                 }
               ]
             }
@@ -877,7 +877,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>I Trust Ya, Polu!\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +2%  ต่อทุกๆ [DevyatDimensionalSack] (สูงสุด 40%)\nเมื่อมี 10+ [DevyatDimensionalSack]บนself, หรือ หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], สกิลนี้จะไม่มอบ ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย Reuse its last Coin\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +2%  ต่อทุกๆ [DevyatDimensionalSack] (สูงสุด 40%)\nเมื่อมี 10+ [DevyatDimensionalSack] ของตัวเอง, หรือ หากเป้าหมายมี 6+ [Burst], แต้มเหรียญ +1\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst], สกิลนี้จะไม่มอบ ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย Reuse its last Coin\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -902,7 +902,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>I Trust Ya, Polu!\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ <style=\"highlight\">+4%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [DevyatDimensionalSack] (สูงสุด <style=\"highlight\">80%</style>)\n<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSack]บนself or ต่อทุกๆ 6 [Burst] ของเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: สกิลนี้จะไม่มอบ ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย Reuse its last Coin\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ <style=\"highlight\">+4%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [DevyatDimensionalSack] (สูงสุด <style=\"highlight\">80%</style>)\n<style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 10 [DevyatDimensionalSack] ของตัวเอง or ต่อทุกๆ 6 [Burst] ของเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] หากเป้าหมายมี 15+ [Burst] และ 3+ ขั้น [Burst]: สกิลนี้จะไม่มอบ ขั้น [Burst] with itsบนHit effects; แทนที่ด้วย Reuse its last Coin\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -932,7 +932,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Courier Support & Control Sequence\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] เมื่อมี 15+ [DevyatDimensionalSack], เปิดใช้งาน 'Just... a Strategic Time Off!' instead (1 ครั้งต่อเทิร์น)\n[StartBattle] หาก this Skill is to be activated, ได้รับ ([DevyatDimensionalSack]/2)% of ยูนิทนี้'s สูงสุด HPมาเป็นโล่ (สูงสุด 15%, ครั้ง ต่อทุกๆ เทิร์น)\n[WhenUse] ได้รับ 2 [DevyatDimensionalSack] (1 ครั้งต่อเทิร์น)\n- เมื่อมี less than 15 [DevyatDimensionalSack], ได้รับเพิ่มเติมอีก 1 [DevyatDimensionalSack]\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] เมื่อมี 15+ [DevyatDimensionalSack], เปิดใช้งาน 'Just... a Strategic Time Off!' แทน (1 ครั้งต่อเทิร์น)\n[StartBattle] หาก this Skill is to be activated, ได้รับ ([DevyatDimensionalSack]/2)% of ยูนิทนี้'s สูงสุด HPมาเป็นโล่ (สูงสุด 15%, ครั้ง ต่อทุกๆ เทิร์น)\n[WhenUse] ได้รับ 2 [DevyatDimensionalSack] (1 ครั้งต่อเทิร์น)\n- เมื่อมี less than 15 [DevyatDimensionalSack], ได้รับเพิ่มเติมอีก 1 [DevyatDimensionalSack]\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -940,7 +940,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Courier Support & Control Sequence\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] เมื่อมี 15+ [DevyatDimensionalSack], เปิดใช้งาน 'Just... a Strategic Time Off!' instead (1 ครั้งต่อเทิร์น)\n[StartBattle] หาก this Skill is to be activated, ได้รับ <style=\"highlight\">([DevyatDimensionalSack])%</style> of ยูนิทนี้'s สูงสุด HPมาเป็นโล่ (สูงสุด <style=\"highlight\">25%</style>, ครั้ง ต่อทุกๆ เทิร์น)\n[WhenUse] ได้รับ 2 [DevyatDimensionalSack] (1 ครั้งต่อเทิร์น)\n- เมื่อมี less than 15 [DevyatDimensionalSack], ได้รับเพิ่มเติมอีก 1 [DevyatDimensionalSack]\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] เมื่อมี 15+ [DevyatDimensionalSack], เปิดใช้งาน 'Just... a Strategic Time Off!' แทน (1 ครั้งต่อเทิร์น)\n[StartBattle] หาก this Skill is to be activated, ได้รับ <style=\"highlight\">([DevyatDimensionalSack])%</style> of ยูนิทนี้'s สูงสุด HPมาเป็นโล่ (สูงสุด <style=\"highlight\">25%</style>, ครั้ง ต่อทุกๆ เทิร์น)\n[WhenUse] ได้รับ 2 [DevyatDimensionalSack] (1 ครั้งต่อเทิร์น)\n- เมื่อมี less than 15 [DevyatDimensionalSack], ได้รับเพิ่มเติมอีก 1 [DevyatDimensionalSack]\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -1248,7 +1248,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ศาสตราโลหิตขั้นสูง แห่งดอน กิโฮเต้ - ปิดม่านมหรสพ\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แก่ตัวเอง และ (Reson สูงสุด.) allies: มอบ (5 + (1 ต่อทุกๆ 50 [BloodDinner_Accumulation] โดยยูนิทนี้) [FestivalFeverRodion] ในเทิร์นนี้ และ ในเทิร์นหน้า (สูงสุด 10)\n[WhenUse] แก่ตัวเอง และ (Reson สูงสุด.) allies: มอบ 5 [BloomingThornsRodionFirst]\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +1%  ต่อทุกๆ 5 [BloodDinner_Accumulation] โดยยูนิทนี้ (สูงสุด 50%)\n[EndSkill] จ่าย all [BloomingThornsRodionFirst]บนself\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แก่ตัวเอง และ (Reson สูงสุด.) allies: มอบ (5 + (1 ต่อทุกๆ 50 [BloodDinner_Accumulation] โดยยูนิทนี้) [FestivalFeverRodion] ในเทิร์นนี้ และ ในเทิร์นหน้า (สูงสุด 10)\n[WhenUse] แก่ตัวเอง และ (Reson สูงสุด.) allies: มอบ 5 [BloomingThornsRodionFirst]\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +1%  ต่อทุกๆ 5 [BloodDinner_Accumulation] โดยยูนิทนี้ (สูงสุด 50%)\n[EndSkill] จ่าย all [BloomingThornsRodionFirst] ของตัวเอง\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1285,7 +1285,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ศาสตราโลหิตขั้นสูง แห่งดอน กิโฮเต้ - ปิดม่านมหรสพ\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\n[WhenUse] แก่ตัวเอง และ (Reson สูงสุด.) allies: มอบ (5 + (1 ต่อทุกๆ 50 [BloodDinner_Accumulation] โดยยูนิทนี้) [FestivalFeverRodion] ในเทิร์นนี้ และ ในเทิร์นหน้า (สูงสุด 10)\n[WhenUse] แก่ตัวเอง และ (Reson สูงสุด.) allies: มอบ 5 [BloomingThornsRodionFirst]\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +1%  ต่อทุกๆ 5 [BloodDinner_Accumulation] โดยยูนิทนี้ (สูงสุด 50%)\n[EndSkill] จ่าย all [BloomingThornsRodionFirst]บนself\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">[WhenUse] หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1</style>\n[WhenUse] แก่ตัวเอง และ (Reson สูงสุด.) allies: มอบ (5 + (1 ต่อทุกๆ 50 [BloodDinner_Accumulation] โดยยูนิทนี้) [FestivalFeverRodion] ในเทิร์นนี้ และ ในเทิร์นหน้า (สูงสุด 10)\n[WhenUse] แก่ตัวเอง และ (Reson สูงสุด.) allies: มอบ 5 [BloomingThornsRodionFirst]\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +1%  ต่อทุกๆ 5 [BloodDinner_Accumulation] โดยยูนิทนี้ (สูงสุด 50%)\n[EndSkill] จ่าย all [BloomingThornsRodionFirst] ของตัวเอง\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

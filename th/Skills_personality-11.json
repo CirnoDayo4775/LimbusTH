@@ -950,7 +950,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Artwork Inspection\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ ประเภทของผลด้านลบ ของเป้าหมาย (สูงสุด 30%)\n[WhenUse] มอบ 1 [Agility] ในเทิร์นหน้า แก่ 2 พันธมิตร adjacent to ยูนิทนี้บนthe Dashboard\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ ประเภทของผลด้านลบ ของเป้าหมาย (สูงสุด 30%)\n[WhenUse] มอบ 1 [Agility] ในเทิร์นหน้า แก่ 2 พันธมิตร ที่อยู่ข้างยูนิทนี้ใน Dashboard\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -971,7 +971,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Artwork Inspection\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\nทำ +12.5% ความเสียหายเพิ่มเติม ต่อทุกๆ ประเภทของผลด้านลบ ของเป้าหมาย (สูงสุด 50%)\n[WhenUse] มอบ 1 [Agility] ในเทิร์นหน้า แก่ 2 พันธมิตร adjacent to ยูนิทนี้บนthe Dashboard\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี 6+ [Laceration], แต้มเหรียญ +1\nทำ +12.5% ความเสียหายเพิ่มเติม ต่อทุกๆ ประเภทของผลด้านลบ ของเป้าหมาย (สูงสุด 50%)\n[WhenUse] มอบ 1 [Agility] ในเทิร์นหน้า แก่ 2 พันธมิตร ที่อยู่ข้างยูนิทนี้ใน Dashboard\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -1151,7 +1151,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Rip Dimension\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] แก่ตัวเอง และ (Reson สูงสุด.) allies with [Charge]: มอบ [ChargeLoad] เท่ากับ [Charge]บนself\n(สูงสุด 5 other allies)\n[WhenUse] เมื่อมี 2+ [Charge] และ 7~14 ขั้น [Charge] , จ่าย ขั้น [Charge] ทั้งหมด ของตัวเอง เพื่อได้รับ แต้มเหรียญ +1\n[WhenUse] จ่าย 15 ขั้น [Charge] เพื่อได้รับ แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] แก่ตัวเอง และ (Reson สูงสุด.) allies with [Charge]: มอบ [ChargeLoad] เท่ากับ [Charge] ของตัวเอง\n(สูงสุด 5 other allies)\n[WhenUse] เมื่อมี 2+ [Charge] และ 7~14 ขั้น [Charge] , จ่าย ขั้น [Charge] ทั้งหมด ของตัวเอง เพื่อได้รับ แต้มเหรียญ +1\n[WhenUse] จ่าย 15 ขั้น [Charge] เพื่อได้รับ แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -1183,7 +1183,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Rip Dimension\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] แก่ตัวเอง และ (Reson สูงสุด.) allies with [Charge]: มอบ [ChargeLoad] เท่ากับ [Charge]บนself\n(สูงสุด 5 other allies)\n[WhenUse] เมื่อมี 2+ [Charge] และ 7~14 ขั้น [Charge] , จ่าย ขั้น [Charge] ทั้งหมด ของตัวเอง เพื่อได้รับ แต้มเหรียญ +2\n[WhenUse] จ่าย 15 ขั้น [Charge] เพื่อได้รับ แต้มเหรียญ +2\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] แก่ตัวเอง และ (Reson สูงสุด.) allies with [Charge]: มอบ [ChargeLoad] เท่ากับ [Charge] ของตัวเอง\n(สูงสุด 5 other allies)\n[WhenUse] เมื่อมี 2+ [Charge] และ 7~14 ขั้น [Charge] , จ่าย ขั้น [Charge] ทั้งหมด ของตัวเอง เพื่อได้รับ แต้มเหรียญ +2\n[WhenUse] จ่าย 15 ขั้น [Charge] เพื่อได้รับ แต้มเหรียญ +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1472,7 +1472,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ [BloodScissorPersonalityFirst], ทำ +([BloodScissorPersonalityFirst] x 2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 38%)\n- เมื่อมี 20+ [BloodScissorPersonalityFirst], ทำ +([BloodScissorPersonalityFirst] x 3)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด 90%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ [BloodScissorPersonalityFirst], ทำ +([BloodScissorPersonalityFirst] x 2)% ความเสียหายเพิ่มเติ่ม (สูงสุด 38%)\n- เมื่อมี 20+ [BloodScissorPersonalityFirst], ทำ +([BloodScissorPersonalityFirst] x 3)% ความเสียหายเพิ่มเติ่ม แทน (สูงสุด 90%)\u200B</line-height>"
                 }
               ]
             }
@@ -1481,7 +1481,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>I'll Make You a New Dress!\u200B</line-height>",
-          "desc": "<line-height=130%>เมื่อโจมตีโดนด้วยสกิลนี้: ฟื้นฟู HP เท่ากับ 30% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 20)\n[BeforeAttack] เมื่อมี 10+ [BloodScissorPersonalityFirst], Atk Weight +1\n<style=\"highlight\">- เมื่อมี 20+ [BloodScissorPersonalityFirst], replace the above effect with Atk Weight +2 instead</style>\n[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 2)\n[EndSkill] จ่าย <style=\"highlight\">10</style> [BloodScissorPersonalityFirst] ต่อทุกๆ Atk Weight ที่ได้รับ\n[EndSkill] หาก target is killed, เพิ่ม [BloodDinner] ไป <style=\"highlight\">20</style>. ได้รับครึ่งหนึ่งของ [BloodScissorPersonalityFirst] ที่จ่ายไป ด้วยสกิลนี้ (1 ครั้งต่อเทิร์น)\n<style=\"highlight\">- หาก target is [LineCuttingPersonality], additionally เพิ่ม [BloodDinner] ไป 20 more, และ ได้รับ 5 [BloodScissorPersonalityFirst] (1 ครั้งต่อเทิร์น)</style>\u200B</line-height>",
+          "desc": "<line-height=130%>เมื่อโจมตีโดนด้วยสกิลนี้: ฟื้นฟู HP เท่ากับ 30% ของ ความเสียหายHP ที่ทำได้ (สูงสุด 20)\n[BeforeAttack] เมื่อมี 10+ [BloodScissorPersonalityFirst], Atk Weight +1\n<style=\"highlight\">- เมื่อมี 20+ [BloodScissorPersonalityFirst], replace the above effect with Atk Weight +2 แทน</style>\n[WhenUse] หากเป้าหมายมี 5+ [Laceration], แต้มเหรียญ +1\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 6 [Laceration] ของเป้าหมาย (สูงสุด 2)\n[EndSkill] จ่าย <style=\"highlight\">10</style> [BloodScissorPersonalityFirst] ต่อทุกๆ Atk Weight ที่ได้รับ\n[EndSkill] หาก target is killed, เพิ่ม [BloodDinner] ไป <style=\"highlight\">20</style>. ได้รับครึ่งหนึ่งของ [BloodScissorPersonalityFirst] ที่จ่ายไป ด้วยสกิลนี้ (1 ครั้งต่อเทิร์น)\n<style=\"highlight\">- หาก target is [LineCuttingPersonality], additionally เพิ่ม [BloodDinner] ไป 20 more, และ ได้รับ 5 [BloodScissorPersonalityFirst] (1 ครั้งต่อเทิร์น)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1507,7 +1507,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ [BloodScissorPersonalityFirst], ทำ +([BloodScissorPersonalityFirst] x <style=\"highlight\">3</style>)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">57</style>%)\n- เมื่อมี 20+ [BloodScissorPersonalityFirst], ทำ +([BloodScissorPersonalityFirst] x <style=\"highlight\">4</style>)% ความเสียหายเพิ่มเติ่ม instead (สูงสุด <style=\"highlight\">120</style>%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 10+ [BloodScissorPersonalityFirst], ทำ +([BloodScissorPersonalityFirst] x <style=\"highlight\">3</style>)% ความเสียหายเพิ่มเติ่ม (สูงสุด <style=\"highlight\">57</style>%)\n- เมื่อมี 20+ [BloodScissorPersonalityFirst], ทำ +([BloodScissorPersonalityFirst] x <style=\"highlight\">4</style>)% ความเสียหายเพิ่มเติ่ม แทน (สูงสุด <style=\"highlight\">120</style>%)\u200B</line-height>"
                 }
               ]
             }
@@ -1535,7 +1535,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Quite Discourteous!\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เมื่อมี 10+ [BloodScissorPersonalityFirst], แต้มตั้งต้น +1<style=\"highlight\">\n- เมื่อมี 20+ [BloodScissorPersonalityFirst], ได้รับ แต้มตั้งต้น +2 instead</style>\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ของตัวเอง (สูงสุด 3)</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เมื่อมี 10+ [BloodScissorPersonalityFirst], แต้มตั้งต้น +1<style=\"highlight\">\n- เมื่อมี 20+ [BloodScissorPersonalityFirst], ได้รับ แต้มตั้งต้น +2 แทน</style>\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 5 [Laceration] ของตัวเอง (สูงสุด 3)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

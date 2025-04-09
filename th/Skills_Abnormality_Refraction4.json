@@ -447,7 +447,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Strangling Despair\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 6 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[WinDuel] มอบ [Sinking] +3 ขั้น\n[DefeatDuel] Reduce ขั้น [Sinking] ไป 1\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 6 [Sinking] ของเป้าหมาย (สูงสุด 2)\n[WinDuel] มอบ [Sinking] +3 ขั้น\n[DefeatDuel] Reduce ขั้น [Sinking] ไป 1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -520,12 +520,12 @@
         {
           "level": 1,
           "name": "<line-height=120%>Chains of  [Binding]\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มเหรียญ + ต่อทุกๆ 6 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[DefeatDuel] Reduce ขั้น [Sinking] ไป 2\n[DefeatDuel] มอบ [BandageOfTheBoundKing]\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มเหรียญ + ต่อทุกๆ 6 [Sinking] ของเป้าหมาย (สูงสุด 2)\n[DefeatDuel] Reduce ขั้น [Sinking] ไป 2\n[DefeatDuel] มอบ [BandageOfTheBoundKing]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า\n[OnSucceedAttack] มอบ [Vibration] เท่ากับ [Sinking]บนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Binding] ในเทิร์นหน้า\n[OnSucceedAttack] มอบ [Vibration] เท่ากับ [Sinking] ของเป้าหมาย\u200B</line-height>"
                 }
               ]
             },
@@ -570,7 +570,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้ ทำ t ความเสียหาย แก่เป้าหมาย, มอบ [Vibration] เท่ากับ [Sinking]บนเป้าหมาย\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้ ทำ t ความเสียหาย แก่เป้าหมาย, มอบ [Vibration] เท่ากับ [Sinking] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion]\u200B</line-height>"

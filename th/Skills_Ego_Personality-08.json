@@ -95,7 +95,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackTail] ฟื้นฟู 3% ของ HPสูงสุดบนself\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackTail] ฟื้นฟู 3% ของ HPสูงสุด ของตัวเอง\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [Breath] และ [Breath] +1 ขั้น\u200B</line-height>"
@@ -119,7 +119,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 3% ของ HPสูงสุดบนself\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 3% ของ HPสูงสุด ของตัวเอง\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [Breath] และ [Breath] +1 ขั้น\u200B</line-height>"
@@ -148,7 +148,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 15% ของ HPสูงสุดบนself\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 15% ของ HPสูงสุด ของตัวเอง\u200B</line-height>"
                 }
               ]
             },
@@ -182,7 +182,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู <style=\"highlight\">18%</style> ของ HPสูงสุดบนself\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู <style=\"highlight\">18%</style> ของ HPสูงสุด ของตัวเอง\u200B</line-height>"
                 }
               ]
             },
@@ -216,7 +216,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู <style=\"highlight\">20</style>% ของ HPสูงสุดบนself\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู <style=\"highlight\">20</style>% ของ HPสูงสุด ของตัวเอง\u200B</line-height>"
                 }
               ]
             },
@@ -312,7 +312,7 @@
           "level": 1,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ Reson สูงสุด., ได้รับ +1 Atk Weight\n[EndSkill] ฟื้นฟู 2 allies with the lowest HP percentages ไป (5 + (ผลรวมของ ปริมาณ [Sinking] และ Countบนthe main target)/3)% HP (สูงสุด 15%)\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ Reson สูงสุด., ได้รับ +1 Atk Weight\n[EndSkill] ฟื้นฟู 2 allies ที่มี เปอร์เซนต์HP ต่ำที่สุดs ไป (5 + (ผลรวมของ ปริมาณ [Sinking] และ Countบนthe main target)/3)% HP (สูงสุด 15%)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -333,7 +333,7 @@
           "level": 3,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ Reson สูงสุด., ได้รับ +1 Atk Weight\n<style=\"highlight\">- หากReson ดังกล่าว. was a Gloom Reson., ได้รับ +1 Atk Weight</style>\n[EndSkill] ฟื้นฟู 2 allies with the lowest HP percentages ไป (<style=\"highlight\">10</style> + (ผลรวมของ ปริมาณ [Sinking] และ Countบนthe main target)/3)% HP (สูงสุด 15%)\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ Reson สูงสุด., ได้รับ +1 Atk Weight\n<style=\"highlight\">- หากReson ดังกล่าว. was a Gloom Reson., ได้รับ +1 Atk Weight</style>\n[EndSkill] ฟื้นฟู 2 allies ที่มี เปอร์เซนต์HP ต่ำที่สุดs ไป (<style=\"highlight\">10</style> + (ผลรวมของ ปริมาณ [Sinking] และ Countบนthe main target)/3)% HP (สูงสุด 15%)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -357,7 +357,7 @@
           "level": 4,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ Reson สูงสุด., ได้รับ +1 Atk Weight\n- หากReson ดังกล่าว. was a Gloom Reson., ได้รับ +1 Atk Weight\n[EndSkill] ฟื้นฟู 2 allies with the lowest HP percentages ไป (10 + (ผลรวมของ ปริมาณ [Sinking] และ Countบนthe main target)/3)% HP (สูงสุด <style=\"highlight\">20</style>%)\n<style=\"highlight\">- หาก the Reson สูงสุด. was a 4+ Gloom Reson., ฟื้นฟู 10% more of the สูงสุด HP</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ Reson สูงสุด., ได้รับ +1 Atk Weight\n- หากReson ดังกล่าว. was a Gloom Reson., ได้รับ +1 Atk Weight\n[EndSkill] ฟื้นฟู 2 allies ที่มี เปอร์เซนต์HP ต่ำที่สุดs ไป (10 + (ผลรวมของ ปริมาณ [Sinking] และ Countบนthe main target)/3)% HP (สูงสุด <style=\"highlight\">20</style>%)\n<style=\"highlight\">- หาก the Reson สูงสุด. was a 4+ Gloom Reson., ฟื้นฟู 10% more of the สูงสุด HP</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -386,7 +386,7 @@
           "level": 1,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (5 + (ผลรวมของ ปริมาณ [Sinking] และ Countบนthe main target)/3)% HP (สูงสุด 10%)\n- เมื่อมี 4+ Reson สูงสุด., ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies ที่มี เปอร์เซนต์HP ต่ำที่สุดs ไป (5 + (ผลรวมของ ปริมาณ [Sinking] และ Countบนthe main target)/3)% HP (สูงสุด 10%)\n- เมื่อมี 4+ Reson สูงสุด., ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -410,7 +410,7 @@
           "level": 3,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (<style=\"highlight\">10</style> + (ผลรวมของ ปริมาณ [Sinking] และ Countบนthe main target)/3)% HP (สูงสุด <style=\"highlight\">15</style>%)\n- เมื่อมี 4+ Reson สูงสุด., ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies ที่มี เปอร์เซนต์HP ต่ำที่สุดs ไป (<style=\"highlight\">10</style> + (ผลรวมของ ปริมาณ [Sinking] และ Countบนthe main target)/3)% HP (สูงสุด <style=\"highlight\">15</style>%)\n- เมื่อมี 4+ Reson สูงสุด., ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -437,7 +437,7 @@
           "level": 4,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies with the lowest HP percentages ไป (10 + (ผลรวมของ ปริมาณ [Sinking] และ Countบนthe main target)/3)% HP (สูงสุด 15%)\n- เมื่อมี 4+ Reson สูงสุด., ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร\n<style=\"highlight\">- หากReson ดังกล่าว. was a Gloom Reson., ฟื้นฟู เพิ่มเติมอีก 5% HP</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the most [Sinking]\n[BeforeAttack] เสีย HP ไป 10% ของ HPสูงสุด (จะไม่ติด Stagger due to this effect)\n[EndSkill] ฟื้นฟู 3 other allies ที่มี เปอร์เซนต์HP ต่ำที่สุดs ไป (10 + (ผลรวมของ ปริมาณ [Sinking] และ Countบนthe main target)/3)% HP (สูงสุด 15%)\n- เมื่อมี 4+ Reson สูงสุด., ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร\n<style=\"highlight\">- หากReson ดังกล่าว. was a Gloom Reson., ฟื้นฟู เพิ่มเติมอีก 5% HP</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

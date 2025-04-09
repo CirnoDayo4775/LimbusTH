@@ -661,7 +661,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ 25 ความเสียหายค่าสติ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>If target is Staggered, in Low Morale, หรือ in Panic, ทำ 30% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
+                  "desc": "<line-height=130%>หากเป้าหมายกำลัง Stagger in Low Morale, หรือ in Panic, ทำ 30% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
                 }
               ]
             }
@@ -682,7 +682,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ 25 ความเสียหายค่าสติ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>If target is Staggered, in Low Morale, หรือ in Panic, ทำ 30% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
+                  "desc": "<line-height=130%>หากเป้าหมายกำลัง Stagger in Low Morale, หรือ in Panic, ทำ 30% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Sinking]\u200B</line-height>"
@@ -2272,7 +2272,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EnemyKill] มอบ 1 [AttackDmgUp] to a random ally\u200B</line-height>"
+                  "desc": "<line-height=130%>[EnemyKill] มอบ 1 [AttackDmgUp] แก่พันธมิตรแบบสุ่ม\u200B</line-height>"
                 }
               ]
             }
@@ -2854,7 +2854,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ [Charge] +7 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] มอบ 1 Envy Power Up และ 1 [Agility] แก่ 2 พันธมิตรแบบสุ่ม ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] มอบ 1 [VioletResultUp] และ 1 [Agility] แก่ 2 พันธมิตรแบบสุ่ม ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -2875,7 +2875,7 @@
                   "desc": "<line-height=130%>[EndSkill] ได้รับ [Charge] +7 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkillHead] มอบ 1 Envy Power Up และ 1 [Agility] แก่ 2 พันธมิตรแบบสุ่ม ในเทิร์นหน้า, และ ยูนิทนี้ ได้รับs [Charge] +3 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkillHead] มอบ 1 [VioletResultUp] และ 1 [Agility] แก่ 2 พันธมิตรแบบสุ่ม ในเทิร์นหน้า, และ ยูนิทนี้ ได้รับs [Charge] +3 ขั้น\u200B</line-height>"
                 }
               ]
             }
@@ -2990,7 +2990,7 @@
           "level": 1,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] เพิ่มความเสียหาย basedบนcurrent Lust resources (มากสุด 25%)\nThenจ่าย Lust resources ไป (Lust Reson.); further เพิ่มความเสียหาย ไป 5% ต่อทุกๆ resource spent\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] เพิ่มความเสียหาย basedบนcurrent Lust resources (มากสุด 25%)\nThenจ่าย Lust resources ไป (Lust Reson.); further เพิ่มความเสียหาย ไป 5% ต่อทุกๆ resource ที่จ่ายไป\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3005,7 +3005,7 @@
           "level": 3,
           "name": "<line-height=120%>Lifetime Stew\u200B</line-height>",
           "abName": "Basilisoup",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] เพิ่มความเสียหาย basedบนcurrent Lust resources (มากสุด 50%)\nThenจ่าย Lust resources ไป (Lust Reson.); further เพิ่มความเสียหาย ไป 10% ต่อทุกๆ resource spent\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายที่มีHP เยอะที่สุด\n\n[BeforeAttack] เพิ่มความเสียหาย basedบนcurrent Lust resources (มากสุด 50%)\nThenจ่าย Lust resources ไป (Lust Reson.); further เพิ่มความเสียหาย ไป 10% ต่อทุกๆ resource ที่จ่ายไป\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3136,7 +3136,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] <style=\"highlight\">Ifขั้น [Charge] was spent, มอบ 3 [DimensionRift]</style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] <style=\"highlight\">Ifขั้น [Charge] was ที่จ่ายไป, มอบ 3 [DimensionRift]</style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x <style=\"highlight\">10</style>)% of ความเสียหายที่ทำได้, และ reduce ขั้น [Burst] ไป 5 (สูงสุด <style=\"highlight\">100</style>%)\u200B</line-height>"
@@ -3154,7 +3154,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] Ifขั้น [Charge] was spent, มอบ <style=\"highlight\">5</style> [DimensionRift]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] Ifขั้น [Charge] was ที่จ่ายไป, มอบ <style=\"highlight\">5</style> [DimensionRift]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ bonus Pride ความเสียหาย ไป (Target’s [Burst] x 10)% of ความเสียหายที่ทำได้, และ reduce ขั้น [Burst] ไป 5 (สูงสุด 100)<style=\"highlight\"></style>\u200B</line-height>"
@@ -3195,7 +3195,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] Ifขั้น [Charge] was spent, มอบ 3 [DimensionRift]</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] Ifขั้น [Charge] was ที่จ่ายไป, มอบ 3 [DimensionRift]</style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">6</style> [Burst]\u200B</line-height>"
@@ -3216,7 +3216,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] Ifขั้น [Charge] was spent, มอบ <style=\"highlight\">5</style> [DimensionRift]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] Ifขั้น [Charge] was ที่จ่ายไป, มอบ <style=\"highlight\">5</style> [DimensionRift]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 6 [Burst]<style=\"highlight\"></style>\u200B</line-height>"
@@ -3779,7 +3779,7 @@
           "level": 1,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of missing HP (สูงสุด 5)\nได้รับ 2 [Agility] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of HP ที่เสียไป (สูงสุด 5)\nได้รับ 2 [Agility] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3794,7 +3794,7 @@
           "level": 3,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of missing HP (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of HP ที่เสียไป (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3814,7 +3814,7 @@
           "level": 1,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of missing HP (สูงสุด 5)\nได้รับ 2 [Agility] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of HP ที่เสียไป (สูงสุด 5)\nได้รับ 2 [Agility] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3832,7 +3832,7 @@
           "level": 3,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of missing HP (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of HP ที่เสียไป (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -3850,7 +3850,7 @@
           "level": 4,
           "name": "<line-height=120%>AEDD\u200B</line-height>",
           "abName": "Shock Centipede",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of missing HP (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[BeforeAttack] ได้รับ [Charge] +1 ขั้น ต่อทุกๆ 10% of HP ที่เสียไป (สูงสุด 7)\nได้รับ 2 [Agility] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

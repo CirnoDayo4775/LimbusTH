@@ -756,7 +756,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 1% ของ HPสูงสุด ต่อทุกๆ [Laceration] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]จ่าย 1 [Laceration] Count from target\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]จ่าย 1 ขั้น [Laceration] from target\u200B</line-height>"
                 }
               ]
             }
@@ -1183,7 +1183,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>High-speed กระฉากมิติ\u200B</line-height>",
-          "desc": "<line-height=130%>ได้รับ แต้มปะทะ เท่ากับ the number of [DimensionRift] effect with the highest stack\nทำ ความเสียหาย +10% ต่อทุกๆ [DimensionRift] effectบนself\u200B</line-height>",
+          "desc": "<line-height=130%>ได้รับ แต้มปะทะ เท่ากับ the number of [DimensionRift] effect with the highest stack\nทำ ความเสียหาย +10% ต่อทุกๆ [DimensionRift] effect ของตัวเอง\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1472,7 +1472,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>To the Garden of Infinity\u200B</line-height>",
-          "desc": "<line-height=130%>[CantDuel]\n[WhenUse] มอบ Crown of Thorns และ eliminate all effectsบนself\nIf Core has less than 40% HP, Roses will spawn in Power-up States\u200B</line-height>",
+          "desc": "<line-height=130%>[CantDuel]\n[WhenUse] มอบ Crown of Thorns และ eliminate all effects ของตัวเอง\nIf Core has less than 40% HP, Roses will spawn in Power-up States\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -1532,7 +1532,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Laceration] และ 3 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู the Rose with the lowest HP percentages for 10 HP\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู the Rose ที่มี เปอร์เซนต์HP ต่ำที่สุดs for 10 HP\u200B</line-height>"
                 }
               ]
             }

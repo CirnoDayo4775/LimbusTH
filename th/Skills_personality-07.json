@@ -62,7 +62,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[CriticalOnSucceedAttack] มอบ [Laceration] Count เท่ากับ 1/4 of ปริมาณ [Laceration] ของเป้าหมาย (สูงสุด 10)\u200B</line-height>"
+                  "desc": "<line-height=130%>[CriticalOnSucceedAttack] มอบ ขั้น [Laceration] เท่ากับ 1/4 of ปริมาณ [Laceration] ของเป้าหมาย (สูงสุด 10)\u200B</line-height>"
                 }
               ]
             },
@@ -78,7 +78,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[CriticalOnSucceedAttack] มอบ [Laceration] Count เท่ากับ 1/4 of ปริมาณ [Laceration] ของเป้าหมาย (สูงสุด 10)\u200B</line-height>"
+                  "desc": "<line-height=130%>[CriticalOnSucceedAttack] มอบ ขั้น [Laceration] เท่ากับ 1/4 of ปริมาณ [Laceration] ของเป้าหมาย (สูงสุด 10)\u200B</line-height>"
                 }
               ]
             },
@@ -94,7 +94,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[CriticalOnSucceedAttack] มอบ [Laceration] Count เท่ากับ 1/3 of ปริมาณ [Laceration] ของเป้าหมาย (สูงสุด 10)\u200B</line-height>"
+                  "desc": "<line-height=130%>[CriticalOnSucceedAttack] มอบ ขั้น [Laceration] เท่ากับ 1/3 of ปริมาณ [Laceration] ของเป้าหมาย (สูงสุด 10)\u200B</line-height>"
                 }
               ]
             },
@@ -603,7 +603,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Photoelectric Harpoon\u200B</line-height>",
-          "desc": "<line-height=130%><style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 2 [Charge]บนself (สูงสุด 2)</style>\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 2 [Charge] ของตัวเอง (สูงสุด 2)</style>\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -691,7 +691,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>สะบั้นคอ\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 6+ [Sinking], แต้มปะทะ +1\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 3 ขั้น [Sinking]บนเป้าหมาย (สูงสุด 2)</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 6+ [Sinking], แต้มปะทะ +1\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 3 ขั้น [Sinking] ของเป้าหมาย (สูงสุด 2)</style>\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -761,7 +761,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ขบวนอาชาอนุสรณ์\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 5 [Sinking]บนเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] <style=\"highlight\">Atk Weight +1 ต่อทุกๆ 4 [Coffin]บนself (สูงสุด 2)</style>\n[WhenUse] หากยูนิทนี้มี [NightPathfinding], Atk Weight +1\n[EndSkill] หากยูนิทนี้มี [NightPathfinding], เสีย 10 ค่าสติ\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 5 [Sinking] ของเป้าหมาย (สูงสุด 2)</style>\n[WhenUse] <style=\"highlight\">Atk Weight +1 ต่อทุกๆ 4 [Coffin] ของตัวเอง (สูงสุด 2)</style>\n[WhenUse] หากยูนิทนี้มี [NightPathfinding], Atk Weight +1\n[EndSkill] หากยูนิทนี้มี [NightPathfinding], เสีย 10 ค่าสติ\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -791,7 +791,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>สวดวิญญาณ\u200B</line-height>",
-          "desc": "<line-height=130%>[WinDuel] ฟื้นฟู 10 ค่าสติ\n[BeforeUse] หากยูนิทนี้มี [NightPathfinding], เปิดใช้งาน 'Lament, Mourn, และ Despair' แทน\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +7%  ต่อทุกๆ [Coffin]บนself (สูงสุด 70%)\n[WhenUse] ได้รับ 1 [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ 2 [Coffin]\u200B</line-height>",
+          "desc": "<line-height=130%>[WinDuel] ฟื้นฟู 10 ค่าสติ\n[BeforeUse] หากยูนิทนี้มี [NightPathfinding], เปิดใช้งาน 'Lament, Mourn, และ Despair' แทน\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Sinking] ของเป้าหมาย (สูงสุด 2)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +7%  ต่อทุกๆ [Coffin] ของตัวเอง (สูงสุด 70%)\n[WhenUse] ได้รับ 1 [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ 2 [Coffin]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -818,7 +818,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>สวดวิญญาณ\u200B</line-height>",
-          "desc": "<line-height=130%>[WinDuel] ฟื้นฟู 10 ค่าสติ\n[BeforeUse] หากยูนิทนี้มี [NightPathfinding], เปิดใช้งาน 'Lament, Mourn, และ Despair' แทน\n[WhenUse] แต้มเหรียญ +1 for <style=\"highlight\">every 3</style> [Sinking]บนเป้าหมาย (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +12%  ต่อทุกๆ [Coffin]บนself (สูงสุด 120%)\n[WhenUse] ได้รับ 1 [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ 2 [Coffin]\u200B</line-height>",
+          "desc": "<line-height=130%>[WinDuel] ฟื้นฟู 10 ค่าสติ\n[BeforeUse] หากยูนิทนี้มี [NightPathfinding], เปิดใช้งาน 'Lament, Mourn, และ Despair' แทน\n[WhenUse] แต้มเหรียญ +1 for <style=\"highlight\">every 3</style> [Sinking] ของเป้าหมาย (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +12%  ต่อทุกๆ [Coffin] ของตัวเอง (สูงสุด 120%)\n[WhenUse] ได้รับ 1 [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ 2 [Coffin]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -880,7 +880,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>โอ้ ดูลาฮานเอ๋ย...!\u200B</line-height>",
-          "desc": "<line-height=130%>[DuelCounter]\n[BeforeUse] หากยูนิทนี้มี [NightPathfinding] และ has 15+ ค่าสติ ใช้ Lament, Mourn, และ Despair เป็นการสวนกลับ (1 ครั้งต่อเทิร์น)\n[StartBattle] หากยูนิทนี้ ไม่มี [NightPathfinding], ได้รับ 1 [NightPathfinding] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 3 [Sinking]บนเป้าหมาย (สูงสุด 2)</style>\n<style=\"highlight\">[WinDuel] ได้รับ [AttackUp] ในเทิร์นหน้า เท่ากับ (# of Clashes/3) (สูงสุด 3, ครั้ง ต่อทุกๆ เทิร์น)</style>\n[EndBattle] หากยูนิทนี้มี [NightPathfinding], เสีย [NightPathfinding]\u200B</line-height>",
+          "desc": "<line-height=130%>[DuelCounter]\n[BeforeUse] หากยูนิทนี้มี [NightPathfinding] และ has 15+ ค่าสติ ใช้ Lament, Mourn, และ Despair เป็นการสวนกลับ (1 ครั้งต่อเทิร์น)\n[StartBattle] หากยูนิทนี้ ไม่มี [NightPathfinding], ได้รับ 1 [NightPathfinding] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\n[WhenUse] <style=\"highlight\">แต้มเหรียญ +1 ต่อทุกๆ 3 [Sinking] ของเป้าหมาย (สูงสุด 2)</style>\n<style=\"highlight\">[WinDuel] ได้รับ [AttackUp] ในเทิร์นหน้า เท่ากับ (# of Clashes/3) (สูงสุด 3, ครั้ง ต่อทุกๆ เทิร์น)</style>\n[EndBattle] หากยูนิทนี้มี [NightPathfinding], เสีย [NightPathfinding]\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -900,7 +900,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>โศกา อาวรณ์ สิ้นหวัง\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เสีย 15 ค่าสติ\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ จำนวน is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing ค่าสติ สูงสุด 21%)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +7%  ต่อทุกๆ Coffinบนself (สูงสุด 70%)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ [NightPathfinding]บนself (สูงสุด 30%)\n[WhenUse] ได้รับ 1 [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ 2 [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 ค่าสติ When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ จำนวน is from 0 (healเพิ่มเติมอีก 1 ค่าสติ ต่อทุกๆ missing SP สูงสุด 25)\n[EndBattle] เสีย [NightPathfinding]\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เสีย 15 ค่าสติ\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking] ของเป้าหมาย (สูงสุด 2)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ จำนวน is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing ค่าสติ สูงสุด 21%)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +7%  ต่อทุกๆ Coffin ของตัวเอง (สูงสุด 70%)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ [NightPathfinding] ของตัวเอง (สูงสุด 30%)\n[WhenUse] ได้รับ 1 [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ 2 [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 ค่าสติ When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ จำนวน is from 0 (healเพิ่มเติมอีก 1 ค่าสติ ต่อทุกๆ missing SP สูงสุด 25)\n[EndBattle] เสีย [NightPathfinding]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -915,7 +915,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ Gloom Affinity ความเสียหาย เท่ากับ [Sinking]บนเป้าหมาย (สูงสุด 15)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ Gloom Affinity ความเสียหาย เท่ากับ [Sinking] ของเป้าหมาย (สูงสุด 15)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[EnemyKill] มอบ ([Sinking]บนkilled target/3) [Sinking] แก่ 2 ศัตรูแบบสุ่ม (สูงสุด 4)\u200B</line-height>"
@@ -930,7 +930,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>โศกา อาวรณ์ สิ้นหวัง\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เสีย 15 ค่าสติ\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking]บนเป้าหมาย (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ จำนวน is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing ค่าสติ สูงสุด 21%)\n[WhenUse] ทำ +<style=\"highlight\">10</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ Coffinบนself (สูงสุด <style=\"highlight\">100</style>%)\n[WhenUse] ทำ +<style=\"highlight\">20</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [NightPathfinding]บนself (สูงสุด <style=\"highlight\">60</style>%)\n[WhenUse] ได้รับ <style=\"highlight\">2</style> [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ <style=\"highlight\">3</style> [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 ค่าสติ When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ จำนวน is from 0 (heal <style=\"highlight\">2</style> additional ค่าสติ ต่อทุกๆ missing SP สูงสุด <style=\"highlight\">50</style>)\n[EndBattle] เสีย [NightPathfinding]\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เสีย 15 ค่าสติ\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking] ของเป้าหมาย (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ จำนวน is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing ค่าสติ สูงสุด 21%)\n[WhenUse] ทำ +<style=\"highlight\">10</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ Coffin ของตัวเอง (สูงสุด <style=\"highlight\">100</style>%)\n[WhenUse] ทำ +<style=\"highlight\">20</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [NightPathfinding] ของตัวเอง (สูงสุด <style=\"highlight\">60</style>%)\n[WhenUse] ได้รับ <style=\"highlight\">2</style> [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ <style=\"highlight\">3</style> [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 ค่าสติ When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ จำนวน is from 0 (heal <style=\"highlight\">2</style> additional ค่าสติ ต่อทุกๆ missing SP สูงสุด <style=\"highlight\">50</style>)\n[EndBattle] เสีย [NightPathfinding]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -945,7 +945,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ Gloom Affinity ความเสียหาย เท่ากับ [Sinking]บนเป้าหมาย (สูงสุด <style=\"highlight\">30</style>)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ Gloom Affinity ความเสียหาย เท่ากับ [Sinking] ของเป้าหมาย (สูงสุด <style=\"highlight\">30</style>)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[EnemyKill] มอบ ([Sinking]บนkilled target/<style=\"highlight\">2</style>) [Sinking] แก่ 2 ศัตรูแบบสุ่ม (สูงสุด <style=\"highlight\">8</style>)\u200B</line-height>"
@@ -965,7 +965,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>โศกา อาวรณ์ สิ้นหวัง\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เสีย 15 ค่าสติ\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking]บนเป้าหมาย (สูงสุด 2)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ จำนวน is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing ค่าสติ สูงสุด 21%)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +7%  ต่อทุกๆ Coffinบนself (สูงสุด 70%)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ [NightPathfinding]บนself (สูงสุด 30%)\n[WhenUse] ได้รับ 1 [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ 2 [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 ค่าสติ When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ จำนวน is from 0 (healเพิ่มเติมอีก 1 ค่าสติ ต่อทุกๆ missing SP สูงสุด 25)\n[EndBattle] เสีย [NightPathfinding]\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เสีย 15 ค่าสติ\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking] ของเป้าหมาย (สูงสุด 2)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ จำนวน is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing ค่าสติ สูงสุด 21%)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +7%  ต่อทุกๆ Coffin ของตัวเอง (สูงสุด 70%)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ [NightPathfinding] ของตัวเอง (สูงสุด 30%)\n[WhenUse] ได้รับ 1 [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ 2 [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 ค่าสติ When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ จำนวน is from 0 (healเพิ่มเติมอีก 1 ค่าสติ ต่อทุกๆ missing SP สูงสุด 25)\n[EndBattle] เสีย [NightPathfinding]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -980,7 +980,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ Gloom Affinity ความเสียหาย เท่ากับ [Sinking]บนเป้าหมาย (สูงสุด 15)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ Gloom Affinity ความเสียหาย เท่ากับ [Sinking] ของเป้าหมาย (สูงสุด 15)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[EnemyKill] มอบ ([Sinking]บนkilled target/3) [Sinking] แก่ 2 ศัตรูแบบสุ่ม (สูงสุด 4)\u200B</line-height>"
@@ -995,7 +995,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>โศกา อาวรณ์ สิ้นหวัง\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เสีย 15 ค่าสติ\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking]บนเป้าหมาย (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ จำนวน is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing ค่าสติ สูงสุด 21%)\n[WhenUse] ทำ +<style=\"highlight\">10</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ Coffinบนself (สูงสุด <style=\"highlight\">100</style>%)\n[WhenUse] ทำ +<style=\"highlight\">20</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [NightPathfinding]บนself (สูงสุด <style=\"highlight\">60</style>%)\n[WhenUse] ได้รับ <style=\"highlight\">2</style> [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ <style=\"highlight\">3</style> [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 ค่าสติ When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ จำนวน is from 0 (heal <style=\"highlight\">2</style> additional ค่าสติ ต่อทุกๆ missing SP สูงสุด <style=\"highlight\">50</style>)\n[EndBattle] เสีย [NightPathfinding]\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เสีย 15 ค่าสติ\n[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Sinking] ของเป้าหมาย (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] ทำ ความเสียหายเพิ่มเติ่ม the further ยูนิทนี้'s ค่าสติ จำนวน is from 45 (+0.3% ความเสียหายเพิ่มเติม ต่อทุกๆ missing ค่าสติ สูงสุด 21%)\n[WhenUse] ทำ +<style=\"highlight\">10</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ Coffin ของตัวเอง (สูงสุด <style=\"highlight\">100</style>%)\n[WhenUse] ทำ +<style=\"highlight\">20</style>% ความเสียหายเพิ่มเติม ต่อทุกๆ [NightPathfinding] ของตัวเอง (สูงสุด <style=\"highlight\">60</style>%)\n[WhenUse] ได้รับ <style=\"highlight\">2</style> [Coffin]\n[EndSkill] หาก this Skill attack kills the target, ได้รับ <style=\"highlight\">3</style> [Coffin]\n[EndSkill] เมื่อมี ค่าสติต่ำกว่า 0, ฟื้นฟู 10 ค่าสติ When at ค่าสติต่ำกว่า 0, ฟื้นฟู more ค่าสติ the further ยูนิทนี้'s ค่าสติ จำนวน is from 0 (heal <style=\"highlight\">2</style> additional ค่าสติ ต่อทุกๆ missing SP สูงสุด <style=\"highlight\">50</style>)\n[EndBattle] เสีย [NightPathfinding]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1010,7 +1010,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ Gloom Affinity ความเสียหาย เท่ากับ [Sinking]บนเป้าหมาย (สูงสุด <style=\"highlight\">30</style>)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ Gloom Affinity ความเสียหาย เท่ากับ [Sinking] ของเป้าหมาย (สูงสุด <style=\"highlight\">30</style>)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[EnemyKill] มอบ ([Sinking]บนkilled target/<style=\"highlight\">2</style>) [Sinking] แก่ 2 ศัตรูแบบสุ่ม (สูงสุด <style=\"highlight\">8</style>)\u200B</line-height>"
@@ -1193,7 +1193,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>Goin' for the Bullseye\u200B</line-height>",
-          "desc": "<line-height=130%>[BeforeUse] หากยูนิทนี้มี [Bullet_LogicAtelier], เปิดใช้งาน 'AL-HV Pulverisation Round' แทน\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 ผลต่างของความเร็ว (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 12.5)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeUse] หากยูนิทนี้มี [Bullet_LogicAtelier], เปิดใช้งาน 'AL-HV Pulverisation Round' แทน\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 ผลต่างของความเร็ว (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM] ของตัวเอง, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 12.5)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1213,7 +1213,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Goin' for the Bullseye\u200B</line-height>",
-          "desc": "<line-height=130%>[BeforeUse] หากยูนิทนี้มี [Bullet_LogicAtelier], เปิดใช้งาน 'AL-HV Pulverisation Round' แทน\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 ผลต่างของความเร็ว (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 12.5)% ความเสียหายเพิ่มเติ่ม\n<style=\"highlight\">[EndSkill] ได้รับ [Breath] +2 ขั้น</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeUse] หากยูนิทนี้มี [Bullet_LogicAtelier], เปิดใช้งาน 'AL-HV Pulverisation Round' แทน\nถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 ผลต่างของความเร็ว (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM] ของตัวเอง, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 12.5)% ความเสียหายเพิ่มเติ่ม\n<style=\"highlight\">[EndSkill] ได้รับ [Breath] +2 ขั้น</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1224,7 +1224,7 @@
                   "desc": "<line-height=130%><style=\"highlight\">+80%</style> ความเสียหายเมื่อติดคริ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">+(target's Pierce Res. x 50)% ความเสียหายเมื่อติดคริ</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">+(ความต้านทานแทง ของเป้าหมาย. x 50)% ความเสียหายเมื่อติดคริ</style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[CriticalOnSucceedAttack] เมื่อมี more than 30 ปริมาณ [Breath], จ่ายสูงสุด 10 of ปริมาณ [Breath] over 30 to ทำ +(ปริมาณ [Breath] ที่จ่ายไป x 10)% ความเสียหายเพิ่มเติ่ม<style=\"highlight\"></style>\u200B</line-height>"
@@ -1240,8 +1240,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Combat [Breath]\u200B</line-height>",
-          "desc": "<line-height=130%>Turn Start: เมื่อมี 0 [Bullet], this Skill activatesเป็น'Taking Cover' แทน\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu isบนthe field, request [MeleeCover] from that unit (1 ครั้งต่อเทิร์น)\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\u200B</line-height>",
+          "name": "<line-height=120%>เตรียมจู่โจม\u200B</line-height>",
+          "desc": "<line-height=130%>เมื่อเริ่มเทิร์น เมื่อมี 0 [Bullet], this Skill activatesเป็น'Taking Cover' แทน\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu อยู่ในสนาม, request [MeleeCover] from that unit (1 ครั้งต่อเทิร์น)\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": []
@@ -1250,8 +1250,8 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Combat [Breath]\u200B</line-height>",
-          "desc": "<line-height=130%>Turn Start: เมื่อมี 0 [Bullet], this Skill activatesเป็น'Taking Cover' แทน\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu isบนthe field, request [MeleeCover] from that unit (1 ครั้งต่อเทิร์น)\n<style=\"highlight\">[OnSucceedEvade] ได้รับ 3 [Breath] (3 ครั้ง ต่อเทิร์น)</style>\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\u200B</line-height>",
+          "name": "<line-height=120%>เตรียมจู่โจม\u200B</line-height>",
+          "desc": "<line-height=130%>เมื่อเริ่มเทิร์น เมื่อมี 0 [Bullet], this Skill activatesเป็น'Taking Cover' แทน\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu อยู่ในสนาม, request [MeleeCover] from that unit (1 ครั้งต่อเทิร์น)\n<style=\"highlight\">[OnSucceedEvade] ได้รับ 3 [Breath] (3 ครั้ง ต่อเทิร์น)</style>\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": []
@@ -1266,7 +1266,7 @@
         {
           "level": 3,
           "name": "<line-height=120%>AL-HV Pulverisation Round\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 ผลต่างของความเร็ว (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 25)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 ผลต่างของความเร็ว (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM] ของตัวเอง, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 25)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1286,7 +1286,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>AL-HV Pulverisation Round\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 ผลต่างของความเร็ว (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM]บนself, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 25)% ความเสียหายเพิ่มเติ่ม\n<style=\"highlight\">[EndSkill] ได้รับ [Breath] +5 ขั้น</style>\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 1 ผลต่างของความเร็ว (สูงสุด 50%)\n[WhenUse] ได้รับ 5 [Breath]\n[WhenUse] จ่าย all [LogicAtelierAM] ของตัวเอง, ได้รับ (value ที่จ่ายไป x 2) ปริมาณ [Breath], และ ทำ +(value ที่จ่ายไป x 25)% ความเสียหายเพิ่มเติ่ม\n<style=\"highlight\">[EndSkill] ได้รับ [Breath] +5 ขั้น</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1297,7 +1297,7 @@
                   "desc": "<line-height=130%><style=\"highlight\">+130%</style> ความเสียหายเมื่อติดคริ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">+(target's Pierce Res. x 50)% ความเสียหายเมื่อติดคริ</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">+(ความต้านทานแทง ของเป้าหมาย. x 50)% ความเสียหายเมื่อติดคริ</style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[CriticalOnSucceedAttack] เมื่อมี more than 30 ปริมาณ [Breath], จ่ายสูงสุด 10 of ปริมาณ [Breath] over 30 to ทำ +(ปริมาณ [Breath] ที่จ่ายไป x 10)% ความเสียหายเพิ่มเติ่ม<style=\"highlight\"></style>\u200B</line-height>"
@@ -1314,7 +1314,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Taking Cover\u200B</line-height>",
-          "desc": "<line-height=130%>[CanDuelGuard]\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu isบนthe field, request [MeleeCover] from that unit (1 ครั้งต่อเทิร์น)\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>[CanDuelGuard]\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu อยู่ในสนาม, request [MeleeCover] from that unit (1 ครั้งต่อเทิร์น)\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1328,7 +1328,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Taking Cover\u200B</line-height>",
-          "desc": "<line-height=130%>[CanDuelGuard]\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu isบนthe field, request [MeleeCover] from that unit (1 ครั้งต่อเทิร์น)\n<style=\"highlight\">[WinDuel] มอบ 1 [PenetrateResistDown] (1 ครั้งต่อเทิร์น)</style>\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>[CanDuelGuard]\n[WhenUse] หาก Full-Stop Office Rep. Hong Lu อยู่ในสนาม, request [MeleeCover] from that unit (1 ครั้งต่อเทิร์น)\n<style=\"highlight\">[WinDuel] มอบ 1 [PenetrateResistDown] (1 ครั้งต่อเทิร์น)</style>\n[EndBattle] ได้รับ 1 [LogicAtelierAM] ในเทิร์นหน้า (1 ครั้งต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1586,7 +1586,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>กฎเกณฑ์ของแบ็คสทรีท\u200B</line-height>",
-          "desc": "<line-height=130%>[DuelCounter]\nIf Kurokumo Clan Captain Ishmael isบนthe field, เปิดใช้งาน the following:\n- Convert all Coins in this Skill into [SuperCoin]\n- แต้มรวม +3 to this Skill เมื่อ Clash เสีย\n[WhenUse] หากยูนิทนี้มี [CloudWall], unconditionally เปิดใช้งาน all Reuse effectsบนthis Skill's Coins\u200B</line-height>",
+          "desc": "<line-height=130%>[DuelCounter]\nIf Kurokumo Clan Captain Ishmael อยู่ในสนาม, เปิดใช้งาน the following:\n- Convert all Coins in this Skill into [SuperCoin]\n- แต้มรวม +3 to this Skill เมื่อ Clash เสีย\n[WhenUse] หากยูนิทนี้มี [CloudWall], unconditionally เปิดใช้งาน all Reuse effectsบนthis Skill's Coins\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1606,7 +1606,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>กฎเกณฑ์ของแบ็คสทรีท\u200B</line-height>",
-          "desc": "<line-height=130%>[DuelCounter]\nIf Kurokumo Clan Captain Ishmael isบนthe field, เปิดใช้งาน the following:\n- Convert all Coins in this Skill into [SuperCoin]\n- แต้มรวม +4 to this Skill เมื่อ Clash เสีย\n<style=\"highlight\">ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ ประเภทของผลด้านลบ ของเป้าหมาย (สูงสุด 100%)</style>\n[WhenUse] หากยูนิทนี้มี [CloudWall], unconditionally เปิดใช้งาน all Reuse effectsบนthis Skill's Coins\u200B</line-height>",
+          "desc": "<line-height=130%>[DuelCounter]\nIf Kurokumo Clan Captain Ishmael อยู่ในสนาม, เปิดใช้งาน the following:\n- Convert all Coins in this Skill into [SuperCoin]\n- แต้มรวม +4 to this Skill เมื่อ Clash เสีย\n<style=\"highlight\">ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ ประเภทของผลด้านลบ ของเป้าหมาย (สูงสุด 100%)</style>\n[WhenUse] หากยูนิทนี้มี [CloudWall], unconditionally เปิดใช้งาน all Reuse effectsบนthis Skill's Coins\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
