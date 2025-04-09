@@ -265,7 +265,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Marche\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[WhenUse] This slot ได้รับs 1[Aggro]ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[WhenUse] This slot ได้รับ 1[Aggro]ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -286,7 +286,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Marche\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[WhenUse] This Skill Slot ได้รับs 3[Aggro]ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ 2 [Agility] ในเทิร์นหน้า\n[WhenUse] This Skill Slot ได้รับ 3[Aggro]ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -333,7 +333,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>Punition\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WhenUse] This Skill Slot ได้รับs 2[Aggro]ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +1\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WhenUse] This Skill Slot ได้รับ 2[Aggro]ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -354,7 +354,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Punition\u200B</line-height>",
-          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +2\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WhenUse] This Skill Slot ได้รับs 4[Aggro]ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>ถ้าความเร็วของยูนิทนี้ เร็วกว่าของเป้าหมาย, แต้มเหรียญ +2\n[WhenUse] ได้รับ [Breath] +2 ขั้น\n[WhenUse] This Skill Slot ได้รับ 4[Aggro]ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -768,7 +768,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [EchoOfMansion] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [EchoOfMansion], มอบ Gloom Affinity ความเสียหาย เท่ากับครึ่งหนึ่งของ ปริมาณ [Sinking] ของเป้าหมาย (สูงสุด 20)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [EchoOfMansion], มอบ ความเสียหาย Gloom Affinity เท่ากับครึ่งหนึ่งของ ปริมาณ [Sinking] ของเป้าหมาย (สูงสุด 20)\u200B</line-height>"
                 }
               ]
             }
@@ -788,7 +788,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [EchoOfMansion] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [EchoOfMansion], มอบ Gloom Affinity ความเสียหาย เท่ากับ ปริมาณ [Sinking] ของเป้าหมาย (สูงสุด 30)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [EchoOfMansion], มอบ ความเสียหาย Gloom Affinity เท่ากับ ปริมาณ [Sinking] ของเป้าหมาย (สูงสุด 30)\u200B</line-height>"
                 }
               ]
             }
@@ -1119,7 +1119,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>Charged Leap\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่าย 6 ขั้น [Charge] ของตัวเอง เพื่อได้รับ แต้มเหรียญ +1\n- หากยูนิทนี้ ที่จ่ายไป ขั้น [Charge] , มอบ ([Charge] + <style=\"highlight\">2</style>) [ChargeForceField] แก่ตัวเอง และ 2 other allies with the least ขั้น [Charge] . (สูงสุด <style=\"highlight\">8</style> [ChargeForceField] ต่อทุกๆ ally. Activates <style=\"highlight\">2 times</style> ต่อทุกๆ เทิร์น max)\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่าย 6 ขั้น [Charge] ของตัวเอง เพื่อได้รับ แต้มเหรียญ +1\n- หากยูนิทนี้ ที่จ่ายไป ขั้น [Charge] , มอบ ([Charge] + <style=\"highlight\">2</style>) [ChargeForceField] แก่ตัวเอง และ 2 other allies with the least ขั้น [Charge] . (สูงสุด <style=\"highlight\">8</style> [ChargeForceField] ต่อทุกๆ ally. Activates <style=\"highlight\">2 ครั้ง</style> ต่อทุกๆ เทิร์น max)\n[WhenUse] ได้รับ [Charge] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

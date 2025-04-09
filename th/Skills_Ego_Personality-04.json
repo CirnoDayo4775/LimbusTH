@@ -74,7 +74,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Sinking]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] พันธมิตรทุกคน ได้รับ +1 <sprite name=\"ได้รับSinStockAdder\"><color=#f8c200><u><link=\"ได้รับSinStockAdder\">E.G.O Resource Amp</color></link></u>.\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] พันธมิตรทุกคน ได้รับ +1 <sprite name=\"ได้รับinStockAdder\"><color=#f8c200><u><link=\"ได้รับinStockAdder\">E.G.O Resource Amp</color></link></u>.\u200B</line-height>"
                 }
               ]
             }
@@ -92,7 +92,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 5 [Sinking]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] พันธมิตรทุกคน ได้รับ +1 <sprite name=\"ได้รับSinStockAdder\"><color=#f8c200><u><link=\"ได้รับSinStockAdder\">E.G.O Resource Amp</color></link></u>.\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] พันธมิตรทุกคน ได้รับ +1 <sprite name=\"ได้รับinStockAdder\"><color=#f8c200><u><link=\"ได้รับinStockAdder\">E.G.O Resource Amp</color></link></u>.\u200B</line-height>"
                 }
               ]
             }
@@ -110,7 +110,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 6 [Sinking]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] พันธมิตรทุกคน ได้รับ +1 <sprite name=\"ได้รับSinStockAdder\"><color=#f8c200><u><link=\"ได้รับSinStockAdder\">E.G.O Resource Amp</color></link></u>., มอบ 1 [Agility] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] พันธมิตรทุกคน ได้รับ +1 <sprite name=\"ได้รับinStockAdder\"><color=#f8c200><u><link=\"ได้รับinStockAdder\">E.G.O Resource Amp</color></link></u>., มอบ 1 [Agility] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -417,7 +417,7 @@
           "level": 1,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one ของสกิลนี้'s targets, ทำ +30% ความเสียหายเพิ่มเติ่ม\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], จ่าย 10% HP เพื่อได้รับ 5 [Breath] และ [Breath] +5 ขั้น\n- ไม่สามารถถูก Stagger ได้or defeated due to this effect\n\n[EndSkill] หากเป้าหมายตาย, ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า. (1 ครั้งต่อเทิร์น) หาก the said target was an ally, เปิดใช้งาน the following เช่นกัน:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ 2 [Breath] และ [Breath] +2 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one ของสกิลนี้'s targets, ทำ +30% ความเสียหายเพิ่มเติ่ม\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], จ่าย 10% HP เพื่อได้รับ 5 [Breath] และ [Breath] +5 ขั้น\n- ไม่สามารถถูก Stagger ได้or defeated due to this effect\n\n[EndSkill] หากเป้าหมายตาย, ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า. (1 ครั้งต่อเทิร์น) หาก the said target was an ally, เปิดใช้งานความสามารถดังนี้ เช่นกัน:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ 2 [Breath] และ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -433,7 +433,7 @@
           "level": 3,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one ของสกิลนี้'s targets, ทำ +30% ความเสียหายเพิ่มเติ่ม\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], จ่าย 10% HP เพื่อได้รับ 5 [Breath] และ [Breath] +5 ขั้น\n- ไม่สามารถถูก Stagger ได้or defeated due to this effect\n<style=\"highlight\">- ได้รับ 1 [Breath] ต่อทุกๆ ally targeted ไป this Skill (สูงสุด 2)</style>\n\n[EndSkill] หากเป้าหมายตาย, ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า. (1 ครั้งต่อเทิร์น) หาก the said target was an ally, เปิดใช้งาน the following เช่นกัน:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ <style=\"highlight\">4</style> [Breath] และ [Breath] +2 ขั้น\n<style=\"highlight\">- Recoverครึ่งหนึ่งของ ค่าสติ used ไป this Skill</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one ของสกิลนี้'s targets, ทำ +30% ความเสียหายเพิ่มเติ่ม\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], จ่าย 10% HP เพื่อได้รับ 5 [Breath] และ [Breath] +5 ขั้น\n- ไม่สามารถถูก Stagger ได้or defeated due to this effect\n<style=\"highlight\">- ได้รับ 1 [Breath] ต่อทุกๆ ally targeted ไป this Skill (สูงสุด 2)</style>\n\n[EndSkill] หากเป้าหมายตาย, ได้รับ 2 [HoldingBreath] ในเทิร์นหน้า. (1 ครั้งต่อเทิร์น) หาก the said target was an ally, เปิดใช้งานความสามารถดังนี้ เช่นกัน:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ <style=\"highlight\">4</style> [Breath] และ [Breath] +2 ขั้น\n<style=\"highlight\">- Recoverครึ่งหนึ่งของ ค่าสติ used ไป this Skill</style>\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -452,7 +452,7 @@
           "level": 4,
           "name": "<line-height=120%>Thoracalgia\u200B</line-height>",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one ของสกิลนี้'s targets, ทำ +30% ความเสียหายเพิ่มเติ่ม\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], จ่าย 10% HP เพื่อได้รับ 5 [Breath] และ [Breath] +5 ขั้น\n- ไม่สามารถถูก Stagger ได้or defeated due to this effect\n- ได้รับ <style=\"highlight\">2</style> [Breath] ต่อทุกๆ ally targeted ไป this Skill (สูงสุด <style=\"highlight\">4</style>)\n\n[EndSkill] หากเป้าหมายตาย, ได้รับ 3 [HoldingBreath] ในเทิร์นหน้า. (1 ครั้งต่อเทิร์น) หาก the said target was an ally, เปิดใช้งาน the following เช่นกัน:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ 4 [Breath] และ +<style=\"highlight\">4</style> ขั้น [Breath]\n<style=\"highlight\">- Recover ค่าสติ used ไป this Skill และ reได้รับ 1 of each E.G.O resources ที่จ่ายไป</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าเป็นพิเศษหากเป้าหมายมี the least HP (prioritizes allies)\nIf an ally is one ของสกิลนี้'s targets, ทำ +30% ความเสียหายเพิ่มเติ่ม\n\n[BeforeAttack] เมื่อมี less than 15 [Breath], จ่าย 10% HP เพื่อได้รับ 5 [Breath] และ [Breath] +5 ขั้น\n- ไม่สามารถถูก Stagger ได้or defeated due to this effect\n- ได้รับ <style=\"highlight\">2</style> [Breath] ต่อทุกๆ ally targeted ไป this Skill (สูงสุด <style=\"highlight\">4</style>)\n\n[EndSkill] หากเป้าหมายตาย, ได้รับ 3 [HoldingBreath] ในเทิร์นหน้า. (1 ครั้งต่อเทิร์น) หาก the said target was an ally, เปิดใช้งานความสามารถดังนี้ เช่นกัน:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies ได้รับ 4 [Breath] และ +<style=\"highlight\">4</style> ขั้น [Breath]\n<style=\"highlight\">- Recover ค่าสติ used ไป this Skill และ reได้รับ 1 of each E.G.O resources ที่จ่ายไป</style>\u200B</line-height>",
           "coinlist": [
             {},
             {

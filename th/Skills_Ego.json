@@ -265,7 +265,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 8 ค่าสติ for 4 allies with the least ค่าสติ\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 8 ค่าสติ for 4 พันธมิตรที่มี ค่าสติ ต่ำที่สุด\u200B</line-height>"
                 }
               ]
             }
@@ -280,7 +280,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 10 ค่าสติ for 4 allies with the least ค่าสติ\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 10 ค่าสติ for 4 พันธมิตรที่มี ค่าสติ ต่ำที่สุด\u200B</line-height>"
                 }
               ]
             }
@@ -295,7 +295,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 12 ค่าสติ for 4 allies with the least ค่าสติ\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 12 ค่าสติ for 4 พันธมิตรที่มี ค่าสติ ต่ำที่สุด\u200B</line-height>"
                 }
               ]
             }
@@ -1490,7 +1490,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Snagharpoon\u200B</line-height>",
+          "name": "<line-height=120%>กระชากฉมวก\u200B</line-height>",
           "abName": "Ishmael",
           "desc": "<line-height=130%>Targets the rearmost unit (In regular encounters)\u200B</line-height>",
           "coinlist": [
@@ -1508,7 +1508,7 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Snagharpoon\u200B</line-height>",
+          "name": "<line-height=120%>กระชากฉมวก\u200B</line-height>",
           "abName": "Ishmael",
           "desc": "<line-height=130%>Targets the rearmost unit (In regular encounters)\u200B</line-height>",
           "coinlist": [
@@ -1526,7 +1526,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Snagharpoon\u200B</line-height>",
+          "name": "<line-height=120%>กระชากฉมวก\u200B</line-height>",
           "abName": "Ishmael",
           "desc": "<line-height=130%>Targets the rearmost unit (In regular encounters)\u200B</line-height>",
           "coinlist": [
@@ -2875,7 +2875,7 @@
                   "desc": "<line-height=130%>[EndSkill] ได้รับ [Charge] +7 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkillHead] มอบ 1 [VioletResultUp] และ 1 [Agility] แก่ 2 พันธมิตรแบบสุ่ม ในเทิร์นหน้า, และ ยูนิทนี้ ได้รับs [Charge] +3 ขั้น\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkillHead] มอบ 1 [VioletResultUp] และ 1 [Agility] แก่ 2 พันธมิตรแบบสุ่ม ในเทิร์นหน้า, และ ยูนิทนี้ ได้รับ [Charge] +3 ขั้น\u200B</line-height>"
                 }
               ]
             }
@@ -3051,7 +3051,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttackHead] หาก targetเป็นพันธมิตร, ฟื้นฟู them for 10% of user’s สูงสุด HP\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackTail] มอบ 7 [Combustion]; หาก targetเป็นพันธมิตร, มอบ 2 [Agility] และ 1 <sprite name=\"ได้รับSinStockAdder\"><color=#f8c200><u><link=\"ได้รับSinStockAdder\">E.G.O Resource Amp</color></link></u> ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackTail] มอบ 7 [Combustion]; หาก targetเป็นพันธมิตร, มอบ 2 [Agility] และ 1 <sprite name=\"ได้รับinStockAdder\"><color=#f8c200><u><link=\"ได้รับinStockAdder\">E.G.O Resource Amp</color></link></u> ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -4169,7 +4169,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [Reduction] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 12 ค่าสติ for 4 other allies with the least ค่าสติ\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 12 ค่าสติ for 4 other พันธมิตรที่มี ค่าสติ ต่ำที่สุด\u200B</line-height>"
                 }
               ]
             }
@@ -4187,7 +4187,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Reduction] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 17 ค่าสติ for 4 other allies with the least ค่าสติ\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 17 ค่าสติ for 4 other พันธมิตรที่มี ค่าสติ ต่ำที่สุด\u200B</line-height>"
                 }
               ]
             }
@@ -4205,7 +4205,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Reduction] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 25 ค่าสติ for 4 other allies with the least ค่าสติ\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 25 ค่าสติ for 4 other พันธมิตรที่มี ค่าสติ ต่ำที่สุด\u200B</line-height>"
                 }
               ]
             }
