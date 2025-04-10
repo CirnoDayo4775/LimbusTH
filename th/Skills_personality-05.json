@@ -711,7 +711,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>อุทิศตนแก่การศึกษา\u200B</line-height>",
-          "desc": "<line-height=130%>ได้รับ ([KnowledgeExplored] x 3% ของ HPสูงสุด) โล่ หากสกิลนี้ถูกทิ้ง\n[WhenUse] [Discard] 1 สกิล ที่มีระดับสูงที่สุดจากสล็อตสกิลของยูนิทนี้\u200B</line-height>",
+          "desc": "<line-height=130%>ได้รับ ([KnowledgeExplored] x 3% ของ HPสูงสุด) โล่ หากสกิลนี้ถูก[Discard] \n[WhenUse] [Discard] 1 สกิล ที่มีระดับสูงที่สุดจากสล็อตสกิลของยูนิทนี้\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -726,7 +726,7 @@
         {
           "level": 2,
           "name": "<line-height=120%>อุทิศตนแก่การศึกษา\u200B</line-height>",
-          "desc": "<line-height=130%>ได้รับ ([KnowledgeExplored] x <style=\"highlight\">4%</style> ของ HPสูงสุด) โล่ หากสกิลนี้ถูกทิ้ง\n[WhenUse] [Discard] 1 สกิล ที่มีระดับต่ำที่สุด จากสล็อตสกิลของยูนิทนี้\n<style=\"highlight\">[WhenUse] เมื่อมี 2+ [KnowledgeExplored], แต้มปะทะ +1\n[WinDuel] ได้รับ 2 [KnowledgeTraining] (1 ครั้งต่อเทิร์น)</style>\u200B</line-height>",
+          "desc": "<line-height=130%>ได้รับ ([KnowledgeExplored] x <style=\"highlight\">4%</style> ของ HPสูงสุด) โล่ หากสกิลนี้ถูก[Discard] \n[WhenUse] [Discard] 1 สกิล ที่มีระดับต่ำที่สุด จากสล็อตสกิลของยูนิทนี้\n<style=\"highlight\">[WhenUse] เมื่อมี 2+ [KnowledgeExplored], แต้มปะทะ +1\n[WinDuel] ได้รับ 2 [KnowledgeTraining] (1 ครั้งต่อเทิร์น)</style>\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -741,7 +741,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>อุทิศตนแก่การศึกษา\u200B</line-height>",
-          "desc": "<line-height=130%>ได้รับ ([KnowledgeExplored] x <style=\"highlight\">5%</style> ของ HPสูงสุด) โล่ หากสกิลนี้ถูกทิ้ง\n[WhenUse] [Discard] 1 สกิล ที่มีระดับต่ำที่สุด จากสล็อตสกิลของยูนิทนี้\n<style=\"highlight\">[WhenUse] ได้รับ ([KnowledgeExplored] - 1) แต้มปะทะ (สูงสุด 2)</style>\n[WinDuel] ได้รับ 2 [KnowledgeTraining] (1 ครั้งต่อเทิร์น)\u200B</line-height>",
+          "desc": "<line-height=130%>ได้รับ ([KnowledgeExplored] x <style=\"highlight\">5%</style> ของ HPสูงสุด) โล่ หากสกิลนี้ถูก[Discard] \n[WhenUse] [Discard] 1 สกิล ที่มีระดับต่ำที่สุด จากสล็อตสกิลของยูนิทนี้\n<style=\"highlight\">[WhenUse] ได้รับ ([KnowledgeExplored] - 1) แต้มปะทะ (สูงสุด 2)</style>\n[WinDuel] ได้รับ 2 [KnowledgeTraining] (1 ครั้งต่อเทิร์น)\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -827,7 +827,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>ความรู้พรั่งพรู\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ <style=\"highlight\">+5%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [KnowledgeExplored] (สูงสุด <style=\"highlight\">45%</style>)\n<style=\"highlight\">[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Sinking] ของเป้าหมาย (สูงสุด 2)</style>\n[BeforeAttack] จ่าย [KnowledgeTraining] ของตัวเองทั้งหมด และ ได้รับ <style=\"highlight\">the same จำนวน</style>เป็น [KnowledgeExplored] เพิ่มเติม\n[EndSkill] เมื่อมี 4+ [KnowledgeExplored], รีเซ็ตจำนวนให้เป็น 1 (หากสกิลนี้ได้ฆ่าศัตรู, รีเซ็ตจำนวนให้เป็น 3 แทน)\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ <style=\"highlight\">+5%</style> ความเสียหายเพิ่มเติม ต่อทุกๆ [KnowledgeExplored] (สูงสุด <style=\"highlight\">45%</style>)\n<style=\"highlight\">[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 6 [Sinking] ของเป้าหมาย (สูงสุด 2)</style>\n[BeforeAttack] จ่าย [KnowledgeTraining] ของตัวเองทั้งหมด และ ได้รับ <style=\"highlight\">จำนวนเดียวกันนั้น</style>เป็น [KnowledgeExplored] เพิ่มเติม\n[EndSkill] เมื่อมี 4+ [KnowledgeExplored], รีเซ็ตจำนวนให้เป็น 1 (หากสกิลนี้ได้ฆ่าศัตรู, รีเซ็ตจำนวนให้เป็น 3 แทน)\u200B</line-height>",
           "coinlist": [
             {},
             {},

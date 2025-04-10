@@ -519,7 +519,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] หากยูนิทนี้ ที่จ่ายไป ขั้น [Charge] , มอบ 2 [DefenseDown]</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] หากยูนิทนี้ จ่ายไป ขั้น [Charge] , มอบ 2 [DefenseDown]</style>\u200B</line-height>"
                 }
               ]
             },
@@ -543,14 +543,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] หากยูนิทนี้ ที่จ่ายไป ขั้น [Charge] , มอบ 2 [DefenseDown]</style>\u200B</line-height>"
+                  "desc": "<line-height=130%><style=\"highlight\">[OnSucceedAttack] หากยูนิทนี้ จ่ายไป ขั้น [Charge] , มอบ 2 [DefenseDown]</style>\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้ ที่จ่ายไป ขั้น [Charge] , มอบ 2 [DefenseDown]<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากยูนิทนี้ จ่ายไป ขั้น [Charge] , มอบ 2 [DefenseDown]<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             },
@@ -818,7 +818,7 @@
         {
           "level": 4,
           "name": "<line-height=120%>สวดวิญญาณ\u200B</line-height>",
-          "desc": "<line-height=130%>[WinDuel] ฟื้นฟู 10 ค่าสติ\n[BeforeUse] หากยูนิทนี้มี [NightPathfinding], เปิดใช้งาน 'โศกา อาวรณ์ สิ้นหวัง' แทน\n[WhenUse] แต้มเหรียญ +1 for <style=\"highlight\">every 3</style> [Sinking] ของเป้าหมาย (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +12%  ต่อทุกๆ [Coffin] ของตัวเอง (สูงสุด 120%)\n[WhenUse] ได้รับ 1 [Coffin]\n[EndSkill] หากสกิลนี้ฆ่าเป้าหมายได้ ได้รับ 2 [Coffin]\u200B</line-height>",
+          "desc": "<line-height=130%>[WinDuel] ฟื้นฟู 10 ค่าสติ\n[BeforeUse] หากยูนิทนี้มี [NightPathfinding], เปิดใช้งาน 'โศกา อาวรณ์ สิ้นหวัง' แทน\n[WhenUse] แต้มเหรียญ +1 ต่อ <style=\"highlight\">every 3</style> [Sinking] ของเป้าหมาย (สูงสุด <style=\"highlight\">4</style>)\n[WhenUse] ทำ ความเสียหายเพิ่มเติม +12%  ต่อทุกๆ [Coffin] ของตัวเอง (สูงสุด 120%)\n[WhenUse] ได้รับ 1 [Coffin]\n[EndSkill] หากสกิลนี้ฆ่าเป้าหมายได้ ได้รับ 2 [Coffin]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

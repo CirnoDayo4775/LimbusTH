@@ -125,7 +125,7 @@
           "level": 1,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ [Charge] +8 ขั้น\n[EndSkill] มอบ [Charge] +8 ขั้น to 1 พันธมิตรแบบสุ่ม with the least ขั้น [Charge] \n- Number of affected พันธมิตร grows ไป (highest Envy Reson. - 2) (สูงสุด 3)\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ [Charge] +8 ขั้น\n[EndSkill] มอบ [Charge] +8 ขั้น แก่ 1 พันธมิตรแบบสุ่ม ที่มี ขั้น [Charge] ต่ำที่สุด \n- Number of affected พันธมิตร grows ไป (highest Envy Reson. - 2) (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -140,7 +140,7 @@
           "level": 3,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ [Charge] +8 ขั้น\n[EndSkill] มอบ [Charge] +8 ขั้น to 1 พันธมิตรแบบสุ่ม with the least ขั้น [Charge] \n- Number of affected พันธมิตร grows ไป (highest Envy Reson. - 2) (สูงสุด 4)\n- เมื่อมี 4+ (highest Envy Reson.), มอบ 1 [VioletDamageUp] แก่ตัวเอง และ all affected พันธมิตร\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ [Charge] +8 ขั้น\n[EndSkill] มอบ [Charge] +8 ขั้น แก่ 1 พันธมิตรแบบสุ่ม ที่มี ขั้น [Charge] ต่ำที่สุด \n- Number of affected พันธมิตร grows ไป (highest Envy Reson. - 2) (สูงสุด 4)\n- เมื่อมี 4+ (highest Envy Reson.), มอบ 1 [VioletDamageUp] แก่ตัวเอง และ all affected พันธมิตร\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -155,7 +155,7 @@
           "level": 4,
           "name": "<line-height=120%>Electric Screaming\u200B</line-height>",
           "abName": "Dreaming Electric Sheep",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ [Charge] +2 ขั้น\n[EndSkill] มอบ [Charge] +8 ขั้น to 1 พันธมิตรแบบสุ่ม with the least ขั้น [Charge] \n- Number of affected พันธมิตร grows ไป (highest Envy Reson. - 2) (สูงสุด <style=\"highlight\">5</style>)\n- เมื่อมี 4+ (highest Envy Reson.), มอบ 1 [VioletDamageUp] แก่ตัวเอง และ all affected พันธมิตร\n<style=\"highlight\">- เมื่อมี 6+ (highest Envy Reson.), มอบ 1 [VioletDamageUp] แก่ตัวเอง และ all affected พันธมิตร</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ [Charge] +2 ขั้น\n[EndSkill] มอบ [Charge] +8 ขั้น แก่ 1 พันธมิตรแบบสุ่ม ที่มี ขั้น [Charge] ต่ำที่สุด \n- Number of affected พันธมิตร grows ไป (highest Envy Reson. - 2) (สูงสุด <style=\"highlight\">5</style>)\n- เมื่อมี 4+ (highest Envy Reson.), มอบ 1 [VioletDamageUp] แก่ตัวเอง และ all affected พันธมิตร\n<style=\"highlight\">- เมื่อมี 6+ (highest Envy Reson.), มอบ 1 [VioletDamageUp] แก่ตัวเอง และ all affected พันธมิตร</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -320,7 +320,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย<style=\"highlight\">(1 + (Reson สูงสุด./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)\u200B</line-height>"
+                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย<style=\"highlight\">(1 + (Reson สูงสุด./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ จำนวนที่ถูกเปิดใช้)\u200B</line-height>"
                 }
               ]
             }
@@ -371,7 +371,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย(1 + (Reson สูงสุด./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย(1 + (Reson สูงสุด./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ จำนวนที่ถูกเปิดใช้)<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%><style=\"highlight\">[EnemyKill] When ทำ ing excess ความเสียหาย past the enemy's remaining HP, ทำ the excess ความเสียหายเป็น ความเสียหายตรง betweenศัตรูทั้งหมด. (min 1)</style>\u200B</line-height>"
@@ -475,7 +475,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย<style=\"highlight\">(1 + (Reson สูงสุด./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)</style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย<style=\"highlight\">(1 + (Reson สูงสุด./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ จำนวนที่ถูกเปิดใช้)</style>\u200B</line-height>"
                 }
               ]
             }
@@ -529,7 +529,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย(1 + (Reson สูงสุด./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ the number of times it was activated)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[WinDuelAttack] บังคับใช้ผลของ [Laceration] ของเป้าหมาย(1 + (Reson สูงสุด./2)) times. (สูงสด 3 ครั้ง; เป้าหมายเสีย ขั้น [Laceration] เท่ากับ จำนวนที่ถูกเปิดใช้)<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%><style=\"highlight\">[EnemyKill] When ทำ ing excess ความเสียหาย past the enemy's remaining HP, ทำ the excess ความเสียหายเป็น ความเสียหายตรง betweenศัตรูทั้งหมด. (min 1)</style>\u200B</line-height>"

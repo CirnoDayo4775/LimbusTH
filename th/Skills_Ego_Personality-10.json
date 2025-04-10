@@ -33,7 +33,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttackHead] มอบ 3 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 2 พันธมิตร with the lowest HP ไป 12% ของ HPสูงสุด.\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 2 พันธมิตรที่มี the lowest HP ไป 12% ของ HPสูงสุด.\u200B</line-height>"
                 }
               ]
             }
@@ -51,7 +51,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 2 พันธมิตร with the lowest HP ไป 15% ของ HPสูงสุด.\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 2 พันธมิตรที่มี the lowest HP ไป 15% ของ HPสูงสุด.\u200B</line-height>"
                 }
               ]
             }
@@ -287,7 +287,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">14%</style> of HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่ตัวเอง และ <style=\"highlight\">(1 + (Reson สูงสุด. - 2))</style> พันธมิตร with the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n<style=\"highlight\">(สูงสุด # of other พันธมิตร that ได้รับ [ShieldManagerCryingToad]: 3)</style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">14%</style> of HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่ตัวเอง และ <style=\"highlight\">(1 + (Reson สูงสุด. - 2))</style> พันธมิตรที่มี the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n<style=\"highlight\">(สูงสุด # of พันธมิตรอื่น that ได้รับ [ShieldManagerCryingToad]: 3)</style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
@@ -308,7 +308,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">20%</style> of HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่ตัวเอง และ (1 + (Reson สูงสุด. - 2)) พันธมิตร with the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n(สูงสุด # of other พันธมิตร that ได้รับ [ShieldManagerCryingToad]: 3)\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">20%</style> of HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่ตัวเอง และ (1 + (Reson สูงสุด. - 2)) พันธมิตรที่มี the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n(สูงสุด # of พันธมิตรอื่น that ได้รับ [ShieldManagerCryingToad]: 3)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"

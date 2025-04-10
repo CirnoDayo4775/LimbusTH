@@ -7,7 +7,7 @@
           "level": 1,
           "name": "<line-height=120%>Garden of Thorns\u200B</line-height>",
           "abName": "Sign of Roses",
-          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 3+ Reson สูงสุด., Atk Weight +1\n[WhenUse] มอบ 1 '(Corresponding Sin Affinity) [AttackDmgUp]' และ '1 (Corresponding Sin Affinity) Power Up' to (1 + # of Reson สูงสุด.) พันธมิตร.\n- เมื่อมี 4+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) [AttackDmgUp]'\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 3+ Reson สูงสุด., Atk Weight +1\n[WhenUse] มอบ 1 '(Corresponding Sin Affinity) [AttackDmgUp]' และ '1 (Corresponding Sin Affinity) Power Up' to (1 + # จำนวน Reson สูงสุด.) พันธมิตร.\n- เมื่อมี 4+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) [AttackDmgUp]'\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -22,7 +22,7 @@
           "level": 3,
           "name": "<line-height=120%>Garden of Thorns\u200B</line-height>",
           "abName": "Sign of Roses",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (# of Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\n[WhenUse] มอบ 1 '(Corresponding Sin Affinity) [AttackDmgUp]' และ '1 (Corresponding Sin Affinity) Power Up' to (2 + # of Reson สูงสุด.) พันธมิตร.\n- เมื่อมี 4+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) [AttackDmgUp]'\n- เมื่อมี 5+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) Power Up'\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (# จำนวน Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\n[WhenUse] มอบ 1 '(Corresponding Sin Affinity) [AttackDmgUp]' และ '1 (Corresponding Sin Affinity) Power Up' to (2 + # จำนวน Reson สูงสุด.) พันธมิตร.\n- เมื่อมี 4+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) [AttackDmgUp]'\n- เมื่อมี 5+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) Power Up'\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -37,7 +37,7 @@
           "level": 4,
           "name": "<line-height=120%>Garden of Thorns\u200B</line-height>",
           "abName": "Sign of Roses",
-          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (# of Reson สูงสุด. - 2) Atk Weight (สูงสุด 3)\n[WhenUse] มอบ 1 '(Corresponding Sin Affinity) [AttackDmgUp]' และ '1 (Corresponding Sin Affinity) Power Up' to (4 + # of Reson สูงสุด.) พันธมิตร.\n- เมื่อมี 4+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) [AttackDmgUp]'\n- เมื่อมี 5+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) Power Up'\n- เมื่อมี 6+ Corresponding A-Reson., มอบ the above effects ในเทิร์นหน้า เช่นกัน\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] ได้รับ (# จำนวน Reson สูงสุด. - 2) Atk Weight (สูงสุด 3)\n[WhenUse] มอบ 1 '(Corresponding Sin Affinity) [AttackDmgUp]' และ '1 (Corresponding Sin Affinity) Power Up' to (4 + # จำนวน Reson สูงสุด.) พันธมิตร.\n- เมื่อมี 4+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) [AttackDmgUp]'\n- เมื่อมี 5+ Corresponding Reson., มอบเพิ่มเติมอีก 1 '(Corresponding Sin Affinity) Power Up'\n- เมื่อมี 6+ Corresponding A-Reson., มอบ the above effects ในเทิร์นหน้า เช่นกัน\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -116,7 +116,7 @@
           "level": 1,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 10 ค่าสติ แก่ตัวเอง และ 2 other พันธมิตรที่มี ค่าสติ ต่ำที่สุด\n- หาก เป้าหมายรอด this attack, จ่าย 5 ขั้น [Sinking] ของเป้าหมาย, จากนั้น ฟื้นฟู additional SP(แก่ตัวเอง & affected พันธมิตร) เท่ากับ ปริมาณ [Sinking] ของเป้าหมาย (สูงสุด ค่าสติ ฟื้นฟู: 20)\n- หากเป้าหมายตาย, มอบ 3 [Sinking] แก่ 2 ศัตรูแบบสุ่ม (For Focused Encounters, random Parts)\u200B</line-height>",
+          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 10 ค่าสติ แก่ตัวเอง และ 2 พันธมิตรอื่นที่มี ค่าสติ ต่ำที่สุด\n- หาก เป้าหมายรอด this attack, จ่าย 5 ขั้น [Sinking] ของเป้าหมาย, จากนั้น ฟื้นฟู additional SP(แก่ตัวเอง & affected พันธมิตร) เท่ากับ ปริมาณ [Sinking] ของเป้าหมาย (สูงสุด ค่าสติ ฟื้นฟู: 20)\n- หากเป้าหมายตาย, มอบ 3 [Sinking] แก่ 2 ศัตรูแบบสุ่ม (For Focused Encounters, random Parts)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -129,7 +129,7 @@
           "level": 3,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู <style=\"highlight\">12</style> ค่าสติ แก่ตัวเอง และ 2 other พันธมิตรที่มี ค่าสติ ต่ำที่สุด\n- หาก เป้าหมายรอด this attack, จ่าย 5 ขั้น [Sinking] ของเป้าหมาย, จากนั้น ฟื้นฟู additional SP(แก่ตัวเอง & affected พันธมิตร) เท่ากับ ปริมาณ [Sinking] ของเป้าหมาย (สูงสุด ค่าสติ ฟื้นฟู: 20)\n- หากเป้าหมายตาย, มอบ 3 [Sinking] และ <style=\"highlight\">1 [Curse]</style> แก่ 2 ศัตรูแบบสุ่ม (For Focused Encounters, random Parts)\u200B</line-height>",
+          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู <style=\"highlight\">12</style> ค่าสติ แก่ตัวเอง และ 2 พันธมิตรอื่นที่มี ค่าสติ ต่ำที่สุด\n- หาก เป้าหมายรอด this attack, จ่าย 5 ขั้น [Sinking] ของเป้าหมาย, จากนั้น ฟื้นฟู additional SP(แก่ตัวเอง & affected พันธมิตร) เท่ากับ ปริมาณ [Sinking] ของเป้าหมาย (สูงสุด ค่าสติ ฟื้นฟู: 20)\n- หากเป้าหมายตาย, มอบ 3 [Sinking] และ <style=\"highlight\">1 [Curse]</style> แก่ 2 ศัตรูแบบสุ่ม (For Focused Encounters, random Parts)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -142,7 +142,7 @@
           "level": 4,
           "name": "<line-height=120%>Bygone Days\u200B</line-height>",
           "abName": "Portrait of a Certain Day",
-          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู <style=\"highlight\">15</style> ค่าสติ แก่ตัวเอง และ 2 other พันธมิตรที่มี ค่าสติ ต่ำที่สุด\n- หาก เป้าหมายรอด this attack, จ่าย <style=\"highlight\">3</style> ขั้น [Sinking] ของเป้าหมาย, จากนั้น ฟื้นฟู additional SP(แก่ตัวเอง & affected พันธมิตร) เท่ากับ ปริมาณ [Sinking] ของเป้าหมาย (สูงสุด ค่าสติ ฟื้นฟู: 20)\n- หากเป้าหมายตาย, มอบ 3 [Sinking] และ 1 [Curse]บน<style=\"highlight\">3</style> random enemies (For Focused Encounters, random Parts)\u200B</line-height>",
+          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู <style=\"highlight\">15</style> ค่าสติ แก่ตัวเอง และ 2 พันธมิตรอื่นที่มี ค่าสติ ต่ำที่สุด\n- หาก เป้าหมายรอด this attack, จ่าย <style=\"highlight\">3</style> ขั้น [Sinking] ของเป้าหมาย, จากนั้น ฟื้นฟู additional SP(แก่ตัวเอง & affected พันธมิตร) เท่ากับ ปริมาณ [Sinking] ของเป้าหมาย (สูงสุด ค่าสติ ฟื้นฟู: 20)\n- หากเป้าหมายตาย, มอบ 3 [Sinking] และ 1 [Curse]บน<style=\"highlight\">3</style> ศัตรูแบบสุ่ม (For Focused Encounters, random Parts)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -228,7 +228,7 @@
           "level": 1,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "<line-height=130%>When this Skill flips Coins, each เหรียญ flips แก่ศัตรู 1 คน แบบสุ่ม among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects และ all ความเสียหาย ทำ t ไป each เหรียญ are inflicted only แก่ the random target the เหรียญ selected.\nเมื่อทำการมอบ [SinkingWhite] ด้วยสกิลนี้ effects: (Chance to flip Heads)% chance เพื่อมอบ The Departed. หากยูนิทนี้ did not มอบ The Departed, มอบ The Living แทน. (calculates every [SinkingWhite] stack independently)\u200B</line-height>",
+          "desc": "<line-height=130%>When this Skill flips Coins, each เหรียญ flips แก่ศัตรู 1 คน แบบสุ่ม among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects และ all ความเสียหาย ทำ t ไป each เหรียญ are inflicted only แก่ the random target the เหรียญ selected.\nเมื่อทำการมอบ [SinkingWhite] ด้วยสกิลนี้ effects: (Chance to flip Heads)% chance เพื่อมอบ The Departed. หากยูนิทนี้ did not มอบ The Departed, มอบ The Living แทน. (calculates every [SinkingWhite] จำนวน independently)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -253,7 +253,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] เสีย 2~6 ค่าสติ\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 0+ ค่าสติ ใช้เหรียญนี้อีกครั้ง (สูงสด 5 ครั้ง ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 0+ ค่าสติ ใช้เหรียญนี้อีกครั้ง (สูงสด 5 ครั้ง ต่อสกิล)\u200B</line-height>"
                 }
               ]
             }
@@ -263,7 +263,7 @@
           "level": 3,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "<line-height=130%>When this Skill flips Coins, each เหรียญ flips แก่ศัตรู 1 คน แบบสุ่ม among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects และ all ความเสียหาย ทำ t ไป each เหรียญ are inflicted only แก่ the random target the เหรียญ selected.\nเมื่อทำการมอบ [SinkingWhite] ด้วยสกิลนี้ effects: (Chance to flip Heads)% chance เพื่อมอบ The Departed. หากยูนิทนี้ did not มอบ The Departed, มอบ The Living แทน. (calculates every [SinkingWhite] stack independently)\n<style=\"highlight\">[EndSkill] ฟื้นฟู (# of เหรียญ 3 hits x 2) SP</style>\u200B</line-height>",
+          "desc": "<line-height=130%>When this Skill flips Coins, each เหรียญ flips แก่ศัตรู 1 คน แบบสุ่ม among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects และ all ความเสียหาย ทำ t ไป each เหรียญ are inflicted only แก่ the random target the เหรียญ selected.\nเมื่อทำการมอบ [SinkingWhite] ด้วยสกิลนี้ effects: (Chance to flip Heads)% chance เพื่อมอบ The Departed. หากยูนิทนี้ did not มอบ The Departed, มอบ The Living แทน. (calculates every [SinkingWhite] จำนวน independently)\n<style=\"highlight\">[EndSkill] ฟื้นฟู (# of เหรียญ 3 hits x 2) SP</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -288,7 +288,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] เสีย 2~6 SP<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 0+ ค่าสติ ใช้เหรียญนี้อีกครั้ง (สูงสด 5 ครั้ง ต่อทุกๆ Skill)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 0+ ค่าสติ ใช้เหรียญนี้อีกครั้ง (สูงสด 5 ครั้ง ต่อสกิล)<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -298,7 +298,7 @@
           "level": 4,
           "name": "<line-height=120%>Solemn Lament\u200B</line-height>",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "<line-height=130%>When this Skill flips Coins, each เหรียญ flips แก่ศัตรู 1 คน แบบสุ่ม among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects และ all ความเสียหาย ทำ t ไป each เหรียญ are inflicted only แก่ the random target the เหรียญ selected.\nเมื่อทำการมอบ [SinkingWhite] ด้วยสกิลนี้ effects: (Chance to flip Heads)% chance เพื่อมอบ The Departed. หากยูนิทนี้ did not มอบ The Departed, มอบ The Living แทน. (calculates every [SinkingWhite] stack independently)\n[EndSkill] ฟื้นฟู <style=\"highlight\">(# of เหรียญ 3 hits x 3)</style> ค่าสติ\u200B</line-height>",
+          "desc": "<line-height=130%>When this Skill flips Coins, each เหรียญ flips แก่ศัตรู 1 คน แบบสุ่ม among its targets.\n- The first เหรียญ always targets the main target.\n- All 'On Hit' effects และ all ความเสียหาย ทำ t ไป each เหรียญ are inflicted only แก่ the random target the เหรียญ selected.\nเมื่อทำการมอบ [SinkingWhite] ด้วยสกิลนี้ effects: (Chance to flip Heads)% chance เพื่อมอบ The Departed. หากยูนิทนี้ did not มอบ The Departed, มอบ The Living แทน. (calculates every [SinkingWhite] จำนวน independently)\n[EndSkill] ฟื้นฟู <style=\"highlight\">(# of เหรียญ 3 hits x 3)</style> ค่าสติ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -323,7 +323,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] เสีย 2~6 SP<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 0+ ค่าสติ ใช้เหรียญนี้อีกครั้ง (สูงสด 5 ครั้ง ต่อทุกๆ Skill)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เมื่อมี 0+ ค่าสติ ใช้เหรียญนี้อีกครั้ง (สูงสด 5 ครั้ง ต่อสกิล)<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -424,7 +424,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Sinking]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก target is in Staggered, Low Morale, หรือ Panic states, มอบ 1 [Reduction] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี in Staggered, Low Morale, หรือ Panic states, มอบ 1 [Reduction] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -449,13 +449,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู (2 + Reson สูงสุด.)% ของ the HP ที่เสียไปของตัวเอง (สูงสุด 30% ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู (2 + Reson สูงสุด.)% ของ the HP ที่เสียไปของตัวเอง (สูงสุด 30% ต่อสกิล)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Sinking]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก target is in Staggered, Low Morale, หรือ Panic states, มอบ 1 [Reduction] ในเทิร์นหน้า<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี in Staggered, Low Morale, หรือ Panic states, มอบ 1 [Reduction] ในเทิร์นหน้า<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -480,13 +480,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู (<style=\"highlight\">3</style> + Reson สูงสุด.)% ของ the HP ที่เสียไปของตัวเอง (สูงสุด 30% ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู (<style=\"highlight\">3</style> + Reson สูงสุด.)% ของ the HP ที่เสียไปของตัวเอง (สูงสุด 30% ต่อสกิล)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Sinking]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก target is in Staggered, Low Morale, หรือ Panic states, มอบ 1 [Reduction] <style=\"highlight\">and Fragility[TabExplain] แก่ the Affinity of the Reson สูงสุด.</style> ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี in Staggered, Low Morale, หรือ Panic states, มอบ 1 [Reduction] <style=\"highlight\">and Fragility[TabExplain] แก่ the Affinity of the Reson สูงสุด.</style> ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -519,7 +519,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Sinking]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก target is in Staggered, Low Morale, หรือ Panic states, มอบ 1 [Reduction] ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี in Staggered, Low Morale, หรือ Panic states, มอบ 1 [Reduction] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -544,13 +544,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู (2 + Reson สูงสุด.)% ของ the HP ที่เสียไป (สูงสุด 30% ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู (2 + Reson สูงสุด.)% ของ the HP ที่เสียไป (สูงสุด 30% ต่อสกิล)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Sinking]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก target is in Staggered, Low Morale, หรือ Panic states, มอบ 1 [Reduction] ในเทิร์นหน้า<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี in Staggered, Low Morale, หรือ Panic states, มอบ 1 [Reduction] ในเทิร์นหน้า<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -575,13 +575,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู (<style=\"highlight\">3</style> + Reson สูงสุด.)% ของ the HP ที่เสียไปของตัวเอง (สูงสุด 30% ต่อทุกๆ Skill)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู (<style=\"highlight\">3</style> + Reson สูงสุด.)% ของ the HP ที่เสียไปของตัวเอง (สูงสุด 30% ต่อสกิล)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Sinking]<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หาก target is in Staggered, Low Morale, หรือ Panic states, มอบ 1 [Reduction] <style=\"highlight\">and 2 Fragility[TabExplain] แก่ the Affinity of the Reson สูงสุด.</style> ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี in Staggered, Low Morale, หรือ Panic states, มอบ 1 [Reduction] <style=\"highlight\">and 2 Fragility[TabExplain] แก่ the Affinity of the Reson สูงสุด.</style> ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
