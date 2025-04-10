@@ -72,7 +72,7 @@
           "level": 1,
           "name": "<line-height=120%>Effervescent Corrosion\u200B</line-height>",
           "abName": "Ambling Pearl",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -90,7 +90,7 @@
           "level": 3,
           "name": "<line-height=120%>Effervescent Corrosion\u200B</line-height>",
           "abName": "Ambling Pearl",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] หาก main target has 50%+ HP, Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] หาก main target has 50%+ HP, Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -111,7 +111,7 @@
           "level": 4,
           "name": "<line-height=120%>Effervescent Corrosion\u200B</line-height>",
           "abName": "Ambling Pearl",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] หาก main target has 50%+ HP, Atk Weight +1;\nหากเป้าหมายหลักมี 75%+ HP, additional Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] หาก main target has 50%+ HP, Atk Weight +1;\nหากเป้าหมายหลักมี 75%+ HP, additional Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -135,17 +135,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Pursuance\u200B</line-height>",
+          "name": "<line-height=120%>แสวงบุญ\u200B</line-height>",
           "abName": "Heavenly Executor’s Scribe",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] มอบ 1 Sloth Fragility ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] มอบ 1 [AmberTakeDamageUp] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด for 15% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 15% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>"
                 }
               ]
             }
@@ -153,17 +153,17 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Pursuance\u200B</line-height>",
+          "name": "<line-height=120%>แสวงบุญ\u200B</line-height>",
           "abName": "Heavenly Executor’s Scribe",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] มอบ 1 Sloth Fragility ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] มอบ 1 [AmberTakeDamageUp] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด for 25% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 25% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[EndSkillHead] หากเป้าหมาย Stagger หรือ ตาย, มอบ 10% ของ HPสูงสุด ของยูนิทนี้มาเป็นโล่ to พันธมิตร that ยูนิทนี้ ฟื้นฟูed\u200B</line-height>"
@@ -174,17 +174,17 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Pursuance\u200B</line-height>",
+          "name": "<line-height=120%>แสวงบุญ\u200B</line-height>",
           "abName": "Heavenly Executor’s Scribe",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 Sloth Fragility ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [AmberTakeDamageUp] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด for 30% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 30% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[EndSkillHead] หากเป้าหมาย Stagger หรือ ตาย, มอบ 15% ของ HPสูงสุด ของยูนิทนี้มาเป็นโล่ to พันธมิตร that ยูนิทนี้ ฟื้นฟูed\u200B</line-height>"
@@ -200,9 +200,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Pursuance\u200B</line-height>",
+          "name": "<line-height=120%>แสวงบุญ\u200B</line-height>",
           "abName": "Heavenly Executor’s Scribe",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -218,9 +218,9 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Pursuance\u200B</line-height>",
+          "name": "<line-height=120%>แสวงบุญ\u200B</line-height>",
           "abName": "Heavenly Executor’s Scribe",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -239,9 +239,9 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Pursuance\u200B</line-height>",
+          "name": "<line-height=120%>แสวงบุญ\u200B</line-height>",
           "abName": "Heavenly Executor’s Scribe",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +2\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -332,7 +332,7 @@
           "level": 1,
           "name": "<line-height=120%>Sanguine Desire\u200B</line-height>",
           "abName": "The Red Shoes",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ (# จำนวน Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] ได้รับ (# จำนวน Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -348,7 +348,7 @@
           "level": 3,
           "name": "<line-height=120%>Sanguine Desire\u200B</line-height>",
           "abName": "The Red Shoes",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ (# จำนวน Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] ได้รับ (# จำนวน Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -367,7 +367,7 @@
           "level": 4,
           "name": "<line-height=120%>Sanguine Desire\u200B</line-height>",
           "abName": "The Red Shoes",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ (# จำนวน Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] ได้รับ (# จำนวน Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -389,9 +389,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Hex Nail\u200B</line-height>",
+          "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู ตัวเอง และ 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด for 12.5% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>",
+          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู ตัวเอง และ 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 12.5% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -414,9 +414,9 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Hex Nail\u200B</line-height>",
+          "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู ตัวเอง และ 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด for 12.5% ของ HPสูงสุด ของยูนิทนี้\n<style=\"highlight\">- Each ฟื้นฟู-receiving unit ฟื้นฟู +2.5% more HP ต่อทุกๆ 2 negative effectบนthemselves (สูงสุด 7.5)</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู ตัวเอง และ 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 12.5% ของ HPสูงสุด ของยูนิทนี้\n<style=\"highlight\">- Each ฟื้นฟู-receiving unit ฟื้นฟู +2.5% more HP ต่อทุกๆ 2 negative effectบนthemselves (สูงสุด 7.5)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -439,9 +439,9 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Hex Nail\u200B</line-height>",
+          "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู ตัวเอง และ 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด for <style=\"highlight\">15%</style> of HPสูงสุด ของยูนิทนี้\n- Each ฟื้นฟู-receiving unit ฟื้นฟู +2.5% more HP for <style=\"highlight\">every</style> negative effectบนthemselves (สูงสุด <style=\"highlight\">10%</style>)\n<style=\"highlight\">- เมื่อมี 4+ Envy Reson. โดยมีสกิลนี้ในนั้น ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู ตัวเอง และ 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน <style=\"highlight\">15%</style> of HPสูงสุด ของยูนิทนี้\n- Each ฟื้นฟู-receiving unit ฟื้นฟู +2.5% more HP for <style=\"highlight\">every</style> negative effectบนthemselves (สูงสุด <style=\"highlight\">10%</style>)\n<style=\"highlight\">- เมื่อมี 4+ Envy Reson. โดยมีสกิลนี้ในนั้น ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -469,9 +469,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Hex Nail\u200B</line-height>",
+          "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[EndSkill] ฟื้นฟู 3 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด for 15% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] ฟื้นฟู 3 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 15% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -497,9 +497,9 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Hex Nail\u200B</line-height>",
+          "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[EndSkill] ฟื้นฟู 3 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด for 15% ของ HPสูงสุด ของยูนิทนี้\n<style=\"highlight\">- Each ฟื้นฟู-receiving unit ได้รับ 1 [AttackUp] จนถึงเทิร์นหน้า ต่อทุกๆ 2 negative effectบนthemselves (สูงสุด 2)</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] ฟื้นฟู 3 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 15% ของ HPสูงสุด ของยูนิทนี้\n<style=\"highlight\">- Each ฟื้นฟู-receiving unit ได้รับ 1 [AttackUp] จนถึงเทิร์นหน้า ต่อทุกๆ 2 negative effectบนthemselves (สูงสุด 2)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -525,9 +525,9 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Hex Nail\u200B</line-height>",
+          "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[EndSkill] ฟื้นฟู 3 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด for <style=\"highlight\">20%</style> of HPสูงสุด ของยูนิทนี้\n- Each ฟื้นฟู-receiving unit ได้รับ 1 [AttackUp] จนถึงเทิร์นหน้า for <style=\"highlight\">every</style> negative effectบนthemselves (สูงสุด <style=\"highlight\">3</style>)\n<style=\"highlight\">- เมื่อมี 4+ Envy Reson. โดยมีสกิลนี้ในนั้น ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] ฟื้นฟู 3 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน <style=\"highlight\">20%</style> of HPสูงสุด ของยูนิทนี้\n- Each ฟื้นฟู-receiving unit ได้รับ 1 [AttackUp] จนถึงเทิร์นหน้า for <style=\"highlight\">every</style> negative effectบนthemselves (สูงสุด <style=\"highlight\">3</style>)\n<style=\"highlight\">- เมื่อมี 4+ Envy Reson. โดยมีสกิลนี้ในนั้น ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Lantern\u200B</line-height>",
+          "name": "<line-height=120%>ตะเกียง\u200B</line-height>",
           "abName": "Faelantern",
           "desc": "",
           "coinlist": [
@@ -23,7 +23,7 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Lantern\u200B</line-height>",
+          "name": "<line-height=120%>ตะเกียง\u200B</line-height>",
           "abName": "Faelantern",
           "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +1\u200B</line-height>",
           "coinlist": [
@@ -41,7 +41,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Lantern\u200B</line-height>",
+          "name": "<line-height=120%>ตะเกียง\u200B</line-height>",
           "abName": "Faelantern",
           "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +2\u200B</line-height>",
           "coinlist": [
@@ -64,7 +64,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Lantern\u200B</line-height>",
+          "name": "<line-height=120%>ตะเกียง\u200B</line-height>",
           "abName": "Faelantern",
           "desc": "<line-height=130%>[CantIdentify] \nTarget the unit with the most HP\u200B</line-height>",
           "coinlist": [
@@ -82,7 +82,7 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Lantern\u200B</line-height>",
+          "name": "<line-height=120%>ตะเกียง\u200B</line-height>",
           "abName": "Faelantern",
           "desc": "<line-height=130%>[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +1\u200B</line-height>",
           "coinlist": [
@@ -103,7 +103,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Lantern\u200B</line-height>",
+          "name": "<line-height=120%>ตะเกียง\u200B</line-height>",
           "abName": "Faelantern",
           "desc": "<line-height=130%>[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +2\u200B</line-height>",
           "coinlist": [
@@ -193,7 +193,7 @@
           "level": 1,
           "name": "<line-height=120%>9:2\u200B</line-height>",
           "abName": "Skin Prophet",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -211,7 +211,7 @@
           "level": 3,
           "name": "<line-height=120%>9:2\u200B</line-height>",
           "abName": "Skin Prophet",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] เมื่อมี 4+ (Lust Reson.), Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] เมื่อมี 4+ (Lust Reson.), Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -222,7 +222,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackTail] หากเป้าหมายมี 10+ [Combustion], มอบ 1 Lust Fragility ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackTail] หากเป้าหมายมี 10+ [Combustion], มอบ 1 [ScarletTakeDamageUp] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -232,7 +232,7 @@
           "level": 4,
           "name": "<line-height=120%>9:2\u200B</line-height>",
           "abName": "Skin Prophet",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] เมื่อมี 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] เมื่อมี 4+ (Highest Lust A-Reson), additional Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] เมื่อมี 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] เมื่อมี 4+ (Highest Lust A-Reson), additional Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -243,7 +243,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Combustion]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackTail] หากเป้าหมายมี 10+ [Combustion], มอบ 2 Lust Fragility ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackTail] หากเป้าหมายมี 10+ [Combustion], มอบ 2 [ScarletTakeDamageUp] ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
@@ -329,7 +329,7 @@
           "level": 1,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] เมื่อมี 4+ Reson สูงสุด., Atk Weight +1\n[BeforeAttack] ได้รับ +5 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] เมื่อมี 4+ Reson สูงสุด., Atk Weight +1\n[BeforeAttack] ได้รับ +5 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -353,7 +353,7 @@
           "level": 3,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n<style=\"highlight\">[BeforeAttack] ได้รับ (Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)</style>\n[BeforeAttack] ได้รับ <style=\"highlight\">+10 [Aggro]</style> แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n<style=\"highlight\">[BeforeAttack] ได้รับ (Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)</style>\n[BeforeAttack] ได้รับ <style=\"highlight\">+10 [Aggro]</style> แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -377,7 +377,7 @@
           "level": 4,
           "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
           "abName": "Blubbering Toad",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets Randomly\n[BeforeAttack] ได้รับ (Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\n[BeforeAttack] ได้รับ +10 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า<style=\"highlight\"></style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] ได้รับ (Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\n[BeforeAttack] ได้รับ +10 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -407,7 +407,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Hex Nail\u200B</line-height>",
+          "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
           "desc": "<line-height=130%>[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ reduce it ไป 2\u200B</line-height>",
           "coinlist": [
@@ -432,7 +432,7 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Hex Nail\u200B</line-height>",
+          "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
           "desc": "<line-height=130%><style=\"highlight\">[BeforeAttack] เมื่อมี 4+ Envy Reson. โดยมีสกิลนี้ในนั้น Atk Weight +1</style>\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ reduce it ไป 2\u200B</line-height>",
           "coinlist": [
@@ -460,7 +460,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Hex Nail\u200B</line-height>",
+          "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
           "desc": "<line-height=130%><style=\"highlight\">[BeforeAttack] ต่อทุกๆ 3 Envy Reson. โดยมีสกิลนี้ในนั้น Atk Weight +1 (สูงสุด 2)</style>\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ reduce it ไป 2\u200B</line-height>",
           "coinlist": [
@@ -496,9 +496,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Hex Nail\u200B</line-height>",
+          "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ reduce it ไป 2\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ reduce it ไป 2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -521,9 +521,9 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Hex Nail\u200B</line-height>",
+          "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ reduce it ไป 2<style=\"highlight\"></style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ reduce it ไป 2<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -549,9 +549,9 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Hex Nail\u200B</line-height>",
+          "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[CantIdentify]\nTargets randomly\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ reduce it ไป 2<style=\"highlight\"></style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ reduce it ไป 2<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
