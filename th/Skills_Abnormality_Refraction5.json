@@ -71,7 +71,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only แก่ the sub-targets\n- หาก the first เหรียญ failed to kill the ally or หากเป้าหมาย wasn't Staggered, 1 random sub-target ได้รับ ความเสียหาย\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only แก่ the sub-targets\n- หาก the first เหรียญ failed to kill the ally หรือ หากเป้าหมาย wasn't Staggered, 1 random sub-target ได้รับ ความเสียหาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Sinking]\u200B</line-height>"
@@ -173,7 +173,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Target Readjustment Fire\u200B</line-height>",
-          "desc": "<line-height=130%>[CantIdentify]\n[CantChangeTarget]\nPrioritizes the target with [FellBulletMark]\nIf ยูนิทนี้ failed to attack the Stigmatized target, cancel this Skill.\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Breath] ของตัวเอง (สูงสุด 2)\nแต้มตั้งต้น +1 ต่อทุกๆ 3 ขั้น [Breath] ของตัวเอง (สูงสุด 3)\n[EndSkill] หากเป้าหมาย ตาย, ได้รับ 10 [Breath] และ lower every enemy's ค่าสติ ไป 15\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\n[CantChangeTarget]\nให้ความสำคัญเป็นหลักกับ the target with [FellBulletMark]\nIf ยูนิทนี้ failed to attack the Stigmatized target, cancel this Skill.\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Breath] ของตัวเอง (สูงสุด 2)\nแต้มตั้งต้น +1 ต่อทุกๆ 3 ขั้น [Breath] ของตัวเอง (สูงสุด 3)\n[EndSkill] หากเป้าหมาย ตาย, ได้รับ 10 [Breath] และ lower every enemy's ค่าสติ ไป 15\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
