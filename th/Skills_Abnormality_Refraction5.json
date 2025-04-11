@@ -132,7 +132,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Designated Target Fire\u200B</line-height>",
-          "desc": "<line-height=130%>โจมตีศัครูที่มี [FellBulletMark]\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Breath] ของตัวเอง (สูงสุด 2)\nแต้มตั้งต้น +1 ต่อทุกๆ 3 ขั้น [Breath] ของตัวเอง (สูงสุด 3)\n[WhenUse] หาก the main target ไม่มี [FellBulletMark], ได้รับ 1 [Paralysis] และ 3 [Vulnerable]\n[EndSkill] หากเป้าหมาย ตาย, ได้รับ 10 [Breath] และ lower every enemy's ค่าสติ ไป 15\u200B</line-height>",
+          "desc": "<line-height=130%>โจมตีศัครูที่มี [FellBulletMark]\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Breath] ของตัวเอง (สูงสุด 2)\nแต้มตั้งต้น +1 ต่อทุกๆ 3 ขั้น [Breath] ของตัวเอง (สูงสุด 3)\n[WhenUse] หาก the เป้าหมายหลัก ไม่มี [FellBulletMark], ได้รับ 1 [Paralysis] และ 3 [Vulnerable]\n[EndSkill] หากเป้าหมาย ตาย, ได้รับ 10 [Breath] และ lower every enemy's ค่าสติ ไป 15\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -181,7 +181,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย only แก่ the main target\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย only แก่ the เป้าหมายหลัก\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[UnBrokenCoinOnSucceedAttack] หากเป้าหมายมี [FellBulletMark], ฆ่าเป้าหมายทันที\u200B</line-height>"
@@ -644,7 +644,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Nutrient Craving\u200B</line-height>",
-          "desc": "<line-height=130%>ทำงาน at 100+ [BloodDinner]\n[EndBattle] จ่ายสูงสุด 100 [BloodDinner] to เปิดใช้งานความสามารถดังนี้ effects:\n- ฟื้นฟู the Core และ the Body Parts' HP ไป [BloodDinner] ที่จ่ายไป\n- ได้รับ 1 [AttackUp] ในเทิร์นหน้า ต่อทุกๆ 20 [BloodDinner] ที่จ่ายไป\u200B</line-height>",
+          "desc": "<line-height=130%>ทำงาน at 100+ [BloodDinner]\n[EndBattle] จ่ายสูงสุด 100 [BloodDinner] to เปิดใช้งานความสามารถดังนี้ effects:\n- ฟื้นฟูCore และ the Body Parts' HP ไป [BloodDinner] ที่จ่ายไป\n- ได้รับ 1 [AttackUp] ในเทิร์นหน้า ต่อทุกๆ 20 [BloodDinner] ที่จ่ายไป\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -663,7 +663,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Brambles that Yearn\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่ายสูงสุด 100 [BloodDinner] to เปิดใช้งานความสามารถดังนี้ effects:\n- ฟื้นฟู the Core และ the Body Parts' HP ไป [BloodDinner] ที่จ่ายไป\n- สกิลนี้ได้รับ แต้มรวม +1 ต่อทุกๆ 20 [BloodDinner] ที่จ่ายไป\n[DefeatDuel] แต้มรวม -5\n[EndSkill] หากสกิลนี้จ่ายครบ less than 30 [BloodDinner], ได้รับ 2 [Vulnerable] ในเทิร์นหน้า\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่ายสูงสุด 100 [BloodDinner] to เปิดใช้งานความสามารถดังนี้ effects:\n- ฟื้นฟูCore และ the Body Parts' HP ไป [BloodDinner] ที่จ่ายไป\n- สกิลนี้ได้รับ แต้มรวม +1 ต่อทุกๆ 20 [BloodDinner] ที่จ่ายไป\n[DefeatDuel] แต้มรวม -5\n[EndSkill] หากสกิลนี้จ่ายครบ less than 30 [BloodDinner], ได้รับ 2 [Vulnerable] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

@@ -15,7 +15,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttackHead] มอบ 3 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 2 พันธมิตร ที่มี เปอร์เซนต์HP ต่ำที่สุดs ไป 10% ของ HPสูงสุด.\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 2 พันธมิตร ที่มี เปอร์เซนต์HP ต่ำที่สุด ไป 10% ของ HPสูงสุด.\u200B</line-height>"
                 }
               ]
             }
@@ -66,7 +66,7 @@
           "level": 1,
           "name": "<line-height=120%>ตะเกียง\u200B</line-height>",
           "abName": "Faelantern",
-          "desc": "<line-height=130%>[CantIdentify] \nTarget the unit with the most HP\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify] \nเล็งเป้ายูนิทที่มี the most HP\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -74,7 +74,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttackTail] มอบ [Burst] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู self ไป 30% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู HP ตนเอง ไป 30% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             }
@@ -84,7 +84,7 @@
           "level": 3,
           "name": "<line-height=120%>ตะเกียง\u200B</line-height>",
           "abName": "Faelantern",
-          "desc": "<line-height=130%>[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้ายูนิทที่มี the most HP\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -95,7 +95,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [DefenseDown]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู self ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู HP ตนเอง ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             }
@@ -105,7 +105,7 @@
           "level": 4,
           "name": "<line-height=120%>ตะเกียง\u200B</line-height>",
           "abName": "Faelantern",
-          "desc": "<line-height=130%>[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +2\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้ายูนิทที่มี the most HP\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -116,7 +116,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 5 [DefenseDown]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู self ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู HP ตนเอง ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
                 }
               ]
             }
@@ -256,7 +256,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
+          "name": "<line-height=120%>เสียงหวนจากโพรงถ้ำ\u200B</line-height>",
           "abName": "Blubbering Toad",
           "desc": "<line-height=130%>[BeforeAttack] เมื่อมี 4+ Reson สูงสุด., Atk Weight +1\u200B</line-height>",
           "coinlist": [
@@ -280,7 +280,7 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
+          "name": "<line-height=120%>เสียงหวนจากโพรงถ้ำ\u200B</line-height>",
           "abName": "Blubbering Toad",
           "desc": "<line-height=130%><style=\"highlight\">[BeforeAttack] ได้รับ (Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)</style>\u200B</line-height>",
           "coinlist": [
@@ -301,7 +301,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
+          "name": "<line-height=120%>เสียงหวนจากโพรงถ้ำ\u200B</line-height>",
           "abName": "Blubbering Toad",
           "desc": "<line-height=130%>[BeforeAttack] ได้รับ (Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
@@ -327,7 +327,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
+          "name": "<line-height=120%>เสียงหวนจากโพรงถ้ำ\u200B</line-height>",
           "abName": "Blubbering Toad",
           "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] เมื่อมี 4+ Reson สูงสุด., Atk Weight +1\n[BeforeAttack] ได้รับ +5 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
@@ -351,7 +351,7 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
+          "name": "<line-height=120%>เสียงหวนจากโพรงถ้ำ\u200B</line-height>",
           "abName": "Blubbering Toad",
           "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n<style=\"highlight\">[BeforeAttack] ได้รับ (Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)</style>\n[BeforeAttack] ได้รับ <style=\"highlight\">+10 [Aggro]</style> แก่สล็อตสกิลนี้ ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
@@ -375,7 +375,7 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Cavernous Wailing\u200B</line-height>",
+          "name": "<line-height=120%>เสียงหวนจากโพรงถ้ำ\u200B</line-height>",
           "abName": "Blubbering Toad",
           "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] ได้รับ (Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\n[BeforeAttack] ได้รับ +10 [Aggro] แก่สล็อตสกิลนี้ ในเทิร์นหน้า<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
@@ -421,7 +421,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ 3 ผลด้านลบ ของเป้าหมาย that aren't [Curse] หรือ [NailPersonality] (สูงสุด 2)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ 3 สถานะด้านลบ ของเป้าหมาย that aren't [Curse] หรือ [NailPersonality] (สูงสุด 2)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [NailPersonality]\u200B</line-height>"
@@ -446,7 +446,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ 3 ผลด้านลบ ของเป้าหมาย that aren't [Curse] หรือ [NailPersonality] (สูงสุด 2)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ 3 สถานะด้านลบ ของเป้าหมาย that aren't [Curse] หรือ [NailPersonality] (สูงสุด 2)<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">3</style> [NailPersonality]\u200B</line-height>"
@@ -474,7 +474,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ <style=\"highlight\">2</style> ผลด้านลบ ของเป้าหมาย that aren't [Curse] หรือ [NailPersonality] (สูงสุด 2)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ <style=\"highlight\">2</style> สถานะด้านลบ ของเป้าหมาย that aren't [Curse] หรือ [NailPersonality] (สูงสุด 2)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [NailPersonality]<style=\"highlight\"></style>\u200B</line-height>"

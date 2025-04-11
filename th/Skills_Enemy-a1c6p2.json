@@ -868,7 +868,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>โจมตีธรรมดา 4\u200B</line-height>",
-          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี ผลด้านลบมากที่สุด\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 3 [DefenseDown] ของเป้าหมาย (สูงสุด 3)\u200B</line-height>",
+          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี สถานะด้านลบมากที่สุด\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 3 [DefenseDown] ของเป้าหมาย (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -889,7 +889,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหายเพิ่มเติม +20%  ต่อทุกๆ 2 [AttackDown] ของเป้าหมาย (สูงสุด 100%)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] หากเป้าหมายมี 3+ ผลด้านลบ ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] หากเป้าหมายมี 3+ สถานะด้านลบ ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)\u200B</line-height>"
                 }
               ]
             }
@@ -1008,7 +1008,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เละไปซะ\u200B</line-height>",
-          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี ผลด้านลบมากที่สุด\n[WinDuel] แต้มเหรียญ +1 ต่อทุกๆ 3 [AttackDown] ของเป้าหมาย (สูงสุด 3)\u200B</line-height>",
+          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี สถานะด้านลบมากที่สุด\n[WinDuel] แต้มเหรียญ +1 ต่อทุกๆ 3 [AttackDown] ของเป้าหมาย (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1029,7 +1029,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหายเพิ่มเติม +30%  ต่อทุกๆ 2 [AttackDown] ของเป้าหมาย (สูงสุด 120%)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] หากเป้าหมายมี 3+ ผลด้านลบ ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] หากเป้าหมายมี 3+ สถานะด้านลบ ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)\u200B</line-height>"
                 }
               ]
             }

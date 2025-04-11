@@ -247,7 +247,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>... จัด แก\u200B</line-height>",
-          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี ผลด้านลบมากที่สุด\n[WinDuel] แต้มเหรียญ +1 ต่อทุกๆ 3 [DefenseDown] ของเป้าหมาย (สูงสุด 3)\u200B</line-height>",
+          "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี สถานะด้านลบมากที่สุด\n[WinDuel] แต้มเหรียญ +1 ต่อทุกๆ 3 [DefenseDown] ของเป้าหมาย (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -268,7 +268,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหายเพิ่มเติม +30%  ต่อทุกๆ 2 [AttackDown] ของเป้าหมาย (สูงสุด 120%)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] หากเป้าหมายมี 3+ ผลด้านลบ ใช้เหรียญนี้อีกครั้ง (ครั้งเดียว)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] หากเป้าหมายมี 3+ สถานะด้านลบ ใช้เหรียญนี้อีกครั้ง (ครั้งเดียว)\u200B</line-height>"
                 }
               ]
             }
@@ -320,7 +320,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>...เต้\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 2+ ผลด้านลบ แต้มตั้งต้น +1\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 2+ สถานะด้านลบ แต้มตั้งต้น +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -339,7 +339,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เฟ...ชห์\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 4+ ผลด้านลบ แต้มเหรียญ +1\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 4+ สถานะด้านลบ แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -368,7 +368,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>คอร์...อท์\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 5+ ผลด้านลบ แต้มตั้งต้น +2\n[WhenUse] หากเป้าหมายมี 5+ ผลด้านลบ ทำ +30% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 5+ สถานะด้านลบ แต้มตั้งต้น +2\n[WhenUse] หากเป้าหมายมี 5+ สถานะด้านลบ ทำ +30% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -383,10 +383,10 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Vulnerable] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 5+ ผลด้านลบ ใช้เหรียญนี้อีกครั้ง (สูงสด 2 ครั้ง)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 5+ สถานะด้านลบ ใช้เหรียญนี้อีกครั้ง (สูงสด 2 ครั้ง)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ลบ 1 ผลด้านลบแบบสุ่ม บนตัวเป้าหมายที่สามารถลบได้\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ลบ 1 สถานะด้านลบแบบสุ่ม บนตัวเป้าหมายที่สามารถลบได้\u200B</line-height>"
                 }
               ]
             }

@@ -204,7 +204,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 3+ ผลด้านลบ ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 3+ สถานะด้านลบ ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)\u200B</line-height>"
                 }
               ]
             }
@@ -218,7 +218,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ถุงศพ\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ ผลด้านลบ ของเป้าหมาย (สูงสุด 2)\n[DefeatDuel] ได้รับ 20 [DefenseDown]\n[DefeatDuel] ได้รับ 1 [AaCfPcBf]\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ สถานะด้านลบ ของเป้าหมาย (สูงสุด 2)\n[DefeatDuel] ได้รับ 20 [DefenseDown]\n[DefeatDuel] ได้รับ 1 [AaCfPcBf]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -267,7 +267,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>จิตวิกลของหมาป่าผู้บ้าคลั่ง\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 4)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ ผลด้านลบ ของเป้าหมาย (สูงสุด 2)\n[DefeatDuel] หากเป้าหมายมี [AaCfPcBg], เพิ่มขีด Stagger ของยูนิทนี้ ไป 100 ในเทิร์นหน้า. หากยูนิทนี้ ไม่มีขีด Stagger สร้างขีด Stagger ใหม่ที่ 0 0.\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มตั้งต้น +1 ต่อทุกๆ 5 [Laceration] ของเป้าหมาย (สูงสุด 4)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ สถานะด้านลบ ของเป้าหมาย (สูงสุด 2)\n[DefeatDuel] หากเป้าหมายมี [AaCfPcBg], เพิ่มขีด Stagger ของยูนิทนี้ ไป 100 ในเทิร์นหน้า. หากยูนิทนี้ ไม่มีขีด Stagger สร้างขีด Stagger ใหม่ที่ 0 0.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -448,7 +448,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [DefenseDown] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 3+ ผลด้านลบ ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 3+ สถานะด้านลบ ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)\u200B</line-height>"
                 }
               ]
             }
@@ -467,7 +467,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมาย ไม่มีขีด Stagger ทำ 200 ความเสียหาย HP.\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมาย ไม่มีขีด Stagger ทำ 200 ความเสียหายHP.\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] เพิ่มขีดStagger ไป 200\u200B</line-height>"
@@ -516,7 +516,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ 1 [Agility] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 4+ ผลด้านลบ ทำ 30% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติมฟัน\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 4+ สถานะด้านลบ ทำ 30% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติมฟัน\u200B</line-height>"
                 }
               ]
             }
@@ -590,7 +590,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [DefenseDown] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 3+ ผลด้านลบ ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 3+ สถานะด้านลบ ใช้เหรียญนี้อีกครั้ง (สูงสุด 1 ครั้ง)\u200B</line-height>"
                 }
               ]
             }
