@@ -25,7 +25,7 @@
           "level": 3,
           "name": "<line-height=120%>ฟองสมุทรกัดกร่อน\u200B</line-height>",
           "abName": "Ambling Pearl",
-          "desc": "<line-height=130%>[BeforeAttack] หาก เป้าหมายหลัก has 50%+ HP, Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] หากเป้าหมายหลักมี 50%+ HP, Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -46,7 +46,7 @@
           "level": 4,
           "name": "<line-height=120%>ฟองสมุทรกัดกร่อน\u200B</line-height>",
           "abName": "Ambling Pearl",
-          "desc": "<line-height=130%>[BeforeAttack] หาก เป้าหมายหลัก has 50%+ HP, Atk Weight +1;\nหากเป้าหมายหลักมี 75%+ HP, ได้เพิ่มอีก Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=130%>[BeforeAttack] หากเป้าหมายหลักมี 50%+ HP, Atk Weight +1;\nหากเป้าหมายหลักมี 75%+ HP, ได้เพิ่มอีก Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -90,7 +90,7 @@
           "level": 3,
           "name": "<line-height=120%>ฟองสมุทรกัดกร่อน\u200B</line-height>",
           "abName": "Ambling Pearl",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] หาก เป้าหมายหลัก has 50%+ HP, Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] หากเป้าหมายหลักมี 50%+ HP, Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -111,7 +111,7 @@
           "level": 4,
           "name": "<line-height=120%>ฟองสมุทรกัดกร่อน\u200B</line-height>",
           "abName": "Ambling Pearl",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] หาก เป้าหมายหลัก has 50%+ HP, Atk Weight +1;\nหากเป้าหมายหลักมี 75%+ HP, ได้เพิ่มอีก Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] หากเป้าหมายหลักมี 50%+ HP, Atk Weight +1;\nหากเป้าหมายหลักมี 75%+ HP, ได้เพิ่มอีก Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -145,7 +145,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttackHead] มอบ 1 [AmberTakeDamageUp] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 15% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 2 พันธมิตรอื่นที่มี เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 15% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>"
                 }
               ]
             }
@@ -163,10 +163,10 @@
                   "desc": "<line-height=130%>[OnSucceedAttackHead] มอบ 1 [AmberTakeDamageUp] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 25% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 2 พันธมิตรอื่นที่มี เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 25% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkillHead] หากเป้าหมาย Stagger หรือ ตาย, มอบ 10% ของ HPสูงสุด ของยูนิทนี้มาเป็นโล่ to พันธมิตร that ยูนิทนี้ ฟื้นฟูed\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkillHead] หากเป้าหมาย Stagger หรือ ตาย, มอบ 10% ของ HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่พันธมิตร ที่ยูนิทนี้ได้ฟื้นฟูให้\u200B</line-height>"
                 }
               ]
             }
@@ -184,10 +184,10 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 1 [AmberTakeDamageUp] ในเทิร์นหน้า\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 30% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] ฟื้นฟู 2 พันธมิตรอื่นที่มี เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 30% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkillHead] หากเป้าหมาย Stagger หรือ ตาย, มอบ 15% ของ HPสูงสุด ของยูนิทนี้มาเป็นโล่ to พันธมิตร that ยูนิทนี้ ฟื้นฟูed\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkillHead] หากเป้าหมาย Stagger หรือ ตาย, มอบ 15% ของ HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่พันธมิตร ที่ยูนิทนี้ได้ฟื้นฟูให้\u200B</line-height>"
                 }
               ]
             }
@@ -265,19 +265,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Sanguine Desire\u200B</line-height>",
+          "name": "<line-height=120%>ตัญหาสีโลหิต\u200B</line-height>",
           "abName": "The Red Shoes",
-          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 2 [Laceration] ของเป้าหมาย (สูงสุด 6)\n[StartBattle] The เป้าหมายหลัก สำหรับสกิลนี้ does not เสีย ขั้น [Laceration] ภายในเทิร์นนี้.\n[EndSkill] ใน 3 เทิร์นต่อจากนี้, เสีย 10 ค่าสติ ตอนจบเทิร์น.\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 2 [Laceration] ของเป้าหมาย (สูงสุด 6)\n[StartBattle] เป้าหมายหลักสำหรับสกิลนี้ ไม่เสียขึ้น [Laceration] ภายในเทิร์นนี้.\n[EndSkill] ใน 3 เทิร์นต่อจากนี้, เสีย 10 ค่าสติ ตอนจบเทิร์น.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ Lust Affinity ความเสียหาย เท่ากับ ปริมาณ [Laceration] ของเป้าหมาย.\n- เมื่อมี 4+ Lust Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration] ของเป้าหมาย x 1.2).\n(ปริมาณ [Laceration] up to only 99 will be used to calculate สำหรับสกิลนี้.)\u200B</line-height>",
-                  "summary": "[OnSucceedAttack] ทำ Lust Affinity ความเสียหาย basedบน[Laceration] ของเป้าหมาย"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ ความเสียหาย Lust Affinity เท่ากับ ปริมาณ [Laceration] ของเป้าหมาย.\n- เมื่อมี 4+ Lust Reson., มอบ ความเสียหาย Lust Affinity เท่ากับ (ปริมาณ [Laceration] ของเป้าหมาย x 1.2).\n(ปริมาณ [Laceration] สูงสุดที่จะนำมาคำนวณสำหรับสกิลนี้ คือ 99)\u200B</line-height>",
+                  "summary": "[OnSucceedAttack] ทำ ความเสียหาย Lust Affinity basedบน[Laceration] ของเป้าหมาย"
                 },
                 {
-                  "desc": "<line-height=130%>[EnemyKill] หาก this Skill หรือ its เหรียญ effects ทำ t ความเสียหาย that exceeds the target's(หากเป็นFocused Encounters, the Core's) remaining HP, ทำความเสียหายที่เกินมานั้น เป็น ความเสียหายตรง ระหว่างศัตรูทั้งหมด.\u200B</line-height>",
-                  "summary": "[EnemyKill] มอบ the excess ความเสียหาย ระหว่างศัตรูทั้งหมด."
+                  "desc": "<line-height=130%>[EnemyKill] หากสกิลนี้ หรือความสามารถเหรียญของมัน สร้างความเสียหาย ที่เกิน HP ที่เหลืออยู่ของเป้าหมาย (หากเป็นFocused Encounters, ตัวแกนกลาง), ทำความเสียหายที่เกินมานั้น เป็น ความเสียหายตรง ระหว่างศัตรูทั้งหมด.\u200B</line-height>",
+                  "summary": "[EnemyKill] มอบความเสียหายที่เกินมานั้น ระหว่างศัตรูทั้งหมด."
                 }
               ]
             }
@@ -285,19 +285,19 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Sanguine Desire\u200B</line-height>",
+          "name": "<line-height=120%>ตัญหาสีโลหิต\u200B</line-height>",
           "abName": "The Red Shoes",
-          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 2 [Laceration] ของเป้าหมาย (สูงสุด <style=\"highlight\">9</style>)\n[StartBattle] The เป้าหมายหลัก สำหรับสกิลนี้ does not เสีย ขั้น [Laceration] ภายในเทิร์นนี้.\n[EndSkill] ใน 3 เทิร์นต่อจากนี้, เสีย 10 ค่าสติ ตอนจบเทิร์น.\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 2 [Laceration] ของเป้าหมาย (สูงสุด <style=\"highlight\">9</style>)\n[StartBattle] เป้าหมายหลักสำหรับสกิลนี้ ไม่เสียขึ้น [Laceration] ภายในเทิร์นนี้.\n[EndSkill] ใน 3 เทิร์นต่อจากนี้, เสีย 10 ค่าสติ ตอนจบเทิร์น.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ Lust Affinity ความเสียหาย เท่ากับ <style=\"highlight\">(ปริมาณ [Laceration] ของเป้าหมาย x 1.2)</style>.\n- เมื่อมี 4+ Lust Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration] ของเป้าหมาย x <style=\"highlight\">1.5</style>).\n<style=\"highlight\">- เมื่อมี 4+ Lust A-Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration] ของเป้าหมาย x 1.8).</style>\n(ปริมาณ [Laceration] up to only 99 will be used to calculate สำหรับสกิลนี้.)\u200B</line-height>",
-                  "summary": "[OnSucceedAttack] ทำ Lust Affinity ความเสียหาย basedบน[Laceration] ของเป้าหมาย"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ ความเสียหาย Lust Affinity เท่ากับ <style=\"highlight\">(ปริมาณ [Laceration] ของเป้าหมาย x 1.2)</style>.\n- เมื่อมี 4+ Lust Reson., มอบ ความเสียหาย Lust Affinity เท่ากับ (ปริมาณ [Laceration] ของเป้าหมาย x <style=\"highlight\">1.5</style>).\n<style=\"highlight\">- เมื่อมี 4+ Lust A-Reson., มอบ ความเสียหาย Lust Affinity เท่ากับ (ปริมาณ [Laceration] ของเป้าหมาย x 1.8).</style>\n(ปริมาณ [Laceration] สูงสุดที่จะนำมาคำนวณสำหรับสกิลนี้ คือ 99)\u200B</line-height>",
+                  "summary": "[OnSucceedAttack] ทำ ความเสียหาย Lust Affinity basedบน[Laceration] ของเป้าหมาย"
                 },
                 {
-                  "desc": "<line-height=130%>[EnemyKill] หาก this Skill หรือ its เหรียญ effects ทำ t ความเสียหาย that exceeds the target's(หากเป็นFocused Encounters, the Core's) remaining HP, ทำความเสียหายที่เกินมานั้น เป็น ความเสียหายตรง ระหว่างศัตรูทั้งหมด.\u200B</line-height>",
-                  "summary": "[EnemyKill] มอบ the excess ความเสียหาย ระหว่างศัตรูทั้งหมด."
+                  "desc": "<line-height=130%>[EnemyKill] หากสกิลนี้ หรือความสามารถเหรียญของมัน สร้างความเสียหาย ที่เกิน HP ที่เหลืออยู่ของเป้าหมาย (หากเป็นFocused Encounters, ตัวแกนกลาง), ทำความเสียหายที่เกินมานั้น เป็น ความเสียหายตรง ระหว่างศัตรูทั้งหมด.\u200B</line-height>",
+                  "summary": "[EnemyKill] มอบความเสียหายที่เกินมานั้น ระหว่างศัตรูทั้งหมด."
                 }
               ]
             }
@@ -305,19 +305,19 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Sanguine Desire\u200B</line-height>",
+          "name": "<line-height=120%>ตัญหาสีโลหิต\u200B</line-height>",
           "abName": "The Red Shoes",
-          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 2 [Laceration] ของเป้าหมาย (สูงสุด <style=\"highlight\">13</style>)\n[StartBattle] The เป้าหมายหลัก สำหรับสกิลนี้ does not เสีย ขั้น [Laceration] ภายในเทิร์นนี้.\n[EndSkill] ใน 3 เทิร์นต่อจากนี้, เสีย 10 ค่าสติ ตอนจบเทิร์น.\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มเหรียญ +1 ต่อทุกๆ 2 [Laceration] ของเป้าหมาย (สูงสุด <style=\"highlight\">13</style>)\n[StartBattle] เป้าหมายหลักสำหรับสกิลนี้ ไม่เสียขึ้น [Laceration] ภายในเทิร์นนี้.\n[EndSkill] ใน 3 เทิร์นต่อจากนี้, เสีย 10 ค่าสติ ตอนจบเทิร์น.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration] ของเป้าหมาย x <style=\"highlight\">1.5</style>)\n- เมื่อมี 4+ Lust Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration] ของเป้าหมาย x <style=\"highlight\">1.8</style>).\n- เมื่อมี 4+ Lust A-Reson., มอบ Lust Affinity ความเสียหาย เท่ากับ (ปริมาณ [Laceration] ของเป้าหมาย x <style=\"highlight\">2</style>).\n(ปริมาณ [Laceration] up to only 99 will be used to calculate สำหรับสกิลนี้.)\u200B</line-height>",
-                  "summary": "[OnSucceedAttack] ทำ Lust Affinity ความเสียหาย basedบน[Laceration] ของเป้าหมาย"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ ความเสียหาย Lust Affinity เท่ากับ (ปริมาณ [Laceration] ของเป้าหมาย x <style=\"highlight\">1.5</style>)\n- เมื่อมี 4+ Lust Reson., มอบ ความเสียหาย Lust Affinity เท่ากับ (ปริมาณ [Laceration] ของเป้าหมาย x <style=\"highlight\">1.8</style>).\n- เมื่อมี 4+ Lust A-Reson., มอบ ความเสียหาย Lust Affinity เท่ากับ (ปริมาณ [Laceration] ของเป้าหมาย x <style=\"highlight\">2</style>).\n(ปริมาณ [Laceration] สูงสุดที่จะนำมาคำนวณสำหรับสกิลนี้ คือ 99)\u200B</line-height>",
+                  "summary": "[OnSucceedAttack] ทำ ความเสียหาย Lust Affinity basedบน[Laceration] ของเป้าหมาย"
                 },
                 {
-                  "desc": "<line-height=130%>[EnemyKill] หาก this Skill หรือ its เหรียญ effects ทำ t ความเสียหาย that exceeds the target's(หากเป็นFocused Encounters, the Core's) remaining HP, ทำความเสียหายที่เกินมานั้น เป็น ความเสียหายตรง ระหว่างศัตรูทั้งหมด.\u200B</line-height>",
-                  "summary": "[EnemyKill] มอบ the excess ความเสียหาย ระหว่างศัตรูทั้งหมด."
+                  "desc": "<line-height=130%>[EnemyKill] หากสกิลนี้ หรือความสามารถเหรียญของมัน สร้างความเสียหาย ที่เกิน HP ที่เหลืออยู่ของเป้าหมาย (หากเป็นFocused Encounters, ตัวแกนกลาง), ทำความเสียหายที่เกินมานั้น เป็น ความเสียหายตรง ระหว่างศัตรูทั้งหมด.\u200B</line-height>",
+                  "summary": "[EnemyKill] มอบความเสียหายที่เกินมานั้น ระหว่างศัตรูทั้งหมด."
                 }
               ]
             }
@@ -330,14 +330,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Sanguine Desire\u200B</line-height>",
+          "name": "<line-height=120%>ตัญหาสีโลหิต\u200B</line-height>",
           "abName": "The Red Shoes",
           "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] ได้รับ (# จำนวน Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ (2 + (Lust Reson.)) [Laceration]\n(สูงสุดimum Lust Reson. ได้รับn into account : 4)\u200B</line-height>",
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ (2 + (Lust Reson.)) [Laceration]\n(Lust Reson สูงสุด ที่จะนำมาคิดได้ : 4)\u200B</line-height>",
                   "summary": "[OnSucceedAttack] มอบ (2 + (Lust Reson.)) [Laceration]"
                 }
               ]
@@ -346,14 +346,14 @@
         },
         {
           "level": 3,
-          "name": "<line-height=120%>Sanguine Desire\u200B</line-height>",
+          "name": "<line-height=120%>ตัญหาสีโลหิต\u200B</line-height>",
           "abName": "The Red Shoes",
           "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] ได้รับ (# จำนวน Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ (<style=\"highlight\">3</style> + (Lust Reson.)) [Laceration]\n(สูงสุดimum Lust Reson. ได้รับn into account : <style=\"highlight\">5</style>)\u200B</line-height>",
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ (<style=\"highlight\">3</style> + (Lust Reson.)) [Laceration]\n(Lust Reson สูงสุด ที่จะนำมาคิดได้ : <style=\"highlight\">5</style>)\u200B</line-height>",
                   "summary": "[OnSucceedAttack] มอบ (3 + (Lust Reson.)) [Laceration]"
                 },
                 {
@@ -365,14 +365,14 @@
         },
         {
           "level": 4,
-          "name": "<line-height=120%>Sanguine Desire\u200B</line-height>",
+          "name": "<line-height=120%>ตัญหาสีโลหิต\u200B</line-height>",
           "abName": "The Red Shoes",
           "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[BeforeAttack] ได้รับ (# จำนวน Reson สูงสุด. - 2) Atk Weight (สูงสุด 2)\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ (<style=\"highlight\">4</style> + (Lust Reson.)) [Laceration]\n(สูงสุดimum Lust Reson. ได้รับn into account : <style=\"highlight\">6</style>)\u200B</line-height>",
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ (<style=\"highlight\">4</style> + (Lust Reson.)) [Laceration]\n(Lust Reson สูงสุด ที่จะนำมาคิดได้ : <style=\"highlight\">6</style>)\u200B</line-height>",
                   "summary": "[OnSucceedAttack] มอบ (4 + (Lust Reson.)) [Laceration]"
                 },
                 {
@@ -391,7 +391,7 @@
           "level": 1,
           "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู ตัวเอง และ 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 12.5% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>",
+          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู ตัวเอง และ 2 พันธมิตรอื่นที่มี เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 12.5% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -416,7 +416,7 @@
           "level": 3,
           "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู ตัวเอง และ 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 12.5% ของ HPสูงสุด ของยูนิทนี้\n<style=\"highlight\">- Each ฟื้นฟู-receiving unit ฟื้นฟู +2.5% more HP ต่อทุกๆ 2 negative effectบนthemselves (สูงสุด 7.5)</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู ตัวเอง และ 2 พันธมิตรอื่นที่มี เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 12.5% ของ HPสูงสุด ของยูนิทนี้\n<style=\"highlight\">- แต่ละยูนิท ที่ได้รับการฟื้นฟู HP ฟื้นฟู +2.5% HP เพิ่ม ต่อทุกๆ 2 สถานะด้านลบของตังเอง (สูงสุด 7.5)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -441,7 +441,7 @@
           "level": 4,
           "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู ตัวเอง และ 2 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน <style=\"highlight\">15%</style> of HPสูงสุด ของยูนิทนี้\n- Each ฟื้นฟู-receiving unit ฟื้นฟู +2.5% more HP ต่อ <style=\"highlight\">ทุกๆ</style> negative effectบนthemselves (สูงสุด <style=\"highlight\">10%</style>)\n<style=\"highlight\">- เมื่อมี 4+ Envy Reson. โดยมีสกิลนี้ในนั้น ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[EndSkill] ฟื้นฟู ตัวเอง และ 2 พันธมิตรอื่นที่มี เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน <style=\"highlight\">15%</style> of HPสูงสุด ของยูนิทนี้\n- แต่ละยูนิท ที่ได้รับการฟื้นฟู HP ฟื้นฟู +2.5% HP เพิ่ม ต่อ <style=\"highlight\">ทุกๆ</style> สถานะด้านลบของตังเอง (สูงสุด <style=\"highlight\">10%</style>)\n<style=\"highlight\">- เมื่อมี 4+ Envy Reson. โดยมีสกิลนี้ในนั้น ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -471,7 +471,7 @@
           "level": 1,
           "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] ฟื้นฟู 3 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 15% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] ฟื้นฟู 3 พันธมิตรอื่นที่มี เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 15% ของ HPสูงสุด ของยูนิทนี้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -499,7 +499,7 @@
           "level": 3,
           "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] ฟื้นฟู 3 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 15% ของ HPสูงสุด ของยูนิทนี้\n<style=\"highlight\">- Each ฟื้นฟู-receiving unit ได้รับ 1 [AttackUp] จนถึงเทิร์นหน้า ต่อทุกๆ 2 negative effectบนthemselves (สูงสุด 2)</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] ฟื้นฟู 3 พันธมิตรอื่นที่มี เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน 15% ของ HPสูงสุด ของยูนิทนี้\n<style=\"highlight\">- แต่ละยูนิท ที่ได้รับการฟื้นฟู HP ได้รับ 1 [AttackUp] จนถึงเทิร์นหน้า ต่อทุกๆ 2 สถานะด้านลบของตังเอง (สูงสุด 2)</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -527,7 +527,7 @@
           "level": 4,
           "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] ฟื้นฟู 3 พันธมิตรอื่น with เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน <style=\"highlight\">20%</style> of HPสูงสุด ของยูนิทนี้\n- Each ฟื้นฟู-receiving unit ได้รับ 1 [AttackUp] จนถึงเทิร์นหน้า ต่อ <style=\"highlight\">ทุกๆ</style> negative effectบนthemselves (สูงสุด <style=\"highlight\">3</style>)\n<style=\"highlight\">- เมื่อมี 4+ Envy Reson. โดยมีสกิลนี้ในนั้น ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร</style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] ฟื้นฟู 3 พันธมิตรอื่นที่มี เปอร์เซนต์ HP น้อยที่สุด เป็นจำนวน <style=\"highlight\">20%</style> of HPสูงสุด ของยูนิทนี้\n- แต่ละยูนิท ที่ได้รับการฟื้นฟู HP ได้รับ 1 [AttackUp] จนถึงเทิร์นหน้า ต่อ <style=\"highlight\">ทุกๆ</style> สถานะด้านลบของตังเอง (สูงสุด <style=\"highlight\">3</style>)\n<style=\"highlight\">- เมื่อมี 4+ Envy Reson. โดยมีสกิลนี้ในนั้น ฟื้นฟูเพิ่มเติมอีก 1 พันธมิตร</style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

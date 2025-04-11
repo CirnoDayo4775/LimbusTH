@@ -33,7 +33,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttackHead] มอบ 3 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 2 พันธมิตรที่มี the lowest HP ไป 12% ของ HPสูงสุด.\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 2 พันธมิตรที่มี HP ต่ำที่สุด ไป 12% ของ HPสูงสุด.\u200B</line-height>"
                 }
               ]
             }
@@ -51,7 +51,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [Burst]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 2 พันธมิตรที่มี the lowest HP ไป 15% ของ HPสูงสุด.\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 2 พันธมิตรที่มี HP ต่ำที่สุด ไป 15% ของ HPสูงสุด.\u200B</line-height>"
                 }
               ]
             }
@@ -66,7 +66,7 @@
           "level": 1,
           "name": "<line-height=120%>ตะเกียง\u200B</line-height>",
           "abName": "Faelantern",
-          "desc": "<line-height=130%>[CantIdentify] \nเล็งเป้ายูนิทที่มี the most HP\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify] \nเล็งเป้ายูนิทที่มีHP มากที่สุด\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -84,7 +84,7 @@
           "level": 3,
           "name": "<line-height=120%>ตะเกียง\u200B</line-height>",
           "abName": "Faelantern",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้ายูนิทที่มี the most HP\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +1\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้ายูนิทที่มีHP มากที่สุด\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +1\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -105,7 +105,7 @@
           "level": 4,
           "name": "<line-height=120%>ตะเกียง\u200B</line-height>",
           "abName": "Faelantern",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้ายูนิทที่มี the most HP\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +2\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้ายูนิทที่มีHP มากที่สุด\n[BeforeAttack] เมื่อมี 50%- HP, Atk Weight +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -263,16 +263,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EndSkill] มอบ 10% ของ HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่ตัวเอง และ 1 พันธมิตรแบบสุ่ม with the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] มอบ 10% ของ HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่ตัวเอง และ 1 พันธมิตรแบบสุ่ม ที่มี HP ปัจจุบันน้อยที่สุด, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ Reson สูงสุด., มอบ it to 1 more ally\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ Reson สูงสุด., มอบมันให้ 1 พันธมิตรเพิ่มเติม\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2\u200B</line-height>"
+                  "desc": "<line-height=130%>- หากยูนิทที่ได้รับผลมี [ShieldManagerCryingToad] อยู่แล้ว, เปลี่ยนจำนวน [ShieldManagerCryingToad] เป็น 2\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'มอบ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' แทน.\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ Gloom A-Reson สูงสุด., ความสามารถสกิลด้านบน เปลี่ยนเป็น 'มอบ 3 [ShieldManagerCryingToad]' และ 'เปลี่ยนจำนวน [ShieldManagerCryingToad] เป็น 3' แทน.\u200B</line-height>"
                 }
               ]
             }
@@ -287,13 +287,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">14%</style> of HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่ตัวเอง และ <style=\"highlight\">(1 + (Reson สูงสุด. - 2))</style> พันธมิตรที่มี the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n<style=\"highlight\">(สูงสุด # of พันธมิตรอื่น that ได้รับ [ShieldManagerCryingToad]: 3)</style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">14%</style> of HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่ตัวเอง และ <style=\"highlight\">(1 + (Reson สูงสุด. - 2))</style> พันธมิตรที่มี HP ปัจจุบัน น้อยที่สุด, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n<style=\"highlight\">(สูงสุด # ของพันธมิตรอื่นที่จะได้รับ [ShieldManagerCryingToad]: 3)</style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- หากยูนิทที่ได้รับผลมี [ShieldManagerCryingToad] อยู่แล้ว, เปลี่ยนจำนวน [ShieldManagerCryingToad] เป็น 2<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'มอบ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' แทน.<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ Gloom A-Reson สูงสุด., ความสามารถสกิลด้านบน เปลี่ยนเป็น 'มอบ 3 [ShieldManagerCryingToad]' และ 'เปลี่ยนจำนวน [ShieldManagerCryingToad] เป็น 3' แทน.<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -308,13 +308,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">20%</style> of HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่ตัวเอง และ (1 + (Reson สูงสุด. - 2)) พันธมิตรที่มี the least current HP, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n(สูงสุด # of พันธมิตรอื่น that ได้รับ [ShieldManagerCryingToad]: 3)\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] มอบ <style=\"highlight\">20%</style> of HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่ตัวเอง และ (1 + (Reson สูงสุด. - 2)) พันธมิตรที่มี HP ปัจจุบัน น้อยที่สุด, และ มอบ 2 [ShieldManagerCryingToad] เช่นกัน\n(สูงสุด # ของพันธมิตรอื่นที่จะได้รับ [ShieldManagerCryingToad]: 3)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หาก the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- หากยูนิทที่ได้รับผลมี [ShieldManagerCryingToad] อยู่แล้ว, เปลี่ยนจำนวน [ShieldManagerCryingToad] เป็น 2<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'มอบ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' แทน.<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ Gloom A-Reson สูงสุด., ความสามารถสกิลด้านบน เปลี่ยนเป็น 'มอบ 3 [ShieldManagerCryingToad]' และ 'เปลี่ยนจำนวน [ShieldManagerCryingToad] เป็น 3' แทน.<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -340,10 +340,10 @@
                   "desc": "<line-height=130%>[EndSkill] ได้รับ (15 + 2.5(Reson สูงสุด.))% ของ HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่ตัวเอง และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด 25%)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หากยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2\u200B</line-height>"
+                  "desc": "<line-height=130%>- หากยูนิทนี้ มี [ShieldManagerCryingToad] อยู่แล้ว, เปลี่ยนจำนวน [ShieldManagerCryingToad] เป็น 2\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'ได้รับ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' แทน.\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ Gloom A-Reson สูงสุด., ความสามารถสกิลด้านบน เปลี่ยนเป็น 'ได้รับ 3 [ShieldManagerCryingToad]' และ 'เปลี่ยนจำนวน [ShieldManagerCryingToad] เป็น 3' แทน.\u200B</line-height>"
                 }
               ]
             }
@@ -364,10 +364,10 @@
                   "desc": "<line-height=130%>[EndSkill] ได้รับ (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(Reson สูงสุด.))% ของ HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่ตัวเอง และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">30%</style>)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หากยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- หากยูนิทนี้ มี [ShieldManagerCryingToad] อยู่แล้ว, เปลี่ยนจำนวน [ShieldManagerCryingToad] เป็น 2<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'มอบ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' แทน.<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ Gloom A-Reson สูงสุด., ความสามารถสกิลด้านบน เปลี่ยนเป็น 'มอบ 3 [ShieldManagerCryingToad]' และ 'เปลี่ยนจำนวน [ShieldManagerCryingToad] เป็น 3' แทน.<style=\"highlight\"></style>\u200B</line-height>"
                 }
               ]
             }
@@ -388,10 +388,10 @@
                   "desc": "<line-height=130%>[EndSkill] ได้รับ (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(Reson สูงสุด.))% ของ HPสูงสุด ของยูนิทนี้มาเป็นโล่ แก่ตัวเอง และ ได้รับ 2 [ShieldManagerCryingToad]. (สูงสุด <style=\"highlight\">40%</style>)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- หากยูนิทนี้ already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] จำนวน to 2<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- หากยูนิทนี้ มี [ShieldManagerCryingToad] อยู่แล้ว, เปลี่ยนจำนวน [ShieldManagerCryingToad] เป็น 2<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>- เมื่อมี 4+ highest Gloom A-Reson., this Skill's above effects change to 'มอบ 3 [ShieldManagerCryingToad]' และ 'change the [ShieldManagerCryingToad] จำนวน to 3' แทน.<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>- เมื่อมี 4+ Gloom A-Reson สูงสุด., ความสามารถสกิลด้านบน เปลี่ยนเป็น 'มอบ 3 [ShieldManagerCryingToad]' และ 'เปลี่ยนจำนวน [ShieldManagerCryingToad] เป็น 3' แทน.<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%><style=\"highlight\">- เมื่อมี 4+ Gloom Reson., ได้รับเพิ่มเติม โล่ เท่ากับ 10% ของ HPสูงสุด ของยูนิทนี้</style>\u200B</line-height>"
@@ -409,7 +409,7 @@
           "level": 1,
           "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ ลดit ไป 2\u200B</line-height>",
+          "desc": "<line-height=130%>[EndSkill] หากเป้าหมายมี [Curse], เปิดใช้งานมันทันที 2 ครั้ง และ ลดมัน ไป 2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -421,7 +421,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ 3 สถานะด้านลบ ของเป้าหมาย that aren't [Curse] หรือ [NailPersonality] (สูงสุด 2)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ 3 สถานะด้านลบ ของเป้าหมาย ที่ไม่ใช้ [Curse] หรือ [NailPersonality] (สูงสุด 2)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [NailPersonality]\u200B</line-height>"
@@ -434,7 +434,7 @@
           "level": 3,
           "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%><style=\"highlight\">[BeforeAttack] เมื่อมี 4+ Envy Reson. โดยมีสกิลนี้ในนั้น Atk Weight +1</style>\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ ลดit ไป 2\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">[BeforeAttack] เมื่อมี 4+ Envy Reson. โดยมีสกิลนี้ในนั้น Atk Weight +1</style>\n[EndSkill] หากเป้าหมายมี [Curse], เปิดใช้งานมันทันที 2 ครั้ง และ ลดมัน ไป 2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -446,7 +446,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ 3 สถานะด้านลบ ของเป้าหมาย that aren't [Curse] หรือ [NailPersonality] (สูงสุด 2)<style=\"highlight\"></style>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ 3 สถานะด้านลบ ของเป้าหมาย ที่ไม่ใช้ [Curse] หรือ [NailPersonality] (สูงสุด 2)<style=\"highlight\"></style>\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ <style=\"highlight\">3</style> [NailPersonality]\u200B</line-height>"
@@ -462,7 +462,7 @@
           "level": 4,
           "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%><style=\"highlight\">[BeforeAttack] ต่อทุกๆ 3 Envy Reson. โดยมีสกิลนี้ในนั้น Atk Weight +1 (สูงสุด 2)</style>\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ ลดit ไป 2\u200B</line-height>",
+          "desc": "<line-height=130%><style=\"highlight\">[BeforeAttack] ต่อทุกๆ 3 Envy Reson. โดยมีสกิลนี้ในนั้น Atk Weight +1 (สูงสุด 2)</style>\n[EndSkill] หากเป้าหมายมี [Curse], เปิดใช้งานมันทันที 2 ครั้ง และ ลดมัน ไป 2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -474,7 +474,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ <style=\"highlight\">2</style> สถานะด้านลบ ของเป้าหมาย that aren't [Curse] หรือ [NailPersonality] (สูงสุด 2)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ 2 [Curse]\n- มอบเพิ่มเติมอีก 1 [Curse] ต่อทุกๆ <style=\"highlight\">2</style> สถานะด้านลบ ของเป้าหมาย ที่ไม่ใช้ [Curse] หรือ [NailPersonality] (สูงสุด 2)\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 3 [NailPersonality]<style=\"highlight\"></style>\u200B</line-height>"
@@ -498,7 +498,7 @@
           "level": 1,
           "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ ลดit ไป 2\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] หากเป้าหมายมี [Curse], เปิดใช้งานมันทันที 2 ครั้ง และ ลดมัน ไป 2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -523,7 +523,7 @@
           "level": 3,
           "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ ลดit ไป 2<style=\"highlight\"></style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] หากเป้าหมายมี [Curse], เปิดใช้งานมันทันที 2 ครั้ง และ ลดมัน ไป 2<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -551,7 +551,7 @@
           "level": 4,
           "name": "<line-height=120%>ตะปูต้องสาป\u200B</line-height>",
           "abName": "Hurting Teddy Bear",
-          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] หากเป้าหมายมี [Curse], immediately เปิดใช้งาน it 2 ครั้ง และ ลดit ไป 2<style=\"highlight\"></style>\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\nเล็งเป้าหมายแบบสุ่ม\n[EndSkill] หากเป้าหมายมี [Curse], เปิดใช้งานมันทันที 2 ครั้ง และ ลดมัน ไป 2<style=\"highlight\"></style>\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
