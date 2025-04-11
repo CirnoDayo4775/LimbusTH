@@ -61,7 +61,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ [Breath] +2 ขั้น\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only แก่ the main target.\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย แก่เป้าหมายหลักเท่านั้น\u200B</line-height>"
                 }
               ]
             },
@@ -71,7 +71,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only แก่ the sub-targets\n- หาก the first เหรียญ failed to kill the ally หรือ หากเป้าหมาย wasn't Staggered, 1 random sub-target ได้รับ ความเสียหาย\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย แก่เป้าหมายรองเท่านั้น\n- หากเหรียญแรก ฆ่าพันธมิตรไม่สำเร็จ หรือ หากเป้าหมาย wasn't Staggered, 1 เป้าหมายรองแบบสุ่ม ได้รับ ความเสียหาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Sinking]\u200B</line-height>"
@@ -140,7 +140,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only แก่ the main target.\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย แก่เป้าหมายหลักเท่านั้น\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>หากเป้าหมายมี [FellBulletMark], ทำ +100% ความเสียหายเพิ่มเติ่ม\u200B</line-height>"
@@ -156,7 +156,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only แก่ the sub-targets\n- หาก the first เหรียญ failed to ฆ่าเป้าหมายทันที, 2 random sub-targets ได้รับ ความเสียหาย\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย แก่เป้าหมายรองเท่านั้น\n- หากเหรียญแรก failed to ฆ่าเป้าหมายทันที, 2 เป้าหมายรองแบบสุ่มs ได้รับ ความเสียหาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[UnBrokenCoinOnSucceedAttack] มอบ 5 [Sinking] และ 5 [Laceration]\u200B</line-height>"
@@ -181,7 +181,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only แก่ the main target\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย only แก่ the main target\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[UnBrokenCoinOnSucceedAttack] หากเป้าหมายมี [FellBulletMark], ฆ่าเป้าหมายทันที\u200B</line-height>"
@@ -197,7 +197,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำ s ความเสียหาย only แก่ the sub-targets\n- หาก the first เหรียญ failed to ฆ่าเป้าหมายทันที, 1 random sub-target ได้รับ ความเสียหาย\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย แก่เป้าหมายรองเท่านั้น\n- หากเหรียญแรก failed to ฆ่าเป้าหมายทันที, 1 เป้าหมายรองแบบสุ่ม ได้รับ ความเสียหาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[UnBrokenCoinOnSucceedAttack] มอบ 5 [Sinking] และ 5 [Laceration]\u200B</line-height>"
@@ -336,7 +336,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>Share the Pain\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 8 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 8 ขั้น [Breath] ของตัวเอง (สูงสุด 5)\n[DefeatDuel] ทำ -75% ความเสียหายน้อยลง และ ความเสียหาย ทำ t ไป this Skill cannot Stagger the target\n[EndSkill] Halve ปริมาณ และขั้นของ [Breath] ของตัวเอง\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 8 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 8 ขั้น [Breath] ของตัวเอง (สูงสุด 5)\n[DefeatDuel] ทำ -75% ความเสียหายน้อยลง และ ความเสียหาย ทำ t ไปด้วยสกิลนี้ cannot Stagger the target\n[EndSkill] Halve ปริมาณ และขั้นของ [Breath] ของตัวเอง\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

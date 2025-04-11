@@ -3051,7 +3051,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttackHead] หากเป้าหมายเป็นพันธมิตร, ฟื้นฟูHP เท่ากับ 10% ของ HPสูงสุด ผู้ใช้\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackTail] มอบ 7 [Combustion]; หากเป้าหมายเป็นพันธมิตร, มอบ 2 [Agility] และ 1 <sprite name=\"ได้รับinStockAdder\"><color=#f8c200><u><link=\"ได้รับinStockAdder\">E.G.O Resource Amp</color></link></u> ในเทิร์นหน้า\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackTail] มอบ 7 [Combustion]; หากเป้าหมายเป็นพันธมิตร, มอบ 2 [Agility] และ 1 <sprite name=\"ได้รับinStockAdder\"><color=#f8c200><u><link=\"ได้รับinStockAdder\">[GainSinStockAdder]</color></link></u> ในเทิร์นหน้า\u200B</line-height>"
                 }
               ]
             }
