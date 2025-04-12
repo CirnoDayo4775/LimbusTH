@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Gossypium Planting\u200B</line-height>",
+          "name": "<line-height=120%>ปลูกฝังดอกกอสซิเปียม\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] มอบ 3 [MRcAfBa]\u200B</line-height>",
           "coinlist": [
             {
@@ -24,7 +24,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Wound Planting\u200B</line-height>",
+          "name": "<line-height=120%>ปลูกฝังบาดแผล\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -46,8 +46,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Draining Roots\u200B</line-height>",
-          "desc": "<line-height=130%>[CantDuel]\nAmong targets with [MRcAfBa], attack the unit ที่ช้าที่สุด;\nทำ ([MRcAfBa] x 10)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
+          "name": "<line-height=120%>รากดูดซับ\u200B</line-height>",
+          "desc": "<line-height=130%>[CantDuel]\nในหมู่เป้าหมายที่มี [MRcAfBa], โจมตียูนิท ที่ช้าที่สุด;\nทำ ([MRcAfBa] x 10)% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -72,8 +72,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Flourishing Gossypium\u200B</line-height>",
-          "desc": "<line-height=130%>โจมตีศัครูที่มี [Laceration] มากที่สุด\n[WhenUse] หาก the เป้าหมายหลัก is the target with [Laceration] มากที่สุด, แต้มตั้งต้น +5, มอบ x2 the effects\u200B</line-height>",
+          "name": "<line-height=120%>ดอกกอสซิเปียมเบ่งบาน\u200B</line-height>",
+          "desc": "<line-height=130%>โจมตีศัครูที่มี [Laceration] มากที่สุด\n[WhenUse] หาก เป้าหมายหลัก เป็นเป้าหมายที่มี [Laceration] มากที่สุด, แต้มตั้งต้น +5, มอบ สถานะต่างๆ x2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -98,8 +98,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Scattering Gossypium\u200B</line-height>",
-          "desc": "<line-height=130%>Among targets with [MRcAfBa], attack the unit with HP น้อยที่สุด\n[WhenUse] หาก the เป้าหมายหลัก is the target with [Laceration] มากที่สุด, แต้มตั้งต้น +5\n[EndBattle] [MRcAfBb] state expires ในเทิร์นหน้า.\u200B</line-height>",
+          "name": "<line-height=120%>ดอกกอสซิเปียมร่วงโรย\u200B</line-height>",
+          "desc": "<line-height=130%>ในหมู่เป้าหมายที่มี [MRcAfBa], โจมตียูนิทที่มี HP น้อยที่สุด\n[WhenUse] หาก เป้าหมายหลัก เป็นเป้าหมายที่มี [Laceration] มากที่สุด, แต้มตั้งต้น +5\n[EndBattle] สถานะ [MRcAfBb] จบลง ในเทิร์นหน้า.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -124,7 +124,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Scattering Wind\u200B</line-height>",
+          "name": "<line-height=120%>สายลมร่วงโรย\u200B</line-height>",
           "desc": "<line-height=130%>[OnSucceedEvade] มอบ 3 [Laceration] และ [Laceration] +1 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -143,8 +143,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Encroaching Gossypium\u200B</line-height>",
-          "desc": "<line-height=130%>[CantDuel]\nให้ความสำคัญเป็นหลักกับ the unit with the lowest Speed\nความเสียหายทำ t ไป จากสกิลนี้ is fixed จนเป็น 0.\n[StartBattle] Enter [MRcAfBb] state ในเทิร์นหน้า.\u200B</line-height>",
+          "name": "<line-height=120%>ดอกกอสซิเปียมเข้ารุกราน\u200B</line-height>",
+          "desc": "<line-height=130%>[CantDuel]\nให้ความสำคัญเป็นหลักกับ เป้าหมายที่มีความเร็วต่ำที่สุด\nความเสียหายที่ทำไป โดยสกิลนี้ ถูกปรับไว้ จนเป็น 0.\n[StartBattle] เข้า สถานะ [MRcAfBb] ในเทิร์นหน้า.\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -163,8 +163,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Scattering Red-stained Gossypium\u200B</line-height>",
-          "desc": "<line-height=130%>ให้ความสำคัญเป็นหลักกับ the target with [Laceration] มากที่สุด\n[WhenUse] หาก the เป้าหมายหลัก is the target with [Laceration] มากที่สุด, แต้มตั้งต้น +10\nหากเป้าหมายมี 10+ [Laceration], ทำ +50% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
+          "name": "<line-height=120%>ดอกกอสซิเปียมสีโลหิตร่วงโรย\u200B</line-height>",
+          "desc": "<line-height=130%>ให้ความสำคัญเป็นหลักกับ เป้าหมายที่มี [Laceration] มากที่สุด\n[WhenUse] หาก เป้าหมายหลัก เป็นเป้าหมายที่มี [Laceration] มากที่สุด, แต้มตั้งต้น +10\nหากเป้าหมายมี 10+ [Laceration], ทำ +50% ความเสียหายเพิ่มเติ่ม\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -195,7 +195,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Flame Strike\u200B</line-height>",
+          "name": "<line-height=120%>เพลิงจู่โจม\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ 1 [MRcAiBa]\u200B</line-height>",
           "coinlist": [
             {
@@ -214,7 +214,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Ardor Blossom Pinions\u200B</line-height>",
+          "name": "<line-height=120%>ปีกบุปผาเพลิง\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ 1 [MRcAiBa]\u200B</line-height>",
           "coinlist": [
             {
@@ -233,7 +233,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Spark\u200B</line-height>",
+          "name": "<line-height=120%>ประกาย\u200B</line-height>",
           "desc": "<line-height=130%>[WinDuel] มอบ [Combustion] เท่ากับ [Combustion] ของเป้าหมาย.\n[WhenUse] มอบ [Combustion] +2 ขั้น.\u200B</line-height>",
           "coinlist": [
             {
@@ -262,26 +262,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Dust Explosion\u200B</line-height>",
+          "name": "<line-height=120%>ระเบิดขี้เถา\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 7+ [Combustion], สกิลนี้ได้รับ แต้มปะทะ +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ ขั้น [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will ใช้ ในเทิร์นนี้\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ ขั้น [Combustion] เท่ากับจำนวนของ สกิล Wrath Affinity ที่ Ardor Blossom Moth กำลังจะใช้ ในเทิร์นนี้\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] แก่ the ศัตรูที่มี the lowest Speed, มอบ ขั้น [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will ใช้ ในเทิร์นนี้\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] แก่ ศัตรูที่ช้าที่สุด, มอบ ขั้น [Combustion] เท่ากับจำนวนของ สกิล Wrath Affinity ที่ Ardor Blossom Moth กำลังจะใช้ ในเทิร์นนี้\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will ใช้ ในเทิร์นนี้\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Combustion] เท่ากับจำนวนของ สกิล Wrath Affinity ที่ Ardor Blossom Moth กำลังจะใช้ ในเทิร์นนี้\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] แก่ the ศัตรูที่มี the lowest Speed, มอบ [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will ใช้ ในเทิร์นนี้\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] แก่ ศัตรูที่ช้าที่สุด, มอบ [Combustion] เท่ากับจำนวนของ สกิล Wrath Affinity ที่ Ardor Blossom Moth กำลังจะใช้ ในเทิร์นนี้\u200B</line-height>"
                 }
               ]
             }
@@ -295,25 +295,25 @@
         {
           "level": 1,
           "name": "<line-height=120%>เพลิงดาราหมื่นบุปผา\u200B</line-height>",
-          "desc": "<line-height=130%>ได้รับ แต้มปะทะ เท่ากับ (# of Wrath Affinity Skills that the Ardor Blossom Moth will ใช้ ในเทิร์นนี้ x2)\n[WhenUse] มอบ (# of Wrath Affinity Skills that the Ardor Blossom Moth will ใช้ ในเทิร์นนี้ x2) [Combustion] แก่ศัตรูทั้งหมด\u200B</line-height>",
+          "desc": "<line-height=130%>ได้รับ แต้มปะทะ เท่ากับ (# ของสกิล Wrath Affinity ที่ Ardor Blossom Moth กำลังจะใช้ ในเทิร์นนี้ x2)\n[WhenUse] มอบ (# ของสกิล Wrath Affinity ที่ Ardor Blossom Moth กำลังจะใช้ ในเทิร์นนี้ x2) [Combustion] แก่ศัตรูทั้งหมด\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will ใช้ ในเทิร์นนี้\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Combustion] เท่ากับจำนวนของ สกิล Wrath Affinity ที่ Ardor Blossom Moth กำลังจะใช้ ในเทิร์นนี้\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] แก่ the ศัตรูที่มี the lowest Speed, มอบ [Combustion] และ ขั้น [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will ใช้ ในเทิร์นนี้\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] แก่ ศัตรูที่ช้าที่สุด, มอบ [Combustion] และ ขั้น [Combustion] เท่ากับจำนวนของ สกิล Wrath Affinity ที่ Ardor Blossom Moth กำลังจะใช้ ในเทิร์นนี้\u200B</line-height>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will ใช้ ในเทิร์นนี้\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [Combustion] เท่ากับจำนวนของ สกิล Wrath Affinity ที่ Ardor Blossom Moth กำลังจะใช้ ในเทิร์นนี้\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttackHead] แก่ the ศัตรูที่มี the lowest Speed, มอบ [Combustion] และ ขั้น [Combustion] เท่ากับ the number of Wrath Affinity Skills that the Ardor Blossom Moth will ใช้ ในเทิร์นนี้\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttackHead] แก่ ศัตรูที่ช้าที่สุด, มอบ [Combustion] และ ขั้น [Combustion] เท่ากับจำนวนของ สกิล Wrath Affinity ที่ Ardor Blossom Moth กำลังจะใช้ ในเทิร์นนี้\u200B</line-height>"
                 }
               ]
             },
@@ -323,7 +323,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] เพิ่มขีดStagger ไป 10% ของความเสียหายที่ทำไป\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[EndSkill] มอบ 10 [Combustion] แก่ targets that have been Staggered ไป this Attack.\u200B</line-height>"
+                  "desc": "<line-height=130%>[EndSkill] มอบ 10 [Combustion] แก่เป้าหมายที่ Stagger จากการโจมตีนี้\u200B</line-height>"
                 }
               ]
             }
@@ -355,8 +355,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Stoke the Flames\u200B</line-height>",
-          "desc": "<line-height=130%>[CantDuel]\n[CantChangeTarget]\nความเสียหายทำ t ไป จากสกิลนี้ is fixed จนเป็น 0.\u200B</line-height>",
+          "name": "<line-height=120%>คุ้ยเปลวเพลิง\u200B</line-height>",
+          "desc": "<line-height=130%>[CantDuel]\n[CantChangeTarget]\nความเสียหายที่ทำไป โดยสกิลนี้ ถูกปรับไว้ จนเป็น 0.\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -376,7 +376,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>It Shall Penetrate\u200B</line-height>",
+          "name": "<line-height=120%>มันจักทะลุ\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -398,8 +398,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>It Shall Be Insidious\u200B</line-height>",
-          "desc": "<line-height=130%>[WinDuel] คูณ 2 [Vulnerable] และ [Binding] inflicted ไป เหรียญ effects.\u200B</line-height>",
+          "name": "<line-height=120%>มันจักมีนัยแอบแฝง\u200B</line-height>",
+          "desc": "<line-height=130%>[WinDuel] คูณ 2 [Vulnerable] และ [Binding] ที่ความสามารถเหรียญจะมอบให้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -433,7 +433,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>It Shall Grip\u200B</line-height>",
+          "name": "<line-height=120%>มันจักคว้า\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -465,7 +465,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>It Shall Constrict\u200B</line-height>",
+          "name": "<line-height=120%>มันจักกักขัง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -497,8 +497,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>It Shall Shun\u200B</line-height>",
-          "desc": "<line-height=130%>If there is a surviving 'Grasp' unit, แต้มรวม +5\u200B</line-height>",
+          "name": "<line-height=120%>มันจักหลีกหนี\u200B</line-height>",
+          "desc": "<line-height=130%>หากยังมียูนิทที่ถูก 'คว้า' ในสนาม, แต้มรวม +5\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -526,8 +526,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>และit Shall Contempt All\u200B</line-height>",
-          "desc": "<line-height=130%>If there is a surviving 'Grasp' unit, แต้มรวม +5\n[EndBattle] ลบ [MRcAmBc] fromศัตรูทั้งหมด\u200B</line-height>",
+          "name": "<line-height=120%>และมันจักปรามาสทุกสิ่ง\u200B</line-height>",
+          "desc": "<line-height=130%>หากยังมียูนิทที่ถูก 'คว้า' ในสนาม, แต้มรวม +5\n[EndBattle] ลบ [MRcAmBc] จากศัตรูทั้งหมด\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -632,7 +632,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ความชั่วแพร่พันธุ์ดั่งมังสาซีดเผือก\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] ได้รับ 10% ของ HPสูงสุดมาเป็นโล่. ต่อทุกๆ [AaCePcBq], ได้รับเพิ่มเติม 0.3% ของ HPสูงสุดเป็นadditional โล่.\nเมื่อถูกโจมตีขณะมีโล่ ผู้โจมตี เสีย 5 ค่าสติ\nเมื่อถูกโจมตี ใช้สกิลนี้อีกครั้ง ต่อทุกๆ 10 [AaCePcBq]\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] ได้รับ 10% ของ HPสูงสุดมาเป็นโล่. ต่อทุกๆ [AaCePcBq], ได้รับเพิ่มเติม 0.3% ของ HPสูงสุดเป็นโล่เพิ่มเติม.\nเมื่อถูกโจมตีขณะมีโล่ ผู้โจมตี เสีย 5 ค่าสติ\nเมื่อถูกโจมตี ใช้สกิลนี้อีกครั้ง ต่อทุกๆ 10 [AaCePcBq]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

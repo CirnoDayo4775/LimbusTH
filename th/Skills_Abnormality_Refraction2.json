@@ -24,7 +24,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Unrelenting [Sinking]\u200B</line-height>",
+          "name": "<line-height=120%>จมดิ่งสู่ก้นสมุทร\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -106,7 +106,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ร้องเรียกหาบางสิ่ง\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มปะทะ +2 ต่อทุกๆ surviving Old Umbrella\nทำ ความเสียหาย +25% ต่อทุกๆ Old Umbrella\nเมื่อมี the end of the turn, all Old Umbrella expire\nเมื่อมี the end of the turn, ได้รับ <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> เท่ากับ the number of <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> ที่ได้รับ in the first turn\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มปะทะ +2 ต่อทุกๆ Old Umbrella ที่ยังอยู่บนสนาม\nทำ ความเสียหาย +25% ต่อทุกๆ Old Umbrella\nเมื่อจบเทิร์น, สลาย Old Umbrella ทั้งหมด\nเมื่อจบเทิร์น, ได้รับ [WaveFoxUmbrella] เท่ากับจำนวนของ [WaveFoxUmbrella] ที่ได้รับมาในเทิร์นแรก\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -143,7 +143,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Volatile Response\u200B</line-height>",
+          "name": "<line-height=120%>การตอบรับไม่เสถียร\u200B</line-height>",
           "desc": "<line-height=130%>[StartBattle] ได้รับ <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Thorns</color></link></u>\u200B</line-height>",
           "coinlist": [
             {
@@ -162,7 +162,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Volatile Reaction\u200B</line-height>",
+          "name": "<line-height=120%>การตอบกลับไม่เสถียร\u200B</line-height>",
           "desc": "<line-height=130%>[StartBattle] ได้รับ <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Thorns</color></link></u>\u200B</line-height>",
           "coinlist": [
             {
@@ -181,8 +181,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Pleading Cries\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มปะทะ +2 ต่อทุกๆ surviving Old Umbrella\nทำ +25% ต่อทุกๆ Old Umbrella\u200B</line-height>",
+          "name": "<line-height=120%>ร้องคร่ำครวญ\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มปะทะ +2 ต่อทุกๆ Old Umbrella ที่ยังอยู่บนสนาม\nทำ +25% ต่อทุกๆ Old Umbrella\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -220,7 +220,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>บรรจุไฟฟ้า\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] ได้รับ 2 [SelfCharge]\n[DefeatDuel] เสีย 2 [SelfCharge]\nทำ +10% ความเสียหายแก่เป้าหมายที่มี <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] ได้รับ 2 [SelfCharge]\n[DefeatDuel] เสีย 2 [SelfCharge]\nทำ +10% ความเสียหายแก่เป้าหมายที่มี [Paralysis]\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -240,7 +240,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ปล่อยไฟฟ้า\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] ได้รับ 2 [SelfCharge]\n[DefeatDuel] เสีย 2 [SelfCharge]\nทำ +10% ความเสียหายแก่เป้าหมายที่มี <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] ได้รับ 2 [SelfCharge]\n[DefeatDuel] เสีย 2 [SelfCharge]\nทำ +10% ความเสียหายแก่เป้าหมายที่มี [Paralysis]\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -261,7 +261,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ปลดปล่อยประจุไฟ\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] ได้รับ 2 [SelfCharge]\n[DefeatDuel] เสีย 2 [SelfCharge]\nทำ +10% ความเสียหายแก่เป้าหมายที่มี <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] ได้รับ 2 [SelfCharge]\n[DefeatDuel] เสีย 2 [SelfCharge]\nทำ +10% ความเสียหายแก่เป้าหมายที่มี [Paralysis]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -290,7 +290,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ปลดปล่อยประจุไฟแรงดันสูง\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] เมื่อมี 5+ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>, ทำ +20% ความเสียหายต่อทุกขั้นที่จ่ายไป of <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u> over 5\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>\n[WhenUse]จ่าย all [SelfCharge]\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] เมื่อมี 5+ [SelfCharge], ทำ +20% ความเสียหายต่อทุกขั้นที่จ่ายไป ของ [SelfCharge] ที่เกิน 5\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ [SelfCharge]\n[WhenUse]จ่าย [SelfCharge] ทั้งหมด\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -316,7 +316,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ขดตัว\u200B</line-height>",
-          "desc": "<line-height=130%>If this Skill isบนa slot, head ได้รับ 50 HP โล่ ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>.\nIf the head is broken, ได้รับ 25 HP โล่ ต่อทุกๆ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-พุ่งเข้าใส่stead.</color></link></u>\nจ่าย 1 [SelfCharge] ต่อทุกๆ amount ของHP  โล่ lost เท่ากับ the HP โล่ ที่ได้รับ ต่อทุกๆ [SelfCharge]\u200B</line-height>",
+          "desc": "<line-height=130%>หากสกิลนี้ได้อยู่บนสล็อต, ส่วนหัว ได้รับ 50 HP โล่ ต่อทุกๆ [SelfCharge].\nหากส่วนหัวถูกทำลาย, ได้รับ 25 HP โล่ ต่อทุกๆ [SelfCharge]\nจ่าย 1 [SelfCharge] ต่อทุกๆ ต่อทุกๆ HP โล่ ที่เสียไป ได้รับ HP โล่ ต่อทุกๆ [SelfCharge]\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -388,7 +388,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>มาแชร์เคริ่องกันหน่อยมา!\u200B</line-height>",
+          "name": "<line-height=120%>มาแชร์เคริ่องดื่มกันหน่อยมา!\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -411,7 +411,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ฉันก็มีเท่านี้แหละ!\u200B</line-height>",
-          "desc": "<line-height=130%>ให้ความสำคัญเป็นหลัก แก่ศัตรูที่มี <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>\u200B</line-height>",
+          "desc": "<line-height=130%>ให้ความสำคัญเป็นหลัก แก่ศัตรูที่มี [Vibration]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -426,7 +426,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion] เท่ากับขั้น [Vibration] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]จ่าย all of target's [Vibration]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]จ่าย [Vibration] ของเป้าหมายทั้งหมด\u200B</line-height>"
                 }
               ]
             }
@@ -440,15 +440,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>อันนี้ฉันเอานะ!\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, แต้มปะทะ +8 \n[WhenUse] หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ +150% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายไม่มี [Tipsiness], แต้มปะทะ +8 \n[WhenUse] หากเป้าหมายไม่มี [Tipsiness], ทำ +150% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ 0 ความเสียหาย.\nFairy Gentleman will be Staggered ในเทิร์นหน้า.\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 5+ [Tipsiness], ทำ 0 ความเสียหาย.\nFairy Gentleman จะ Stagger ในเทิร์นหน้า.\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ลบ all <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>.\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ลบ [Tipsiness] ทั้งหมด.\u200B</line-height>"
                 }
               ]
             }
@@ -480,8 +480,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Have a Swig!\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] Summon ไวน์สูตรภูต ในเทิร์นหน้า\n[DefeatDuel] ไวน์สูตรภูต summoned at 70% HP\u200B</line-height>",
+          "name": "<line-height=120%>มาจิบหน่อยมา!\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] อัญเชิญ ไวน์สูตรภูต ในเทิร์นหน้า\n[DefeatDuel] ไวน์สูตรภูต จะถูกอัญเชิญมาพร้อม 70% HP\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -502,8 +502,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Sweet ไวน์สูตรภูต\u200B</line-height>",
-          "desc": "<line-height=130%>When killed ไป an Identity, มอบ 5 [Tipsiness] to all Identities ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>ไวน์สูตรภูตแสนหวาน\u200B</line-height>",
+          "desc": "<line-height=130%>เมื่อฆ่าศัตรูได้, มอบ 5 [Tipsiness] แก่ศัตรูทุกคน ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -535,7 +535,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>พอกพูนคำสาป\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] มอบ ผ้ายันต์พัวพัน เท่ากับ the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">ผ้ายันต์พัวพัน</color></link></u>บนเป้าหมาย\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] มอบ ผ้ายันต์พัวพัน เท่ากับจำนวน [WrappedCurseTag] ของเป้าหมาย\u200B</line-height>",
           "coinlist": [
             {},
             {
@@ -562,7 +562,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เพื่อมิให้ใครร่ำไห้\u200B</line-height>",
-          "desc": "<line-height=130%>[EndBattle] ลบ [ReattachedCurseTag] ทั้งหมด\n[WhenUse] หากมี 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">[ReattachedCurseTag]</color></link></u>, -1 แต้มเหรียญ\u200B</line-height>",
+          "desc": "<line-height=130%>[EndBattle] ลบ [ReattachedCurseTag] ทั้งหมด\n[WhenUse] หากมี 10+ [ReattachedCurseTag], -1 แต้มเหรียญ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -612,7 +612,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>โอนถ่ายผ้ายันต์\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ลบ all <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">[WrappedCurseTag]</color></link></u> from target.\nได้รับ [ReattachedCurseTag] เท่ากับ number of มัดพัวพันd [Curse] removed\n[StartBattle] ทุกๆชิ้นส่วน ได้รับ 3 [Protection]\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ลบ [WrappedCurseTag] ทั้งหมด จากเป้าหมาย\nได้รับ [ReattachedCurseTag] เท่ากับ จำนวนของ [WrappedCurseTag] ที่ถูกลบไป\n[StartBattle] ทุกๆชิ้นส่วน ได้รับ 3 [Protection]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -631,7 +631,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>แพร่พันธุ์คำสาป\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] มอบ ผ้ายันต์พัวพัน เท่ากับ the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">ผ้ายันต์พัวพัน</color></link></u>บนเป้าหมาย\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] มอบ ผ้ายันต์พัวพัน เท่ากับจำนวน [WrappedCurseTag] ของเป้าหมาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -725,8 +725,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>ทอกเงาสูงใหญ่\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] Spawn a Refracted Clover ในเทิร์นหน้า.\n[DefeatDuel] The Refracted Clover spawns with 50% HP.\u200B</line-height>",
+          "name": "<line-height=120%>ทอดเงาสูงใหญ่\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] สร้าง Refracted Clover ในเทิร์นหน้า.\n[DefeatDuel] Refracted Clover จะเกิดมาพร้อม 50% HP.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -734,7 +734,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +5% ต่อทุกๆ [Laceration] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]จ่าย all of target's [Laceration]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]จ่าย [Laceration] ของเป้าหมายทั้งหมด\u200B</line-height>"
                 }
               ]
             }
@@ -756,7 +756,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] ฟื้นฟู 1% ของ HPสูงสุด ต่อทุกๆ [Laceration] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]จ่าย 1 ขั้น [Laceration] from target\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]จ่าย 1 ขั้น [Laceration] จากเป้าหมาย\u200B</line-height>"
                 }
               ]
             }
@@ -788,7 +788,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>มาแชร์เคริ่องกันหน่อยมา!\u200B</line-height>",
+          "name": "<line-height=120%>มาแชร์เคริ่องดื่มกันหน่อยมา!\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -811,7 +811,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>ฉันก็มีเท่านี้แหละ!\u200B</line-height>",
-          "desc": "<line-height=130%>ให้ความสำคัญเป็นหลัก แก่ศัตรูที่มี <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>\u200B</line-height>",
+          "desc": "<line-height=130%>ให้ความสำคัญเป็นหลัก แก่ศัตรูที่มี [Vibration]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -826,7 +826,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้ [VibrationExplosion] เท่ากับขั้น [Vibration] ของเป้าหมาย\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack]จ่าย all of target's [Vibration]\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack]จ่าย [Vibration] ของเป้าหมายทั้งหมด\u200B</line-height>"
                 }
               ]
             }
@@ -840,15 +840,15 @@
         {
           "level": 1,
           "name": "<line-height=120%>อันนี้ฉันเอานะ!\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, แต้มปะทะ +8 \n[WhenUse] หากเป้าหมายไม่มี <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ +150% ความเสียหาย\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายไม่มี [Tipsiness], แต้มปะทะ +8 \n[WhenUse] หากเป้าหมายไม่มี [Tipsiness], ทำ +150% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, ทำ 0 ความเสียหาย.\nFairy Gentleman will be Staggered ในเทิร์นหน้า.\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี 5+ [Tipsiness], ทำ 0 ความเสียหาย.\nFairy Gentleman จะ Stagger ในเทิร์นหน้า.\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ลบ all <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>.\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ลบ [Tipsiness] ทั้งหมด.\u200B</line-height>"
                 }
               ]
             }
@@ -880,8 +880,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Have a Swig!\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] Summon ไวน์สูตรภูต ในเทิร์นหน้า\n[DefeatDuel] ไวน์สูตรภูต summoned at 50% HP\u200B</line-height>",
+          "name": "<line-height=120%>มาจิบหน่อยมา!\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] อัญเชิญ ไวน์สูตรภูต ในเทิร์นหน้า\n[DefeatDuel] ไวน์สูตรภูต จะถูกอัญเชิญมาพร้อม 50% HP\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -902,8 +902,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Sweet ไวน์สูตรภูต\u200B</line-height>",
-          "desc": "<line-height=130%>When killed ไป an Identity, มอบ 5 [Tipsiness] to all Identities ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>ไวน์สูตรภูตแสนหวาน\u200B</line-height>",
+          "desc": "<line-height=130%>เมื่อฆ่าศัตรูได้, มอบ 5 [Tipsiness] แก่ศัตรูทุกคน ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -915,8 +915,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Snagged Lure\u200B</line-height>",
-          "desc": "<line-height=130%>[CantDuel] +1 Atk Weight ต่อทุกๆ เทิร์น Fairy is alive.\nให้ความสำคัญเป็นหลักกับ Identities with <sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">Charmed</color></link></u>.\u200B</line-height>",
+          "name": "<line-height=120%>เหยื่อล่อน่าดึงดูด\u200B</line-height>",
+          "desc": "<line-height=130%>[CantDuel] +1 Atk Weight ต่อทุกๆ เทิร์น Fairy ยังคงมีชีวิต.\nให้ความสำคัญเป็นหลักกับ ยูนิทที่มี [FairyCharm]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1022,8 +1022,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Charmed Consciousness\u200B</line-height>",
-          "desc": "<line-height=130%>Attacking Faelantern ทำ s 0 ความเสียหาย.\u200B</line-height>",
+          "name": "<line-height=120%>มอมเมาระบบประสาท\u200B</line-height>",
+          "desc": "<line-height=130%>Faelantern ที่กำลังโจมตี ทำ 0 ความเสียหาย.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1041,7 +1041,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Dimensional Slice\u200B</line-height>",
+          "name": "<line-height=120%>ผ่ามิติ\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Charge] +3 ขั้น\n[DefeatDuel]จ่าย [Charge] 2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -1060,7 +1060,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Consecutive Dimensional Slice\u200B</line-height>",
+          "name": "<line-height=120%>ผ่ามิติร้อยหน\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Charge] +3 ขั้น\n[DefeatDuel]จ่าย [Charge] 2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -1086,7 +1086,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Discharge Byproducts\u200B</line-height>",
+          "name": "<line-height=120%>ปลดปล่อยของเสีย\u200B</line-height>",
           "desc": "<line-height=130%>[DefeatDuel]จ่าย [Charge] 2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -1106,7 +1106,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>กระฉากมิติ\u200B</line-height>",
-          "desc": "<line-height=130%>เมื่อมี [Charge] 10+ ขั้น,จ่าย [Charge] 10 ขั้น และ ได้รับ แต้มปะทะ +5 และ ทำ +100% ความเสียหาย\nเมื่อมี 10-ขั้น [Charge] ,จ่าย 100 Core HP และ ทำ +80% ความเสียหาย\nThis skill does not ลดthe unit's HP จนเป็น 0.\u200B</line-height>",
+          "desc": "<line-height=130%>เมื่อมี [Charge] 10+ ขั้น,จ่าย [Charge] 10 ขั้น และ ได้รับ แต้มปะทะ +5 และ ทำ +100% ความเสียหาย\nเมื่อมี 10-ขั้น [Charge] ,จ่าย 100 Core HP และ ทำ +80% ความเสียหาย\nสกิลนี้จะไม่ลด HP ของยูนิทนี้ จนเป็น 0.\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1137,7 +1137,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Prepared Retribution\u200B</line-height>",
+          "name": "<line-height=120%>เตรียนสนองผลการกระทำ\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Charge] +1 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -1163,7 +1163,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Vomit Byproducts\u200B</line-height>",
+          "name": "<line-height=120%>สำลอกของเสีย\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี [DimensionRift], ทำ +10% ความเสียหาย\n[DefeatDuel]จ่าย [Charge] 2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -1182,8 +1182,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>High-speed กระฉากมิติ\u200B</line-height>",
-          "desc": "<line-height=130%>ได้รับ แต้มปะทะ เท่ากับ the number of [DimensionRift] effect with the highest จำนวน\nทำ ความเสียหาย +10% ต่อทุกๆ [DimensionRift] effect ของตัวเอง\u200B</line-height>",
+          "name": "<line-height=120%>กระฉากมิติความเร็วแสง\u200B</line-height>",
+          "desc": "<line-height=130%>ได้รับ แต้มปะทะ เท่ากับจำนวนของ [DimensionRift] ที่มากที่สุด\nทำ ความเสียหาย +10% ต่อทุกๆ [DimensionRift] ของตัวเอง\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1201,7 +1201,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Opportunity Spotted\u200B</line-height>",
+          "name": "<line-height=120%>ค้นพบโอกาสดีๆ\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี [DimensionRift], +20% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
@@ -1220,7 +1220,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Rift Attack\u200B</line-height>",
+          "name": "<line-height=120%>จู่โจมข้ามมิติ\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี [DimensionRift], +10% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {
@@ -1284,7 +1284,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เร่งช่วงเวลา\u200B</line-height>",
-          "desc": "<line-height=130%>แต้มสกิล +1 ต่อทุกๆ <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>\n[DefeatDuel]จ่าย [Charge] 3 ขั้น\u200B</line-height>",
+          "desc": "<line-height=130%>แต้มสกิล +1 ต่อทุกๆ [TimeRental]\n[DefeatDuel]จ่าย [Charge] 3 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1299,7 +1299,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +20% ต่อทุกๆ <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +20% ต่อทุกๆ [TimeRental]\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] ได้รับ [Charge] +4 ขั้น\u200B</line-height>"
@@ -1315,7 +1315,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Charged Defense\u200B</line-height>",
+          "name": "<line-height=120%>เก็บประจุเตรียมตั้งรับ\u200B</line-height>",
           "desc": "<line-height=130%>[StartBattle] ได้รับ [Charge] +1 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -1335,7 +1335,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>6463\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 50 [AccumulatedPast]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1354,7 +1354,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>6753\u200B</line-height>",
-          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>\u200B</line-height>",
+          "desc": "<line-height=130%>ทำ ความเสียหายเพิ่มเติม +10%  ต่อทุกๆ 50 [AccumulatedPast]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1388,7 +1388,7 @@
                   "desc": "<line-height=130%>[OnSucceedAttack] เพิ่มขีดStagger ไป 50% ของความเสียหายที่ทำไป\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +1% ต่อทุกๆ <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (สูงสุด 50%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +1% ต่อทุกๆ [AccumulatedPast] (สูงสุด 50%)\u200B</line-height>"
                 }
               ]
             }
@@ -1458,7 +1458,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +1% ต่อทุกๆ <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (สูงสุด 200%)\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] ทำ ความเสียหาย +1% ต่อทุกๆ [AccumulatedPast] (สูงสุด 200%)\u200B</line-height>"
                 }
               ]
             }
@@ -1471,8 +1471,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>To the Garden of Infinity\u200B</line-height>",
-          "desc": "<line-height=130%>[CantDuel]\n[WhenUse] มอบ Crown of Thorns และ eliminate all effects ของตัวเอง\nIf Core has less than 40% HP, Roses will spawn in Power-up States\u200B</line-height>",
+          "name": "<line-height=120%>สู่อุทยานแห่งนิรันดร\u200B</line-height>",
+          "desc": "<line-height=130%>[CantDuel]\n[WhenUse] มอบ [PrepareSinRose] และ ลบล้างสถานะอื่นๆ ของตัวเอง\nหาก แกนแกลง มีน้อยกว่า40% HP, Roses จะถูกสร้างมาในสถานะ Power-up\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -1484,7 +1484,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Stop\u200B</line-height>",
+          "name": "<line-height=120%>หยุด\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1516,7 +1516,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Captivity\u200B</line-height>",
+          "name": "<line-height=120%>กักกัน\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1545,8 +1545,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Endless Blooming\u200B</line-height>",
-          "desc": "<line-height=130%>ให้ความสำคัญเป็นหลักกับ enemies without Crown of Thorns\u200B</line-height>",
+          "name": "<line-height=120%>สะพรั่งนิรันดร์\u200B</line-height>",
+          "desc": "<line-height=130%>ให้ความสำคัญเป็นหลักกับ ศัตรูที่ไม่มี [PrepareSinRose]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1558,7 +1558,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ Crown of Thorns\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] มอบ [PrepareSinRose]\u200B</line-height>"
                 }
               ]
             },
@@ -1578,8 +1578,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Wall Of Separation\u200B</line-height>",
-          "desc": "<line-height=130%>Power +2 for each surviving Rose\nIf there are no surviving Roses, Self-มอบ 2 [Vulnerable]\u200B</line-height>",
+          "name": "<line-height=120%>กำแพงแห่งการแยกจาก\u200B</line-height>",
+          "desc": "<line-height=130%>แต้ม +2 ต่อทุกๆ Rose ที่ยังอยู่ในสนาม\nหากไม่มี Rose ที่ยังอยู่ในสนาม, มอบแก่ตัวเอง 2 [Vulnerable]\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1597,8 +1597,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Wishing for Eternity\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] มอบ 1 [Enhancement] to 1 random Rose ในเทิร์นหน้า\nหากถูกโจมตีขณะยังมีโล่อยู่, มอบ 1 [Sinking] แก่ผู้โจมตี\u200B</line-height>",
+          "name": "<line-height=120%>ปราถนาหาความนิรันดร์\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] มอบ 1 [Enhancement] แก่ 1 Rose แบบสุ่ม ในเทิร์นหน้า\nหากถูกโจมตีขณะยังมีโล่อยู่, มอบ 1 [Sinking] แก่ผู้โจมตี\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1616,8 +1616,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Here, With You\u200B</line-height>",
-          "desc": "<line-height=130%>[StartBattle] มอบ 1 [Endurance] to 1 random Rose ในเทิร์นหน้า\nหากถูกโจมตีขณะยังมีโล่อยู่, มอบ 1 [Sinking] แก่ผู้โจมตี\u200B</line-height>",
+          "name": "<line-height=120%>ที่นี่ ไปกับคุณ\u200B</line-height>",
+          "desc": "<line-height=130%>[StartBattle] มอบ 1 [Endurance] แก่ 1 Rose แบบสุ่ม ในเทิร์นหน้า\nหากถูกโจมตีขณะยังมีโล่อยู่, มอบ 1 [Sinking] แก่ผู้โจมตี\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1635,7 +1635,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Burning Wrath\u200B</line-height>",
+          "name": "<line-height=120%>โทสะลุกไหม้\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1668,7 +1668,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Scattering Wrath\u200B</line-height>",
+          "name": "<line-height=120%>โทสะกระจัดการะจาย\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1694,7 +1694,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Approaching Lust\u200B</line-height>",
+          "name": "<line-height=120%>ตัญหาเข้าใกล้\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1736,7 +1736,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Burrowing Lust\u200B</line-height>",
+          "name": "<line-height=120%>ตัญหาที่ถูกฝัง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1769,7 +1769,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Petrified Sloth\u200B</line-height>",
+          "name": "<line-height=120%>ความเกรียจคร้านที่แข็งทื่อ\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1788,7 +1788,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Stubborn Sloth\u200B</line-height>",
+          "name": "<line-height=120%>ความเกรียจคร้านที่ดื่อดึง\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1810,8 +1810,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Slumbering Sloth\u200B</line-height>",
-          "desc": "<line-height=130%>หากถูกโจมตีขณะยังมีโล่อยู่, เปิดใช้ [VibrationExplosion]บนตัวเอง และ the attacker\u200B</line-height>",
+          "name": "<line-height=120%>ความเกรียจคร้านที่หลับไหล\u200B</line-height>",
+          "desc": "<line-height=130%>หากถูกโจมตีขณะยังมีโล่อยู่, เปิดใช้ [VibrationExplosion] แก่ตัวเอง และผู้โจมตี\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1829,7 +1829,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Voracious ความตะกละ\u200B</line-height>",
+          "name": "<line-height=120%>ความตะกละอันท่วมท้น\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1848,7 +1848,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Prevalent ความตะกละ\u200B</line-height>",
+          "name": "<line-height=120%>ความตะกละที่หยุดไม่ได้\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1867,8 +1867,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Restless ความตะกละ\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี [Burst], boost HP ฟื้นฟูing ไป +50%\u200B</line-height>",
+          "name": "<line-height=120%>ความตะกละมิอาจต้าน\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี [Burst], เพิ่มการฟื้นฟู HP ไป +50%\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1907,7 +1907,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Overflowing Gloom\u200B</line-height>",
+          "name": "<line-height=120%>โศกาท่วมท้น\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1926,7 +1926,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Rising Gloom\u200B</line-height>",
+          "name": "<line-height=120%>โศกาทะลัก\u200B</line-height>",
           "desc": "",
           "coinlist": [
             {
@@ -1952,8 +1952,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Embracing Gloom\u200B</line-height>",
-          "desc": "<line-height=130%>หากถูกโจมตีขณะยังมีโล่อยู่, มอบ [Sinking] +1 ขั้นบนตัวเอง และ the attacker\u200B</line-height>",
+          "name": "<line-height=120%>โศกาโอบกอด\u200B</line-height>",
+          "desc": "<line-height=130%>หากถูกโจมตีขณะยังมีโล่อยู่, มอบ [Sinking] +1 ขั้น แก่ตัวเอง และผู้โจมตี\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -1971,7 +1971,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Spouting Pride\u200B</line-height>",
+          "name": "<line-height=120%>ยโสแตกหน่อ\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] มอบ 3 [Breath] แก่พันธมิตรทุกคน\u200B</line-height>",
           "coinlist": [
             {
@@ -1990,7 +1990,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Erect Pride\u200B</line-height>",
+          "name": "<line-height=120%>ยโสพุ่งทะยาน\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] พันธมิตรทุกคน ได้รับ [Breath] +2 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -2016,7 +2016,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Touchy Pride\u200B</line-height>",
+          "name": "<line-height=120%>ยโสอารมณ์ร้าย\u200B</line-height>",
           "desc": "<line-height=130%>เมื่อมี 5+ [Breath], แต้มเหรียญ +3\u200B</line-height>",
           "coinlist": [
             {
@@ -2035,7 +2035,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Heaping Envy\u200B</line-height>",
+          "name": "<line-height=120%>ริษยาทับถม\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] ได้รับ [Charge] +3 ขั้น\n[DefeatDuel]จ่าย [Charge] 3 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -2061,7 +2061,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Spreading Envy\u200B</line-height>",
+          "name": "<line-height=120%>ริษยาแพร่กระจาย\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse]จ่าย 10[Charge] เพื่อได้รับ +4 แต้มเหรียญ\u200B</line-height>",
           "coinlist": [
             {
@@ -2080,8 +2080,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Dimensional Leap\u200B</line-height>",
-          "desc": "<line-height=130%>If this [DimensionRift] remains, ทำ +10% ความเสียหาย\u200B</line-height>",
+          "name": "<line-height=120%>ย่างข้ามมิติ\u200B</line-height>",
+          "desc": "<line-height=130%>หากยังเหลือ [DimensionRift], ทำ +10% ความเสียหาย\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -2093,8 +2093,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Dimensional Leap\u200B</line-height>",
-          "desc": "<line-height=130%>If this [DimensionRift] remains, HPสูงสุด +20%\u200B</line-height>",
+          "name": "<line-height=120%>ย่างข้ามมิติ\u200B</line-height>",
+          "desc": "<line-height=130%>หากยังเหลือ [DimensionRift], HPสูงสุด +20%\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -2106,8 +2106,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Dimensional Leap\u200B</line-height>",
-          "desc": "<line-height=130%>If this [DimensionRift] remains, ได้รับ 1 Speed\u200B</line-height>",
+          "name": "<line-height=120%>ย่างข้ามมิติ\u200B</line-height>",
+          "desc": "<line-height=130%>หากยังเหลือ [DimensionRift], ได้รับ 1 Speed\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -2119,8 +2119,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Dimensional Leap\u200B</line-height>",
-          "desc": "<line-height=130%>If this [DimensionRift] remains, แต้มเหรียญ +1\u200B</line-height>",
+          "name": "<line-height=120%>ย่างข้ามมิติ\u200B</line-height>",
+          "desc": "<line-height=130%>หากยังเหลือ [DimensionRift], แต้มเหรียญ +1\u200B</line-height>",
           "coinlist": [
             {}
           ]
@@ -2133,7 +2133,7 @@
         {
           "level": 1,
           "name": "<line-height=120%>เพื่อมิให้ใครร่ำไห้\u200B</line-height>",
-          "desc": "<line-height=130%>[EndBattle] ลบ [ReattachedCurseTag] ทั้งหมด\n[WhenUse] หากมี 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">[ReattachedCurseTag]</color></link></u>, -1 แต้มเหรียญ\u200B</line-height>",
+          "desc": "<line-height=130%>[EndBattle] ลบ [ReattachedCurseTag] ทั้งหมด\n[WhenUse] หากมี 10+ [ReattachedCurseTag], -1 แต้มเหรียญ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [

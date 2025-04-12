@@ -5,7 +5,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Crying Slap\u200B</line-height>",
+                    "name": "<line-height=120%>ตบด้วยน้ำตา\u200B</line-height>",
                     "desc": "<line-height=130%>[WhenUse] เป้าหมายเสีย 15 ค่าสติ\u200B</line-height>",
                     "coinlist": [
                         {
@@ -24,16 +24,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Gloomy Slap\u200B</line-height>",
-                    "desc": "<line-height=130%>[StartDuel] Target ฟื้นฟู 5 ค่าสติ\u200B</line-height>",
+                    "name": "<line-height=120%>ตบอย่างเศร้าหมอง\u200B</line-height>",
+                    "desc": "<line-height=130%>[StartDuel] เป้าหมายฟื้นฟู 5 ค่าสติ\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[AlwaysUse] ทำ ความเสียหายค่าสติ ไปครึ่งหนึ่งของ ความเสียหาย displayed\u200B</line-height>"
+                                    "desc": "<line-height=130%>[AlwaysUse] ทำ ความเสียหายค่าสติ ไปครึ่งหนึ่งของ ความเสียหายที่ขึ้นแสดง\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=130%>[AlwaysUse] No ความเสียหายHP is ทำ t\u200B</line-height>"
+                                    "desc": "<line-height=130%>[AlwaysUse] ไม่ทำความเสียหายHP\u200B</line-height>"
                                 }
                             ]
                         }
@@ -46,20 +46,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Melty Eyeball\u200B</line-height>",
+                    "name": "<line-height=120%>ลูกตาละลาย\u200B</line-height>",
                     "desc": "<line-height=130%>[WhenUse] เป้าหมายเสีย 5 ค่าสติ\nหากค่าสติของเป้าหมาย ต่ำกว่า 0, +10% ความเสียหาย\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติม ไป target’s [Sinking]\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติม เท่ากับ [Sinking] ของเป้าหมาย\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติมค่าสติ ไป target’s [Sinking]\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติมค่าสติ เท่ากับ [Sinking] ของเป้าหมาย\u200B</line-height>"
                                 }
                             ]
                         }
@@ -72,8 +72,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Gushing Gloom\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] เป้าหมายเสีย 5 ค่าสติ\nTargets the ศัตรูที่มี [Sinking] มากที่สุด\u200B</line-height>",
+                    "name": "<line-height=120%>ความโศกล้นทะลัก\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] เป้าหมายเสีย 5 ค่าสติ\nเล็งเป้าศัตรูที่มี [Sinking] มากที่สุด\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -85,14 +85,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติม ไป target’s [Sinking]\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติม เท่ากับ [Sinking] ของเป้าหมาย\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติมค่าสติ ไป target’s [Sinking]\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติมค่าสติ เท่ากับ [Sinking] ของเป้าหมาย\u200B</line-height>"
                                 }
                             ]
                         }
@@ -105,13 +105,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Eyeball Weight\u200B</line-height>",
-                    "desc": "<line-height=130%>[DefeatDuel] Cancel all skills\n[DefeatDuel] ได้รับ 3 [Vulnerable]\nหากเป้าหมายต่ำกว่า 0 ค่าสติ +10% ความเสียหาย\u200B</line-height>",
+                    "name": "<line-height=120%>ลูกตาฟาด\u200B</line-height>",
+                    "desc": "<line-height=130%>[DefeatDuel] ยกเลิกสกิลทั้งหมด\n[DefeatDuel] ได้รับ 3 [Vulnerable]\nหากเป้าหมายต่ำกว่า 0 ค่าสติ +10% ความเสียหาย\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttackHead] Double target’s [Sinking] และ its Count\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttackHead] คูณ 2 [Sinking] ของเป้าหมาย และ รวมถึงขั้นด้วย\u200B</line-height>"
                                 }
                             ]
                         }
@@ -124,13 +124,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Melted Eyeball\u200B</line-height>",
+                    "name": "<line-height=120%>ลูกตาละลายสิ้น\u200B</line-height>",
                     "desc": "<line-height=130%>[WhenUse] เป้าหมายเสีย 5 ค่าสติ\nหากค่าสติของเป้าหมาย ต่ำกว่า 0, +10% ความเสียหาย\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติมค่าสติ ไป target’s [Sinking]\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติมค่าสติ เท่ากับ [Sinking] ของเป้าหมาย\u200B</line-height>"
                                 }
                             ]
                         }
@@ -143,13 +143,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Melted Eyeball\u200B</line-height>",
+                    "name": "<line-height=120%>ลูกตาละลายสิ้น\u200B</line-height>",
                     "desc": "<line-height=130%>[WhenUse] เป้าหมายเสีย 5 ค่าสติ\nหากค่าสติของเป้าหมาย ต่ำกว่า 0, +10% ความเสียหาย\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติม ไป target’s [Sinking]\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttackHead] ทำ ความเสียหายเพิ่มเติม เท่ากับ [Sinking] ของเป้าหมาย\u200B</line-height>"
                                 }
                             ]
                         }
@@ -162,7 +162,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Croohoo\u200B</line-height>",
+                    "name": "<line-height=120%>แง้แง้\u200B</line-height>",
                     "desc": "<line-height=130%>[StartBattle] ได้รับ 2 [Protection]\u200B</line-height>",
                     "coinlist": []
                 }
@@ -173,7 +173,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Booting Town Tour\u200B</line-height>",
+                    "name": "<line-height=120%>เปิดระบบพาทัวร์เมือง\u200B</line-height>",
                     "desc": "<line-height=130%>[WhenUse] ได้รับ [Charge] +4 ขั้น\u200B</line-height>",
                     "coinlist": [
                         {}
@@ -186,7 +186,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Welcome to the Tour\u200B</line-height>",
+                    "name": "<line-height=120%>ขอต้อนรับสู่การเยี่ยมชม\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {},
@@ -206,7 +206,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Please Cooperate!\u200B</line-height>",
+                    "name": "<line-height=120%>โปรด ให้ความร่วมมือด้วย!\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -225,13 +225,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Processing Transfer Reg\u200B</line-height>",
+                    "name": "<line-height=120%>เริ่มกระทำการกักกัน\u200B</line-height>",
                     "desc": "<line-height=130%>[WhenUse]จ่ายขั้น [Charge] ทั้งหมด \u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] Put target in Captivity\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] จับเป้าหมายไป  [Duress]\u200B</line-height>"
                                 }
                             ]
                         }
@@ -244,8 +244,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Pleased to Meet You, Dear Neighbor\u200B</line-height>",
-                    "desc": "<line-height=130%>[CantDuel]\nAttacks target in Captivity\u200B</line-height>",
+                    "name": "<line-height=120%>ยินดีที่ได้พบคุณ เพื่อนบ้านผู้แสนดี\u200B</line-height>",
+                    "desc": "<line-height=130%>[CantDuel]\nโจมตีศัตรูที่กำลังถูก [Duress]\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -263,8 +263,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>System Error Detected\u200B</line-height>",
-                    "desc": "<line-height=130%>Become Staggered ในเทิร์นหน้า\u200B</line-height>",
+                    "name": "<line-height=120%>ตรวจพบข้อผิดพลาดระบบ\u200B</line-height>",
+                    "desc": "<line-height=130%>ติด Stagger ในเทิร์นหน้า\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -289,7 +289,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Processing Computation\u200B</line-height>",
+                    "name": "<line-height=120%>ประมวลการคำนวณค่า\u200B</line-height>",
                     "desc": "<line-height=130%>[WhenUse] ได้รับ 5 [Protection]\u200B</line-height>",
                     "coinlist": []
                 }
@@ -300,7 +300,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Rebooting…\u200B</line-height>",
+                    "name": "<line-height=120%>กำลังรีบูต…\u200B</line-height>",
                     "desc": "",
                     "coinlist": []
                 }
@@ -311,13 +311,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Processing Transfer Reg\u200B</line-height>",
-                    "desc": "<line-height=130%>[CantDuel]\n[CantChangeTarget]\nTargets unit with most HP\n[WhenUse]จ่าย all Charge\u200B</line-height>",
+                    "name": "<line-height=120%>เริ่มกระทำการกักกัน\u200B</line-height>",
+                    "desc": "<line-height=130%>[CantDuel]\n[CantChangeTarget]\nเล็งเป้าศัตรูที่ HP มากที่สุด\n[WhenUse]จ่าย [Charge] ทั้งหมด\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] Put target in Captivity\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] จับเป้าหมายไป  [Duress]\u200B</line-height>"
                                 }
                             ]
                         }
@@ -330,7 +330,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Do Not Enter\u200B</line-height>",
+                    "name": "<line-height=120%>ห้ามเข้า\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -349,7 +349,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Subdue\u200B</line-height>",
+                    "name": "<line-height=120%>ปราบปราม\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -388,7 +388,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttackHead] ทำ ความเสียหายHP เท่ากับ ปริมาณ [Burst]\nRemove all [Burst] from target\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttackHead] ทำ ความเสียหายHP เท่ากับ ปริมาณ [Burst]\nลบ [Burst] ทั้งหมดจากเป้าหมาย\u200B</line-height>"
                                 }
                             ]
                         }
@@ -447,14 +447,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>If เหรียญ 1 lands Heads, +10% ความเสียหาย\u200B</line-height>"
+                                    "desc": "<line-height=130%>หากเหรียญ 1 ออกหัว, +10% ความเสียหาย\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>If เหรียญ 2 lands Heads, +10% ความเสียหาย\u200B</line-height>"
+                                    "desc": "<line-height=130%>หากเหรียญ 2 ออกหัว, +10% ความเสียหาย\u200B</line-height>"
                                 }
                             ]
                         },
@@ -474,7 +474,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Dāna\u200B</line-height>",
+                    "name": "<line-height=120%>ดาณา\u200B</line-height>",
                     "desc": "<line-height=130%>[WhenUse] มอบ 2 [Protection] แก่พันธมิตรอื่น 1 คน แบบสุ่ม\u200B</line-height>",
                     "coinlist": [
                         {},
@@ -494,7 +494,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Expound Sutras\u200B</line-height>",
+                    "name": "<line-height=120%>เผยแพร่วจนะ\u200B</line-height>",
                     "desc": "<line-height=130%>[WhenUse] มอบ 2 [Enhancement] แก่พันธมิตรอื่น 1 คน แบบสุ่ม\u200B</line-height>",
                     "coinlist": [
                         {},
@@ -514,7 +514,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Mahāsrī\u200B</line-height>",
+                    "name": "<line-height=120%>มหาศรี\u200B</line-height>",
                     "desc": "<line-height=130%>[WhenUse] มอบ 3 [Protection] ในเทิร์นหน้า\u200B</line-height>",
                     "coinlist": []
                 }
@@ -525,7 +525,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Svāhā\u200B</line-height>",
+                    "name": "<line-height=120%>สวาฮา\u200B</line-height>",
                     "desc": "<line-height=130%>[WhenUse] มอบ 3 [AttackDmgUp] ในเทิร์นหน้า\u200B</line-height>",
                     "coinlist": []
                 }
@@ -536,13 +536,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Prajñāpāramitā\u200B</line-height>",
-                    "desc": "<line-height=130%>[CantIdentify] Targets the unit with the most Karma\nทำ ความเสียหายเพิ่มเติ่ม เป็น% เท่ากับ Karma (+2% ต่อทุกๆ Count)\nหากเป้าหมายไม่มี Karma, -50% ความเสียหาย\u200B</line-height>",
+                    "name": "<line-height=120%>ปรัชญาปารมิตา\u200B</line-height>",
+                    "desc": "<line-height=130%>[CantIdentify] เล็งเป้ายูนิทที่มี [Cycle] มากที่สุด\nทำ ความเสียหายเพิ่มเติ่ม เป็น% เท่ากับ [Cycle] (+2% ต่อทุกๆ จำนวน)\nหากเป้าหมายไม่มี [Cycle], -50% ความเสียหาย\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี Karma, มอบ 50 Karma\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [Cycle], มอบ 50 [Cycle]\u200B</line-height>"
                                 }
                             ]
                         }
@@ -555,8 +555,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Dhyāna\u200B</line-height>",
-                    "desc": "<line-height=130%>[WinDuel] Halve negative status effectsบนยูนิทนี้\u200B</line-height>",
+                    "name": "<line-height=120%>ฌาน\u200B</line-height>",
+                    "desc": "<line-height=130%>[WinDuel] หารครึ่งสถานะด้านลบทั้งหมด ของยูนิทนี้\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -574,13 +574,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Compulsory Offering\u200B</line-height>",
-                    "desc": "<line-height=130%>[DefeatDuel] มอบ 20 Karma แก่พันธมิตรอื่น 1 คน แบบสุ่ม ในเทิร์นหน้า\u200B</line-height>",
+                    "name": "<line-height=120%>การสังเวยอันเลี่ยงไม่ได้\u200B</line-height>",
+                    "desc": "<line-height=130%>[DefeatDuel] มอบ 20 [Cycle] แก่พันธมิตรอื่น 1 คน แบบสุ่ม ในเทิร์นหน้า\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] มอบ 20 Karma\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] มอบ 20 [Cycle]\u200B</line-height>"
                                 }
                             ]
                         }
@@ -593,20 +593,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Sluggard Waker\u200B</line-height>",
-                    "desc": "<line-height=130%>[DefeatDuel] มอบ 20 Karma แก่พันธมิตรอื่น 1 คน แบบสุ่ม ในเทิร์นหน้า\u200B</line-height>",
+                    "name": "<line-height=120%>ผู้ตื่นผู้เกรียจคร้าน\u200B</line-height>",
+                    "desc": "<line-height=130%>[DefeatDuel] มอบ 20 [Cycle] แก่พันธมิตรอื่น 1 คน แบบสุ่ม ในเทิร์นหน้า\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] มอบ 10 Karma\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] มอบ 10 [Cycle]\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] มอบ 10 Karma\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] มอบ 10 [Cycle]\u200B</line-height>"
                                 }
                             ]
                         }
@@ -619,20 +619,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Mantra\u200B</line-height>",
+                    "name": "<line-height=120%>มนตรา\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] ลบ 3 E.G.O resources of a random Affinity\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] ลบ 3 E.G.O resources Affinity แบบสุ่ม\u200B</line-height>"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] ลบ 3 E.G.O resources of a random Affinity\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] ลบ 3 E.G.O resources Affinity แบบสุ่ม\u200B</line-height>"
                                 }
                             ]
                         }
@@ -645,7 +645,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Sluggard Waker\u200B</line-height>",
+                    "name": "<line-height=120%>ผู้ตื่นผู้เกรียจคร้าน\u200B</line-height>",
                     "desc": "<line-height=130%>[CantDuel]\u200B</line-height>",
                     "coinlist": [
                         {
@@ -674,8 +674,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Bodhi Svāhā\u200B</line-height>",
-                    "desc": "<line-height=130%>[WhenUse] ได้รับ 10 [AttackDmgUp]\nTargets Staggered enemies first\u200B</line-height>",
+                    "name": "<line-height=120%>บดีสวาฮา\u200B</line-height>",
+                    "desc": "<line-height=130%>[WhenUse] ได้รับ 10 [AttackDmgUp]\nเล็งเป้าหมายที่ Stagger ก่อนเป็นหลัก\u200B</line-height>",
                     "coinlist": []
                 }
             ]
@@ -704,7 +704,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>…Be Cleansed\u200B</line-height>",
+                    "name": "<line-height=120%>…จงกระจ่างจากบาป\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {},
@@ -724,7 +724,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Inquisitional Retribution\u200B</line-height>",
+                    "name": "<line-height=120%>การสอบสวนเพื่อชดใช้ตน\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -790,7 +790,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Flesh Surge\u200B</line-height>",
+                    "name": "<line-height=120%>มังสาพรั่งพรู\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {
@@ -809,7 +809,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Dominate Mind\u200B</line-height>",
+                    "name": "<line-height=120%>ครอบงำจิตใจ\u200B</line-height>",
                     "desc": "",
                     "coinlist": [
                         {

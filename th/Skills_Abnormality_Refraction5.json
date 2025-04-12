@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Rear Line Fire\u200B</line-height>",
+          "name": "<line-height=120%>ยิงแนวหลัง\u200B</line-height>",
           "desc": "<line-height=130%>สกิลนี้ทำ +10% ความเสียหายเมื่อติดคริ\n[WhenUse] เมื่อมี 10+ [Breath], แต้มตั้งต้น +1\n[WhenUse] ได้รับ 2 [Breath]\u200B</line-height>",
           "coinlist": [
             {
@@ -27,7 +27,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Front Line Fire\u200B</line-height>",
+          "name": "<line-height=120%>ยิงแนวหน้า\u200B</line-height>",
           "desc": "<line-height=130%>สกิลนี้ทำ +10% ความเสียหายเมื่อติดคริ\n[WhenUse] เมื่อมี 10+ [Breath], แต้มตั้งต้น +1\n[WhenUse] ได้รับ [Breath] +3 ขั้น\u200B</line-height>",
           "coinlist": [
             {
@@ -49,8 +49,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Punch Through\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] ได้รับ 2 [Breath]\n[WhenUse] เมื่อมี 10+ [Breath], แต้มตั้งต้น +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 ขั้น [Breath] ของตัวเอง (สูงสุด 2)\n[WinDuel] จากสกิลนี้ ทำ s +50% ความเสียหายเพิ่มเติ่มเมื่อติดคริ\u200B</line-height>",
+          "name": "<line-height=120%>ฝ่ากำบัง\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] ได้รับ 2 [Breath]\n[WhenUse] เมื่อมี 10+ [Breath], แต้มตั้งต้น +1\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 ขั้น [Breath] ของตัวเอง (สูงสุด 2)\n[WinDuel] จากสกิลนี้ ทำ +50% ความเสียหายเพิ่มเติ่มเมื่อติดคริ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -71,7 +71,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย แก่เป้าหมายรองเท่านั้น\n- หากเหรียญแรก ฆ่าพันธมิตรไม่สำเร็จ หรือ หากเป้าหมาย wasn't Staggered, 1 เป้าหมายรองแบบสุ่ม ได้รับ ความเสียหาย\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย แก่เป้าหมายรองเท่านั้น\n- หากเหรียญแรก ฆ่าพันธมิตรไม่สำเร็จ หรือ หากเป้าหมาย ไม่ Stagger 1 เป้าหมายรองแบบสุ่ม ได้รับ ความเสียหาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[OnSucceedAttack] มอบ 4 [Sinking]\u200B</line-height>"
@@ -90,7 +90,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Reload, Fire\u200B</line-height>",
+          "name": "<line-height=120%>บรรจุ ลั่นไก\u200B</line-height>",
           "desc": "<line-height=130%>สกิลนี้ทำ +50% ความเสียหายเมื่อติดคริ\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 5 ขั้น [Breath] ของตัวเอง (สูงสุด 3)\n[WhenUse] ได้รับ 3 [Breath]\u200B</line-height>",
           "coinlist": [
             {
@@ -109,8 +109,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>See Through Defenses\u200B</line-height>",
-          "desc": "<line-height=130%>[DefeatDuel] Halve [Breath] ของตัวเอง\n- Any [Breath] ที่ได้รับ during ในเทิร์นนี้ are halved เช่นกัน\n- ได้รับ 4 [Paralysis] ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>มองทะลุผ่านกำบัง\u200B</line-height>",
+          "desc": "<line-height=130%>[DefeatDuel] หารครึ่ง [Breath] ของตัวเอง\n- ทุกๆ [Breath] ที่ได้รับระหว่างในเทิร์นนี้ ถูกหารครึ่ง เช่นกัน\n- ได้รับ 4 [Paralysis] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -131,8 +131,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Designated Target Fire\u200B</line-height>",
-          "desc": "<line-height=130%>โจมตีศัครูที่มี [FellBulletMark]\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Breath] ของตัวเอง (สูงสุด 2)\nแต้มตั้งต้น +1 ต่อทุกๆ 3 ขั้น [Breath] ของตัวเอง (สูงสุด 3)\n[WhenUse] หาก the เป้าหมายหลัก ไม่มี [FellBulletMark], ได้รับ 1 [Paralysis] และ 3 [Vulnerable]\n[EndSkill] หากเป้าหมาย ตาย, ได้รับ 10 [Breath] และ lower every enemy's ค่าสติ ไป 15\u200B</line-height>",
+          "name": "<line-height=120%>ยิงเป้าหมายที่ชะตากำหนดไว้\u200B</line-height>",
+          "desc": "<line-height=130%>โจมตีศัครูที่มี [FellBulletMark]\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Breath] ของตัวเอง (สูงสุด 2)\nแต้มตั้งต้น +1 ต่อทุกๆ 3 ขั้น [Breath] ของตัวเอง (สูงสุด 3)\n[WhenUse] หากเป้าหมายหลัก ไม่มี [FellBulletMark], ได้รับ 1 [Paralysis] และ 3 [Vulnerable]\n[EndSkill] หากเป้าหมาย ตาย, ได้รับ 10 [Breath] และ ลดค่าสติ ของศัตรูทุกคน ไป 15\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -156,7 +156,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย แก่เป้าหมายรองเท่านั้น\n- หากเหรียญแรก failed to ฆ่าเป้าหมายทันที, 2 เป้าหมายรองแบบสุ่มs ได้รับ ความเสียหาย\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย แก่เป้าหมายรองเท่านั้น\n- หากเหรียญแรก ฆ่าเป้าหมายทันทีไม่สำเร็จ, 2 เป้าหมายรองแบบสุ่ม ได้รับ ความเสียหาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[UnBrokenCoinOnSucceedAttack] มอบ 5 [Sinking] และ 5 [Laceration]\u200B</line-height>"
@@ -172,8 +172,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Target Readjustment Fire\u200B</line-height>",
-          "desc": "<line-height=130%>[CantIdentify]\n[CantChangeTarget]\nให้ความสำคัญเป็นหลักกับ the target with [FellBulletMark]\nIf ยูนิทนี้ failed to attack the แขวนประณามd target, cancel this Skill.\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Breath] ของตัวเอง (สูงสุด 2)\nแต้มตั้งต้น +1 ต่อทุกๆ 3 ขั้น [Breath] ของตัวเอง (สูงสุด 3)\n[EndSkill] หากเป้าหมาย ตาย, ได้รับ 10 [Breath] และ lower every enemy's ค่าสติ ไป 15\u200B</line-height>",
+          "name": "<line-height=120%>ยิงกำหนดเป้าหมายใหม่\u200B</line-height>",
+          "desc": "<line-height=130%>[CantIdentify]\n[CantChangeTarget]\nให้ความสำคัญเป็นหลักกับ เป้าหมายที่มี [FellBulletMark]\nหากยูนิทนี้ โจมตีเป้าหมายที่กำหนดไว้แต่แรก ไม่สำเร็จ, ยกเลิกสกิลนี้\nแต้มเหรียญ +1 ต่อทุกๆ 5 [Breath] ของตัวเอง (สูงสุด 2)\nแต้มตั้งต้น +1 ต่อทุกๆ 3 ขั้น [Breath] ของตัวเอง (สูงสุด 3)\n[EndSkill] หากเป้าหมาย ตาย, ได้รับ 10 [Breath] และ ลดค่าสติ ของศัตรูทุกคน ไป 15\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -181,7 +181,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย only แก่ the เป้าหมายหลัก\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย แก่เป้าหมายหลัก เท่านั้น\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[UnBrokenCoinOnSucceedAttack] หากเป้าหมายมี [FellBulletMark], ฆ่าเป้าหมายทันที\u200B</line-height>"
@@ -197,7 +197,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย แก่เป้าหมายรองเท่านั้น\n- หากเหรียญแรก failed to ฆ่าเป้าหมายทันที, 1 เป้าหมายรองแบบสุ่ม ได้รับ ความเสียหาย\u200B</line-height>"
+                  "desc": "<line-height=130%>เหรียญนี้ทำความเสียหาย แก่เป้าหมายรองเท่านั้น\n- หากเหรียญแรก ฆ่าเป้าหมายทันทีไม่สำเร็จ, 1 เป้าหมายรองแบบสุ่ม ได้รับ ความเสียหาย\u200B</line-height>"
                 },
                 {
                   "desc": "<line-height=130%>[UnBrokenCoinOnSucceedAttack] มอบ 5 [Sinking] และ 5 [Laceration]\u200B</line-height>"
@@ -235,7 +235,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Devastate\u200B</line-height>",
+          "name": "<line-height=120%>ล้างผลาญ\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 4 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\u200B</line-height>",
           "coinlist": [
             {
@@ -267,8 +267,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Labored Breathing\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 8 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 8 ขั้น [Breath] ของตัวเอง (สูงสุด 5)\n[DefeatDuel] Halve ปริมาณ [Breath] ของตัวเอง\n[EndSkill] Halve ปริมาณ และขั้นของ [Breath] ของตัวเอง\u200B</line-height>",
+          "name": "<line-height=120%>หายใจลำบาก\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 8 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 8 ขั้น [Breath] ของตัวเอง (สูงสุด 5)\n[DefeatDuel] หารครึ่ง ปริมาณ [Breath] ของตัวเอง\n[EndSkill] หารครึ่ง ปริมาณ และขั้นของ [Breath] ของตัวเอง\u200B</line-height>",
           "coinlist": [
             {},
             {},
@@ -291,8 +291,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Prone\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 4 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\n[WhenUse] ได้รับ 4 ปริมาณ [Breath]\n- เมื่อมี 50%- HP, also ได้รับ [Breath] +4 ขั้น\u200B</line-height>",
+          "name": "<line-height=120%>ล้ม\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 4 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\n[WhenUse] ได้รับ 4 ปริมาณ [Breath]\n- เมื่อมี 50%- HP, ได้รับอีก [Breath] +4 ขั้น\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -310,7 +310,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>That's... MINE!\u200B</line-height>",
+          "name": "<line-height=120%>นั่นน่ะ... ของฉัน!\u200B</line-height>",
           "desc": "<line-height=130%>[CantChangeTarget]\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 4 ปริมาณ [Breath] ของตัวเอง (สูงสุด 3)\n[WhenUse] แต้มปะทะ +1 ต่อทุกๆ 4 ขั้น [Breath] ของตัวเอง (สูงสุด 3)\u200B</line-height>",
           "coinlist": [
             {
@@ -319,10 +319,10 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[UnBrokenCoinOnSucceedAttack] Siphons ปริมาณ [Breath] และ ขั้น [Breath] จากเป้าหมาย (สูงสุด 6 each)\u200B</line-height>"
+                  "desc": "<line-height=130%>[UnBrokenCoinOnSucceedAttack] ขโมย ปริมาณ [Breath] และ ขั้น [Breath] จากเป้าหมาย (สูงสุด 6 each)\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[DefeatDuelAttack] Siphons 1/3 of the ปริมาณ [Breath] และ ขั้น [Breath]บนthe target (สูงสุด 2 each)\u200B</line-height>"
+                  "desc": "<line-height=130%>[DefeatDuelAttack] ขโมย 1/3 ของ ปริมาณ [Breath] และ ขั้น [Breath] ของเป้าหมาย (สูงสุด 2 each)\u200B</line-height>"
                 }
               ]
             }
@@ -335,8 +335,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Share the Pain\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 8 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 8 ขั้น [Breath] ของตัวเอง (สูงสุด 5)\n[DefeatDuel] ทำ -75% ความเสียหายน้อยลง และ ความเสียหาย ทำ t ไปด้วยสกิลนี้ cannot Stagger the target\n[EndSkill] Halve ปริมาณ และขั้นของ [Breath] ของตัวเอง\u200B</line-height>",
+          "name": "<line-height=120%>แบ่งปันความทุกข์\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] แต้มรวม +1 ต่อทุกๆ 8 ปริมาณ [Breath] ของตัวเอง (สูงสุด 5)\n[WhenUse] แต้มเหรียญ +1 ต่อทุกๆ 8 ขั้น [Breath] ของตัวเอง (สูงสุด 5)\n[DefeatDuel] ทำ -75% ความเสียหายน้อยลง และ ความเสียหายที่ทำ ไปด้วยสกิลนี้ ไม่สามารถ Stagger เป้าหมายได้\n[EndSkill] หารครึ่ง ปริมาณ และขั้นของ [Breath] ของตัวเอง\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -377,7 +377,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Freed from the Life of Suffering\u200B</line-height>",
+          "name": "<line-height=120%>ปลดแอกจากชีวิตแห่งความทรมาณ\u200B</line-height>",
           "desc": "<line-height=130%>[StartBattle] ได้รับ 2 [Vulnerable]\u200B</line-height>",
           "coinlist": [
             {
@@ -396,8 +396,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Tenacious Wound\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายมี 6+ ปริมาณ [Laceration], +1 to ปริมาณ และ ขั้น [Laceration] ที่สกิลนี้จะมอบให้\u200B</line-height>",
+          "name": "<line-height=120%>ทนพิษบาดแผล\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี 6+ ปริมาณ [Laceration], +1 แก่ปริมาณ และ ขั้น [Laceration] ที่สกิลนี้จะมอบให้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -428,8 +428,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Wound\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายมี 6+ ปริมาณ [Laceration], +1 to ปริมาณ และ ขั้น [Laceration] ที่สกิลนี้จะมอบให้\u200B</line-height>",
+          "name": "<line-height=120%>บาดแผล\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี 6+ ปริมาณ [Laceration], +1 แก่ปริมาณ และ ขั้น [Laceration] ที่สกิลนี้จะมอบให้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -454,8 +454,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Brambles that Constrict\u200B</line-height>",
-          "desc": "<line-height=130%>หากเป้าหมายมี 6+ ปริมาณ [Laceration], +1 to ปริมาณ [Laceration] ที่สกิลนี้จะมอบให้\u200B</line-height>",
+          "name": "<line-height=120%>ขวากหนามที่จองจำ\u200B</line-height>",
+          "desc": "<line-height=130%>หากเป้าหมายมี 6+ ปริมาณ [Laceration], +1 แก่ปริมาณ [Laceration] ที่สกิลนี้จะมอบให้\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -479,8 +479,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Polydipsic Petals\u200B</line-height>",
-          "desc": "<line-height=130%>โจมตีศัครูที่มี the highest ผลรวมของ ปริมาณ [Laceration] + Count\n[WhenUse] หากเป้าหมายมี 6+ ปริมาณ [Laceration], แต้มรวม +2\u200B</line-height>",
+          "name": "<line-height=120%>กลีบไม้กระหายเลือด\u200B</line-height>",
+          "desc": "<line-height=130%>โจมตีศัครูที่มี ผลรวมของ ปริมาณ และขั้น [Laceration] สูงสุด\n[WhenUse] หากเป้าหมายมี 6+ ปริมาณ [Laceration], แต้มรวม +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -505,8 +505,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Bursting Petals\u200B</line-height>",
-          "desc": "<line-height=130%>โจมตีศัครูที่มี the highest ผลรวมของ ปริมาณ [Laceration] + Count\n[WhenUse] หากเป้าหมายมี 6+ ปริมาณ [Laceration], แต้มรวม +2\u200B</line-height>",
+          "name": "<line-height=120%>ระเบิดกลีบดอก\u200B</line-height>",
+          "desc": "<line-height=130%>โจมตีศัครูที่มี ผลรวมของ ปริมาณ และขั้น [Laceration] สูงสุด\n[WhenUse] หากเป้าหมายมี 6+ ปริมาณ [Laceration], แต้มรวม +2\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -518,7 +518,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้งาน all [Laceration] ของเป้าหมาย (completely ลดขั้น [Laceration])\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] เปิดใช้งาน [Laceration] ทั้งหมด ของเป้าหมาย (ลดขั้น [Laceration] ทั้งหมด)\u200B</line-height>"
                 }
               ]
             }
@@ -531,7 +531,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Storm of Spikes\u200B</line-height>",
+          "name": "<line-height=120%>พายุหนามกุหลาบ\u200B</line-height>",
           "desc": "<line-height=130%>[WhenUse] หากเป้าหมายมี 6+ ปริมาณ [Laceration], แต้มรวม +2\u200B</line-height>",
           "coinlist": [
             {
@@ -550,7 +550,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Polydipsic Thorn\u200B</line-height>",
+          "name": "<line-height=120%>หนามกระหายเลือด\u200B</line-height>",
           "desc": "<line-height=130%>[StartBattle] ได้รับ 3 [AttackDmgUp] และ 2 [Vulnerable]\u200B</line-height>",
           "coinlist": [
             {
@@ -601,8 +601,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Endless Spring of Blood\u200B</line-height>",
-          "desc": "<line-height=130%>[DuelCounter]\n[WhenUse] Targets that clash แก่ this Skill do not เสีย ขั้น [Laceration] while clashing\u200B</line-height>",
+          "name": "<line-height=120%>เริ่งนิรันดร์ บุปผาแห่งหมื่นโลหิต\u200B</line-height>",
+          "desc": "<line-height=130%>[DuelCounter]\n[WhenUse] เป้าหมายที่ปะทะกับสกิลนี้ จะไม่ เสีย ขั้น [Laceration] ระหว่างปะทะ\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -610,7 +610,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] บังคับใช้ผลของ [Laceration] บนเป้าหมาย อีกครั้ง, และ immediately จ่าย [BloodDinner] generated ไป the [Laceration]damage\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] บังคับใช้ผลของ [Laceration] บนเป้าหมาย อีกครั้ง, และจ่าย [BloodDinner] ที่ถูกสร้างจากความสามารถดังกล่าวทันที\u200B</line-height>"
                 }
               ]
             },
@@ -620,7 +620,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] บังคับใช้ผลของ [Laceration] บนเป้าหมาย อีกครั้ง, และ immediately จ่าย [BloodDinner] generated ไป the [Laceration]damage\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] บังคับใช้ผลของ [Laceration] บนเป้าหมาย อีกครั้ง, และจ่าย [BloodDinner] ที่ถูกสร้างจากความสามารถดังกล่าวทันที\u200B</line-height>"
                 }
               ]
             },
@@ -630,7 +630,7 @@
                   "desc": "<line-height=130%>[SuperCoin]\u200B</line-height>"
                 },
                 {
-                  "desc": "<line-height=130%>[OnSucceedAttack] บังคับใช้ผลของ [Laceration] บนเป้าหมาย อีกครั้ง, และ immediately จ่าย [BloodDinner] generated ไป the [Laceration]damage\u200B</line-height>"
+                  "desc": "<line-height=130%>[OnSucceedAttack] บังคับใช้ผลของ [Laceration] บนเป้าหมาย อีกครั้ง, และจ่าย [BloodDinner] ที่ถูกสร้างจากความสามารถดังกล่าวทันที\u200B</line-height>"
                 }
               ]
             }
@@ -643,8 +643,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Nutrient Craving\u200B</line-height>",
-          "desc": "<line-height=130%>ทำงาน at 100+ [BloodDinner]\n[EndBattle] จ่ายสูงสุด 100 [BloodDinner] to เปิดใช้งานความสามารถดังนี้ ความสามารถ:\n- ฟื้นฟูCore และ the Body Parts' HP ไป [BloodDinner] ที่จ่ายไป\n- ได้รับ 1 [AttackUp] ในเทิร์นหน้า ต่อทุกๆ 20 [BloodDinner] ที่จ่ายไป\u200B</line-height>",
+          "name": "<line-height=120%>โหยหาสารอาหาร\u200B</line-height>",
+          "desc": "<line-height=130%>ทำงาน หากมี 100+ [BloodDinner]\n[EndBattle] จ่ายสูงสุด 100 [BloodDinner] เพื่อเปิดใช้งานความสามารถดังนี้ ความสามารถ:\n- ฟื้นฟู HP ของแกนกลาง และ ร่างกาย ไป [BloodDinner] ที่จ่ายไป\n- ได้รับ 1 [AttackUp] ในเทิร์นหน้า ต่อทุกๆ 20 [BloodDinner] ที่จ่ายไป\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
@@ -662,8 +662,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "<line-height=120%>Brambles that Yearn\u200B</line-height>",
-          "desc": "<line-height=130%>[WhenUse] จ่ายสูงสุด 100 [BloodDinner] to เปิดใช้งานความสามารถดังนี้ ความสามารถ:\n- ฟื้นฟูCore และ the Body Parts' HP ไป [BloodDinner] ที่จ่ายไป\n- สกิลนี้ได้รับ แต้มรวม +1 ต่อทุกๆ 20 [BloodDinner] ที่จ่ายไป\n[DefeatDuel] แต้มรวม -5\n[EndSkill] หากสกิลนี้จ่ายครบ less than 30 [BloodDinner], ได้รับ 2 [Vulnerable] ในเทิร์นหน้า\u200B</line-height>",
+          "name": "<line-height=120%>ขวากหนามผู้โหยเลือด\u200B</line-height>",
+          "desc": "<line-height=130%>[WhenUse] จ่ายสูงสุด 100 [BloodDinner] เพื่อเปิดใช้งานความสามารถดังนี้ ความสามารถ:\n- ฟื้นฟู HP ของแกนกลาง และ ร่างกาย ไป [BloodDinner] ที่จ่ายไป\n- สกิลนี้ได้รับ แต้มรวม +1 ต่อทุกๆ 20 [BloodDinner] ที่จ่ายไป\n[DefeatDuel] แต้มรวม -5\n[EndSkill] หากสกิลนี้จ่ายไม่ถึง 30 [BloodDinner], ได้รับ 2 [Vulnerable] ในเทิร์นหน้า\u200B</line-height>",
           "coinlist": [
             {
               "coindescs": [
