@@ -50,7 +50,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Pain\u200B</line-height>",
+                    "name": "<line-height=120%>เจ็บ\u200B</line-height>",
                     "desc": "<line-height=130%>ให้ความสำคัญเป็นหลัก แก่ศัตรูที่มี [Laceration]\u200B</line-height>",
                     "coinlist": [
                         {
@@ -147,8 +147,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Pain\u200B</line-height>",
-                    "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration]\nWhen ยูนิทนี้ defeats เป้าหมายที่มี an attack, ศัตรูที่มี the lowest ค่าสติ เสีย 10 ค่าสติ\u200B</line-height>",
+                    "name": "<line-height=120%>เจ็บ\u200B</line-height>",
+                    "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration]\nเมื่อยูนิทนี้ฆ่าเป้าหมายด้วยการโจมตี, ศัตรูที่มี ค่าสติต่ำสุด เสีย 10 ค่าสติ\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -156,7 +156,7 @@
                                     "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ 10% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttackHead] เป้าหมายเสีย (Bleedบนtarget) ค่าสติ\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttackHead] เป้าหมายเสีย ([Laceration] ของเป้าหมาย) ค่าสติ\u200B</line-height>"
                                 }
                             ]
                         },
@@ -166,7 +166,7 @@
                                     "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ 10% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttackHead] เป้าหมายเสีย (Bleedบนtarget) ค่าสติ\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttackHead] เป้าหมายเสีย ([Laceration] ของเป้าหมาย) ค่าสติ\u200B</line-height>"
                                 }
                             ]
                         },
@@ -250,8 +250,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Pain\u200B</line-height>",
-                    "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration]\nWhen ยูนิทนี้ defeats เป้าหมายที่มี an attack, ศัตรูที่มี the lowest ค่าสติ เสีย 10 ค่าสติ\nWhen ยูนิทนี้ defeats เป้าหมายที่มี an attack, reuse Skillบนa different target.\u200B</line-height>",
+                    "name": "<line-height=120%>เจ็บ\u200B</line-height>",
+                    "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration]\nเมื่อยูนิทนี้ฆ่าเป้าหมายด้วยการโจมตี, ศัตรูที่มี ค่าสติต่ำสุด เสีย 10 ค่าสติ\nเมื่อยูนิทนี้ฆ่าเป้าหมายด้วยการโจมตี, ใช้สกิลนี้ซ้ำ แก่เป้าหมายอื่น.\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -259,7 +259,7 @@
                                     "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ 20% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] เป้าหมายเสีย (Bleedบนtarget) ค่าสติ\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] เป้าหมายเสีย ([Laceration] ของเป้าหมาย) ค่าสติ\u200B</line-height>"
                                 }
                             ]
                         },
@@ -269,7 +269,7 @@
                                     "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ 20% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] เป้าหมายเสีย (Bleedบนtarget) ค่าสติ\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] เป้าหมายเสีย ([Laceration] ของเป้าหมาย) ค่าสติ\u200B</line-height>"
                                 }
                             ]
                         },
@@ -376,8 +376,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "<line-height=120%>Pain\u200B</line-height>",
-                    "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration]\nWhen ยูนิทนี้ defeats เป้าหมายที่มี an attack, ศัตรูที่มี the lowest ค่าสติ เสีย 15 ค่าสติ\nWhen ยูนิทนี้ defeats เป้าหมายที่มี an attack, reuse Skillบนa different target.\u200B</line-height>",
+                    "name": "<line-height=120%>เจ็บ\u200B</line-height>",
+                    "desc": "<line-height=130%>เล็งเป้าเป็นพิเศษหากเป้าหมายมี [Laceration]\nเมื่อยูนิทนี้ฆ่าเป้าหมายด้วยการโจมตี, ศัตรูที่มี ค่าสติต่ำสุด เสีย 15 ค่าสติ\nเมื่อยูนิทนี้ฆ่าเป้าหมายด้วยการโจมตี, ใช้สกิลนี้ซ้ำ แก่เป้าหมายอื่น.\u200B</line-height>",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -385,7 +385,7 @@
                                     "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ 20% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] เป้าหมายเสีย (Bleedบนtarget/2) ค่าสติ\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] เป้าหมายเสีย ([Laceration] ของเป้าหมาย/2) ค่าสติ\u200B</line-height>"
                                 }
                             ]
                         },
@@ -395,7 +395,7 @@
                                     "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ 20% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] เป้าหมายเสีย (Bleedบนtarget/2) ค่าสติ\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] เป้าหมายเสีย ([Laceration] ของเป้าหมาย/2) ค่าสติ\u200B</line-height>"
                                 }
                             ]
                         },
@@ -405,7 +405,7 @@
                                     "desc": "<line-height=130%>[OnSucceedAttack] หากเป้าหมายมี [Laceration], ทำ 20% ของความเสียหายที่ทำไปเป็น ความเสียหายเพิ่มเติม\u200B</line-height>"
                                 },
                                 {
-                                    "desc": "<line-height=130%>[OnSucceedAttack] เป้าหมายเสีย (Bleedบนtarget/2) ค่าสติ\u200B</line-height>"
+                                    "desc": "<line-height=130%>[OnSucceedAttack] เป้าหมายเสีย ([Laceration] ของเป้าหมาย/2) ค่าสติ\u200B</line-height>"
                                 }
                             ]
                         },
