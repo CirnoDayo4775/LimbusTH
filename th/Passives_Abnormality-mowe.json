@@ -3,77 +3,77 @@
     {
       "id": 835001,
       "name": "<line-height=120%>Stored Blood\u200B</line-height>",
-      "desc": "At Turn End, depending on the [KeptBlood] value on self:\n- At a value lesser than or equal to 5 [KeptBlood], gain 1 [Binding], 1 [Vulnerable], and 1 [AttackDown] next turn for every [KeptBlood] lost\n- At a value greater than 5 [KeptBlood], gain 2 [AttackUp] and 2 [DefenseUp] for every excess value"
+      "desc": "เมื่อจบเทร์น, depending on the [KeptBlood] value on self:\n- At a value lesser than or equal to 5 [KeptBlood], ได้รับ 1 [Binding], 1 [Vulnerable], และ 1 [AttackDown] ในเทิร์นหน้า for every [KeptBlood] lost\n- At a value greater than 5 [KeptBlood], ได้รับ 2 [AttackUp] และ 2 [DefenseUp] for every excess value"
     },
     {
       "id": 835002,
       "name": "<line-height=120%>Must Retain Blood\u200B</line-height>",
-      "desc": "Gains a new pattern when [KeptBlood] reaches 0 for the first time\nFix this unit's speed to 10 when using the Skill 'I Am... The Prince... of the Parade...!'"
+      "desc": "Gains a new pattern when [KeptBlood] reaches 0 for the first time\nFixยูนิทนี้'s speed to 10 when using the Skill 'I Am... The Prince... of the Parade...!'"
     },
     {
       "id": 835003,
       "name": "<line-height=120%>The Prince's Frenzy\u200B</line-height>",
-      "desc": "When this unit reaches 30% HP, gain [BloodyCrave]"
+      "desc": "เมื่อยูนิทนี้ reaches 30% HP, ได้รับ [BloodyCrave]"
     },
     {
       "id": 835004,
       "name": "<line-height=120%>Hardblood Glaive\u200B</line-height>",
-      "desc": "Prioritizes targets with the highest sum of [Laceration] Potency and Count\nOn Hit, if the target has [Laceration], heal 2% HP"
+      "desc": "Prioritizes targets with the highest sum of [Laceration] Potency และ Count\nเมื่อโจมตีโดน, หากเป้าหมายมี [Laceration], heal 2% HP"
     },
     {
       "id": 835005,
       "name": "<line-height=120%>Sanguivore - Coagulation\u200B</line-height>",
-      "desc": "When this unit has [Laceration]:\n- Gain 1 Offense Level Up and 1 Defense Level Up for every 5 [Laceration] (max 10)\n- Gain 1 Clash Power Up for every 10 [Laceration] (max 5)\n- Take 50% less damage from [Laceration] (rounded down)"
+      "desc": "เมื่อยูนิทนี้ has [Laceration]:\n- ได้รับ 1 Offense Level Up และ 1 Defense Level Up for every 5 [Laceration] (สูงสุด 10)\n- ได้รับ 1 Clash Power Up for every 10 [Laceration] (สูงสุด 5)\n- Take 50% less ความเสียหาย จาก [Laceration] (เศษปัดลง)"
     },
     {
       "id": 9014501,
       "name": "<line-height=120%>Blood Coagulation\u200B</line-height>",
-      "desc": "Gain +1 [Laceration] Count every time this unit is hit\nTurn End: consume 3 [Laceration] Count on self to gain 1 [HardenedBlood]"
+      "desc": "Gain +1 [Laceration] Count every timeยูนิทนี้ is hit\nTurn End: consume 3 [Laceration] Count on self to ได้รับ 1 [HardenedBlood]"
     },
     {
       "id": 9014502,
       "name": "<line-height=120%>Thirst for Blood\u200B</line-height>",
-      "desc": "Prioritizes targets with [Laceration]\nTurn End: if this unit failed to deal any damage this turn, gain 2 [Vulnerable] and 2 [AttackUp] next turn"
+      "desc": "Prioritizes targets with [Laceration]\nTurn End: ifยูนิทนี้ failed to ทำ any ความเสียหาย this turn, ได้รับ 2 [Vulnerable] และ 2 [AttackUp] ในเทิร์นหน้า"
     },
     {
       "id": 9014503,
       "name": "<line-height=120%>Bloodsucking\u200B</line-height>",
-      "desc": "Take 10% less damage from [Laceration] (rounded down)\nOn Hit, if the target has [Laceration], heal 10% of the damage dealt"
+      "desc": "Take 10% less ความเสียหาย จาก [Laceration] (เศษปัดลง)\nเมื่อโจมตีโดน, หากเป้าหมายมี [Laceration], heal 10% of the ความเสียหาย dealt"
     },
     {
       "id": 9014801,
       "name": "<line-height=120%>Rough Bloodsucking\u200B</line-height>",
-      "desc": "Take 20% less damage from [Laceration] (rounded down)\nOn Hit, if the target has [Laceration], heal 15% of the damage dealt"
+      "desc": "Take 20% less ความเสียหาย จาก [Laceration] (เศษปัดลง)\nเมื่อโจมตีโดน, หากเป้าหมายมี [Laceration], heal 15% of the ความเสียหาย dealt"
     },
     {
       "id": 9014802,
       "name": "<line-height=120%>Power Leakage\u200B</line-height>",
-      "desc": "When hit, if the attacker used a Skill that gains [Charge], the attacker steals 1 [Charge] Count from this unit.\n(Once per Skill. Does not activate if this unit does not have [Charge])"
+      "desc": "เมื่อ hit, if the attacker used a Skill that gains [Charge], the attacker steals 1 [Charge] Count fromยูนิทนี้.\n(Once per Skill. Does not activate ifยูนิทนี้ does not have [Charge])"
     },
     {
       "id": 9015101,
       "name": "<line-height=120%>Blood to Brain\u200B</line-height>",
-      "desc": "Take 30% less damage from [Laceration] (rounded down)\nOn Hit, if the target has [Laceration], heal 15% of the damage dealt"
+      "desc": "Take 30% less ความเสียหาย จาก [Laceration] (เศษปัดลง)\nเมื่อโจมตีโดน, หากเป้าหมายมี [Laceration], heal 15% of the ความเสียหาย dealt"
     },
     {
       "id": 9015102,
       "name": "<line-height=120%>Prosthesis Model - L37\u200B</line-height>",
-      "desc": "Turn Start: At less than 5 [Charge] Count, gain 1 [Reduction]\nTurn Start: At 5+ [Charge] Count, gain 2 [ParryingResultUp]"
+      "desc": "Turn Start: At less than 5 [Charge] Count, ได้รับ 1 [Reduction]\nTurn Start: เมื่อมี 5+ [Charge] Count, ได้รับ 2 [ParryingResultUp]"
     },
     {
       "id": 9015201,
       "name": "<line-height=120%>A Young Kindred\u200B</line-height>",
-      "desc": "Take 30% less damage from [Laceration] (rounded down)\nOn Hit, if the target has [Laceration], heal 25% of the damage dealt"
+      "desc": "Take 30% less ความเสียหาย จาก [Laceration] (เศษปัดลง)\nเมื่อโจมตีโดน, หากเป้าหมายมี [Laceration], heal 25% of the ความเสียหาย dealt"
     },
     {
       "id": 9014803,
       "name": "<line-height=120%>Tenacious\u200B</line-height>",
-      "desc": "Self-inflicted damage due to this unit's Skills does not reduce this unit's HP under 1"
+      "desc": "Self-มอบed ความเสียหาย due toยูนิทนี้'s Skills does not reduceยูนิทนี้'s HP under 1"
     },
     {
       "id": 834801,
       "name": "<line-height=120%>Burst Bloodbag\u200B</line-height>",
-      "desc": "Combat Start: starts the Encounter only with half of max HP"
+      "desc": "Combat Start: starts the Encounter only with half ของ HP สูงสุด"
     },
     {
       "id": 834802,

@@ -3,22 +3,22 @@
         {
             "id": 837101,
             "name": "<line-height=120%>Casual Opportunity\u200B</line-height>",
-            "desc": "Turn Start: if this unit's Speed is faster than the target's, gain 1 [PenetrateDamageUp]"
+            "desc": "Turn Start: ifยูนิทนี้'s Speed is faster than the target's, ได้รับ 1 [PenetrateความเสียหายUp]"
         },
         {
             "id": 837102,
             "name": "<line-height=120%>Leisurely Breathing\u200B</line-height>",
-            "desc": "Turn End: Heal 7 SP\nTurn End: Gain [Agility] equal to ([Breath] on self/4) next turn (max 3)"
+            "desc": "Turn End: ฟื้นฟู 7 ค่าสติ\nTurn End: ได้รับ [Agility] equal to ([Breath] on self/4) ในเทิร์นหน้า (สูงสุด 3)"
         },
         {
             "id": 837103,
             "name": "<line-height=120%>Single Combat\u200B</line-height>",
-            "desc": "Use Salut if the target is Staggered"
+            "desc": "Use Salut if theเป้าหมายis Staggered"
         },
         {
             "id": 837104,
             "name": "<line-height=120%>Focused Attack\u200B</line-height>",
-            "desc": "When using a Skill against the same Slot this unit successfully hit last turn, gain the following effects based on the number of consecutive turns it successfully hit the Slot\nResets if this unit failed to attack last turn.\n- 1 Consecutive hit: Clash Power +1\n- 2 Consecutive hits: Base Power +1\n- 3 Consecutive hits: Base Power +1, Coin Power +1"
+            "desc": "เมื่อ using a Skill against the same Slotยูนิทนี้ successfully hit last turn, ได้รับ the following effects based on the number of consecutive turns it successfully hit the Slot\nResets ifยูนิทนี้ failed to attack last turn.\n- 1 Consecutive hit: Clash Power +1\n- 2 Consecutive hits: Base Power +1\n- 3 Consecutive hits: Base Power +1, Coin Power +1"
         },
         {
             "id": 837201,
@@ -28,48 +28,48 @@
         {
             "id": 837202,
             "name": "<line-height=120%>Hardblood Scissor\u200B</line-height>",
-            "desc": "On Clash Win, if the target has [Laceration], heal this unit's Part & Core by 40% of the HP damage dealt.\nAfter Attack, if this unit healed at least 100 HP, heal 10 SP\nThis effect does not activate On Hit with an Unbreakable Coin Skill if it loses the Clash.",
-            "summary": "Heal when attacking enemies with Bleed. When this unit heals 100 HP, heal SP as well."
+            "desc": "On Clash Win, หากเป้าหมายมี [Laceration], healยูนิทนี้'s Part & Core by 40% of the HP ความเสียหาย dealt.\nหลังจากAttack, ifยูนิทนี้ healed at least 100 HP, ฟื้นฟู 10 ค่าสติ\nThis effect does not activate เมื่อโจมตีโดน with an Unbreakable Coin Skill if it เสีย the Clash.",
+            "summary": "Heal when attacking enemies with [Laceration]. เมื่อยูนิทนี้ heals 100 HP, heal ค่าสติ as well."
         },
         {
             "id": 837203,
             "name": "<line-height=120%>I Don't Need Ugly Things!!\u200B</line-height>",
-            "desc": "If there are any enemies with 30% or less HP, use 'I Don't Need Ugly Things!!' Skill."
+            "desc": "หาก there are any enemies with 30% or less HP, use 'I Don't Need Ugly Things!!' Skill."
         },
         {
             "id": 837204,
             "name": "<line-height=120%>It's Not Over Yet\u200B</line-height>",
-            "desc": "Gains a new pattern at 40% of this unit's max HP\nUpon pattern change, gain 10 [Laceration] and 2 [BloodScissor]."
+            "desc": "Gains a new pattern at 40% ofยูนิทนี้'s HP สูงสุด\nUpon pattern change, ได้รับ 10 [Laceration] และ 2 [BloodScissor]."
         },
         {
             "id": 837205,
             "name": "<line-height=120%>Bloodfeast\u200B</line-height>",
-            "desc": "If this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. \nWhen this unit enters the field, the sleeping blood drenching the battlefield will rise above the surface."
+            "desc": "หากยูนิทนี้ is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] ความเสียหาย collectively received by every unit. \nเมื่อยูนิทนี้ enters the field, the sleeping blood drenching the battlefield will rise above the surface."
         },
         {
             "id": 837206,
             "name": "<line-height=120%>Bloodsteeped Scissors\u200B</line-height>",
-            "desc": "Combat Start: gain 10 [BloodScissor]\n- [BloodScissor] cannot drop below 1\n- At 10+ [BloodScissor], convert them to [BloodScissorTwo].\n- At 20+ [BloodScissor], convert them to [BloodScissorThree].\nIf this unit consumes [BloodScissor] and drops below the above thresholds, convert them accordingly."
+            "desc": "Combat Start: ได้รับ 10 [BloodScissor]\n- [BloodScissor] cannot drop below 1\n- เมื่อมี 10+ [BloodScissor], convert them to [BloodScissorTwo].\n- At 20+ [BloodScissor], convert them to [BloodScissorThree].\nหากยูนิทนี้ consumes [BloodScissor] และ ต่ำกว่า the above thresholds, convert them accordingly."
         },
         {
             "id": 837207,
-            "name": "<line-height=120%>Starved and Withered\u200B</line-height>",
-            "desc": "Combat Start: gain [StarvingBarberTwo]"
+            "name": "<line-height=120%>Starved และ Withered\u200B</line-height>",
+            "desc": "Combat Start: ได้รับ [StarvingBarberTwo]"
         },
         {
             "id": 837208,
             "name": "<line-height=120%>Blood... Blood... Blood...!\u200B</line-height>",
-            "desc": "Turn End: If Panicked, recover from Panic at the next Turn Start and reset SP to 0.\nWhen recovering from Panic:\n- Consume 30 [BloodDinner] to gain 2 [Enhancement] and 1 [BloodScissor] next turn, and heal 20 SP.\n- If this unit failed to consume [BloodScissor], gain 30 [Laceration], immediately take the damage from [Laceration], then lose 3 [Laceration] Count. Then, gain 2 [Enhancement], 2 [AttackDmgUp], and heal 20 SP next turn."
+            "desc": "Turn End: หาก Panicked, recover จาก Panic at the ในเทิร์นหน้า Start และ reset ค่าสติ to 0.\nเมื่อ recovering จาก Panic:\n- Consume 30 [BloodDinner] to ได้รับ 2 [Enhancement] และ 1 [BloodScissor] ในเทิร์นหน้า, และ ฟื้นฟู 20 ค่าสติ.\n- หากยูนิทนี้ failed to consume [BloodScissor], ได้รับ 30 [Laceration], immediately take the ความเสียหาย จาก [Laceration], จากนั้น lose 3 [Laceration] Count. Then, ได้รับ 2 [Enhancement], 2 [AttackDmgUp], และ ฟื้นฟู 20 ค่าสติ ในเทิร์นหน้า"
         },
         {
             "id": 9999997,
             "name": "<line-height=120%>Panic Recovery\u200B</line-height>",
-            "desc": "Turn End: if in Panic, reset SP to 0."
+            "desc": "Turn End: if in Panic, reset ค่าสติ to 0."
         },
         {
             "id": 9999996,
             "name": "<line-height=120%>Fixed Panic\u200B</line-height>",
-            "desc": "This unit's Panic Type does not change when inflicted with an effect that changes Panic Types. Instead, this unit is inflicted with an effect that is inflicted against targets without SP."
+            "desc": "ยูนิทนี้'s Panic Type does not change when มอบed with an effect that changes Panic Types. Instead,ยูนิทนี้ is มอบed with an effect that is มอบed against targets without ค่าสติ."
         }
     ]
 }

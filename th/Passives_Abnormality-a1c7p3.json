@@ -2,28 +2,28 @@
     "dataList": [
         {
             "id": 837804,
-            "name": "<line-height=120%>Starved and Withered\u200B</line-height>",
-            "desc": "Gain [StarvingPriestTwo] at the start of the Encounter"
+            "name": "<line-height=120%>Starved และ Withered\u200B</line-height>",
+            "desc": "ได้รับ [StarvingPriestTwo] at the start of the Encounter"
         },
         {
             "id": 837801,
             "name": "<line-height=120%>Unctio Extrema\u200B</line-height>",
-            "desc": "Turn End: activate [Laceration] on self. (max 50; consume 1 [Laceration] Count on self) Heal 50 HP to Core and Part of an allied Bloodfiend with the least HP (does not activate if all allies are at full HP)"
+            "desc": "Turn End: activate [Laceration] on self. (สูงสุด 50; consume 1 [Laceration] Count on self) ฟื้นฟู 50 HP to Core และ Part of an allied Bloodfiend with the least HP (does not activate if พันธมิตรทุกคน are at full HP)"
         },
         {
             "id": 837802,
             "name": "<line-height=120%>Sacramentum Paenitentiae\u200B</line-height>",
-            "desc": "Turn End: lose 5 SP and heal 10 SP for an allied Bloodfiend with the least SP (does not activate if there aren't any allies with SP)"
+            "desc": "Turn End: lose 5 ค่าสติ และ ฟื้นฟู 10 ค่าสติ for an allied Bloodfiend with the least ค่าสติ (does not activate if there aren't any พันธมิตร with ค่าสติ)"
         },
         {
             "id": 837803,
             "name": "<line-height=120%>Ailing Heart\u200B</line-height>",
-            "desc": "Gains new patterns based on [WornHeart] value on self\nTurn End: gain 1 [WornHeart]"
+            "desc": "Gains new patterns based on [WornHeart] value on self\nTurn End: ได้รับ 1 [WornHeart]"
         },
         {
             "id": 837805,
             "name": "<line-height=120%>Bloodied Hand\u200B</line-height>",
-            "desc": "- At 10+ [BloodyHand], convert them to [BloodyHand_2nd].\n- At 20+ [BloodyHand_2nd], convert them to [BloodyHand_3rd]."
+            "desc": "- เมื่อมี 10+ [BloodyHand], convert them to [BloodyHand_2nd].\n- At 20+ [BloodyHand_2nd], convert them to [BloodyHand_3rd]."
         },
         {
             "id": 837901,
@@ -33,53 +33,53 @@
         {
             "id": 837902,
             "name": "<line-height=120%>Grimy Iron Stake\u200B</line-height>",
-            "desc": "When hitting an enemy using a single-Coin Skill, inflict 3 [Laceration] Potency. Inflict 2 [DefenseDown] until the end of the next turn.\nIf the target already has [Laceration], inflict 5 [Laceration] Potency instead"
+            "desc": "เมื่อ hitting an enemy using a single-Coin Skill, มอบ 3 [Laceration] Potency. มอบ 2 [DefenseDown] until the end of the ในเทิร์นหน้า\nหาก theเป้าหมายalready has [Laceration], มอบ 5 [Laceration] Potency instead"
         },
         {
             "id": 837903,
             "name": "<line-height=120%>To Remember\u200B</line-height>",
-            "desc": "If this unit was Staggered due to the Turn End effect of A Sad Embrace, gain 10 [FaintMemory] at the next Turn Start"
+            "desc": "หากยูนิทนี้ was Staggered due to the Turn End effect of A Sad Embrace, ได้รับ 10 [FaintMemory] at the ในเทิร์นหน้า Start"
         },
         {
             "id": 837904,
             "name": "<line-height=120%>To Love\u200B</line-height>",
-            "desc": "If at less than or equal to 30% HP at Turn End: instead of inflicting 3 [AffectionTeddy] to all enemies, gain 15 [AttackDown] next turn (once per Encounter)"
+            "desc": "หากมี less than or equal to 30% HP เมื่อจบเทร์น: instead of มอบing 3 [AffectionTeddy] to all enemies, ได้รับ 15 [AttackDown] ในเทิร์นหน้า (once per Encounter)"
         },
         {
             "id": 837905,
             "name": "<line-height=120%>Please Don't be Sick\u200B</line-height>",
-            "desc": "Base Power -1 for every 3 types of negative effects on the target (max 3)"
+            "desc": "Base Power -1 for every 3 types of negative effects on theเป้าหมาย(สูงสุด 3)"
         },
         {
             "id": 837301,
             "name": "<line-height=120%>Sin Resistance\u200B</line-height>",
-            "desc": "Unless this unit is Staggered or Part Broken, take 50% less [Laceration] damage"
+            "desc": "Unlessยูนิทนี้ is Staggered or Part Broken, take 50% less [Laceration] ความเสียหาย"
         },
         {
             "id": 837401,
             "name": "<line-height=120%>Sin Resistance\u200B</line-height>",
-            "desc": "Unless this unit is Staggered or Part Broken, take only half of Critical Damage."
+            "desc": "Unlessยูนิทนี้ is Staggered or Part Broken, take only half of Critical ความเสียหาย."
         },
         {
             "id": 837501,
             "name": "<line-height=120%>Carmilla\u200B</line-height>",
-            "desc": "Turn Start: to a random enemy, deal fixed damage equal to 5% of their HP."
+            "desc": "Turn Start: to a random enemy, ทำ fixed ความเสียหาย equal to 5% of their HP."
         },
         {
             "id": 837502,
             "name": "<line-height=120%>A Drop of Nourishment\u200B</line-height>",
-            "desc": "After Attack: heal Core and Part equal to 50% of the damage this unit dealt with its Attack Skill\n- At 100% HP, gain 2 [AttackUp] next turn. (2 times max)\nBased on the percentage of HP healed, gain the following effects (cumulative)\n- At 1+ Stack: gain 3 Defense Level Up at every Turn Start\n- At 2+ Stack: gain 3 [AttackUp] at every Turn Start\n- At 3+ Stack: gain +2 Min & Max Speed\n- At 5+ Stack: gain 3 [Enhancement] at every Turn Start"
+            "desc": "หลังจากAttack: heal Core และ Part equal to 50% of the ความเสียหายยูนิทนี้ dealt with its Attack Skill\n- เมื่อมี 100% HP, ได้รับ 2 [AttackUp] ในเทิร์นหน้า (2 times max)\nBased on the percentage of HP healed, ได้รับ the following effects (cumulative)\n- At 1+ Stack: ได้รับ 3 Defense Level Up at every Turn Start\n- At 2+ Stack: ได้รับ 3 [AttackUp] at every Turn Start\n- At 3+ Stack: ได้รับ +2 Min & สูงสุด Speed\n- เมื่อมี 5+ Stack: ได้รับ 3 [Enhancement] at every Turn Start"
         },
         {
             "id": 837503,
             "name": "<line-height=120%>A Single Strangling Flower\u200B</line-height>",
-            "desc": "After Attack: inflict 1 [TinyCarmilla]\nIf the target has [Laceration], inflict 1 additional [TinyCarmilla] After Attack"
+            "desc": "หลังจากAttack: มอบ 1 [TinyCarmilla]\nหาก theเป้าหมายhas [Laceration], มอบ 1 additional [TinyCarmilla] หลังจากAttack"
         },
         {
             "id": 837601,
             "name": "<line-height=120%>Spiked Whip\u200B</line-height>",
-            "desc": "If the target has [Burst] immediately before attack, 20% chance to inflict +1 [Burst] Count\nWhen inflicting [ThornNoose], generate a 'Barbed Lasso' Unit.",
-            "summary": "If the target has [Burst] immediately before attack, 20% chance to inflict +1 [Burst] Count"
+            "desc": "หาก theเป้าหมายhas [Burst] immediately before attack, 20% chance to มอบ +1 ขั้น [Burst]\nเมื่อ มอบing [ThornNoose], generate a 'Barbed Lasso' Unit.",
+            "summary": "หาก theเป้าหมายhas [Burst] immediately before attack, 20% chance to มอบ +1 ขั้น [Burst]"
         },
         {
             "id": 837602,
@@ -89,163 +89,163 @@
         {
             "id": 837603,
             "name": "<line-height=120%>Interlocking Brambles\u200B</line-height>",
-            "desc": "At 40%- HP, gain a new pattern\nEvery turn, inflict [Burst] equal to each enemy's Speed against each enemy\nInflict 2 [ThornNoose] instead\nGain 2 [AttackUp] and [DefenseDown] with every passing turn (max 12)"
+            "desc": "At 40%- HP, ได้รับ a new pattern\nEvery turn, มอบ [Burst] equal to each enemy's Speed against each enemy\nมอบ 2 [ThornNoose] instead\nGain 2 [AttackUp] และ [DefenseDown] with every passing turn (สูงสุด 12)"
         },
         {
             "id": 838006,
             "name": "<line-height=120%>In Dreams\u200B</line-height>",
-            "desc": "Encounter Start: gain [Dreamy].\nEncounter Start: the sleeping blood drenching the battlefield will surface, increasing [BloodDinner] by 400."
+            "desc": "Encounter Start: ได้รับ [Dreamy].\nEncounter Start: the sleeping blood drenching the battlefield will surface, increasing [BloodDinner] by 400."
         },
         {
             "id": 838001,
             "name": "<line-height=120%>The Enthralling Tales, the Beating Passion\u200B</line-height>",
-            "desc": "Upon hitting 80%, 60%, and 40% HP, no longer take damage and gain a new pattern\nUpon gaining a new pattern, recover from Stagger and raise Speed to 10 next turn"
+            "desc": "Upเมื่อโจมตีโดนting 80%, 60%, และ 40% HP, no longer take ความเสียหาย และ ได้รับ a new pattern\nUpon gaining a new pattern, recover จาก Stagger และ raise Speed to 10 ในเทิร์นหน้า"
         },
         {
             "id": 838002,
-            "name": "<line-height=120%>If we can be freed from this excruciating sickness\u200B</line-height>",
-            "desc": "On Hit, if the target has [Laceration], heal Part and Core by 40% of the damage dealt.\n- This Passive heals +1% more HP for every [Laceration] Potency on self (max 20%)\n- For Unbreakable Coins: this effect does not activate on Hit After Clash Lose.\nEvery Turn Start: heal ([BloodDinner]/10) HP. (max 50)\nEvery Turn Start: at -15 or less SP, consume (20 - current SP) [BloodDinner] to gain SP and gain 2 Clash Power Up\nOn Kill, gain 5 [BloodArmor]",
-            "summary": "On Hit, if the target has [Laceration], heal HP"
+            "name": "<line-height=120%>หาก we can be freed จาก this excruciating sickness\u200B</line-height>",
+            "desc": "เมื่อโจมตีโดน, หากเป้าหมายมี [Laceration], heal Part และ Core by 40% of the ความเสียหาย dealt.\n- This Passive heals +1% more HP for every [Laceration] Potency on self (สูงสุด 20%)\n- For Unbreakable Coins: this effect does not activate เมื่อโจมตีโดน หลังจากClash Lose.\nEvery Turn Start: heal ([BloodDinner]/10) HP. (สูงสุด 50)\nEvery Turn Start: at -15 or less ค่าสติ, consume (20 - current ค่าสติ) [BloodDinner] to ได้รับ ค่าสติ และ ได้รับ 2 Clash Power Up\nOn Kill, ได้รับ 5 [BloodArmor]",
+            "summary": "เมื่อโจมตีโดน, หากเป้าหมายมี [Laceration], heal HP"
         },
         {
             "id": 838003,
             "name": "<line-height=120%>Can I go on an adventure, too?\u200B</line-height>",
-            "desc": "Turn End: Min & Max Speed +1 next turn for every 300 [BloodDinner]"
+            "desc": "Turn End: Min & สูงสุด Speed +1 ในเทิร์นหน้า for every 300 [BloodDinner]"
         },
         {
             "id": 838004,
             "name": "<line-height=120%>Bloodfeast\u200B</line-height>",
-            "desc": "If this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit.\nWhen this unit enters the field, the sleeping blood drenching the battlefield will flood the surface."
+            "desc": "หากยูนิทนี้ is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] ความเสียหาย collectively received by every unit.\nเมื่อยูนิทนี้ enters the field, the sleeping blood drenching the battlefield will flood the surface."
         },
         {
             "id": 838005,
             "name": "<line-height=120%>Hardblood\u200B</line-height>",
-            "desc": "Combat Start: gain 1 [BloodArmor]\n- [BloodArmor] cannot drop below 1\n- At 10+ [BloodArmor], convert them to [BloodArmor_2nd].\n- At 20+ [BloodArmor], convert them to [BloodArmor_3rd].\nGain Min & Max Speed based on the Stage of this effect (max 2)\nIf this unit consumes [BloodArmor] and drops below the above thresholds, revert to previous Stages accordingly"
+            "desc": "Combat Start: ได้รับ 1 [BloodArmor]\n- [BloodArmor] cannot drop below 1\n- เมื่อมี 10+ [BloodArmor], convert them to [BloodArmor_2nd].\n- At 20+ [BloodArmor], convert them to [BloodArmor_3rd].\nGain Min & สูงสุด Speed based on the Stage of this effect (สูงสุด 2)\nหากยูนิทนี้ consumes [BloodArmor] และ ต่ำกว่า the above thresholds, revert to previous Stages accordingly"
         },
         {
             "id": 838007,
-            "name": "<line-height=120%>But I have my Father and my Family whom I cannot abandon\u200B</line-height>",
-            "desc": "Turn End: If Panicked, recover from Panic, and consume 100 [BloodDinner] to gain 3 [Enhancement]\n- If this unit failed to consume [BloodDinner], gain 30 [Laceration], 3 [Enhancement], and 2 Damage Up"
+            "name": "<line-height=120%>But I have my Father และ my Family whom I cannot abandon\u200B</line-height>",
+            "desc": "Turn End: หาก Panicked, recover จาก Panic, และ consume 100 [BloodDinner] to ได้รับ 3 [Enhancement]\n- หากยูนิทนี้ failed to consume [BloodDinner], ได้รับ 30 [Laceration], 3 [Enhancement], และ 2 [AttackDmgUp]"
         },
         {
             "id": 837701,
             "name": "<line-height=120%>Barbed Lasso \u200B</line-height>",
-            "desc": "When this unit dies, the [ThornNoose] of the enemy bound to this unit expires"
+            "desc": "เมื่อยูนิทนี้ dies, the [ThornNoose] of the enemy bound toยูนิทนี้ expires"
         },
         {
             "id": 839401,
             "name": "<line-height=120%>Designated Protection\u200B</line-height>",
-            "desc": "At Turn Start, apply 2 Defense Level Up to the ally who lost the most HP percentage between this Turn and last Turn"
+            "desc": "เมื่อเริ่มเทิร์น, apply 2 Defense Level Up to the ally who lost the most HP percentage between this Turn และ last Turn"
         },
         {
             "id": 840301,
             "name": "<line-height=120%>Shattering, Scattering Hardblood\u200B</line-height>",
-            "desc": "When this unit is killed due to enemy attack or Status effect damage, increase [BloodDinner] by 30, and increase E.G.O resource of a random Affinity by 2. Does not activate if this unit killed itself."
+            "desc": "เมื่อยูนิทนี้ is killed due to enemy attack or Status effect ความเสียหาย, increase [BloodDinner] by 30, และ increase E.G.O resource of a random Affinity by 2. Does not activate ifยูนิทนี้ killed itself."
         },
         {
             "id": 840302,
-            "name": "<line-height=120%>This Explosive Insanity!\u200B</line-height>",
-            "desc": "If this unit is still alive by Turn End, use the self-detonation Skill next turn. If this unit is still alive at the same Turn End as the turn this unit used the self-detonation Skill, dies."
+            "name": "<line-height=120%>This Explosive Inค่าสติ!\u200B</line-height>",
+            "desc": "หากยูนิทนี้ is still alive by Turn End, use the self-detonation Skill ในเทิร์นหน้า หากยูนิทนี้ is still alive at the same Turn End as the turnยูนิทนี้ used the self-detonation Skill, dies."
         },
         {
             "id": 839001,
             "name": "<line-height=120%>Fix Core HP to 1\u200B</line-height>",
-            "desc": "Core HP does not drop below 1."
+            "desc": "Core HP ไม่ลดต่ำไปกว่า 1."
         },
         {
             "id": 839002,
-            "name": "<line-height=120%>La Manchaland, Abandoned and Festering\u200B</line-height>",
-            "desc": "Generates Gondolas filled with Bloodfiends and Bloodbags at a set interval. A certain number of Bloodfiends and Bloodbags may arrive to the field when when a Gondola is generated."
+            "name": "<line-height=120%>La Manchaland, Abandoned และ Festering\u200B</line-height>",
+            "desc": "Generates Gondolas filled with Bloodfiends และ Bloodbags at a set interval. A certain number of Bloodfiends และ Bloodbags may arrive to the field when when a Gondola is generated."
         },
         {
             "id": 839003,
-            "name": "<line-height=120%>The Eternal Cycle of Windmills, Wheels, and Us\u200B</line-height>",
-            "desc": "Cannot be attacked when there is a Gondola on the field.\nDoes not lose HP due to Skill damage. Does not take HP damage due to [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]."
+            "name": "<line-height=120%>The Eternal Cycle of Windmills, Wheels, และ Us\u200B</line-height>",
+            "desc": "Cannot be attacked when there is a Gondola on the field.\nDoes not lose HP due to Skill ความเสียหาย. Does not take HP ความเสียหาย due to [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]."
         },
         {
             "id": 839004,
             "name": "<line-height=120%>Here we go... another lap.\u200B</line-height>",
-            "desc": "If [FerrisWheel] is at 0 and there are no units to be spawned next turn at Turn End or during the combat phase, move on to the next phase."
+            "desc": "หาก [FerrisWheel] is at 0 และ there are no units to be spawned ในเทิร์นหน้า เมื่อจบเทร์น or during the combat phase, move on to the next phase."
         },
         {
             "id": 839005,
-            "name": "<line-height=120%>Starved and Withered\u200B</line-height>",
-            "desc": "Gain [StarvingDonqui] at the start of the Encounter"
+            "name": "<line-height=120%>Starved และ Withered\u200B</line-height>",
+            "desc": "ได้รับ [StarvingDonqui] at the start of the Encounter"
         },
         {
             "id": 841001,
             "name": "<line-height=120%>Returning Bloodlust\u200B</line-height>",
-            "desc": "- At 10+ [RegainedStrength], convert them to [RegainedStrength_2nd].\n- At 20+ [RegainedStrength], convert them to [RegainedStrength_3rd].\n- If this unit consumes [RegainedStrength] and drops it below the above thresholds, revert to previous Stages accordingly"
+            "desc": "- เมื่อมี 10+ [RegainedStrength], convert them to [RegainedStrength_2nd].\n- At 20+ [RegainedStrength], convert them to [RegainedStrength_3rd].\n- หากยูนิทนี้ consumes [RegainedStrength] และ drops it below the above thresholds, revert to previous Stages accordingly"
         },
         {
             "id": 841002,
             "name": "<line-height=120%>Don Quixote Hardblood Arts\u200B</line-height>",
-            "desc": "On Hit, if the target has [Laceration], heal this unit's Part & Core by 30% of the HP damage dealt.\nFor Unbreakable Coins: this effect does not activate on Hit after Clash Lose."
+            "desc": "เมื่อโจมตีโดน, หากเป้าหมายมี [Laceration], healยูนิทนี้'s Part & Core by 30% of the HP ความเสียหาย dealt.\nFor Unbreakable Coins: this effect does not activate เมื่อโจมตีโดน หลังจากClash Lose."
         },
         {
             "id": 841003,
             "name": "<line-height=120%>An Unfamiliar Banquet\u200B</line-height>",
-            "desc": "If this unit healed more than 15% of its max HP, or siphoned the enemy's [Laceration], gain 3 [Binding] next turn. (once per turn)\nIf this unit killed the target with its Skill, gain 2 [AttackDown] and 1 [DefenseDown] next turn. (3 times per turn)"
+            "desc": "หากยูนิทนี้ healed more than 15% of its HP สูงสุด, or siphoned the enemy's [Laceration], ได้รับ 3 [Binding] ในเทิร์นหน้า (once per turn)\nหากยูนิทนี้ killed theเป้าหมายwith its Skill, ได้รับ 2 [AttackDown] และ 1 [DefenseDown] ในเทิร์นหน้า (3 times per turn)"
         },
         {
             "id": 841004,
             "name": "<line-height=120%>For the Family...\u200B</line-height>",
-            "desc": "Turn End: If Panicked, recover from Panic at the next Turn Start and reset SP to 0.\nWhen recovering from Panic:\n- Consume 30 [BloodDinner] to gain 2 [Enhancement] and 1 [Agility] next turn, and heal 30 SP.\n- If this unit failed to consume [BloodDinner], gain 40 [Laceration], immediately take the damage from [Laceration], then lose 5 [Laceration] Count.\n- Then, gain 2 [Enhancement] next turn and heal 30 SP"
+            "desc": "Turn End: หาก Panicked, recover จาก Panic at the ในเทิร์นหน้า Start และ reset ค่าสติ to 0.\nเมื่อ recovering จาก Panic:\n- Consume 30 [BloodDinner] to ได้รับ 2 [Enhancement] และ 1 [Agility] ในเทิร์นหน้า, และ ฟื้นฟู 30 ค่าสติ.\n- หากยูนิทนี้ failed to consume [BloodDinner], ได้รับ 40 [Laceration], immediately take the ความเสียหาย จาก [Laceration], จากนั้น lose 5 [Laceration] Count.\n- Then, ได้รับ 2 [Enhancement] ในเทิร์นหน้า และ ฟื้นฟู 30 ค่าสติ"
         },
         {
             "id": 841101,
             "name": "<line-height=120%>Broken Fragment of a Futile, Naive Dream\u200B</line-height>",
-            "desc": "If this unit is eliminated, increase [BloodDinner] by 30\nWhen killed by a Sinner, generate Memories of the Dreaming Adventure"
+            "desc": "หากยูนิทนี้ is eliminated, increase [BloodDinner] by 30\nเมื่อ killed by a Sinner, generate Memories of the Dreaming Adventure"
         },
         {
             "id": 841102,
             "name": "<line-height=120%>A Selfish Wish at the Expense of the Family\u200B</line-height>",
-            "desc": "When killed by Don Quixote:\n- Don Quixote gains 5 [RegainedStrength].\n- All Sinners take 30 Lust damage and gain 8 [Laceration] Potency and Count."
+            "desc": "เมื่อ killed by Don Quixote:\n- Don Quixote gains 5 [RegainedStrength].\n- All Sinners take 30 Lust ความเสียหาย และ ได้รับ 8 [Laceration] Potency และ Count."
         },
         {
             "id": 841301,
             "name": "<line-height=120%>Memories of the Journeys Past\u200B</line-height>",
-            "desc": "All Sinners gain 5 SP at every Turn Start.\nDon Quixote the Sinner gains a special effect"
+            "desc": "All Sinners ได้รับ 5 ค่าสติ at every Turn Start.\nDon Quixote the Sinner gains a special effect"
         },
         {
             "id": 841302,
             "name": "<line-height=120%>Reminders of Determination\u200B</line-height>",
-            "desc": "When killed by Don Quixote: Don Quixote gains 3 [Reduction] this turn and next turn."
+            "desc": "เมื่อ killed by Don Quixote: Don Quixote gains 3 [Reduction] this turn และ ในเทิร์นหน้า"
         },
         {
             "id": 841201,
             "name": "<line-height=120%>Hardblood Wedge Gaol\u200B</line-height>",
-            "desc": "When this unit is eliminated, the ally who was impaled by this unit will lose the [Penetration] status next turn."
+            "desc": "เมื่อยูนิทนี้ is eliminated, the ally who was impaled byยูนิทนี้ will lose the [Penetration] status ในเทิร์นหน้า"
         },
         {
             "id": 841202,
             "name": "<line-height=120%>Shattering, Scattering Hardblood\u200B</line-height>",
-            "desc": "When this unit is eliminated, gain 3 E.G.O resources for the least-owned E.G.O resource."
+            "desc": "เมื่อยูนิทนี้ is eliminated, ได้รับ 3 E.G.O resources for the least-owned E.G.O resource."
         },
         {
             "id": 841203,
             "name": "<line-height=120%>Internal Blood Crystallization\u200B</line-height>",
-            "desc": "If this unit is not eliminated by the turn after its generation, this unit will be eliminated at Turn End, activating the following effect.\nThe ally who was impaled by this unit takes fixed damage equal to 30% of their max HP, and gains 10 [Laceration] Potency and +5 [Laceration] Count."
+            "desc": "หากยูนิทนี้ is not eliminated by the turn หลังจากits generation,ยูนิทนี้ will be eliminated เมื่อจบเทร์น, activating the following effect.\nThe ally who was impaled byยูนิทนี้ takes fixed ความเสียหาย equal to 30% of their HP สูงสุด, และ gains 10 [Laceration] Potency และ +5 [Laceration] Count."
         },
         {
             "id": 841204,
             "name": "<line-height=120%>Total Blood Coagulation\u200B</line-height>",
-            "desc": "When killed by true Don Quixote, activate the on-death effect, and the ally impaled by this unit will be killed."
+            "desc": "เมื่อ killed by true Don Quixote, activate the on-death effect, และ the ally impaled byยูนิทนี้ will be killed."
         },
         {
             "id": 841103,
             "name": "<line-height=120%>I never should've dreamed this irresponsible dream\u200B</line-height>",
-            "desc": "If this unit has [Precarious], Memories of the Dreaming Adventure will not be generated on death"
+            "desc": "หากยูนิทนี้ has [Precarious], Memories of the Dreaming Adventure will not be generated on death"
         },
         {
             "id": 839006,
             "name": "<line-height=120%>The Golden Bough's Forced Arbitration\u200B</line-height>",
-            "desc": "Encounter Start: gain [ConfinementOfGoldenBranch]."
+            "desc": "Encounter Start: ได้รับ [ConfinementOfGoldenBranch]."
         },
         {
             "id": 841005,
             "name": "<line-height=120%>Please, try again\u200B</line-height>",
-            "desc": "When gaining a new pattern, halve the Potency of [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] on this unit's Parts."
+            "desc": "เมื่อ gaining a new pattern, halve the Potency of [Combustion], [Laceration], [Vibration], [Burst], และ [Sinking] onยูนิทนี้'s Parts."
         },
         {
             "id": 841104,
